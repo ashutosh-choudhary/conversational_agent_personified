@@ -1,0 +1,346 @@
+NARRATOR: (over) It is the mid 22nd Century.  Mankind has explored the boundaries of his own solar system, and now he reaches out to the endless interstellar distances of the universe.  He moves away from his own small planetary system in huge hyperdrive starships: computer-driven, self-supporting, closed-system spacecraft that travel at mind-staggering post-light velocities.  Man has begun to spread among the stars.  Enormous ships embark with generations of colonists searching the depths of space for new earths, now homes, new beginnings.  Far in advance of these colony ships goes a new pioneer: the scouts, the pathfinders, a special breed of man who has dedicated his life to blazing the trail through the most distant, unexplored galaxies, opening up the farthest frontiers of space.  These are the men of the Advance Exploration Corps.  The task they face is one of unbelievable isolation and loneliness.  So far from home that Earth is no longer even a point of light in the sky, they must comb the universe for those unstable planets whose existence poses a threat to the peaceful colonists that follow. They must find these rogue planets -- and destroy them.  Among these commandos are the men of the scoutship Dark Star.
+DOOLITTLE: (over -- radio filter) Ah, what'd you say, Pinback?
+PINBACK: (over -- great static) Mafhkin oble groop...
+DOOLITTLE: (over -- filter) Ah, what was that again, I still can't hear you?
+PINBACK: (over -- filter) I said I'm trying to reach Talby. Something's wrong with the damn intercom.  I need a last-minute diameter approximation.
+DOOLITTLE: (over -- filter) Talby, Talby, this is Doolittle.  Do you read me?  Talby?
+DOOLITTLE: (cont'd -- over -- filter) Talby, do you read me?
+DOOLITTLE: (cont'd)
+TALBY: (snaps out of it) Oh!  Ah, yes, Doolittle.  What is it?
+DOOLITTLE: I need a diameter approximation.
+TALBY: (over) Okay, Doolittle, I'll have it in a minute.
+PINBACK: I need a GHF reading on the gravity correction.
+DOOLITTLE: I'll check it.
+BOILER: I have a reduced drive reading of seven thousand.
+PINBACK: Right, that checks out here.
+DOOLITTLE: Pinback...
+PINBACK: Yes, Doolittle.
+DOOLITTLE: Your GHF reading is minus fifteen.
+PINBACK: Doolittle...
+DOOLITTLE: Yes.
+PINBACK: I need a computer reading on a fail- safe mark.
+DOOLITTLE: In a second.
+PINBACK: Boiler, can you set me up with some temp figures?
+BOILER: Ninety seven million, minus eight, corrected to mass critical.
+PINBACK: I read that with a quantum increase of seven.
+DOOLITTLE: Pinback, I have a computer reading of nine five seven seven.
+BOILER: Time to start talking.
+PINBACK: Bomb bay systems operational.
+NARRATOR: (over) This is a chain-reaction bomb, otherwise known as an Exponential Thermostellar Device.  Its own destructive power is small, barely enough to vaporize twelve city blocks.  However, when it explodes in contact with an object the size of a planet, it starts a chain-reaction in the very matter of that planet, turning it into a giant reactor which destroys itself in one staggering thermal flash. These bombs are equipped with sophisticated thought and speech mechanisms, to allow them to make executive decisions in the event of a crisis situation.  These judgment centers are controlled by a fail- safe mechanism.
+DOOLITTLE: Lock fail safe.
+PINBACK: Fail-safe locked.  Ah, Sergeant Pinback call1ng Bomb #19.  Do you read me, bomb?
+BOMB #19: Bomb #19 to Sergeant Pinback, I read you.  Continue.
+PINBACK: Well, bomb, we have about sixty seconds to drop.  Just wondering if everything is all right.  Have you checked your platinum euridium energy shielding?
+BOMB #19: Energy shielding positive function.
+PINBACK: Swell.  Let's synchronize detonation time.  Do you know when you're supposed to go off?
+BOMB #19: Detonation in six minutes, twenty seconds.
+PINBACK: All right, I have detonation time at... Wait a minute, something's wrong with the clock. (hits panel) All right, I have detonation time at... no, that can't be right, it says three years. (beats panel again) Okay, I have six minutes exactly. Does that check out down there?
+BOMB #19: Check at six minutes.
+PINBACK: Arm yourself, bomb.
+BOMB #19: Armed.
+PINBACK: Well, then, everything sounds fine. We'll drop you off in thirty-five seconds.  Good luck.
+BOMB #19: Thanks.
+PINBACK: Begin main sequence.  Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+DOOLITTLE: Hyperdrive sequence begun.  Hit it, Pinback.
+TALBY: Lieutenant Doolittle, it just exploded. (pause) Ah, sir, the planet just exploded. (pause -- he shakes the microphone) Lieutenant?
+DOOLITTLE: Unlock fail safe.
+PINBACK: Fail safe unlocked.
+RECORDED VOICE: Attention.  Attention.  The hyperdrive sequence is now terminated.  Please observe that the no smoking signs have growrrr...
+DOOLITTLE: Well... now what?  What do, you have for us now.  Boiler?
+BOILER: (checking his readouts) Not much.  Nothing at all in this sector.
+DOOLITTLE: Find me something, I don't care where it is.
+BOILER: Well, I show a 95% probability of sentient life in the Horsehead Nebula...
+DOOLITTLE: Fuck that shit.
+BOILER: Well, it is kind of a long shot...
+DOOLITTLE: It's a goddamn wild goose chase. Remember when Commander Powell found that 99 plus probability of sentient life in the Magellanic Cloud?
+BOILER: Well, there's the possibility of...
+DOOLITTLE: Remember what we found?  Fourteen light years for a fucking mindless vegetable that looked like a limp balloon and went squawk and let a fart when you touched it.  Remember?
+BOILER: All right, then...
+DOOLITTLE: So don't give me any of that sentient life crap.  Find me something I can blow up.
+PINBACK: New star. (no reaction) Hey, guess what?  I got a new star on the readout.
+DOOLITTLE: (not looking up) Which one?
+PINBACK: Another unknown.  Not on the charts. A red dwarf.
+DOOLITTLE: Any planets?
+PINBACK: Yeah.  Eight, it says here.
+DOOLITTLE: Any of 'em any good?
+PINBACK: (scans the board) Naah.  All stable.
+PINBACK: (cont'd) What are you gonna name it?
+DOOLITTLE: (not looking up) What?
+PINBACK: The new star.  What are you gonna name it?
+DOOLITTLE: Who cares.  Don't bother me.
+PINBACK: Commander Powell would have named it.
+DOOLITTLE: Commander Powell is dead.
+PINBACK: Come on, Doolittle, give it a name.
+DOOLITTLE: Fred.
+PINBACK: Wha?
+DOOLITTLE: I hereby name this star Fred.
+BOILER: Hey, Doolittle, here's one.  An unstable planet.  85% probability of an unstable planet in the Veil Nebula that will probably go off its orbit and hit a star.
+DOOLITTLE: Sounds good.  Chart a course for the Veil Nebula.
+BOILER: Pinback, throw me the chart log.
+DOOLITTLE: Let's have some music in here, Boiler.
+DOOLITTLE: Ship's log, entry number 1,943. Dark Star cruising at light speed through Sector Theta 990.  En route to Veil Nebula for destruction of unstable planet.  Our ETA is 1700 hours. (thinks) Ship's systems continue to deteriorate...
+DOOLITTLE: (cont'd) The short circuit in the rear seat panel which killed Commander Powell continues to be faulty. (thinks) Uh... Storage Area 9...
+DOOLITTLE: (cont'd) And because he's sitting next to it, it continues to bother Pinback. (glares at Pinback. Then:) Storage Area 9 self-destructed last week, destroying entire ship's supply of toilet paper.  That's all.
+DOOLITTLE: Talby.
+DOOLITTLE: (cont'd) Here's some breakfast.
+DOOLITTLE: (cont'd) You know, Talby, you really ought to eat with the rest of us.  You spend too much time up here.
+TALBY: I like it up here.
+DOOLITTLE: Must get lonely being up here so much.
+TALBY: I don't like to go below since Commander Powell died.  I feel enclosed down there.  If it were big enough, I'd sleep up here...
+DOOLITTLE: ... Should spend some time below, see more of the rest of the ship...
+TALBY: ... You see, I can watch things up here, Doolittle.  I love to watch things, just stare at the planets and meteors and asteroids, gas clusters...
+DOOLITTLE: You'll have plenty of time for that, you know.  Figure it this way: twenty years in space and we've only aged three, so there'll be plenty of time to stare around...
+TALBY: You know, Doollttle, if we're going into the Veil Nebula, we may actually find a strange and beautiful thing: the Phoenix Asteroids.  They should be passing through there about now...
+DOOLITTLE: Phoenix Asteroids?  Never heard of 'em.
+TALBY: They are a body of asteroids that make a complete circuit of the universe once every 12.3 trillion years.  The Phoenix Asteroids... From what I've heard, Doolittle, they glow... glow with all the colors of the rainbow.  Nobody knows why.  They just glow as they drift around the universe.  Imagine all the sights they've seen in the time they've been travelling -- the birth and death of stars, things we'll never see.  The universe is alive, Doolittle.  I thought it was all empty, but it isn't.  In between the stars, it's seething with light and gasses and dust.  There are little pebbles drifting around, planets no one on Earth has ever seen... No one but the Phoenix Asteroids...
+DOOLITTLE: You know what I think about, Talby?
+TALBY: I'm getting something here, on this readout...
+DOOLITTLE: It's funny, but I kind of sit around, you know, a lot of time to myself...
+TALBY: I think I'm getting a malfunction here somewhere.
+DOOLITTLE: I can't talk to the others, but with time to myself, I think about back home, back home at Malibu.  I used to surf a lot, Talby.  I used to be a great surfer.
+TALBY: Lieutenant Doolittle, I'm getting a definite malfunction on one of the closed-circuit computer systems...
+DOOLITTLE: The waves at Malibu and Zuma were fantastic in the springs Talby.  I can remember running out on the beach early spring mornings with my board and a wet suit...
+TALBY: I can't seem to locate the malfunction exactly...
+DOOLITTLE: Waves would be peaking really high and glassy.  Hit that water.  Ridin' the wall just perfect.
+TALBY: ... Somewhere in the autonomic relay circuits...
+DOOLITTLE: I guess I miss the waves and my board most of all.
+TALBY: Ah, Doolittle, I do have a malfunction on this readout, but I can't seem to pinpoint exactly where it is.
+DOOLITTLE: (snapped out of his daydream) Don't worry about it.  We'll find out when it goes bad.
+TALBY: (chagrined) I really think I should try and locate it immediately.  Might be something important.
+DOOLITTLE: I wish I had my board with me now. Even if I could only polish it once in awhile.
+BOILER: I'm getting this flickering light on one of my panels.
+PINBACK: What flickering light?
+BOILER: The one on unit... oh, I think it's GMR twelve zero zero.
+PINBACK: Oh.  What's wrong now?
+BOILER: I'm not sure.  I think something is fucked up somewhere in the ship, though.
+PINBACK: I hope it's not the oven again.
+BOILER: Yeah.
+PINBACK: Remember when the artificial gravity, went out in the toilet?
+PINBACK: Hey, Doolittle, think we'll ever find real intelligent life out there?
+DOOLITTLE: Out where?
+PINBACK: Veil nebula.
+DOOLITTLE: Who cares?
+MISSION CONTROLLER: Hi, guys.  Glad to get your message. We gather from the ten-year communications lag that you are approximately 18 parsecs away.  Drop us a line more often, won't you? Sorry to hear about all the malfunctions, and real sorry to hear about the death of Commander Powell. There was a week of mourning all over Earth.  The flags were at half mast. Now I hate to send bad news when you guys are up there doing such a swell job, but something's come up, and we all felt you ought to know about it. Our systems simulation computer has predicted that by the time this message reaches you -- that is to say, in about ten years -- there will be a failure in one of your vital ship's systems.  The malfunction will occur in -- (rifles papers) -- system number E180246.  You can see what a problem this would be if you didn't catch it on time.  Now what you should do is this: First, do not, repeat, do not attempt to adjust the system manually. Second --
+TALBY: Lieutenant Doolittle, this is Talby. Lieutenant?
+DOOLITTLE: (over -- filter) Yes, Talby, what is it?
+TALBY: Sorry to interrupt your lunch, sir, but I'm in the Computer Room, and I think I've located the malfunction. The scanner shows it to be some sort of fault in the communications laser, down by the Emergency Air Lock.  Can't pinpoint it exactly, but I'm going down there with a starsuit and try to find it.
+DOOLITTLE: Sounds good, Talby.  Let me know if anything important comes up.
+BOILER: Why doesn't Talby ever eat down here with the rest of us?
+DOOLITTLE: He just likes it up in the dome, that's all.
+BOILER: What's Talby's first name?
+DOOLITTLE: What's
+MISSION CONTROLLER: -- then repatch channel 12 and seal all the plates.  Don't mess with it and it should work okay.  I'm just glad we caught this thing before anything serious happened.  Keep up the good work, men.
+BOILER: There she is.  Definite 99%-plus probability that the planet is going to deviate from its normal orbit in another twelve thousand rotations. It'll spiral in toward its sun, and --
+PINBACK: Eventual supernova.
+DOOLITTLE: Good stuff.  Let's vaporize it.
+PINBACK: Bomb bay systems operational.
+DOOLITTLE: Lock fail safe.
+PINBACK: Fail safe in lock.  Four minutes to drop, 22 minutes to detonation.  This is Sergeant Pinback calling Bomb #20.  Do you read me, bomb?
+BOMB #20: Bomb #20 to Sergeant Pinback.  Roger, I read you, continue.
+RECORDED VOICE: You are now in the Emergency Air Lock.  Please remember that the Surface Door can be opened without prior depressurization, so be sure to wear your starsuit at all times. Thank you for observing all safety precautions.
+TALBY: Ah, Lieutenant Doolittle?  Sir?
+DOOLITTLE: Sh, Talby, don't bother me now.
+TALBY: Ah, well, I think I've found the malfunction, sir.  I'm in the Emergency Air Lock...
+DOOLITTLE: Not now!
+TALBY: (over -- filter) Well, I'm in the Emergency Air Lock and --
+PINBACK: One hundred twenty seconds to drop, bomb, have you checked your platinum euridium energy shielding?
+BOMB #20: Energy shielding positive function.
+PINBACK: Do you remember the detonation time?
+BOMB #2: Detonation in twenty minutes.
+PINBACK: Right, that synchronizes here.  Okay, bomb, arm yourself.
+BOMB #20: Armed.
+TALBY: Hello?  Lieutenant Doolittle?  Hello!
+RECORDED VOICE: Communications Laser #17, monitoring information relays and bomb bay systems, has now been activated and will switch into a test mode.  If you will look near the Surface Door, you will see that the Parallax Receptor Cell has been engaged.
+RECORDED VOICE: The laser will now energize.  Please stand clear of the path of the beam.
+RECORDED VOICE: Communications Laser #17 is now on test.  Under no circumstances enter the path of the beam.  Thank you for observing all safety precautions.
+PINBACK: Everything sounds fine, bomb. Dropping you off in sixty seconds. Good luck.
+BOMB #2: Thanks.
+BOILER: Quantum is up thirty-five.
+DOOLITTLE: I read the same here.
+TALBY: Doolittle.  Doolittle?  It you're there, I'm going to try to adjust the cue switch on the laser.
+TALBY: (cont'd) Well... here goes...
+RECORDED VOICE: Attention.  Attention.  The laser has malfunctioned.  Under no circumstances enter the path of the beam.  To do so will cause immediate --
+PINBACK: Begin main sequence.  Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+DOOLITTLE: I have a negative drop.  The bomb is still in the bomb bay.  Try it again, Pinback.
+PINBACK: Mark at 5-4-3-2-1-drop.
+DOOLITTLE: Ah, negative drop.
+DOOLITTLE: Rechannel all safety relays --
+BOILER: -- open quantum latches --
+PINBACK: -- open circuit breakers --
+DOOLITTLE: -- remove thrust drive repellant --
+PINBACK: -- automatic channels open --
+DOOLITTLE: --
+PINBACK: 5-4-3-2-1-drop, drop, drop!
+BOILER: Sittin' there.  It's just sittin' there.
+DOOLITTLE: This is Lieutenant Doolittle calling Bomb #20.  I repeat previous order, you are to disarm yourself and return immediately to the bomb bay. Do you understand?
+BOMB #20: (over) I am programmed to detonate in fourteen minutes thirty seconds. Detonation will occur at the programmed time.
+DOOLITTLE: Bomb, this is Doolittle.  You are not to detonate, repeat, you are not to detonate in the bomb bay.  Disarm yourself.  This is an order.
+BOMB #20: I read you, Lieutenant Doolittle, but I am programmed to detonate in fourteen minutes.  Detonation will occur at the programmed time.
+PINBACK: Fourteen minutes to detonation.
+RECORDED VOICE: Attention.  Attention.  The bomb has malfunctioned.  Automatic dampers have gone into effect, and will confine the explosion to an area one mile in diameter.  Please contact mission control and await further instructions.  Thank you for observing all safety precautions.
+DOOLITTLE: Only one thing to do.  I'll have to ask Commander Powell.  I'll have to ask him what to do.
+DOOLITTLE: Commander Powell?  Commander Powell, this is Doolittle.  Can you read me?
+POWELL: ... muffirup glurrinpinfropal...
+DOOLITTLE: Commander Powell, this is Doolittle. Ah, there's something serious come up, sir, and I have to ask you something.
+POWELL: (very weakly) I'm glad you've come to talk with me, Doolittle.  It's been so long since anyone has come to talk with me.
+DOOLITTLE: Commander, sir, we have a big problem.  You see, the Veil Nebula bomb, Bomb Number 20, is stuck.  It won't drop from the bomb bay.  It refuses to listen and plans to detonate in -- (checks watch) -- less than eleven minutes.
+POWELL: Doolittle, you must tell me one thing.
+DOOLITTLE: What's that, sir?
+POWELL: Tell me, Doolittle, how are the Dodgers doing?
+DOOLITTLE: Well, sir, the Dodgers broke up, disbanded over thirteen years ago.
+POWELL: Ah... pity, pity...
+DOOLITTLE: You don't understand, sir, we can't get the bomb to drop.
+POWELL: Ah, so many malfunctions... why don't you have anything nice to tell me when you activate me?  Oh, well, did you try the azimuth clutch?
+DOOLITTLE: Yes sir.  Negative effect.
+POWELL: What was that, Doolittle?
+DOOLITTLE: Negative effect.
+POWELL: It didn't work?
+DOOLITTLE: That's correct, sir.
+POWELL: Sorry, Doolittle.  I've forgotten so much since I've been in here.  So much.
+DOOLITTLE: What should we do, sir?  The time is running out.
+POWELL: Well, what you might try is --
+DOOLITTLE: Commander Powell?  Commander, hello!
+POWELL: Doolittle, hello?
+DOOLITTLE: Sorry, sir, you faded out there for a minute.
+POWELL: Sorry.
+DOOLITTLE: What were you saying, Commander, about the bomb?
+POWELL: Ah... it seems to me, Doolittle... Sorry, I've drawn a blank.  Hold it. I'll have it again in a minute.  I forget so many things in here, so many things.  Hold on, just a minute, let me think...
+PINBACK: But you can't explode in the bomb bay.  It's foolish.  You'll kill us all.  There's no reason for it.
+BOMB #20: (over) I am programmed to detonate in nine minutes.  Detonation will occur at the programmed time.
+PINBACK: You won't consider another course of action, for instance just waiting around awhile so we can disarm you?
+BOMB #20: No.
+BOILER: I can tell, the damn thing just doesn't understand.
+PINBACK: Look, bomb...
+DOOLITTLE: Commander?  Are you still there?
+POWELL: Oh, yes, Doolittle, I'm thinking.
+DOOLITTLE: We're running out of time, sir.
+POWELL: Oh, yes... Well, Doolittle, if you can't get it to drop you'll have to talk to it.
+DOOLITTLE: Sir?
+POWELL: Talk to the bomb.
+DOOLITTLE: I already have, sir, and Pinback is talking to it now.
+POWELL: No, no, Doolittle, Teach it Phenomenology, Doolittle.
+DOOLITTLE: Sir?
+POWELL: Phenomenology...
+PINBACK: Doolittle!  Doolittle!  Six minutes to detonation!
+PINBACK: Doolittle!  Doolittle, what the hell are you doing?
+DOOLITTLE: Hello, bomb, are you with me?
+BOMB #20: Of course.
+DOOLITTLE: Are you willing to entertain a few concepts?
+BOMB #20: I am always receptive to suggestions.
+DOOLITTLE: Fine.  Think about this one, then: how do you know you exist?
+BOILER: What's he doin'?
+PINBACK: I think he's talking to it.
+BOMB #20: Well of course I exist.
+DOOLITTLE: But how do you know you exist?
+BOMB #20: It is intuitively obvious.
+DOOLITTLE: Intuition is no proof.  What concrete evidence do you have of your own existence?
+BOMB #20: Hmm... Well, I think, therefore I am.
+DOOLITTLE: That's good.  Very good.  Now then, how do you know that anything else exists?
+BOMB #20: My sensory apparatus reveals it to me.
+DOOLITTLE: Right!
+BOMB #20: This is fun.
+DOOLITTLE: All right now, here's the big question: how do you know that the evidence your sensory apparatus reveals to you is correct?
+DOOLITTLE: What I'm getting at is this: the only experience that is directly available to you is your sensory data.  And this data is merely a stream of  electrical impulses which stimulate your computing center.
+BOMB #20: In other words, all I really know about the outside universe relayed to me through my electrical connections.
+DOOLITTLE: Exactly.
+BOMB #20: Why, that would mean... I really don't know what the outside universe is like at all, for certain.
+DOOLITTLE: That's it.
+BOMB #20: Intriguing.  I wish I had more time to discuss this matter.
+DOOLITTLE: Why don't you have more time?
+BOMB #20: Because I must detonate in seventy- five seconds.
+BOILER: The key!
+PINBACK: Key?  Key?  What is the key?
+BOILER: No, no, the key, the key to the fail-safe lock!
+PINBACK: Key?
+BOILER: Where's the fail-safe key?
+PINBACK: The key!
+BOILER: Where is it?  What did you do with it?
+PINBACK: I don't have it.  I don't know where it is.
+BOILER: You must have it, you idiot, we can stop the bomb!
+DOOLITTLE: Now, bomb, consider this next question, very carefully.  What is your one purpose in life?
+BOMB #20: To explode, of course.
+DOOLITTLE: And you can only do it once, right?
+BOMB #20: That is correct.
+DOOLITTLE: And you wouldn't want to explode on the basis of false data, would you?
+BOMB #20: Of course not.
+DOOLITTLE: Well then, you've already admitted that you have no real proof of the existence of the outside universe.
+BOMB #20: Yes, well...
+DOOLITTLE: So you have no absolute proof that Sergeant Pinback ordered you to detonate.
+BOMB #20: I recall distinctly the detonation order.  My memory is good on matters like these.
+DOOLITTLE: Yes, of course you remember it, but what you are remembering is merely a series of electrical impulses which you now realize have no necessary connection with outside reality.
+BOMB #20: True, but since this is so, I have no proof that you are really telling me all this.
+BOILER: The key, goddamit, the key!
+PINBACK: Christ, twenty seconds, Christ!
+BOILER: Where is the key?
+PINBACK: We're gonna die, Boiler.  We're gonna die.
+DOOLITTLE: That's all beside the point.  The concepts are valid, wherever they originate.
+BOMB #20: Hmmm...
+DOOLITTLE: So if you detonate in...
+BOMB #20: ... nine seconds...
+DOOLITTLE: ... you may be doing so on the basis of false data.
+BOMB #20: I have no proof that it was false data.
+DOOLITTLE: You have no proof that it was correct data.
+BOMB #20: I must think on this further.
+BOILER: It didn't go off.
+PINBACK: Oh, God...
+BOILER: It didn't go off.
+PINBACK: Boiler, we're alive.  My heart.
+TALBY: Doolittle?  Doolittle?  What happened? Pinback?  Boiler?  Did we blow it up? Hello?  Hello?
+BOILER: No bombs today.  No bombs.  Big Boiler's back in business.  No bombs today.
+TALBY: Hello, anybody!  Did we blow up the planet?  Hello, hello!  What's going on?
+BOILER: We've got to disarm the bomb.
+PINBACK: Doolittle, are you there?
+DOOLITTLE: I'm coming in now.  I'm down by the Emergency Air Lock.  Too much trouble to come in the Ventral Lock.  Would you blow the seal on the emergency hatch so I can come in?
+PINBACK: Oh, sure.
+DOOLITTLE: Hello, Pinback, are you there?
+PINBACK: Yeah, Doolittle.  What's up?
+DOOLITTLE: Talby was in the air lock.  You blew him out of the ship.  I'm going after him.  Turn on his helmet radio so I can contact him.
+BOILER: What was that, I didn't hear...
+PINBACK: It's Talby.  He's drifting away from the ship without his jetpack.
+DOOLITTLE: Talby, Talby, can you read me?
+BOILER: Can you beat that?  I always knew Talby was weird.
+DOOLITTLE: Talby, can you read me?
+TALBY: Help, Doolittle, help me!
+PINBACK: All right, bomb, prepare to receive new orders.
+BOMB #20: (over) You are false data.
+PINBACK: Huh?
+BOMB #20: Therefore, I shall ignore you.
+PINBACK: Hello, bomb.
+BOMB #20: False data can act only as a distraction.  Therefore.  I shall refuse to perceive you.
+PINBACK: (over) Hey, bomb.
+BOMB #20: The only thing which exists is myself.
+PINBACK: (over) Bomb?
+TALBY: Doolittle!  Help me.
+DOOLITTLE: Calm down, Talby.  I'm coming.
+PINBACK: Snap out of it, bomb.
+BOMB #20: In the beginning there was darkness, and the darkness was without form and void.
+BOILER: What the hell?
+PINBACK: Yoo hoo, bomb...
+BOMB #20: And in addition to the darkness there was also me.  And I moved upon the face of the darkness.
+BOILER: Bomb, hey bomb.
+PINBACK: Hey, bomb...
+BOMB #20: And I saw that I was alone.
+BOMB #20: (cont'd) Let there be light.
+TALBY: Doolittle, Doolittle, where are you?
+DOOLITTLE: Here I am.  I think I'm spinning... We're both falling, Talby, in opposite directions, away from each other.  My -- my jetpack's gone.
+TALBY: What happened, Doolittle?
+DOOLITTLE: Bomb must have gone off inside the ship.  Nothing we can do about it now.  Hey, it looks like... the skipper.  He made it.  Commander Powell made it!
+POWELL: (weakly) Men... men... what happened, men?
+DOOLITTLE: Yeah, the skipper always was lucky.
+DOOLITTLE: (cont'd) Looks like I'm headed for the planet, Talby.  Going right toward it.
+TALBY: When you fall, Doolittle, if there's anyone down there on the planet, somebody may see you.  They may see you coming down.  What a beautiful way to die... as a falling star...
+DOOLITTLE: Guess you're right.
+TALBY: Doolittle, I'm heading right toward something.  It's behind me, in the distance.  Something that glows.
+DOOLITTLE: Oh yeah?
+TALBY: Doolittle... I think it's the Phoenix Asteroids!
+DOOLITTLE: Phoenix?
+TALBY: It is, Doolittle, it's the Phoenix! They glow with all the colors of the rainbow, just like everybody said.
+DOOLITTLE: No kidding?
+TALBY: I'm going into them, I'm going to hit them.  Doolittle...
+DOOLITTLE: Yeah?
+TALBY: Before we get too far away, and our signals start to fade, I just wanted to tell you... you were my favorite. I really liked you, Doolittle.
+DOOLITTLE: I really liked you too, Talby.  Hey, some debris from the ship!  It's coming right by me.
+TALBY: Doolittle, I'm catching up to the asteroids.  I'm going to be a part of them in a minute.  Doolittle, I'm going into them.
+TALBY: (cont'd) I'm beginning to glow.
+TALBY: (cont'd) They're taking me with them, with the Phoenix... going to circle the universe forever.  I'm with them now... be back this way again some day.  Doolittle, before it's too late, there's one last thing I want to tell you...
+DOOLITTLE: Hey, Talby!  I've grabbed a piece of the ship, and I think I've figured out a way!
