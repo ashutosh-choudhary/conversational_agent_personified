@@ -10,7 +10,7 @@ MOTHER: Thank you, Ethna.  Thank you.
 BAVMORDA: We will start the ritual at dusk. You're certain this is the one?
 DRUID: It bears the markings.
 BAVMORDA: I must see for myself!  Just as the omen foretold!
-BAVMORDA: So.  You *were* the one.
+BAVMORDA: So.  You were the one.
 MOTHER: Yes.  But nothing you can do will stop the prophecy.
 BAVMORDA: This child will have no power over me....
 BAVMORDA: (furiously) Where's the baby!
@@ -369,8 +369,8 @@ WILLOW: But you're a great swordsman!
 WILLOW: (explodes) You're not a warrior, Madmartigan! A warrior wouldn't lie there and do nothing!
 WILLOW: We're in trouble!  You've seen the big army that's after us!  You're a fake!  You're a bum!  You're a-- you're a coward!!
 MADMARTIGAN: What's with you, Peck?
-WILLOW: I miss my wife!  I miss my chil- dren!  My boy Ranon!  He's growing up so fast, he even helps me on the farm now!  And little Mims!  If you ever saw her sweet little face you'd *melt* Madmartigan, you'd *melt*! (sniffles) Or maybe you wouldn't.  You don't know anything about love.  You don't know anything about any- thing...
-MADMARTIGAN: I was in love once, Willow.  She had a hold on my heart.  I could barely function. (a pause) I *was* a great swordsman!  I was knighted!  I could have been king!
+WILLOW: I miss my wife!  I miss my chil- dren!  My boy Ranon!  He's growing up so fast, he even helps me on the farm now!  And little Mims!  If you ever saw her sweet little face you'd melt Madmartigan, you'd melt! (sniffles) Or maybe you wouldn't.  You don't know anything about love.  You don't know anything about any- thing...
+MADMARTIGAN: I was in love once, Willow.  She had a hold on my heart.  I could barely function. (a pause) I was a great swordsman!  I was knighted!  I could have been king!
 WILLOW: You?
 MADMARTIGAN: Yeah me.  King!  But she betrayed me.  She robbed me of my dream.
 MADMARTIGAN: I'll never fall in love again...
@@ -439,9 +439,9 @@ WILLOW: I can't go on...
 MADMARTIGAN: Willow, why don't you use your mag- ic to get us out of here?
 RAZIEL: He's no magician.
 MADMARTIGAN: He turned that monster into stone!
-RAZIEL: Did *you* give that acorn its power?
+RAZIEL: Did you give that acorn its power?
 WILLOW: No.
-RAZIEL: A magician *makes* magic.  Any fool can use it.
+RAZIEL: A magician makes magic.  Any fool can use it.
 MADMARTIGAN: Then you get us out of here.
 RAZIEL: I will!  But I need help!
 WILLOW: I'll help you...!
@@ -470,7 +470,7 @@ WILLOW: I hope she's all right.  How much more do I have to do of this?
 RAZIEL: Till it's in a powder.  The energy exits within you...
 WILLOW: (reciting) I know, and the magician's goal is to find his true self.  But what's this got to do with it?
 RAZIEL: As below, so above.  You hold the univers, Willow, in your hand.
-MADMARTIGAN: I'm beginning to think you two *deserve* to be locked up.
+MADMARTIGAN: I'm beginning to think you two deserve to be locked up.
 WILLOW: The universe is a living creature, like you and me, Madmartigan.
 MADMARTIGAN: We're a tiny version of all that?
 RAZIEL: As above, so below.
@@ -524,7 +524,7 @@ RAZIEL: You remind me of your father, Sor- sha.
 SORSHA: My father was a weakling.
 RAZIEL: He was a great king. (Madmartigan reacts) Not like your step-father, not like your mother.  He ruled Tir Asleen with kindness, and a generous heart.
 SORSHA: My mother calls that weakness.
-MADMARTIGAN: What do *you* call it?
+MADMARTIGAN: What do you call it?
 SORSHA: I do what I'm told.
 MADMARTIGAN: Too bad you're not more like your father.
 SORSHA: Be careful.
@@ -741,10 +741,10 @@ MADMARTIGAN: Airk!  Airk!
 MADMARTIGAN: Madmartigan...you're a brave warrior...a true friend...a good man...
 MADMARTIGAN: We're gonna win this war, Airk.
 BAVMORDA: As above, so below!  Universe of evil, Raziel!  It conquers even you!
-BAVMORDA: *Stop!  Bring back that child!!!*
+BAVMORDA: Stop!  Bring back that child!!!
 BAVMORDA: Who are you?
 WILLOW: I'm Willow Ufgood.  I'm a magician.
-WILLOW: I'm a *great* magician.
+WILLOW: I'm a great magician.
 BAVMORDA: Is that the extent of your power?
 BAVMORDA: Place it on the altar.
 WILLOW: No.  You can't have her.

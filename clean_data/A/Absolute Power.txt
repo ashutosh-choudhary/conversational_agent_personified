@@ -73,7 +73,7 @@ KATE: -- I don't believe you -- (big) -- Christ, Father, what have you done?
 SETH: Christy Sullivan?
 MEDICAL EXAMINER: (nods) Wife of Walter -- most likely came home and stumbled onto a burglary --
 WOMAN (O.S.): -- some burglary.
-LAURA SIMON: I wish my carpets were this clean. And I can't find a single decent                        * fingerprint.
+LAURA SIMON: I wish my carpets were this clean. And I can't find a single decent fingerprint.
 SETH: You serious, Laura?
 LAURA SIMON: (bewildered) It's like Mary Poppins was here.
 SETH: Could someone have let him in?
@@ -195,7 +195,7 @@ BURTON: I was younger and dumber then. (quickly) Keep in touch.
 WALTER SULLIVAN: (noting McCarty's temptation) The chef makes them especially for me -- I promise you they're sinful. McCARTY You're a salesman, Mr. Sullivan.
 WALTER SULLIVAN: This is a new arena for me, but from what I'm told, you have a flawless reputation, Mister McCarty -- which is why I need to employ you. McCARTY Understood.
 WALTER SULLIVAN: I have no idea who I'm after. Until I do, you will have to wait in Washington for instructions.
-WALTER SULLIVAN: When I was 10 my father died -- he was a miner and lung disease killed him. I became rich at 25 and the first thing I did was purchase that mine, close it, and give every miner there fifty thousand dollars to retire on. (beat; staring at McCarty now) You will come to Washington, Mr. McCarty. You will put one million dollars expenses into the Swiss                          * bank account of your choosing. (beat) And, when the time comes, two million dollars a bullet. McCARTY (smiles, nods) You are a salesman, sir.
+WALTER SULLIVAN: When I was 10 my father died -- he was a miner and lung disease killed him. I became rich at 25 and the first thing I did was purchase that mine, close it, and give every miner there fifty thousand dollars to retire on. (beat; staring at McCarty now) You will come to Washington, Mr. McCarty. You will put one million dollars expenses into the Swiss bank account of your choosing. (beat) And, when the time comes, two million dollars a bullet. McCARTY (smiles, nods) You are a salesman, sir.
 WALTER SULLIVAN: Selling sin is easy...
 LAURA: (studying photo) Who is he?
 SETH: Luther Whitney -- (beat) -- one of the great thieves of the world.
@@ -206,12 +206,12 @@ LAURA: (indicating mug shot) This his graduation picture from Harvard?
 SETH: (waving her off) Ancient history -- he wasn't a jewel thief back then. Just a kid, just part of a gang, a three- time loser. But since he got out the last time, he's only worked alone --
 SETH (CONT'D): (beat) -- and no one's touched him. (shakes his head) He gets questioned whenever anything big comes up. But nothing sticks.
 LAURA: (really excited now) Seth -- we can make this stick -- I'll bet you anything this is our guy -- a local? -- can't ask for more --
-SETH                                       *: (makes a face)                                    * We've got a problem.                                     *
-LAURA                                   *: -- what? --
+SETH: (makes a face) We've got a problem.
+LAURA: -- what? --
 SETH: Whitney hasn't killed anyone in 45 years.
 SETH: Korea.
 LAURA: Big deal, so he's a veteran.
-SETH: Not just a veteran -- a wounded veteran. (indicating folder) Got his combat record here. Battles, commendations,                                  * decorations up the kazoo.                                * Lives alone on his disability.                           * Says he does anyway.                                     * (glum)                                            * And I don't do war heroes...                             *
+SETH: Not just a veteran -- a wounded veteran. (indicating folder) Got his combat record here. Battles, commendations, decorations up the kazoo. Lives alone on his disability. Says he does anyway. (glum) And I don't do war heroes...
 LUTHER: (not looking) Boy, you must be smart.
 SETH: (really taken aback) Sorry?
 LUTHER: Usually takes a week for you guys to get to me. (turns, smiles) You look just like your picture, Seth. I'm Luther Whitney.
@@ -254,7 +254,7 @@ LUTHER: Tomorrow is promised to no one.
 LUTHER: Not 'til morning? (makes a face) -- I'll be by early --
 LUTHER: (sadly, muttering) Katie darling, you've gotta try real food sometime.
 RICHMOND (V.O.): I am having this press conference here because...
-RICHMOND: ... it is here, at this courthouse,                  * that Christine Sullivan's killer will be tried for his crime.
+RICHMOND: ... it is here, at this courthouse, that Christine Sullivan's killer will be tried for his crime.
 LUTHER: Turn that off, okay?
 BARTENDER: (finishing up the glasses) In a sec.
 RICHMOND: As you know, I came from an impoverished family in an impoverished town -- but we lived with our doors unlocked.
@@ -267,13 +267,13 @@ BARTENDER: (starting to argue) You said --
 LUTHER: (cutting through) Do it --
 RICHMOND (V.O.): We feel savagery and violence must be allowed a place at table. (beat) That is wrong. That is not America. I shall fight that battle.
 RICHMOND (V.O.): Dear friend, old friend, we shall fight that battle.
-RICHMOND (V.O.): Who can explain the ways of chance? If we had never met, I would not be President. If Christine had not taken ill, she would be with you in Barbados                        * even now. Oh, Walter, you've                         * always been like a father to me.                     * I would give the world to lessen your pain.
+RICHMOND (V.O.): Who can explain the ways of chance? If we had never met, I would not be President. If Christine had not taken ill, she would be with you in Barbados even now. Oh, Walter, you've always been like a father to me. I would give the world to lessen your pain.
 LUTHER: You -- heartless -- prick -- (building) -- you -- fucking -- bastard --
 LUTHER: (whispered now) I'm not running -- not from you. (beat) I'm going to bring you down...
 RUSSELL: He was in the building -- he took a guided tour.
 RUSSELL: I've never dealt with blackmail --
 BURTON: (trying for calm) -- he doesn't want money --
-RUSSELL: (exploding) -- you a mind reader too?                               *
+RUSSELL: (exploding) -- you a mind reader too?
 BURTON: (under control) No, I just looked on the back -- (shows her ) -- see? --
 RUSSELL: (reading) 'I don't want money.'
 LUTHER: (admiringly) This guy sure has the guts of a burglar. Wish we had him.
@@ -324,9 +324,9 @@ KATE: ... No...
 SETH: It's the truth -- you are worried about him -- this isn't your normal case -- his life may be in danger -- you can save him, make the call --
 KATE: ... He won't come...
 SETH: (indicating the pictures) Of course he'll come. You're all he has.
-SETH: (moving in) Kate, he's on the run   and he's scared and he's right   to be scared because he's going to   get caught -- you don't know the   heat on this.                *
-KATE                                   *: He's not a murderer.                                 *
-SETH                                   *: Maybe you're right. Maybe he is                      * innocent. If so I'll have him                        * home and dry in a few hours. But                     * what happens if some hotshot who's trying to make a reputation tracks him down? (beat) I can guarantee his safety. You make the call, I make a promise: You'll have your father, home and dry...
+SETH: (moving in) Kate, he's on the run   and he's scared and he's right   to be scared because he's going to   get caught -- you don't know the   heat on this.
+KATE: He's not a murderer.
+SETH: Maybe you're right. Maybe he is innocent. If so I'll have him home and dry in a few hours. But what happens if some hotshot who's trying to make a reputation tracks him down? (beat) I can guarantee his safety. You make the call, I make a promise: You'll have your father, home and dry...
 KATE: I left a message on his machine, he called back within an hour; we're meeting tomorrow afternoon.
 SETH: Where?
 KATE (V.O.): An open-air place near my office, the Cafe Alonzo --
@@ -380,7 +380,7 @@ KATE: Pretty powerful enemy; good going.
 LUTHER: Not as powerful as the President of the United States.
 LUTHER: Richmond was drunk. The two guys are Secret Service. Chief of Staff Russell planned the coverup.
 LUTHER: Every word true.
-KATE: You're saying you're innocent of the murder? Why in the world                               * should I believe you?
+KATE: You're saying you're innocent of the murder? Why in the world should I believe you?
 LUTHER: Because I swear on Mattie's grave.
 LUTHER: On your mother's grave, Kate -- you know I'd kill myself before I'd lie about that.
 KATE: (soft) Jesus, Luther.
@@ -389,7 +389,7 @@ KATE: They'll kill you.
 LUTHER: I know.
 KATE: Can you run?
 LUTHER: I was set to. At the airport. All the money I'd ever need.
-LUTHER: But I saw that bastard using                             * Sullivan on the T.V. -- maybe I couldn't have saved that woman, Kate. But I didn't even try. (beat) I know what you think of me and I know what we've been to each other -- (beat) -- haven't been to each other. And it's not the time to try and explain my life --
+LUTHER: But I saw that bastard using Sullivan on the T.V. -- maybe I couldn't have saved that woman, Kate. But I didn't even try. (beat) I know what you think of me and I know what we've been to each other -- (beat) -- haven't been to each other. And it's not the time to try and explain my life --
 LUTHER: -- but I've never robbed anyone couldn't afford it and I've never stiffed a waitress. (beat) And Alan Richmond has to pay.
 KATE: What can you do?
 LUTHER: Not much, maybe -- but I only went to jail when I had partners. (beat) People betray each other, Kate -- nowadays, when there's a group, someone wants to write a book --
@@ -411,7 +411,7 @@ RICHMOND: (cutting in) -- I sent a note?
 RUSSELL: Yes, yes, you think I don't know your writing? I assumed you wanted me to wear it tonight.
 RICHMOND: It is lovely, Gloria -- and you know what else?
 RUSSELL: What, Alan?
-RICHMOND: Christy Sullivan wore it the night                          * she was killed.                                             *
+RICHMOND: Christy Sullivan wore it the night she was killed.
 RICHMOND: You realize what this means? Whitney's been heard from.
 RUSSELL: It's not precisely the first time, Mr. President.
 RICHMOND: (so happy) You've been keeping things from me?
@@ -455,8 +455,8 @@ LUTHER: I need one answer -- when you interviewed Walter Sullivan, did he say wh
 SETH: (shakes his head) Just that she changed her mind. (studying Luther) You know who did it, don't you?
 LUTHER: So will you -- check your phones --
 SETH: (incredulous) -- who'd tap a police officer?
-WALTER SULLIVAN: Is this a shortcut, Tommy?                              *
-CHAUFFEUR: (turns; it's Luther) I'm your replacement driver for the evening, sir. Don't worry, Tommy's fine.                                            *
+WALTER SULLIVAN: Is this a shortcut, Tommy?
+CHAUFFEUR: (turns; it's Luther) I'm your replacement driver for the evening, sir. Don't worry, Tommy's fine.
 WALTER SULLIVAN: Very unusual -- what do I call you?
 LUTHER: Luther, sir.
 WALTER SULLIVAN: And are you familiar with how to get to my home, Luther?
@@ -488,7 +488,7 @@ LUTHER: -- we're going all the way, Walter --
 WALTER SULLIVAN: -- it's too terrible.
 LUTHER: It sure is.
 WALTER SULLIVAN: ... I know about Alan's reputation as a philanderer... but... he would never dream of betraying me... I gave him the Presidency.
-LUTHER: (pressing it) The press conference -- remember? -- he held you in his arms and said if only Christy hadn't gotten sick she would have been with you                     * in Barbados --                                        *
+LUTHER: (pressing it) The press conference -- remember? -- he held you in his arms and said if only Christy hadn't gotten sick she would have been with you in Barbados --
 LUTHER (CONT'D): (bigger) -- how do you think he knew she was sick? You didn't tell anybody. But he heard it, all right. He heard it from her. That night. And I heard every word --
 WALTER SULLIVAN: That's not real proof.
 LUTHER: And this?
@@ -497,8 +497,8 @@ LUTHER: I did steal it. But that isn't my blood and those aren't my prints.
 WALTER SULLIVAN: (turns -- quiet now, at peace) I did love her, you know.
 WALTER SULLIVAN: Is he working late? I haven't an appointment but I'd like to see him if I might.
 GUARD: You don't need an appointment, Mr. Sullivan.
-RADIO ANNOUNCER #1 (V.O.)                   *: ... in the greatest shock to the nation since the Kennedy assassination, President Alan Richmond's death has rocked...
-RADIO ANNOUNCER #2 (V.O.)                   *: ... Richmond died violently in the Oval Office and Walter Sullivan...
+RADIO ANNOUNCER #1 (V.O.): ... in the greatest shock to the nation since the Kennedy assassination, President Alan Richmond's death has rocked...
+RADIO ANNOUNCER #2 (V.O.): ... Richmond died violently in the Oval Office and Walter Sullivan...
 KATE: ... you're still here...?
 LUTHER: Haven't budged.
 REPORTER #1 (V.O.): Mister Sullivan, have you no idea why the President took his own life?
@@ -506,8 +506,8 @@ WALTER SULLIVAN (V.O.): (voice soft) I know he's been feeling the pressure of of
 REPORTER #2 (V.O.): But why would he stab himself?
 WALTER SULLIVAN (V.O.): (sadly) That's a question that will haunt me forever. Of course I tried to stop him -- (beat) -- Alan was like a son to me...
 KATE: (eyes still closed) ... was that Seth...?
-LUTHER: He was just checking in. When you're up to it, he said we might come over for dinner. He                                     * mentioned --                                                 *
-KATE: (eyes half open) I know, he lives alone --                                    *
+LUTHER: He was just checking in. When you're up to it, he said we might come over for dinner. He mentioned --
+KATE: (eyes half open) I know, he lives alone --
 LUTHER: (smiles) Watch it now.
 KATE: ... you don't have to fuss...
 LUTHER: You were forever catching colds.

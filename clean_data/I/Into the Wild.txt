@@ -141,11 +141,11 @@ JAN: (a little irritated) Well, you have to be a little cautious Alex. That book
 CHRIS: I don't know if you'd want to depend on much more than that.
 JAN: Where's your mom and dad?
 CHRIS: Makin' their money somewhere.
-JAN: Come on Chris. You look like a loved             * kid. Be fair.                                    *
+JAN: Come on Chris. You look like a loved kid. Be fair.
 CHRIS: Fair?
 JAN: You know what I mean.
-CHRIS: I'll paraphrase Thoreau -- "Rather than          * love, than money, than fairness, give me         * truth."                                          *
-RAINEY                              *: You look like shit.   There's the truth.         *
+CHRIS: I'll paraphrase Thoreau -- "Rather than love, than money, than fairness, give me truth."
+RAINEY: You look like shit.   There's the truth.
 RAINEY: (regarding Chris wrapped up in wood) Geez. If I struck a match to you, I'd have warmth and dinner at the same time.
 CHRIS: Where's Jan going?
 RAINEY: Well, my friend, all is not well on the hippie front.
@@ -426,27 +426,27 @@ CHRIS (CONT'D): I'm going to have to pick up a lot of supplies before spring. So
 RAINEY: Well, you know, we'll give you a little something for every day you work the booth.
 CHRIS: I'm not taking any money from you, Rainey.   It's been a real great twist meeting you two. You look like you're doing good.
 RAINEY: We are, and you were a big part of that, coming along when you did. Yep, things are good. (gives a little giggle) Man, I used to think Tantric sex was just a bunch of reading. Speaking of which, don't you think you ought to introduce yourself to Joni Mitchell over there?
-TRACY                                 *: Hi.
+TRACY: Hi.
 CHRIS: Hi.
-TRACY                                 *: You selling books?
+TRACY: You selling books?
 CHRIS: I am.   We are.
-TRACY                                 *: I read a lot.
+TRACY: I read a lot.
 CHRIS: Do you?
-TRACY                                 *: Yeah.
+TRACY: Yeah.
 CHRIS: That's good.    I heard you play your song last night.
-TRACY                                    *: (embarrassed) I'm terrible.
+TRACY: (embarrassed) I'm terrible.
 CHRIS: You are not terrible.
-TRACY                                  *: I'm not?
+TRACY: I'm not?
 CHRIS: No.   You sing sweet.
-TRACY                                    *: Thank you. I was going to go watch the kids play in the mud. Do you want to go?
+TRACY: Thank you. I was going to go watch the kids play in the mud. Do you want to go?
 RAINEY: Go on.   I'll watch the store.
 CHRIS: I'm sorry.   This is Rainey.   And I'm Chris.
 RAINEY: Hi. Rainey. And this is Alex. ("Don't lie to her.")
-TRACY                                  *: I'm Tracy.                                            *
-JAN: I wasn't much older than Tracy when I got             * pregnant. And I thought my husband and I were going to invent peace on earth and stay together forever. But it didn't work out that way. He left. History. Now ancient history. And that was the end of that. So, I raised Reno by myself - that's my son. Then I met Rainey. And that was really good for a while. But Reno was already a teenager and was becoming a man in his own way. And then, I don't know. He kinda followed in his father's footsteps - out the door and gone. And I really don't know where he is. I haven't heard from him in two years.
+TRACY: I'm Tracy.
+JAN: I wasn't much older than Tracy when I got pregnant. And I thought my husband and I were going to invent peace on earth and stay together forever. But it didn't work out that way. He left. History. Now ancient history. And that was the end of that. So, I raised Reno by myself - that's my son. Then I met Rainey. And that was really good for a while. But Reno was already a teenager and was becoming a man in his own way. And then, I don't know. He kinda followed in his father's footsteps - out the door and gone. And I really don't know where he is. I haven't heard from him in two years.
 CHRIS: I hope I get to meet him sometime.
 JAN: Do your folks know where you are?
-TRACY                                    *: Soup's on. Oh, I'm sorry.   Are you guys getting heavy?
+TRACY: Soup's on. Oh, I'm sorry.   Are you guys getting heavy?
 JAN: No, sweetheart. Just hungry. You've been doing a fantastic job over there. (to Chris) Shall we eat?
 CHRIS: Yeah.
 RAINEY: I really ought to get myself doing that.
@@ -463,23 +463,23 @@ CHRIS: They should. But I can't. Not yet, anyway. I got a sister though, Carine.
 RAINEY: Alaska?
 CHRIS: Yeah, Rainey. Alaska.
 CHRIS: Hello?    Merry Christmas?
-TRACY (O.C.)                             *: Come in here.
-TRACY (CONT'D)                        *: Guess what.
+TRACY (O.C.): Come in here.
+TRACY (CONT'D): Guess what.
 CHRIS: (deer in headlights) What?
-TRACY                                    *: My parents went into town.
+TRACY: My parents went into town.
 CHRIS: No!
-TRACY                                    *: Yes, they did. They went to call my grandma for Christmas.
+TRACY: Yes, they did. They went to call my grandma for Christmas.
 CHRIS: No, I mean, no, we can't do that.
-TRACY                                 *: Why not?
+TRACY: Why not?
 CHRIS: How old are you?
-TRACY                                    *: Eighteen.
-TRACY (CONT'D)                           *: Seventeen.
+TRACY: Eighteen.
+TRACY (CONT'D): Seventeen.
 CHRIS: What year were you born?
 CHRIS (CONT'D): You want to do something together?
 CHRIS: You can always get in touch with me by sending mail here. I don't know when I'll get it, but I'll get it.
-TRACY                                   *: (crying) Okay.
+TRACY: (crying) Okay.
 CHRIS: You're pretty magic.
-TRACY                                   *: I am?
+TRACY: I am?
 RAINEY: You take care of yourself, kiddo.
 CHRIS: You too, Rainey. Thanks for everything.
 CHRIS (CONT'D): New Year's resolution?
@@ -524,7 +524,7 @@ RON: Seventy-nine years old.
 CHRIS: Seventy-nine...see, all due respect, but the real difference between people is the quality of their soul and not on how long they've trudged around like a dip-shit.
 CHRIS (CONT'D): But it's true.
 RON: It is.   No question about that.
-CHRIS: The government's the same as my parents. They don't respect anybody. Regulation. Regulation. Regulation. WE can't do this. But THEY can do that. I mean, the hypocrisy of the whole...culture.   Makes me crazy. My father was having children                * with two women at the same time, and then              * has the gall to think that he can be of some guidance to me? Make judgments on me? My mother, of course, goes along with all of it. Keeps the secret, which of course, makes my whole life a fiction. Everything I thought was, wasn't. They're such fools! Fucking idiots!
+CHRIS: The government's the same as my parents. They don't respect anybody. Regulation. Regulation. Regulation. WE can't do this. But THEY can do that. I mean, the hypocrisy of the whole...culture.   Makes me crazy. My father was having children with two women at the same time, and then has the gall to think that he can be of some guidance to me? Make judgments on me? My mother, of course, goes along with all of it. Keeps the secret, which of course, makes my whole life a fiction. Everything I thought was, wasn't. They're such fools! Fucking idiots!
 RON: Alex, please don't lump me in amongst your judges. And your tyrants. But I'd prefer to not hear that kind of language.
 CHRIS: (realizing his slip) Sorry. I don't usually use that kind of language either. I just get so angry thinking about it.
 RON: You got a lot of passion, young man.

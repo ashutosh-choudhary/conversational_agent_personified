@@ -1,0 +1,12 @@
+<td valign="top">
+<br/><h1>Oops! Script not found</h1>
+<p>Apologies, it looks like that script has been removed.</p>
+<p><a href="http://www.imsdb.com">Back to the homepage</a></p>
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'http://www.imsdb.com'
+</script>
+<script src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js" type="text/javascript">
+</script>
+<br/><br/>
+</td>

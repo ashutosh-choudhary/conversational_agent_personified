@@ -1,0 +1,22 @@
+<td valign="top">
+<br/> <table width="100%"><tr><td class="scrtext">
+<pre></pre><br/>
+<table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
+<tr>
+<td align="center">
+</td><td><h1>Alien: Resurrection</h1><br/><br/>
+<b>Writers</b> :   <a href="/writer.php?w=Joss Whedon" title="Scripts by Joss Whedon">Joss Whedon</a><br/>
+<b>Genres</b> :   <a href="/genre/Action" title="Action Scripts">Action</a>  <a href="/genre/Horror" title="Horror Scripts">Horror</a>  <a href="/genre/Sci-Fi" title="Sci-Fi Scripts">Sci-Fi</a>  <a href="/genre/Thriller" title="Thriller Scripts">Thriller</a><br/><br/><br/>
+<a href="http://www.imsdb.com/Movie Scripts/Alien: Resurrection Script.html#comments" title="Alien: Resurrection comments">User Comments</a>
+</td>
+</tr></table>
+<br/><br/>
+<div align="center">
+<a href="http://www.imsdb.com" title="Internet Movie Script Database"><img alt="Internet Movie Script Database" border="1" src="http://www.imsdb.com/images/lilbutton.gif" style="border: 1px solid black;"/><br/>
+Back to IMSDb</a>
+</div><br/>
+<br/><br/>
+</td></tr>
+</table>
+<br/><br/>
+</td>

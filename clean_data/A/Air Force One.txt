@@ -29,7 +29,7 @@ GIBBS: Sir, this plane carries the President of the United States. Though we wis
 KORSHUNOV: Of course.  I'm sorry. Korshunov and the FIVE MEMBERS of his news crew present their video cameras, sound equipment and supplies to Special Agent WALTERS for inspection.  Secret Service DOGS sniff through the baggage.
 GIBBS: Please place your thumbs on the ID pad. Korshunov puts his thumb on the ID pad of a portable computer. The computer matches up his thumbprint with his dossier and photograph.  "CLEARED" flashes on the computer screen.
 INT. HALLWAY - NIGHT: The President, walking with his entourage.
-SHEPHERD: *                     CBS said they'll give us four minutes.  They thought the Russian was a nice touch.
+SHEPHERD: give us four minutes.  They thought the Russian was a nice touch.
 MARSHALL: I always wondered if my freshman Russian class would come in handy.
 DOHERTY: Sir, you threw out page two.
 MARSHALL: Goddamn right I did.  I asked for a tough-as-nails speech and you gave me diplomatic bullshit.  What's the point in having a speech if I have to ad-lib?
@@ -40,7 +40,7 @@ WALTERS: Equipment checks out. A striking woman in her early thirties descends A
 GIBBS: Gentlemen, this is Maria Mitchell. Press Relations for the Presidential Flight Office.  She'll take you from here.
 KORSHUNOV: Ms.  Mitchell.  So nice to finally meet you in person.
 MITCHELL: The President and I were delighted that we could accommodate you.  Now if you're all cleared? (Gibbs nods) You can follow me then. They ascend into the belly of Air Force One.
-MITCHELL: *                    I'll be giving you a brief tour, then during the flight, two members of your crew will be allowed out of the press area at a time for filming.  You will have exactly ten minutes with the President and twenty with the crew...
+MITCHELL: you a brief tour, then during the flight, two members of your crew will be allowed out of the press area at a time for filming.  You will have exactly ten minutes with the President and twenty with the crew...
 EXT. STREETS OF MOSCOW, PRESIDENT'S MOTORCADE - NIGHT: Winding its way down narrow cobblestone streets onto a major thoroughfare.
 INT. PRESIDENTIAL LIMOUSINE - NIGHT: The limousine is packed with advisers, aides, military staff, including LT. COL. PERKINS, the keeper of the NUCLEAR FOOTBALL handcuffed to his wrist.  In the b.g. on the limo's television set, the LARRY KING SHOW indulges in its normal banter. Marshall wearily rubs his temples as he stifles a yawn.
 SHEPHERD: You wanna knock of f?
@@ -50,7 +50,7 @@ DOHERTY: Apparently taking uzis away from sixth graders isn't as popular as we t
 MARSHALL: Put together a score sheet.  I'll make some calls.
 SHEPHERD: With all due respect, sir, maybe you should give them this one.  Your numbers are still pretty low and you called in a lot of chips to nail Stravanavitch.
 MARSHALL: I might still have a few chips left.
-SHEPHERD: *                     We could always put you in a duck blind with a twelve gauge.  The second amendment types'll love that.
+SHEPHERD: put you in a duck blind with a twelve gauge.  The second amendment types'll love that.
 MARSHALL: This is a crime bill, Shep.  Killing a couple ducks won't get it through committee.  Besides, Shep, I told you...  I don't shoot babies and I don't kiss guns.
 SHEPHERD: Other way around, sir.
 MARSHALL: (realizing what he said) Right... Christ I'm tired.  Do me a favor and keep me away from the press. Marshall's watch alarm beeps and he automatically reaches into his breast pocket, pulls out a medicine vial and downs two pills with a coffee chaser. On the T.V.
@@ -58,12 +58,12 @@ LARRY KING (T.V.): ... and your reaction to the President's trip to Moscow.  Goo
 SHEPHERD: This is the part I wanted you to see.
 REP. DANFORTH (T.V.): Criminal.  One of our boys died in Marshall's little publicity stunt and for what?  So we could claim victory over another country's problems instead of our own?  And now he's got the nerve to prance around Moscow gloating, while that poor boy's family is left to bury him.  If I were Marshall, I'd be ashamed of myself.
 LARRY KING: There you have it.  Harsh words for the President from Michael Danforth, the Speaker of the House. Marshall mutes the television.  A quiet moment.
-SHEPHERD: *                     My opinion. We can't let him get away with that kind of language. Marshall considers.  Then decides.
+SHEPHERD: We can't let him get away with that kind of language. Marshall considers.  Then decides.
 MARSHALL: It's bait.  Don't take it.
 SHEPHERD: Sir, the Speaker of the House attacked this administration on national television.  You can't afford to leave that hanging.
 MARSHALL: (ignoring Shepherd) Did we tape the Duke game?
 AIDE: It's waiting on the plane.  The ending was pretty...
-MARSHALL: (interrupting) Please don't tell me.  Just for once, *                     let me be surprised.
+MARSHALL: (interrupting) Please don't tell me.  Just for once, let me be surprised.
 INT. AIR FORCE ONE, CORRIDOR, TRAVELING - NIGHT: Maria Mitchell escorts the Russians down the plane's length. As they pass the galley, Maria motions up a set of stairs.
 MITCHELL: Up on the upper deck is the cockpit and the Mission Communication Center. The MCC, as we call it, can place clear and secure phone calls to anywhere on earth.  We're linked to a network of military and civilian satellites and ground stations.  We could run the country or run a war from there if we had to.
 KORSHUNOV: This is a remarkable aircraft.
@@ -94,7 +94,6 @@ MARSHALL: Yes. Shepherd enters.
 SHEPHERD: Can I at least issue a press release objecting to the Speaker's choice of wording? President Marshall picks up one of the many phones in his office.
 MARSHALL: I said it's not worth the fight. (into phone) Steward, please.
 SHEPHERD: We'll just say it was in bad taste.
-*                               MARSHALL: Forget it, Shep.  The kid gave his life for his country and the Speaker's a bastard for turning him into a sound bite.  I'll take the heat.  Understood?
 SHEPHERD: You give me ulcers.
 MARSHALL: That's my job. A STEWARD enters the room.
 STEWARD: Mr. President?
@@ -108,7 +107,7 @@ MARSHALL: I don't believe this.  I'm playing politics with a bottle of beer.  A 
 SHEPHERD: Look on the bright side... if the polls don't change, you won't have that problem, sir. Marshall picks up the phone again.
 MARSHALL: Yeah.  Put the Duke game on in my room.
 INT. AFO'S MISSION COMMUNICATION CENTER - NIGHT: THREE Air Force SPECIALISTS man the elaborate communication system occupying much of the upper deck.  Top-of-the-line computers, communication systems, video decks, and satellite receivers.
-AIR FORCE SPECIALIST: Yes, Mr. President. He slides in a videotape and channels the feed to the * president's stateroom.
+AIR FORCE SPECIALIST: Yes, Mr. President. He slides in a videotape and channels the feed to the president's stateroom.
 INT. PRESIDENT'S STATEROOM - NIGHT: A monitor comes to life with a basketball game.
 MARSHALL: (to Shepherd) Defense and State Department in the conference room in one hour.  I want to review the Iraq situation.
 SHEPHERD: Yes, sir. Shepherd exits as Marshall settles into his leather chair and dives into work.  He punches a button on the speakerphone.
@@ -381,7 +380,7 @@ INT. CORRIDOR - NIGHT: The terrorists move toward the nose of the plane leaving 
 INT. BAGGAGE HOLD - NIGHT: President Marshall reaches the front stairway. Cautiously climbs to the main cabin. As he reaches the top stairs, he hears Russian conversation approaching. He ducks back into the stairwell. He can't see them, but he can hear them. The terrorists pass within a few feet as they ascend to the Mission Communications Center on the upper deck. Marshall waits a few beats, listens to the silence. Then re- mounts the stairs and almost runs into the back of...
 VIAD: Standing guard, facing the opposite direction. Marshall FREEZES... looks past Viad down the corridor where Nevsky guards the main conference room floor. Unaware of Marshall, Viad reaches into his pocket and pulls out a cigarette. Lights it. On the first puff he feels a presence behind him. VLAD slowly turns around... Nothing there. He smiles at his jittery nerves, turns back round.
 REVERSE ANGLE -: Over Vlad's shoulder... MARSHALL, flattened behind the edge of the galley divider. He creeps away from Vlad toward the Presidential Suite... stepping gingerly over dead secret service agents.
-INT. MISSION COMMUNICATIONS CENTER -: *       Korshunov pulls a handkerchef from his breast pocket and wipes the blood from a telephone headset.
+INT. MISSION COMMUNICATIONS CENTER -: Korshunov pulls a handkerchef from his breast pocket and wipes the blood from a telephone headset.
 KORSHUNOV: Proceed. Gibbs works the communications board, dialing in a series of numbers. Telephone ringing...
 INT. WHITE HOUSE SITUATION ROOM - DAY: A map of Air Force One's flight trajectory is displayed on the rear screen. Moscow to Berlin and back toward the Black Sea. The assembled brass listens as Korshunov's voice slithers off the speaker phone.
 KORSHUNOV (SPEAKER): ...the Chief of Staff, the First Lady, and the First Daughter.  Our demands are simple. Arrange the release of Ivan Stravanvitch.  Once our leader is returned to Turkuenistan soil, Air Force One and it's occupants will be allowed safe passage to Switzerland. You have one hour before we start killing hostages. The phone clicks off. A silent beat in the room.
@@ -414,18 +413,17 @@ INT. STAFF CABIN - NIGHT: Marshall frantically searches for something he can use
 VLAD: Get on the floor, now! Marshall yanks down the operating table, and it smashes into Vlad, knocking him down. Marshall lunges with his knife, but Vlad OPENS FIRE. A HALF DOZEN ROUNDS pump into Marshall's belly. He's thrown back against the wall, then slumps to the floor. Vlad approaches the crumpled body. Leans down to examine his victim. He cups his hand under the man's chin and lifts his head. Recognizes him.
 VIAD: (wonderment) The President. But Marshall's eyes flash open.
 MARSHALL: That's right, asshole. He springs, shoving the butcher knife under the flack jacket and into Vlad's spleen. Vlad freezes, unsure of what just happened. Marshall is on his feet. Never letting go of the twisting knife, he grabs Vlad by the back of the head and slams his face against the mirror above the surgical scrub sink. The mirror shatters and streams of blood erupt cn the terrorist's face. The blood drips down into the white porcelain sink, swirling into the drain. Vlad elbows Marshall in the neck, stunning him momentarily. He wipes the blood from his face, spins and hits Marshall with a devastating right cross. Marshall reels back against the wall, and Vlad follows, shoving the MP5 into Marshall's throat. Marshall grabs the gun near the trigger...
-*                               VLAD: Don't move or I'll blow your head off.
 MARSHALL: I don't think so. Marshall presses the saftey button on the gun with his forefinger, then knees Vlad in the balls. Viad pulls the trigger repeatedly as he goes down, but nothing happens. Instead he comes up swinging his gun butt against Marshall's face. Like a bat hitting a baseball, it knocks Marshall into the medical closet. The gun goes flying, skittering
 UNDERNEATH A CABINET.: Marshall pulls himself up the shelves trying to keep his legs from buckling. Vlad grabs some I.V. tubing and wraps it around Marshall's neck. Marshall struggles for breath, clawing at the tube.
 HE SPOTS A DEFIBRILLATOR, REACHES AND SWITCHES IT ON. LOW-: pitched hum and beeping. Marshall pulls his head forward, straining against the plastic tubing. Then slams back into Vlad's head. Viad releases his grip just for a moment... The beeping becomes a steady whine. ... but a moment is all Marshall needs as he grabs the def ib's CARDIAC PADDLES, turns, and SLAMS them on either side of Vlad's head. Vlad convulses from the shock for a full five seconds... his eyeballs roll, his hair stands on end.  then he collapses to the floor.
 MARSHALL: Clear. Marshall catches his breath for a moment. Pulls open his shirt. Beneath it he wears a bulletproof Kevlar vest. He lifts the vest and a half-dozen angry welts have blossomed across his skin. The stuff may be bulletproof, but each of Vlad's shots sting like a motherfucker.
 EXT. CORRIDOR.: Nevsky walks down the corridor. Sees that Vlad is away from his post.
 NEVSKY: Viad?
-*       INT. STAFF CABIN.: Marshall opens the medical cabinets, rifling through them. Pulls out hypodermics, adrenalin, rubbing alcohol... arming himself.
+INT. STAFF CABIN.: Marshall opens the medical cabinets, rifling through them. Pulls out hypodermics, adrenalin, rubbing alcohol... arming himself.
 NEVSKY (O.S.): Vlad? Vlad?
 EXT. CORRIDOR.: Nevsky works his way up the corridor, peeking in rooms. As he enters the...
 INT. STAFF CABIN.: he's blinded by the high intensity surgical lights. Marshall cracks a tank of anesthesia across Nevsky's heu Nevsky goes down. Marshall rips Nevsky's MP5 off of him. Holds it to Nevsky's throat.
-MARSHALL: Where are th*y? fly tamily, the crew.... where are they? Nevsky says nothing. The conference room, right? Right? Marshall jerks him to his feet.
+MARSHALL: Where are thy? fly tamily, the crew.... where are they? Nevsky says nothing. The conference room, right? Right? Marshall jerks him to his feet.
 MARSHALL: o'11 unlocli the door for me or I'll kill you.
 INT. CORRIDOR -: Marshall walks flevsky toward the mj vonteronve room3 As they pass the stairs to the upper deck, Nevsky breaks away.
 NEVSKY: Marshall fires. Killing him.
@@ -441,7 +439,7 @@ MARSHALL: The NRA'll love this. Looking down the barrel of the gun, he notices b
 INT. OFFICE - NIGWR: Stoli Petrov on the phone, behind his large oak desk.
 PETROV: I understand your dilemma, Vice President Chandler. But unless you can confirm that your President is indeed a hostage, I cannot release Stravanavitch. If Marshall is dead, no good will come of meeting this demand. We both know he would agree.
 V.P. CHANDLER (V.0. PHONE): But the First Lady...
-PETROV: *.. is not a First Lady if her husband's been killed. Then she's a civilian. And I can't release him for a civilian. Do you see my point?
+PETROV: .. is not a First Lady if her husband's been killed. Then she's a civilian. And I can't release him for a civilian. Do you see my point?
 INT. WHITE HOUSE SITUATION ROOM - DAY: Each member of the crisis team is either on the phone or huddled with staff. A secure fax machine spits out papers which Lee slips into files. Lee interrupts Chandler on the phone.
 LEE: Madame Vice president. We have an options paper.  chandler takes the options paper, waves off Lee, and reads it as she talks.
 V.P. CHANDLER: Yes. You've made yourself quite clear.
@@ -454,12 +452,11 @@ GENERAL NORTHWOOD: We've got four hours before they make it into Turkienistan ai
 V.P. CHANDLER: But they start executing hostages in
 GENERAL NORTHWOOD: I hate to be pragmatic, but they'll sacrifice pawns before kings. It may take them some time to kill their way up to senior staff.
 V.P. CHANDLER: Okay. Also, I want you to put our bases in Turkey on alert, and have the Kitty Hawk prepare a retaliatory air strike.
-*                             DEAN: Madame Vice-President...
 V.P. CHANDLER: I've not discounted your theory Hr. Dean...
 DEAN: No... I got the new numbers from our gamers. They believe that there's only an eight percent chance that the President is still alive.
 V.P. CHANDLER: Eight percent is better than zero. Oh shit... what is that? Chandler refers to a monitor in the rear of the room. CNN, the omnipresent player on the world political stage, broadcasts video from Ramstein Air Base.
 GENERAL GREELY: That's trouble.
-CNN REPORTER (V.0. T.V.): *.. the Presidential Aircraft was enroute from Moscow when it began its mayday hail. But in a startling turn of events, the seemingly out of control plane aborted its landing and took off again. We haven't been able to confirm its status or whether or not the first family was onboard at the time.
+CNN REPORTER (V.0. T.V.): .. the Presidential Aircraft was enroute from Moscow when it began its mayday hail. But in a startling turn of events, the seemingly out of control plane aborted its landing and took off again. We haven't been able to confirm its status or whether or not the first family was onboard at the time.
 V.P. CHANDLER: Would someone get the Press Secretary!
 AIDE: He's been holding on line four.
 EXT. SKY - NIGHT: Air Force One, lit up by moonlight.
@@ -473,7 +470,7 @@ MAJOR CAL DWELL: We're not getting out that way. The door swings open and Gibbs 
 KORSHUNOV: Admirable, but you're wasting your time. (beat) Mrs. Marshall, would you and your daughter please come here. They don't move. Korshunov raises his gun, points it a Shepherd's head.
 KORSHUNOV: Now, or he dies, please.
 ROSE: Come on, Alice.
-ALICE: I'm scared. Doherty steps forward. Shepherd tries to pull him back, to no *       avail.
+ALICE: I'm scared. Doherty steps forward. Shepherd tries to pull him back, to no avail.
 DOHERTY: You've got the better part of the White House locked in this room, you know. If you want to negotiate, we're the ones to do it with. Korshunov SHOOTS Doherty through the head. Screams from some of the hostages. Korshunov squeezes off a few shots to quiet everyone.
 KORSHUNOV: Mrs. Marshall. Alice. If you please. Rose turns to the other hostages.
 ROSE: It's okay. Do what you're told. It's okay. We'll be okay. She locks eyes with Caldwell. HKeep working.N He nods.
@@ -561,7 +558,7 @@ INT. AFT STORAGE COMPARTMENT -: Marshall on his knees, hands behind his head. Ba
 BAZ YLEV: So you're the President. Somehow, I thought you'd be smaller. Marshall stares straight ahead tn silent defiance. Bazylev kicks him in the gut. Marshall doubles over, wheezing.
 BAZYLEV: Not so powerful now, eh? No aides to advise you, no secret service to protect you, no armies to command. Bazylev grabs Marshall's hair and tugs his head back. He holds Marshall with his eyes.
 BAZYLEV: You'll suffer for what you've done.
-MARSHALL: *                    So will you. Bazylev slams Marshall's face against his knee. Marshall slumps forward.
+MARSHALL: Bazylev slams Marshall's face against his knee. Marshall slumps forward.
 BAZYLEV: Up. Get up now! Marshall slowly rises to his feet. Bazylev swings wide around him.
 BAZYLEV: You will walk ahead... slowly. Do you understand? (no response) Do you understand!
 MARSHALL: Do you know what's going to happen to you because of this? Do you know what the world will do?
@@ -599,7 +596,7 @@ INT. COCKPIT -: On the faces of the terrorists, as the missile comes right at th
 EXT. SKY - MIGHT: The missile dives into the swarm of descending chaff and DETONATES, lighting up the evening sky. Red flames reflect against the silver-grey clouds.
 INT. AIR FORCE ONE, VARIOUS SHOTS - NIGHT: The shock wave hits the aircraft. Lights flicker and the plane rocks side to side. HOSTAGES are bounced around the conference room.
 INT. GANGWAY -: Marshall and Bazylev are slammed against the ceiling and then the floor. Marshall seizes the moment. Grabs Bazylev's gun. The two struggle and Bazylez instinctively pulls the trigger. A burst of richocheting gunfire sparks across the bulkhead. The turbulence worsens. Bazylev manages to wrest away the rifle, but the plane pulls into a climb, sending Bazylev tumbling down the gangway into the rear baggage hold. Marshall manages to pull himself up the grating and into the galley. He's free, for the moment.
-INT. AFO, COCKPIT.: Gibbs steadies the plane as the shock wave from the explosion *        subsides.
+INT. AFO, COCKPIT.: Gibbs steadies the plane as the shock wave from the explosion subsides.
 GIBBS: We're okay. Korshunov examines the Tactical Countermeasures Computer.
 KORSHUNOV: Remarkable aircraft. Remarkable.
 GIBBS: why did they do that?
@@ -626,14 +623,13 @@ MARSHALL: Then tell me there's a rescue operation underway. Marshall opens a tra
 V.P. CHANDLER: and if that means negotiating...
 MARSHALL: You know my policy. We don't negotiate with terrorists. If we start now, all of America becomes a target.
 V.P. CHANDLER: But this is different, sir. You're the President.
-*                               MARSHALL: And what happens when Stravanavitch is freed and discovers he's got the President? You think for a second that that crazy bastard is just gonna turn me over? He'll ask for the goddamn moon before he's done.
 V.P. CHANDLER: Please, Mr. President. You're going to get yourself killed. Is that your solution?
 MARSHALL: Freeing Stravanavitch is gonna get tens of thousands killed. I can't live with that. (somewhat resigned) I'm not royalty. I'm an elected official and the integrity of the office of the President is infinitely more important than the man who holds that office. (beat) We don't negotitate. Not as long as I'm President. Is that understood? A long silence, then...
 MARSHALL: flow, is there a rescue operation under way or not? Lee shakes his head at Chandler, signalling "don't tell."
 LEE: He's not on a secure line. MARSHAlj Whoever said that, shut up. Walter, are you there?
 DEAN: I'm here, Mr. President.
 MARSHALL: Where's the cavalry?
-DEAN: We can't do anything until that plane lands. And when it does land, sir, it's going to be in hostile * territory. To be perfectly honest, we don't know what the hell to do. It's going to take a miracle to figure this one out. A long beat. We hold on Marshall's determined face.
+DEAN: We can't do anything until that plane lands. And when it does land, sir, it's going to be in hostile territory. To be perfectly honest, we don't know what the hell to do. It's going to take a miracle to figure this one out. A long beat. We hold on Marshall's determined face.
 MARSHALL: I'll see what I can do.
 INT. GALLEY.: Serge comes across Bazylev. Checks for any sign of life. Stone cold dead. He looks around and grips his gun a little tighter as he backs out of the room.
 INT. MAIN CABIN.: Serge closes the stair access panel to the baggage deck. Sealing Marshall off.
@@ -654,7 +650,7 @@ MARSHALL: Come on, where are you... He searches up and down.
 INT. MISSION COMMUNICATIONS CENTER - NIGHT: Serge leads Maria Mitchell up the stairway. Korshunov nods.
 KORSHUNOV: Ms. Mitchell. Hello again. Maria is scared, she says nothing. She looks over to the First Lady and Alice.
 ROSE: Maria. Korshunov switches on the airplane's P.A.
-KORSHUNOV: *                     Please tell me your name.
+KORSHUNOV: your name.
 MITCHELL: (frightened) Maria... Maria Mitchell.
 KORSHUNOV: And what is it you do, Ms. Mitchell. Maria Mitchell's voice echos over throughout Air Force One.
 INT. AVIONICS COMPARTMENT.: Marshall halts his search to listen.
@@ -663,7 +659,7 @@ KORSHUNOV (V.0.): How are your fellow hostages feeling, Ms. Mitchell?
 MITCHELL: Scared. We're scared.
 INT. MISSION COMMUNICATIONS CENTER - NIGHT: Rose cradles Alice, both of them looking away, as Korshunov raises his gun, pointing it at Mitchell.
 KORSHUNOV: And why are you scared?
-MITCHEL*L: Because... because I don't want to die.
+MITCHELL: Because... because I don't want to die.
 INT. MAIN CONFERENCE ROOM.: The hostages, listening.
 KORSHUNOV: And what am I doing at this very moment.
 INT. AVIONICS COMPARTMENT - NIGHT: Marshall listens, helpless to do anything.
@@ -938,7 +934,7 @@ MARSHALL: Yes, I'll do it. (broken) Just leave my family alone.
 KORSHUNOV: Good. Good. Gibbs withdraws the gun from Alice's temple. Alice opens her eyes and gasps for breath.
 KORSHUNOV: Bring him the phone... You are true to your nature, Mr. President.
 MARSHALL: Someday, you'll regret my nature.
-KORSHUNOV: You don't like seeing people get hurt. Now in morality, that is a virtue. In politics, however, that is weakness. (beat) You were a hostage to everyone else *                    long before you were a hostage to
+KORSHUNOV: You don't like seeing people get hurt. Now in morality, that is a virtue. In politics, however, that is weakness. (beat) You were a hostage to everyone else long before you were a hostage to
 INT. BEDROOM - NIGHT: A sleepless Petrov paces back and forth, smoking a cigarette. The phone RINGS. He looks up expectantly as his aide answers.
 AIDE: Sir, the President of the United States wishes to speak with you. Petrov stops in mid-pace. Considers his cigarette for a moment and then walks over to the phone.
 PETROV: Mr. President.
@@ -1087,7 +1083,7 @@ FIGHTER PILOT #1 (V.0.): I'm on it.
 MARSILALL: Can you... can you drop in front of me? I'll follow you out.
 COL. CARLTON: Hang tough, I'm on my way.
 EXT. SKY - NIGHT: On the two MiG's heading for Air Force One. An F-15 drops in behind them. The MiGs scissor and break in OPPosite directions. The F-l5 can only follow one of them.
-FIGHTER PILOT 11: I'm tight on one, the other's loose. I need help down here. The other MiG comes up on the 747 and opens fire with his CANNONS. The shells rip up the surface of the aircraft's wing. The MiG swoops past Air Force One and jerks into a * vertical. On the damaged wing - Fuel starts leaking out and the outer jet engine catches fire.
+FIGHTER PILOT 11: I'm tight on one, the other's loose. I need help down here. The other MiG comes up on the 747 and opens fire with his CANNONS. The shells rip up the surface of the aircraft's wing. The MiG swoops past Air Force One and jerks into a vertical. On the damaged wing - Fuel starts leaking out and the outer jet engine catches fire.
 INT. COCKPIT, AIR FORCE ONE - NIGHT: Red warning light flashes on the control panel.
 MARSHALL: We're hit. We've got an engine on fire.
 COT. CAALTON (V.0.): Shut it down. Shut it down. Marshall reaches over and toggles the shutoff switch.

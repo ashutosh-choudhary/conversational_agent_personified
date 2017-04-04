@@ -27,10 +27,10 @@ LUCY: (caught) I didn't look in the front closet under the steps!  Is Daddy comi
 JOHN, JR.: (hearing this, jumping up and down) Yeah!  Daddy!  Daddy!  Daddy! (on second thought) And a Captain Power!
 HOLLY: (a little tightly) Well, we'll see what Santa and Mommy can do.  Goose, put Paulina on, okay?
 PAULINA: Hello, Mrs. Holly.  You coming home soon?
-HOLLY: I'm working on it. (beat) Did Mr. McClane call?                               *
+HOLLY: I'm working on it. (beat) Did Mr. McClane call?
 PAULINA: No ma'am.
-HOLLY: Well...maybe there wasn't time before               * the flight.  You should probably make up the spare room just in case.
-PAULINA: (smiling) Yes, Mrs. Holly.  I do that already.                *
+HOLLY: Well...maybe there wasn't time before the flight.  You should probably make up the spare room just in case.
+PAULINA: (smiling) Yes, Mrs. Holly.  I do that already.
 MCCLANE: (sotto, to himself) California.
 MCCLANE: I'm John McClane.
 ARGYLE: (introducing himself) Argyle.  I'm your limo driver.  Hey, nice bag.
@@ -68,14 +68,14 @@ MCCLANE: Holly McClane?
 GUARD: Just type it in there.
 MCCLANE: Cute toy.
 GUARD: Yeah.  When you have to take a leak it'll help you find your zipper.
-MCCLANE: Thirtieth floor...                                  *
+MCCLANE: Thirtieth floor...
 GUARD: (pointing) Take the express elevator and get off at the noise.
 MCCLANE: Lots of hardware...
 MCCLANE: (to himself, shaking his head) California...
 MCCLANE: Excuse me, I'm looking for --
 TAKAGI: Holly Gennero?
 MCCLANE: Yeah.  How'd you know?
-TAKAGI: I've spent half my life on airplanes,               * I can recognize someone who just got off one. (shaking hands) I'm Joe Takagi, Mr. McClane.  I have ...something to do with this company.
+TAKAGI: I've spent half my life on airplanes, I can recognize someone who just got off one. (shaking hands) I'm Joe Takagi, Mr. McClane.  I have ...something to do with this company.
 MCCLANE: So I've heard.
 TAKAGI: Holly went to the Vault room to FAX some documents...she should be back any...
 ELLIS: Ah...hi...I just had to make a quick call, and this was the nearest phone...
@@ -85,7 +85,7 @@ MCCLANE: (sotto) Relax, Ellis.  I'm off duty.
 TAKAGI: (eager to change the subject, to McClane) Can I get you anything?  Food?  Cake? Watered down champagne punch?
 MCCLANE: (grinning) I'm fine. (looking through the glass) You throw quite a party.  I didn't know they had Christmas in Japan.
 TAKAGI: Hey, we're flexible.  Pearl Harbor didn't work out, we got you with tape decks.
-ELLIS: Actually, it's kind of a double celebration.        * We closed a pretty big deal today and a lot of it was due to Holly.
+ELLIS: Actually, it's kind of a double celebration. We closed a pretty big deal today and a lot of it was due to Holly.
 HOLLY: All set, Joe.  The contracts went over the wire, and -- (surprised) John...!
 HOLLY: (recovering) I was hoping you made that flight.
 JOHN: (quietly) I was hoping you were hoping that.
@@ -99,14 +99,14 @@ MCCLANE: (surprised, actually feeling tension decline) Son-of-a-bitch.  It works
 HOLLY: What are you doing?
 MCCLANE: It's a long story.  You know, I think that Ellis has his eye on you.
 HOLLY: That's okay... (pause) ... I have an eye on his private bathroom.
-HOLLY: So, where are you staying?  This                    * all happened so fast I didn't even ask you on the phone.
+HOLLY: So, where are you staying?  This all happened so fast I didn't even ask you on the phone.
 MCCLANE: Well, Cappy Roberts retired out here a couple years ago.  He said I could bunk with him.
 HOLLY: Oh...Where does he live?
 MCCLANE: Ramona...no, Pomona, that's it.
 HOLLY: Pomona!  You'll be in the car the whole time...Look, let's make this easy.  I have a spare bedroom.  It's not huge, but the kids would love to have you at the house.
 MCCLANE: They would, huh?
 HOLLY: (beat; honest) I would too.
-HOLLY: ...I've missed you.                                 *
+HOLLY: ...I've missed you.
 MCCLANE: Especially my name.  You must miss it every time you write a check.  When did you start calling yourself 'Ms. Gennero'?
 HOLLY: (caught) This is a Japanese company, you know? They figure a married woman, she's on the way out the door...
 MCCLANE: Sure.  It's unnerving.  I remember this one particular married woman, she went out the door so fast there was practically a jetwash...I mean, talk about your wind chill factor...
@@ -138,10 +138,10 @@ HANS: (quite civil) Mr. Takagi.  How do you do.  My name is Hans Gruber.
 MCCLANE: (mumbling to himself) 32 construction...33 computers...
 HANS: Nice suit.  John Philips...London?
 HANS: (smiles) I have two myself. (beat, as he exits:) I'm told Arafat shops there too...
-HANS                                 *: And when Alexander saw the breadth of his domain, he wept.  For there were no more worlds to conquer. (to Takagi) The benefits of a classical education.
+HANS: And when Alexander saw the breadth of his domain, he wept.  For there were no more worlds to conquer. (to Takagi) The benefits of a classical education.
 HANS: It's beautiful.  I always enjoyed models as a boy.  The exactness, the attention to every foreseeable detail... perfection.
 TAKAGI: (defensively) This is what this is about?  Out building project in Indonesia? Contrary to what you people think, we're going to develop that region... not 'exploit' it.
-HANS: I believe you. (smiling) I read the article in Forbes.                       *
+HANS: I believe you. (smiling) I read the article in Forbes.
 HANS: Mr. Takagi, we could discuss industrialization of men's fashions all day, but I'm afraid my associate, Mr. Theo, has some questions for you. Sort of fill-in-the blanks questions actually...
 TAKAGI: I don't have that code...! (beat; to Hans) You broke in here to access out computer?!?  Any information you could get -- they wake up in Tokyo in the morning, they'll change it! You won't be able to blackmail our executives or threaten --
 HANS: Mr. Takagi...I'm not interested in your computer. (beat) I'm interested in the 640 million dollars in negotiable bearer bonds you have in you vault.
@@ -182,15 +182,15 @@ MCCLANE: A million terrorists in the world and I kill the one with feet smaller 
 HANS: I wanted this to be professional, efficient, adult, cooperative.  Not a lot to ask.  Alas, your Mr. Takagi did not see it that way... (harder) So he won't be joining us for the rest of his life. (as that sinks in) We are prepared to go any way you make us.  When we have achieved our aims you can walk out of here... or be carried out.  Decide now, each of you.  But remember that we have planned everything to the last detail. We are completely in change.
 HANS: (indicating the hostages) Get them over there.  Schnell!
 FRITZ: Perhaps a security guard we overlooked...?
-HANS: (thoughtfully) Security guard?  They're usually tired and burned out old policemen growing           * fat on a pension...This is... something else.
+HANS: (thoughtfully) Security guard?  They're usually tired and burned out old policemen growing fat on a pension...This is... something else.
 FRITZ'S VOICE: (slightly spooked) We have to do something, Hans.
 HANS' VOICE: (not pleased) Yes...we have to tell Karl his brother is dead.  Tell him to come down.
 HANS: Franco, you and Fritz take the body upstairs and out of sight.  I don't want the hostages to think too much.
 MCCLANE: Jesus...
 HANS: I know what you are feeling.  But this is not productive --
 KARL: (pushing him away) He was my only brother...my only family! (a flat statement) I want blood for my blood.  We search...now.
-HANS: (firmly) No.  Heinrich's team must finish planting the detonators...and Theo needs time on the vault.  After the                  * police come they'll waste hours trying to negotiate...that's when we search                 * for this man.  Until then...we do not alter the plan.
-KARL: (quietly) And if he alters it...?                              *
+HANS: (firmly) No.  Heinrich's team must finish planting the detonators...and Theo needs time on the vault.  After the police come they'll waste hours trying to negotiate...that's when we search for this man.  Until then...we do not alter the plan.
+KARL: (quietly) And if he alters it...?
 ELLIS: What's happening?
 HOLLY: They don't look happy...something's gone wrong.
 ELLIS: The police...?
@@ -202,8 +202,8 @@ HOLLY: (quietly) Tell that to Mr. Takagi.
 MCCLANE: Mayday, Mayday!  Anyone!  Terrorists have seized and Nakatomi building and are holding 30 or more hostages! I say again --
 MCCLANE'S VOICE: -- unknown number of terrorists, six or more, armed with automatic weapons at Nakatomi, Century City... Somebody answer me, Goddamnit!
 HANS: The roof.  It's the best place to transmit.
-DISPATCHER: It's the same address as that fire signal --                                            *
-SUPERVISOR: (frowning) -- the false alarm?  I'll handle                     * it.
+DISPATCHER: It's the same address as that fire signal --
+SUPERVISOR: (frowning) -- the false alarm?  I'll handle it.
 SUPERVISOR: (into mike) Attention, whoever you are.  This channel is reserved for emergency calls only --
 MCCLANE'S VOICE: No fucking shit, lady!  Do I sound like I'm ordering a pizza?
 KARL: No one kills him but me.
@@ -221,7 +221,7 @@ DISPATCH VOICE: One Adam Ten, do you copy?
 POWELL: (into police radio) Roger, dispatch.  I'm on the way.
 HANS' VOICE: Karl?  Franco?  Did you catch him?
 FRANCO: No, but he's in the elevator shaft.
-HANS' VOICE: Prefect.  The elevators are locked off.              * He can't escape.  Just shut him in and return to base.
+HANS' VOICE: Prefect.  The elevators are locked off. He can't escape.  Just shut him in and return to base.
 KARL: Hans, he killed by brother --
 HANS: (more firmly) Karl, I know you want him, but the police are probably on their way. Maybe we can convince them it was all a mistake, but not if they hear gunshots! If you lock him in he'll be neutralized -- now do it!  Karl?  Karl!
 MCCLANE: Whew...for a moment there I was worried.
@@ -252,7 +252,7 @@ POWELL: (terrified) -- Jesus H. Christ! (grabbing for his radio) 6421, this is O
 DISPATCHER'S VOICE: Roger, One Adam Ten, please repeat.
 POWELL: One Adam Ten, under automatic rifle fire at Nakatomi!  Requesting immediate backup and SWAT assistance...
 MCCLANE: Welcome to the party, pal.
-THORNBURG                             *: (into phone) -- of course I can get us a table, Wolfgang and me, we're like that. I interviewed him...hold on,                         * babe...
+THORNBURG: (into phone) -- of course I can get us a table, Wolfgang and me, we're like that. I interviewed him...hold on, babe...
 POLICE SCANNER: (various voices) -- attention all units.  Officer pinned down by automatic weapon fire at Nakatomi, Century City -- request assistant -- (ETC)
 POWELL'S VOICE: (intermixed with all this) -- guys, you want to cut through the red tape?  They practically turned this car into Swiss cheese -- !
 THORNBURG: (pleased) All right...!
@@ -262,13 +262,13 @@ ELLIS: I never through I'd love to hear that sound.
 HANS: (in mid-speech) -- all of you, stay at your posts! We knew that police action was inevitable... (an odd smile) ...In fact, it's necessary.  So let them start their feeble efforts; until them, stay calm.  We have the hostages, remember.  We are still in charge.
 HANS: (picking it up) I told all of you...I want radio silence until further --
 MCCLANE: Gee, I'm sorry, Hans, nobody gave me the message.  You shoulda put it on the bulletin board.  Anyway, I thought you and Franco and Karl and the other boys might be lonely, now that I waxed Tony and Marco and their buddy.  So I invited some of the guys from my card game.
-FRANCO                                *: How...how does he know so much about --
+FRANCO: How...how does he know so much about --
 HANS: (waving for silence) Ah, how nice of you to call.  I assume you are our mysterious party crasher.  You are most troublesome for a...security guard?
 MCCLANE: (into CB) BZZZ!  Sorry, Hans, wrong guess. Would you like to go for Double Jeopardy, where the stakes are double and the scores really change?
 MCCLANE: (sotto, to the body) Bad for your health anyway.
 HANS: Who are you, then?
 MCCLANE: Just the fly in the ointment, Hans. The monkey in the wrench, the pain in the ass -
-HANS: Check on all the others...don't use the radio.  See if he's lying about Marco  and find out if anyone                  * else is missing.                                     *
+HANS: Check on all the others...don't use the radio.  See if he's lying about Marco  and find out if anyone else is missing.
 HANS: Mr. Mystery Guest.  Are you still there?
 MCCLANE: I wouldn't think of leaving, Hans. Unless you want to open the front door...?
 HANS: I'm afraid not.  But you have me at a loss -- you know my name, but who are you? (scornfully) Just another American who saw too many movies as a child.  Another orphan of a bankrupt culture who thinks he's John Wayne...Rambo... Marshal Dillion.
@@ -284,9 +284,9 @@ HANS: Then don't waste time talking to me.
 POWELL'S VOICE: This is Sergeant Al Powell of the Los Angeles Police Department.  If the person who radioed for help on this channel can hear me, acknowledge this transmission...I say again...
 MCCLANE: (to CB) I read you, Powell.  You the guy in the car?
 POWELL: (to CB) What's left of him.  Can you identify yourself?
-MCCLANE: Maybe later.  Just listen fast because this is a party line and the neighbors are trigger happy. Now here's the skinny:  There's thirty or so hostages on the 30th floor, with probably 2 or 3 guards to cover a group that size. The leader here is named Hans, and besides the pea shooter he ventilated your car with,                            * they got machine guns and                            * sidearms up the yin yang.  On top of that one of 'em had a big enough chunck of plastic explosive to orbit Kate Smith.                                    *
+MCCLANE: Maybe later.  Just listen fast because this is a party line and the neighbors are trigger happy. Now here's the skinny:  There's thirty or so hostages on the 30th floor, with probably 2 or 3 guards to cover a group that size. The leader here is named Hans, and besides the pea shooter he ventilated your car with, they got machine guns and sidearms up the yin yang.  On top of that one of 'em had a big enough chunck of plastic explosive to orbit Kate Smith.
 FRANCO: We have to find him and shut him up!  He's telling them everything --
-HANS: (shaking his head, calming) The police are irrelevant.  We've                    * waiting for the FBI.  Until they                     * arrive, we can't finish out work. Meanwhile, let this fool waste time for the police.  Fritz, go help Uli                  * find the bag.
+HANS: (shaking his head, calming) The police are irrelevant.  We've waiting for the FBI.  Until they arrive, we can't finish out work. Meanwhile, let this fool waste time for the police.  Fritz, go help Uli find the bag.
 HANS: We must find those detonators.
 POWELL'S VOICE: How many are there?
 MCCLANE: (thinking about it) Figuring there's at least one to cover the lobby, a couple with the hostages...I'd say they came in with about a dozen...but they're down to nine now, including the skydiver you already met.  These guys are mostly Europeans, judging by their clothing labels, and they're well financed and very slick.
@@ -455,9 +455,9 @@ HANS: (off-mike, a shrug) I read about them in Time magazine. (on mike) When the
 ROBINSON: Two hours?  Are you insane?  I can't authorize...hello?  Hello?
 KARL: Do you think they'll even try to do it?
 HANS: Who cares? (on another channel) Theo.  Are we on schedule?
-THEO                                  *: One more to go...then it's up to you.
+THEO: One more to go...then it's up to you.
 THEO: And you better be right, because this one's going to take a miracle.
-HANS                                  *: It's Christmas, Theo, it's the time of miracles.  So be of good cheer and call me when you hit the last lock. (disconnecting) Karl...hunt the little shit down and get those detonators.
+HANS: It's Christmas, Theo, it's the time of miracles.  So be of good cheer and call me when you hit the last lock. (disconnecting) Karl...hunt the little shit down and get those detonators.
 HANS: I'll check the explosives.  You just get those detonators.
 MCCLANE: Al?  Al, you there?
 POWELL: I'm here, cowboy.
@@ -523,8 +523,8 @@ THORNBURG: You got something?
 MARY: (waving a paper) Just McClane's name, badge number, police record, vital statistics... (the ringer) ...And his family's address right here in L.A.
 GINNY: That one look pissed, Ms. Gennero...
 HOLLY: (relieved) Thank God. (explaining) He's still alive.
-THEO: You better heat up that miracle                      * you were talking about.  We broke through on Number Six, and the Electromagentic came down like a sledgehammer...
-HANS: (unphased)                                    * Well have a look at what our friends outside are doing and I'll be right up.
+THEO: You better heat up that miracle you were talking about.  We broke through on Number Six, and the Electromagentic came down like a sledgehammer...
+HANS: (unphased) Well have a look at what our friends outside are doing and I'll be right up.
 POWELL: (on CB) Roy?  You still with us?
 MCCLANE: Yeah.  But all things being equal, I'd rather be in Philadelphia.  By the way, chalk up two more terrorists.
 POWELL: They boys'll be glad.  We got a pool going on you.
@@ -539,8 +539,8 @@ MCCLANE: I...I'm sorry.  I didn't mean to make a joke of it.
 POWELL: (offhand) Hey, you couldn't know.
 MCCLANE: I still feel like shit.
 POWELL: Then this won't matter. (reluctantly) LAPD's not calling the shots anymore.
-THEO                                  *: (tapping the screen) There's the city engineers...they're going into the street circuits...But who are these guys in the suits?
-HANS: That's the FBI...ordering them to cut                * the building's power.  They're as regular as clockwork...or a time lock...
+THEO: (tapping the screen) There's the city engineers...they're going into the street circuits...But who are these guys in the suits?
+HANS: That's the FBI...ordering them to cut the building's power.  They're as regular as clockwork...or a time lock...
 HANS: ...the circuits that cannot be cut... are cut automatically in reponse to a terrorist incident...You ask for miracles, Theo...I give you the FBI...
 THEO: When you're hot, you're hot.
 GUY IN MANHOLE: We're spliced in down the line.
@@ -644,9 +644,9 @@ HOLLY: (taking Powell's hand, correcting) Holly McClane.
 POWELL: (to her) A pleasure.  I guess John doesn't need me to give you that message anymore.
 HOLLY: (puzzled) Message?
 POWELL: You know, about him being such a jerk -- and how he's really sor -- (seeing McClane) -- ee...Uh, I'm sure he'll fill you in.
-ROBINSON: I want you for debrief, McClane. You've got some things to answer for -- Ellis' murder -- property damage -- interfering with police                    * business --
+ROBINSON: I want you for debrief, McClane. You've got some things to answer for -- Ellis' murder -- property damage -- interfering with police business --
 POWELL: (shrugging) You were right.  You couldn't have made it without me.
 THORNBURG: Mr. McClane...Mrs. McClane...any comment on your incredible ordeal? What are your feelings now that it's all over?
-THORNBURG: (eager)                                       * Did you get that?
+THORNBURG: (eager) Did you get that?
 ARGYLE: (getting in the front) If this is their idea of Christmas I gotta be there for New Year's.
 THE END: Twentieth Century Fox SCRIPT DEPARTMENT 10201 W. Pico Boulevard, Los Angeles, CA 90035 Telephone:  (213) 203-2494

@@ -1,0 +1,5550 @@
+<td valign="top">
+<br/> <table width="100%"><tr><td class="scrtext">
+<pre>
+<script>
+<b><!--
+</b>if (window!= top)
+top.location.href=location.href
+<b>// -->
+</b></script>
+
+<title>Resident Evil - by George A. Romero</title>
+<b>
+</b><pre>	
+<b>			     	    RESIDENT EVIL
+</b><b>				  ORIGINAL SCREENPLAY
+</b><b>					 BY
+</b><b>				    GEORGE A. ROMERO
+</b><b>	
+</b><b>			        BASED ON THE GAME BY CAPCOM
+</b><b>	
+</b><b>				      SCREEN STORY
+</b><b>					 BY
+</b><b>				    GEORGE A. ROMERO
+</b><b>					  &amp;
+</b><b>				     PETER GRUNWALD
+</b><b>	
+</b><b>	
+</b><b>				    CONSTANTIN FILM
+</b><b>			         ROMERO-GRUNWALD PRODUCTIONS
+</b><b>	
+</b><b>				       FIRST DRAFT
+</b><b>				     OCTOBER 7, 1998
+</b><b>	
+</b><b>	---
+</b>	This text orginiated from <a href="http://www.new-blood.com">www.New-Blood.com</a>, please check them 
+	out for Resident Evil coverage.
+<b>	---
+</b><b>	
+</b>	Pg-1
+<b>	
+</b><b>	
+</b><b>				     RESIDENT EVIL
+</b><b>	
+</b>	PRESENTATION CREDITS appear... then FADE...
+<b>	
+</b>	Out of BLACK... SHOCK CUT TO:
+<b>	
+</b><b>	INT   LAB   "A" LEVEL   TIMELESS
+</b><b>	
+</b>	A MAN'S FACE, filling the screen.
+<b>	
+</b>				MARCUS (filter)
+			Stay away from here!
+<b>	
+</b>	We're watching A VIDEO MONITOR. A pre-recorded tape shows
+	a view of what is obviously a pristine-RESEARCH LABORATORY.
+	DR. JOHN MARCUS, in a lab coat, faces THE CAMERA, disheveled
+	and looking like a madman.
+<b>	
+</b>				MARCUS (cont. filter)
+			This lab must remain sealed!
+<b>	
+</b><b>	INT   CONFERENCE ROOM   TIMELESS
+</b><b>	
+</b>	Overhead lamps cast pools of LIGHT down onto A CONFERENCE
+	TABLE, onto THE HANDS of PEOPLE assembled to observe the
+	video. We see NO FACES. But expensive WATCHES, sleeves
+	with high-ranking STRIPES, indicate wealth, power, and a
+	military presence.
+<b>	
+</b>	THE VIDEO: On the wall behind MARCUS, we see SHADOWS darting
+	frantically. We hear VOICES rising in panic.
+<b>	
+</b>				MARCUS (cont. Filter)
+			For God's sake, don't come in!
+<b>	
+</b>	The CAMERA is SWATTED by A HAND that lurches suddenly into
+	the foreground. We only see it for a few video frames, but
+	we might subliminally notice LESIONS on the flesh. The IMAGE
+	SWIRLS wildly. The next clear picture we see... is of the
+	same laboratory...topsy-turvy. THE CAMERA is lying on its
+	side on the floor.
+<b>	
+</b>				VOICE IN THE ROOM (o.s.)
+			Look.  Here.
+<b>	
+</b>	A LASER POINTER casts a RED DOT on a corner of the video
+	screen, indicating A HUNCHED FIGURE, leaning over A HUMAN
+	BODY, apparently ...feeding! With a GRUNT, the figure turns.
+	and LUNGES, it's face covered with BLOOD, at the CAMERA. The
+	image SWIRLS again, and the SCREEN GOES BLACK. With a MUSIC
+	STING, a single TITLE appears, full across the blackness...
+<b>	
+</b><b>			        RESIDENT EVIL
+</b><b>	
+</b><b>	
+</b>	Pg-2
+<b>	
+</b><b>	EXT  FOREST LAND   PRE-DAWN
+</b><b>	
+</b>	A DARK SKY ...and in the foreground, profiled against a FULL
+	MOON, A DARK FACE ...watching the heavens with piercing black
+	eyes, alert, though not predatory. This is CHRIS REDFIELD,
+	young, handsome. More than simply an outdoor type, he seems
+	perfectly in place, almost part of the environment.
+<b>	
+</b>	A band of purple tints the horizon, outlining the tops of
+	magnificent uncorrupted hills that extend for miles. Sitting
+	on a ridge, squinting into that band of light, Chris sees ...
+<b>	
+</b>	...AN EAGLE coasting on a channel of wind that cuts through
+	the hilltops. As the bird moves swiftly closer, it becomes
+	recognizable. Chris smiles and jots a note on a pad.
+<b>	
+</b>	The regal bird lands on a high rock where ...unexpectedly...
+	a freshwater trout lies flapping, three-thousand feet above
+	the highest water.
+<b>	
+</b><b>				CHRIS
+</b>			Take it, Goliath. It's yours.
+<b>	
+</b>	"Goliath" snaps up the fish and flies away with it.
+<b>	
+</b>				CHRIS (cont.)
+			See ya next year, guy.
+<b>	
+</b>	Chris reaches into a water-filled bucket, pulls out another
+	trout, climbs efficiently, unerringly, across a precarious
+	Cliffside, and deposits the fresh fish on the-same high rock.
+	ANOTHER EAGLE, smaller, a female, appears in the sky.
+<b>	
+</b>				CHRIS (cont.)
+			Cleopatra.
+<b>	
+</b>	Chris scrambles back to his place and jots another note.
+<b>	
+</b>	"Cleopatra" spots the fish, pumps her wings, and swoops down.
+	She's about to snap up the prize, but at the last minute, she
+	recoils and climbs again, hovering.
+<b>	
+</b>				CHRIS (cont.)
+			Come on. Come on down.
+<b>	
+</b>	The eagle circles, its sharp eyes scanning. It makes another
+	dive, but stops short again.
+<b>	
+</b>				CHRIS (cont.)
+			What's the matter, beautiful?
+<b>	
+</b>	The bird seems frightened.  Of what? It makes one more dive.
+	Gets very close to the fish... but suddenly SHRIEKS and peels,
+	away from the rock. Chris sees its eyes, looking crazed, as
+	it soars right past him, its wings brushing his hair.
+<b>	
+</b><b>	
+</b>	Pg-3
+<b>	
+</b>	CLOSE ON: CHRIS, concerned, as he watches the eagle disappear
+	over the hills.
+<b>	
+</b>	Over his shoulder, we can see the high rock that holds the
+	fish. It's out of focus in the background, but the moonlight
+	catches SOMETHING MOVING there. Something that lets out a
+	sharp INHUMAN SOUND.
+<b>	
+</b>	Chris whirls around. There's nothing on the rock. Nothing
+	at all. The fish has been taken.
+<b>	
+</b><b>	
+</b><b>	INT   JILL'S APARTMENT   DAWN
+</b><b>	
+</b>	CHRIS walks into a characterless apartment. He quietly
+	sheds his clothes. Even in silhouette, we can see that his
+	body is in perfect shape, not pumped, but lean and tight.
+	Moving lithely, with the natural grace of a cat, he eases
+	himself into a bed where...
+<b>	
+</b>	...a beautiful young girl, JILL VALENTINE, seems to be fast
+	asleep. As Chris nestles in beside her, we see that her
+	eyes, facing away, are open. Chris gently drapes an arm
+	around her and lets his body relax.
+<b>	
+</b><b>				CHRIS
+</b>			(A whisper) Glad you're still 
+			here, lady
+<b>	
+</b><b>				JILL
+</b>			It's my apartment.
+<b>	
+</b><b>				CHRIS
+</b>			(Surprised) You're awake.
+<b>	
+</b><b>				JILL
+</b>			I've been awake. Since you left.
+<b>	
+</b><b>				CHRIS
+</b>			Sorry.
+<b>	
+</b>	His apology goes no further. He's still troubled by what
+	happened in the hills.
+<b>	
+</b>				CHRIS (cont.)
+			There was... something wrong.
+<b>	
+</b><b>				JILL
+</b>			What, with my dinner? I never had
+			a mother. I'll learn.
+<b>	
+</b>	Chris smiles politely. He offers...
+<b>	
+</b><b>				CHRIS
+</b>			I'll do the cooking.
+<b>	
+</b><b>	
+</b>	Pg-4
+<b>	
+</b>	...but he can't switch focus.
+<b>	
+</b>				CHRIS (cont.)
+			On the mountain...there...must
+			have been something... prowling
+			around up there.
+<b>	
+</b><b>				JILL
+</b>			There are probably all kinds of
+			things prowling around up there.
+			In the middle of the night.
+<b>	
+</b>	Chris apologizes again, this time more sincerely.
+<b>	
+</b><b>				CHRIS
+</b>			I'm sorry. Really. You...have to
+			be there at dawn. They ride the
+			wind over the ridge.
+<b>	
+</b><b>				JILL
+</b>			Dawn? You left at one A.M.
+<b>	
+</b><b>				CHRIS
+</b>			I had to go fishing. It's the fish
+			that bring them down, so I can get
+			a close look at them. (Enthused)
+			I've tracked a dozen of them, Jill.
+			Twelve of those big bruisers. I can
+			actually recognize them. I've even
+			given them names, over the years.
+<b>	
+</b><b>				JILL
+</b>			You've been doing this for years?
+<b>	
+</b><b>				CHRIS
+</b>			Only in the early Autumn. When
+			they're' migrating.
+<b>	
+</b><b>				JILL
+</b>			I'II set the alarm for next. October.
+<b>	
+</b>	Jill rolls over and faces him.
+<b>	
+</b>				JILL (cont.)
+			I wish I could get excited. Really.
+			That's the truth. As excited as you,
+			over such... simple things.
+<b>	
+</b><b>				CHRIS
+</b>			Beauty... isn't simple. If it was...
+			I'd be beautiful.
+<b>	
+</b><b>				JILL
+</b>			You are.
+<b>	
+</b>	Pg-5
+<b>	
+</b><b>				CHRIS
+</b>			No, no, no.  I'm simple.  You, on the
+			other hand...(nuzzling closer)...have
+			all that... stuff... hiding underneath
+			somewhere. That's what fascinates me.
+<b>	
+</b><b>				JILL
+</b>			Fascination. Not love?
+<b>	
+</b>	Jill is being playful. Chris, taking her question to heart,
+	becomes introspective.
+<b>	
+</b><b>				CHRIS
+</b>			I... honestly don't know. I guess
+			I've been... living alone too long.
+			You're the first, the only woman I've
+			ever thought of as... a real partner.
+<b>	
+</b>	Now Jill becomes introspective.
+<b>	
+</b><b>				JILL
+</b>			I've always been...afraid of living
+			alone. I've always had... people...
+			talking at me... knowing they could
+			wind me up and I'd do... (shrug) ...
+			whatever they wanted.
+<b>	
+</b>	Chris looks into her eyes. She kisses him gently.
+<b>	
+</b>				JILL (cont.)
+			We all have... something hidden...
+			underneath.  Beauty may not be simple.
+			But it's not all that complicated,
+			Either.  Most of the time, you find
+			It... right in the middle of all the...
+			confusion.
+<b>	
+</b><b>				CHRIS
+</b>			I'm part Mohawk. Indians are never
+			confused. At least, they never let
+			it show.
+<b>	
+</b>	They kiss again, this time more passionately. Rolling over,
+	they begin to make love.
+<b>	
+</b><b>	EXT   FARM   DAWN
+</b>	The purple horizon is turning orange, but it's still quite
+	dark when a crusty old farm-hand, RAKE, opens the creaking
+	door of a stable and, with a flashlight, leads THREE HORSES
+	out into the morning breeze.
+<b>	
+</b>	Two dogs, A LAB and A SPANIEL, romp at his heels as Rake
+	opens a log gate.
+<b>	
+</b>	Pg-6
+<b>	-
+</b>	Two of the untethered horses trot obediently into a large
+	corral. The third, a beautiful stallion, resists, snorting,
+	tossing its head in high spirit.
+<b>	
+</b><b>				RAKE
+</b>			Get in there, Lucky. Quit horsin'
+			around. Get in.
+<b>	
+</b>	"LUCKY" moves into the corral, strutting proudly.
+<b>	
+</b>				RAKE (cont.)
+			Swear. If I didn't know you was
+			just an animal, I'd say you was all
+			full of yourself. GET IN THERE!
+<b>	
+</b>	Rake waves his flashlight, not meanly, there is clearly a
+	great deal of affection here. Rake shuts the gate behind
+	the stallion, who begins to gallop around happily inside
+	the fence. All seems lovely, until...
+<b>	
+</b>	...the dogs suddenly go on point. Their ears perk. They
+	sniff the air...and begin to WHINE.
+<b>	
+</b>				RAKE (cont.)
+			What's wrong with you two?
+<b>	
+</b>	KER-RAAKK! A startling SOUND. Rake turns to find Lucky and
+	the other horses, their eyes flaring, trying to KICK their
+	way out of the fencing. They seem terrified.
+<b>	
+</b><b>	CUT TO :
+</b><b>	
+</b>	A WIDE SHOT:  of RAKE, and the frightened ANIMALS, from
+	two hundred yards away. THE CAMERA MOVES IN, slowly at
+	first, then gaining speed... extraordinary SPEED. We are
+	seeing THROUGH THE EYES OF... whatever it is that's running,
+	charging, SLATHERING HUNGRILY...
+<b>	
+</b>	...reaching the corral, DARTING through the fence, past the
+	KICKING HORSES, and LEAPING at Rake, who whirls around...and
+	CRIES OUT in pain as his flashlight BLINDS us with WHITENESS.
+<b>	
+</b><b>	EXT   AIR BASE   DAWN
+</b><b>	
+</b>	The WHITENESS becomes the GLARE of HALOGEN LIGHTS. We are
+	overwhelmed by the SOUND of AIRCRAFT ENGINES. We see MEN,
+	armed SOLDIERS, scrambling into combat HELICOPTERS.
+<b>	
+</b>	A RADIO MAN runs right toward THE CAMERA, holding out an
+	open receiver.
+<b>	
+</b><b>				RADIO MAN
+</b>			Top brass, sir!
+<b>	
+</b><b>	
+</b>	Pg-7
+<b>	
+</b>	ANOTHER MAN, in the foreground, takes the radio-phone. We
+	can't see his face. Only his forearm, which bears A TATTOO
+	of a grinning SKULL.
+<b>	
+</b><b>				MAN WITH TATTOO
+</b>			Alpha Leader.
+<b>	
+</b>				VOICE ON PHONE (o.s. filter)
+			How long before you get in there?
+<b>	
+</b><b>				MAN WITH TATTOO
+</b>			Fifteen minutes.
+<b>	
+</b><b>	INT   AN OFFICE   DAWN
+</b><b>	
+</b>	A SUIT talks on a red telephone. Once again, we see no face.
+	An ostentatious diamond RING kicks light as the man snips off
+	the end off a Monte Cristo.
+<b>	
+</b><b>				MAN WITH RING
+</b>			You're good, soldier. But not that
+			good. It's five hundred miles away.
+			In the backwoods of Pennsylvania.
+<b>	
+</b>				MAN WITH TATTOO (o.s. filter)
+			We have troopers on site. A first-
+			strike force. Under cover.
+<b>	
+</b>	The flame from a wooden match lights the Monte Cristo.
+<b>	
+</b><b>				MAN WITH RING
+</b>			Very resourceful.  You have my
+			permission activate them.
+<b>	
+</b><b>	EXT   AIR BASE   DAWN
+</b><b>	
+</b><b>				MAN WITH TATTOO
+</b>			I've already done that. You have my
+			permission... to say that you gave me
+			permission.
+<b>	
+</b>	THE TATTOOED MAN runs off to join the other SOLDIERS.
+<b>	
+</b><b>	INT   JILL'S APARTMENT   MORNING
+</b><b>	
+</b>	CHRIS sleeps. JILL is awake, deep in thought, when...
+<b>	
+</b>	...BRRRRT! It's not a ring, it's a vibration. Jill reaches
+	down and extracts something small and black, the size of a
+	box of Tic-Tacs, from one of her shoes. She gets out of bed,
+	checking to see that Chris is still asleep, and moves into...
+<b>	
+</b><b>	
+</b>	Pg-8
+<b>	
+</b><b>	INT   JILL'S APARTMENT   BATHROOM   MORNING
+</b><b>	
+</b>	...a bathroom. Closing the door behind her, she puts the
+	small box to her ear, extracts a wire from it, with a tiny
+	microphone on its tip, and...
+<b>	
+</b><b>				JILL
+</b>			(Softly) Valentine.
+<b>	
+</b>	We can't hear the voice that speaks to her.
+<b>	
+</b>				JILL (cont.)
+			If this is just another a drill,
+			I'll strangle you. (She listens)
+			Shit. Give me the activation code.
+<b>	
+</b>	JILL pulls a small ENVELOPE from a toiletry bag. She breaks
+	open a wax seal...and takes out a thick paper on which is
+	printed... 29-RC-6735.
+<b>	
+</b>				JILL (cont.)
+			(Gaping, not believing) Th-that's
+			a match. (Beat) I'm on my way.
+<b>	
+</b>	Jill clicks off. She dumps something else from the envelope
+	into her hand... A BLUE PLASTIC CARD, the size of a Visa,
+	blank except for a mag-stripe. There's a small hole in one
+	corner, through which a chain is strung. Jill slings the
+	chain over head, wearing the blue card like a pendant.
+<b>	
+</b><b>	INT   JILL'S APARTMENT   MORNING
+</b><b>	
+</b>	CHRIS is still asleep. JILL comes out of the bathroom and
+	looks down at him longingly.  Should she wake him?  Tell him
+	what's happening?  She wants to, but duty prevents it.  She
+	pulls herself away.
+<b>	
+</b><b>	INT   JILL'S APARTMENT   CLOSET   MORNING
+</b><b>	
+</b>	TCHIK TCHIK TCHIK...JILL pushes aside hangers which hold her
+	clothes. She types numbers into a hidden KEYPAD. A SECRET
+	PANEL OPENS, revealing a CLOSET WITHIN THE CLOSET, packed
+	with COMBAT UNIFORMS and WEAPONS.
+<b>	
+</b><b>	INT   JILL'S APARTMENT   MORNING
+</b><b>	
+</b>	The sound... TCHUNG... of the front door closing snaps CHRIS
+	awake.  His first thought is for his lover.  He reaches out
+	and finds that... she's not in bed.  He jumps up, rushes to
+	a window, looks down, from the second story, and sees...
+<b>	
+</b><b>	
+</b>	Pg-9
+<b>	
+</b><b>	EXT   JILL'S APARTMENT   MORNING
+</b><b>	
+</b>	...JILL, heavily ARMED, in UNIFORM, wearing a beret that has
+	an insignia... S.T.A.R.S. She rushes down the front path and
+	jumps into A HUMMER with THREE OTHER TROOPERS on board. The
+	vehicle pulls instantly away...
+<b>	
+</b>	...leaving Chris, looking through the window, puzzled, angry,
+	and very much wounded.
+<b>	
+</b><b>	
+</b><b>	INT/EXT   HUMMER   MORNING
+</b><b>	
+</b>	RUSSO drives. WILLIAMS and DISIMONE sit in the back, all
+	tough Special-Forces types. JILL, in the front passenger
+	seat, though the only female, ranks the highest.
+<b>	
+</b><b>				DISIMONE
+</b>			Another practice run, right?
+<b>	
+</b><b>				RUSSO
+</b>			We been practicin' six months!
+			For what?
+<b>	
+</b><b>				JILL
+</b>			For this. This is the real deal.
+<b>	
+</b><b>				WILLIAMS
+</b>			Honest to God?
+<b>	
+</b><b>				JILL
+</b>			Based on my experience, Williams,
+			God isn't always honest
+<b>	
+</b><b>				DISIMONE
+</b>			Where we goin'?
+<b>	
+</b><b>				JILL
+</b>			In there.
+<b>	
+</b>	Jill points into THE ARKLEY FOREST which lies ahead. Miles
+	of old growth-trees shrouded in a ghostly morning mist.
+<b>	
+</b><b>	DISSOLVE TO:
+</b><b>	
+</b><b>	EXT   THE FOREST   MORNING
+</b><b>	
+</b>	DEEP IN THE HEART OF THE MIST... THE HUMMER bounces over
+	non-roads and stops fifty yards from...
+<b>	
+</b>	...A PAIR OF IRON GATES, each wrought with the letter "A".
+	Beyond, the shifting fog offers momentary glimpses of...
+	A MANSION.  Huge.  Like Xandau.  THE TROOPERS, amazed,
+	climb out and approach the gates.
+<b>	
+</b>	Pg-10
+<b>	
+</b><b>				RUSSO
+</b>			If you had the jing to build a place
+			like this, would you build it in the
+			middle of fuckin' nowhere?
+<b>	
+</b><b>				WILLIAMS
+</b>			Paris.
+<b>	
+</b><b>				DISIMONE
+</b>			Manhattan. Upper west.
+<b>	
+</b><b>				JILL
+</b>			(Wistfully) Some people prefer...
+			a quiet life. (Back to business)
+			Our orders are to secure the area.
+<b>	
+</b><b>				DISIMONE
+</b>			From what? This area's been 'secure'
+			since the French and Indian War!
+<b>	
+</b>	A deep, animal SNARL comes from the woods.  The troopers
+	raise their weapons as they peer into the underbrush.  The
+	fog keeps sunlight from penetrating.  The forest is a maze
+	of dark shadows. Leaves flutter.  Limbs SNAP.  Then...
+<b>	
+</b>	DARK SHAPES can be seen moving, circling.  A half-dozen
+	of them.  Maybe more.  Jill whips out a transmitter and
+	quickly types an access code.
+<b>	
+</b><b>				JILL
+</b>			(Into radio) This is Valentine,
+			Bravo Team. We, er... we might be
+			in trouble, here.
+<b>	
+</b>	KRITCH! Something LEAPS out of the brush. Automatic
+	WEAPONS SPIT reflexively.
+<b>	
+</b>	KRITCH KRITCH KRITCH...more lunging SHAES appear. The
+	troopers scatter, firing, as they are attacked from all
+	sides. Jill dives for the shrubbery, shouting into her
+	transmitter.
+<b>	
+</b>				JILL (cont.)
+<b>			WE ARE IN TROUBLE!
+</b><b>	
+</b><b>	CUT TO :
+</b><b>	
+</b><b>	INT   HUEY   MORNING
+</b><b>	
+</b>	JILL'S VOICE stutters over a headset which is pressed against
+<b>	A MAN'S EAR.
+</b><b>	
+</b>				JILL (o.s. filter)
+			Under attack... by.. .assailants...
+			Unidentifi...
+<b>	
+</b>	Pg-11
+<b>	
+</b>	Static. Hissing air. The SHOT WIDENS as the man lowers his
+	headset. First we see the TATTOO on his arm... a grinning
+	SKULL which we recognize. Then, gradually, we see his face.
+	Lean and mean, wearing dark sunglasses, this is ALBERT
+	WESKER, a hard-assed career officer.
+<b>	
+</b><b>				WESKER
+</b>			Can you get a trace?
+<b>	
+</b>	The pilot, LAGUARDIA, responds.
+<b>	
+</b><b>				LAGUARDIA
+</b>			Lost the beacon. It just cut out.
+			Like it was...swallowed by something.
+<b>	
+</b>	Oddly, Wesker smiles.
+<b>	
+</b><b>				WESKER
+</b>			I do believe, gentlemen...that we're
+			gonna be earning some combat pay.
+<b>	
+</b>	There are three other MEN on board. The closest to Wesker
+	is BARRY BURTON, a muscular black man, as big as a grizzly,
+	with the heart of a Teddy.
+<b>	
+</b><b>				BARRY
+</b>			Damn, if you don't love a fight.
+<b>	
+</b><b>				WESKER
+</b>			Hey, if I didn't... you'd be a dead
+			man. (To the pilot) Call in a nine-
+			nine. I want Raccoon City e-vacked.
+<b>	
+</b>	Wesker and the men fly from the lens.  THE CAMERA passes
+	Out through one of the helicopter's windows as the chopper soars
+	away.  When the SHOT WIDENS, we see OTHER HUEYS...black,
+	unmarked, keeping formation.  Three... six...ten of them.
+<b>	
+</b><b>	EXT   FOREST   MORNING
+</b><b>	
+</b>	GUNS BLAZE. THE TROOPERS are under assault by thrashing,
+	inhuman SHAPES...GROWLING, SNAPPING. JILL rolls into a
+	natural trench.  DISIMONE is behind her, WILLIAMS is
+	crawling just ahead, his legs pumping.  Jill scoots past
+	him and sees that...
+<b>	
+</b>	...those legs aren't moving on their own.  They've been
+	RIPPED AWAY FROM WILLIAMS' TORSO and are being dragged into
+	the underbrush by some... BEAST... concealed in the thick
+	brush, so we never get a clear look at it.
+<b>	
+</b>	OTHER BEASTS attack DiSimone.  Then Russo.  We see only
+	details.  Jill fires her pistol, point blank... to no avail.
+	RED-RIMMED EYES, SNARLING JAWS, DROOLING TEETH descend on
+	her as we CUT TO:
+<b>	
+</b><b>	
+</b>	Pg-12
+<b>	
+</b><b>	EXT   JILL'S APARTMENT BUILDING   MORNING
+</b><b>	
+</b>	CHRIS steps out of Jill's building. Suddenly, incongruously,
+	camo-painted HUEYS swoop down out of the sky.
+<b>	
+</b><b>	EXT   RACCOON CITY   MAIN STREET   MORNING
+</b><b>	
+</b>	THE CHOPPERS land where they can. COMMANDOS leap out and
+	begin to cordon off the town.  Bullhorns blare.
+<b>	
+</b><b>	BULLHORN
+</b>	There's been an accident in the
+	hills nearby. A military aircraft,
+	carrying live weapons, has crashed...
+<b>	
+</b><b>	EXT   RACCOON CITY   SIDE STREET   MORNING
+</b><b>	
+</b>	CHRIS runs down a side-street into AN ALLEY, where he's
+	trapped by COMMANDOS, both in front and behind.
+<b>	
+</b><b>				SOLDIER
+</b>			Let's go, hayseed. (Aiming his M-16)
+			You gonna be a good boy?
+<b>	
+</b>	Chris swallows his fury. Gritting his teeth, he goes along
+	with the soldiers, prodded, by rifle barrels, out onto...
+<b>	
+</b><b>	EXT   RACCOON CITY  MAIN STREET   MORNING
+</b><b>	
+</b>	...Main Street, where there is CHAOS... an Orwellian sight,
+	as CITIZENS find themselves horded into helicopters and
+	TRUCKS from the local National Guard Post.
+<b>	
+</b>	A sweating man, still in his pajamas, rushes up to the
+	SOLDIERS that are escorting CHRIS.
+<b>	
+</b><b>				MAN
+</b>			Look here, I'm the Sheriff of this...
+<b>	
+</b><b>				SOLDIER
+</b>			Step aside.
+<b>	
+</b><b>				SHERIFF
+</b>			But, I'm the Sheriff! An ex-Army man, like you.
+<b>	
+</b>				BULLHORN (o.s.)
+			There is no immediate danger, but
+			as a precaution, we are evacuating
+			the area. You will be provided
+			shelter until the weapons have been
+			removed from the crash site.
+<b>	
+</b>	Pg-13
+<b>	
+</b><b>				SHERRIFF
+</b>			That's a worn-out scenario. If
+			a plane crashed nearby, don't you
+			think somebody would have heard
+			it go down? Tell us the truth,
+			guys. What's this really about?
+<b>	
+</b><b>				SOLDIER
+</b>			I said, STEP ASIDE!
+<b>	
+</b>	The soldier lifts his rifle. He's about to CLUB the sheriff
+	when Chris lunges, grabbing his arm. WHOOMPH! Chris kicks
+	the soldier in the balls. The man buckles. Chris bolts.
+<b>	
+</b>	One of the other commandos FIRES at him, a loud BURST which
+	misses Chris but SHATTERS a shop window, setting off wild
+	PANIC on the street. Chris ducks into a building...
+<b>	
+</b><b>	EXT   RACCOON CITY   BACK STREET   MORNING
+</b><b>	
+</b>	...and out a rear door. He runs through a warren of back
+	alleyways, arriving at...
+<b>	
+</b>	...A JEEP SAHARA which is parked behind Jill's apartment
+	building. He jumps in without opening the door, jams the key
+	into the ignition, and ROARS off.
+<b>	
+</b><b>	INT   HUEY   MORNING
+</b><b>	
+</b>	Still airborne, in one of the black helicopters that have yet
+	to reach the site, WESKER barks orders into a radio.
+<b>	
+</b><b>				WESKER
+</b>			Charlie, David, Edward, proceed to
+			Raccoon City. Assist the e-vack.
+			I'm going on target with Alpha Team.
+			All forces stand ready to support.
+<b>	
+</b><b>	EXT   FARM   MORNING
+</b><b>	
+</b>	CHRIS rumbles his jeep onto a picturesque FARM, secluded deep
+	in the forest. We don't recognize it immediately. It was
+	dark when we last saw the place.
+<b>	
+</b>	Jumping out, Chris sees three large SHAPES lying in the grass
+	of a corral. Rushing over, Chris realizes...
+<b>	
+</b>	...they're HORSES. One of them is LUCKY, his prize
+	stallion... DEAD, in a pool of BLOOD, with its belly torn
+	open and a huge chunk out of its neck.
+<b>	
+</b><b>				CHRIS
+</b>			Aw, no... (Devastated) ...L-Lucky.
+<b>	
+</b><b>	
+</b>	Pg-14
+<b>	
+</b>	Chris hears a weak, MOANING SOUND. He turns and sees...
+	RAKE, lying near a water pump. Chris rushes to the man's
+	side and finds him brutally SLASHED, barely clinging to life.
+<b>	
+</b><b>				RAKE
+</b>			(Coughing blood) They... they come
+			outta the trees, Reddy. Don't... don't
+			know what they was. Figure... maybe
+			some kinda... wolves, or somethin' ...
+<b>	
+</b>	Examining the man's wounds, Chris realizes they're fatal.
+<b>	
+</b><b>				RAKE
+</b>			I... I never seen 'em comin'.
+<b>	
+</b><b>				CHRIS
+</b>			Don't try to talk, Rake.
+<b>	
+</b>				RAKE (cont.)
+			I... ain't... never left this farm...
+			untended... since yer daddy first
+			took it over.
+<b>	
+</b><b>				CHRIS
+</b>			I know. You... kept the place runnin'...
+			better than me.
+<b>	
+</b><b>				RAKE
+</b>			I just...never seen 'em comin', Reddy.
+			Never even...had a chance to...turn
+			a gun on 'em.
+<b>	
+</b>	There's a THUNDER in the sky. Chris looks up. Wesker's
+	Fleet of black HUEYS appears on the horizon.  They split up,
+	Seven banking off toward Raccoon City, the remaining three
+	grinding ahead over the forest, slowing down, dropping in
+	altitude.
+<b>	
+</b><b>				CHRIS
+</b>			Where are they going? There's
+			nothing in there... except...
+<b>	
+</b><b>				RAKE
+</b>			Y'oughta... remember it... real good.
+			I do.  From... when you was a kid.
+<b>	
+</b><b>				CHRIS
+</b>			The... the old Arkley place?
+<b>	
+</b><b>				RAKE
+</b>			I remember them days. I surely do...
+			Remember them... them old days.
+<b>	
+</b>	Chris looks back down at the old man, who is drifting,
+	starting to lose it.
+<b>	
+</b>	Pg-15
+<b>	
+</b>				CHRIS (cont.)
+			I'm not gonna bullshit you, Rake.
+			You're...in a bad time. If there's
+			any way to save you, I'll find it,
+			I swear. You just... hang in there,
+			old guy. I'll be right back.
+<b>	
+</b>	Chris jumps to his feet and runs into...
+<b>	
+</b><b>	INT   FARMHOUSE   MORNING
+</b><b>	
+</b>	...the great-room of the FARMHOUSE. Rustic. Cozy. CHRIS
+	snatches up a telephone. There's no dial-tone. The line
+	is dead. Chris rushes to a gun cabinet and pulls out an old
+	WINCHESTER rifle. He scoops ammo from a drawer into a
+	shoulder bag and runs back outside...
+<b>	
+</b><b>	EXT   FARM   MORNING
+</b><b>	
+</b>	...where his eyes catch MOVEMENT in the corral. LUCKY,
+	entrails spilling, is trying to stand.
+<b>	
+</b><b>				CHRIS
+</b>			Oh, God, Rake. Oh, Jesus, the poor thing's still alive.
+<b>	
+</b>	Chris shoulders his ammo bag, reaches inside, and quickly
+	reloads the Winchester. Stepping forward, he aims carefully.
+<b>	
+</b>				CHRIS (cont.)
+			Sorry, old hoss.
+<b>	
+</b><b>	
+</b>	BLAM!  A clean shot to the horse's brain drops the animal.
+<b>	
+</b>	It takes Chris a long moment to recover... then, he looks into
+	the trees. The helicopters are no longer in sight, but their
+	THUNDER remains.  They haven't landed yet.
+<b>	
+</b>	Chris turns and rushes back to Rake's side, only to find...
+	...he has died. Chris' jaws tighten, but he has no time
+	to mourn. He closes Rake's eyes. Digs through the grass.
+	Pulls up a handful of dirt. Stuffs it into the old man's
+	hand, and closes his stiffening fingers over it.
+<b>	
+</b>				CHRIS (cont.)
+			The earth keeps us.
+<b>	
+</b>	Conquering his emotions, Chris runs to his jeep and jumps in.
+	He shifts into four-wheel-drive and, ignoring the road, heads
+	straight over the field for the trees.
+<b>	
+</b>	As the jeep disappears, THE CAMERA CRANES DOWN, ZOOMING
+<b>	IN ON...
+</b><b>	
+</b>	Pg-16
+<b>	
+</b>	...one of the farm dogs. The SPANIEL. Not the entire
+	animal, but one of its three SEPARATE PARTS... it's front
+	end... CRUSHED head, BLOODY neck, and a single BROKEN paw...
+<b>	
+</b>	...which is trying to CRAWL.
+<b>	
+</b>	Fifty yards away, RAKE'S HAND relaxes. The earth spills out
+	through his fingers as the dead man's eyes... POP OPEN.
+<b>	
+</b><b>	EXT   ARKLEY FOREST   MORNING
+</b><b>	
+</b>	THE FIRST OF THE BLACK HUEYS drops, hazardously, into a
+	small clearing with barely enough space. Unable to land
+	on the scrub-brush, it hovers ten feet off the ground. Its
+	rotors CLIP TREE LEAVES as WESKER, BARRY, and TWO OTHER
+	S.T.A.R.S. COMMANDOS jump out, heavily armed. The chopper
+	lifts off, placed by HUEY NUMBER TWO.
+<b>	
+</b>	NOT FAR AWAY, CHRIS navigates through undergrowth until he
+	can see THE HELICOPTERS through the trees. The THUNDER from
+	their rotors masks the grinding of Chris' jeep. He pulls
+	within a hundred yards and, leaving his vehicle in the bush,
+	moves closer, cautiously, on foot.
+<b>	
+</b>	THE THIRD HUEY air-drops TWO MEN and TWO WOMEN in S.T.A.R.S.
+	uniforms. There are TWELVE COMMANDOS in all... ALPHA TEAM.
+	Wesker looks up at the Huey's PILOT, using his radio to speak
+	to the man.
+<b>	
+</b><b>				WESKER
+</b>			You'll have to rotate or you'll run
+			out of fuel, but I want one chopper
+			to remain in the air at all times.
+			We might need help in a hurry.
+<b>	
+</b>	A "Roger that", squaks back as the Huey banks away.
+<b>	
+</b>	Barry looks worried. His instincts are asking... "We might
+	need... 'help'".  Against what? We only see this in his eyes,
+	he says nothing as...
+<b>	
+</b>	...Wesker leads the team through the woods, unaware of...
+<b>	
+</b>	...CHRIS, following behind, crouching around trees and
+	bushes, not a trained commando, but comfortable with the
+	land, a natural warrior using ancestral instincts.
+<b>	
+</b>	THE CAMERA TRACKS COMBAT BOOTS as they CRUNCH through the
+	low-Lying MIST.. .stopping abruptly when they encounter...
+<b>	
+</b>	...WEAPONS, AMMO BELTS, bits of SHRDDED UNIFORMS... and
+	HUMAN BODY PARTS... strewn all through the surrounding brush,
+	remnants of what was obviously a feeding-frenzy.
+<b>	
+</b><b>	
+</b>	Pg-17
+<b>	
+</b><b>				VICKERS
+</b>			Holy... Goh... gaah...
+<b>	
+</b>	BRAD VICKERS vomits. Unarmed, he's Alpha Team's computer-
+	techie. Not a combat soldier, he's a bit of a coward.
+<b>	
+</b>	Another non-combatant, REBECCA CHAMBERS, is the team's
+	medical officer. She digs an ammonia capsule from her
+	pack and holds it under Vickers' nose.
+<b>	
+</b>	RICHARD AIKEN and KENNETH SULLIVAN are buddies, regular
+	G.I. Joes, right out of every war movie. Aiken stares at
+	the carnage, calmly chewing a wad of gum.
+<b>	
+</b><b>				AIKEN
+</b>			You ever eat road-kill, Sullivan?
+<b>	
+</b><b>				SULLIVAN
+</b>			Aiken... a guy with a brain your
+			size would be better off dead.
+<b>	
+</b>				RODRIGUEZ (o.s.)
+			Want me to shoot ya, Aiken?
+<b>	
+</b>	ROSIE RODRIGUEZ, a tough, body-built babe steps in.
+<b>	
+</b>				RODRIGUEZ (cont.)
+			I'm ready ta shoot somebody.
+<b>	
+</b><b>				ALKEN
+</b>			I'll pass. Shoot Sullivan.
+<b>	
+</b>	FOREST SPEYER, a wiry Willem Defoe type, finds a bloody BERET
+	and brings it to Wesker.  There's an I.D. tag on the brim...
+<b>	
+</b><b>				WESKER
+</b>			(Reading the tag) 'Valentine'. (Beat)
+			Radio Washington.  Bravo Team found
+			on site. No survivors.
+<b>	
+</b>	In the bushes, Chris overhears, not wanting to believe. He
+	sees Wesker angrily pitch Jill's beret into the brush.
+<b>	
+</b><b>				WESKER
+</b>			We're goin' in.  Watch your backs.
+<b>	
+</b>	Wesker advances his troops. When the coast is clear, Chris
+	rushes in, picks up the beret, and sees the name tag for
+	himself. "Valentine ".
+<b>	
+</b>	After what happened at the farm... now this... feeling sucker-
+	punched, defeated, Chris hangs his head.
+<b>	
+</b>	One of the HUEYS dips in low.
+<b>	
+</b><b>	
+</b>	Pg-18
+<b>	
+</b>	Chris looks up. The sight of the war machine lifts him from
+	defeat... to rage.  His eyes are soft, for the last time, as
+	he tucks Jill's beret into his pack.  When he looks up again,
+	those eyes have become newly predatory.  He ducks out of
+	sight as the helicopter swings lower.
+<b>	
+</b>	Downdraft from the rotors makes the bushes rustle, catching
+	Chris' attention.  He realizes that... it's not just the wind.
+	The shrubs are being disturbed by...
+<b>	
+</b>	SOMETHING DARK which is moving through them.  It pokes
+	its head out.  A WOLF! Rake was right.  Chris readies his
+	Winchester as the animal stalks forward.
+<b>	
+</b>	It's not a wolf. It's A DOG. Mottled, its flesh gray,
+	covered with rotting lesions... and it has three bleeding
+	BULLET HOLES in its belly, chest, neck.
+<b>	
+</b>	GROWRRR!  It LEAPS at Chris... who fires... BLAM!
+<b>	
+</b>	Up ahead, Wesker and his commandos freeze.
+<b>	
+</b><b>				WESKER
+</b>			Who fired? WHO FIRED?
+<b>	
+</b>	Before anyone can answer, the team is ATTACKED by MORE DOGS
+	which BURST out of the surrounding woods...DOBERMANS and
+	SHEPHERDS... but something is seriously wrong with all of
+	them. Their EYES are DEAD, their FLESH decaying.
+<b>	
+</b>	Automatics piss streams of lead. Hot rounds TEAR through the
+	animals, many of the slugs accidentally blowing out brains.
+	of his bullets hits its target... one of the dogs' heads.
+<b>	
+</b>	The commandos are backed up against... the IRON GATES we
+	saw earlier. The Arkley Mansion stands beyond.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Let's get inside.
+<b>	
+</b>				WESKER (cont.)
+			NO! (Shouting) I WANT 'EM ALL
+<b>			DEAD! YOU HEAR ME? STAND FAST...
+</b><b>			UNTIL THEY ARE ALL DEAD !
+</b><b>	
+</b>	The dogs don't stand a chance. Alpha Team's firepower is
+	overwhelming. But there is a human casualty. JOSEPH FROST
+	trips and falls. One of the dogs POUNCES on him, chewing
+	out his HEART... through his BACK.
+<b>	
+</b>	Wesker steps in, RIDDLING the dead man, and the dog, with
+	forty rounds from his M-16.
+<b>	
+</b>	Pg-19
+<b>	
+</b>	In the next instant, ANOTHER DOG LEAPS at Wesker from behind.
+	He hears its snarl... too late.  He dives into the grass...
+	too late.  The dog is about to land on him when...
+	...it's BLASTED out of mid air by... Barry.
+<b>	
+</b><b>				BARRY
+</b>			Even-Steven, boss.  You saved my
+			ass in the desert.  I saved yours I
+			in Pennsylvania.
+<b>	
+</b>	Wesker stand, straightening his ever-present sunglasses.
+<b>	
+</b><b>				WESKER
+</b>			I don't believe in being... 'Even-
+			Steven' with anybody.  A man saves
+			my ass...I pay him back.  Before
+			this day is over, I'll pay you back,
+			Barry.  Just... stick with me, okay?
+<b>	
+</b>	Wesker checks his equipment belt. Something is missing.
+	He looks to where he rolled in the grass. Using a FLASH-
+	LIGHT, he finds...
+<b>	
+</b>	...a small electronic unit the size of a cell-phone. But
+	it's not a cell-phone. Whatever it is... Wesker clips it
+	onto his belt.
+<b>	
+</b>	FROM THE BRUSH, Chris sees all this. The guns have gone
+	silent. The attack seems to be over. Chris moves stealthily
+	to the body of the animal that he shot. It's wearing a
+	COLLAR which reads...
+<b>	
+</b><b>				  SPIKE #26
+</b><b>	
+</b>	Alongside the I.D., there's a corporate-looking logo... the
+	symbol of an UMBRELLA.
+<b>	
+</b>	GRRROWWWLL! ANOTHER DOG is advancing on Chris. He aims
+	his Winchester.  CLICK! The magazine is empty.  No time to
+	reload.  The dog is on him.  Chris SCRAMBLES away.  The dog
+	BOUNDS after him.
+<b>	
+</b>	Chris drops to the ground.  Did he trip?  No.  He pushes a
+	TREE ROOT, which is FALSE.  It swings open and he dives in,
+	pulling the root shut over him.
+<b>	
+</b>	The dog arrives an instant later.  It lets out an angry
+	howl... and is BLOWN AWAY... by RODRIGUEZ, who neither saw
+	Chris, nor where he went.
+<b>	
+</b>	The forest goes dead quiet.  Too quiet.  There's not even
+	the chirping of morning birds Wesker is SLAPPED startlingly
+	on the back... by Barry.
+<b>	
+</b>	Pg-20
+<b>	
+</b><b>				BARRY
+</b>			Look here, man.  I'd follow you
+			into any kind of enemy fire.  But
+			these things ain't firin' at us.
+			They want us for breakfast!  When
+			are you gonna tell us what the
+			hell is goin' on here?
+<b>	
+</b><b>				WESKER
+</b>			When you need to know.  Just do
+			your job, soldier.  That's what
+			I'm doin'.  My job.
+<b>	
+</b>	Wesker pulls a chain from under his shirt. It holds a card,
+	the size of a Visa, like the one Jill found in her secret
+	envelope, only Wesker's isn't blue, it's green.
+<b>	
+</b>	Stepping away from Barry, he slide the card through a slot
+	in the iron gate-frame.  BUZZZZ.  The GATES SWING OPEN with
+	a rusty SQUEAL.
+<b>	
+</b><b>	INT   TUNNEL   MORNING
+</b><b>	
+</b>	CHRIS crawls through a long, dark shaft with earthen walls,
+	a man-made tunnel.
+<b>	
+</b><b>	EXT   ARKLEY FOREST   MANSION   MORNING
+</b><b>	
+</b>	AT THE MANSION'S FRONT DOOR, a hand-carved monolith of solid
+	oak, WESKER finds another hidden SLOT and swipes his card.
+	The giant door CREAKS OPEN.
+<b>	
+</b><b>	INT   MANSION   CENTRAL HALL   MORNING
+</b><b>	
+</b>	INSIDE, the place looks like a HAUNTED HOUSE, a glorious
+	ruin, once spectacular, now mysterious and threatening.
+	The chandeliers and furniture are covered with sheets that
+	ripple on breezes from a thousand faults in the old walls.
+	Indistinct NOISES echo within the ceiling, the floor, as
+	ALPHA TEAM enters.
+<b>	
+</b><b>				AIKEN
+</b>			Old. They probably don't have cable.
+<b>	
+</b><b>				SULLIVAN
+</b>			They probably don't have radio.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Who's they? Who's place is this?
+<b>	
+</b>	WESKER shuts the front door. The BOOMING SOUND makes us
+	wonder if we will ever see it opened again.
+<b>	
+</b><b>	
+</b>	Pg-21
+<b>	
+</b><b>				WESKER
+</b>			Guy named Arkley.  Bootlegger.  Built
+			this old fortress during prohibition.
+			He figured nobody'd ever find him out
+			here in the back woods.  Nobody did.
+			Till he died.  Feds have had it ever
+			since.  Place has been here for eighty
+			years... derelict... a safe-house.
+<b>	
+</b><b>				BARRY
+</b>			A safe-house... for who? For what?
+<b>	
+</b><b>				WESKER
+</b>			There's a... a secret installation.
+			Below.  A network of laboratories.
+<b>	
+</b><b>				REBECCA
+</b>			What kind of... laboratories?
+<b>	
+</b><b>				WESKER
+</b>			(Shrugging) They didn't issue us
+			gas-masks, so I figure... it's okay
+			to breathe.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Why send in a strike-force?
+<b>	
+</b><b>				SULLIVAN
+</b>			Yeah. What are we supposed to do?
+			Polish the silver?
+<b>	
+</b>				WESKER (cont.)
+			There's a man downstairs. A top-
+			priority man.  It's our job to...
+			bring him out.  Hopefully, there
+			are others alive, as well. We'll
+			Rescue them, too... if we can...but
+			Dr. John Marcus... he comes out alive
+			at any and all cost.
+<b>	
+</b><b>	INT   MANSION   CORRIDOR   MORNING
+</b><b>	
+</b>	Though it's still morning, the windows are sealed over.  No
+	sunshine can enter. From this point on... there will be no
+	indication of time... except as shown on clocks.  A sense of
+	dread takes hold of us as...
+<b>	
+</b>	...dark SHADOWS LURCH...FEET SCRAPE sluggishly... not in
+	combat boots, but in Nikes, loafers, Dr. Martens... past an
+	accordion GATE of corroded bronze.  A motor HUMS.  Behind
+	the gate, an old-fashioned service ELEVATOR rises... but stops
+	just below floor level. EYES peer out, waiting for the
+	shuffling feet to pass.  Then the car rises the rest of
+	the way, revealing its occupant...
+<b>	
+</b>	Pg-22
+<b>	
+</b>	...JILL VALENTINE! She's alive! She deactivates the
+	elevator by pulling her blue ACCESS CARD out of an incon-
+	gruously modern receptacle. Checking to be sure that the
+	coast is clear, she slides the accordion gate aside and
+	steps out into the corridor.
+<b>	
+</b>	With a ghostly MOAN, something LUNGES at her out of the
+	shadows. It's A MAN in a lab coat. His skin is ROTTING,
+	his teeth SNAPPING, like the dogs'. He tries to BITE Jill,
+	not merely to do injury. He seems HUNGRY!
+<b>	
+</b>	Jill leaps aside, lifting her pistol and FIRING... once,
+	twice, three times. The man is shot in the stomach, heart,
+	neck...but he keeps coming! Finally, Jill shoots him in the
+	head...and he falls.
+<b>	
+</b>	Jill quickly reloads, on instinct. But as she does it, she
+	stares at the corpse, frowning, weighing life-long belief
+	against the hideous facts of the moment.
+<b>	
+</b><b>	INT   MANSION   CENTRAL HALL   MORNING
+</b><b>	
+</b>	WESKER and his troopers hear the GUNSHOTS. There are THREE
+	DOORS nearby. Wesker selects one that seems to lead to the
+	source of the gunshots. Using his card, he unlocks it.
+<b>	
+</b><b>				WESKER
+</b>			Three men stay here. Chambers...
+<b>	
+</b><b>				REBECCA
+</b>			I'm not a man.
+<b>	
+</b><b>				WESKER
+</b>			Rodriguez...
+<b>	
+</b><b>				RODRIGUEZ
+</b>			I'm better than a man.
+<b>	
+</b>	Wesker grins, but hardly skips a beat.
+<b>	
+</b><b>				WESKER
+</b>			Alright. you come with us. Aiken,
+			Sullivan, stick here with Chambers.
+<b>	
+</b>	The troop moves out. Aiken and Sullivan remain in the
+	central hall with Rebecca.
+<b>	
+</b><b>				AIKEN
+</b>			Why us?
+<b>	
+</b><b>				SULLIVAN
+</b>			I dunno why me. You? I guess the
+			C.O. figures you're as worthless
+			as a dame, Aiken.
+<b>	
+</b>	Pg-23
+<b>	
+</b>	Sullivan catches Rebecca's eye.
+<b>	
+</b>				SULLIVAN (cont.)
+			Er... sorry, ma' am. I... I didn't  ...
+			I meant Aiken... Not you.
+<b>	
+</b><b>				REBECCA
+</b>			Relax. I get it.
+<b>	
+</b><b>	INT   MANSION LIBRARY   TIMELESS
+</b><b>	
+</b>	WESKER leads his TROOP into an enormous, cobwebbed library
+	lined with book shelves, but no books. There are doorways
+	on all four walls. Wesker pulls out something that looks
+	like a Game-Boy. He types on a keypad. A MAP of the mansion
+	appears. Wesker scrolls with the arrow-keys. Barry looks
+	on very impressed with the high-tech unit.
+<b>	
+</b><b>				BARRY
+</b>			That thing...tells you where to go?
+<b>	
+</b>	Wesker doesn't answer. He pockets the "Game Boy".
+<b>	
+</b><b>				WESKER
+</b>			One man stays here. Ridley. You're
+			it. Shoot to kill. Just make sure
+			it's not one of us. The rest of you...
+			this way.
+<b>	
+</b>	Wesker, leads his squad through one of the doorways. RIDLEY,
+	a young rookie, remains.
+<b>	
+</b><b>	INT   UNDERGROUND CAVERN   TIMELESS
+</b><b>	
+</b>	CHRIS reaches the end of the earthen tunnel. There are
+	signs that children once played here... TOY SOLDIERS.
+	GRAFFITI.  Chris finds his nickname... Christopher Reddy...
+	etched in hardened mud.  After a moment of reflection,
+	he moves on, into...
+<b>	
+</b><b>	
+</b><b>	INT   ENTRY CHAMBER   TIMELESS
+</b><b>	
+</b>	...a small, sheet-rock chamber.  CHRIS rushes to a DOOR
+	that looks like it's been there since the beginning of time.
+	As soon as he touches the knob... AN ALARM SOUNDS!
+<b>	
+</b><b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	RIDLEY, standing guard, hears THE ALARM. He hears Chris
+	JIGGLING the knob. But he sees NO DOOR. The walls around
+	him seem to be solid slabs.
+<b>	
+</b><b>	
+</b>	Pg-24
+<b>	
+</b><b>	INT   ENTRY CHAMBER   TIMELESS
+</b><b>	
+</b>	CHRIS can't get the doorknob to turn. Behind him, a dusty
+	ORIENTAL CARPET BULGES upward. One corner flops aside.
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	RIDLEY is spooked by the sound. Frightened, trembling,
+	he un-slings his rifle.
+<b>	
+</b><b>				RIDLEY
+</b>			Who... who's there?
+<b>	
+</b><b>	INT   ENTRY CHAMBER   TIMELESS
+</b><b>	
+</b>	CHRIS doesn't hear the trooper. Behind him, A Decomposed
+	HAND pokes out of a drainage ditch beneath the carpet. It
+	gropes. Finds purchase on the floor.
+<b>	
+</b>	Chris is unaware of the danger. He HURLS himself against
+	the door. He can't break through.
+<b>	
+</b>	The thing that climbs out of the ditch was once a man, once
+	a SCIENTIST. It's wearing a lab coat and a pair of thick
+	EYEGLASSES. But it's long dead. It's... A ZOMBIE.
+<b>	
+</b>	As it pulls itself up, its eyeglasses strike the side of the
+	ditch. They fall, CLATTERING, the rims scraping the zombie's
+	cheek, which peels away like onion skin.
+<b>	
+</b>	Chris hears the noise. Turns and sees...
+<b>	
+</b>	...the dead man, reaching out hungrily.  Chris is trapped.
+	He aims his Winchester. CLICK! He forgot. It's empty.
+<b>	
+</b>	The zombie pulls itself fully up onto the floor. Chris digs
+	in his shoulder bag. Pulls out a handful of bullets and with
+	them, accidentally, Jill's BERET. Rising emotion stops him
+	for a moment.
+<b>	
+</b>	The dead man crawls toward him. Chris might not have time
+	to load. As he tries to jam a bullet into his rifle, the
+	zombie SWATS at him.  Catches the beret.  Looks at it.
+	Sniffs it.  The bullet pops out of Chris' nervous fingers.
+	He tries to load another.
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	RIDLEY spots A BLUE ACCESS SLOT in the wall. He levels his
+	automatic and CHEWS the thing up with a short burst.
+<b>	
+</b>	A PANEL SWINGS OPEN! CHRIS dives out... with the ZOMBIE
+	inches behind him. Ridley FIRES off another BURST OF ROUNDS.
+<b>	
+</b><b>	
+</b>	Pg-25
+<b>	
+</b>	Stray bullets PIERCE the zombie's head. It drops back into
+	the chamber...with Ridley never knowing why.
+<b>	
+</b>	Ridley and Chris look at each other, asking rapid-fire
+	questions, none of them answered.
+<b>	
+</b><b>				RIDLEY
+</b>			Who are you?
+<b>	
+</b><b>				CHRIS
+</b>			Who are YOU? What the hell is 
+<b>			S.T.A.R.S.?
+</b><b>	
+</b><b>				RIDLEY
+</b>			How'd you get in here?
+<b>	
+</b><b>				CHRIS
+</b>			Who sealed the door?
+<b>	
+</b><b>				RIDLEY
+</b>			Who knew there a door?
+<b>	
+</b>	WHAM! ANOTHER ZOMBIE appears suddenly behind Ridley, BITING
+	out the muscle between his shoulder and neck. The trooper
+	stands, stunned, for a moment...
+<b>	
+</b><b>				RIDLEY
+</b>			Who... who... ?
+<b>	
+</b>	...then he drops..
+<b>	
+</b>	The zombie, in a uniform, once a security guard, gazes dully
+	at Chris.  A wet sound comes from inside its gullet as it
+	calmly chews on Ridley's flesh.  Swallowing, it reaches out.
+	Chris grabs its arms, FLINGS it into the chamber. Then
+	FIRES his Winchester, once, putting a HOLE in the thing's
+	head. Chris slams the door.
+<b>	
+</b><b>	
+</b><b>	INT   MANSION   DINING ROOM   TIMELESS
+</b><b>	
+</b>	In a Hearst-sized dining room with draped furniture, WESKER
+	and the OTHER TROOPERS have heard the new gunfire.
+<b>	
+</b><b>				SPEYER
+</b>			Where'd that come from?
+<b>	
+</b><b>				BARRY
+</b>			Back...where we just were.
+<b>	
+</b><b>				SPEYER
+</b>			Shit, man, we're chasin' our tails!
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-26
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	CHRIS hears the CLATTERING of the troopers heading his way.
+	What he doesn't hear is... a slight CRACKLING... in the walls.
+<b>	
+</b><b>	INT   MANSION   CORRIDOR   TIMELESS
+</b><b>	
+</b>	WESKER and his TEAM burst into the corridor with the old-
+	fashioned ELEVATOR.  FLASHLIGHTS find... the body of the
+	ZOMBIE that was shot by Jill, bullet HOLES allover its body.
+<b>	
+</b><b>				SPEYER
+</b>			Damn. Surnbitch took a lotta lead.
+<b>	
+</b><b>				BARRY
+</b>			That's not what killed him. Blood's
+			still running. Wounds are fresh.
+			But look at his skin. This guy's
+			been dead for a couple of days.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			He was dead... before he was shot?
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	CHRIS checks Ridley.  No pulse.  His own rustling movements
+	prevent him from hearing... that soft CRACKLING SOUND.
+<b>	
+</b>	The kitchen is lined with fifty-year-old IVY-PATTERNED
+	WALLPAPER.  The printed VINES seem to be MOVING!  Chris
+	doesn't notice until the vines begin to WIGGLE furiously...
+	and RIP THROUGH the paper.  They're REAL.  Sprouts from
+	some sort of exotic plant, that have climbed up the walls...
+	with INTELLIGENCE!  They seem aware of Chris' presence.
+<b>	
+</b><b>				REBECCA (O.S.)
+</b>			Ridley?
+<b>	
+</b>	REBECCA has appeared in an open doorway. Chris looks at her,
+	with the tips of the vines beginning to brush his shoulders.
+<b>	
+</b>				REBECCA (cont.)
+			Who... who are...
+<b>	
+</b><b>				CHRIS
+</b>			I... I'm one of the good guys, okay
+			I'm just trying to...
+<b>	
+</b><b>				REBECCA
+</b>			(Calling) SULLIVAN! AIKEN!
+<b>	
+</b><b>				CHRIS
+</b>			Shit.
+<b>	
+</b><b>	
+</b>	Pg-27
+<b>	
+</b>	Chris, familiar with the room, opens a SMALL DOOR in the
+	wall, barely man-sized, and almost invisible because it's
+	covered in matching wallpaper. Chris dives in.
+<b>	
+</b>	AIKEN and SULLIVAN pop up behind Rebecca, having barely
+	caught a glimpse of Chris.
+<b>	
+</b><b>				AIKEN
+</b>			Who was that?
+<b>	
+</b><b>				SULLIVAN
+</b>			Forget him. What are they?
+<b>	
+</b>	Sullivan points at the vines... which are swirling, groping,
+	as if alive, making their way toward Ridley's body.
+<b>	
+</b><b>	INT  MANSION   CHUTE   TIMELESS
+</b><b>	
+</b>	In a LAUNDRY CHUTE, propping himself against the sides,
+	CHRIS descends...down...down... as he did as a child...
+	and comes out onto...
+<b>	
+</b><b>	INT   CRAWL SPACE   TIMELESS
+</b><b>	
+</b>	...a DROP-CEILING, newly installed. Iron frames support
+	AIR-FILTRATION SYSTEMS and other heavy MACHINERY. Sheet-
+	metal walls have replaced the old soffit and fascia. LIGHT,
+	from somewhere below, knifes through gridded iron vents.
+<b>	
+</b><b>				CHRIS
+</b>			Somebody did some major remodeling.
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	The VINES continue to advance.
+<b>	
+</b><b>				REBECCA
+</b>			We gotta get him out!
+<b>	
+</b>	THE TROOPERS rush to retrieve RIDLEY'S BODY. The VINES hover
+	around them, occasionally DARTING, then pulling back, as if
+	they were timid animals, hungry, but afraid of anew food-
+	dish. When AIKEN brandishing his M-16, the VINES RECOIL and
+	RETRACT fully... THWIP THWIP THWIP... behind the wallpaper and
+	down... somewhere into the bowels of the house.
+<b>	
+</b><b>				AIKEN
+</b>			What? Smart fuckin' plants?
+<b>	
+</b><b>				SULLIVAN
+</b>			No big deal. Most-plants are
+			smarter than you, Aiken.
+<b>	
+</b><b>	
+</b>	Pg-28
+<b>	
+</b><b>	INT   MANSION   CORRIDOR   TIMELESS
+</b><b>	
+</b>	THE OTHERS are still puzzling over the DOWNED ZOMBIE.
+<b>	
+</b><b>				SPEYER
+</b>			Why would anyone shoot a dead man?
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Lemme guess. Maybe 'cause he was...
+			walkin' around?
+<b>	
+</b>	Barry steps closer to the corpse, notes its collapsed skull.
+<b>	
+</b><b>				BARRY
+</b>			Head-shot. We were sprayin' those
+			dogs outside... but think about it.
+			Were any of 'em brought down without
+			a head-shot.
+<b>	
+</b>	Wesker has been exploring the corridor. Stopping in front
+	of the elevator, he shines his light into the car. We expect
+	someone... or some-thing... to be lurking inside.
+<b>	
+</b>	An attack comes from the opposite direction. A FIGURE BURSTS-
+	out of the shadows behind Weasker. Another Zombie?  No.  It's
+	JILL! In a rage, she holds her pistol to Wesker's head.
+<b>	
+</b><b>				JILL
+</b>			I lost three me.  You killed them,
+			Wesker. You did... and I did. Because
+			I didn't know what to expect... because
+			you... didn't tell me!
+<b>	
+</b><b>				WESKER
+</b>			(Calmly) Tell you what?
+<b>	
+</b><b>				JILL
+</b>			Anything! I wasn't told anything!
+<b>	
+</b><b>				WESKER
+</b>			Put down the gun.
+<b>	
+</b>	Instead, Jill CLICKS the hammer back.
+<b>	
+</b>				WESKER (cont.)
+			Put down the gun.
+<b>	
+</b><b>				JILL
+</b>			Not until...
+<b>	
+</b><b>				WESKER
+</b><b>			RELEASE! THAT'S AN ORDER, SOLDIER!
+</b><b>	
+</b>	Jill blinks. Slowly, reluctantly, she lowers her gun.
+<b>	
+</b>	Pg-29
+<b>	
+</b>	Wesker turns... and recognizes her.
+<b>	
+</b>				WESKER (cont.)
+			How... did you get in here?
+<b>	
+</b><b>				JILL
+</b>			(Sarcastic) How ya doin' , Valentine?
+			Good to see ya. Glad you're still
+			alive. Same here, colonel, I'm...
+<b>	
+</b><b>				WESKER
+</b>			How did you get in here?
+<b>	
+</b><b>				JILL
+</b>			(Exploding) The same way those fuckin'
+			dogs got out! Through their pens!
+			(Relaxing some) I... locked them off.
+<b>	
+</b><b>				WESKER
+</b>			Good thinking.
+<b>	
+</b>	A VOICE interrupts, from the end of the corridor.
+<b>	
+</b>				VOICE (o.s.)
+<b>			MAN DOWN!
+</b><b>	
+</b>	The voice is SULLIVAN'S. The troopers run to join him.
+	Last to leave the corridor are Wesker and Jill. Wesker
+	gestures gallantly.
+<b>	
+</b><b>				WESKER
+</b>			Ladies first.
+<b>	
+</b><b>				JILL
+</b>			Fuck you.
+<b>	
+</b><b>	INT   MANSION   KITCHEN   TIMELESS
+</b><b>	
+</b>	The TROOPERS trickle into the kitchen to find... REBECCA,
+	kneeling over RIDLEY'S CORPSE, examining the ragged bite
+	on its neck.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Maybe... they're in the house.
+			More of them dogs.
+<b>	
+</b><b>				REBECCA
+</b>			Diameter's too small. It... almost
+			looks as if... it was done by a...
+<b>	
+</b><b>				JILL
+</b>			(Arriving) A human?
+<b>	
+</b>	Rebecca looks up. The two women make sisterly eye-contact.
+<b>	
+</b><b>	
+</b>	Pg-30
+<b>				REBECCA
+</b>			Yes, but... what kind of... human...
+			would do something like this?
+<b>	
+</b><b>				AIKEN
+</b>			Not a vegetarian, that's for sure.
+<b>	
+</b><b>				SULLIVAN
+</b>			Aiken, you'd be better off...
+<b>	
+</b><b>				REBECCA
+</b>			There was a guy. Not part of the
+			team. And there was... some kind
+			of... plant... that seemed... alive.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Gimme a fuckin' break.
+<b>	
+</b><b>				AIKEN
+</b>			No shit. It disappeared... right
+			into the wall.
+<b>	
+</b>	Rodriguez cringes when she finds a ragged hole in the wall-
+	paper near where she's standing.
+<b>	
+</b><b>				WESKER
+</b>			I guess it's... time to spill it.
+<b>	
+</b>	WESKER pulls off his dark glasses for the first time.
+<b>	
+</b>				WESKER (cont.)
+			I don't know... much more than I
+			already told you.  I'll tell you
+			the rest now.  The labs hare are...
+			were...working on special apps for
+			bio-eng1neered materials.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Speak English, hombre.
+<b>	
+</b><b>				WESKER
+</b>			Marcus has been experimenting with
+			an artificial... man-made... virus.
+			Coded...the 'T'-virus.  Financing
+			came from a private corporation, you
+			may have heard the name... Umbrella.
+<b>	
+</b><b>				JILL
+</b>			They're... multi-national. Huge.
+<b>	
+</b><b>				WESKER
+</b>			So huge that they have... connections...
+			in high places.  That's why we're here.
+<b>	
+</b><b>	
+</b>	Pg-31
+<b>	
+</b><b>				BARRY
+</b>			This virus... it jumped, right?
+<b>	
+</b><b>				SPEYER
+</b>			Shit! We're all dead! We got the
+			bug, and we're all dead!
+<b>	
+</b><b>				WESKER
+</b>			It's not airborne. It was spread...
+			in the water supply. Lab animals
+			and... the researchers themselves...
+			passed it on... by...
+<b>	
+</b><b>				JILL
+</b>			By... biting.
+<b>	
+</b>	Wesker hangs his head. It's an affirmation.
+<b>	
+</b><b>				BARRY
+</b>			You catch this virus and... what?
+<b>	
+</b><b>				WESKER
+</b>			You die. But... not for long. The
+			chemical...revives the brain, and...
+<b>	
+</b><b>				RODRIGUEZ
+</b>			You stand back up... and chew on
+			the first guy you see.
+<b>	
+</b><b>				SPEYER
+</b>			Christ, this is like... Night of the
+			Living Dead!
+<b>	
+</b><b>				BARRY
+</b>			Why, in the name of Jesus, would
+			anybody wanna mess with shit...
+			that does that shit?
+<b>	
+</b><b>				WESKER
+</b>			Victory, friend. Civilization has
+			come a long way, but we still have...
+			war.  Imagine... a soldier who can't
+			die.  That... was the concept.
+<b>	
+</b><b>				JILL
+</b>			But the virus... jumped.
+<b>	
+</b><b>				WESKER
+</b>			Hopefully... if we got all the dogs...
+			we've contained it.
+<b>	
+</b><b>				JILL
+</b>			Hopefully?  Jesus... why didn't you
+			tell us?
+<b>	
+</b><b>	
+</b>	Pg-32
+<b>	
+</b><b>				WESKER
+</b>			By telling you NOW, I've put your
+			lives in jeopardy. Nobody has this
+			information. Except a few high-and-
+			mightys. Me. And now, you.
+<b>	
+</b>	The troopers fall silent as all this sinks in.
+<b>	
+</b>				WESKER (cont.)
+			We have to get Marcus out of here.
+			He developed this thing. He's the
+			only one who... understands it.
+<b>	
+</b><b>				REBECCA
+</b>			I don't know, this all sounds pretty
+			shaky to me...
+<b>	
+</b>	With a lightning move, Wesker draws his pistol and...BLAM!
+	FIRES... at Rebecca. She flinches. The bullet flies past
+	her and SHATTERS the skull of RIDLEY, the dead trooper who,
+	having stood up, was about to attack Rebecca from behind.
+	Ridley drops... dead again.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Guess that proves it. A head-shot
+			knocks 'em down.
+<b>	
+</b>	Rebecca turns and looks at the blood-splattered body.
+<b>	
+</b><b>				REBECCA
+</b>			Th-that man.. .was dead. (Freaking)
+			I... I'm a doctor! I should know!
+			That man was dead!
+<b>	
+</b>	Vickers reaches in Rebecca's bag, pulls out an ammonia
+	capsule, cracks it, and holds it under her nose.
+<b>	
+</b><b>				VICKERS
+</b>			I hope you have a lot of these.
+<b>	
+</b><b>	
+</b><b>	INT   CRAWL-SPACE   TIMELESS
+</b><b>	
+</b>	CHRIS crawls across the drop-ceiling, into the up-rising
+	light from one of the vents. He looks down through the
+	grid work and sees...
+<b>	
+</b>	...the same LABORATORY that was behind Marcus in the opening
+	video. No longer pristine, it's wrecked, torn apart. Files
+	are scattered everywhere along with smashed fragments of
+	furniture and computer hardware.
+<b>	
+</b>	CAGES that line the walls are filled with LAB ANIMALS making
+	NERVOUS CHATTER. Chris watches a MONKEY sip water from a
+	dish. Like the other animals, its skin is rotting.
+<b>	
+</b><b>	
+</b>	Pg-33
+<b>	
+</b>	Chris is about to move on, when his eye catches...
+<b>	
+</b>	...MOVEMENT... outside the cages.  There's A MAN, in a
+	lab coat, sitting at a desk, writing on a note pad.
+<b>	
+</b><b>				CHRIS
+</b>			(Calling) Hey.
+<b>	
+</b>	CLOSE ON: the man's HAND... flaking, decomposing.  The pen
+	it holds is making only random, erratic marks.
+<b>	
+</b>				CHRIS (cont.)
+<b>			HEY!
+</b><b>	
+</b>	The man turns his head, slowly, to look up toward the voice.
+	There's NOTHING left of his FACE. RAW TISSUE seeps odd-
+	colored fluids. A single eyeball is nested tenuously in
+	the ooze. Something like a mouth, recognizable only because
+	of its position, opens... and GROANS.
+<b>	
+</b>	Chris, pumping his Winchester, hears... KRANG! A NOISE from
+	below. He looks down again, just as...
+<b>	
+</b>	...the lab door BURSTS open. WESKER and ALPHA TEAM stream
+	into the lab. The thing with. the destroyed face turns toward
+	the invaders, stands, and shuffles toward them.
+<b>	
+</b>	Without hesitation, Wesker, on point, FIRES a quick burst
+	into the thing's brain. It drops like a sack. The lab
+	animals SHRIEK.
+<b>	
+</b>	The team files in, not noticing... ANOTHER ZOMBIE... crawling
+	across the floor...heading directly for SPEYER. Chris shouts
+<b>	
+</b>				CHRIS (cont. )
+<b>			HEADS UP!
+</b><b>	
+</b>	He punches out the grate with the barrels of his rifle
+	and... BLAM!...punches a sure-fire HOLE in the zombie's head.
+<b>	
+</b>	BRAD VICKERS, his nerves badly frayed, thinks the team is
+	being attacked. He SPRAYS the ceiling with his automatic.
+<b>	
+</b>	Chris ducks and rolls, narrowly escaping the initial barrage,
+	but bullets keep coming, punching a dotted line up through
+	the ceiling panels.
+<b>	
+</b>	Chris scrambles, as fast as he can, his feet barely escaping
+	the punch holes.
+<b>	
+</b>	He finds himself on top of an enormous checkerboard of vents
+	and Plexiglas panels. Bullets weaken the framework. It
+	sags... then CRACKS, dropping away. Chris is plunged into...
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-34
+<b>	
+</b><b>	INT   LAB   LEVEL "A" TIMELESS
+</b><b>	
+</b>	...WATER! CHRIS kicks, paddles with his rifle, righting
+	himself, getting his bearings. He's in a huge AQUARIUM
+	that's built into one of the laboratory's walls... and he's
+	not alone. There are SIX SHARKS in the tank. ZOMBIE SHARKS,
+	their flesh rotting, leaking pus.
+<b>	
+</b>	The largest of them SNAPS at Chris, but its jaws catch only
+	a clump of his swirling hair. Chris kicks with his feet,
+	remaining upright, and FIRES his wet Winchester.
+<b>	
+</b>	The bullet wimps-out, restrained by the water. It penetrates
+	the shark, but barely. We can see the casing lodged in the
+	animal's flesh.
+<b>	
+</b>	Chris gets an idea. He kicks forward. Plants the barrel
+	of his Winchester directly against the aquarium glass...
+	only to find himself aiming directly at...
+<b>	
+</b>	...JILL, who is aiming back at him with her M-16. They're
+	both stunned. They stare at each other for a moment, like
+	gunfighters, until...
+<b>	
+</b>	...another shark circles in for an attack. Chris swings the
+	Winchester away from Jill and FIRES underwater. The aquarium
+	glass CRACKS... but holds.
+<b>	
+</b>				JILL (cont.)
+			Hang on! We're gonna get wet!
+<b>	
+</b>	Jill FIRES. More CRACKS, but the glass is resistant.
+	Chris out. Water SURGES into the lab, knocking Wesker and
+	some of his squad down.
+<b>	
+</b>	They stand up again, only to find themselves knee-high in a
+	dark pool...with SHARK FINS slicing the surface. Everybody
+	opens fire. The dead fish keep coming.
+<b>	
+</b><b>				AIKEN
+</b>			Where the fuck is a shark's brain?
+<b>	
+</b><b>				SULLIVAN
+</b>			In it's head! I swear, Aiken, you
+			would be better off dead.
+<b>	
+</b>	In a bizarre frenzy, the sharks KICK their tails, making
+	startlingly quick turns, darting every which way, SNAPPING
+	at the scent of warm flesh. The troopers, hampered by the
+	water, SPLASH around wildly, many of them nearly getting
+	bitten. The air above thickens with a fog of graphite from
+	ten spitting automatics.
+<b>	
+</b><b>	
+</b>	Pg-35
+<b>	
+</b>	The water gets darker as it becomes clouded with BLOOD. But
+	thankfully, the level is dropping. The water is seeping out
+	through GRATES in the floor. The sharks become more visible,
+	moving slower as their bellies scrape the floor.
+<b>	
+</b>	The troopers pick them off, one by one. The immediate threat
+	passes...but as the water drains away, the troopers become
+	aware of... a KLAXON-LIKE SOUND. ANOTHER ALARM. The entry
+	door glides shut with a BOOOMMM!
+<b>	
+</b><b>				WESKER
+</b>			Nice. Very NICE, Valentine! You
+			set off a containment breach!
+<b>	
+</b><b>				JILL
+</b>			It must have been the water. God,
+			the water! (She turns to Chris}
+			Did you swallow any?
+<b>	
+</b><b>				SPEYER
+</b>			I did.
+<b>	
+</b><b>				SULLIVAN
+</b>			A bunch of us did, man.
+<b>	
+</b><b>				WESKER
+</b>			Separate systems. Salt water.
+			No germs. But.. .it breached!
+<b>	
+</b>	Wesker, looking crazed, his sunglasses gone, is typing on
+	his "Game-Boy"... getting no response.
+<b>	
+</b>				WESKER (cont.)
+			We can go in deeper.  But we can't
+			get out.  Not with my card-key.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			So...we live here now.
+<b>	
+</b>	Rosie finds Sullivan looking at her curiously.
+<b>	
+</b>				RODRIGUEZ (cont.}
+			Landlords. Shit hills. Kicked my
+			family out of six apartments. I
+			got use to sayin'...'So...we live
+			here now'.
+<b>	
+</b><b>				WESKER
+</b>			There are override exits... but I
+			can't find them without THIS!
+<b>	
+</b>	Wesker FLINGS his "Game-Boy" angrily against a wall. It
+	shatters into bits.
+<b>	
+</b><b>	
+</b>	Pg-36
+<b>	
+</b><b>				CHRIS
+</b>			That was a smart move.
+<b>	
+</b>	Wesker bristles. He's about to confront Chris, but he spots
+	his sunglasses where they were deposited on a floor grate by
+	the water. He walks over and picks them up, wiping the
+	lenses on his shirt. Without looking at Chris, he asks...
+<b>	
+</b><b>				WESKER
+</b>			And... you are?
+<b>	
+</b><b>				CHRIS
+</b>			Nobody.  Just a...a local guy...
+<b>	
+</b>	Chris spots a dry lab-coat hanging on a wall hook. He takes
+	it down and uses it to dry his rifle.
+<b>	
+</b>				CHRIS (cont.)
+			...who gets pissed-off when he finds...
+			his farm animals... and his father's
+			oldest friend... dead. And the only
+			woman he ever cared about turns out
+			to be a goddam METAL HEAD!
+<b>	
+</b>	Wesker, while seeming to understand, still doesn't look up.
+<b>	
+</b><b>				WESKER
+</b>			Valentine...who is this asshole?
+<b>	
+</b><b>				JILL
+</b>			His name is Chris Redfield. He was...
+			part of my cover, sir.
+<b>	
+</b><b>				CHRIS
+</b>			Cover?
+<b>	
+</b>	A snappy argument develops, a lover's quarrel, with higher-
+	than-normal stakes.
+<b>	
+</b><b>				JILL
+</b>			This is not the time to mouth off,
+			Chris! You're in deep shit here!
+<b>	
+</b><b>				CHRIS
+</b>			Why didn't you let me in on this?
+<b>	
+</b><b>				JILL
+</b>			Why did you have to come after me?
+			How did you get in here, anyway?
+<b>	
+</b><b>				CHRIS
+</b>			I used to play here, when this was
+			a fucking laundry room!  And what
+			makes you think I came after YOU?
+<b>	
+</b><b>	
+</b>	Pg-37
+<b>	
+</b><b>				BARRY
+</b>			(Interrupting) Whoa! Look here.
+<b>	
+</b>	Barry is stooped over the faceless zombie that Wesker shot.
+	He rips an I.D. badge from the corpse's coat.  He tosses it
+	to Wesker, who reads the I.D... "DR. J. MARCUS"
+<b>	
+</b>				BARRY (cont.)
+			Is this the pile of shit we're
+			supposed to bring out of here?
+<b>	
+</b><b>				WESKER
+</b>			It...it once was.
+<b>	
+</b>				VICKERS (o.s.)
+			I got something here.
+<b>	
+</b>	BRAD has been quietly working at one of the lab's computers.
+	Barry rushes over and looks at the monitor screen.
+<b>	
+</b><b>				BARRY
+</b>			A map. Same as on your gizmo. Exits
+			marked...blue and green.
+<b>	
+</b>	Wesker steps in for a look.
+<b>	
+</b><b>				WESKER
+</b>			The greens are the overrides. (To
+			Brad) Can you print this out?
+<b>	
+</b><b>				VICKERS
+</b>			I can try.
+<b>	
+</b>	Chris calmly retrieves his wet shoulder bag from the floor.
+	He wrings out the cloth and, using the lab coat, wipes the
+	bullets dry.
+<b>	
+</b>				VICKERS (cont.)
+			(Off the screen) We're on level 'A'.
+<b>	
+</b><b>				WESKER
+</b>			We have to get down to level 'D'.
+<b>	
+</b><b>				BARRY
+</b>			Hold on. Marcus is dead. If this
+			mission was about bringin' him out,
+			we're outta here, right?
+<b>	
+</b><b>				WESKER
+</b>			I wish we were, but no. We have
+			a potential outbreak here. We might
+			be the only ones who can stop it.
+<b>	
+</b>	Pg-38
+<b>	
+</b><b>				SPEYER
+</b>			Stop it? How?
+<b>	
+</b><b>				WESKER
+</b>			There's... an antidote.
+<b>	
+</b>	Everyone's ears perk.
+<b>	
+</b>				WESKER (cont.)
+			We can't bring Marcus out, but we
+			can bring out the serum. Maybe
+			somebody...can analyze it... and
+			figure how to beat the virus.
+<b>	
+</b>	Jill looks at Chris. Catches him weighing options.
+<b>	
+</b><b>				JILL
+</b>			(Privately) Not simple.
+<b>	
+</b><b>				CHRIS
+</b>			(Privately) Not complicated, either.
+			We only have to decide... what's right...
+			and what's wrong.
+<b>	
+</b><b>				JILL
+</b>			(Privately) I forgot. You're never
+			confused. So...what's right, Mohawk?
+			And what's wrong?
+<b>	
+</b><b>				VICKERS
+</b>			Shit. (At the computer) There are
+			no green exits on this level. Why...
+			why would that be?
+<b>	
+</b><b>				CHRIS
+</b>			They don't want anybody up here
+			to go snoopin' ...upstairs or down.
+<b>	
+</b>	Wesker looks at Chris with that odd, confident smile.
+<b>	
+</b><b>				WESKER
+</b>			Pretty good guess. You must have
+			been in the military, son.
+<b>	
+</b><b>				CHRIS
+</b>			Native American. Exempted.
+<b>	
+</b><b>				VICKERS
+</b>			(Typing, starting to panic) Fuck!
+			There... there's no way out!
+<b>	
+</b><b>				CHRIS
+</b>			Yes there is.
+<b>	
+</b>	Chris points at the broken grid above the shattered aquarium.
+<b>	
+</b><b>	
+</b>	Pg-39
+<b>	
+</b>	Wesker looks up. Then looks back at Chris.
+<b>	
+</b><b>				WESKER
+</b>			Not a bad idea. (Turning to
+			Vickers) See if you can call
+			up... service charts, schematics.
+<b>	
+</b>	Brad's fingers fly. He scrolls through menus.
+<b>	
+</b><b>				VICKERS
+</b>			Got it. Ceiling grids, ladders.
+			The whole infrastructure.
+<b>	
+</b><b>				WESKER
+</b>			Print it. Print all of it.
+<b>	
+</b>	The young man types a command. Wesker rushes over to the
+	H. P. and grabs the first chart that rolls out.
+<b>	
+</b>	Rebecca steps over to Brad. She points at his leg.  Seated
+	at the computer, his trousers hiked, BLOOD can be seen on his
+	sock, just above his boot.
+<b>	
+</b><b>				REBECCA
+</b>			What's that from?
+<b>	
+</b><b>				VICKERS
+</b>			(Nervous) I...snagged it. On the
+			desk. When we were scrambling.
+<b>	
+</b><b>				REBECCA
+</b>			Lemme look at it.
+<b>				VICKERS
+</b>			(Adamant) No. It's just a scratch!
+<b>	
+</b>	Chris watches Wesker as he studies the printed charts.
+<b>	
+</b><b>				CHRIS
+</b>			There's a... part of an old laundry
+			chute. It might not show on there.
+			It runs up to the kitchen.
+<b>	
+</b><b>				WESKER
+</b>			I'm not going up. I'm going down.
+<b>	
+</b>	Wesker, grim-faced, looks at his team.
+<b>	
+</b>				WESKER (cont.)
+			I'd like to let you guys off the
+			hook. But I can't. I need back
+			up. You're comin' with me. Any
+			objections?
+<b>	
+</b>	The troopers exchange glances. Jill is first to speak.
+<b>	
+</b>	Pg-40
+<b>	
+</b><b>				JILL
+</b>			No objections. We'll back you up.
+<b>	
+</b><b>				CHRIS
+</b>			(Disappointed) You said... people
+			wind you up and you do whatever
+			they want you to do.
+<b>	
+</b><b>				WESKER
+</b>			Stay out of this, son. You're the
+			only one who doesn't have a choice
+			in this. There's no place to lock
+			you up. I can't let you go, you're
+			a security risk. I could shoot you.
+			Legally. But your lady-friend would
+			probably get all over my ass. So...
+			I'm afraid you're comin' with us...
+			whether you like it or not. (To Jill,
+			pointedly) He's your responsibility,
+			Valentine. See that he doesn't make
+			trouble.
+<b>	
+</b>	Jill looks at Chris.
+<b>	
+</b><b>				CHRIS
+</b>			You up to the challenge?
+<b>	
+</b><b>				JILL
+</b>			Try me.
+<b>	
+</b><b>				CHRIS
+</b>			(Snappy) I already have.
+<b>	
+</b><b>	INT   CRAWL-SPACE   TIMELESS
+</b><b>	
+</b>	One by one, the members of ALPHA TEAM wiggle up into the
+	crawl space above the ceiling. CHRIS climbs up behind JILL.
+	OTHER TROOPERS are already away, following WESKER, who guides
+	them with the help of his chart. Jill starts after them.
+	Chris grabs her arm.
+<b>	
+</b><b>				CHRIS
+</b>			Jill, I... I'm sorry. I'm just...
+			angry. When I... thought you were
+			gone, I... Then... when I saw you.
+			Alive. I realized that...
+<b>	
+</b><b>				JILL
+</b>			That you were still... fascinated.
+<b>	
+</b><b>				CHRIS
+</b>			Stop. Stop!
+<b>	
+</b>	He pulls her into an embrace. She goes willingly.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-41
+				CHRIS (cont.)
+			Come with me. We can get out of here.
+<b>	
+</b><b>				JILL
+</b>			(Tempted) I...I want to. I want...
+			nothing more. But... I can't. When
+			I'm in this uniform, I'm more than...
+			just me. Try to understand...there's
+			no "I" in Team, Chris.
+<b>	
+</b><b>				CHRIS
+</b>			There's no "I" in DEAD, either.
+<b>	
+</b>	Chris pulls away from the embrace and looks at her.
+<b>	
+</b>				CHRIS (cont.)
+			I should order you to come with me.
+			You'd never refuse an order.
+<b>	
+</b><b>				JILL
+</b>			You go. You're not part of this.
+<b>			
+</b><b>			
+</b><b>				CHRIS
+</b>			I'm part of it as. long as you are.
+<b>	
+</b>				BARRY (o.s.)
+				This is very uncomfortable.
+<b>	
+</b>	Barry, having overheard, is halfway up through the grate.
+<b>	
+</b><b>				CHRIS
+</b>			For me, too, brother.
+<b>	
+</b><b>				BARRY
+</b>			I mean this... (indicating the
+			iron that's pressing his belly.)
+			It's very uncomfortable.
+<b>	
+</b>	Chris and Jill help Barry up into the crawl space.
+	start off after the troop. THE CAMERA TRACKS them.
+<b>	
+</b>				BARRY (cont.)
+			This is gettin' old, Man, I swear.
+			I been in this Army eighteen years.
+<b>	
+</b><b>				CHRIS
+</b>			Eighteen years?
+<b>	
+</b><b>				BARRY
+</b>			Yep. Two away from the big re-ti.
+<b>	
+</b><b>				JILL
+</b>			Desk job, right? Nobody lasts that
+			long if they've seen action.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-42
+<b>	
+</b><b>				BARRY
+</b>			I've seen action in Granada.  And
+			Desert Storm.  Would have lost it
+			all there... if my buddy didn't bring
+			in a team, against orders, to pull
+			my ass out.  Buddy named... Wesker.
+<b>	
+</b><b>				CHRIS
+</b>			You've been with this asshole since... ?
+<b>	
+</b><b>				BARRY
+</b>			Since before that.  We were... kids
+			together.  Macon, Georgia.  He's...
+			only an asshole some of the time...
+<b>	
+</b>	UP AHEAD : WESKER reaches a service ladder. He waves his
+	troop on. They start to climb down.
+<b>	
+</b><b>				VICKERS
+</b>			Who knows what we'll find down there?
+<b>	
+</b><b>				AIKEN
+</b>			Think positive.  The farther down we
+			go, the worse it's gonna get.  So...
+			until we hit bottom, we're in good
+			shape... relatively speaking.
+<b>	
+</b>	GRRRAAAAWWWLr.! Distant... but distinct... it sounds like
+	the MGM lion.
+<b>	
+</b><b>				SPEYER
+</b>			What the fuck?
+<b>	
+</b>	Again .GRRRRRAAAAAWWWWLLLL !
+<b>	
+</b><b>				VICKERS
+</b>			Whatever it is.. .it can't get us.
+			We're in the ceiling!
+<b>	
+</b><b>				AIKEN
+</b>			Maybe it's like... really tall.
+<b>	
+</b><b>				SULLIVAN
+</b>			Aiken...
+<b>	
+</b><b>	INT   CRAWL SPACE   LAB   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	The lead TROOPERS reach another section of the ceiling.
+	Clustering around a vent, they look down into...
+<b>	
+</b>	...the "B"-level lab, more streamlined, more high-tech than
+	the one upstairs. There are large COMPUTERS, linked by
+	metal-shielded conduits to jacks in the walls.
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-43
+<b>	
+</b><b>				WESKER
+</b>			Main-frame. Might have some data
+			we could use. (A quick decision)
+			Fox, Marini, Vickers.  Down.
+<b>	
+</b>	WESKER kicks out the vent. He jumps first, through the
+	opening, down into the lab. CHRIS watches from behind.
+<b>	
+</b><b>				CHRIS
+</b>			The man has balls, I'll say that.
+<b>	
+</b>	Wesker grabs a desk and pushes it under the vent.  MARINI
+	climbs down, followed by FOX.  BRAD is last.
+<b>	
+</b><b>				WESKER
+</b>			Hustle it, Vickers.  You're the guy
+			we need.  To cut into the network.
+<b>	
+</b><b>	INT   LAB   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	WESKER looks around. There are THREE Doorways...open wide
+	with only darkness beyond. Wesker runs around closing them.
+<b>	
+</b><b>				WESKER
+</b>			Watch these entrances, guys.
+<b>	
+</b>	FOX and MARINI take up posts. Brad lowers himself gingerly.
+	He drops the last two feet onto the desk, landing on his
+	bloody leg.
+<b>	
+</b><b>				VICKERS
+</b>			AAAAH ! Shit.
+<b>	
+</b>	He topples, falling to the floor, but pops up instantly.
+<b>	
+</b>				VICKERS (cont. )
+			I'm alright. I'm alright.
+<b>	
+</b>	He limps over and attacks the computer keys.
+<b>	
+</b>	GRRRRRAAAAAWWWWWLLLL! Another distant snarl.
+<b>	
+</b><b>				WESKER
+</b>			Hold tight. It doesn't sound like
+			it's on this level.
+<b>	
+</b><b>				VICKERS
+</b>			(At the computer) Shit. I'm locked
+			out. Any clues for a password?
+<b>	
+</b><b>				WESKER
+</b>			Try... Umbrella.
+<b>	
+</b>	Brad types rapidly, nervously. Flubs. Types again.
+<b>	
+</b><b>	
+</b>	Pg-44
+<b>	
+</b><b>				VICKERS
+</b>			Nothing. Wait. I'm into... No.
+			No data. Just some kind of video
+			feed. Time-coded. Yesterday.
+			It's a play-back. (Watching the
+			screen) Holy shit!
+<b>	
+</b>	We HEAR it before we see it. The sound of absolute PANIC.
+	People SHOUTING! SCREAMING! THUDS and CRASHES! GLASS
+	BREAKING! Then A WOMAN'S VOICE .
+<b>	
+</b>				WOMAN'S VOICE (o.s.)
+			Please...please.. .if anyone is
+			receiving this...
+<b>	
+</b>	Brad limps around the desk and spins the monitor for the
+	others to see. The WOMAN is an ORIENTAL. She's standing
+	in the foreground, as Marcus was in the opening video.
+	Behind her is a lab we haven't seen yet... with white-
+	coated FIGURES... RUNNING... FIRING GUNS.
+<b>	
+</b>				WOMAN (cont.)
+			the situation is completely.
+			out of control. We...
+<b>	W
+</b>	HAM ! The woman is pushed out of the way by A MAN who is
+	trying to protect her from...
+<b>	
+</b>	...SOMETHING that BLURS past the lens, like a pendulum,
+	from ABOVE.
+<b>	
+</b>	In the next instant... SPLAT... the lens is COATED WITH BLOOD!
+	As it oozes down, we see a partial image of the same MAN.
+	His HEAD is OUT OF FRAME at the top of the screen.
+<b>	
+</b>	The thing above must have a hold on it... because the man is
+	DANGLING, his arms witching. His back has three GOUGES in
+	it, long and so deep that they might have been made by
+	piece of heavy machinery. We only see this for an instant...
+	before the man is LIFTED, straight UP, with amazing SPEED.
+<b>	
+</b>	Wesker clicks off the monitor. The other men instinctively
+	look up above their heads.
+<b>	
+</b><b>				FOX
+</b>			Maybe the ceiling's not such a
+			safe place, after all.
+<b>	
+</b>	CRASH! The door behind Fox BURSTS open. Before he has
+	time to react A ZOMBIE is on him, BITING his cheek, neck,
+	shoulder. The two figures fall to the floor, grappling.
+	Wesker can't get a clean shot.
+<b>	
+</b><b>				WESKER
+</b>			Scram! SCRAM!
+<b>	
+</b><b>	
+</b>	Pg-45
+<b>	
+</b>	Marini is first to reach the desk, but he helps the limping
+	Brad up ahead of him. TWO MORE ZOMBIES lurch in through the
+	open doorway. Wesker shoots them, but he sees MORE... can't
+	tell how many...shambling toward the open doorway from the
+	darkness beyond.
+<b>	
+</b>	Wesker focuses on Fox, who is still being MAULED, BITTEN.
+	Fox SCREAMS. Wesker still has no safe shot.
+<b>	
+</b>	Brad is YANKED up into ceiling by SULLIVAN and AIKEN. CHRIS
+	leans out of the opening, reaching for Marini.
+<b>	
+</b>	Wesker KICKS the mauling zombie in the head. It takes three
+	hard BOOTS to attract the thing's attention. When it finally
+	looks up at him, Wesker BLOWS out its skull.
+<b>	
+</b>	Fox is lying on his stomach, writhing, BLEEDING profusely
+	from a half-dozen bites. Wesker stoops down, trying to roll
+	him over, lift him up. Fox resists. He's gone insane.
+<b>	
+</b>	Chris pulls Marini up to safety. BARRY leans down through
+	the opening.
+<b>	
+</b><b>				BARRY
+</b>			Haul ass, boss!
+<b>	
+</b>	The zombies are heading for Wesker. There are three of them.
+	Barry shoots at the one in front. Misses. His second shot
+	hits the thing's brain.
+<b>	
+</b>	Wesker again tries to hoist Fox who, this time rolls over on
+	his own. He has drawn his pistol. Before Wesker can stop
+	him, he eats the barrel and BLOWS out the back of his head.
+<b>	
+</b>	One zombie is dangerously close. Barry fires two more
+	rounds. No head shot, but the zombie staggers and, though
+	not dead, FALLS...directly toward Wesker. The colonel rolls
+	on his back, kicking himself away, managing to get clear.
+	He uses his own pistol to BLAST the zombie.
+<b>	
+</b>	He scrambles to his feet, darts toward the desk, and jumps
+	up. The third zombie grabs his legs. From above, Barry
+	risks a dangerous shot. BLAM! Wesker hears the bullet
+	WHIZZZ past his head like a mosquito.
+<b>	
+</b>	The zombie is hit in the skull. It drops. There are MORE
+	of them coming out of the darkness. Barry takes hold of
+	Wesker and, with a single strong arm, pulls him up into...
+<b>	
+</b><b>	INT   CRAWL SPACE   LAB   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	...the crawl space, where WESKER breathes heavily for a
+	moment... then looks up at his old friend.
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-46
+<b>	
+</b><b>				WESKER
+</b>			That's...two I owe ya.
+<b>	
+</b><b>				BARRY
+</b>			One. We were all... 'Even-Steven' .
+<b>	
+</b><b>				WESKER
+</b>			Two. Remember? 'Even-Steven' ...
+			is not in my vocabulary.
+<b>	
+</b>	A horrible MOANING SOUND comes from below, in the lab.
+	THREE MORE ZOMBIES can be seen clustering around the desk,
+	dumbly trying to climb up, sensing the "food" above.
+<b>	
+</b>				WESKER (cont.)
+			Let's move.
+<b>	
+</b>	Wesker takes off. SPEYER, RODRIGUEZ, AIKEN and SULLIVAN are
+	quick to follow. The others lag behind when CHRIS says...
+<b>	
+</b><b>				CHRIS
+</b>			Those things could get up here.
+			We can't let that happen. This
+			is our way out...
+<b>	
+</b>	Chris swings his legs through the grate and JUMPS down...
+<b>	
+</b><b>	INT   LAB   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	...ONTO THE DESK. He BOOTS one of the ZOMBIES away and
+	tries to LEAP over the others. One of them catches his foot
+	in mid air. CHRIS isn't hurt, but he TOPPLES to the floor,
+	sprawling, losing his Winchester.
+<b>	
+</b>	The zombies have him cornered. He crawls toward his rifle.
+	Reaches it. Pumps a shell into the firing chamber. Aims
+	at the closest of the walking dead...
+<b>	
+</b>	...which was once a young man, a simple laborer, wearing
+	overalls, with a name tag...
+<b>	
+</b><b>				CHRIS
+</b>			(Reading) Caruso.
+<b>	
+</b>	Chris looks empathetically into the thing's dead eyes.
+<b>	
+</b>				CHRIS (cont.)
+			Can you hear me?
+<b>	
+</b>	The zombie lumbers forward hungrily.
+<b>	
+</b>				CHRIS (cont.)
+			Caruso! Can you hear me?
+<b>	
+</b>	Pg-47
+<b>	
+</b>	Chris has come late to the realization that these things
+	were once human. Now he comes late to the realization...
+	that they are human no longer.
+<b>	
+</b>	The zombie grabs the barrel of the Winchester, pushing it
+	aside. Chris can't bring it back to bear on the monster's
+	head. He BLASTS a round through the thing's belly. It has
+	no effect. The zombie reaches for Chris' throat. Starts to
+	lean in to bite him.
+<b>	
+</b>	BLAM! The thing's skull explodes. JILL has jumped down
+	onto the desk. She FIRES another accurate pistol round.
+	The SECOND ZOMBIE falls.
+<b>	
+</b>	Jill leaps to the floor and starts to push the desk. Chris
+	gets to his feet, rushing in to help her. Together, they
+	shove the desk out from under the open ceiling grate.
+<b>	
+</b><b>				CHRIS
+</b>			Thank you.
+<b>	
+</b><b>				JILL
+</b>			Any time. How do we get back UP?
+<b>	
+</b><b>				CHRIS
+</b>			Shit, if you didn't have a plan, you
+			shouldn't have jumped down here.
+<b>	
+</b><b>				JILL
+</b>			We have a real problem here, Chris.
+<b>	
+</b>	Jill nods toward the open doorway. There are more stuttering
+	FIGURES approaching out of the dark.
+<b>	
+</b><b>				CHRIS
+</b>			How big is this place? How many
+			people were down here? How...
+<b>	
+</b><b>				JILL
+</b><b>			HOW DO WE GET UP?
+</b><b>	
+</b>	With a startling SOUND, A DARK SHAPE swing down from above
+	and GRABS Jill! Is it the thing we saw on the video?
+<b>	
+</b>	No. It's BARRY! His mighty arms lift Jill. She's caught
+	by Aiken and Sullivan and pulled up to safety. Barry grabs
+	Chris and lifts him as well.
+<b>	
+</b><b>	
+</b><b>	INT   CRAWL SPACE   LAB   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	CHRIS grabs the edge of the grate and pulls himself up.
+	He reaches back down through the opening. Below, BARRY
+	squats... and makes a mighty leap-with his muscular legs.
+	Chris grabs his arms... and is nearly pulled back down.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-48
+<b>	
+</b><b>				CHRIS
+</b>			(Straining) Big. Heavy.
+<b>	
+</b>	Jill grabs on, then Sullivan. But one of the ZOMBIES has
+	reached Barry. It GRABS his kicking legs. It's TEETH SNAP!
+	And CATCH! The commandos lift Barry clear, but the zombie
+	ends up with a CHUNK of something in its mouth.
+<b>	
+</b><b>				JILL
+</b>			It got you!
+<b>	
+</b>	Barry checks his leg. His trousers are torn, but...
+<b>	
+</b><b>				BARRY
+</b>			No skin broken. I'm alright.
+<b>	
+</b><b>				CHRIS
+</b>			We owe you a pair of pants.
+<b>	
+</b>	They crawl away. The zombies below reach up, their fingers
+	clutching, at the ceiling, but with the desk gone, there's
+	no way they can get up.
+<b>	
+</b><b>	DISSOLVE TO:
+</b><b>	
+</b><b>	INT   STORAGE AREA   TIMELESS
+</b><b>	
+</b>	THE COMMANDOS climb down a steel access ladder into a storage
+	room stacked with CRATES and CARTONS. There's only one door.
+	The place seems secure.
+<b>	
+</b><b>	
+</b><b>				WESKER
+</b>			Stand down. Five minutes.
+<b>	
+</b>	WESKER sits on a crate and pulls out his printed charts.
+	Gradually the whole troop makes it down into the room.
+	They relax. A few light cigarettes. But not SPEYER.
+<b>	
+</b><b>				SPEYER
+</b>			I'm through, Wesker.
+<b>	
+</b><b>				MARINI
+</b>			Me too, man. This ain't nothin'
+			I signed on for.
+<b>	
+</b><b>				WESKER
+</b>			(Calm) You want to wait here, fine.
+<b>	
+</b><b>				MARINI
+</b>			Wait here? No. We're gettin' out!
+<b>				
+</b><b>				WESKER
+</b>			You can't. (He flashes his access
+			card.) Not without this.
+<b>	
+</b><b>	
+</b>	Pg-49
+<b>	
+</b><b>				SPEYER
+</b>			Fuck you! And your fancy doors and
+			your green key! The choppers have
+			rockets. They can blow out a wall
+			if they have to. I'm callin' 'em in.
+<b>	
+</b>	Speyer pulls out his radio and starts to punch a code.
+<b>	
+</b><b>				WESKER
+</b>			You wanna see a wall blow, I'll
+			blow all of 'em for ya.
+<b>	
+</b>	Wesker reaches down to the electronic unit that he lost and
+	retrieved in the woods. He pulls a long wire out of it, with
+	a small sensor on the end.
+<b>	
+</b>				WESKER (cont.)
+			I'll put a crater in this forest that
+			takes out Racoon City and everything
+			else for twenty miles... with this.
+<b>	
+</b>	He jams the little sensor into his ear and pushes a button
+	on the belt unit. Small red LIGHTS blink.
+<b>	
+</b>				WESKER (cont.)
+			It's a radio detonator...to set off
+			explosives that are...buried under
+			neath us somewhere. The ultimate
+			containment measure. Incinerate the
+			place. (Smiling again) It has a...
+			dead-man mechanism... .(he taps the
+			ear-piece) ...that reads my pulse.
+			My heart stops, and... boom.
+<b>	
+</b><b>				CHRIS
+</b>			You...lunatic! That damn thing can
+			slip out of your ear by accident!
+<b>	
+</b><b>				WESKER
+</b>			That's right. It's your job...all
+			of your jobs...to see that it doesn't.
+			And to see that my heart... doesn't
+			skip any beats.
+<b>	
+</b>	Wesker looks over the tops of his sunglasses... at Speyer
+<b>	
+</b>				WESKER (cont.)
+			Give me the radio, soldier.
+<b>	
+</b>	Speyer hesitates. Wesker explodes, for the first time.
+<b>	
+</b>				WESKER (cont.)
+<b>			GIMME THE FUCKIN' RADIO, OR WE
+</b><b>			ALL GO UP!
+</b><b>	
+</b><b>	---
+</b>	This text orginiated from www.New-Blood.com, please check 
+	us out for Resident Evil coverage.
+<b>	---
+</b><b>	
+</b>	Pg-50
+<b>	
+</b>	Shocked silence. Sullivan is the first to speak.
+<b>	
+</b><b>				SULLIVAN
+</b>			Sumbitch might do it, Speyer.
+<b>	
+</b><b>				WESKER
+</b>			I'II be obliged to do it! If I don't
+			get that antidote, I'll have to burn
+			this place out! (Beat) Valentine.
+			The radio.
+<b>	
+</b>	Jill steps over to Speyer and takes the radio from him.
+<b>	
+</b><b>				CHRIS
+</b>			(To Jill) What are you, this guy's
+			flunky? He just threatened to blow
+			us all up, for Christ's sake!
+<b>	
+</b><b>				JILL
+</b>			That's what I'm trying to prevent!
+<b>	
+</b><b>	EXT   ARKLEY FOREST   IN THE AIR   DAY
+</b><b>	
+</b>	WHAP WHAP WHAP... one HUEY is in the air..., THE CAMERA MOVES IN
+	on a window. LAGUARDIA is flying, his RADIO MAN beside him.
+<b>	
+</b><b>				LAGUARDIA
+</b>			How many digits did you receive?
+<b>	
+</b><b>				RADIO MAN
+</b>			Six. The beginning of an air-
+			support code, but... it just went
+			dead on me.
+<b>	
+</b><b>				LAGUARDIA
+</b>			Call S.T.A.R.S. in Washington.
+			I want...
+<b>	
+</b><b>				RADIO MAN
+</b>			Hold it...
+<b>	
+</b>	The radio man presses his headset to his ear. LaGuardia
+	looks on apprehensively.
+<b>	
+</b>				RADIO MAN (cont.)
+			It's Wesker. (Into mike) Yes, sir.
+			We got the signal sir. (He clicks
+			off) He says it was... a mistake.
+<b>	
+</b><b>				LAGUARDIA
+</b>			Call Washington anyway. I want
+			the authority to take action if
+			necessary.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-51
+<b>	
+</b><b>	
+</b><b>	INT   OFFICE   TIMELESS
+</b><b>	
+</b>	BRRRING! The hand with the ostentatious RING snatches a red
+	telephone receiver from of a desk drawer.
+<b>	
+</b>				MAN WITH RING (o.s.)
+			Holden.
+<b>	
+</b>	He listens. Once again, we don't see his face. Just his
+	free hand, with another Monte Cristo burning.
+<b>	
+</b>				HOLDEN (Man with ring, cont.)
+			Denied. This is Wesker's show.
+			If he was in real trouble, we'd
+			have lost half of Pennsylvania
+			by now.
+<b>	
+</b>	As the hand flicks ash, we see a sheet of paper on the desk
+	with a letterhead that bears... an UMBRELLA LOGO.
+<b>	
+</b>				HOLDEN (cont.)
+			No authorization.
+<b>	
+</b><b>	
+</b><b>	EXT   ARKLEY FOREST   IN THE AIR   DAY
+</b><b>	
+</b>	In the HUEY, the RADIO MAN clicks off an incoming call.
+<b>	
+</b><b>				RADIO MAN
+</b>			No independent action.
+<b>	
+</b><b>				LAGUARDIA
+</b>			Damn. I feel so fuckin'... helpless!
+<b>	
+</b>	The huey over flies THE MANSION which, from the air, looks as
+	stable as the Rock of Gibraltar.
+<b>	
+</b><b>	
+</b><b>	INT   STORAGE AREA   TIMELESS
+</b><b>	
+</b>	WESKER has come down off his rampage. He looks exhausted.
+	He also looks staunchly heroic as he speaks to his TROOP.
+<b>	
+</b><b>				WESKER
+</b>			You guys were hand-picked. A Special
+			Unit. Most of you have been sitting
+			on your asses, drawing pay checks for
+			more than two years. Well... it's time
+			to repay those... Government loans.
+<b>	
+</b><b>				SPEYER
+</b>			Bull shit. I'm not...
+<b>	
+</b>	Wesker lifts his automatic. Speyer flinches. The action
+	wasn't meant as a threat. Wesker is just checking his ammo.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-52
+<b>	
+</b><b>				WESKER
+</b>			Pitch your empties. Put all your
+			loaded clips on that crate there.
+			I want a count. Then I want the
+			rounds divvied up... evenly.
+<b>	
+</b>	The troopers deposit their loaded clips, reloading the ones
+	that are half-used.
+<b>	
+</b>				WESKER (cont.)
+			Alright. We're on.. .(checking the
+			maps) ...level "C"...
+<b>	
+</b><b>				AIKEN
+</b>			Lingerie. Notions.
+<b>	
+</b><b>				WESKER
+</b>			GOD DAMMIT, NO MORE JOKES! We have
+			men dead upstairs! This hell-hole
+			is full of people who died... because
+			of this stinkin' ...BUG!
+<b>	
+</b>	Jill has been counting the ammo clips.
+<b>	
+</b><b>				JILL
+</b>			Forty two.
+<b>	
+</b><b>				SPEYER
+</b>			That's all we have?
+<b>	
+</b><b>				WESKER
+</b>			We weren't expecting a war, Speyer.
+			(To Jill) I'll take three. Three
+			to your boyfriend...
+<b>	
+</b><b>				CHRIS
+</b>			Don't need 'em. Got my own loads.
+<b>	
+</b>	Wesker's eyes dart angrily toward Chris. But he notices
+	Jill watching him...and he calms himself.
+<b>	
+</b><b>				WESKER
+</b>			Good. Then... we all get four clips.
+<b>	
+</b><b>				SPEYER
+</b>			They must have... weapons down here,
+			somewhere. A powder magazine.
+<b>	
+</b><b>				WESKER
+</b>			No more side trips. It was a mistake
+			to go into that lab upstairs. My
+			mistake. And I'm not makin' another
+			one. From now on it's straight ahead.
+			In and out.
+<b>	
+</b>	Pg-53
+<b>	
+</b>	Wesker stands and opens the door.  Outside is a SERVICE
+	CORRIDOR with unfinished walls. Spaces between raw metal
+	beams are stuffed with insulation. Wesker checks the jamb
+	outside. It's got a lock mechanism. Blue.
+<b>	
+</b>				WESKER (cont.)
+			Not an override. My key won't work
+			here on the way out. Prop the door.
+<b>	
+</b>	The troopers drag a heavy crate over to hold the door open.
+	Wesker moves out. The commandos trickle after him. Chris
+	holds Jill behind for a moment.
+<b>	
+</b><b>				CHRIS
+</b>			Jill...this guy is a Loony-Toon.
+<b>	
+</b><b>				JILL
+</b>			He's just... trying to get the job
+			done. Doing what he has to do.
+<b>	
+</b><b>				CHRIS
+</b>			Yeah, well...I hope you'll say
+			the same about me... when I do...
+			what I have to do.
+<b>	
+</b>	Chris turns and walks off. Jill follows him out into...
+<b>	
+</b><b>	
+</b><b>	INT   SERVICE CORRIDOR   TIMELESS
+</b><b>	
+</b>	...the corridor. They catch up with the TROOP which is
+	clustered at a blind alley which has two doors.
+<b>	
+</b><b>				WESKER
+</b>			(Checking his map) It's not clear...
+			which way to go.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Want me to flip a coin?
+<b>	
+</b>	WESKER is annoyed by the remark. Decisively, he selects one
+	of the doors and uses his green key card. With a BZZZZ, the
+	lock releases. The troop enters...
+<b>	
+</b><b>	INT   SYSTEMS CENTER   TIMELESS
+</b><b>	
+</b>	...a vast ROOM, fifty-by-fifty yards. It's filled with
+	HEATERS, AIR CONDITIONERS, WATER PUMPS. MAIN FRAMES for
+	the internal computer network line one wall, FUSE BOXES
+	and SWITCHER PANELS another. This is the systems center
+	for the entire facility.
+<b>	
+</b>	There's an attendant's desk just inside the door. AIKEN
+	and SULLIVAN drag it over to prop the door open. It makes
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-54
+<b>	
+</b>	a frightening SOUND as it scrapes the floor, echoing,
+	bouncing around in the large space. It prompts a response...
+	another of those animal-like SNARLS from somewhere in the
+	distance.
+<b>	
+</b><b>				SULLIVAN
+</b>			What's that sound like to you?
+<b>	
+</b>				AlKEN
+			A meat-eater.
+<b>	
+</b>	There are thick columns, floor to ceiling, every ten feet.
+	The spaces between them are very dark. It's hard to see.
+	WESKER and some of the OTHERS click on their FLASHLIGHTS .
+	Beams cut through dust.
+<b>	
+</b>	There are ELECTRONIC HUMS.. CLICKS and CHATTERS emit from
+	the switchers, PINGS from the heaters, all combining to fray
+	everyone's nerves. Light beams dance nervously as the
+	commandos start out across the dark and frightening space.
+<b>	
+</b><b>				CHRIS
+</b>			(Softly to Jill) This is the heart
+			of the whole place. They've got to
+			have it... protected somehow.
+<b>	
+</b>	Two things happen, almost at once. First.. .CHRIS notices
+	ELECTRIC EYES... on all of the columns.
+<b>	
+</b>				CHRIS (cont.)
+<b>			DUCK! HIT THE DECK!
+</b><b>	
+</b>	Second. A ZOMBIE lurches around a corner and BITES a chunk
+	out of MARINI'S face. JILL whirls around to shoot at the
+	zombie, but Chris grabs her and FLATTENS her on the floor.
+<b>	
+</b>	Marini, staggering, screaming in pain, triggers the first
+	electric eye. LASER BEAMS shoot in all directions, forming
+	a tight NET. Chris and Jill are barely beneath them.
+	Many of the other troopers are hit by the beams... which do
+	no immediate harm... but wherever they make contact, small
+	CYLINDERS above the electric eyes begin to HISS.
+<b>	
+</b>				CHRIS (cont.)
+<b>			FOR CHRISSAKE, GET DOWN!
+</b><b>	
+</b>	The commandos duck under the laser beams... just in time.
+	Jets of STEAM spout from the cylinders. It's not just hot
+	steam. It's ACIDIC, deadly.
+<b>	
+</b>	Marini is hit by it. His clothes IGNITE. His flesh BOILS.
+	It's a horrible sight, but for the moment, the jets stop.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-55
+<b>	
+</b>	Marini is dead on his feet. When he falls, he trips another
+	of the laser beams. The steam jets SPOUT again. The troop
+	is beneath them, though many are burned by liquid drops that
+	spit from the nozzles.
+	Amazingly, the zombie has avoided contact. But as it begins
+	to stumble after commandos, we realize it's going to activate
+	the sensors again.
+<b>	
+</b><b>				SULLIVAN
+</b>			There's no way outta this mousetrap!
+<b>	
+</b><b>				RODRIGUEZ
+</b>			So we live here now?
+<b>	
+</b><b>				SPEYER
+</b>			We gotta run for it.
+<b>	
+</b>	The zombie hits one of the laser beams. The steam HISSES
+	out again. The zombie is MELTED.
+<b>	
+</b><b>				AIKEN
+</b>			Bad idea, Speyer.
+<b>	
+</b><b>				CHRIS
+</b>			Down. Through these.
+<b>	
+</b>	Chris has noticed a series of hinged panels in the floor.
+<b>	
+</b><b>				VICKERS
+</b>			Where do they go?
+<b>	
+</b><b>				SULLIVAN
+</b>			Does it matter?
+<b>	
+</b>	Sullivan whips out a Swiss Army knife and goes to work on
+	the screws that hold down one of the panels. Other troopers
+	do the same.
+<b>	
+</b>	Another ZOMBIE lurches out of the darkness. And ANOTHER.
+<b>	
+</b>	Human hands work furiously, loosening screws. Panels come
+	up, Troopers begin to duck through the openings.
+<b>	
+</b>	A second zombie hits a red beam. STEAM again. Chris and
+	Jill are spattered. Burned. But Jill bravely keeps working
+	with her own issued knife. She gets a panel open. As she
+	drops through, a third zombie triggers a burst of steam.
+	Chris ducks and covers.
+<b>	
+</b>	When the jets stop, Chris begins to climb into the opening,
+	but one of his legs is GRABBED from behind by...
+<b>	
+</b>	...one of the dead things which has already been MELTED!
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-56
+<b>	
+</b>	Its flesh is bubbling. Bone is beginning to show. But
+	the acid hasn't reached its brain yet. The creature is
+	still alive.
+<b>	
+</b>	Chris CRIES out. Acid from the zombie's hands is burning
+	his leg. The thing's lips have been eaten away, making its
+	teeth look frighteningly skeletal as it leans forward for a
+	bite of flesh. Chris jams the stock of his Winchester into
+	the zombie's mouth. He's able to hold the thing's head back,
+	but he's stuck. He can't let go.
+<b>	
+</b>	Jill pops up out of the floor. She presses the barrel of her
+	own weapon into the zombie's forehead.
+<b>	
+</b><b>				JILL
+</b>			On three...
+<b>	
+</b><b>				CHRIS
+</b>			One... two...
+<b>	
+</b>	Chris pulls his rifle away. At the same instant, Jill FIRES.
+	The zombie is PROPELLED through the air. One of its flailing
+	arms triggers another laser beam. Chris throws himself in on
+	top of Jill as STEAM HISSES over them.
+<b>	
+</b>	Twenty yards away, Wesker crawls under the cloud of acid.
+	Just as he climbs down through one of the openings, he feels
+	pressure...on his ear.
+<b>	
+</b>	A groping zombie has accidentally hooked its fingers onto the
+	wire that runs from the detonator to Wesker's ear-piece.
+	For a breathless moment, it seems like the sensor will be
+	popped loose. Holding the pulse-reader in place, Wesker
+	twists his body, lifts his hand gun, and PUMPS THREE into
+	the dead thing's brain.
+<b>	
+</b>	The zombie flops over, but its fingers cling, entangled, in
+	the wire. Wesker plants his pistol barrel on the knuckles
+	of the thing's dead hand. THREE MORE SHOTS cut through bone,
+	removing the fingers from the hand. The wire is freed.
+	Wesker dives into the opening in the floor.
+<b>	
+</b><b>	
+</b><b>	INT   AIR DUCT   TIMELESS
+</b><b>	
+</b>	The COMMANDOS find themselves in an AIR DUCT. No room to
+	stand. Hardly room to sit.
+<b>	
+</b>	Chris looks at his rifle stock. It's corroded from the acid
+	in the zombie's mouth. Jill notices.
+<b>	
+</b><b>				JILL
+</b>			God...and it doesn't even stop them...
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-57
+<b>	
+</b><b>				CHRIS
+</b>			It's not meant to stop them. It's
+			meant to stop...something else.
+<b>	
+</b>	That distant SNARLING SOUND comes again, making Jill shiver.
+	The troop is strung out along the metal shaft. REBECCA
+	crawls among them, treating the worst burns. WESKER checks
+	his maps. SPEYER confronts him again.
+<b>	
+</b><b>				SPEYER
+</b>			We damn near got turned into Rice
+			Krispies by that gizmo of yours.
+			If you don't want me to nail that
+			fuckin' thing into your ear, you
+			deactivate it. Right now.
+<b>	
+</b><b>				WESKER
+</b>			I can't. They.. .fixed it... so you
+			can't chicken out. The system can
+			only be turned off at the main panel.
+<b>	
+</b><b>				BARRY
+</b>			Where the hell is that?
+<b>	
+</b><b>				WESKER
+</b>			Where the explosives are. Down...
+			farther than we need to go. We only
+			have to make it down one more level.
+			If... when... we make it back up to
+			the choppers... we can fly out of
+			the detonator's signal range.
+<b>	
+</b>	Chris calls out from the far end of the shaft
+<b>	 
+</b><b>				CHRIS
+</b>			I'm not willing to rely on that.
+			I live here, this is my town!
+<b>	
+</b><b>				WESKER
+</b>			The town's been evacuated. Just...
+			just in case.
+<b>	
+</b><b>				CHRIS
+</b>			That explains the lie. About the
+			plane crash. An airplane down...
+			with weapons on board... would nicely
+			explain a big explosion, wouldn't it?
+			You figured all along you might have
+			to blow this place!
+<b>	
+</b><b>				WESKER
+</b>			I don't want to do it. I... I hope
+			I don't have to.
+<b>	
+</b><b>	
+</b>	Pg-58
+<b>	
+</b>	Chris looks down the dim air-shaft, unable to see Wesker's
+	eyes, hidden by distance.. .and by his dark glasses.
+<b>	
+</b>				WESKER (cont.)
+			That's the best I can do for you,
+			kid. Good faith. Now... let's
+			knock on it.
+<b>	
+</b>	Wesker moves out. The troop follows.
+<b>	
+</b><b>				CHRIS
+</b>			I...I can't let this happen. I've
+			got to find that bomb.
+<b>	
+</b><b>				JILL
+</b>			I'll help. Once Wesker gets what
+			he wants, my obligation is over.
+<b>	
+</b>	Chris looks at her with appreciative eyes .
+<b>	
+</b><b>				CHRIS
+</b>			No. I want you out. With the
+			rest of them. Wesker won't push
+			the button until you're clear.
+<b>	
+</b><b>				JILL
+</b>			He doesn't want to push the button.
+<b>	
+</b><b>				CHRIS
+</b>			He has to. Don't you see? He can't
+			leave these labs here. And, Jesus...
+			walking corpses! He's gotta get rid
+			of the evidence.
+<b>	
+</b><b>	INT   AIR SHAFT   TIMELESS
+</b><b>	
+</b>	The light is dim at its best. Long stretches of the shaft
+	are pitch black, and there's a constant stream of air that
+	MOANS eerily. This whole mission has been like a descent
+	into Hell, darker and more frightening with each level down.
+<b>	
+</b>	There are turn-offs, "T"s and "Y"s. At one point, when JILL
+	looks back, she finds ROSIE behind her. Chris is gone. Did
+	he leave to deal with the bomb?
+<b>	
+</b>	No, but he's about to. He's at the rear of the pack, pressed
+	against the side-wall, waving others past.
+<b>	
+</b><b>				JILL
+</b>			Chris, no!
+<b>	
+</b><b>				CHRIS
+</b>			I've got to try and stop this.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-59
+<b>	
+</b>	Jill starts back toward Chris, but freezes.. .everyone freezes
+	when... the duct-work starts to PING.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Shit. One thing after another.
+<b>	
+</b>	BOOM! The air shaft is ROCKED, as if punched by a giant
+	fist. Then...the whole structure begins to SHIMMY. What
+	is it, an earthquake?
+<b>	
+</b><b>				WESKER
+</b>			Sit tight. Ride it out.
+<b>	
+</b>	GRONK! A sheet-metal panel BUCKLES! Others do the same.
+	All along the shaft, panels begin to FOLD INWARD. Something
+	outside is CRUSHING the duct as if it were a giant tube of
+	toothpaste. And the troopers are being SQUEEZED inside.
+<b>	
+</b>	RIVETS POP! The panels begin to SEPARATE...and large,
+	pulsing bits of FLESH appear! Not animal flesh. But the
+	flesh of A PLANT! The things that press in through the
+	openings are larger versions of the vines we saw in the
+	kitchen. Those were its fingertips. These are its ARMS.
+	Strong arms that are RIPPING the ductwork apart.
+<b>	
+</b>	Chris, Rebecca, Aiken and Sullivan end up in one part of the
+	shaft. The rest in another... including Jill, who calls out.
+<b>	
+</b><b>				JILL
+</b><b>			CHRIS!
+</b><b>	
+</b>	The section that holds Chris' group FALLS AWAY... with a
+	monstrous, CRUNCHING sound.
+<b>	
+</b><b>	INT   ARBORETUM   TIMELESS
+</b><b>	
+</b>	CHRIS' GROUP spills out of the dangling metal, with cables
+	from the torn ceiling...TZZZZZT...SPARKING around them.
+	The troopers drop out of Hell, into...PARADISE.
+<b>	
+</b>	An enormous HOT HOUSE, a lush, indoor JUNGLE of PLANTS,
+	IVIES, GRASSES. It's like a RAIN FOREST, complete with
+	a thick, damp MIST that makes it difficult to see. We might
+	be on another planet. None of the foliage seems indigenous
+	to Earth. There are LEAVES the size of bed sheets, FLOWERS ,
+	the size of armchairs. And at the center of it all, is the
+	mother of the deadly vines...
+<b>	
+</b>	...PLANT 42, a monstrous schefflera, twenty times normal
+	size. Most of its limbs reach upward, where they have opened
+	CRACKS in the ceiling and walls, to stretch on into the
+	facility above. There are also dozens of shorter, beefier
+	"arms", each of which act independently, like tentacles on
+	an octopus... and each has a large, drooling POD at its tip.
+<b>	
+</b><b>	
+</b>	Pg-60
+<b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	BURSTS OF GUNFIRE from three M-16s shatter our ears... and
+	a ceiling VENT. WESKER and THE OTHERS jump down into...
+<b>	
+</b>	...a very unusual CORRIDOR. It seems to stretch forever, in
+	both directions. It has no doors, no visible means of exit
+	or entry. The walls are made-up of multi-colored polymer
+	TILES, whose irregular shapes fit together like a JIGSAW
+	PUZZLE. The floor is HEAVY STEEL, though faceted. It seem
+	designed to shift. The whole corridor looks like it might be
+	able to bend, to change position, like an airport jet way.
+<b>	
+</b>	There are disconcerting signs of damage...claw-like GOUGES on
+	the tiles, clean cut HOLES punched through the metal ceiling,
+	larger in diameter than any that might have been caused by
+	bullets.
+<b>	
+</b>	And there are smears of BLOOD everywhere, as if some terrible
+	battle... or battles...took place here.
+<b>	
+</b><b>				WESKER
+</b>			This way. (He starts off.)
+<b>	
+</b><b>				JILL
+</b>			No. That way.  Chris and the others...
+<b>	
+</b><b>				WESKER
+</b>			If they're dead, they're dead. If
+			they're alive, they'll still be alive
+			in twenty minutes. When we get back.
+<b>	
+</b><b>				JILL
+</b>			Maybe not. And how do we know it's
+			only going to be twenty minutes?
+			How do we know we'll be able to come
+			back this way?
+<b>	
+</b><b>				WESKER
+</b>			We don't. But we'll do our damndest
+			to try. This is it, guys. The home
+			stretch. Let's go.
+<b>	
+</b>	Wesker trots off. Vickers and Rodriguez follow. Speyer and
+	Barry hang back... with Jill, who remains torn.
+<b>	
+</b>				WESKER (cont.)
+			(Looking back) Valentine. You're
+			on the clock! Fall in!
+<b>	
+</b>	Jill wrestles with her emotions but, in the end, dutifully,
+	she "falls in".
+<b>	
+</b>	As the troopers move off, we hear odd SCRATCHING SOUNDS...
+	with the high-pitched SQUEAL of metal-on-metal.
+<b>	
+</b><b>	
+</b>	Pg-61
+<b>	
+</b><b>	
+</b><b>	INT   ARBORETUM  TIMELESS
+</b><b>	
+</b>	The beefy "ARMS" of PLANT 42 undulate overhead as CHRIS and
+	his COMPANIONS look for an exit.
+<b>	
+</b><b>				REBECCA
+</b>			Th-this thing was no accident.
+			It was cultivated!
+<b>	
+</b><b>				CHRIS
+</b>			And it didn't rip out the ceiling
+			for the fun of it. Stay alert.
+<b>	
+</b>	The plant seems to behave intelligently, with caution. The
+	pods on its "arms" dart, almost as if sniffing... then pull
+	back...like the vines in the kitchen, like timid animals.
+<b>	
+</b>	Chris spots A DOORWAY.
+<b>	
+</b>				CHRIS (cont.)
+			Here.
+<b>	
+</b>	As the others follow him, one of the pods swoops down in
+	front of REBECCA, and doesn't withdraw. It hovers there.
+	Its follicle's open like jaws, which display serrated daggers
+	of cartilage that look like teeth. Inside, a pulsing calyx
+	emits a pistil that twitches and swells.
+<b>	
+</b><b>				AIKEN
+</b>			My mother made me eat vegetables.
+			I know 'em all. This ain't one
+			of 'em.
+<b>	
+</b><b>				SULLIVAN
+</b>			Aiken...
+<b>	
+</b><b>	
+</b>	ANOTHER POD swoops down on Sullivan's back. Its BEAK clamps
+	onto the flesh between his shoulder blades. It's PISTIL
+	shoots out like a hypodermic needle, stabs him and, within
+	the blink of an eye, SUCKS out every ounce of the man's
+	blood. His skin turns the color of PARCHMENT, FLAKING OFF
+	HIM like powder, as he dies.
+<b>	
+</b><b>				AIKEN
+</b>			Sullivan! JESUS, SULLIVAN!
+<b>	
+</b>	Aiken rushes to his buddy's side.
+<b>	
+</b><b>				CHRIS
+</b>			Get out of the away!
+<b>	
+</b>	Chris launches himself off a stone retaining wall around one
+	of the gardens. Leaping up, he grabs one of the SPARKING
+	CONDUITS and pulls it down.
+<b>	
+</b><b>	
+</b>	Pg-62
+<b>	
+</b>				CHRIS (cont.)
+			Get OUTA THERE, AIKEN!
+<b>	
+</b>	Chris ends up having to shoulder Aiken out of the way.
+	Tendrils from the plant very nearly get both of them, but
+	Chris manages to JAM the semi-rigid conduit into a pool of
+	sprinkler-fed WATER around the plant's roots.
+<b>	
+</b>	A BRIGHT CURRENT stutters through every vine. The plant
+	SHRIEKS, hideously, as electricity causes fluids to SQUIRT
+	from boils that develop on its flesh, down along its "arms",
+	and into its blood-sucking pods...which FLOP, lifeless, to
+	the floor, with the same sort of liquid SMACKS that human
+	skulls might make.
+<b>	
+</b><b>				AIKEN
+</b>			They.. .they killed Sullivan. The
+			bastards... whoever did this shit...
+			they KILLED SULLIVAN!
+<b>	
+</b>	Enraged, Aiken draws a long-bladed KNIFE and wildly attacks
+	the remains of Plant 42, slashing at the thing's dead limbs,
+	not stopping until he cuts into...
+<b>	
+</b>	...something that looks like a vine...but BLEEDS RED!
+	Aiken traces the thing with his eyes, up to where it's
+	coiled in high tree branches. It's the oversized body...
+	...of A COPPERHEAD, with a belly SIX FEET in diameter.
+	As Aiken gasps, spellbound, he's STUCK from behind.
+<b>	
+</b>	The snake is so long, its body is draped on one side of the
+	greenhouse, but its head is on the other. With the power
+	of a dozer-shovel..JAWS like the open hood of a Cadillac...
+	TEETH the size of windows...CLAMP onto Aiken's mid-section,
+	instantly CRUSHING his ribs.
+<b>	
+</b>	Chris finds a skein of ROPE. He throws the long end over a
+	ceiling beam, then instantly makes a LASSO out of the piece
+	in _is hand and tosses the loop at the snake's head .
+<b>	
+</b>	Aiken's body, in the serpent's jaws, makes the rope miss.
+	Chris throws again. In the seconds between tosses, the snake
+	has SLURPED Aiken into its mouth. The rope encircles the
+	beast's head. Chris pulls. The noose slips down over the
+	snake's maxillaries and tightens around its neck. Chris uses
+	all his strength. With the ceiling beam as a pulley, the
+	snake's head is SLAMMED against the rafters.
+<b>	
+</b><b>				CHRIS
+</b>			(To Rebecca) Hold this.
+<b>	
+</b>	Rebecca is, understandably, not quick to respond.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-63
+<b>	
+</b>				CHRIS (cont.)
+<b>			GET IN HERE, SOLDIER!
+</b><b>	
+</b>	In this crisis, Chris finds himself sounding a lot like
+	Wesker. It sobers him. It sobers Rebecca, as well. She
+	rushes in and takes hold of the rope.
+<b>	
+</b>	Moving fast, Chris rushes to where Aiken's knife dropped
+	on the floor. He grabs it, turns back, and sees...
+<b>	
+</b>	...something MOVING inside the snake's beaded torso. It's
+	Aiken... still alive.
+<b>	
+</b>	Chris charges, PLUNGES the knife into the beast, hacking
+	through layers of fat until he reaches a bloody CAVITY.
+<b>	
+</b>	Aiken is curled within, like Jonah in the Whale. His chest
+	has been crushed to half its normal size. Acids from the
+	monster's intestine have begun to eat through flesh on his hands,
+	his face, but he's still conscious, able to wheeze-out words.
+<b>	
+</b><b>				AIKEN
+</b>			K-kill me. S-Sullvan said...I'd
+			be.. .better off dead. That...ain't
+			never been truer than now. Kill me!
+<b>	
+</b>	The snake uses all its strength to lower its head from the
+	ceiling. Rebecca hangs bravely onto the rope, but she's
+	LIFTED, bodily, off the floor.
+<b>	
+</b>	The rope SNAPS, cut by the steel beam. Rebecca falls. The
+	trailing edge of the noose catches on twisted debris. It
+	delays the snake for two seconds.
+<b>	
+</b>	Those fragile seconds give Chris just enough time to reach
+	into the open belly of the monster...and pull the PINS on
+	TWO GRENADES that dangle from Aiken's vest.
+<b>	
+</b>	The giant copperhead SNAPS at Chris from behind, missing him
+	by inches. He dives, like a wide-receiver reaching for a
+	pass. What he catches is...
+<b>	
+</b>	...Rebecca's arm. His momentum carries her down to the
+	floor. They roll behind another STONE WALL that contains
+	tons of earth, which protects them from...
+<b>	
+</b>	...BOO-BOOOOOM!... the explosions of the grenades... which blow
+	Aiken... and yards of the snake's mid-section...into eternity.
+<b>	
+</b><b>	
+</b><b>	INT   CONFERENCE ROOM   TIMELESS
+</b><b>	
+</b>	The same nervous HANDS that we saw in the opening fidget on
+	the polished surface of the conference table. A distorted
+	VOICE scratches over a speaker-phone.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-64
+				VOICE ON THE PHONE (o.s. filter)
+			We're close. I think I'll be able
+			to get the package. It's been...
+			very interesting.
+<b>	
+</b><b>				VOICE IN THE ROOM
+</b>			Anything you can't handle?
+<b>	
+</b>				VOICE ON THE PHONE (o.s. filter)
+			(Chuckling) There's nothing I
+			can't handle.
+<b>	
+</b>	A hand with an ostentatious RING flicks cigar ash.
+<b>	
+</b><b>				HOLDEN
+</b>			Keep us appraised.
+<b>	
+</b>	Holden's hand clicks off the speaker-phone.
+<b>	
+</b>				HOLDEN (cont.)
+			(To the others in the room) I'm
+			reassured, gentlemen...that every-
+			thing is...under control.
+<b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	WESKER, alone in the strange, faceted corridor, packs away
+	his radio. He hears... FOOTSTEPS. JILL appears.
+<b>	
+</b><b>				WESKER
+</b>			Where are the others?
+<b>	
+</b><b>				JILL
+</b>			Right behind me. Were you...
+			talking to someone?
+<b>	
+</b><b>				WESKER
+</b>			To Washington. To my... superiors.
+			They're your superiors too, Valentine.
+			Don't forget that.
+<b>	
+</b>	Jill wonders. Should she challenge Wesker? She has no time
+	to think. More FOOTSTEPS come CLACKING at her back. It's
+	RODRIGUEZ and SPEYER. A moment later, BARRY and VICKERS
+	appear from the opposite direction.
+<b>	
+</b><b>				BARRY
+</b>			Nothin'. man. No doors. Nothin'.
+			We hit a dead end.
+<b>	
+</b><b>				SPEYER
+</b>			Us too. Cement wall.
+<b>	
+</b><b>				VICKERS
+</b>			We're never gonna get to that lab.
+<b>	
+</b><b>	
+</b>	Pg-65
+<b>	
+</b>	TCHUNG TCHUNG TCHUNG... a sound like a rivet gun resounds
+	in the corridor, repetitive, but random, not rhythmic.
+<b>	
+</b><b>	
+</b><b>	INT   ELECTRIC TUNNEL   TIMELESS
+</b><b>	
+</b>	CHRIS and REBECCA are crawling through a two-foot high
+	feeder-passage for electric cables, their bellies scraping
+	the floor, their backs the ceiling. They hear the sound...
+<b>	
+</b>	...TCHUNG TCHUNG TCHUNG! Then suddenly...it stops.
+<b>	
+</b><b>				REBECCA
+</b>			(Crying quietly) I... can't take
+			this any more.
+<b>	
+</b><b>				CHRIS
+</b>			We take what comes. That's the
+			secret of our genius.
+<b>	
+</b>	He looks back. Rebecca sniffles.
+<b>	
+</b><b>	
+</b>				CHRIS (cont.)
+			How old are you?
+<b>	
+</b><b>				REBECCA
+</b>			Not very old at all. Not nearly
+			old enough to...to...
+<b>	
+</b><b>				CHRIS
+</b>			None of us is old enough for that.
+<b>	
+</b>	Rebecca nods, forcing a smile meant to be appreciative.
+<b>	
+</b><b>				REBECCA
+</b>			Jill... told me... you were nice .
+<b>	
+</b><b>				CHRIS
+</b>			She did? She never told me.
+<b>	
+</b>	That sound returns... TCHUNG TCHUNG TCHUNG...getting louder.
+<b>	
+</b><b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	Down in the corridor, the other TROOPERS see...
+	...faintly in the dusty reaches of the dark... AGILE SHAPES
+	advancing... not along the floor, but along the CEILING!
+	They look like apes, swinging from... What could they be
+	swinging from? The ceiling is solid metal.
+<b>	
+</b>	CLOSE ON: A MONSTROUS HAND, both hairy, and scaly. It's
+	fingers have ten-inch claws.. .more like horns... which PUNCH
+	upward, penetrating the ceiling metal, and clamping on.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-66
+<b>	
+</b>	THE SHOT WIDENS to reveal A BEAST, unlike any we've seen,
+	dangling from the ceiling. It is ape-like... and lizard-
+	like. With ferocious eyes that glare from beneath an insect-
+	like carapace. This thing is an amalgam of all the nasty
+	creatures that have pursued us in our nightmares. It's
+	called... A HUNTER.
+<b>	
+</b>	There are SIX OF THEM... as far as we can see, there might be
+	more coming from behind. Their three-toed feet also have
+	claws that can pierce the ceiling, enabling them to move
+	forward... hand over foot, foot over hand.
+<b>	
+</b>	One of them lets out a GRRROWLLLL! The same sound we've
+	been hearing through the walls. Now it echos in the
+	corridor, up close and personal. The troopers open fire,
+	even before the creatures get in range.
+<b>	
+</b><b>	
+</b><b>	INT   ELECTRIC TUNNEL   TIMELESS
+</b><b>	
+</b>	CHRIS and REBECCA hear the gunfire.
+<b>	
+</b><b>				CHRIS
+</b>			Hurry.
+<b>	
+</b>	Chris crawls on. Rebecca is stopped when... TCHUNNNNGGG !
+	One of the HUNTERS' CLAWS PUNCHES up through the floor ,
+	almost stabbing her. Rebecca SCREAMS. In the tight space,
+	Chris is barely able to reach back and take her hand.
+<b>	
+</b>	TCHUNNNNGG! TGG! More CLAWS penetrate the metal.
+	The couple plunge ahead of them, the way Chris plunged
+	ahead of the bullets on Level "A".
+<b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	WESKER, JILL and the OTHERS spit lead at the advancing
+	creatures. Bullets THUNK into their bodies. Blood flows,
+	but the creatures seem to feel no pain. Even when they're
+	hit squarely in their skulls.
+<b>	
+</b><b>				BARRY
+</b>			Head shots. Ain't doin' nothin'!
+<b>	
+</b><b>				WESKER
+</b>			That was the idea.
+<b>	
+</b><b>				BARRY
+</b>			What idea?
+<b>	
+</b><b>				WESKER
+</b>			To win. The idea was... to win.
+<b>	
+</b><b>	
+</b>	Pg-67
+<b>	
+</b>	Jill aims at one of the hunters, pressing the trigger of
+	her M-16, and not letting go until her clip runs out.
+	The creature's head is turned RAGGED by the barrage...
+	revealing an iron SUPERSTRUCTURE beneath the skin.
+<b>	
+</b>				VOICE (o.s.)
+			Now that... is a metal-head.
+<b>	
+</b>	Jill looks up. CHRIS jumps out of the open grate in the
+	ceiling. REBECCA jumps down after him.
+<b>	
+</b>				CHRIS (cont.)
+			What d'ya think? Should I wait
+			for orders, or just wing it?
+<b>	
+</b><b>				JILL
+</b>			Wing it!
+<b>	
+</b><b>				CHRIS
+</b>			You know...that just might be
+			the ticket. Wing the fuckers.
+<b>	
+</b>	Chris takes a careful SHOT with-his Winchester. He hits one
+	of the Hunters squarely on its WRIST...which SNAPS. The
+	creature drops to the floor.
+<b>	
+</b>				CHRIS (cont.)
+			Forget the head shots. They're
+			useless. Shoot for the joints.
+			The JOINTS!
+<b>	
+</b>	Rebecca opens FIRE with Aiken's M-16, giving the others time
+	to reload. Barry is the first to resume firing...at the
+	closest of the Hunters... at its wrists, which are SNAPPED
+	by the bullets. The creature drops to the floor.
+<b>	
+</b>	The troopers fire at KNEES, ANKLES, ELBOWS, which seem to
+	be the weakest spots. More of the hunters drop from the
+	ceiling...but they continue to advance, crawling, pushing
+	themselves forward with whatever limbs remain intact.
+<b>	
+</b><b>				SPEYER
+</b>			Run! We slowed 'em down. Run!
+<b>	
+</b><b>				BARRY
+</b>			Where? As far as we'll get, either
+			way, is a cement wall.
+<b>	
+</b>	There are two hunters left on the ceiling. One of them makes
+	a mighty, impossible LUNGE... and hits Speyer like a battering
+	ram, slashing his CHEST OPEN with its claws.
+<b>	
+</b>	Two of the hunters on the floor rush forward, not attacking,
+	but wanting to feed on Speyer's remains.
+<b>	
+</b><b>	
+</b>	Pg-68
+<b>	
+</b>	Brad, trembling, completely crazed, drops his weapon and
+	backs away. He sees...one of those jigsaw tiles, a RED
+	one, GLOW from within. He thinks he's hallucinating until...
+<b>	
+</b>	...the floor JERKS, in a tight spasm. Its steel facets
+	begin to separate, sliding away from each other. The
+	troopers narrowly escape as.. .
+<b>	
+</b>	...the floor behind them GRINDS, in and out, left and right,
+	as if it were CHEWING. Speyer's body, and those of the
+	hunters on the floor, are EATEN by the powerful steel blades.
+	But one hunter remains above it all. TCHUNG TCHUNG TCHUNG,
+	it continues to advance along the ceiling.
+<b>	
+</b>	An invisible, JIGSAWED DOOR glides open twenty yards down
+	the hall. The troopers run for it, and are met by a
+	beautiful Asian scientist... the woman we saw on the video
+	playback... ADA WONG.
+<b>	
+</b><b>				ADA
+</b>			You lost a man. If I had only
+			been faster. I was unfamiliar
+			with the mechanism.
+<b>	
+</b>	TCHUNG TCHUNG... the Hunter approaches .
+<b>	
+</b>				ADA (cont.)
+			God. One of them... is still ..
+			Quickly. Inside. Quickly!
+<b>	
+</b>	The troopers rush into...
+<b>	
+</b><b>	
+</b><b>	INT   CUBICLE   TIMELESS
+</b><b>	
+</b>	...a security cubicle. CHRIS is the last to enter, barely
+	making it before the door begins to slide shut.
+	KA-TCHUNK! CLAWS penetrate the opening.
+<b>	
+</b><b>				ADA
+</b>			Don't worry, it's mindless. It
+			doesn't realize that it's strong
+			enough to push the door open.
+<b>	
+</b>				BARRY (cont.)
+			Sometimes the dumb get lucky.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Hasn't happened to me, yet.
+<b>	
+</b>	The Hunter GROWLS. Its snout darkens the space between door
+	and wall. Mucous from its nostrils spits through.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-69
+	After a terrifying moment, the claw recedes. The dark
+	snout disappears. The snorting fades away. Followed by
+	a distant...TCHUNG TCHUNG TCHUNG...as the hunter departs.
+	Everyone relaxes, visibly.
+<b>	
+</b>	The troopers turn and, for the first time, notice two haggard
+	SCIENTISTS standing across the room.
+<b>	
+</b><b>				ADA
+</b>			My... colleagues. Benjamin. Toshiro.
+			As far as we know, we are the...only
+			ones.. .left alive. We worked on "C"
+			level. One of the biologists saved us.
+			Brought us down here. He knew that...
+			he didn't have long to live. He...
+			started the mechanism... out there,
+			in the corridor.. .and he let it...
+			take him.
+<b>	
+</b>	Ada stares at a complicated control panel.
+<b>	
+</b>				ADA (cont.)
+			I only saw it used that one time.
+			Or perhaps...I could have been
+			faster. The man...you lost...
+<b>	
+</b><b>				RODRIGUEZ
+</b>			You did fine, lady. We're obliged.
+<b>	
+</b><b>				ADA
+</b>			As are we. (Sighing) We believed...
+			we would die here. Believed...the
+			bomb would destroy us.
+<b>	 
+</b><b>				 JILL
+</b>			You knew.. .about the bomb?
+<b>	
+</b><b>				ADA
+</b>			The end for a place like this, when
+			it fails... must be a bomb, yes?
+<b>	
+</b>	Jill looks at Chris. His point has been proven.
+<b>	
+</b>				ADA (cont.)
+			But now... that you are here... the
+			bomb will not come.
+<b>	
+</b><b>				CHRIS
+</b>			It... already came. ma'am. We
+			brought it. The colonel, here...
+			he's wearing it.
+<b>	
+</b>	Ada looks at the detonator on Wesker's belt, at the sequence
+	of blinking lights.
+<b>	
+</b><b>	
+</b><b>	70
+</b><b>	
+</b><b>				ADA
+</b>			(To Wesker) Is it true? Are you
+			here to... rescue? Or destroy?
+<b>	
+</b><b>				WESKER
+</b>			Both. (With that odd smile of his)
+			If I have to pick only one... I'll
+			pick destroy.
+<b>	
+</b><b>				ADA
+</b>			You're not S.T.A.R.S. You're Umbrella.
+<b>	
+</b><b>				WESKER
+</b>			Once again. Both. (Still smiling)
+			Two salaries. Three if you count
+			combat pay.
+<b>	
+</b>	Ada looks at him with disgust.
+<b>	
+</b><b>				ADA
+</b>			The man I loved, John Marcus...
+			developed the organism that caused
+			all this. He... he did it for
+			humanitarian purposes. It was
+			taken away from him...for in-human
+			purposes...by men like you!
+<b>	
+</b><b>				WESKER
+</b>			No, ma'am. Men like me... are just
+			errand boys. Sent in to do the
+			wet-work. All of the glory. None
+			of the benefits.
+<b>	
+</b><b>				ADA
+</b>			After what you've seen down here,
+			do you think any of it could be
+			turned into... benefit?
+<b>	
+</b><b>				WESKER
+</b>			Yes. I think it could be turned
+			into five or ten million dollars.
+			How do we get into "D" lab?
+<b>	
+</b><b>				ADA
+</b>			Death lab. (She slumps) John
+			was killed...never even knowing it
+			existed. They kept him... isolated,
+			upstairs, while a separate team was
+			down here...corrupting his research.
+			Using it to build B.O.W.s.
+<b>	
+</b><b>				CHRIS
+</b>			B.O.W.s?
+<b>	
+</b><b>	
+</b>	Pg-71
+<b>	
+</b><b>				ADA
+</b>			Bio-organic weapons.
+<b>	
+</b><b>				REBECCA
+</b>			The sharks. The plant.
+<b>	
+</b><b>				ADA
+</b>			Early experiments.
+<b>	
+</b><b>				CHRIS
+</b>			The snake.
+<b>	
+</b><b>				ADA
+</b>			A failure. Its behavior remained
+			reptilian. All they could ever get
+			it to do was... grow in size.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Those dogs. They were weapons.
+<b>	
+</b><b>				ADA
+</b>			No. They... simply became infected.
+			As did... everyone else. Janitors.
+			The cook. Electricians. Guards.
+			People who believed they were serving
+			their flag. Scientists. Great minds...
+			turned into mindless.. .ghouls!
+<b>	
+</b><b>				CHRIS
+</b>			Before the outbreak, the experiments
+			went further, didn't they? Those...
+			ceiling-crawlers out there.. .
+<b>	
+</b><b>				ADA
+</b>			The product of human DNA spliced
+			with the DNA of vicious carnivores...
+			animals, even insects. Plated with
+			armor, beneath newly cultivated skin.
+			Then... injected with poison, so their
+			biological components would die.
+<b>	
+</b><b>				JILL
+</b>			Die.
+<b>	
+</b><b>				ADA
+</b>			The "T"-virus reactivates them in a
+			matter of minutes, but... in battle,
+			lost minutes are... inconvenient. So,
+			the B.O.W.s had to die... and be allowed
+			to revive before they could be used to...
+			full advantage. They were murdered...
+			by their own people... so they could
+			never be murdered again... by the enemy.
+<b>	
+</b><b>	
+</b>	Pg-72
+<b>	
+</b><b>	
+</b><b>				CHRIS
+</b>			Were any more of these...weapons...
+			developed?
+<b>	
+</b>	Ada is about to answer, but Wesker interrupts.
+<b>	
+</b><b>				WESKER
+</b><b>			HOW DO WE GET INTO "D" LAB?
+</b><b>	
+</b><b>				ADA
+</b>			You don't.
+<b>	
+</b>	Ada glances at an innocuous wall panel. Wesker notices a
+	key-slot. Green.
+<b>	
+</b>				ADA (cont.)
+			It can't be opened. Thank God.
+			None of us is cleared for that
+			level of security.
+<b>	
+</b><b>				WESKER
+</b>			How fortunate... that I am.
+<b>	
+</b>	Wesker steps over to the wall and inserts his green card into
+	the slot. The panel slides open. Beyond it is a steel door
+	with another green slot. Wesker uses his card again. A lock
+	CLICKS. Wesker pushes the door open.
+<b>	
+</b>				WESKER (cont.)
+			Barry. Come with me. The rest of
+			you.. .make sure this door doesn't
+			close. Remember...
+<b>	
+</b>	Wesker taps his ear-piece. Everyone gets his meaning. He
+	and Barry disappear through the opening. The steel door
+	begins to close. Rodriguez lunges, and catches it.
+<b>	
+</b><b>				ADA
+</b>			Have...you been leaving doors open?
+<b>	
+</b><b>				JILL
+</b>			Yes.
+<b>	
+</b><b>				ADA
+</b>			This place is going to be overrun by...
+<b>	
+</b><b>				REBECCA
+</b>			Brad's in really bad shape.
+<b>	
+</b>	Brad is leaning against a wall, sweating, shivering. Rebecca
+	looks at his wounded leg.
+<b>	
+</b>				REBECCA (cont.)
+			That's not just a scrape. You
+			were bitten, weren't you?
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-73
+<b>	
+</b><b>				VICKERS
+</b>			One...of the sharks. Its teeth.
+			I Just...brushed up against its
+			teeth...after it was dead.
+<b>	
+</b><b>				ADA
+</b>			(Alert) Shoot him. Somebody,
+			shoot him!
+<b>	
+</b><b>				JILL
+</b>			No! We're so close. The antidote.
+<b>	
+</b><b>	
+</b><b>	INT   STAIRWELL   TIMELESS
+</b><b>	
+</b>	WESKER and BARRY trot down a flight of metal stairs.
+<b>	
+</b><b>				BARRY
+</b>			What's got into you man? This...
+			this isn't like you.
+<b>	
+</b><b>				WESKER
+</b>			Oh, yes, this is exactly like me.
+<b>	
+</b>	Until now, Wesker has been steadfast. He suddenly seems
+	nervous, anxious. Some of it is fear. Most of it is
+	anticipation of the goal which is suddenly within reach.
+<b>	
+</b>				WESKER (cont.)
+			This is...what I've been all my life.
+			A guy... suckin' up to the honchos.
+			Wipin' the shit off their asses...
+			all the while lookin' for a break.
+			A way to get some of my own! Well
+			this it, friend. I'm myself,
+			alright. And I know exactly what
+			I'm doing. I told you...before this
+			day was over... I'd pay you back.
+<b>	
+</b><b>	INT   CUBICLE   TIMELESS
+</b><b>	
+</b>	CHRIS and JILL step past RODRIGUEZ. They take off down the
+	stairs.
+<b>	
+</b>	As they leave, ADA opens a desk drawer and pulls out a .45.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			(Looking at the gun) You know
+			how to use that thing, chica?
+<b>	
+</b><b>				ADA
+</b>			Of course I do. I'm a scientist.
+<b>	
+</b>	Pg-74
+<b>	
+</b>	Ada CLICKS back the bolt, whips up the .45, and aims it at
+	BRAD'S head. REBECCA dives in front of the man.
+<b>	
+</b><b>				REBECCA
+</b>			No! You can't! Not while there's
+			still a chance to save him!
+<b>	
+</b><b>	
+</b><b>	INT   SAFETY CHAMBER   "D" LAB   TIMELESS
+</b><b>	
+</b>	WESKER and BARRY arrive at a set of PLEXIGLASS DOORS. They
+	can't see through them, they're FOGGED. Wesker finds a key
+	slot, inserts his access card, and...
+<b>	
+</b>	...WHOOSH... the doors open. A CLOUD OF HYPER-COLD MIST
+	rushes out, instantly coating the men in FROST. Wesker
+	doesn't feel the cold. He doesn't feel anything, except
+	a surge of triumph. He steps through the opening into...
+<b>	
+</b><b>	
+</b><b>	INT "D" LAB TIMELESS
+</b><b>	
+</b>	...a laboratory that looks like-the cockpit of a Concorde...
+	only a hundred times larger.. Nothing is, recognizable, except
+	desks that hold futuristic-Ibokin computers. A befuddling
+	array of BUTTONS, SWITCHES, stuttering LIGHTS, covers every
+	inch of wall space.
+<b>	
+</b>	And at the center of it all stands a tall, cylindrical TANK,
+	a stasis tube, filled with ICE. It's mounted on a six-foot
+	tall platform, like an altar, with cables and flexible tubes
+	running out of it. Wesker squints, and through the freeze,
+	sees the thing that stands sedated within the cylinder...
+<b>	
+</b>	...THE TYRANT. It's nine feet tall. Like the hunters, it
+	has more or less human form, though it's musculature is more
+	defined than Superman's. One of its arms is scaled to size,
+	but the other is much longer. Its hand dangles at knee-
+	level. Monstrous steel CLAWS depend from its fingers,
+	nearly touching the floor.
+<b>	
+</b><b>				WESKER
+</b>			(In awe) It's called... the Tyrant.
+			Nobody knows it exists. Except us...
+			and Holden.
+<b>	
+</b><b>				BARRY
+</b>			Holden?
+<b>	
+</b><b>				WESKER
+</b>			Umbrella's man in D.C. We need him.
+			He signs the checks. (Excited) We've
+			got it, Barry! Our fortune!
+<b>	
+</b><b>	
+</b>	Pg-75
+<b>	
+</b><b>				BARRY
+</b>			You're not gonna try to get this
+			big mother outta here ?
+<b>	
+</b><b>				WESKER
+</b>			Don't have to. All we need is the
+			data. Then.. .these things can be
+			cranked out on an assembly line!
+<b>	
+</b>	Laying down his automatic, WESKER hits computer keys until
+	a DISK pops out of a master-feed.
+<b>	
+</b>				WESKER (cont.)
+			YES! This is it!
+<b>	
+</b><b>				BARRY
+</b>			What about the antidote?
+<b>	
+</b><b>				WESKER
+</b>			Antidote? (Laughing) There is no
+			antidote. That was just happy horse
+			shit, to keep the team going.
+<b>	
+</b>	Neither man notices... that the removal of the master disk has
+	caused certain systems to fail... indicated by red lights, and
+	by the fact that... the walls of the Tyrant's cylinder are
+	beginning to run liquid sweat. The ice... is MELTING.
+<b>	
+</b><b>				BARRY
+</b>			You're gonna give this to Umbrella?
+<b>	
+</b><b>				WESKER
+</b>			No. I'm gonna sell it to them. Then
+			I'm gonna open a Swiss bank account...
+			right next to yours.
+<b>	
+</b>				JILL (o.s.)
+			God...damn!
+<b>	
+</b>	JILL has appeared in the doorway with CHRIS. They both
+	at the monster with awe...and terror.
+<b>	
+</b>				JILL (cont.)
+			That thing... can't be real!
+<b>	
+</b><b>				WESKER
+</b>			It's real, alright. And it's worth...
+			more than gold. More than uranium!
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Do we get a piece of that action?
+<b>	
+</b>	ROSIE has arrived. So have REBECCA, ADA, and the two
+	surviving SCIENTISTS.
+<b>	
+</b>	Pg-76
+<b>	
+</b><b>				WESKER
+</b>			All of you do. Anyone who comes out
+			of this alive... gets a taste.
+<b>	
+</b>				RODRIGUEZ (o.s.)
+			I'm in. I been eatin' shit all my
+			life. I'm happy to eat some more...
+			as long as it's got some gravy on it.
+<b>	
+</b>	Rosie steps into the lab, her weapon ready.
+<b>	
+</b><b>				WESKER
+</b>			Anybody else see it my way?
+<b>	
+</b>	One of the scientists, TOSHIRO, rushes to join.
+<b>	
+</b><b>				ADA
+</b>			(To Toshiro) You disgrace yourself!
+<b>	
+</b><b>				TOSHIRO
+</b>			I...I want to live.
+<b>	
+</b><b>				WESKER
+</b>			Smart. Anyone else? Valentine?
+<b>	
+</b>	Jill looks at Chris. Then she steps through the doorway and
+	takes a defensive post beside her c.o.
+<b>	
+</b><b>				CHRIS
+</b>			And I was gonna try to disarm the
+			bomb. This place should be destroyed!
+			It needs to be destroyed!
+<b>	
+</b>	Chris lifts his rifle. Wesker is faster with his pistol,
+	aiming it at Chris' belly.
+<b>	
+</b><b>				WESKER
+</b>			Gotcha, son. It's only because
+			of Valentine, here, that I didn't
+			squeeze the trigger.
+<b>	
+</b>	Chris and Jill exchange dagger eyes.
+<b>	
+</b><b>				CHRIS
+</b>			If she's on your side... she doesn't
+			mean shit to me. And I don't mean
+			shit to her.
+<b>	
+</b><b>				JILL
+</b>			Chris, please. There's only... one
+			way to go, here .
+<b>	
+</b><b>				WESKER
+</b>			That's right. My way!
+<b>	
+</b><b>	
+</b>	Pg-77
+<b>	
+</b><b>	
+</b><b>				JILL
+</b>			Yes, sir. Your way!
+<b>	
+</b>	Jill presses in close to Wesker, as if completely allied.
+<b>	
+</b>				JILL (cont.)
+			I...can't yell you, Chris...how much
+			I wanted...things to have turned out
+			differently. (Beat) Goodbye.
+<b>	
+</b>	Swiftly, unexpectedly, Jill snatches the detonator wire and
+	pulls the sensor out of Wesker's ear.
+<b>	
+</b>	Everyone shuts their eyes, expecting to be blown sky-high.
+<b>	
+</b>	Nothing happens.
+<b>	
+</b>	Jill pulls the detonator off Wesker's belt. She stares
+	small LED screen which reads... 14:42:16... 15... 14...
+<b>	
+</b>				JILL (cont.)
+			Shit. I got all my courage up...
+			and we still have fifteen minutes!
+<b>	
+</b>	Jill tosses the detonator to Chris. Wesker turns on her,
+	lifting his M-16...
+<b>	
+</b><b>				BARRY
+</b>			You shoot. I shoot, boss.
+<b>	
+</b>	Wesker turns to find Barry's weapon aiming at his belly.
+<b>	
+</b>				BARRY (cont.)
+			Shit.. here I am still callin'
+			you 'boss'.
+<b>	
+</b>	Wesker is holding the data-disk. Suddenly, he feels it
+	snatched away...by Ada, who has rushed into the room.
+<b>	
+</b>	He aims his weapon at her back as she darts away. Before
+	he can fire, he's KICKED in the head... by Jill. Buckling,
+	dazed, he looks up at her.
+<b>	
+</b><b>				JILL
+</b>			We believed in you. I believed
+			in you. Boy, was I a sucker.
+<b>	
+</b>	She kicks him again, just for the hell of it. He flops on
+	the floor, his eye-socket swollen. He's dropped his gun.
+<b>	
+</b>	He gropes for it. Barry steps in and boots it away.
+<b>	
+</b>	A KLAXON SOUNDS! Emergency!
+<b>	
+</b>	The ice in the Tyrant's tank has melted down to a critical
+	level. The monster... is beginning to MOVE.
+<b>	
+</b><b>	
+</b>	Pg-78
+<b>	
+</b>	Reaching the doorway, Ada hears a mechanism TRIP in the jamb.
+	The Plexiglas doors begin to slide shut. Ada strains to
+	hold them back.
+<b>	
+</b><b>				ADA
+</b>			Get out! Now! Or you never will!
+<b>	
+</b><b>				RODRIGUEZ
+</b>			So... we'll live here! (Glancing at
+			the Tyrant) No. The landlord looks
+			like a sonuvabitch.
+<b>	
+</b>	Rosie rushes in to help Ada hold the doors. So does
+	BENJAMIN, the second of the surviving scientists, who is...
+	...MAULED from behind by a ZOMBIE. It's not just any zombie.
+	It's BRAD VICKERS, back from death, who BITES out the artery
+	in Benjamin's neck.
+<b>	
+</b><b>				ADA
+</b><b>			I TOLD YOU... TO SHOOT HIM!
+</b><b>	
+</b>	Ada lifts her .45 and blows Vickers way. She looks down
+	at Benjamin, writhing on the floor, aims at his head... and
+	FIRES again.
+<b>	
+</b>	Rodriguez is the only one holding the doors. Jill rushes
+	to help her.
+<b>	
+</b><b>				JILL
+</b>			Everybody! OUT!
+<b>	
+</b><b>				CHRIS
+</b>			(Off the LED) Thirteen minutes.
+<b>	
+</b>	Inside the lab, Barry turns to Toshiro, the other scientist.
+<b>	
+</b><b>				BARRY
+</b>			Go.
+<b>	
+</b>	Toshiro hesitates... a second too long. KRAAASSSH! The
+	stasis tube BURSTS open. WATER and bits of ICE fly out...
+	along with an enormous, bionic HAND. Big-enough to grab
+	Toshiro's head as if it were a cantaloupe. Powerful enough
+	to CRUSH that head as if it were... well, a cantaloupe.
+<b>	
+</b>	Wesker, still searching for his pistol, sees all this.
+<b>	
+</b>	The Tyrant is not completely free. Much of the cylinder
+	wall has cracked away, but sections of it cling to a now
+	misshapen mass of ice that still holds the monster bound.
+	Though it won1t for much longer.
+<b>	
+</b>	Wesker starts toward the door. Barry grabs the back of his
+	shirt and pitches him across the lab.
+<b>	
+</b><b>	
+</b>	Pg-79
+<b>	
+</b>				BARRY (cont.)
+			You and me... we ain't goin' nowhere.
+			Not just now, boss.
+<b>	
+</b>	Barry turns to the others clustered at the doorway.
+<b>	
+</b>				BARRY (cont.)
+			This thing gets loose, it's gonna
+			be pissed. Somebody's gotta hold it
+			back. Give you guys a fair chance.
+<b>	
+</b><b>				JILL
+</b><b>			LOOK OUT!
+</b><b>	
+</b>	Wesker has found his pistol. He FIRES at Barry who, ducking,
+	is only GRAZED. Wesker aims at the group in the doorway.
+	Barry pops out from behind a desk and shoots back at him.
+<b>	
+</b>	Ada and Rebecca duck away from the doors, pulling Rodriguez
+	and a reluctant Jill after them. The doors begin to slide
+	closed. Chris valiantly tries to prevent them from shutting.
+<b>	
+</b>	Wesker CRAWLS lke a dog. He manages to fling an arm
+	out through the opening. Steel bumpers press on the meat
+	of his forearm. Wesker looks up. Through the Plexiglas,
+	his eyes meet Chris'.
+<b>	
+</b><b>				WESKER
+</b>			Get me outta here, Redfield. Or so
+			help me God, you're a dead man.
+<b>	
+</b>	With his free hand, Wesker aims his pistol at Chris. The gun
+	barrel is an intimidating sight, even though it's on the other
+	side of the plexi. Chris glances at the others.
+<b>	
+</b><b>				CHRIS
+</b>			Get going.
+<b>	
+</b><b>				JILL
+</b>			Not without...
+<b>	
+</b><b>				CHRIS
+</b><b>			MOVE!
+</b><b>	
+</b>	Ada, Rebecca and Rodriguez wrestle Jill away bodily, and
+	start up the metal stairway.
+<b>	
+</b><b>				WESKER
+</b><b>			COME BACK! RODRIGUEZ! VALENTINE!
+</b><b>			THAT'S AN ORDER !
+</b><b>	
+</b><b>				CHRIS
+</b>			Orders don't mean shit any more,
+			Wesker. Especially when they come
+			from sell-out bastards like you.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-80
+<b>	
+</b>	Chris lets go. The doors squeeze tighter. Wesker SCREAMS.
+<b>	
+</b>	Through the plexi, Chris catches a glimpse of Barry, who
+	stands and gives him a military salute. Chris salutes back.
+<b>	
+</b>	BLAM BLAM BLAM... Wesker FIRES three rounds. Dusty blemishes
+	appear on the bulletproof glass. The slugs ricochet back
+	into the lab.
+<b>	
+</b>	One of them CHIPS away at the ICE which is less and less
+	able to contain the Tyrant.
+<b>	
+</b>	Chris makes a break for the stairs. Wesker twists his body
+	in an attempt to push his pistol through the opening, but his
+	fist, around the stock, is too thick. Nonetheless, Wesker
+	FIRES .BLAM BLAM BLAM... bullets SCREAM off the banister
+	rails, but none of them contact Chris' legs which disappear
+	up the stairs.
+<b>	
+</b>	The ice in the stasis tube is turning to slush. The Tyrant
+	is about to break loose. Wesker looks pleadingly at Barry.
+<b>	
+</b><b>				WESKER
+</b>			B-buddy. You gotta get us out.
+<b>	
+</b><b>				BARRY
+</b>			Not sure I know how, boss. Do you?
+			Is there some other...'need-to-know'
+			secret for shutting down the Big
+			Bopper, here?
+<b>	
+</b><b>				WESKER
+</b>			No. It.. it can't be shut down.
+<b>	 
+</b><b>				BARRY
+</b>			The ultimate warrior. The ultimate
+			soldier. We'll see. How it does
+			against a couple of hard-ass career
+			guys, like you and me.
+<b>	
+</b>	WESKER swings his free arm and aims his pistol at BARRY.
+	CLICK! The gun is empty.
+<b>	
+</b><b>	
+</b><b>	INT   CUBICLE   TIMELESS
+</b><b>	
+</b>	The ESCAPEES arrive in the security cubicle.
+<b>	
+</b><b>				ADA
+</b>			The corridor outside... can be moved.
+<b>	
+</b>	Ada rushes over to the instrument panel. Her hands go to
+	work on an array of buttons and switches.
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-81
+<b>	
+</b><b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	The multi-faceted CORRIDOR TWISTS into a new configuration
+	with the RUMBLE of an "eight" on the Richter.
+<b>	
+</b><b>	
+</b><b>	INT   CUBICLE   TIMELESS
+</b><b>	
+</b><b>				ADA
+</b>			You won't come out in the same place.
+			But you'll find a freight loader that
+			can be accessed with...
+<b>	
+</b><b>				JILL
+</b>			...a blue key. I hope.
+<b>	
+</b><b>				ADA
+</b>			No. Pot blue or green. Red.
+<b>	
+</b>	Ada pulls a RED KEY from under her lab coat, snaps the chain
+	on her neck, and holds it out to Chris.
+<b>	
+</b>				ADA (cont.)
+			I took it from an Umbrella agent
+			assigned to us here. He died...
+			like all the rest.
+<b>	
+</b><b>				CHRIS
+</b>			Red... overrides green.
+<b>	
+</b><b>				ADA
+</b>			Yes.
+<b>	
+</b><b>				CHRIS
+</b>			So... you could have unlocked "D" lab.
+<b>	
+</b><b>				ADA
+</b>			I was hoping it would never be un-
+			locked again. Go. I will see that
+			this.. .(she holds up the data disk) ...
+			is destroyed.
+<b>	
+</b>	Chris grabs Ada's arm and holds it tight while he wrenches
+	the disk away from her.
+<b>	
+</b>	He folds it over onto itself, drops it to the floor, and
+	pumps three Winchester rounds into it.
+<b>	
+</b><b>				CHRIS
+</b>			It's destroyed. It's worthless
+			But you're not.
+<b>	
+</b><b>				ADA
+</b>			I helped develop it!
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-82
+<b>	
+</b><b>				CHRIS
+</b>			Unwittingly. They lied to you.
+			They lied to Marcus. They made
+			you believe you were doing a good
+			thing when it wasn't good at all.
+			It was evil!
+<b>	
+</b>	Ada looks deeply into Chris' eyes.
+<b>	
+</b>				CHRIS (cont.)
+			The kind of evil that... resides
+			in all of us. Makes us... greedy,
+			uncaring. The kind of evil that
+			will... wipe us out, in the end.
+			Unless we stand up against it.
+<b>	
+</b><b>				ADA
+</b>			Stand up? Against powers that have...
+			ruled the world since before we were
+			born? We will only be...eliminated.
+			Or locked away someplace else. I'd
+			rather die here. Knowing that the
+			virus has died with me .
+<b>	
+</b>	Jill takes a step toward Ada.
+<b>	
+</b><b>				JILL
+</b>			What if it's already spread? You're
+			the only one...who knew anything
+			about it.
+<b>	
+</b><b>				ADA
+</b>			(The thought penetrating) But, I...
+			know so little.
+<b>	 
+</b><b>				 CHRIS
+</b>			More than anyone else. You have...
+			a responsibility.
+<b>	
+</b><b>				JILL
+</b>			To a higher command. The highest.
+<b>	
+</b>	She and Chris touch eyes again, this time with understanding.
+<b>	
+</b><b>	
+</b><b>	INT   "D" LAB   TIMELESS
+</b><b>	
+</b>	THE TYRANT flexes its monumental muscles. The ice around
+	it CRACKS... but clings. The giant HEART dangling outside
+	its chest PUMPS rapidly...sending fluids through exposed
+	synthetic veins that run to the creature's brain.
+<b>	
+</b><b>				BARRY
+</b>			That's one helluva big pump.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-83
+<b>	
+</b><b>				WESKER
+</b>			An implant.
+<b>	
+</b><b>				BARRY
+</b>			From what? A fuckin' elephant?
+<b>	
+</b><b>				WESKER
+</b>			Rhinoceros.
+<b>	
+</b><b>				BARRY
+</b>			Shit. I figured you knew more than
+			you were telling.
+<b>	
+</b>	Barry FIRES at the encased organ. His bullets bounce off the
+	shielding with no effect.
+<b>	
+</b>				BARRY (cont.)
+			How do we kill this thing?
+<b>	
+</b><b>				WESKER
+</b>			I told you, we don't. W-we can't.
+			It's unstoppable!
+<b>	
+</b>	More ICE pops off the monster's pectorals.
+<b>	
+</b><b>	
+</b><b>	INT   RUNWAY   TIMELESS
+</b><b>	
+</b>	CLOSE ON: ADA'S face.
+<b>	
+</b><b>				ADA
+</b>			I don't know if I can face this.
+<b>	
+</b>	She and the ESCAPEES are no longer in the Cubicle. They're
+	in the runway.
+<b>	
+</b><b>				CHRIS
+</b>			Just get us upstairs. I'll take
+			care of it from there.
+<b>	
+</b><b>				ADA
+</b>			Alright. (With a sigh) Come.
+<b>	
+</b>	They break out, at the run, klacking along the faceted steel
+	floor of the movable... and still moving.. .corridor.
+<b>	
+</b>	KRUNNNGGG! They're nearly knocked off their feet when the
+	system suddenly STOPS DEAD.
+<b>	
+</b>	Ada slams her fist into one of those JIGSAW TILES on the
+	wall. Another RED one, which glows from within.
+<b>	
+</b>	A PANEL grinds open, revealing...
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-84
+<b>	
+</b><b>	INT   FREIGHT CORRIDOR   TIMELESS
+</b><b>	
+</b>	...a more natural-looking corridor. Half-way along, there
+	are STEEL PRONGS that protrude from a wall. The group starts
+	toward them...but stops when a soul-shriveling SOUND fills
+	the passageway...the hungry MOANING of things that are dead.
+<b>	
+</b><b>				ADA
+</b>			Doors... were left open.
+<b>	
+</b><b>	INT   "D" LAB   TIMELESS
+</b><b>	
+</b>	The TYRANT BREAKS free of the last bit of restricting ice.
+	WESKER FREAKS. Whimpering, he gropes with his hand that's
+	outside the Plexiglas doors. He grabs something. A BOOT.
+	Brad Vickers' boot. Wesker tugs on it.
+<b>	
+</b>	BARRY opens fire on the Tyrant, full bore, with his M-16.
+	The stream of bullets does nothing except make the monster
+	notice the big man.
+<b>	
+</b><b>	
+</b><b>	INT   FREIGHT CORRIDOR   TIMELESS
+</b><b>	
+</b>	THE ESCAPEES run down the corridor. SHAPES appear at the
+	far end. ZOMBIES! Twenty. Thirty. Forty. More. The
+	walking remains of humans who were infected in the labs,
+	crawling over each other, hungry for living flesh.
+<b>	
+</b>	The humans reach the FREIGHT LOADER. Prongs, like those on
+	a fork lift, extend from a heavy chain-drive that runs up
+	and down through openings in the floor and ceiling.
+	ADA swipes her red key through a slot and pushes a button.
+	The chain-drive Grinds upward, hoisting the prongs.
+<b>	
+</b><b>				ADA
+</b>			Step on.
+<b>	
+</b>	Ada pushes REBECCA onto the next set of prongs that come up
+	out of the floor. The footing is precarious. Rebecca has
+	to hold on to the chain as she is hoisted.
+<b>	
+</b>	The lift moves slowly, eight feet separating each set of
+	prongs.
+<b>	
+</b>	The ghouls continue to press in.
+<b>	
+</b><b>				JILL
+</b>			I don't know if it's gonna happen.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Come on. I been waitin' all day
+			for somthin. like this.
+<b>	
+</b><b>	
+</b>	Pg-85
+<b>	
+</b>	Rosie opens FIRE. Chris and Jill follow suit as Ada steps
+	onto the next set of prongs.
+<b>	
+</b>	Blood FLIES. Skulls SHATTER. Front ranks drop. Zombies
+	from behind push their fallen comrades ahead of them. The
+	corridor is like a syringe filled with corrupted bodies,
+	pushing inexorably forward.
+<b>	
+</b>	Rosie, teeth gritted, keeps firing while Chris forces Jill
+	onto the next set of prongs. As she rises, she hands her
+	M-16 to Chris. He slings it on his arm while levering his
+	old Winchester, making each of his shots count, until the
+	next set of prongs rises out of the floor.
+<b>	
+</b><b>				CHRIS
+</b>			(To Rosie) You're up.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			I'm havin' too much fun. You got
+			a lady. I just got me. Anyway...
+			I ain't gonna die in this rat hole.
+			I'll make it. Get outta here.
+<b>	
+</b>	Chris hands Jill's rifle to Rosie, who fires with both hands
+	as Chris jumps onto the lift.
+<b>	
+</b>	Zombies are MOWED DOWN. But more come. The syringe keeps
+	pressing.
+<b>	
+</b>	The next prongs rise. Rosie steps on, still blasting..
+	The first zombies reach her. Shooting down, she blows them
+	away. But more come, grabbing her legs, grabbing the chains,
+	ROCKING the prongs. Rosie nearly falls. She drops one of
+	the rifles in order to hold on. She carefully picks off the
+	most threatening zombies. Miraculously, she rises out of
+	their reach, and into...
+<b>	
+</b><b>	
+</b><b>	INT   FREIGHT SHAFT   TIMELESS
+</b><b>	
+</b>	...a very tight, very dark SPACE with sheet metal walls that
+	have been bruised by loads of freight. The rumble of the
+	chain-drive ECHOES frighteningly.
+<b>	
+</b>	ABOVE ROSIE, THE OTHERS rise slowly... very slowly... feeling
+	apprehensive, vulnerable. REBECCA, at the top, looks up and
+	sees LIGHT spilling through an opening through which she is
+	about to pass.
+<b>	
+</b><b>				ADA
+</b>			(Calling up to her) Level "C".
+			Have your weapons ready.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			(From below) Whoop-de-doo.
+<b>	
+</b><b>	
+</b>	Pg-86
+<b>	
+</b>	Rebecca's eyes rise above the floor of Level "C". All seems
+	quiet... but who knows what might be lurking.
+<b>	
+</b><b>	
+</b><b>	INT "D" LAB TIMELESS
+</b><b>	
+</b>	THE TYRANT, still a bit sluggish, steps down from the
+	platform that supported its tank. BARRY jams in a fresh
+	clip and keeps firing at the thing. The Tyrant, impervious,
+	stalks after the big trooper.
+<b>	
+</b>	Wesker is still on the floor, his arm through the doors,
+	tugging on Vickers' boot.
+<b>	
+</b>	The flesh on Wesker's forearm is PEELED by the bumpers as
+	he uses all his strength to drag Vickers' body closer...
+	until the boot winds up in the opening, preventing the doors
+	from closing.
+	Wesker manages to pull his bloody arm free. He rushes to
+	a computer console and types a request for the "T"-virus.
+<b>	
+</b><b>				BARRY
+</b>			Get under a desk, man. I'm gonna
+			feed this thing a pineapple.
+<b>	
+</b>	Barry pulls a GRENADE from his belt.
+<b>	
+</b><b>				WESKER
+</b>			NO! It might damage the system!
+			I've got to get this data!
+<b>	
+</b>	Wesker's M-16 has been lying, where he left it, on the
+	console. He picks it up.
+<b>	
+</b><b>				BARRY
+</b>			Forget it. Bullets don't work!
+<b>	
+</b>	Barry is about to pull the pin on the grenade when Wesker
+	triggers off A BURST...into BARRY'S GUT!
+<b>	
+</b><b>				WESKER
+</b>			They seem to work just fine.
+<b>	
+</b>	Barry is BLASTED across the lab.
+<b>	
+</b>	The Tyrant makes its first quick move... making us appreciate
+	how fast and powerful it really is. It swipes at Barry's
+	body as it flies through the air, catching it in it's steel
+	claw. We hears BONES SNAP as Barry goes limp.
+<b>	
+</b>				WESKER (cont.)
+			That's it. Take a little lunch
+			break, Mr. "T". I just need a few
+			more seconds.
+<b>	
+</b>	Pg-87
+<b>	
+</b>	The Tyrant lifts Barry's body, as if it were as light as a
+	feather, up to its snout. Recognizing that the man is dead,
+	the monster FLINGS him aside like so much garbage... and
+	begins to lumber toward Wesker.
+<b>	
+</b>				WESKER (cont.)
+			(To the computer) Come on, come on.. .
+<b>	
+</b>	A monitor reads: 90% COMPLETE...95%...98%. Wesker rests
+	a finger on the button to eject a floppy.
+<b>	
+</b>	The Tyrant is getting closer by the second. Wesker FIRES
+	a burst at it which only slows it for a heartbeat.
+<b>	
+</b>	100%.. .TRANSFER COMPLETED. Wesker ejects the floppy, jams
+	it into his flack-jacket, and, FIRING another burst, runs
+	for the door. The Tyrant has to move around desks and
+	computer consoles to catch him.
+<b>	
+</b>	Wesker shoves his M-16 through the space that's being held
+	open by Vickers' boot. He begins to pry the opening wider.
+	A WARNING BUZZER goes off. The Tyrant dimly registers
+	the sound. Its eyes dilate, like camera shutters, with
+	a CLI-CLICK. It strides forward at top peed, PITCHING
+	DESKS easily aside, SMASHING through a CONSOLE as if it
+	were made of balsa.
+<b>	
+</b>	Wesker has pried the doors wide. The Tyrant is coming at
+	him FAST. It's going to be very close.
+<b>	
+</b>	Wesker MAKES IT. He gets outside. The doors begin to glide
+	shut. He LAUGHS!
+<b>	
+</b>				WESKER (cont.)
+<b>			EAT SHIT, YOU...
+</b><b>	
+</b>	THLANNG! The Tyrant's long, bionic CLAWS SHOOT, with the
+	speed of switch-blades, through the opening, just before the
+	doors meet. FOUR of the claws SKEWER WESKER, passing clean
+	through him.
+<b>	
+</b>	He doesn't die instantly. He's still alive and SCREAMING
+	when the Tyrant uses the same hand, with Wesker impaled on
+	it, to PUSH the doors open wide again. The action causes
+	WESKER'S HEAD to be SLICED OFF by one of the steel bumpers.
+	The Tyrant steps out of the lab. As the doors glide shut,
+	the monster holds the remainder of Wesker's body inside
+	their path.
+<b>	
+</b>	The bumpers are stopped by the Tyrant's iron hand... which
+	it extracts, letting the doors scrape the dead meat from
+	its claws.
+<b>	
+</b>	Pg-88
+<b>	
+</b><b>	
+</b><b>	INT   FREIGHT SHAFT   TIMELESS
+</b><b>	
+</b>	REBECCA is approaching another OPENING.
+<b>	
+</b><b>				ADA
+</b>			Level "B".
+<b>	
+</b><b>	
+</b><b>	INT   FREIGHT CORRIDOR   LEVEL "B"   TIMELESS
+</b><b>	
+</b>	THE CORRIDOR on Level "B" is long and narrow, with only
+	occasional pools of LIGHT from bare, overhanging bulbs.
+	REBECCA rises, like a spirit, out of the floor. She lifts
+	her weapon. Her eyes dart, looking for dangers. There are
+	none. The corridor, while very spooky, is quiet.
+<b>	
+</b><b>				REBECCA
+</b>			Don't see anything.
+<b>	
+</b><b>				ADA
+</b>			Good.
+<b>	
+</b><b>	
+</b><b>	INT   FREIGHT SHAFT   TIMELESS
+</b><b>	
+</b>	REBECCA rises through the ceiling.
+<b>	
+</b><b>				ADA
+</b>			We're almost there. You'll have
+			to jump off. The belt won't stop.
+<b>	
+</b>	As the ECHO of Ada's voice rings off, Rebecca looks up and...
+	...SCREEEE... SOMETHING dives down on her out of the darkness.
+	She ducks, almost losing her balance. She clings to the
+	chain as OTHER THINGS...black, relatively small.. .WHIP past
+	her head.
+<b>	
+</b><b>				REBECCA
+</b>			Bats! There are bats in here!
+<b>	
+</b><b>				ADA
+</b>			No. They're crows! Infected!
+			Don't let them bite you!
+<b>	
+</b>	Rebecca dodges with new urgency as the black birds dive past
+	her. Looking up, she sees more coming. She aims her M-16
+	and fires up the shaft. TWO BIRDS are HIT. They plummet.
+	One hits ADA. She swats it aside. It drops all the way
+	down to ROSIE, who JUMPS, gasping, when it hits her.
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Rats. FLYING RATS!
+<b>	
+</b><b>	
+</b>	Pg-89
+<b>	
+</b>	Beneath her, Rosie sees the crows hovering in the light from
+	Level "B"... They circle, then start to fly up again.
+	Rosie opens fire, filling the shaft with ribbons of lead.
+	Another BIRD dives from above and... SKIT... takes a chunk
+	out of Rosie's cheek.
+<b>	
+</b>				RODRIGUEZ (cont.)
+<b>			AAAH ! YOU FUCKER !
+</b><b>	
+</b><b>				CHRIS
+</b>			(From above) You alright?
+<b>	
+</b><b>				RODRIGUEZ
+</b>			Yeah. I'm cool. I'm... cool.
+<b>	
+</b>	Rosie keeps FIRING. The deafening SOUND of her M-16 keeps
+	her from hearing a...
+<b>	
+</b>	...KRATTCH...in the sheet-metal wall. A second later...
+<b>	
+</b>	...RRRRRIPPP! The metal is torn open like tissue-paper.
+<b>	
+</b>	SOMETHING dark lunges from the opening. It's the surviving
+	HUNTER! One of its steel claws GRABS the chain-drive. The
+	mechanism stops dead.
+<b>	
+</b>	QUICK CUTS: of THE ESCAPEES slipping, nearly falling, as they
+	hang on to the chain.
+<b>	
+</b><b>				REBECCA
+</b>			I thought it wasn't supposed to stop.
+<b>	
+</b><b>				ADA
+</b>			Climb out. OUT!
+<b>	
+</b>	Rebecca has nearly reached Level "A"... She's able to hoist
+	herself up, and roll to safety.
+<b>	
+</b>	Ada tries to climb. The chain is GREASY. Her hands slip.
+	BELOW, the Hunter lets go of the mechanism. The chain JERKS.
+	The escapees nearly lose their balance again.
+<b>	
+</b>	Rosie, at the bottom, is being lifted toward the Hunter's
+	free hand. She JUMPS down. Barely catching the next set
+	of prongs beneath her.
+<b>	
+</b>	AT THE TOP, Ada reaches Level "A". Rebecca catches her and
+	pulls her up onto Level "A..
+<b>	
+</b>	Jill is next, rising slowly. Rebecca and Ada reach down and
+	grab her arms just as... TCHUNG... the mechanism stops again.
+	The Hunter has grabbed the chain again. Its free hand
+	swings, clutching at Rosie, who crouches, avoiding capture.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-90
+<b>	
+</b>	Jill is pulled to safety. She turns and reaches down for
+	Chris, who starts to climb the chain, his hands slipping on
+	the grease.
+<b>	
+</b><b>				CHRIS
+</b><b>			ROSIE!?
+</b><b>	
+</b><b>				RODRIGUEZ
+</b><b>			I'M ALRIGHT!
+</b><b>	
+</b>	She's not alright. She's trapped. She can't get up past
+	the Hunter. She FIRES at the thing. Bullets BOUNCE off its
+	protective steel under-hide.
+<b>	
+</b>	Chris climbs three feet. Slides back two. The others reach
+	down from above. Their hands come within inches, but can't
+	quite catch hold of him.
+<b>	
+</b>				RODRIGUEZ (cont.)
+			Here! Here, you... lizard. You
+			fuckin' cockroach, HERE!
+<b>	
+</b>	Straining to reach Rosie, the hunter lets go of the chain
+	for a second, then latches on again. That second lifts
+	Chris to within reach of Jill and the others. They grab
+	his arms. Lift him up.
+<b>	
+</b>	That second has also brought Rosie within reach of the
+	Hunter. Its claws COMB her hair as she tries to duck lower
+	while keeping her balance on the prongs.
+<b>	
+</b>	THWAKK! SOMETHING crashes through the wall. A MONSTROUS
+	CLAW that IMPALES the Hunter. It's the claw of THE TYRANT!
+<b>	
+</b>	The chain mechanism begins to rise again. Rosie, cringing,
+	is lifted past the monster just as it leans its head and
+	shoulders into the shaft to examine what it has caught.
+<b>	
+</b>	Disappointed, the Tyrant SCRAPES the Hunter off its claw.
+	It drops away down the shaft.
+<b>	
+</b>	The Tyrant turns its CLICKING, dilating eyes up at Rosie,
+	and...TCHUNNNGG...purposely STOPS the rising chain.
+<b>	
+</b>				RODRIGUEZ (cont.)
+			(Calling up) BAD NEWS, GUYS. THIS
+<b>			THING'S NOT SO STUPID!
+</b><b>	
+</b><b>				CHRIS
+</b>			(From above) Climb, Rosie!
+<b>	
+</b><b>				ROSIE
+</b>			No. I'm finished. I live here now.
+<b>	
+</b><b>				CHRIS
+</b><b>			ROSIE, NOOOOO!
+</b><b>	
+</b><b>	
+</b>	Pg-91
+<b>	
+</b>	Rosie DIVES off the prongs...directly at the Tyrant. With
+	another lightning move, the monster catches her in its bionic
+	claw, crushing her ribs. With BLOOD spurting from her mouth,
+	she utters her last words...
+<b>	
+</b><b>				ROSIE
+</b><b>			EAT ME, YOU PILE OF SHIT!
+</b><b>	
+</b><b>	
+</b><b>	INT   LEVEL "A"   TIMELESS
+</b><b>	
+</b>	ADA is the most pragmatic.
+<b>	
+</b><b>				ADA
+</b>			Come.
+<b>	
+</b><b>				CHRIS
+</b><b>			ROSIE ...
+</b><b>	
+</b><b>				ADA
+</b>			COME! You convinced me that there
+			were...larger matters. We're at the
+			top. You said you'd get us out.
+<b>	
+</b>	Ada's words snap Chris back into the urgency of their
+	situation. He struggles to his feet.
+<b>	
+</b><b>				CHRIS
+</b>			Th-this way.
+<b>	
+</b>	They are in the MANSION, which Chris knows well. He leads
+	his small troop into...
+<b>	
+</b><b>	INT   POWDER ROOM   TIMELESS
+</b><b>	
+</b>	...a small powder room, decorated garishly in an East Indian
+	motif. A ceramic TIGER'S HEAD sits atop a vanity. CHRIS
+	grabs it...and TWISTS it on a pivot. A PANEL spins. The
+	COMMODE disappears into the wall, opening a SECRET PASSAGE.
+<b>	
+</b><b>				REBECCA
+</b>			Hell of a shit-house.
+<b>	
+</b><b>				JILL
+</b>			The guy was a bootlegger... with
+			a sense of humor.
+<b>	
+</b>	Chris leads the other into...
+<b>	
+</b><b>	
+</b><b>	INT   CLOCK ROOM   TIMELESS
+</b><b>	
+</b>	...a small, blank CHAMBER. The only thing it holds is a
+<b>	GRANDFATHER CLOCK .
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-92
+<b>	
+</b><b>				CHRIS
+</b>			I hope they haven't disabled this.
+<b>	
+</b>	CHRIS opens the door that covers the clock face. He quickly
+	spins the hands until they hit... HIGH NOON.
+<b>	
+</b>	GRONNNK! A WALL begins to GRIND open, straining against
+	rust, dirt, from years of idleness. Cobwebs are pulled
+	apart and...DAYLIGHT APPEARS!
+<b>	
+</b>				CHRIS (cont.)
+			Alright. We made it.
+<b>	
+</b>	Chris urges the OTHERS out through the opening. At the same
+	time he checks the detonator. The LED is down to SIX MINUTES
+	and counting.
+<b>	
+</b><b>	INT   HUEY   DAY
+</b><b>	
+</b>	At the controls of his helicopter, LAGUARDIA spots something.
+<b>	
+</b><b>	
+</b><b>	EXT   MANSION   HUEY'S POV   DAY
+</b><b>	
+</b>	REBECCA, then ADA, then JILL climbing onto the lawn.
+<b>	
+</b><b>	
+</b><b>	INT   HUEY   DAY
+</b><b>	
+</b><b>				LAGUARDIA
+</b>			I'm goin' in.
+<b>	
+</b><b>				RADIO MAN
+</b>			You don't have authority.
+<b>	
+</b><b>				LAGUARDIA
+</b>			Fuck authority.
+<b>	
+</b><b>	
+</b><b>	EXT   MANSION   YARD   DAY
+</b><b>	
+</b>	...CHRIS climbs out of the secret exit. THE OTHERS, having
+	spotted the incoming chopper, are waving at it. There's a
+	sense of relief, of salvation. Only Chris notices...
+<b>	
+</b>	...a bit of PLASTER falling away from one of the mansion's
+	stone walls.
+<b>	
+</b><b>				CHRIS
+</b>			Watch it. WATCH IIIIT!
+<b>	
+</b>	KER-AAAASSSSHHH! THE TYRANT BURSTS through the wall. With
+	superhuman speed, it ATTACKS the escapees, who run, dodge,
+	barely escaping the WHISHING SWIPE of its iron claw.
+<b>	
+</b><b>	
+</b><b>	
+</b>	Pg-93
+<b>	
+</b><b>	INT   HUEY   DAY
+</b><b>	
+</b><b>				RADIO
+</b>			What in God's name is that thing!
+<b>	
+</b><b>				LAGUARDIA
+</b>			Somethin' we weren't supposed to
+			see. Drop the ladder. And drop
+			the Stinger.
+<b>	
+</b><b>	EXT   MANSION   YARD   DAY
+</b><b>	
+</b>	THE HUEY swoops down as low as safety will allow. A faceted
+	aluminum LADDER unfurls.
+<b>	
+</b><b>				CHRIS
+</b><b>			GET UP!
+</b><b>	
+</b>	CHRIS pushes JILL toward the ladder. She pulls on Ada's arm
+	and sends her up first. ADA begins to climb. Then REBECCA.
+<b>	
+</b>	The Tyrant closes in, SWIPING at Chris, who just manages to
+	avoid the SLICE of its mighty claw.
+<b>	
+</b>	The RADIO MAN leans out of the door above, holding something.
+<b>	
+</b><b>				RADIO MAN
+</b>			Catch this!
+<b>	
+</b>	Chris doesn't hear. Jill does.
+<b>	
+</b><b>				JILL
+</b>			Toss it to me!
+<b>	
+</b>	The radio man drops the Stinger...a rocket with a shoulder-
+	launcher.. .down into Jill's hands.
+<b>	
+</b>	Chris hits the dirt. The Tyrant tries to crush him by
+	stepping on him. Chris rolls away.
+<b>	
+</b>	The ladder is too wobbly. Jill can't be sure of launching
+	an accurate shot.
+<b>	
+</b>				JILL (cont.)
+<b>			CHRIS!
+</b><b>	
+</b>	Chris looks up. Sees Jill holding the rocket launcher. He
+	RUNS past the Tyrant, okey-doking, left, right, then dodging
+	left again. The monster SWIPES at him with its elongated
+	claw. Chris' flack-jacket is caught. Protective fibers fly.
+	But Chris escapes without injury.
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-94
+<b>	
+</b>	Jill pitches the weapon. Chris catches it. The Tyrant is
+	on him, about to STOMP him with a bionic FOOT when...
+<b>	
+</b>	...Chris aims at the monster's rhinoceros heart and FIRES!
+<b>	
+</b>	The rocket CONNECTS, on target. The casing around the animal
+	heart EXPLODES... and the Tyrant drops like a giant Redwood...
+<b>	
+</b>	...on top of Chris's legs.
+<b>	
+</b>	As Chris tries to free himself, he checks the detonator.
+<b>	THREE MINUTES. TWO-FIFTY-NINE. EIGHT. SEVEN. SIX.
+</b><b>	
+</b>	LaGuardia drops his chopper a bit lower. The bottom of the
+	ladder hits the ground, coming within Chris' reach. He grabs
+	on. The helicopter rises again. Chris is pulled out from
+	under the Tyrant's steel body and is LIFTED into the air.
+	He climbs frantically.
+<b>	
+</b>	Above him, Jill is still on the ladder as well. Ada and
+	Rebecca pull her up. Chris DANGLES as the Huey banks away
+	over the forest. The tops of TREES whip his legs, but he
+	hangs on, climbing up... up... until the others catch his
+	hands and hoist him into the chopper. Chris checks the LED.
+<b>	ONE MINUTE, FORTY-FIVE SECONDS.
+</b><b>	
+</b><b>				JILL
+</b>			(Reading over Chris' shoulder) We
+			have to get out of range.
+<b>	
+</b><b>				CHRIS
+</b>			No. (To the pilot) Circle around.
+<b>			
+</b><b>				LAGUARDIA
+</b>			Are there more survivors?
+<b>	
+</b><b>				CHRIS
+</b>			No. Just...circle, okay? I want
+			to...take a last look.
+<b>	
+</b>	The Huey banks into a circle. Chris looks down at...
+<b>	
+</b><b>	
+</b><b>	EXT   AERIAL POV   DAY
+</b><b>	
+</b>	...the MANSION. And just over the hills...HIS FARM.
+<b>	
+</b><b>	
+</b><b>	INT   HUEY   DAY
+</b><b>	
+</b><b>				JILL
+</b>			It's... your home.
+<b>	
+</b>	CHRIS looks at her, with a resigned smile.
+<b>	
+</b><b>	
+</b><b>	
+</b><b>	
+</b>	Pg-95
+<b>				CHRIS
+</b>			I hoped... it would be our home.
+<b>	
+</b><b>				JILL
+</b>			I guess... we're gonna be moving.
+<b>	
+</b>	Chris checks the LED. THIRTY-EIGHT SECONDS.
+<b>	
+</b><b>				CHRIS
+</b>			(To the pilot) Full throttle.
+			Out of here, man!
+<b>	
+</b>	LaGuardia pushes his stick. The Huey LUNGES forward at
+	top speed. REBECCA, ADA and JILL are pressed back by
+	inertia. Chris holds himself erect. Through the window,
+	in the receding sky, he spots...
+<b>	
+</b>	...AN EAGLE, riding the wind.
+<b>	
+</b><b>	CUT TO:
+</b><b>	
+</b><b>	EXT   THE ARKLEY FOREST   THE MANSION   DAY
+</b><b>	
+</b>	PLOOOOMMMMM! The GROUND ERUPTS from an enormous under-
+	ground explosion. The MANSION is reduced to particulate
+	as the shock-wave spreads outward.
+<b>	
+</b><b>	
+</b><b>	EXT   FARM   DAY
+</b><b>	
+</b>	Chris' farm hand, RAKE, is shambling out of the house, a
+	ZOMBIE... when the EXPLOSIVE FORCE HITS, tearing him APART.
+<b>	
+</b><b>	
+</b><b>	EXT   RACCOON CITY   DAY
+</b><b>	
+</b>	The TOWN is EMPTY...except for NINE LONELY FIGURES, lumbering
+	down Main Street. They, too...are ZOMBIES. The hot wave
+	HITS. Two are VAPORIZED. FIRE engulfs two more. The BRAINS
+	of two others are DESTROYED by flying debris.. .
+<b>	
+</b>	...which catches the remaining three, as well. Arms are
+	torn off. Iron shafts from shattered plumbing, shards of
+	window glass, slats from picket fences... PUNCH through
+	necks, chests, bellies...
+<b>	
+</b>	...but the dead things, their skulls undamaged,
+	through billows of dust... drooling hungrily.
+<b>	
+</b><b>	THE SCREEN GOES BLACK.
+</b><b>	
+</b><b>	
+</b><b>	---
+</b>	This text orginiated from <a href="http://www.new-blood.com">www.New-Blood.com</a>, please check them 
+	out for Resident Evil coverage.
+<b>	---
+</b><b>	
+</b><b>	
+</b>
+</pre>
+<b></b></pre><br/>
+<table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
+<tr>
+<td align="center">
+</td><td><h1>Resident Evil</h1><br/><br/>
+<b>Writers</b> :   <a href="/writer.php?w=George A. Romero" title="Scripts by George A. Romero">George A. Romero</a><br/>
+<b>Genres</b> :   <a href="/genre/Action" title="Action Scripts">Action</a>  <a href="/genre/Horror" title="Horror Scripts">Horror</a>  <a href="/genre/Sci-Fi" title="Sci-Fi Scripts">Sci-Fi</a>  <a href="/genre/Thriller" title="Thriller Scripts">Thriller</a><br/><br/><br/>
+<a href="http://www.imsdb.com/Movie Scripts/Resident Evil Script.html#comments" title="Resident Evil comments">User Comments</a>
+</td>
+</tr></table>
+<br/><br/>
+<div align="center">
+<a href="http://www.imsdb.com" title="Internet Movie Script Database"><img alt="Internet Movie Script Database" border="1" src="http://www.imsdb.com/images/lilbutton.gif" style="border: 1px solid black;"/><br/>
+Back to IMSDb</a>
+</div><br/>
+<br/><br/>
+</td></tr>
+</table>
+<br/><br/>
+</td>

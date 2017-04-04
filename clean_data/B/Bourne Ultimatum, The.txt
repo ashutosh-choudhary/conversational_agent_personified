@@ -373,12 +373,12 @@ VOSEN: Notify the asset of the additional target.
 BRYAN: Yes, sir.
 VOSEN: Have the bank release the funds.
 BANK OFFICER (FRENCH, SUBTITLED): Mr. Daniels, Bank of Tangier. Your funds are now available.
-NICKY                                     *: Code in?                                            * (no reply)                                      * Code in?                                            *
-TECHY                                     *: We have a trace.                                    *
-TECHY 2                                   *: Target heading north. Rue des                       * Chretiens. Intercept ETA six                        * minutes.                                            *
-VOSEN                                     *: Okay, that's it.    Bar her cell.                   * Tie it off.                                         *
-NICKY                                 *: Bourne?                                           *
-BOURNE                                *: Nicky?    Listen to me.   You need                * to -                                              *
+NICKY: Code in? (no reply) Code in?
+TECHY: We have a trace.
+TECHY 2: Target heading north. Rue des Chretiens. Intercept ETA six minutes.
+VOSEN: Okay, that's it.    Bar her cell. Tie it off.
+NICKY: Bourne?
+BOURNE: Nicky?    Listen to me.   You need to -
 BOURNE: Alright, we need to be dead.    You need to code that in.
 VOSEN: I want to be sure. Have the station chief in Rabat confirm the deaths and do a sub-rosa check...And keep and eye on Landy.
 CRONIN: The hub just got word Bourne and Nicky are dead.

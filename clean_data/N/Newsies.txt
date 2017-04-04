@@ -20,10 +20,10 @@ OFFICER (COP): I'm keepin' my eye on you, Blink.
 KID BLINK: And I'll keep my eye on you, too, sir.
 OFFICER: Get moving!
 A PLEASURE DOING BUSINESS: I'm wiped out -- my mother'll murder me -- if I had one.
-RACETRACK: Jack -- whattaya know, whattaya say. Got a hot tip on a nag in the fourth at Sheepshead -- sure                         * t'ing!                                                   *
-JACK: Your last sure t'ing's still                             * runnin', Racetrack.                                      *
-MUSH: (the world's best audience) Ya hear that? Race says sure t'ing                    * and Jack says -- ya hear what he                      * said, ya hear it, he said --                          *
-BOOTS/CRUTCHY                           *: (together)                                     * We heard it!                                          *
+RACETRACK: Jack -- whattaya know, whattaya say. Got a hot tip on a nag in the fourth at Sheepshead -- sure t'ing!
+JACK: Your last sure t'ing's still runnin', Racetrack.
+MUSH: (the world's best audience) Ya hear that? Race says sure t'ing and Jack says -- ya hear what he said, ya hear it, he said --
+BOOTS/CRUTCHY: (together) We heard it!
 KID BLINK: Say, Cowboy -- I hear Medda's breakin' in a new act at the vaudeville tonight -- ya interested?
 CRUTCHY: Stupid question.
 KID BLINK: That an echo? Or is the Crip followin' ya again?
@@ -33,7 +33,7 @@ KID BLINK: Hey, who ya sellin' wit, Jack?
 CRUTCHY: Not wit you!
 JACK: Nothing personal, Blink, but...
 JESUS LOVES YOU: How 'bout savin' me another roll -- okay, sister?
-GUTTERSNIPE                             *: (shoves him) Hey!     Save some for the rest of us!
+GUTTERSNIPE: (shoves him) Hey!     Save some for the rest of us!
 RACETRACK: (sniffs the air) Dear me. What is dat unpleasant aroma? I fear de sewer has backed up during de night.
 CRUTCHY: -- the Delancey brothers!
 OSCAR: Inna back, ya ugly little shrimp!
@@ -42,24 +42,24 @@ JACK: You shouldn't be callin' people ugly little shrimps. Oscar. Unless you're 
 JACK: That's right. It's an insult. And so's this --
 DAVID: Watch it, willya? What do you think you're doing!
 JACK: (breathing hard) Runnin'.
-MUSH                                        *: Comin' down de chute!
+MUSH: Comin' down de chute!
 MORRIS: We ain't finished with you yet, Kelly.
 BOOTS: Ride 'em, cowboy!
 JACK: Ya miss me, Weasel?
 WEASEL: You know my name -- it's Weisel. Mister Weisel to you. How many?
-JACK: Don't rush me -- I'm perusin'                          * the mercandice... Mr. Weasel.                          *
+JACK: Don't rush me -- I'm perusin' the mercandice... Mr. Weasel.
 JACK: The usual.
-WEASEL: Hundred for the wiseguy -- next!                       *
-WEASEL: Ya got ya papes -- move outta here.                    *
-DAVID: I paid for twenty -- you only gave                     * me nineteen!
+WEASEL: Hundred for the wiseguy -- next!
+WEASEL: Ya got ya papes -- move outta here.
+DAVID: I paid for twenty -- you only gave me nineteen!
 DAVID: I want that other paper.
-JACK: Nineteen, Weasel. An honest mistake -- on account of Oscar                            * can't count to twenty with his                            * shoes on.                                                 *
+JACK: Nineteen, Weasel. An honest mistake -- on account of Oscar can't count to twenty with his shoes on.
 WEASEL: Next!
 JACK: Hold it.   Race -- spot me two-bits.
 JACK: Another fifty for my friend here.
 DAVID: I don't want another fifty -- !
 JACK: (moving away) Sure you do. Every newsie wants more papes.
-DAVID: These papers are yours, I don't                           * take charity from nobody! I don't                         * even know who you are --
+DAVID: These papers are yours, I don't take charity from nobody! I don't even know who you are --
 JACK: That and a lotta other things -- including Jack Kelly, which is what my mudder called me. What do they call you, kid?
 LES: (thrilled) Les. This is David, he's my brother. He's older.
 JACK: (barely glances at David) No kiddin'. How old are you, Les?
@@ -83,9 +83,9 @@ PULITZER: Steal Hearst's man -- offer him double what Hearst pays.
 SEITZ: That's how he stole him from us. (sighs) Chief, you spend as much as you make fighting Hearst. That's why the paper's losing money --
 PULITZER: I created the World to be the best and I'll spend whatever it takes to -- (stops) What is that deafening noise?
 SEITZ: Just the Newsies, Chief, I'll --
-SEITZ: Creating the World, Chief.                             *
-PULITZER: This paper's losing money because there's too much fat, inefficiency -- not because I'm fighting to                         * make us number one! Well, we're going to cut costs, maximize profits -- and still beat the socks off Hearst -- (beat) I want to know how by tonight.
-JACK: Some newsies got corners, see -- same spot, same customers. Me,                         * I like to keep moving, enjoy the life of the big city. I spot an opportunity, I sell a pape. That's the advantage of being an independent businessman, instead                       * of workin' for wages.                                  *
+SEITZ: Creating the World, Chief.
+PULITZER: This paper's losing money because there's too much fat, inefficiency -- not because I'm fighting to make us number one! Well, we're going to cut costs, maximize profits -- and still beat the socks off Hearst -- (beat) I want to know how by tonight.
+JACK: Some newsies got corners, see -- same spot, same customers. Me, I like to keep moving, enjoy the life of the big city. I spot an opportunity, I sell a pape. That's the advantage of being an independent businessman, instead of workin' for wages.
 DAVID: Paper, mister?
 LES: (earsplitting shout) Extry -- 'Runaway Carriage Crushes Cop!'
 LES: He gimme a dime! He said I should go far away and keep the change!
@@ -170,13 +170,13 @@ JACK: How'd your pop get hurt?
 DAVID: The factory. An accident. (bitterly) He's no good to them anymore so they just fired him. He's got no union to protect him.
 MAYER: David?   Time to come in now.
 DAVID: Why don't you stay here tonight...?
-JACK: I got my own place... but thanks.                      * Your family's real nice, Dave.                         * (beat)                                          * Like mine.                                             *
+JACK: I got my own place... but thanks. Your family's real nice, Dave. (beat) Like mine.
 DAVID: See you tomorrow. Carryin' the banner.
 JACK: (smiles) Carryin' the banner.
 JACK: How'd it go at the track, Race?
 RACETRACK: That hot tip I told you about? Nobody told the horse.
 KLOPPMAN: You missed your supper, boys.
-RACETRACK: Then we didn't miss much, did we?                     *
+RACETRACK: Then we didn't miss much, did we?
 JONATHAN: Actual income, as well as projected income, against actual operating costs, as well as projected operating costs, produce a reduced marginality of profit which in turn --
 PULITZER: Seitz!   What in blazes is he talking about?
 SEITZ: Says you need to make more money, Chief.
@@ -191,7 +191,7 @@ PULITZER: -- then that, multiplied by forty thousand papers a day, seven days a 
 SEITZ: Chief, if you do this, every Newsie we got will head straight for Hearst.
 SEITZ: What about the other papers -- ?
 PULITZER: If we do it, they'll all do it. It's only a tenth of a cent -- nobody gets hurt! It's good for the Newsies -- an incentive, make 'em work harder, sell more papers! Now get me Hearst on that contraption.
-SKITTERY                                  *: This'll bust me -- I'm barely                           * makin' a livin' now --                                  *
+SKITTERY: This'll bust me -- I'm barely makin' a livin' now --
 JACK: Awright, pipe down! Don't you see it's a gag? Just Weasel bein' a weasel. Joke's over, Wease. Gimme a hunnerd.
 WEASEL: Hunnerd'll cost ya sixty, Cowboy.
 JACK: I ain't payin' no sixty --
@@ -206,7 +206,7 @@ RACETRACK: They can do what they want -- it's their stinkin' paper --
 JACK: Nobody's goin' anywhere -- they ain't gonna get away with this!
 EVERYBODY: What can we do -- (etc.)
 LES: Stop crowding him!    Let him think!
-RACETRACK: (tentatively) Jack...? Ya still thinkin'... ?                        *
+RACETRACK: (tentatively) Jack...? Ya still thinkin'... ?
 JACK: One thing for sure. If we don't sell papes, then nobody sells papes. Nobody comes through those gates 'til they put the price back where it was.
 JACK: Yeah, a strike -- good idea, Dave.
 DAVID: (alarmed) No, I didn't mean -- we can't strike, we're not a union --
@@ -227,7 +227,7 @@ JACK: We talk to 'em.
 RACETRACK: Some of 'em don't hear so good.
 JACK: Then we soak 'em.
 DAVID: No!
-JACK: We gotta get word out to all the                            * Newsies in New York! I gotta have                           * some... whattaya call 'em --
+JACK: We gotta get word out to all the Newsies in New York! I gotta have some... whattaya call 'em --
 DAVID: Ambassadors.
 JACK: Right! You guys gotta be embastards and tell 'em we're on strike!
 KID BLINK: I'll take Harlem!
@@ -329,13 +329,13 @@ SPOT: Stop t'inkin' about yaself and let 'im read!
 DENTON: -- They can just ignore you until you go away.
 JACK: We ain't goin' away.   We'll never go away.
 DAVID: That's what we gotta show 'em -- we gotta do somethin' they can't ignore, somethin' big --
-JACK: We'll do it up big, all right -- We'll show 'em we ain't tired, or                      * bored, and the hungrier we get, the more we fight -- (as Denton starts writing) We'll have a rally -- every Newsie                     * in New York -- and we're gonna send                    * a message: there's a lot of us and we ain't goin' away -- we'll keep fightin' until doomsday if it means gettin' what's ours!
+JACK: We'll do it up big, all right -- We'll show 'em we ain't tired, or bored, and the hungrier we get, the more we fight -- (as Denton starts writing) We'll have a rally -- every Newsie in New York -- and we're gonna send a message: there's a lot of us and we ain't goin' away -- we'll keep fightin' until doomsday if it means gettin' what's ours!
 CRUTCHY: That's Jack -- ! Hey, he looks just like hisself!
 SNYDER: You know this boy...?
 CRUTCHY: Him?   Nah.
 SNYDER: (smarmy smile) You have a famous friend, this 'Jack.'... Do you know where he lives...?
 CRUTCHY: I never seen the guy, honest. (hits his head with his palm) This brain of mine, always makin' mistakes. Got a mind of its own.
-MEDDA: Darlings, I love you -- I wish                            * you luck on your rally, I am behind                       * you one hundred percent. But I'm not running a union hall here -- this is a theater, a temple of art. And well-known money pit.
+MEDDA: Darlings, I love you -- I wish you luck on your rally, I am behind you one hundred percent. But I'm not running a union hall here -- this is a theater, a temple of art. And well-known money pit.
 JACK: We got money, Medda.      Some, anyway.
 DAVID: We'll take a collection at the door. We'll pay whatever you ask.
 MEDDA: It's not the money. I depend on the papers. They write good things about me, the customers flock here like sheep. They give me the pan, I'm the one who gets sheared.
@@ -387,7 +387,7 @@ JACK: Hey, Denton -- sit down front! You're the guest of honor!
 DENTON: (shakes his head) I'm working press tonight. (looks around) The only working press. As usual.
 DAVID: As long as you keep writing about us, they're gonna know we exist.
 PULITZER: You know the boys, Mayor -- Mr. Bennett of The Tribune, Mr. Taylor of The Times, of course you know Mr. Hearst -- and this is a new member of our little group, Mr. Gammon, who just came back from Europe...
-PULITZER                                *: Mr. Gammon owns The New York Sun.                     *
+PULITZER: Mr. Gammon owns The New York Sun.
 JACK: Carryin' the banner!
 AUDIENCE: (a roar) Carryin' the banner!
 JACK: We come a long way but we ain't there yet -- and maybe it's only gonna get tougher from now on! That means we get tougher too -- (as a huge roar goes up) -- it also means we get smarter! That's why we're gonna listen to my pal David and stop soakin' the scabs --
@@ -433,7 +433,7 @@ MONAHAN: I fine you each five dollars or two weeks confinement in --
 RACETRACK: Five bucks!   We ain't got five cents!
 DENTON: (standing) I'll pay the fines. All of them.
 JUDGE: Pay the clerk. Next.
-ALL                                      *: Thanks, I owe ya, you're a right                       * guy, Denton, etc.                                      *
+ALL: Thanks, I owe ya, you're a right guy, Denton, etc.
 RACETRACK: Talk and eat, right? On you, huh, pal?
 JACK: Hiya, fellas! Hey, Denton -- guess we made all the papes this time, huh? How'd my picture look?
 DENTON: None of the papers covered the rally. Not even The Sun.
@@ -471,7 +471,7 @@ DAVID: That's where we saw Crutchy...
 MUSH: Where they takin' him...?
 DAVID: One way to find out.   Meet me back at the square!
 JACK: Very impressive. So where do they keep the trains in this station?
-JACK: (grins) Sorry to see you ain't doin' so good, Joe.                                             *
+JACK: (grins) Sorry to see you ain't doin' so good, Joe.
 JACK: I heard of it. You win?
 PULITZER: People think wars are about right and wrong. They're not. They're about power. You know what power is?
 JACK: Heard of that, too.   I don't just sell ya papes, Joe.   Sometimes I read 'em.
@@ -496,7 +496,7 @@ JACK: You go to jail, what happens to your family? You don't know nothin' about 
 DAVID: I don't understand --
 JACK: I don't either -- I don't understand nothin' no more!
 JACK: Just go!
-CRUTCHY: Snitched it offa Snyder's plate when I was servin' him -- the biggest one! (as Jack shakes his head, looks away) Snyder was eatin' good tonight -- the stuff we don't never get?                            * Patatas... olives... (mouth watering) ... liver and bacon. Sauerkraut... (grins) Guess what I done to his sauerkraut.
+CRUTCHY: Snitched it offa Snyder's plate when I was servin' him -- the biggest one! (as Jack shakes his head, looks away) Snyder was eatin' good tonight -- the stuff we don't never get? Patatas... olives... (mouth watering) ... liver and bacon. Sauerkraut... (grins) Guess what I done to his sauerkraut.
 JACK: (irritably) So what's it git'cha?
 CRUTCHY: Anudder three months, prob'ly. But you can't let 'em beat'cha, right, Jack?
 JACK: We was beat when we was born.
@@ -516,7 +516,7 @@ LES: (chewing knockwurst) I told you. He's spyin' on 'em.
 MAYER: There.   You see?
 SARAH: It's Denton's story. 'The Dark Truth: Why Our City Really Fears the Newsie Strike, by Bryan Denton. Last night I saw naked force exercised against mere boys, the Newsies, who earn at best a few pennies a day. I wondered why so much, against so little -- '
 KLOPPMAN: He will only be a minute.   Please, no trouble.
-RACETRACK: Dear me, what is dat unpleasant aroma -- ? (as Jack's fists clench) Go on, take a shot -- I bust your scab face, ya yellow-livered,                           * rotten stinkin' piecea garbage!                         *
+RACETRACK: Dear me, what is dat unpleasant aroma -- ? (as Jack's fists clench) Go on, take a shot -- I bust your scab face, ya yellow-livered, rotten stinkin' piecea garbage!
 WEASEL: You try any tricks, and I go straight to Mr. Pulitzer. (grins) Will you be requirin' anything else? Then I bid you good night.
 WEASEL: Sleep well, cowboy...?
 OSCAR: Come wit' us, cowboy -- we're gonna fix your pal Davey today -- fix 'im so's he can't walk no more.
@@ -530,10 +530,10 @@ SARAH: (calmly) You... stupid... ape!
 OSCAR: Yeah, run, Davey! We got the best parta ya family right here!
 SARAH: David, no -- don't -- !
 LES: Jack!
-DAVID: Couldn't stay away, huh.                                    *
+DAVID: Couldn't stay away, huh.
 JACK: Guess I can't be somethin' I ain't.
-DAVID: A scab...?                                                  *
-JACK: Nah.    Smart.                                              *
+DAVID: A scab...?
+JACK: Nah.    Smart.
 DAVID: Without you, the strike's falling apart...
 JACK: I got no choice. I stay here, they lock me up 'til I'm twenty- one.
 LES: Jack, for the trip -- a pair of cowboy boots! Sorta.

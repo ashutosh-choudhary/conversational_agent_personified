@@ -1,0 +1,22 @@
+<td valign="top">
+<br/> <table width="100%"><tr><td class="scrtext">
+<pre></pre><br/>
+<table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
+<tr>
+<td align="center"><img border="0" src="http://www.imsdb.com/posters/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street.jpg"/>
+</td><td><h1>Sweeney Todd: The Demon Barber of Fleet Street</h1><br/><br/>
+<b>Writers</b> :   <a href="/writer.php?w=John Logan" title="Scripts by John Logan">John Logan</a><br/>
+<b>Genres</b> :   <a href="/genre/Drama" title="Drama Scripts">Drama</a>  <a href="/genre/Horror" title="Horror Scripts">Horror</a>  <a href="/genre/Musical" title="Musical Scripts">Musical</a><br/><br/><br/>
+<a href="http://www.imsdb.com/Movie Scripts/Sweeney Todd: The Demon Barber of Fleet Street Script.html#comments" title="Sweeney Todd: The Demon Barber of Fleet Street comments">User Comments</a>
+</td>
+</tr></table>
+<br/><br/>
+<div align="center">
+<a href="http://www.imsdb.com" title="Internet Movie Script Database"><img alt="Internet Movie Script Database" border="1" src="http://www.imsdb.com/images/lilbutton.gif" style="border: 1px solid black;"/><br/>
+Back to IMSDb</a>
+</div><br/>
+<br/><br/>
+</td></tr>
+</table>
+<br/><br/>
+</td>

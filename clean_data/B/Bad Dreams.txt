@@ -42,7 +42,7 @@ CYNTHIA: (finally) I... I hate chocolate ice cream.
 BERRISFORD: Then walk to the end of the platform, or I'll shove an entire gallon down your throat.
 BERRISFORD: (to the therapist) That'll be all.
 CYNTHIA: (peering at Berrisford) Am I supposed to know you or something?
-BERRISFORD: I've looked in on you from time to time... but that's hardly an introduction. You've been transferred into my care, Cynthia. I*m Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.
+BERRISFORD: I've looked in on you from time to time... but that's hardly an introduction. You've been transferred into my care, Cynthia. Im Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.
 CYNTHIA: (fumbling it) C-consulting Cheev-- Chief of--
 BERRISFORD: Oh, forget all that.   Just call me what my staff does.
 CYNTHIA: What's that?

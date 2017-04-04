@@ -1,0 +1,6177 @@
+<td valign="top">
+<br/> <table width="100%"><tr><td class="scrtext">
+<pre>
+
+<b>                   S T A R S H I P   T R O O P E R S
+</b>
+                             Screenplay by
+                            Edward Neumeier
+
+                         Based on the novel by
+                            Robert Heinlein
+
+
+
+<b>1	FROM THE FEDERAL NET -- NOTICE -- JOIN UP NOW !
+</b><b> 
+</b>	Proud YOUNG PEOPLE in uniform, the bloom of human evolution.
+
+<b>				YOUNG PEOPLE
+</b>		I'm doing my part... Me, too...
+		Are you ?
+
+	The mobile infantery logo:	LIGHTNING BOLTS ON A BLACK SHIELD.
+
+<b>				OFFICIAL VOICE
+</b>		Join the mobile infantery and save the world !
+		Service guarantees citizen-ship.
+		Would you like to know more ?
+
+<b>2	BUG METEOR:
+</b>
+	Behold actual pictures of a METEOR, this one a mile across, as it hurtles
+	past an observation ship.
+
+<b>				OFFICIAL VOICE
+</b>		The Bugs send another meteor our way !
+
+	A BRIGHT EXPLOSION in space out beyond the moon.
+
+<b>				OFFICIAL VOICE
+</b>		But this time we are ready !
+		Planetary defenses are better than ever !
+		Would you like to know more ?
+
+<b>3	KLENDATHU --- WHY WE HAVE TO FIGHT !
+</b>
+	Klendathu, a fierce orange planet ringed by an asteroid belt, 
+	orbits a double star.
+
+<b>				OFFICIAL VOICE
+</b>		Klendathu, source of the bug meteor attacks,
+		orbits a twin star system whose brutal gravitational 
+		forces produce an unlimited supply of meteorites...
+
+	A "You are here" map of the KNOWN GALAXY shows the Earth in 
+	relationship to the BUG PLANETARY SYSTEM and Klendathu.
+
+<b>				OFFICIAL VOICE
+</b>		To ensure the safety of our solar system,
+		Klendathu must be eliminated !
+		Would you like to know more ?
+
+
+
+<b>4	LIVE BROADCAST -- FROM ORBIT - THE INVASION OF KLENDATHU !
+</b>
+	For BATTLE GROUPS, sixty STARSHPS strong, orbit the orange planet.
+	Graphics:	KLENDATHU:	THE INVASION
+
+<b>				OFFICIAL VOICE
+</b>		We break net now and take you live to Klendathu 
+where the invasion has begun !
+
+<b>5	EXT	KLENDATHU -- NIGHT -- THE CAMERA
+</b>
+	takes the Mobile Infantery CAP TROOPERS wearing fully armed Marauder
+	POWER SUITS as they move up the line, the pans to the
+<b>	NET CORRESPONDENT
+</b>
+<b>				NET CORRESPONDENT
+</b>		We 've just landes here on whar cap troopres are calling 
+		"Big K" with the 6th Mobile Infantery division...
+		It 's an ugly planet, a bug planet, a planet hostile to 
+		life as we iGKKKKKK !
+
+	Blood hits the lens as the Correspondent is cut in half.
+	The CAMERA catches a glimpse of HUGE CLAWS as Cap Trooper
+	JOHNNY RICO , 18, blows away SOMETHING BIG big with his pulse cannon.
+
+<b>				JOHNNY
+</b>		Com'on, let's go !	ON THE BOUNCE
+
+	The cap troopers move out, among them DIZZY FLORES, 18, ACE
+	LEVY, 19, and KITTEN SMITH, 18. The CAMERA pauses, unsure.
+
+<b>				FED NET CENTRAL (O.S.)
+</b><b>		FOLLOW THEM...! GO ! GO !
+</b>
+	The CAMERA follows. The PULSE of BUG BATTERIES is blinding.
+	Cap Troopers scream as they are torn apart right and left by an enemy
+	seen only in disorientating glimpses.
+
+<b>				JOHNNY
+</b><b>		THIS WAY !
+</b>
+	The group splits into two, and the CAMERA follows Johnny.
+	Something slices Kitten Smith, and he goes down screaming.
+
+<b>				JOHNNY
+</b><b>		KITTEN !
+</b>
+	Johnny stops to help his comrade. A CLAW slashes into him.
+
+<b>	
+</b><b>				JOHNNY
+</b><b>		AAAAAAAAAAAAAAAA !
+</b>
+	Now something grabs the CAMERA, spinning it around. 
+	We glimpse the hideous jaws of an ARACHNID WARRIOR.
+
+<b>				CAMERAMAN (O.S.)
+</b><b>		AAAAAAAAAAAAAAAA !
+</b>
+	The CAMERA hits the ground. Johnny, badly wounded, bleeding
+	from the mouth, crawls into CAMERA, trying to get away from the
+	dark INSECT SHAPES that close in on him.
+
+<b>				JOHNNY
+</b>		Oh, God... Oh, God, help me...
+		please help me...
+
+	His eyes glaze over as he remembers
+
+<b>								FLASHBACK:
+</b>
+<b>6	INT	NEW UNI HIGH - CLASSROOM - DAY - CARMEN IBANEZ
+</b>
+	is beautiful, just 18, and quite pleased with herself  because
+	Johnny Rico is clearly infatuated with her.
+
+<b>				RASCZAK (O.S.)
+</b>		The end of another school year, and for 
+		me no doubt another failure...
+		Rico, pay attention !
+
+	The teacher JEAN RASCZAK, 38, a rugged veteran who proudly
+	displays his missing hand, scowls at Johnny, bemused.
+
+<b>				JOHNNY
+</b>		Sorry, Mr. Rasczak.
+
+	But as soon as Rasczak turns back to the class, Johnny begins to sketch
+	a cartoon on his desk's touch screen.
+
+<b>				RASCZAK
+</b>		Here in History and Moral Philosophy
+		we've explored the decline of 
+		Democracy when social scientists brought
+		the world to the brink of chaos, and how the	
+		veterans took control and imposed a stability 
+		that has lasted for generations since...
+		You know these facts but have I taught you
+		anything of value ? You.
+		Why are only citizens allowed to vote ?
+
+	Rasczak points at LANNY, 17, with his stump
+<b>.
+</b><b>				LANNY
+</b>		It's a reward... what the Federation gives you
+		for doing Federal Service.
+
+	Rasczak is crestfallen, makes a big show of patience.
+
+<b>				RASCZAK
+</b>		No. Something given has no value !
+		Haven't I taught you dimwits anything ?
+		I guess they ought to revoke my 
+		teaching credential...
+
+	Laughter. Johnny's cartoon, meanwhile, is taking shape:
+	Johnny and Carmen flying round planet Venus in a space ship.
+
+<b>				RASCZAK
+</b>		When you vote, you're exercising political
+		authority. You're using force. And force, my
+		friends, is violence, the supreme authority
+		from which all other authority derives.
+
+	CARL JENKINS, 18, a superintelligent geek, jumps in.
+
+<b>				CARL
+</b>		Gee, we always thought you were the
+		supreme authority, Mr. Rasczak.
+
+	Laughter. Rasczak grins.
+
+<b>				RASCZAK
+</b>		In my classroom, you bet. Whether it's 
+		exerted by ten or ten billion, political 
+		authority is violence by degree. The 
+		people we call citizens have earned
+		the right to wield it.
+
+	DIZZY FLORES, 18, athletic, pretty, no nonsense, chimes in.
+
+<b>				DIZZY
+</b>		My mother always says that violence
+		never solves anything.
+
+<b>				RASCZAK
+</b>		Really ? I wonder what the city fathers of
+		Hiroshima would have to say about that.
+		You.
+
+	Rasczak points at Carmen.
+
+<b>				CARMEN
+</b>		They probably wouldn't say anything.
+		Hiroshima was destroyed.
+
+	Johnny presses ´"SEND" on his desk, and the cartoon appears
+	across the way on Carmen's screen.
+
+<b>				RASCZAK
+</b>		Correct. Naked force has settled more
+		issues in history than any other factor.
+		The contrary opinion 'violence never
+		solves anything' is wishful thinking
+		at its worst.
+
+	While Rasczak looks away, Carmen throws Johnny her wonderful
+	smile, and Johnny's gone, checked out, flying round Venus.
+
+<b>				RASCZAK
+</b>		People who forget that always pay...
+		They pay with their lives and their
+		freedom.
+
+	Dizzy notices the dreamy look on Johnny's face.
+	So does Rasczak. He points at him with his stump,
+	snaps Johnny to.
+
+<b>				RASCZAK
+</b>		You. Tell me the moral difference,
+		if any, between the citizen and the civilian ?
+
+<b>				JOHNNY
+</b>		The difference lies in the field of civic
+		virtue. A citizen accepts personal
+		responsibility for the safety of the body politic,
+		of which he is a member, defending it,
+		if need be, with his life.
+		The civilian does not.
+
+<b>				RASCZAK
+</b>		The exact words of the text. But do
+		you understand it ?
+		Do you believe it ?
+
+<b>				JOHNNY
+</b>		Uh, I don't know.
+
+<b>				RASCZAK
+</b>		Of course you don't. I doubt if any 
+		of you here would recognize 'civic virtue'
+		if it bit you in the ass.
+
+	A bell rings. Rasczak shrugs, indifferent.
+
+<b>				RASCZAK
+</b>		Well, that's it. Have a nice life.
+
+<b>7	EXT	NEW UNI HIGH - HALLWAY - DAY - JOHNNY AND CARMEN
+</b>
+	walk with their friends. Several COUPLES hold hands. Johnny
+	tries to take Carmen's hand, but she demurs. Johnny broods.
+
+<b>				CARMEN
+</b>		C'mon, let's see if they've posted the
+		math final test yet.
+
+<b>				STUDENT
+</b>		Hey, Rico, we gonna take Tesla ?
+
+<b>				JOHNNY
+</b>		How should I know ?
+
+<b>				STUDENT
+</b>		You're captain of the team !
+
+<b>8	EXT	QUAD - DAY - JOHNNY AND CARMEN
+</b>
+	join other students around a MULTI-SCREEN KIOSK.
+
+<b>				CARMEN
+</b>		First thing Fleet Academy looks at
+		is your math scores. 
+		Wish me luck !
+
+	Carmen enters her name, receives her score:	97% !	She beams.
+
+<b>				JOHNNY
+</b>		Good for you.
+
+<b>				CARMEN
+</b>		Your turn...
+
+	Then she spots Carl across the way talking with MARCO, 17.
+
+<b>				CARMEN
+</b>		Hold on... I wanna talk to Marco.
+		His sister's at Fleet !
+
+	Carmen rushes off. Johnny checks his score:	35% ! Crushed, he
+	makes sure no none else has seen. Carl walks up to him.
+
+<b>				CARL
+</b>		You still haven't kissed her yet ? Don't lie.
+
+<b>				JOHNNY
+</b>		What's the hurry ?
+
+<b>				CARL
+</b>		Others are waiting.
+
+	Carl points out Dizzy, talking with friends.
+
+<b>				JOHNNY
+</b>		Did you read her mind ?
+
+<b>				CARL
+</b>		Don't have to... Some mating semaphore
+		is pretty hard to miss.
+
+	It's true. You can tell by the way she looks at Johnny.
+
+<b>				JOHNNY
+</b>		Yeah, but I want Carmen.
+
+<b>				CARL
+</b>		You got it bad.
+
+	Carmen returns to Johnny as Carls heads off.
+
+<b>				CARL
+</b>		Don't forget about this afternoon.
+			(to Carmen)
+		He's always late when he walks you home
+		to fish for a kiss.
+
+	Carmen blushes, covers.
+<b>	
+</b><b>				CARMEN
+</b>		She's flying starships !
+
+<b>				JOHNNY
+</b>		Who ?
+
+<b>				CARMEN
+</b>		Marco's sister. Can you imagine 
+		maneuvering half a million tons through
+		crwoded space lanes...
+		You gotta have nerves of steel !
+		Reflexes are critical
+
+<b>				JOHNNY
+</b>		I have good reflexes.
+
+	Carmen notices the way Dizzy's looking at Johnny, doesn't
+	like it one bit, takes Johnny's arm.
+
+<b>				CARMEN
+</b>		C'mon Johnny, we'll be late for Biology.
+
+<b>9	INT	BIOLOGY LAB  -- DAY - THE BIOLOGY TEACHER
+</b>
+	is an older woman, very spry, also blind. Johnny, Carmen and
+	other students gather around covered lab tables.
+
+<b>				BIOLOGY TEACHER
+</b>		For our final today, please identify the mouthparts,
+		the abdominal organs, and for extra credit, locate the
+		nerve cord and count the ganglia.
+		You may begin.
+
+	The students remove the cover to reveal large alien bugs, 60
+	centimeter ARKELLIAN SAND BEETLES laid out for dissection.
+
+<b>				CARMEN
+</b>		Eeuch !
+
+<b>				JOHNNY
+</b>		Aw, c'mon, it's just a bug.
+
+<b>				BIOLOGY TEACHER
+</b>		Just a bug, eh ? We humans like to think we are
+		Nature's finest achievement. I'm afraid it isn't 
+		true. This Arkellian Sand Beetle is superior in many
+		ways. It has fewer moving parts, can reproduce itself
+		in vast numbers, and unboud by concerns of ego and
+		mortality, makes the perfect selfless member of 
+		society.
+
+<b>				JOHNNY
+</b>		Better put your goggles on.
+
+	Johnny slices the abdomen open with asurgical laser. Green
+	fluid sprays from the slit. Carmen turns away looking ill.
+
+<b>				BIOLOGY TEACHER
+</b>		Our galaxy is teaming with insect life. We have
+		identified over two billion species so far.
+		Human, life, it would seem, is the anomaly.
+
+<b>				CARMEN
+</b>		But we 're intelligent. Human minds have invented
+		art, mathematics and interstellar travel.
+
+<b>				BIOLOGY TEACHER
+</b>		True, we know of no insect society that has
+		produced a Shakespeare, an Einstein or a
+		Cherynkov, but before you let that go to your
+		head, take the example of the Arachnids, a 
+		highly organized, highly evolved insect society.
+
+	She points to an insect evolution chart that starts with a
+	common ant and ends with a two meter tall ARACHNID WARRIOR.
+
+<b>				BIOLOGY TEACHER
+</b>		They are relatively stupid by human standards. Workers
+		have an IQ of 12, warriors around 35 , and yet the 
+		Arachnids have colonized planets. Over a million years
+		of evolution, Nature has provided the Arachnids with the 
+		biological means to hurl their spore into space.
+
+	Johnny applies a spreader and jacks the insects abdominal cavity 
+	open with aresounding crack. Bug guts gush out.
+
+<b>				JOHNNY
+</b>		Well, if that's the crop, that must be the gastric
+		caecal...
+
+<b>				CARMEN
+</b>		Excuse me...!
+
+	She heads for the door, hand over her mouth.
+
+<b>10	EXT	CIVIC PARK - DAY - JOHNNY AND CARMEN
+</b>
+	walk home from school together.
+
+<b>				JOHNNY
+</b>		35% on the math final !  No one could be
+		that dumb with numbers.
+
+<b>				CARMEN
+</b>		Well, at least you didn't lose your lunch
+		over a bug. How embarassing.
+
+<b>				JOHNNY
+</b>		Who cares about bugs ? You can't go anywhere
+		if you don't know math.
+
+<b>				CARMEN
+</b>		Don't be so sure. I like you even if you are
+		dumb with numbers.
+
+<b>				JOHNNY
+</b>		Then how come you won't hold hands with me
+		at school ?
+
+<b>				CARMEN
+</b>		I don't want everyone to see.
+
+<b>				JOHNNY
+</b>		Why won't you kiss me when we're all alone ?
+
+<b>				CARMEN
+</b>		How come that's all you talk about anymore ?
+
+<b>				JOHNNY
+</b>		It's all I think about anymore.
+
+	Indeed, they are all alone now. The look in Johnny's eye says how
+	about it. Carmen grins, reaches for Johnny's hand.
+
+<b>11	EXT	PUPLIC TRANSPORTATION - DAY - CARMEN
+</b>
+	and Johnny stand together near a bank of TRANSPORTERS.
+
+<b>				CARMEN
+</b>		You can't walk me home.
+
+<b>				JOHNNY
+</b>		Why not ?
+
+<b>				CARMEN
+</b>		I thought you were going to help Carl.
+
+<b>				JOHNNY
+</b>		Carl can wait.
+
+<b>				CARMEN
+</b>		Johnny, my Dad's home today.
+
+	Johnny's face darkens with frustration.
+
+<b>				JOHNNY
+</b>		What's he got against me... I mean, I 'm
+		a teenager. You can't be a citizen when
+		you're only a teenager !
+
+<b>				CARMEN
+</b>		It's not you, Johnny. Your parents are rich
+		they don't need to be citizens, and that stuff
+		means a lot to my dad. He's a veteran.
+
+<b>				JOHNNY
+</b>		Well, if your dad doesn't like me, how come
+		we're such good friends ?
+
+<b>				CARMEN
+</b>		Sometimes I do what I want, eh ?
+
+	Carmen steps into the flux.	ZAPPP!	She's gone.
+	Johnny grins, happy to be in love.
+
+<b>12	INT	CARL'S HOUSE - BASEMENT - DAY - JOHNNY
+</b>
+	is hard-wired to the stacks of processing units that comprise Carl's 
+	basement workshop. Carl concentrates on the image of a playing card,
+	the six of diamonds, displayed on a monitor.
+
+<b>				CARL
+</b>		Don't think about it... go on instinct.
+
+<b>				JOHNNY
+</b>		Ace of spades.
+
+	The ace of spades appears, and the computer indicates "no match".
+	Carl puts another card up, the jack of diamonds.
+
+<b>				CARL
+</b>		Statistically speaking you should've accidentally
+guessed right by know.
+
+<b>				JOHNNY
+</b>		In addition to "psychic dolt" this test also proves 
+		I'm unlucky ? Two of hearts.
+
+	Wrong again.
+
+<b>				CARL
+</b>		Luck is not a factor. No one really knows why 
+		some people are sensitive and some aren't.
+		Federal studies like this might provide a clue.
+
+	The next card up is the nine of clubs.
+
+<b>				JOHNNY
+</b>		I wouldn't want to know what everyone was
+		thinking. Four of spades.
+
+	Suddenly, A GIANT YELLOW FROG jumps onto the keyboard, fritzing
+	the monitor. Johnny removes the blindfold.
+
+<b>				CARL
+</b>		Cyrano, you big yellow turd !
+
+	Johnny knows this frog, scratches him on the neck.
+
+<b>				JOHNNY
+</b>		He just wants attention. You don't play with 
+		him like you used to.
+
+	Carl concentrates for a moment.
+
+<b>				CARL
+</b>		Go bug Mom, Cyrano.
+
+	Cyrano's eyes widen. He hops off the table and up the stairs two at
+	a time. Carl clears the screen.
+
+<b>				JOHNNY
+</b>		How do you make him do that ?
+
+<b>				CARL
+</b>		I gave him the impression that there was a fly crawling
+		up my mom's leg. He is going to go eat it.
+
+	From upstairs, CARL'S MOM shrieks.
+
+<b>				MOM (O.S.)
+</b>		Get out ! Get out ! CARL...!
+
+<b>				JOHNNY
+</b>		Carl, promise me you won't ever do anything like that
+		to me.
+
+<b>				CARL
+</b>		Don't be afraid. Can't do humans... yet.
+		C'mon let's go.
+
+	Carl, puts up more cards, Johnny misses them all.
+
+<b>				JOHNNY
+</b>		Ten of clubs. You still gonna sign up for
+		Starside R&amp;D ?
+
+<b>				CARL
+</b>		Passport to the Universe.
+		Who wouldn't want that ?
+
+<b>				JOHNNY
+</b>		I've been thinking about applying for 
+		Federal Service, too. Fleet, maybe.
+
+<b>				CARL
+</b>		Your father will never let you.
+
+<b>				JOHNNY
+</b>		I'm eighteen. It's my decision, I think I'd 
+		make a pretty good pilot. I've good great
+		reflexes. You need that for maneuvering,
+		you know.
+
+<b>				CARL
+</b>		Only 1 in 14 male applicants make it through
+		stellar navigation.
+		So what do you think your chances are ?
+
+<b>				JOHNNY
+</b>		Eight point... no, uh, seven...
+
+<b>				CARL
+</b>		If you can't do those numbers, you haven't
+		got a chance.
+
+<b>				JOHNNY
+</b>		All I know is Carmen's going to be a citizen, 
+		and I don't think it'll work out for us if I'm not.
+
+<b>				CARL
+</b>		Love... how excruciatingly pathetic. 
+		Now try and pay attention.
+
+	Carl puts a card up.
+
+<b>				JOHNNY
+</b>		Queen of hearts.
+
+	The computer indicates a match. Johnny peers around at the monitor.
+	It is the Queen of hearts.
+
+<b>				CARL
+</b>		Well, what do you know about that !
+
+<b>13	EXT	ATHLETIC FIELD - STANDS - DAY - CARMEN
+</b>
+	and other students wearing orange and black sing the "Uni High Song".
+	The SCOREBOARD says:	REGIONAL FINAL.
+	Across the field, fans wear red and gold and sing another song.
+
+<b>14	INT	LOCKER ROOM - DAY - JOHNNY
+</b>
+	and other UNI HIGH TIGERS, all exceptionally robust young man and women,
+	suit up in their orange and black uniforms.
+
+<b>				DIZZY
+</b>		Tesla's tough. They tumble good and they
+		hit HARD.
+
+	Dizzy bounces a JUMP SHOE to Johnny. The spring fires and vaults it high into
+	the air. Johnny catches it, puts it on, smiles cocky at the TESLA GIANTS who
+	suit up in red and gold.
+
+<b>				JOHNNY
+</b>		We tumble good, too.
+
+<b>15	EXT	ATHLETIC FIELD - DAY - WHAM ! -- TIGERS AND GIANTS 	
+</b>
+collide. Powered by jump shoes, the play is gymnastic. Johnny moves the ball ,
+flips high in the air over the Giant defensive line, makes ten meters before he is
+brought down.
+
+<b>16	EXT	STANDS - DAY - THE CROWD
+</b>
+	cheers as Johnny runs back to join his team. He sees Carmen waving, glad that
+	Johnny has seen her among all the people.
+
+<b>17	EXT	HUDDLE - DAY - JOHNNY
+</b><b>	
+</b>	and other Tigers listen as quarterback Dizzy calls the plays.
+
+<b>				DIZZY
+</b>		Kick three, fade left. On two.
+
+	They make fists, then breal for thevline of scrimmage.
+
+<b>18	EXT	SCRIMMAGE LINE - DAY - THE TIGERS
+</b><b>	
+</b>	have the ball. The Giant's QUARTERBACKassigns ZANDER BARCALOW, 18,
+	handsome, super-confident, to guard Johnny.
+
+<b>				ZANDER
+</b>		Time's running out.
+
+	Zander points. The SCOREBOARD shows	TIGERS 19,	GIANTS 20,
+	three minutes and counting on the clock. Johnny grins.
+
+<b>				JOHNNY
+</b>		A lot can happen in three minutes.
+
+<b>				DIZZY
+</b>		Hut... hut !
+
+	Johnny takes the handoff, flips over a gauntlet of Giant guards. Zander
+	hurls himself at Johnny, misses. Johnny scores.
+	Zander tumbles into the crowd, loses a jump shoe.
+
+<b>19	EXT	SIDELINES - DAY-ZANDER
+</b>
+	looks up and sees Carmen, smiling as she offers him a hand. She helps
+	him up. He holds her hand longer than necessary.
+
+<b>				CARMEN
+</b>		Are you alright ?
+
+<b>				ZANDER
+</b>		I'm getting better.
+
+<b>20	EXT	ATHLETIC FIELD - DAY - JOHNNY
+</b>
+	runs back to join his team as the crowd cheers. The Tigers lead 
+	21-20. Johnny frowns when he sees Carmen talking to Zander on 
+	the sidelines, shaking his head, smiling.
+
+<b>21	EXT	SIDELINE - DAY - ZANDER
+</b>
+	finds his shoe, straps it on.
+
+<b>				ZANDER
+</b>		So what are you doing later ?
+
+<b>				CARMEN
+</b>		Everyone is going to the dance. Aren't you ?
+
+<b>				ZANDER
+</b>		I don't know. It's my last night as acivilian.
+		I ship out for Tereshkova tomorrow.
+
+	Zander heads for the field. Carmen follows, interested.
+
+<b>				CARMEN
+</b>		You're going to the Academy ?
+		That's where I want to go. I'd love
+		to talk to you abou that.
+
+	A REFEREE blows his whistle at Zander, signalling impatiently.
+
+<b>				ZANDER
+</b>		I'm all ears.
+
+<b>				CARMEN
+</b>		Don't you have to finish the game ?
+
+<b>22	EXT	SCRIMMAGE LINE - DAY-THE GIANTS
+</b>
+	are in possession. Zander lands hard in front of Johnny.
+
+<b>				JOHNNY
+</b>		Don't get any ideas. She's my girl.
+
+<b>				ZANDER
+</b>		You can never be sure.
+
+	Johnny scowls at Zander, turns his head to look back at Carmen.
+	She waves, smiling. The Giants pull ablitz.
+
+<b>				DIZZY
+</b><b>		WATCH THE BLITZ...!
+</b>
+	Zander knocks Johnny on his ass, and the Giants score. It's
+	TIGERS 21, GIANTS 22 and less than a minute to go.
+
+<b>23	EXT	HUDDLE -- DAY -- DIZZY
+</b>
+	orders up the next play. Johnny keeps looking over his shoulder
+	because Zander's back talking to Carmen again.
+
+<b>				DIZZY
+</b>		Flip six, three hole. Rico ?
+		Hey !
+
+	Dizzy slams Johnny upside his helmet with her forearm.
+
+<b>				JOHNNY
+</b>		What ?
+
+<b>				DIZZY
+</b>		You were drifting. Flip six, three hole.
+		On one, got it ?
+
+<b>				JOHNNY
+</b>		Just throw me the ball, Diz.
+
+	They make fists and break.
+
+<b>24	EXT	SCRIMMAGE LINE -- DAY -- JOHNNY
+</b>
+	takes position again across the line from Zander who now grins at
+	Johnny broadly. Johnny  doesn't grin back. 
+
+<b>				DIZZY
+</b>		Hut !
+
+	At the snap, Johnny breaks for open field. Dizzy throws, Johnny catches
+	it, trips Zander up painfully, and hurls himself into the end zone as a
+	horn sounds the game's finish.
+
+<b>25	EXT	ATHLETIC FIELD - DAY - CHEERING UNI FANS
+</b>
+	rush onto the field as the school band strikes up a victory march.
+	Tigers do flips in the air. Giants look dejected. 
+	Zander picks himself up, watches Johnny leave with Carmen.
+
+<b>26	INT	JOHNNY'S HOUSE - NIGHT - JOHNNY
+</b>
+	walks throuh rooms filled with elegant furniture. He's all spiffed up
+	for the big dance. His MOTHER catches him preening in front of a
+	mirror by the TRANSPORTER in the hall.
+
+<b>				MOTHER
+</b>		Who said you could grow up so fast ? Last time
+		I checked you were only five years old. You had
+		such a bright little face...
+
+<b>				JOHNNY
+</b>		Aw, don't get mushy.
+
+	Johnny's FATHER enters carrying a FEDERAL SERVICE CATALOGUE.
+
+<b>				FATHER
+</b>		This came for you today. I presume on your
+		request.
+
+<b>				JOHNNY
+</b>		A lot of my friends are doing Federal Service...
+
+<b>				MOTHER
+</b>		You aren't thinking of applying...?
+
+	Johnny shrugs.
+
+<b>				FATHER
+</b>		Have you lost you lost your mind ? I'd rather
+		take ten lashes in Public Square than see you
+		ruin your life.
+
+<b>				JOHNNY
+</b>		It's aterm of service, not a career. I just want to
+		get out on my own and see the Galaxy for a
+		couple of years.
+
+<b>				MOTHER
+</b>		Johnny, people get hurt... people get killed in
+		the Federal Service. If something happened 
+		to you I don't know what I would do...
+
+<b>				FATHER
+</b>		Who gave you this idea ? It's that teacher.
+		What's his name ? You know the one I
+		mean.
+
+<b>				JOHNNY
+</b>		Mr. Rasczak.
+
+<b>				FATHER
+</b>		Rasczak... Silly name. There ought to be
+		a law against using a school as a 
+		recruiting station !
+
+<b>				JOHNNY
+</b>		No, Mr. Rasczak doesn't do that at all.
+		He sorta discourages you really.
+
+<b>				FATHER
+</b>		Good, because you're going to Harvard,
+		and that's the end of it.
+
+<b>				JOHNNY
+</b>		I'm eighteen. It's my decision.
+
+<b>				FATHER
+</b>Oh, is that how it is ?
+
+<b>				MOTHER
+</b>		Wait you two. Dad and I have a surprise
+		for you that will settle this.
+		Can you guess what it is ?
+
+<b>				JOHNNY
+</b>		Uh, no.
+
+<b>				FATHER
+</b>		A trip to the Outer Rings.
+		Whad'ya think of that ?
+
+<b>				JOHNNY
+</b>		Wow ! Santori and Zegema Beach, I've
+		always wanted to go there.
+
+<b>				MOTHER		
+</b>		Good good, then it's all settled.
+
+<b>				FATHER
+</b>		A year at Harvard and you'll  see this
+		"Federal Service" is just menial training 
+		for inferior people so they can call 
+		themselves "citizens" and take airs for 
+		the rest of their lives.
+
+<b>				JOHNNY
+</b>		Wait a minute ! Carl is doing his Federal
+		and he isn't inferior. He's the smartest 
+		kid at school !
+
+<b>				FATHER
+</b>		Sorry. Carl's a fine boy...
+
+	Johnny puts on his jacket.
+
+<b>				JOHNNY
+</b>		I don't know what they teach at Harvard,
+		but I think I'm pretty good enough the
+		way I am !
+<b>	
+</b><b>				MOTHER
+</b>		Johnny, please. Calm yourself.
+
+<b>				JOHNNY
+</b>		Well, that's what you're saying ! You're
+		saying that I'm not good enough the way
+		I am now !
+
+	Johnny stomps out, the transporter goes ZAPPP !
+
+<b>				MOTHER
+</b>		Why did you go and do that ? He was all
+		ready to go Zegema Beach !
+
+<b>				FATHER
+</b>		Teenagers !
+
+<b>27	INT	UNI HIGH GYMNASIUM - NIGHT - EVERYONE
+</b>
+	at the "Farewell Dance" is dressed up. Rasczak and other TEACHERS
+	chaperon. A spotlight finds the BAND LEADER.
+
+<b>				BAND LEADER
+</b>		Alright, everybody, this is the last dance, so
+		let's turn down the lights and make it a
+		slow one.
+
+	The lights go down. Dizzy, dressed pretty, brightens when she sees Johnny
+	standing alone near the dance floor.
+
+<b>				DIZZY
+</b>		Hey, Rico, wanna dance ?
+
+<b>				JOHNNY
+</b>		Actually, Diz, I promised Carmen...
+
+<b>				DIZZY
+</b>		Too bad for her if she's not around.
+
+	Dizzy pulls him onto the floor, holds him close.
+
+<b>				DIZZY
+</b>		You know, it's sad... Most of us probably
+		won't see each other again after tonight.
+<b>	
+</b>	There is an invitation here. Johnny doesn't take it.
+
+<b>				JOHNNY
+</b>		You still gonna play for Brazil ?
+
+<b>				DIZZY
+</b>		Looks like, unless Tokyo lets me start.
+
+<b>				JOHNNY
+</b>		Well, anyone who gets you is lucky.
+
+<b>				DIZZY
+</b>		How come we never got together ?
+
+	Dizzy looks at Johnny meaningfully. He's distracted. Carmen crosses
+	the room, stunning in her formal.
+
+<b>				JOHNNY
+</b>		Can't we just be friends, Diz ?
+
+<b>				DIZZY
+</b>		Sure.
+
+<b>				JOHNNY
+</b>		Uh, look, Diz...
+
+<b>				DIZZY
+</b>		Guess you gotta go.
+
+<b>				JOHNNY
+</b>		You're the best.
+
+	Johnny heads for Carmen. Dizzy watches jealously as Carmen takes 
+	his hand. She looks around for someone to dance with.
+	Carl, a nerd in a tux, waves shyly.
+
+<b>28	INT	GYMNASIUM - DANCE FLOOR - NIGHT - CARMEN AND JOHNNY
+</b>
+	dance. Johnny wants to kiss her, Carmen playfully avoids.
+
+<b>				JOHNNY
+</b>		Isn't it great to be in love ?
+
+<b>				CARMEN
+</b>		How do I know if this is love ?
+<b>	
+</b><b>				JOHNNY
+</b>		It wouldn't be so romantic if we weren't...
+
+<b>				CARL
+</b>		Outa the way you two !
+
+	Carl and Dizzy dance by, Dizzy smiling bravely because Carl is a terrible dancer.
+	Johnny goes in for the kiss again.
+
+<b>				CARMEN
+</b>		Romance is just a vestigial biological
+		response to procreation...
+
+<b>				JOHNNY
+</b>		Aw, you're in love with me... 
+		You just dont know it yet.
+
+	Johnny's confidence makes her smile. Johnny moves in to kiss her,
+	but the music ends. Everyone applauds. The lights come up and 
+	people head for the doors. Johnny sees Rasczak.
+
+<b>				JOHNNY
+</b>		Wait, I want to talk to Mr. Rasczak.
+
+<b>				CARMEN
+</b>		I'll meet you outside.
+
+	Johnny heads over to Rasczak.
+
+<b>				JOHNNY
+</b>		Mister Rasczak ?
+
+<b>				RASCZAK
+</b>		What is it, Rico ?
+
+<b>				JOHNNY
+</b>		I just wanted to say thanks 'cause History
+		and Moral Philosophy was the best class
+		I had this year.
+
+<b>				RASCZAK
+</b>			(smiling)
+		Well, it's not really my job to please.
+		Hope you learned something.
+
+<b>				JOHNNY
+</b>		I wanna join up, Mr. Rasczak. I think I
+		have what it take to be a citizen.
+
+<b>				RASCZAK
+</b>		Good for you. Go find out.
+
+<b>				JOHNNY
+</b>		Well, my parents are against it, and I 
+		know it's my choice, but I was
+		wondering...
+		What would you do if you were me ?
+
+<b>				RASCZAK
+</b>		Figuring things out for yourself is the
+		only freedom anyone really has.
+		Use that freedom.
+		Make your own choice, Rico.
+
+<b>29	EXT	UNI HIGH GYMNASIUM - NIGHT - JOHNNY
+</b><b>	
+</b>	walks out and finds Carmen talking with Zander. He wears the blue 
+	uniform of a Fleet pilot trainee. Carmen examines his FLEET PIN,
+	a pair of silver wings.
+
+<b>				CARMEN
+</b>		Johnny, this is Zander.
+
+<b>				ZANDER
+</b>		Yeah, we know each other from the game. 
+		No hard feeling, eh, chum ?
+
+<b>				JOHNNY
+</b>		None at all... We won.
+
+<b>				CARMEN
+</b>		Good luck at the academy.
+
+	Zander takes back the wings and pins the to his tunic.
+
+<b>				ZANDER
+</b>		Always.
+
+<b>30	EXT	PROMENADE - NIGHT - JOHNNY AND CARMEN
+</b>
+	walk together along the river holding hands.
+
+<b>				CARMEN
+</b>		He just got accepted to the Fleet Academy.
+		Isn't that great ?
+
+<b>				JOHNNY
+</b>		Yeah, sure, I guess.
+
+<b>				CARMEN
+</b>		No, I mean if he can get in, maybe I have a
+		chance.
+
+<b>				JOHNNY
+</b>		What are you talking about ? We both know
+		you're gonna be a pilot.
+
+<b>				CARMEN
+</b>		Zander is going for pilot, too.
+
+<b>				JOHNNY
+</b>		You two have so much in common.
+
+	Carmen pulls Johnny to a stop, looks him in the eye.
+
+<b>				CARMEN
+</b>		Johnny Rico, you're jealous !
+
+<b>				JOHNNY
+</b>		I can't help it.
+
+<b>				CARMEN
+</b>		He's nothing like you.
+
+<b>				JOHNNY
+</b>		I don't even know if you're my girl.
+
+	Carmen smiles, leans in close to Johnny.
+<b>			
+</b><b>				CARMEN
+</b>		Are you the boy for me ?
+
+<b>				JOHNNY
+</b>		I'm gonna do it, Carmen. I'm gonna sign
+		up for Federal Service.
+
+	They kiss, tentatively, but the passion grows and they break apart,
+	breathless.
+
+<b>				CARMEN
+</b>		Oh, Johnny...
+
+<b>31	EXT	PUBLIC TRANSPORTATION - NIGHT - JOHNNY AND CARMEN
+</b>
+	making out as they wait their turn. There are a few other people around
+	including a POLICEMAN.
+
+<b>				CARMEN
+</b>		Everyone's looking... we shouldn't...
+
+<b>				JOHNNY
+</b>		Who cares ?
+
+<b>				CARMEN
+</b>		You're right. Let's never stop...
+
+<b>				POLICEMAN
+</b>		Hey, you, there's a place for that !
+
+	Without stopping, Johnny pulls Carmen into the flux.	ZAPPP !
+
+<b>32	INT	FEDERAL HOUSING - NIGHT - JOHNNY AND CARMEN
+</b>
+	kissing at her front door. Johnny moves his hand tenatively to Carmen 's breast.
+	She takes his hand, smiling, puts it under her shirt.
+
+<b>				JOHNNY
+</b>		I love you, Carmen.
+
+<b>				CARMEN
+</b>		Shhh...
+
+	She puts her mouth on his and they melt together. The door flies open,
+	and CARMEN'S DAD stands there.
+
+<b>				CARMEN'S DAD
+</b>		Carmen, it's late. Get inside.
+
+<b>				CARMEN
+</b>		Sorry, Dad. See you, Johnny.
+
+	Carmen ducks inside. Her father looks Johnny over. He carries a terrible
+	battle scar oon his face.
+
+<b>				CARMEN'S DAD
+</b>		I don't want you around Carmen anymore. Get me ?
+
+<b>				JOHNNY
+</b>		Maybe Carmen's gonna make her own decisions from
+		now on, Mr. Ibanez.
+
+	Carmen's Dad reddens. He'd like to punch Johnny out.
+<b> 
+</b><b>				CARMEN'S DAD
+</b>		Carmen's gonna be a citizen. She don't need you
+		and your rich family. The Federation'll give her
+		everything she needs.
+
+<b>				CARMEN (O.S.)
+</b>		Dad, leave him alone...
+<b>	
+</b>	Carmen's Dad slams the door in Johnny's face.
+
+<b>33	EXT	FEDERAL BUILDING - DAY - JOHNNY AND CARMEN
+</b><b>	
+</b>	meet Carl in front of the induction center where a staedy flow of prospective
+	citizens file through the main doors.
+
+<b>34	INT	LOBBY - DAY - THE RECRUITING SERGEANT
+</b>
+	is missing one arm. He smiles broadly at the three teenagers.
+
+<b>				RECRUITING SERGEANT
+</b>		Fresh meat for the grinder, eh ?
+
+<b>				CARL
+</b>		That's us. Where do we sign ?
+
+	He turns in his chair to grab the forms. Johnny and his friends see that he is also
+	missing both legs. The Recruiting Sergeant catches them looking, 
+	smiles even wider.
+
+<b>				RECRUITING SERGEANT
+</b>		Here and here and here.
+
+	As he signs, Johnny looks at the campaign ribbons on the Recruiting Sergeant's
+	chest. We hear MUSIC: 	"The Mobile Infantery Anthem" plays softly in honor
+	of distant battles.
+
+<b>				RECRUITING SERGEANT
+</b>		Welcome to the adventure of Federal Service.
+		Follow the blue line.
+
+<b>35	INT	PROCESSING HALL - DAY - JOHNNY, CARMEN AND CARL
+</b>
+	are routed into different lines, joining other hopeful civilians.
+	A COLONEL makes a speech over the loudspeaker.
+
+<b>				COLONEL
+</b>		There is no guarantee of service. We don't need
+		all of you. It costs a great deal to train human beings
+		for useful tasks. Many jobs are hazardous to your
+		health. If you are chosen and do not wish to serve
+		you may resign at anytime simply by completing 
+		form 1240/A. Thank you for exercising you
+		constitutonal rights.
+
+<b>36	INT	CHANGING ROOM -- DAY -- JOHNNY
+</b>
+	and others in the line strip down. The guy in front of Johnny is
+	DON, 18, athletic and cheerful.
+
+<b>				DON
+</b>		They took my sister, they'll take anybody.
+
+<b>37	INT	TESTING FACILITY -- DAY -- JOHNNY
+</b>
+	grimaces as a TECHNICIAN installs an INTERFACE PLATE on 
+	his side, drawing fluids.
+
+<b>				DON
+</b>		Oh, this is the part that hurts !
+
+	A PSYCH OFFICER sits down across from each candidate.
+
+<b>				PSYCH OFFICER
+</b>		No talking please. I'm going to ask you some 
+		questions. Please answer all questions truthfully.
+		We'll know if you don't.
+		Birthplace ?
+
+<b>				JOHNNY
+</b>		Here in Buenos Aires.
+
+	The Psych Officer checks Johnny's response on a meter.
+
+<b>38	INT	VARIOUS TESTING STATIONS - DAY - JOHNNY
+</b>
+	is poked and prodded, subjected to aural, visual and pharmacological
+	stimuli, and scanned from head to toe.
+
+<b>				PSYCH OFFICER (V.O.)
+</b>		Are your parents currently citizens ?
+
+<b>				JOHNNY (V.O.)
+</b>		No, sir.
+
+<b>				PSYCH OFFICER (V.O.)
+</b>		Which do you think is more important,
+		courage or confidence ?
+
+<b>				JOHNNY (V.O.)
+</b>		Courage, I guess.
+
+<b>				PSYCH OFFICER (V.O.)
+</b>		Please complete this sentence.
+		I want to be citizen because...
+
+<b>				JOHNNY (V.O.)
+</b>		I want to be a citizen because...
+		well, because of my girl, sir.
+
+<b>39	INT	DEBRIEF - DAY - JOHNNY
+</b>
+	sits across from a MAJOR who views a list on a monitor Johnny can't see.
+
+<b>				MAJOR
+</b>		I'm happy to tell you that you've been
+		accepted for Federal Service.
+
+<b>				JOHNNY
+</b>		Wow, that's great.
+
+<b>				MAJOR
+</b>		Looks like you're quite an athlete.
+		Boy, look at those reaction stats.
+
+	The Major clucks his tongue as he highlights the last category on his list:
+<b>	MOBILE INFANTERY.
+</b>
+<b>				MAJOR
+</b>		My job is to dertermine what you're
+		best suited for.
+
+<b>				JOHNNY
+</b>		I want to be a pilot, sir.
+
+<b>				MAJOR
+</b>		Sorry, son, no way. Your school records
+		say you don't have the math skills.
+
+	Johnny swallows this. He knew it was coming. The Major deletes
+	"Pilot" from the list, then several other items.
+
+<b>				MAJOR
+</b>		That rules out the scientific and engineering
+		applications, and I'm afraid we reserve
+		non-military options for candidates who are
+		frankly less able-bodied than you are, son...
+
+	He turns the monitor around and shows Johnny the list.
+	The only thing left is MOBILE INFANTERY.
+
+<b>				MAJOR
+</b>		It looks like the only thing you're good
+		for is cannon fodder.
+		I'm putting you down for the
+		Mobile Infantery.
+
+<b>40	INT	AUDITORIUM - DAY - CARMEN
+</b>
+	proudly takes the Federal Service oath with about twenty-five other people,
+	a gleaming silver FLEET PIN on her chest. She looks around for Johnny, 
+	sees him grinning at her.
+
+<b>				JOHNNY ET AL
+</b>		...of my own free will, without promise, coercion,
+		or inducement, after having been duly advised
+		and warned of the meaning and consequence of
+		this oath, do now enroll in the Federal Service
+		of the Terran Federation for not less than two
+		years and as much longer as may be required 
+		by the needs of the Service...
+
+<b>41	INT	FEDERAL BUILDING - LOBBY - DAY - JOHNNY AND CARMEN
+</b>
+	walk out together happily, hand in hand.
+
+<b>				CARMEN
+</b>		I wonder where Carl is. You don't suppose...?
+
+<b>				JOHNNY
+</b>		Naw, I made it, Carl made it.
+
+	Just then, Don rushes past, shamefaced, crying.
+
+<b>				JOHNNY
+</b>		He was in the group with me.
+		I guess he didn't...
+
+<b>				CARMEN
+</b>		Shhh ! Don't make him feel worse.
+
+	The Recruiting Sergeant is getting ready to go home. He's got legs now,
+	and he takes a prosthetic arm from its case and snaps it on.
+	He grins when he sees them staring.
+
+<b>				RECRUITING SERGEANT
+</b>		They put me out front to discourage the weak-hearted,
+		but at the end of the day I go home.
+		How'd you kids do ?
+
+<b>				CARMEN
+</b>		I'm gonna go for pilot.
+
+<b>				RECRUITING SERGEANT
+</b>		Good for you. We need every pilot we can get.
+
+	Johnny holds the door for Carmen and the Recruiting Sergeant. 
+	Suddenly Carl appears looking a little paler than usual.
+
+<b>				CARMEN
+</b>		Hey, Carl, what's wrong ?
+
+<b>				JOHNNY
+</b>		Did you get Starside R&amp;D ?
+
+<b>				CARL
+</b>		No.
+
+<b>42	EXT	FEDERAL BUILDING - DAY - JOHNNY AND CARMEN
+</b>
+	are stunned.
+
+<b>				JOHNNY
+</b>		I don't believe it !
+
+<b>				CARL
+</b>		I got Games &amp; Theory.
+
+	Well, everyone's a little impressed by this.
+
+<b>				CARMEN
+</b>		Games &amp; Theory ? That's Military
+		Intelligence... Oh, Carl !
+
+<b>				JOHNNY
+</b>		Whoa ! Way to go, boy-yo !
+
+<b>				RECRUITING SERGEANT
+</b>		Next time we meet, I'll probably have to salute
+		you. What about you, son ?
+
+<b>				JOHNNY
+</b>		Infantery, sir.
+
+	The Recruiting Sergeant beams, offers a prosthetic hand.
+
+<b>				RECRUITING SERGEANT
+</b>		Well, good for you. The Mobile Infantery made me
+		the man I am today.
+
+	Just what Johnny wanted to hear. They watch the old Sergeant walk
+	away.	MUSIC:	"The Mobile Infantery Theme".
+	Carmen takes Johnny and Carl by the arm as they walk.
+
+<b>				CARMEN
+</b>		Let's all make a vow. Let's swear we'll always
+		be friends no matter what.
+
+<b>				JOHNNY
+</b>		I'll go for that.
+
+<b>				CARL
+</b>		Well, we're gonna be millions of light years away
+		from each other, and chances are we'll never see
+		each other again, but sure...
+
+<b>				CARMEN
+</b>		I can't wait to tell my Dad I'm in.
+		He's gonna be so happy !
+
+<b>				JOHNNY
+</b>		My father's probably gonna kill me.
+
+<b>43	INT	JOHNNY'S HOUSE - STUDY - NIGHT - JOHNNY
+</b>
+	stands sullenly as his Father rages at him.
+
+<b>				FATHER
+</b>		You'll resign, and that's all there is to it.
+		It might look bad, but if that's the worst
+		you suffer...
+
+<b>				JOHNNY
+</b>		I won't quit !
+
+<b>				FATHER
+</b>		I'm telling you, you will !
+		You're not going back. You're going
+		to go on vacation !
+
+<b>				JOHNNY
+</b>		I'm not going on vacation ! I want to
+		be acitizen ! It's my decision. 
+		I made it.
+
+	Johnny turns for the door. His father throws his last shot.
+
+<b>				FATHER
+</b>		You walk out that door, you're cut off,
+		young man... You understand me ?
+		Alright, THAT'S IT, YOU'RE...
+
+<b>44	INT	JOHNNY'S HOUSE - HALLWAY - NIGHT--JOHNNY
+</b>
+	walks out, grim, sees his mother, tears in her eyes.
+
+<b>				FATHER (O.S.)
+</b><b>		...CUT OFF !
+</b>
+<b>				MOTHER
+</b>		Johnny, why won't you change your mind ?
+		Does citizenship mean so much to you ?
+
+<b>				JOHNNY
+</b>		Well, yeah, sure...
+
+<b>				MOTHER
+</b>		I hope so. I hope you don't ruin your life
+		over some silly little girl who wants to look 
+		handsome in a uniform.
+
+	Johnny's face reddens.
+
+<b>				JOHNNY
+</b>		Don't talk about my girl that way.
+
+	Johnny turns on his heel, heads for the transporter.		ZAPPP !
+
+<b>45	EXT	FEDERAL TRANSPORTATION HUB - DAY - JOHNNY
+</b>
+	looks for Carmen among hundreds of young people bound for 
+	Federal Service destinations. Recruits wear civilian clothes.
+	Everyone else is in uniform.  
+<b>	
+</b><b>				P.A. (O.S.)
+</b>		Outbound group 1380, Ursa Minor
+		and Tyko, now transporting at 
+		bank 17...
+
+	Now he sees her entering struggling with luggage. Johnny rushes to
+	help her and soon he is carrying all her bags.
+
+<b>				JOHNNY
+</b>		You're late.
+
+<b>				CARMEN
+</b>		My Dad had to help me pack. Suddenly
+		he's afraid he's never gonna see me 
+		again or something. It was sweet, but it
+		took forever. Anyway, I guess I'm ready
+		to go.
+
+	At the freight station, Carmen enters her Federal I.D. card and gets
+	numbered tags for her bags.
+
+<b>				JOHNNY
+</b>		Me, too. I'm wearing everything I own.
+
+	Johnny loads them onto a conveyor belt.
+
+<b>				CARMEN
+</b>		Poor boy. I'm sorry your parents were so mad.
+
+<b>				JOHNNY
+</b>		Who cares ! The Federation'll give me everything
+		I need for the next two years, right ?
+<b>	
+</b>	Carmen's already moved to the next line. Johnny follows.
+
+<b>				CARMEN
+</b>		You talk to Carl ?
+
+<b>				JOHNNY
+</b>		He left this morning. He couldn't say where.
+
+	Carmen logs in, enters her destination:	LUNA - TERESHKOVA
+	FLEET ACADEMY.	The tickets station spits out a pass.
+
+<b>				CARMEN
+</b>		It's exciting, but it's scary, too isn't it.
+		Going someplace new where you don't
+know anyone.
+
+	Carmen heads toward a bank of transporters. Johnny stops her,
+	takes her by the arms.
+
+<b>				JOHNNY
+</b>		I'm gonna miss you.
+
+<b>				CARMEN
+</b>		I'll miss you, too, Johnny.
+
+<b>				JOHNNY
+</b>		I love you.
+
+<b>				P.A. (O.S.)
+</b>		Outbound group 948A, Tereshkova,
+		all sections, transporting at bank 5.
+
+<b>				CARMEN
+</b>		Oh, that's me.
+<b>	
+</b>	She scans her pass, but Johnny stops her again.
+
+<b>				JOHNNY
+</b>		Com'on, just say it. Try it on for size.
+
+<b>				CARMEN
+</b>		Alright, I love you.
+
+	Carmen kisses him, jumps into the transporter.
+
+<b>				JOHNNY
+</b>		Do you mean it ?
+
+<b>				CARMEN
+</b>		I said it. Isn't that enough ?
+		Don't forget to write !
+
+	ZAPPP !	The last thing he sees are her beautiful eyes.
+
+<b>46	FROM THE FEDERAL NET - A WORLD THAT WORKS !
+</b>
+	People are doing Federal Service jobs all over the known Galaxy.
+
+<b>				OFFICIAL VOICE
+</b>		From all over the known Galaxy, prospectice
+		citizens work together to make a better
+		tomorrow !
+		Would you like to know more ?
+
+<b>47	CRIME &amp; PUNISHMENT - TONIGHT !
+</b>
+	A CRIMINAL stands before a FEDERAL COURT
+
+<b>				OFFICIAL VOICE
+</b>		A murderer was captured and tried today.
+		Sentence:	DEATH.
+		Tonight at six, all net, all channels.
+		Would you like to know more ?
+
+<b>48	NOTICE - ARE YOU PSYCHIC ?
+</b>
+	A Federal clinic specializing in psycic research.
+
+<b>				OFFICIAL VOICE
+</b>		If you think you are psychic, maybe you are.
+		Harness your unique abilities and take
+		advantage of the many Federal benefits
+		available for psychic citizens.
+		Would you like to know more ?
+
+<b>49	TRAVEL ADVISORY - INSECT TRAGEDY ON TANGO URILLA
+</b><b>	
+</b>	A prefab township sits on the shores of a tranquil alien bay.
+	Then, a "You Are Here" map of the Known Universe.
+
+<b>				OFFICIAL VOICE
+</b>		Disregarding Federal warnings, Mormon 
+		extremists established Port Joe Smith,
+		a settlement of 300 on Tango Urilla, a
+		system just inside the Arachnid
+		Quarantine Zone.
+
+	Archival pictures of a captive two meter ARACHNID WARRIOR,
+	multiple eyes, cutting mouthparts and claws. Wary SCIENTISTS
+	keep their distance as it eats a COW.
+
+<b>				OFFICIAL VOICE
+</b>		Too late they realized tha Tango Urilla had
+		already been chosen by other colonists
+		-- Arachnids !
+
+	Now body parts litter the ruined streets of Port Joe Smith.
+
+<b>				OFFICIAL VOICE
+</b>		The council asks future colonists to obey all 
+		official Federal warnings.
+		Would you like to know more ?
+
+<b>50	EXT	CAMP CURRIE - PARADE GROUND - DAY - SERGEANT ZIM
+</b><b>	
+</b>	is 40, astoundingly fit, and like all drill instructors, he carries a small baton.
+	He addresses sixty shorn RECRUITS.
+
+<b>				ZIM
+</b>		The problem with you is that none of you are
+		good enough the way you are. 
+
+	Johnny stands in formation with his squad, among them:
+
+	BRECKINRIDGE, 18, DJANA'D, 19, KATRINA McINTIRE, 18, ACE LEVY, 
+	18, SHUJUMI, 18, and KITTEN SMITH, 18.
+<b>		 	 
+</b><b>				ZIM
+</b>		I am your senior drill instructor,
+		Career Sergeant Zim.
+			(then)
+<b>		TO THINK THIS HAD TO HAPPEN TO
+</b>		ME ! What a bunch of apes. No, strike that.
+		You don't rate that good...you sunken-chested,
+		slack-bellied, drooling refugees from apron
+		strings ! In my whole life I've never seen such
+		a disgraceful huddle of momma's spoiled
+		little darlings ! Suck in those guts !
+		You there, EYES FRONT !
+
+	Zim gives Kitten Smith the hairy eyeball. Smith cracks up.
+
+<b>				ZIM
+</b>		Do you think I'm funny ? Do I make
+		you laugh ? Do you think I'm a
+		comedian ?
+
+	Kitten Smith shake his head  "no" , but he can't stifle himself.
+
+<b>				KITTEN SMITH
+</b>		Sorry...!
+
+<b>				ZIM
+</b>		The first and last words out of your
+		stinking holes will be "sir".
+		Do you get me ?
+
+<b>				KITTEN SMITH
+</b>		Sir, sorry...sir.
+
+<b>				ZIM
+</b>		See the armory ? Run around it !
+
+	Kitten Smith squints. Out in the distance, a tiny building.
+	Zim smacks him on the leg with his baton.
+
+<b>				KITTEN SMITH
+</b><b>		YEOW !
+</b>
+<b>				ZIM
+</b>		RUN, I SAID. Bronski, keep pace !
+
+	Kitten Smith runs. Big CORPORAL BRONSKI, 28, takes out after
+	him, laying a baton across his backside every time he slows.
+
+<b>				ZIM
+</b>		You are now all brothers and sisters in
+		the same family, my family, the Mobile
+		Infantery. I will be your mother.
+		I will be your father. If you do not 
+		please me I will throw you out of my
+		family because I hate all slackers and 
+		negative hackers.
+		Do you get me ?
+
+<b>				JOHNNY ET AL
+</b>		Sir, yes, sir !
+
+	Zim points at the little WHITE PICKET FENCE leading to a
+	transporter near the front gate.
+
+<b>				ZIM
+</b>		Anytime you think I'm being to tough,
+		anytime you think I'm being unfair...
+		QUIT ! Grab your gear and take a
+		stroll down "Washout Lane". 
+		Get me ?
+
+<b>				JOHNNY ET AL
+</b>		Sir, yes, sir !
+
+<b>				ZIM
+</b>		I wonder if there's a handful of
+		guts in the whole bunch. Who
+		thinks they've got what it takes
+		to knock me down ?
+
+	Breckinridge, a big guy from a farm planet, steps forward.
+
+<b>				BRECKINRIDGE
+</b>		Sir, I guess maybe I do, sir.
+
+	Zim crooks afinger at him. Breckinridge charges. Zim knocks
+	him flat. Breckinridge holds his arm, twisted now.
+
+<b>				ZIM
+</b>		You alright, Breckinridge ?
+
+<b>			BRECKINRIDGE
+</b>		Sir, yes, sir. It's my arm. I think it's
+		broken, sir.
+
+<b>				ZIM
+</b><b>		MEDIC !
+</b>
+	A MEDIC charges up, checks Breckinridge's arm, grins.
+
+<b>				MEDIC
+</b>		Clean break... Doc'll have him back on
+		active duty by tomorrow.
+
+<b>				ZIM
+</b>		Good. Who's next ?
+
+	Shujumi steps up, assumes a fighting stance. Zim looks him over.
+	There's not not much to him. Shujumi attacks Zim, counters his 
+	counter, dances out of range.
+
+<b>				DJANA'D
+</b>		Lookit the little guy go !
+
+	Now Zim attacks. Shujumi flip kicks Zim in the head.
+
+<b>				JOHNNY
+</b>		He's good alright.
+
+<b>				KATRINA
+</b>		I'll bet he makes squad leader.
+
+<b>				ACE
+</b>		He'll have to get past me.
+
+	The recruits check Ace out. Zim sweeps Shujumi's legs, puts a
+	knee in the little man's throat. Shujumi passes out.
+
+<b>				ZIM
+</b><b>		MEDIC !
+</b>
+<b>51	EXT	OBSTACLE COURSE - DAY - THE RECRUITES
+</b>
+	tumble a brutal obstacle course using JUMP BOOTS.
+
+<b>				ZIM (V.O.)
+</b>		Some of you may not ´make it.
+
+	Djana'd hits a tower and falls to the deck hard, dropping her rifle.
+	She holds her knee, hurt. Zim races over to her.
+
+<b>				ZIM
+</b><b>		WHY IS THAT WEAPON ON THE GROUND ?
+</b><b>		YOUR WEAPON IS MORE IMPORTANT THAN
+</b><b>		YOU ARE ! PICK IT UP ! PICK IT UP !
+</b>
+	Zim begins to kick her because she doesn't move fast enough.
+
+<b>				ZIM (V.O.)
+</b>		You might think I am unfair.
+
+<b>52	EXT	ZERO GRAVITY COMBAT - DAY - THE RECRUITES
+</b>
+	watch poor Kitten Smith spar with Zim. Kitten Smith whacks Zim across the jaw.
+	Zim doesn't even flinch.
+
+<b>				ZIM
+</b>		Is that all you got ? You hit like kitten, Smith !
+		This is a punch.
+
+	WHAM !	Zim knocks Kitten Smith for a loop.
+
+<b>				ZIM (V.O.)
+</b>		You will not like me.
+
+<b>53	INT	HYPERPHYSICAL TRAINING ENVIRONMENTS - DAY - ZIM
+</b>
+	watches the recruits face simulated 3-D OFF-WORLD FOES. In one room,
+	CYCLOPS SOLDIERS of Antilles, in another, red DEATH WALKERS,
+	and in a third, screeching ARACHNID WARRIORS.
+
+<b>				ZIM (V.O.)
+</b>		But if you survive you will thank me
+		because you will be born again hard.
+		You will be a new person.
+		You will be a Cap Trooper. And then,
+		MAYBE, you'll  be good enough...
+
+<b>54	EXT	COMBAT KNIFE PRACTICE - DAY - ZIM
+</b>
+	throws a knife, buries the point in a narrow post.
+
+<b>				ZIM (V.O.)
+</b>		...to serve in my family.
+
+<b>				ACE
+</b>		Sir, I don't understands who needs a
+		knife in a nuke fight anyway...
+		All you gotta do is push a button, sir !
+
+	Zim yanks the knife out of the post.
+
+<b>				ZIM
+</b>		Put your hand on the post, private.
+
+	Ace obeys. Zim throws, sticks his hand to the post.
+
+<b>				ACE
+</b><b>		AWK !
+</b>
+<b>				ZIM
+</b>		The enemy cannot push a button if you
+		disable his hand. MEDIC !
+
+	Zim pays no attention to Ace who remains stuck to the post. A
+	recruit trots up. Johnny stares, surprised. It's Dizzy.
+
+<b>				DIZZY
+</b>		Sir, recruit Flores, reporting for duty , sir.
+
+	She snaps Zim a salute and hands him her orders.
+
+<b>				ZIM
+</b>		I see you specifically requested transfer
+		from Fort Cronkite to this training group...
+
+	Dizzy grins self-consciously at Johnny.
+
+<b>				DIZZY
+</b>		Sir, I heard it was the best, sir !
+
+<b>				ZIM
+</b>		It is the best... BUT WHAT MAKES YOU 
+<b>THINK YOU'RE GOOD ENOUGH ?
+</b><b>ON YOUR BELLY AND GIVE ME 
+</b><b>FIFTY, RECRUIT !
+</b>
+	Dizzy hits the deck and starts doing push-ups, counting off as
+	MEDICS arrive and go to work on Ace's hand.
+
+<b>55	INT	MESS HALL - DAY - THE RECRUITES
+</b>
+	line up for mess piled four-square together on a single plate,
+	meat on the bottom, ice cream on top.
+
+<b>				ACE
+</b>		I'd like to disable Zim...!
+
+<b>				KATRINA
+</b>		Improper Attitude ! They'll kick you out
+		for talking like that...
+
+<b>				DJANA'D
+</b>		They can kick you out for anything.
+		Improper Conduct, Unsatisfactory 
+		Performance...
+
+<b>				KITTEN SMITH
+</b>		Off you go down Washout Lane, bye-bye !
+
+	Ace cuts into the front off the mess line.
+
+<b>				ACE
+</b>		Aw, you either got what it takes
+		or you don't.
+
+<b>				DJANA'D
+</b>		C'mon Ace, wait your turn !
+
+<b>				ACE
+</b>		At ease, soldier. It's all the same muck.
+
+<b>				JOHNNY
+</b>		Better get in line like everyone else, Ace.
+
+	Silence. There could be a fight. Zim, standing nearby, watches
+	with interest. Ace opens his hand.
+
+<b>				ACE
+</b>		You got some guts for a rich kid.
+		I guess you and me could be buddies.
+
+<b>				JOHNNY
+</b>		What an honor...
+
+<b>				ACE
+</b>		Hey, don't laugh. Everyone oughta have
+		a friend like me !
+
+	Ace makes a big friendly show of trading places with Johnny.
+
+<b>				BRECKINRIDGE
+</b>		Come on, Ace, back off the line !
+		Bacl off the line !
+
+	Now everyone's laughing, pushing Ace to the back of the line.
+	Johnny has his grub. Dizzy comes up with her tray.
+
+<b>				DIZZY
+</b>		Hey, amigo, come chow with me.
+
+<b>				JOHNNY
+</b>		No thanks, Diz.
+
+<b>				DIZZY
+</b>		What's your malfunction, Rico ?
+
+<b>				JOHNNY
+</b>		You are. I joined up to get out on my
+		own. And you had to tag along.
+
+<b>				DIZZY
+</b>		What ? You think I joined the Mobile
+		Infantery because of you ?
+
+<b>				JOHNNY
+</b>		You saying you didn't ?
+
+	Johnny turns away. Dizzy watches him go, hurt.
+
+<b>56	EXT	OBSTACLE COURSE - DAY - THE RECRUITS
+</b>
+	tumble down the difficult course in their power suits. At the head of
+	the pack , breathing hard, Johnny and Ace race.
+
+<b>				ACE
+</b>		What makes you think... you'll make...
+		squad leader, Rico ?
+
+<b>				JOHNNY
+</b>		Something... I've got...you don't.
+
+<b>				ACE
+</b>		You rich kids... are all the same !
+
+<b>				JOHNNY
+</b>		It isn't about rich... It's about
+		who's best...!
+
+	They come to a trap, prepare to leap.
+
+<b>				DIZZY
+</b>		Coming through !
+
+	Dizzy jumps over them from behind. Johnny and Ace tumble into the mud.
+	They watch, chagrined, as Dizzy reaches the end of the course effortlessly.
+
+<b>				ZIM
+</b>		C'mon, move it, you apes !
+
+<b>57	INT	SHOWERS - NIGHT - DIZZY
+</b>
+	enters as the recruits scrub down.
+
+<b>				KITTEN SMITH
+</b>		We all have one thing in common. We were 
+		all stupid enough to sign up for Mobile
+		Infanterie. What's your excuse,
+		Breckinridge ?
+
+<b>				BRECKINRIDGE
+</b>		Well, my family is all farmers. I hate farming.
+		Mobile Infantery's pure picnic by comparison.
+
+<b>				KITTEN SMITH
+</b>		So the grow 'em big and dumb on the farm
+		planet, eh ?	Djana'd ?
+
+<b>				DJANA'D
+</b>		I'm going in for politics. You gotta be a
+		citizen for that. So here I am.
+
+<b>				KITTEN SMITH
+</b>		C'mon, keep it going... Katrina !
+
+<b>				KATRINA
+</b>		I wanna be a mom. It's easier to get
+		a licence if you've served.
+
+<b>				ACE
+</b>		I'm going career... officer's training.
+		That's why I wanna be squad leader.
+		They look for that.
+
+<b>				JOHNNY
+</b>		Wanting it doesn't make you the best
+		one for the job.
+
+<b>				ACE
+</b>		Oh, yeah ? I don't see anyone else here
+		with the chops to lead.
+
+<b>				JOHNNY
+</b>		Well, maybe you better look again.
+
+<b>				SHUJUMI
+</b>		Federation's gonna give me a scholarship
+		when my hitch is up. I wanna be a
+		neurologist, study brain chemisty and
+		associated stimulus...
+
+	Dizzy dresses down. Johnny and all the other guys check her out.
+	She has a fabulous body. Dizzy cathes Johnny looking. He turns
+	his back as she steps into the shower next to him.
+
+<b>				KITTEN SMITH
+</b>		Your turn, Rico !
+
+<b>				JOHNNY
+</b>		Aw, who asked you to be so nosey ?
+
+<b>				KITTEN SMITH
+</b>		Me, I got plans to be writer, and a writer's
+		got a right to be nosey. Flores, you know 
+		Rico from Buenos Aires... What's his story ?
+
+	Dizzy uses her hand to divert the shower spray towards Johnny's crotch.
+
+<b>				DIZZY
+</b>		Well, some say he turned his back on the family
+		fortune to be a citizen, others say he did it for
+		a girl... missed a spot there, bucko... which is 
+		funny because Johnny says I joined up to be
+		with him, but why would I do that ?
+		He doesn't even like me.
+
+<b>				BRECKINRIDGE
+</b>		Don't look that way to me.
+
+	Everyone look down at Johnny's crotch, laughing. Johnny
+	blushes, grabs a towel and exits the shower. 
+
+<b>58	INT BARRACKS - NIGHT - INTO CAMERA - JOHNNY
+</b>
+	pans the barracks with a little handcam, neat bunks in a row, other recruits
+	lounging around in their skivvies.
+
+<b>				JOHNNY
+</b>		I know it's not much, but it's home. Over
+		there's my bunk where I dream about you
+		every night...
+
+Ace, Kitten Smith, Shujumi and Breckinridge dance around and moon the
+	camera.
+
+<b>				JOHNNY
+</b>		Hey, do you mind ?
+
+	Johnny moves the camera away from the guys. Katrina walks by from the
+	shower with Dizzy, mugs into frame.
+
+<b>				KATRINA
+</b>		Hey, what's going on ?
+
+<b>				DIZZY
+</b>		I bet it's that girl I was talking about...
+		Her name's Carmen, I think.
+
+<b>				ACE AND THE OTHERS
+</b>		Carmen ! Ooh la la, Carmencita !
+
+<b>				KATRINA
+</b>		Hi, Carmen !
+
+	Johnny heads for the door.
+
+<b>				ACE AND THE OTHERS
+</b>		Hey, where you going ? Come back...! He's
+		getting awy... Grab him...!
+
+	The picture goes all screwy, comes up again on:
+
+<b>59	EXT	BARRACKS - NIGHT - INTO CAMERA - JOHNNY
+</b>
+	talk quietly now outside the barracks door.
+
+<b>				JOHNNY
+</b>		Boot's pretty tough, and sometimes
+		I think I won't make it, but then I
+		imagine you're watching me, and that
+		gives me someting... I try harder.
+		Thanks to you, I think I might have 
+		a shot at squad leader.
+
+	The barracks lights go out. Taps plays over the public address.
+	Johnny lowers his voice.
+
+<b>				JOHNNY
+</b>		Uh-oh, I gotta pack it in. I hope you're
+		having fun, hope you're careful.
+		No training accidents for you, eh ?
+			(leaning into camera)
+		I want to kiss you so badly. I want
+		to feel you next to me, I-
+
+	Behind him , someone begins to sing , badly.
+
+<b>				ACE
+</b>		I love you truly, so truly, dear...!
+
+	Ace, the singer, and the other guys peer down from the transom 
+	over the door, giggling, delighted with themselves.
+
+<b>							PULLBACK TO REVEAL:
+</b>
+<b>60	INT	TERESHKOVA FLIGHT ACADEMY - DAY - CARMEN
+</b>
+	watches the end of Johnny's letter. Ace continues to sing.
+
+<b>				ACE
+</b>		Our love will grow, dear, year by year...
+
+<b>				JOHNNY
+</b>		Bye ! Write me ! I'm gonna kill you guys !
+
+	The letter ends. Carmen smiles. A BALD CADET PILOT smacks her on the
+	arm as she runs by in a sleek blue pressure suit.
+
+<b>				BALD CADET
+</b>		Orbit in five, Ibanez ! First one there gets
+		to fly !
+
+	Grinning, Carmen grabs her duffel, takes off after her.
+
+<b>61	INT	BOARDING CORRIDOR - DAY - CARMEN
+</b>
+	and the bald cadet race for the hatch past other recruits.
+
+<b>62	INT	BOAT - DAY CYCLE-CARMEN
+</b>
+	gets there first, jumps into the pilot seat. The Bald Pilot takes
+	second seat.
+
+
+<b>				CARMEN
+</b>		Looking it down !
+<b>		
+</b>	Two LATE CADETS duck in through the closing hatch door.
+
+<b>				LATE CADET
+</b>		Oh no, not Ibanez again, she's crazy !
+
+<b>				CARMEN
+</b>		On my mark, in three, two, one...
+
+<b>63	EXT	LUNAR ORBIT - THE BOAT
+</b>
+	straeks upward from the lunar floor past orbitting training platforms where
+	CADETS in brightly colored pressure suits float against the Earth which
+	hangs beyond the horizon.
+
+<b>				CARMEN (O.S.)
+</b><b>		...GO !
+</b>
+<b>64	INT	BOAT - LUNAR ORBIT - CARMEN
+</b>
+	blasts past a DESTROYER orbiting in dock, zips between CORVETTES
+	and other slower fleet traffic in the crowded space lanes of Luna.
+	The two late cadets are terrified.
+
+<b>				BALD CADET
+</b>		Geez, I thought I liked to fly fast !
+
+<b>				CARMEN
+</b>		This is nothing. Today, I get to fly that !
+
+	She points. Now visible from behind a host of smaller ships,
+	STARSHIP ATHENA, of older design, but impressive.
+
+<b>65	INT	ATHENA - COMMAND AND CONTROL - DAY CYCLE - CARMEN
+</b>
+	arrives on the bridge, dark, cramped, all-business. She salutes the instructor,
+	CAPTAIN DELADIER, 40s.
+
+<b>				CARMEN
+</b>		Pilot Trainee Ibanez reporting for duty, ma'am.
+
+<b>				DELADIER
+</b>		Take the number one chair, Ibanez.
+		Follow all instructions of you supervisor.
+
+<b>				CARMEN
+</b>		Yes, ma'am !
+
+	Carmen turns for her station, but stops in her tracks. Her supervisor is
+	Zander Barcalow, now a 2nd Lieutenant.
+
+<b>				CARMEN
+</b>		Hey ! What are you doing here ?
+
+<b>				ZANDER
+</b>		I'm the guy who's gonna teach you to 
+		fly this crate.
+
+	Carmen logs on. The ship recognizes her as a pilot trainee.
+
+<b>				CARMEN
+</b>		Assistant insructor... You must be some
+		kind of a hot stick.
+		Should I call you "sir" ?
+
+<b>				ZANDER
+</b>		Only when I give you an order.
+
+<b>				DELADIER
+</b>		Prepare for departure.
+
+	Carmen and Zander go to work.
+
+<b>				CARMEN
+</b>		It's amazing, us running into each other
+		like this. Maybe it's fate.
+
+<b>				ZANDER
+</b>		Maybe not. I heard about this crazy girl
+		coming through the academy, solid math,
+		a little wild on the stick, but a natural.
+		When it turned out it was you, I made
+		sure we'd run into each other...
+
+<b>				DELADIER
+</b>		Alright, take her out, Ibanez.
+
+<b>				CARMEN
+</b>		Yes, ma'am.
+
+	All eyes are on carmen as she grabs the stick. The ship shudders under
+	her hand. She winks at Zander.
+
+<b>				CARMEN
+</b>		In simulation, my supervisors could never
+		keep up.
+
+<b>				ZANDER
+</b>		This isn't simulation anymore.
+		Take'er out easy, cadet.
+
+<b>				CARMEN
+</b>		Oh, yes, sir. Vector ?
+
+<b>				ZANDER
+</b>		Twenty-five by five, roll seven.
+		And don't exceed port speed.
+
+	Carmen rocks the stick, and the view from the bridge spins smoothly
+	away from the dense orbiting yards os Luna toward the outer system.
+
+<b>				CARMEN
+</b>		Or...?
+
+<b>				ZANDER
+</b>		They revoke our flight status.
+
+<b>				CARMEN
+</b>		Oh, I see... teamwork.
+
+	Carmen jogs past lumbering freighters. Zander's impressed.
+
+<b>				DELADIER
+</b>		Steady as she goes, number one.
+		Prepare for warp. Number two,
+		design for Jupiter orbit.
+
+<b>				ZANDER
+</b>		Yes, ma'am. Star drive in three...
+		two... one...
+
+	Space appears to bend. Zander and Carmen share a smile. They 
+	blur together, becoming one, then:	WHAM !
+
+<b>66	EXT	LUNA - STARSHIP ATHENA
+</b>
+	disappears in a flash of blinding light.
+
+<b>67	EXT	WAR GAMES COURSE - DAY - THE RECRUITS
+</b>
+	have been divided into two teams. RED TEAM includes Ace, Katrina,
+	Breckinridge, and Djana'd. Johnny, Shujumi, Kitten Smith, and Dizzy
+	are part of BLUE TEAM.
+
+<b>				ZIM
+</b>		The object of this exercise is to capture
+		your enemy's flag before your enemy
+		captures yours.
+
+	Bronski passes out Morita SmartRifles.
+
+<b>				ZIM
+</b>		These weapons have been modified for
+		this exercise. If your enemy hits you,
+		your suit will fail. You will be unable
+		to move. You will be as good as dead.
+
+<b>68	EXT	WAR GAMES COURSE - LATER - DJANA'D
+</b><b>	
+</b>	bumps the magnification of her heads up display to survey Blue Team's
+	flag guarded by two recruits. She jumps down to joining other Red
+	Team members on the move.
+
+<b>				DJANA'D
+</b>		It's right over the next ridge...
+		Only two guards.
+
+	Johnny, Kitten Smith, and Dizzy open fire from athicket as they pass.
+	Djana'd and the others collapse as their suits fail, Djana'd laughing
+	because playing at war seems funny.
+
+<b>				KITTEN SMITH
+</b>		You are now prisoners of the Blue Team.
+		Tell us your plans or die !
+
+<b>				DJANA'D
+</b>		Oh no ! Name, rank, and mind your own
+		business is all you get from me !
+
+<b>69	EXT	RED TEAM FLAG - DAY - RED TEAM
+</b>
+	opens fire as the Blue Team appears. Shujumi and other Blue Team members
+	go down in an ambush led by Breckinridge. Johnny dives for cover, and finds
+	himself sharing it with Dizzy.
+
+<b>				KITTEN SMITH
+</b>		I'm going in ! Let's go !
+
+	Kitten Smith makes arun for the flag with a rifle team. Ace and Katrina open 
+	fire from two new hidden Red Team positions, taking Kitten and his team
+	down with a cross fire.
+
+<b>				JOHNNY
+</b>		Man, they're defended... no way in.
+
+<b>				DIZZY
+</b>		Flip six, three hole.
+
+<b>				JOHNNY
+</b>		What ?
+
+<b>				DIZZY
+</b>		High school... remember ? Run a flip
+		six, three hole play, and you might
+		score...
+
+	Johnny looks at the course in a new way, nods.
+
+<b>				JOHNNY
+</b>		Cover me.
+
+<b>				DIZZY
+</b>		You got it.
+
+	Johnny tumbles open ground, vaults into the air. Dizzy takes out Breckinridge
+	as he rises to fire. Johnny lands, knocks out Katrina, then Ace. He picks up
+	Ace's fallen Morita.
+
+<b>				JOHNNY
+</b>		Thanks, pal.
+
+<b>70	EXT	OBSERVATION TOWER - DAY - ZIM AND CORPORAL BRONSKI
+</b>
+	watch Johnny firing both Moritas simultanously and taking out the remaining
+	Red Team defenders. He grabs the Red Team flag and hurls it into the air like spear.
+
+<b>				ZIM
+</b>		Kid's got some moves...
+
+<b>71	INT	AIRBORNE SKIMMER - DAY - THE RECRUITS
+</b>
+	line up in the door of a SKIMMER, the military's standard utility aircraft,
+	to practice drops from altitude.
+
+<b>				ZIM
+</b>		Smith, GO ! McIntire, GO ! Flores, GO !
+		Rico, I'm making you sqaud leader !
+
+<b>				JOHNNY
+</b>		Sir, thank you, sir !
+
+<b>				ZIM
+</b>		Don't stand there dumb... GO !
+
+	Johnny jumps, plummeting toward the earth.
+
+<b>				JOHNNY
+</b>		YEEEE-Haaaaaaaaaaaaa...!
+
+	Next in line, Ace scowls.
+
+<b>72	INT	BARRACKS - NIGHT - THE RECRUITS
+</b>
+	have some free time. Johnny makes a big show of polishing the chevrons
+	that designate him as Squad Leader.
+
+<b>				KITTEN SMITH
+</b>		Look at him. Do you think anyone has
+		ever been so pleased with himself ?
+
+<b>				ACE
+</b>		Zim hadda choose someone to be
+		his brown nose, I guess.
+
+<b>				JOHNNY
+</b>		I just want you guys to know that I'll
+		never do anything that I haven't asked
+		you to do first.
+
+	Johnny approaches Dizzy.
+
+<b>				JOHNNY
+</b>		Couldn't've done it without you, Diz.
+		Friends ?
+
+	Dizzy smiles, shakes.
+
+<b>				DIZZY
+</b>		Yeah, sure... friends.
+
+	Bronski walks through with the mail.
+
+<b>				BRONSKI
+</b>		Levy... Shujumi... Rico.
+
+	Johnny grabs the E-disk, pops it into his handcam. The Fleet Mail logo appears:
+<b>	APPROVED MESSAGE
+</b>
+<b>				JOHNNY
+</b>		Bet it's from my girl.
+
+	Johnny's pals gather for a look. Carmen appears, dressed down to skivvies, 
+	in her quarters aboard starship Athena.
+
+<b>				CARMEN
+</b>		Hi, Johnny, I would've written sooner,
+		but they've really got us going every 
+		moment here.
+
+<b>				ACE
+</b>		Yeow, Rico, you don't deserve that !
+
+<b>				JOHNNY
+</b>		Shhhh...!
+
+<b>				CARMEN
+</b>		I'm glad you're doing so well. If they 
+		haven't made you squad leader by now,
+		I'm sure you will.
+
+	Johnny holds up his squad leader chevrons victoriously.
+
+<b>				JOHNNY
+</b>		All it takes is the love of a good woman...
+
+	The image changes abrupltly. Now Carmen's wearing a trim blue flight suit.
+	She stands the camera on Athena's gunnery deck. Outside , the rings of
+	Saturn sparkle in bright solar light.
+
+<b>				CARMEN
+</b>		Look at that. Isn't it beautiful ? I had 
+		to show you. It's great to be out here on
+		my own. I'm just not some little girl from
+		Buenos Aires anymore. I'm gonna be a
+		starship pilot, and I'm gonna see the
+		universe...
+			(she sighs)
+		And that's also the problem because I
+		don't really want to get married,
+		Johnny. I don't want to have kids.
+		I want a command, a ship of my own,
+		and you know, I don't think that's 
+		gonna leave a lot of room for you and
+		me.
+
+	Johnny is stunned. All the other recruits suddenly seem to have 
+	something else to do.
+
+<b>				CARMEN
+</b>		I know that's not what you wanted to hear...
+		but I have to follow my heart. I'm sorry.
+		I'm afraid you'll hate me, and I couldn't
+		stand that. Write me, alright ? Write me,
+		so I'll know that we'll always be friends.
+
+	The Fleet Mail logo appears again:	END OF MESSAGE. Johnny
+	shuts the handcam off. Ace puts a hand on his shoulder.
+
+<b>				ACE
+</b>		Funny how they always want to be your friends
+		after they kick your guts out.
+
+<b>				JOHNNY
+</b>		It's what I deserve.
+<b>	
+</b><b>				ACE
+</b>		Whad'ya talkin  about ?
+
+<b>				JOHNNY
+</b>		I joined up for her. I wouldn't even 
+		be here if it wasn't for her.
+		I'm a fool.
+
+<b>				ACE
+</b>		You made squad leader on your own,
+		and, hey, you still got me to kick 
+		around.
+
+	Johnny smiles in spite of himself.
+
+<b>				JOHNNY
+</b>		Thanks, Ace.
+
+	Johnny turns for the door, flipping the chevrons like a coin.
+	Dizzy watches him leave. She'd so like to comfort him.
+
+<b> 73	EXT	LIVE FIRE COMBAT RANGE - DAY - THE RECRUITS
+</b>
+	arm their Marauder power suits. Zim and Bronski wear Command model suits
+	with rank designations. Johnny checks weapons, scans the electronics on 
+	each squad member's power suit.
+
+<b>				ZIM
+</b>		With the Marauder's visual capabilities,
+		all you have to do is look at something
+		to hit it, so you will exercise EXTREME
+		CARE on my firing line.
+		Do you get me ?
+
+<b>				RECRUITS
+</b>		Sir, yes, sir !
+
+<b>				ZIM
+</b>		The live firing combat range is the 
+		closest simulation of actual combat
+		we can provide. If you do not hit 
+		your target, it will shoot you...
+
+	Fifty blackened AUTOMATED TARGET DRONES fitted with pulse guns
+	are presently visible along a gauntlet of low walls, gullies, and three-story
+	building facades.
+
+<b>				ZIM
+</b>		The Marauder power suit will prevent
+		serious injury, but if you are hit, you
+		will be non-operational and your team 
+		score will suffer accordingly. Rico,
+		has each member of your squad completed
+		a weapons safety check ?
+
+<b>				JOHNNY
+</b>		Sir, yes, sir !
+
+	On a signal from Zim, the Live Fire Combat Range comes to life
+	as the target drones take cover and disappear from view.
+
+<b>				ZIM
+</b>		Perfect score for this exercise is 300.
+		B company came through last week
+		with 285. I expect you to do better.
+
+<b>74	EXT	LIVE FIRE COMBAT RANGE - DAY - THE RECRUITS
+</b>
+	take out the target drones as they appear. Halfway through the course,
+	a recruit takes a hit and goes down, immobilized. Djana'd has a clear
+	shot, but Breckinridge gets in her way.
+
+<b>				DJANA'D
+</b>		You're in my line of fire, Breckinridge
+
+	Before the others can react, a second drone appears.
+
+<b>				JOHNNY
+</b><b>		CROSSFIRE ! EVERYBODY DOWN !
+</b>
+	Everyone kisses dirt. Pulses from the two drones fly thick overhead.
+	Shujumi rises to fire, a round slams him back to the ground.
+	Johnny and Djana'd knock out the two drones.
+
+<b>				JOHNNY
+</b>		Alright, no more screw ups. Ace takes
+		point. Diz, you and Kitten Smith cover
+		the flanks. Djana'd, you're rear guard.
+		Move out.
+
+	The squad resumes ist advance. Breckinridge bangs on his helmet.
+	There is something wrong with his "head up" display.
+
+<b>				JOHNNY
+</b>		What's the problem ?
+
+<b>				BRECKINRIDGE
+</b>		Dunno. Display's fritzed.
+
+<b>				DJANA'D
+</b>		Lose another rifle, we're gonna mess up
+		our score...
+<b>			
+</b><b>				JOHNNY
+</b>		Let me see.
+
+	Breckinridge takes off helmet, hands it to Johnny. Djana'd turns on
+	Breckinridge. Her "head up" zeroes him.
+
+<b>				DJANA'D
+</b>		How come when something goes wrong,
+		it's always you, Breckinridge ?
+
+	That's when Djana'd trips on a loose stone. She fumbles her rifle and
+	it discharges. The round tears the top of Breckinridge's head off.
+	The recruits stare in horror.
+
+<b>				JOHNNY
+</b>		Oh, God... uh... MEDIC !
+
+	Zim arrives with Bronski on the bounce.
+
+<b>				ZIM
+</b>		Rico, you are relieved of squad command.
+		Levy, McIntire you will escort private Rico
+		to the C.O.'s Office.
+
+	The recruits watch Johnny leave, stare aghast at their dead comrade.
+	No one looks at Djana'd, who stands alone sobbing.
+
+<b>75	INT	C.O.'S OFFICE - DAY - JOHNNY
+</b>
+	stands before the C.O. braced by Katrina and Ace. Zim and the C.O.  are
+	both saddened by the proceedings.
+
+<b>				C.O.
+</b>		Rico, did you give the recruit permission
+		to remove his helmet ?
+
+<b>				JOHNNY
+</b>		Sir, yes, sir. Breckinridge reported a
+		helmet malfunction, and I asked him
+		to show it to me, sir.
+
+<b>				C.O.
+</b>		Are you rated to repair a Marauder
+		power suit, Rico ?
+
+<b>				JOHNNY
+</b>		Sir, no, sir.
+
+<b>				C.O.
+</b>		Then why did you order your man to 
+		remove his helmet during a live fire
+		exercise ?
+
+<b>				JOHNNY
+</b>		Sir, I needed everyone in my squad
+		operational, sir... I... I wanted to win,
+		sir.
+
+<b>				C.O:
+</b>			(sigh)
+		You disobeyed safety regulation 21-404.
+		You may, of course, demand trial by 
+		court martial.
+
+<b>				JOHNNY
+</b>		Sir, no, sir !
+
+<b>				C.O.
+</b>		Do you freely admit to the charges
+		made against you ?
+
+<b>				JOHNNY
+</b>		Sir... I guess I do, sir.
+
+	Zim looks out the window. Djana'd, dressed for travel, in civilian clothes,
+	crying as she heads off down Washout Lane.
+
+<b>				C.O.
+</b>		Sergeant, we've lost two recruits
+		over this incident already...
+		is there any possibility of salvaging
+		this man ?
+
+				Zim
+		I believe so, sir.
+
+<b>				C.O.
+</b>		Alright. We'll try administrative
+		punishment. Until then you are 
+		confined to your quarters, Rico.
+
+<b>76	INT	BARRACKS - SUNSET - JOHNNY
+</b>
+	looks out the window to the parade ground where a POST has been
+	erected. The recruits look up as Zim enters.
+
+<b>				ZIM
+</b>		Alright, let's go, Rico.
+
+	Johnny takes off his shirt. Ace who now holds the chevrons of squad
+	leader, watches, feels bad for his pal.
+
+<b>77	EXT	PARADE GROUND - SUNSET - THE RECRUITS
+</b>
+	stand with recruits from other platoons. Johnny is led to the post and 
+	strung up as the C.O. reads the charge.
+
+<b>				C.O.
+</b>		For incompetence of command, for
+		failure to abide by safety regulations
+		in a live fire exercise, for negligence 
+		which contributed to the death of a
+		teammate...
+
+	Zim steps up to Johnny, offers him a red rubber mouthpiece.
+
+<b>				ZIM
+</b>		Bite on this. It helps. I know.
+
+<b>				C.O.
+</b>		... recruit trainee John Rico is sentenced
+		to administrative punishment. Ten lashes.
+
+	Johnny takes it in his mouth. His tear away shirt is torn away. Johnny
+	stands at the post alone. Corporal Bronski, a big man with an unhappy
+	task, unrolls his whip.
+
+<b>				C.O.
+</b>		You may carry out the sentence.
+
+<b>				BRONSKI
+</b>		One.
+<b>	
+</b>	CRACK !	Johnny's face wrenched by pain, spontanous tears, a terrible
+	sound stifled by the bright red mouthpiece.
+
+<b>				BRONSKI
+</b>		Two.
+<b>	
+</b>	CRACK !	Again. Dizzy flinches for Johnny.
+
+<b>				BRONSKI
+</b>		Three.
+
+	CRACK !	Ace looks away.
+
+<b>				BRONSKI
+</b>		Four.
+
+	CRACK !	Zim watches without any apparent emotion.
+
+<b>				BRONSKI
+</b>		Five.
+
+	CRACK !	Johnny faints, sagging against his tether.
+
+<b>								FADE OUT
+</b>
+<b>78	EXT	OUTER SYSTEM - STARSHIP ATHENA
+</b>
+	cruises past, 600,000 metric tons of star class destroyer, FIGHTERS
+	and LANDING BOATS lining her open hangar deck.
+
+<b>79	INT	ATHENA - COMMAND AND CONTROL - NIGHT CYCLE - CARMEN
+</b>
+	works alone on the empty bridge. She yawns. Zander brings coffee for himself
+	and Carmen.
+
+<b>				CARMEN
+</b>		Thanks. You read my mind. Third watch
+		always seems to last forever.
+
+<b>				ZANDER
+</b>		Oh, I don't know... Depends on who you
+		are spending it with.
+
+	He caresses her hair. She kisses his hand. Zander notices the plot map.
+
+<b>				ZANDER
+</b>		Profile's wrong... there.
+
+<b>				CARMEN
+</b>		No, I replotted the course. It's more
+		efficient this way.
+
+<b>				ZANDER
+</b>		Three weeks aboard a starship and you
+		know it all, huh ?
+
+<b>				CARMEN
+</b>		Hey, check it.
+
+	Zander slides into his chair, runs a check.
+
+<b>				ZANDER
+</b>		You know I was talking to Captain,
+		Deladier, and she said...
+
+<b>				CARMEN
+</b>		Don't change the subject. Am I right ?
+
+<b>				ZANDER
+</b>		Well, whad'ya know...
+
+<b>				CARMEN
+</b>		Don't mess with the boss. So what'd
+		the captain say ?
+
+<b>				ZANDER
+</b>		She got a command... and she thinks we 
+		oughta team up officially and crew for her.
+		She thinks we're good together.
+
+<b>				CARMEN
+</b>		You and me, huh ?
+
+	Zander turns his chair so they are very close, moves a finger along
+	her hand, up her arm and playfully around her breasts.
+
+<b>				ZANDER
+</b>		I have a feeling about us. We're good
+		together, way ahead of the curve in 
+		every department. I seem to be able to
+		anticipate your needs. 
+		You know what I want...
+
+	Carmen grabs him between his legs.
+
+<b>				CARMEN
+</b>		No, what do you want ?
+
+	Zander pulls her to him and they kiss passionately. She brteaks it off,
+	gets serious for amoment.
+
+<b>				CARMEN
+</b>		I want to be part of the best flight team 
+		in the Fleet...
+
+<b>				ZANDER
+</b>		Me, too... Day and Night-Cycle.
+
+	They start to caress again when suddenly ALARMS sound. Captain 
+	Deladier appears on the hot screen, still waking up.
+
+<b>				DELADIER
+</b>		Report.
+
+<b>				ZANDER
+</b>		Captain, we are in the path of an unidentified
+		object moving at near light speed...
+
+	Carmen and Zander frantically check their displays.
+
+<b>				CARMEN
+</b><b>		WHERE IS IT ?
+</b>
+<b>				ZANDER
+</b><b>		THERE !	GRAVITY FIELD... IT'S BIG !
+</b>
+<b>				CARMEN
+</b>		It looks like an... asteroid.
+
+<b>				DELADIER
+</b>		In this part of the system ?
+
+	Carmen and Zander see it through the front screens:		A huge
+	ASTEROID tumbles directly towards them at terrific speed.
+
+<b>				ZANDER
+</b>		Sweet Jesus...!
+
+	Carmen breaks glass that reads EMERGENCY RETROS, arms the switch 
+	within and fires the rockets.
+
+<b>80	EXT	OUTER SYSTEM - STARSHIP ATHENA
+</b>
+	torques to one side. The asteroid grazes the ship, cutting ahuge gash
+	in Athena's hull. Ice and rock travelling in ist wake shreds
+<b>	COMMUNICATIONS EQUIPMENT.
+</b>
+<b>81	INT	COMMAND AND CONTROL - NIGHT CYCLE - CARMEN AND 
+</b>
+	Zander brace themseves as diamond hard particles pound the front screens.
+	The ship continues to tumble.
+
+<b>82	EXT	ATHENA - FLIGHT DECK - A FIGHTER
+</b>
+	loses it's mooring, tumbling into other craft, explosions ripping the deck.
+
+<b>83	INT	ATHENA -VARIOUS - NIGHT CYCLE - CREWMEN
+</b>
+	are sucked into space. Others hang on frantically as automatic doors
+	seal Athena's wound and their fates.
+
+<b>84	INT	COMMAND AND CONTROL - NIGHT CYCLE - CAPTAIN
+</b>
+	Deladier arrives on the bridge, now crowded as other FLIGHT OFFICERS
+	rush to their stations. Zander's going through star charts.
+
+<b>				DELADIER
+</b>		Where'd it come from ?
+
+<b>				ZANDER
+</b>		Trajectory indicates it came out of 
+		the Arachnid Quarantine Zone.
+
+<b>				DELADIER
+</b>		Number 4, contact Fleet and tell 'em
+		there's a loose asteroid headed their way.
+
+<b>				COMMUNICATIONS OFFICER
+</b>		Communications are down, ma'am.
+
+<b>				DELADIER
+</b>		Engineering. Damage assessment.
+
+<b>				ENGINEERING OFFICER
+</b>		Hull's compromised. 
+		We're lucky to be alive, ma'am.
+
+	Deladier notices Carmen staring at a monitor, stunned. A DEAD
+	CAP TROOPER trails in the wreckage of the flight deck.
+
+<b>				DELADIER
+</b>		Good work, Number 1. You'll do.
+
+<b>				CARMEN
+</b>		Thank you, ma'am.
+
+<b>85	INT	BARRACK'S - DAY - JOHNNY
+</b>
+	wears his civilian clothes, pcks as the other recruits get ready for the
+	day's training. No one says anything. He moves stiffly, careful of his
+	back.
+
+<b>				DIZZY
+</b>		It stinks, you goin.
+
+<b>				JOHNNY
+</b>		I don't stay where I'm not wanted.
+
+<b>				DIZZY
+</b>		If they didn't want you, they woulda
+		kicked you out, amigo.
+
+<b>				JOHNNY
+</b>		Hey, they humiliated me in front of
+		everyone ! I'm just supposed to take
+		it, huh ? Well, I'm not gonna, and I 
+		guess that proves I just can't cut it.
+
+	Corporal Bronski leans in, impassive.
+
+<b>				BRONSKI
+</b>		Your call's going through, Rico.
+		Take it there.
+
+	A nearby VU-PHONE lights up. The screen flashes:		RINGING
+	His mother appears when she picks up the other end.
+
+<b>				MOTHER
+</b>		Hello... Oh, Johnny...!
+
+<b>				JOHNNY
+</b>		Hi, mom.
+
+<b>				MOTHER
+</b>		Bill... pick up... it's Johnny ! You 
+		little rat. You haven't called, you
+		haven't written. It's been so lonely
+		here without you...
+
+	The screen splits as Johnny's father activates an extension.
+
+<b>				FATHER
+</b>		Johnny ! Where's your uniform...?
+
+	Johnny's mother makes a face to shut him up.
+
+<b>				FATHER
+</b>		Well, it's just good to hear from you.
+		What's up, son ?
+
+<b>				JOHNNY
+</b>		It's not really working out for me here,
+		dad. I was thinking... I was hoping it 
+		would be alright if I came home.
+
+<b>				MOTHER
+</b>		Well, of course you should come home
+		immedietly !
+
+<b>				JOHNNY
+</b>		I've made a mess of things. I've been
+		so stupid...
+
+<b>				FATHER
+</b>		Don't talk like that. Get yourself home
+		as fast as you can.
+
+<b>				MOTHER
+</b>		We'll all have dinner. I'll fix your favorite.
+
+<b>				FATHER
+</b>		Yeah ! We'll talk it out and have a good
+		glass of wine ... and... well, we love you,
+		son.
+
+	The sky in Buenos Aires seems to darken perceptively. Johnny's
+	mother looks out the window.
+
+<b>				MOTHER
+</b>		Oh, my, what's that ?
+
+<b>				FATHER
+</b>		Looks like rain.
+
+<b>				MOTHER
+</b>		This time of the year...?
+
+	The transmission ends abruptly. A phone company logo appears:
+<b>	TRANSMISSION TERMINATED.
+</b>
+<b>				VU-PHONE VOICE
+</b>		Your transmission has been terminated due
+		to atmospheric interference. Please try your
+		call again later.
+
+	Johnny zips his duffel, hefts it gingerly over his shoulder.
+
+<b>				JOHNNY
+</b>		Well, see ya.
+
+<b>				DIZZY
+</b>		You take the stroll down Washout Lane,
+		you're only proving one thing, Johnny.
+
+<b>				JOHNNY
+</b>		What's that, Diz ?
+
+<b>				DIZZY
+</b>		That you don't have what it takes
+		to be acitizen !
+
+	Dizzy turns on her heel and marches away.
+
+<b>86	INT	THE C.O.'S OFFICE - DAY - JOHNNY
+</b>
+	signs form 1240/A. Zim stands as witness.
+
+<b>				C.O.
+</b>		Now you, Sergeant.
+
+	Zim signs bitterly. The C.O. sighs.
+
+<b>				C.O.
+</b>		That's it, son. You can go.
+
+	The C.O. and Zim turn to other things. Johnny picks up his duffel and heads 
+	out the door.
+
+<b>87	EXT	PARADE GROUND - DAY - JOHNNY
+</b>
+	walks alone, sad. A skimmer hums by overhead and he looks after it.
+	Out across the parade ground he sees the glint of Marauder power
+	suits as recruits tumble the obstacle course.
+
+<b>88	EXT	WASHOUT LANE -- DAY - JOHNNY
+</b>
+	reaches the little white fence that leads to the transporter. He turns
+	back for one last look and notices people running to the
+	Comminications shack. Kitten Smith runs by.
+
+<b>				JOHNNY
+</b>		Hey, Kitten, what's going on ?
+
+<b>				KITTEN
+</b>		It's war !
+
+<b>89	EXT	COMMUNICATION - DAY - JOHNNY
+</b>
+	joins others to see what's on the Federal Net. Recruits, non-coms, and officers gather	without any sense of military decorum. People cry openly, among them Corporal
+	Bronski.
+
+<b>				OFFICIAL VOICE
+</b>		... early estimates. Millions dead, a city in 
+		ruins...
+
+	On screen, the smoldering ruins of what was once a huge city.
+
+<b>				JOHNNY
+</b>		Oh, jeez, is that Geneva ?
+
+<b>				KATRINA
+</b>		Goddam bugs whacked us, Johnny.
+
+<b>				OFFICIAL VOICE
+</b>		... Buenos Aires has been wiped of the Earth.
+		Nothing lives in what was once called the
+		Latin Paradise...
+
+	Johnny is horrified. Dizzy is suddenly standing next to him.
+
+<b>				DIZZY
+</b>		Aw, Johnny, geez... It's home.
+
+<b>				OFFICIAL VOICE
+</b>		The Federal Court met moments ago and
+		voted unanimously for mobilization to
+		destroy the Arachnid threat.
+
+	Johnny sets his jaw, turns and runs for the C.O.'s office.
+
+<b>90	INT	C.O.'S OFFICE -DAY - THE C.O: AND ZIM
+</b>
+	and other staffers watch the grim news unfold. Animation
+	illustrates the insect treachery.
+
+<b>				OFFICIAL VOICE
+</b>		The meteor derived from here, near Klendathu,
+		in the Arachnid's home system...
+
+<b>				ZIM
+</b>		I'm serious, sir. I'll go anywhere.
+		I want combat.
+
+<b>				C.O.
+</b>		Forget it, Zim. We're gonna need you 
+		here. The only way you'll get a combat
+		assignment is if you bust yourself to
+		private. You get me ?
+
+<b>				ZIM
+</b>		Yes, sir, I get you.
+
+<b>				C.O.
+</b>		What can I do for you, Rico ?
+
+<b>				JOHNNY
+</b>		Sir, I wish to reconsider my request
+		to drop out, sir.
+
+<b>				C.O.
+</b>		Sorry, son. I can't do it. You signed
+		the 1240/A. It would be illegal.
+
+<b>				JOHNNY
+</b>		Sir, i know it was wrong. I didn't 
+		learn from one mistake and I made
+		another, sir.
+			(then)
+		Sir, my family... my whole family was
+		in Buenos Aires, sir.
+
+	Zim picks up Johnny's 1240/A off the C.O.'s desk.
+
+<b>				ZIM
+</b>		Is that your signature, Rico ?
+
+<b>				JOHNNY
+</b>		Sir, yes it is, sir.
+
+<b>				ZIM
+</b>		Doesn't look like it to me.
+
+	Zim gives the C.O. a look. The C.O. shrugs, turns away, watching the news
+	of the coming war. Zim tears up the 1240/A.
+
+<b>				ZIM
+</b>		Get outa here, private.
+
+<b>91	FROM THE FEDERAL NET - HUMANKIND GOES TO WAR !
+</b>
+	Actual pictures of Buenos Aires:	SURVIVORS pick through rubble,
+	people wail, kids play tag in the ruins.
+
+<b>				OFFICIAL VOICE
+</b>		Out of the ashes of Buenos Aires comes first
+		sorrow, then ANGER !
+
+<b>				ANGRY PERSON
+</b>		The only good bug is a dead bug !
+
+<b>				OFFICIAL VOICE
+</b>		Would you like to know more ?
+
+<b>92	COMBAT - VICTORY ON DANTANA !
+</b>
+	A wounded CAP TROOPER, grim smile, flashes "V" for victory as his
+	weary comrades carry him off the field.
+
+<b>				OFFICIAL VOICE
+</b>		Cap Troopers establish a foothold on Dantana,
+		a planet system at the outer edge of the
+		Arachnid Quarantine Zone. Casualties are high,
+		but casualties won't stop the Mobile Infantery !
+		Would you like to know more ?
+
+<b>93	HOME FRONT - KIDS KILL BUGS AND MOM IS GLAD !
+</b>
+	MOM smiles as her CUTE KIDS stomp insects in the garden.
+	FACTORY WORKERS turn out ordnance. PEOPLE line up 
+	to enlist.
+
+<b>				OFFICIAL VOICE
+</b>		Everyone's doing their share. Are you ?
+		The war effort needs your effort at work,
+		at home, in your community.
+		Would you like to know more ?
+
+<b>94	LEADERSHIP - SKY MARSHALL ANNOUNCES OFFENSIVE !
+</b>
+	SKY MARSHALL DIENES, 72, addresses the FEDERAL COUNCIL.
+
+<b>				SKY MARSHALL DIENES
+</b>		We are a generation commanded by fate to defend
+		humankind ! We must meet the threat with our valor,
+		our blood, with our very lives, to insure that human
+		civilization, not insect, dominates this galaxy now
+		and always.
+
+	The council rises to its feet for a standing ovation.
+
+<b>				OFFICIAL VOICE
+</b>		Sky Marshall Dienes announces plans for an
+		offensive against Klendathu, source of the 
+		bug meteor that destroyed Buenos Aires.
+
+<b>95	LIVE BROADCAST - AQZ - FLEET BATTLE STATION TICONDEROGA
+</b>
+	is a sprawling pre-fab structure covering several square kilometers of space
+	where STARSHIPS are stacked in berths.
+	Super title:	COUNTDOWN TO VICTORY.
+
+<b>				OFFICIAL VOICE
+</b>		We now break net and take you live to
+		Fleet Battle Station Ticonderoga deep
+		inside the Arachnid Quarantine Zone.
+
+<b>96	INT	BATTLE STATION - NIGHT CYCLE - THE CAMERA
+</b>
+	follows the Net Correspondentas he works a corridor crowded with 
+	MOBILE INFANTERY and FLEET PERSONNEL.
+
+<b>				NET CORRESPONDENT
+</b>		No one here in the AQZ knows when the 
+		invasion of Kendathu will occur, but
+		everyone's talking about it, and the talk says
+		tomorrow !
+
+	Newly minted cap troopres Johnny, Dizzy, Ace, and Kitten Smith happen along.
+
+<b>				NET CORRESPONDENT
+</b>		Here's a bunch of M.I. kids who look like they
+		eat bugs for lunch !
+
+<b>				DIZZY
+</b>		Yum, yum yum ...!
+
+<b>				NET CORRESPONDENT
+</b>		So you're not to worried about fighting the
+		Arachnids...?
+
+<b>				ACE
+</b>		Hey, shoot a nuke down a bug hole, 
+		lotta dead bugs, am I right ?
+
+<b>				KITTEN SMITH
+</b>		I just hope it's not over before we get in it !
+
+<b>				NET CORRESPONDENT
+</b>		Some say the bugs were provoked by human 
+		attempts to colonize within the AQZ, that a
+		"live and let live" policy is preferable to
+		war with the bugs...
+
+<b>				JOHNNY
+</b>		Yeah, well, I'm from Buenos Aires, and
+		I say kill'em all !
+
+<b>97	INT	RECREATION DECK - NIGHT CYCLE - JOHNNY
+</b>
+	and his friends drink at a crowded bar. Around the room there's 
+	singing and dancing, a mad sort of revelry bred of fear and
+	excitement, but nearby a VETERAN drinks alone.
+
+<b>				KITTEN SMITH
+</b>		That guy's been in it.
+
+<b>				JOHNNY
+</b>		How can you tell ?
+
+<b>				KITTEN SMITH
+</b>		The eyes. He's got the 1000 meters stare.
+
+	He's hard and humorless, all wised up. Ace admires his LASER CUT TATTOOS.
+	Dizzy eyes his skull and crossbone earring.
+
+<b>				ACE
+</b>		Great scars.
+
+<b>				DIZZY
+</b>		I like the jewelry. Hey, amigo, where can
+		I get an earring like yours ?
+
+<b>				VETERAN
+</b>		Port Joe Smith, Outer Rings, Dantana...
+		Every time I come back from a drop, my
+		gunny gives me a bone. I got three now.
+		You don't see a lot of guys with three.
+
+<b>				JOHNNY
+</b>		Waht's it like... combat ?
+
+<b>				VETERAN
+</b>		I guess it's not so bad. I mean as 
+		long as you don't get any on you.
+
+<b>				KITTEN SMITH
+</b>		Get any what on you ?
+
+<b>				VETERAN
+</b>		Oh, you'll know when it happens.
+		See you on the bounce.
+
+	The veteran pays his tab and heads out.
+
+<b>				ACE
+</b>		I say we all go to the laser parlor
+		and get cut together.
+
+<b>				JOHNNY
+</b>		What do I want with a scar ?
+
+<b>				DIZZY
+</b>		What, your skin's too pretty ?
+		C'mon, everyone's doing it !
+
+<b>				CARMEN (V.O.)
+</b>		Hey	Johnny !	Johnny Rico !
+
+	Johnny looks up and sees Carmen. She lloks graet in uniform with 
+	the hat and the lieutenant's bars on her shoulders.
+
+<b>				JOHNNY
+</b>		Carmen... ?
+
+	Johnny remembers himself, snaps to attention, salutes. Dizzy and the others 
+	follow suit. Carmen salutes back, sheepish.
+
+<b>				CARMEN
+</b>		Oh... at ease. Guess I oughta lose the hat
+		when I'm off duty, eh ?
+
+	Dizzy, disgusted, turns back to Ace and Kitten Smith. Carmen tucks her hat
+	under her arm. Her hair is very short.
+<b>	
+</b><b>				JOHNNY
+</b>		What happened to your hair ?
+
+<b>				CARMEN
+</b>		What do you think ? Everyone did it when 
+		we got our wings. You don't like it, do you ?
+
+<b>				JOHNNY
+</b>		It's alright, I guess. You hear from anyone
+		made it out of B.A. alive ?
+
+	Carmen shakes her head, sadly.
+
+<b>				CARMEN
+</b>		It's funny. Sometimes I forget. Then it
+		hits me, and I can't stop crying.
+
+<b>				JOHNNY
+</b>		I try just to be happy I'm still alive.
+
+<b>				CARMEN
+</b>		You don't look very happy to see me.
+
+<b>				JOHNNY
+</b>		Should I be ?
+
+<b>				CARMEN
+</b>		Johnny... Life is so different from the 
+		way it was. One day you'll see what
+		I did was best for both of us.
+
+	Zander leaves a group of FLEET OFFICERS to join them.
+
+<b>				ZANDER
+</b>		Everything coposetic, Lieutenant ?
+
+<b>				CARMEN
+</b>		Zander, you remember Johnny ?
+		Zander and I are a flight team now.
+
+	Zander puts his arm around Carmen, gives her a squeeze.
+
+<b>				ZANDER
+</b>		Best in the Fleet !
+
+<b>				JOHNNY
+</b>		I get it. This is the part that's best
+		for both of us.
+		Don't do me anymore favors, eh ?
+
+	Johnny turns to leave.
+
+<b>				CARMEN
+</b>		Johnny, wait...
+
+<b>				ZANDER
+</b>		Forget it, Carmen. The Mobile Infantery
+		does a thankless, dirty job, so they 
+		naturally tend to be short-tempered,
+		thoughtless and rude.
+
+	Johnny turns back to face Zander.
+
+<b>				JOHNNY
+</b>		You got something to say about the
+		Mobile Infantery ?
+
+<b>				ZANDER
+</b>		You heard me. Wanna make something
+		out of it, private ?
+
+<b>				JOHNNY
+</b>		Not with an officer, no, sir.
+		The M.I. doesn't mint stupid cap
+		troopers.
+
+	Everyone can see what's about to happen. A circle is forming,
+	Fleet on one side, Mobile Infantery on the other.
+
+<b>				ZANDER
+</b>		Let's disregaed rank... Everybody hear
+		that ? Rank is not an issue here.
+
+<b>				CARMEN
+</b>		Zander, please... Let's go !
+
+	Zander takes off his hat.
+
+<b>				ZANDER
+</b>		It's alright. What's he gonna do ?
+
+	WHAM !	Johnny punches him right in the nose. Zander goes down,
+	bleeding. Ace and Kitten Smith grab Johnny.
+
+<b>				ACE
+</b>		Whoa, easy there, buddy... Nice punch.
+
+	Zander staggers to his feet, ready to fight, but Fleet Officers pull him
+	back. Carmen looks at Johnny, the hate in his eye, the blood on his fist.
+
+<b>				CARMEN
+</b>		What's wrong with you ?
+
+<b>				JOHNNY
+</b>		Hey, it's just a vestigal response to 
+		procreation... bitch.
+
+	Carmen turns away, stung. Johnny immediately regrets. Dizzy,
+	for her part, couldn't be happier.
+
+<b>				DIZZY
+</b>		Forget it, Johnny. Cap Troopers and
+		Fleet weren't meant to mix !
+
+<b>98	INT	LASER PARLOR - NIGHT CYCLE - JOHNNY
+</b><b>	
+</b>	grinds his teeth as a laser mounted on a robot arm finishes slicing an
+	intricate pattern into his arm.
+
+<b>				JOHNNY
+</b>		It hurts...!
+
+	Dizzy, Ace, and Kitten Smith awtch, grinning, passing a bottle.
+	Ace pours booze directly into the fresh wound.
+
+<b>				ACE
+</b>		No, this hurts.
+
+<b>				JOHNNY
+</b><b>		YAAAAAAAA !
+</b>
+<b>				KITTEN SMITH
+</b>		Well, here's to it ! We're gonna fightn, and
+		we're gonna win !
+
+	They put their arms side by side. Each has a similiar scar:
+	Lightning bolts on a shield and the words:	DEATH FROM ABOVE.
+
+<b>				ACE
+</b>		Mobile Infantery rules !
+
+<b>				JOHNNY
+</b>		Death to all bugs !
+
+<b>				DIZZY
+</b>		Don't get any on you !
+
+<b>99	EXT	KLENDATHU - FROM SPACE - FLEET STARSHIPS
+</b>
+	of every class maneuver in tight orbit around the orange planet.
+	The "Mobile Infantery Anthem" plays loke Holst, pounding and
+	relentless. The invasion has begun !
+
+<b>100	INT	BULL RUN - DROP ROOM - JOHNNY
+</b>
+	and his platoon, wearing fully armed MARAUDER POWER SUITS, 
+	wait to drop with other cap troopers. Their mood is grim.
+	LIEUTENANT WILLY, 35, easy-going and confident, enters.
+
+<b>				ACE
+</b>		Officer on deck !
+
+	Everyone snaps to attention.
+
+<b>				LT. WILLY
+</b>		At ease. Alright... we got hot poop straight
+		from the top:
+		Willy's Wildcats is in with the first wave.
+		Means more bugs for us to kill...
+
+	This does nothing to break the tension. Lt. Willy reassures.
+
+<b>				LT. WILLY
+</b>		Now if you follow orders and remember
+		your training, I guarantee you'll make it
+		back alive. Any questions ?
+
+	There are none.
+
+<b>				LT. WILLY
+</b>		Alright... next we got a little last minute
+		briefing from Military Intelli-gence I
+		think you're gonna like...
+
+	The briefingplays on "head up" displays and the ready room screens. A
+	captive BUG WARRIOR clicks and shrieks as FEDERAL SCIENTISTS
+	torture it. The troopers cheer.
+
+<b>				OFFICIAL VOICE
+</b>		Everyday Federal scientists are looking for
+		new ways to kill bugs and you can help...
+
+	The head scientists turns and speaks to camera. It's Carl.
+	Johnny and Dizzy share an amazed grin, noticing a difference in
+	their old friend, something that speaks of... authority.
+
+<b>				CARL
+</b>		To defeat the enemy, we must know the
+		enemy. Take for instance your basic
+		Arachnid warrior. Minimal IQ, armored, 
+		completely lethal. You can blow a limb off...
+
+	Carl picks up apulse gun and blows one of the bugs legs off.
+	The insect screams.
+
+<b>				CARL
+</b>		... and it's still 86% combat effec-tive.
+		But here's a tip: Aim for the nerve stem
+		and put it down for good.
+
+	Carl fires again. The bug kicks and squeals as it dies.
+	Carl tosses the pulse gun aside.
+
+<b>				CARL
+</b>		Now while you are out killing bugs,
+		we want you to be our eyes and ears.
+		The bugs use some kind of plasma burst
+		to divert meteors and aim them toward Earth.
+		We need to know how they do this. If you
+		encounter any plasma, report it immediately
+		to your superior. Good luck and good hunting !
+
+	The briefing ends as klaxons sound.
+
+<b>				P.A. (O.S.)
+</b>		This is the Captain speaking.
+		All personnel prepare for drop.We
+		are at D minus three and counting.
+
+<b>				LT. WILLY
+</b>		Move out !
+
+	Johnny and the other troopers climb into capsules on the port track.
+	Dizzy gives him "thumbs up". The capsule seals as it moves with 
+	the others down the firing tube.
+
+<b>101	INT	CAPSULE - JOHNNY
+</b>
+	gets the shakes as the capsule bumps and booms toward the firing
+	tube. Lt. Willy appears on the "head up" display.
+
+<b>				LT. WILLY
+</b>		Smash the entire area, kill anything that
+		has more'n a couple legs , and don't any
+		of you loafers come back aboard with
+		unexpended bombs. Get me ?
+
+<b>				JOHNNY ET AL
+</b>		Yes, sir !
+
+<b>				FIRE CONTROL (O.S.)
+</b>		Five seconds...
+
+	Sweat rolls down his face, hyperventilation... WHAM !
+
+<b>102	EXT	SPACE - KLENDATHU ORBIT - SILVER CAPSULES
+</b>
+	stream toward Klendathu from the rear tubes starships of Bull Run.
+	We move down the line past Mannerheim, Dauntless, George Marshall,
+	and Yamamoto to the Rodger Young.
+
+<b>103	INT	RODGER YOUNG - COMMAND AND CONTROL - CARMEN
+</b>
+	holds Rodger Young in tight maneuver. Suddenly, a burst of BLUE BUG PLASMA
+	rips past the starboard bow.
+
+<b>				CARMEN
+</b>		Plasma, ma'am... from the planet.
+
+<b>				DELADIER
+</b>		Bug Batteries... According to Military 
+		Intelligence, it'll be random and light.
+		Drop status ?
+
+<b>				ZANDER
+</b>		Drop is 35% complete, ma'am.
+
+	Two more bursts of bug plasma streak past.
+
+<b>				DELADIER
+</b>		Steady as she goes, Number 1.
+
+<b>104	EXT	KLENDATHU - HIGH ATMOSPERE - NIGHT - THE CAPSULES
+</b>
+	burn when they hit atmosphere, outer skin tearing away in big silver sheets.
+
+<b>105	INT	CAPSULE - NIGHT - JOHNNY
+</b>
+	takes in ENTRY DATA from the heads up display.
+
+<b>				GUIDANCE COMPUTER (V.O.)
+</b>		...surface in twenty-fivr seconds
+		...LZ has been identified
+		...beacon is in place...
+
+<b>106	INT	RODGER YOUNG - COMMAND AND CONTROL - CARMEN
+</b>
+	watches nervously as deadly bursts of bug plasma fill the heavens around the
+	battle group. Below, the surface of Klendathu fairly bistles with outgoing
+	defensive fire.
+
+<b>				DELADIER
+</b>		This isn't random or light.
+		Someone made amistake...!
+
+<b>				ZANDER
+</b>		That's it, we're empty ma'am !
+
+	Out the front screens, a blast from below hits George Marshall amidships
+	and it reels into Yamamoto. Both starships begin to burn.
+
+<b>				DELADIER
+</b>		Someone made a big goddam mistake !
+		Get us out of here, Number 1 !
+
+	Carmen dodges past burning ships, avoids collision with Dauntless,
+	and then KA-WHAM !	they're hit. Carmen flies out of her
+	station and into CAMERA hard.
+
+<b>107	EXT	KLENDATHU - CLOUD LAYER - NIGHT - THE SECOND SKIN
+</b>
+	tears away. Johnny is sitting on air.
+
+<b>				GUIDANCE COMPUTER (V.O.)
+</b>		...surface in fifteen seconds...
+		deploying chute now...
+
+	The chute pops. Across the sky, lit by outgoing bug plasma, he can see hundreds
+	of cap troopers in ordered rows drifting down into the cloud layer. 
+	It's quiet in the clouds, then:
+
+<b>108	EXT	KLENDATHU - NIGHT - FROM THE AIR - JOHNNY
+</b>
+	looks down as he passes out of the clouds and sees the battlefield.
+	Plasma blasts exploode into the sky. THOUSANDS OF BUGS boil
+	out of the ground to defend against the invader.
+
+<b>				GUIDANCE COMPUTER (V.O.)
+</b>		...surface in five... four ... three...
+
+	Johnny burns his chute off, drops the last hundred feet and lands 
+	on the bounce.
+
+<b>109	EXT	KLENDATHU - NIGHT - JOHNNY'S POV - THE FLASH PULSE
+</b><b>	
+</b>	of bug batteries, screaming voices on the com, concussions shaking the ground.
+	None of it compares to the sound of his own racing HEARTBEAT.
+	Lieutenant Willy shouts.
+
+<b>				LIEUTENANT WILLY
+</b>		Up there on the ridge ! We'll nuke those bug positions
+		from theAAAAAAAA !
+
+	A HOPPER (an airborne Arachnid warrior with powerful rear legs and "pop out"
+	wings for gliding) lands on Lieutenant Willy and cracks his head like a nut.
+
+<b>				ACE
+</b><b>		KILL IT !
+</b>
+	Johnny and Ace open fire, backing away. Pulse rounds tear it apart, bug guts
+	gushing.
+
+<b>				JOHNNY
+</b>		Lieutenant's bought the farm.
+		Where's the Sarge...?
+
+<b>				ACE
+</b>		I didn't see him !
+
+	Now comes a flood of WORKERS building ever advancing fortifications,
+	and with them, hundreds of deadly ARACHNID WARRIORS.
+
+<b>				KITTEN SMITH
+</b>		Here they come...!
+
+<b>				DIZZY
+</b>		Ace, what're we doing ?
+
+<b>				ACE
+</b>		I uh... uh...
+
+	Dizzy and the others open fire simultanously. The whole area goes white hot
+	in the magnesium flash of so many pulse cannons. Shujumi fires wildly at 
+	advancing insects.
+
+<b>				SHUJUMI
+</b>		You want some ? Here's some !
+<b>		C'MON !
+</b>
+<b>				JOHNNY
+</b>		Don't waste your ammon on the 
+		workers !
+
+	Shujumi can't hear. A warrior finds him, rips his leg off, hurls him back
+	into the waiting jaws of the oncoming bugs.
+
+<b>				SHUJUMI
+</b><b>		AAAAAAAAAAAA !
+</b>
+	He fights, screaming. A claw reaches for his face, ripping the top of his head off.
+
+<b>				KATRINA
+</b>		Let's get out of here !
+
+	Now the ground opens behind her and a huge (6 meters) TANKER BUG 
+	lumbers out of the ground, it's funnel-shaped snout extruding above
+	multiple eyes.
+
+<b>				DIZZY
+</b>		Look out !
+
+	The tanker bug sprays and hits Katrina. She screams, as her legs melt out
+	from under her.
+
+<b>				KATRINA
+</b><b>		AAAAAAAAAAAAA !
+</b>
+	Warriors converge to feed on her. Ace wants to help her, but Johnny blocks him.
+
+<b>				JOHNNY
+</b>		C'mon, Katrina was right. We 
+		gotta get out of here !
+
+<b>110	EXT	KLENDATHU - NIGHT - JOHNNY
+</b>
+	and the other survivors on the bounce. The entire surface of Klendathu seems
+	to be churning with insects as more and more bugs come to the surface to
+	repel the invasion.
+
+<b>				JOHNNY
+</b>		It's a general retreat ! The boats are
+		coming down.
+
+	They come to the rear lines where the Net Correspondent and his
+	CAMERAMAN are doing live coverage of the invasion.
+
+<b>				NET CORRESPONDENT
+</b>		We've just landed here on what cap troopers 
+		are calling the "Big K" with the 6th Mobile
+		Infantery Division. It's an ugly planet, a bug
+		planet, a planet hostile to life as we kow iGKKKKK !
+
+	The Correspondent is cut in half by a warrior. Johnny blows it away.
+
+<b>				JOHNNY
+</b>		C'mon, let's go ! ON THE BOUNCE !
+
+	The cap troopers move out. Kitten Smith looks up as a purple beacon
+	 streaks acroos thr sky.
+
+<b>				KITTEN SMITH
+</b>		I can see the beacon...!
+
+<b>				ACE
+</b>		Retrieval !
+
+	A hopper pounces on Kitten Smithm, and he goes down screaming.
+
+<b>				JOHNNY
+</b><b>		KITTEN !
+</b>
+	Johnny touches down, stares in horror as Kitten Smith's head rolls past his 
+	fee. Johnny opens up with his pulse cannon. The hopper attacks, puts a claw
+	right through Johnny's thigh.
+
+<b>				JOHNNY
+</b><b>		AAAAAAAAAAAAA !
+</b>
+	Crushing jaws close around him, crushing, cutting his flesh. Johnny brings the muzzle
+	of the pulse gun under the hopper's nerve stem and SPLAT !	blows its head apart.
+
+<b>				DIZZY
+</b>		Johnny !	JOHNNY !	WHERE ARE YOU ?
+		JOHNNY !	Johnny...!
+
+	But Dizzy can't find Johnny, and soon she's lost in the smoke. Johnny looks
+	down at the terrible hole in his leg where bright arterial blood gushes.
+
+<b>				JOHNNY
+</b>		Medic... MEDIC...!
+
+	Now two more Arachnid warriors close in on him through the enveloping
+	smoke. He fires his pulse rifle empty, and dropping it, crawls desperately,
+	dragging his useless leg.
+
+<b>				JOHNNY
+</b>		Oh, God... Oh, God, help me...
+		please help me...!
+
+	A third Arachnid warrior rears up in front of him, deadly jaws slashing down
+	toward him, when suddenly it is blown to pieces in the blinding blast of a
+	point-blank pulse cannon.
+
+<b>				VOICE (O.S.)
+</b>		Take my hand !
+
+	Johnny reaches out. A STEEL HAND takes his, dragging him back as bugs
+	attack. His rescuers's pulse cannon thunders overhead. Bug parts fly as 
+	insects swarm in for the kill.
+
+<b>								FADE OUT
+</b>
+<b>111	FROM THE FEDERAL NET - 100, 000 DEAD IN ONE HOUR !
+</b>
+	Actual pictures of the battlefield, man and insect lying dead together on the blood
+	drenched plains of Klendathu.
+
+<b>				OFFICIAL VOICE
+</b>		Crsisis for Humankind ! Fleet official 
+		admit they underestimated the 
+		Arachnid's defensive capability.
+		Would you like to know more ?
+
+<b>112	SKY MARSHALL RESIGNS !
+</b>
+Retiring Sky Marshall Dienes salutes incoming SKY MARSHALL TEHAT MERU, 75,
+	bfore a gathering of the Federal Council.
+
+<b>				OFFICIAL VOICE
+</b>		Accepting responsibility for Klendathu,
+		Sky Marshall Dienes resigns. His successor,
+		Sky Marshall Tahat Meru, outlines her new
+		strategy.
+
+<b>				SKY MARSHALL MERU
+</b>		Until we understand the bug better, we 
+		must proceed with caution...
+		We can ill afford another Klendathu.
+
+<b>113	SCIENTISTS SUSPECT MYSTERIOUS BRAIN BUGS !
+</b>
+	FEDERAL SCIENTISTS display an organizational chart of the 
+	Arachnid species topped by a QUESTION MARK.
+
+<b>				OFFICIAL VOICE
+</b>		To explain the intelligent military actions
+		of the Arachnids, Federal Scientists postulate
+		the existence of a leadership caste...BRAIN BUGS !
+
+<b>114	SOMETIMES LOVED ONES DIE FOR A GOOD REASON !
+</b>
+	Names scroll by designated KIA, WIA, and MIA accordingly.
+
+<b>				OFFICIAL VOICE
+</b>		Families oof those who have died or become
+		incapacitated by Federal Service are entitled 
+		to benefits ! If you see the name of a loved one,
+		please do not call. A Federation official will call
+		you. Would you like to know more ?
+
+<b>115	EXT	FLEET BATTLE STATION TICONDEROGA - THE RODGER YOUNG
+</b>
+	limps to port, a huge chunk ripped out of its mid-section. Although stable,
+	she flies inverted.
+
+<b>				CARMEN (O.S.)
+</b>		Ticonderoga, this is Rodger Young requesting
+		approach vector...
+
+<b>				TICONDEROGA C&amp;C (O.S.)
+</b>		Affirmative, Rodger Young...one zero zero 
+		niner five two... welcome back.
+
+<b>116	INT	RODGER YOUNG - COMMAND AND CONTROL - ZANDER AND
+</b><b>	CARMEN
+</b>
+	stare at the BATTLE-SCARED STARSHIPS and BURNT-OUT HULKS that line the 
+	docks of Ticonderoga.
+
+<b>				CARMEN
+</b>		You know, we're lucky to be alive.
+
+	A bloody bandage wraps Carmen's head. Zander nods grimly.
+
+<b>117	INT	RODGER YOUNG - GANGWAY - THE DEAD BODIES
+</b>
+	of CREWMEN and CAP TROOPERS are being off-loaded via conveyer belt.
+	Zander and Carmen make their way up the steep companionway beside the
+	ghastly conveyer belt.
+
+<b>				ZANDER
+</b>		Give me hand, willya ?
+
+	Carmen takes his hand. Zander kisses her.
+
+<b>				ZANDER
+</b>		I was thinking. Maybe we should get
+		married, Carmen.
+
+<b>				CARMEN
+</b>		You weren't thinking...you were dreaming !
+
+<b>				ZANDER
+</b>		If we're gonna be a team, why not be a
+		real team ?
+
+<b>				CARMEN
+</b>		There's a war on. I want a command,
+		I want my own ship, you do, too...
+
+<b>				ZANDER
+</b>		So ?
+
+<b>				CARMEN
+</b>		So who's got time to get married ?
+
+	Carmen lets his hand go and leaps through the hatch. Zander falls back 
+	onto the conveyer belt, finds himself eyeball-to-eyeball with a horribly
+	maimed trooper, scrambles to get off.
+
+<b>118	INT	BATTLE STATION TICONDEROGA - COMMON AREA - ZANDER
+</b>
+	joins Carmen in the crowded common area where dead bodies compete for space
+	with wounded awaiting triage. Survivors watch casualty lists scroll ba on a 
+	Federal Net terminal.
+
+<b>				ZANDER
+</b>		Fleet encourages marriages among flight
+		officers. You'd probably get a promotion
+		out of it.
+
+<b>				CARMEN
+</b>		Funny...
+
+<b>				ZANDER
+</b>		I'm not kidding. Marriage is -
+
+<b>				CARMEN
+</b>		No, funny there's almost no wounded at all.
+
+<b>				ZANDER
+</b>		Hey, bugs don't take prisoners.
+
+	Carmen looks at the words at the Net terminal: WOULD YOU LIKE TO KNOW 
+	MORE ? She bites her lip, enters Johnny's name. In an instant, she has the news:
+<b>	RICO, JOHN D. - KIA
+</b>
+<b>				CARMEN
+</b>		Oh no.
+
+	Tears fill her eyes.
+
+<b>				ZANDER
+</b>		Carmen...?
+
+<b>				CARMEN
+</b>		Excuse me...!
+
+	She rushes away. Zander looks at Johnny's name on the screen, shrugs, presses
+	the ERASE button.
+
+<b>119	INT	TICONDEROGA - CORRIDOR - ZANDER
+</b>
+	finds Carmen, sagging against a wall, weepimg.
+
+<b>				ZANDER
+</b>		I'm sorry, Carmen.
+
+<b>				CARMEN
+</b>		Please, I... Everybody's lost someone
+		by now. This shouldn't be any
+		different...
+
+	Zander puts an arm around her. She holds on tight.
+
+<b>				CARMEN
+</b>		No, I... Oh, Zander, I'm a fool.
+
+<b>				ZANDER
+</b>		You're upset, that's alright.
+
+	Zander kisses her hair. Tears roll down her face.
+
+<b>				CARMEN
+</b>		No, don't you see ? No one can wait for
+		anything anymore... You're right...
+		We should get married...
+
+	Zander holds Carmen as she sobs, feeling lucky.
+
+<b>							DISSOLVE TO:
+</b>
+<b>	120	INT	STASIS TANK - DAY CYCLE - JOHNNY'S BODY
+</b>
+	floats, suspended in fluid, mouth hanging open, his skin white as death.
+	A low underwater KNOCKING wakes him. He opens his eyes and sees
+	Ace and Dizzy outside the tank.
+
+	Ace holds up a KIA list, pointing at Johnny's name, laughing: Rico, John V - KIA.
+	Their voices are distant and garbled. Dizzy cups her hands against the side of the
+	tank.
+
+<b>				DIZZY
+</b>		Two more days.
+
+	Johnny's wounds are now mostly scars except for his leg where delicate robotic
+	arms culture layers of new tissue. Johnny gives a weak thumbs up. The knocking
+	sound continues.
+
+	Johnny turns. A STEEL HAND taps the side of the tank. Johnny grins, astonished.
+	The man wearing it is his former high school teacher, now a Lieutenant, Jean Rasczak.
+
+<b>121	EXT	SPACE - AQZ - A BATTLE GROUP
+</b>
+	consisting of STARSHIPS, their tender, FREIGHTERS and other SUPPLY CRAFT.
+
+<b>122	INT	TROOP TRANSPORT - M.I. QUARTERS - JOHNNY
+</b>
+	stows his gear along with Ace and Dizzy. Acroos the room, a collection of
+	battle-hardened vets check out the newcomers.
+
+<b>				ACE
+</b>		Dizzy says you two knew this Rasczak
+		character in Buenos Aires...
+
+<b>				JOHNNY
+</b>		He was our teacher...
+		He was great.
+
+<b>				ACE
+</b>		Yeah, well, I hear he's a real
+		nutbuster.
+
+<b>				DIZZY
+</b>		The Roughnecks killed more bugs than
+		any other outfit in 2nd Brigade...
+		Only took 15% casualties on Big K.
+
+	They size up the Roughnecks. There are scars, power prosthetics, and one,
+	big SUGAR WATKINS, 26, wears a bug claw on a chain around his neck.
+
+<b>				JOHNNY
+</b>		Seeing as how we're about all that's
+		left of  1st Brigade, you'd have to call
+		that an improvement.
+			(to Sugar Watkins)
+		You top kick ?
+
+<b>				SUGAR WATKINS
+</b>		Are you kidding ? They always get killed.
+		You want the job ?
+
+<b>				JOHNNY
+</b>		I wouldn't mind.
+
+	CORPORAL BIRDIE, 24, turns, gives Johnny the once over.
+
+<b>				BIRDIE
+</b>		I would. Nice earring.
+
+	Dizzy looks her over. Not too big, but she's tough.
+
+<b>				DIZZY
+</b>		Where you been besides Big K ?
+
+<b>				BIRDIE
+</b>		Outer rings. Zegema Beach.
+
+<b>				JOHNNY
+</b>		I always wanted to go to Zegema Beach.
+
+<b>				SUGAR WATKINS
+</b>		Good luck. It's not there anymore.
+
+<b>				ACE
+</b>		Is your Lieutenant as bad as they say ?
+
+	Birdie belts him, and Ace goes down.
+
+<b>				BIRDIE
+</b>		No one talks about the Lieutenant that way.
+		He saved my life !
+
+	Ace jumps up, ready to fight, but other Roughnecks block him.
+
+<b>				SUGAR WATKINS
+</b>		Mine, too.
+
+<b>				OTHER ROUGHNECKS
+</b>		Same for me... me, too...
+
+	Johnny and Dizzy shrug. Ace's on his own.
+
+<b>				ACE
+</b>		Sounds like he is quite a guy.
+<b>	
+</b>	SERGEANT GILLESPIE, 28, steps into the room.
+
+<b>				GILLESPIE
+</b>		Attention !
+
+	Everyone snaps to. Rasczak enters.
+
+<b>				RASCZAK
+</b>		This is for you new people. I only 
+		have two rules. Rule one, everyone
+		fights. Rule two, no one quits.
+		If you don't do your job, I'll kill you
+		myself. Do you get me ?
+
+<b>				JOHNNY, DIZZY AND ACE
+</b>		We get you, sir !
+
+	He points at Johnny's earring with his steel hand.
+
+<b>				RASCZAK
+</b>		Get rid of the jewelry. I hate it.
+		Welcome to the Roughnecks.
+
+<b>				BIRDIE
+</b>		Rasczak's Roughnecks !
+
+	The Roughnecks cheer. Rasczak smiles vaguely.
+
+<b>				RASCZAK
+</b>		Alright. There's a new Sky Marshall and
+		a new plan. We're gonna clean out the
+		systems outlying Klendathu one planet
+		at a time. Tomorrow we hit Tango Urilla.
+		After Fleet glasses the planet, M.I. mops up.
+
+<b>123	EXT	TANGO URILLA - DAY - BUG WARRIORS
+</b>
+	stand sentry on earthworks that tower the entrance to their colony where an
+	endless line of WORKERS enter bearing foodstuff appropriate to this exotic
+	jungle planet.
+
+	A distant sound. A warrior looks up, curious. Suddenly a FORMATION OF TAC 
+	FIGHTERS screams down from high orbit and a white hot nuclear firestorm burns
+	consumes the landscape.
+
+	Bugs scream as they twist and kick in the wall of flame. Heat melts the dirt into 
+	dark glass. Ash turns the sky red. The out of the smoke come Rasczak and his
+	Roughnecks.
+
+<b>				RASCZAK
+</b>		Spread out, teams of three. When you 
+		locate a bug hole, secure it, gas it,
+		and close it.
+
+<b>124	EXT	TANGO URILLA - FLATS - DAY - TAC FIGHTERS
+</b>
+	streak by overhead. On the ground, Johnny, Dizzy and Ace are on the bounce.
+	Ace spots a bug hole where workers and warrors have broken through the
+	glassed surface.
+
+<b>				ACE
+</b>		There.
+
+	Rockets take out warriors. Bug guts go flying. Dizzy sets workers on fire.
+	Johnnx and Ace step over burning bug carcasses to the rim of the hole and
+	fire their gas rounds.
+
+<b>				JOHNNY
+</b>		Fire in the hole !
+
+	Johnny drops an H.E. round, and they're in the air when the explosion collapses
+	the entrance to the bug city.
+
+<b>				BIRDIE (O.S.)
+</b>		You new guys over there...
+		WE could use some help...
+
+<b>125	EXT	TANGO URILLA - MOUNTAINS - BUGS
+</b>
+	boil out of the ground. Birdie, Sugar Watkins and other Roughnecks are about to be 
+	overrun when Johnny touches down wuth Ace and Dizzy.
+
+<b>				JOHNNY
+</b>		Looks like you've got a little bug
+		problem, ma'am...
+
+<b>				BIRDIE
+</b>		Stow it, trooper. Give it verything
+		you've got !
+
+	The cao troopers let the bugs have it, but the insects keep coming, the living
+	crawling over the dead, and now, trudging up out of the ground, comes a
+<b>	TANKER BUG.
+</b>
+<b>				JOHNNY
+</b><b>		WATCH OUT !
+</b>
+	The tanker bug starts to spray, creating a toxic perimeter around the hole.
+	Rasczak arrives just as Birdie takes a chemical hit, falling to ground minus
+	an arm, screaming.
+
+<b>				BIRDIE
+</b><b>		AAAAAAAAAAAAA !
+</b>
+	Johnny jumps, landing behind the tanker bug in the mouth of the hole. It turns 
+	with surprising speed. Johnny flips up onto its back, cracks its armor with his
+	pulse cannon.
+
+<b>				RASCZAK
+</b>		Sugar, in for pick up !
+
+	Rasczak and Sugar Watkins pull Birdie to safety. Johnny fires a rocket into 
+	the hole he's made in the tanker bug's back, and jumps clear. KA-WHAP !
+	The big bug explodes.
+
+<b>				RASCZAK
+</b>		Gas that hole and close it !
+
+	The Roughnecks fire gas rockets into the bug hole. Johnny touches down
+	beside Rasczak.
+
+<b>				RASCZAK
+</b>		Where'd you learn to do that, soldier ?
+
+<b>				JOHNNY
+</b>		Uni High Tigers, sir. Don't you
+		remember ? I was captain of the
+		team.
+
+<b>				RASCZAK
+</b>		I'm not interested in nostalgia, Rico,
+		I need a corporal. You're it until you're
+		dead or I find someone better.
+
+	Rasczak turns away, gives Birdie prosthetic thumps up as she is carried past
+	to meet an arriving skimmer.
+
+<b>				RASCZAK
+</b>		Don't worry, Birdie, your next arm comes
+		with a factory guarantee !
+
+	Dizzy and Ace gather around Johnny, clap him on the back.
+
+<b>				DIZZY
+</b>		Way to go, amigo !
+
+<b>				JOHNNY
+</b>		I'm gonna need a squad leader.
+
+<b>				ACE
+</b>		No way. Big K taught me I ain't executive 
+		material.
+
+<b>				JOHNNY
+</b>		What about it, Diz ?
+
+<b>				DIZZY
+</b>			(a snappy salute)
+		Looks like I'm your girl, sir.
+
+	Tac Fighters reel by over head. WOMP ! Suddenly, BUG PLASMA shoots skyward
+	from the flatlands below. Several Tac Fighters are blown out of the air.
+	Flaming debris rains down.
+
+<b>				RASCZAK
+</b>		Saddle up, Roughnecks. That's
+		our trash !
+
+	Roughnecks head out on the bounce.
+
+<b>126	EXT	TANGO URILLA - RIDGE - DAY - JOHNNY
+</b>
+	and the others look down a sheer cliff on the bug battery, a charred circular
+	pit some ten meters across. Inside, something is moving.
+
+<b>				JOHNNY
+</b>		What kind of stinkin' bug is that ?
+
+	Johnny jumps the magnification on his "head up". Down in the pit, a giant
+	translucent PLASMA BUG rears out of one of the subterranean tunnels
+	that ring the battery.
+
+<b>				SUGAR WATKINS
+</b>		You never seen how they do it before ?
+
+	Johnny shakes his head. Swollen BREEDER BUGS gather around the 
+	plasma bug to inject it with their catalytic jelly.
+
+<b>				ACE
+</b>		Agghh ! It's making me sick...!
+
+	The plasma bug writhes in pain and begins to swell, color changing from
+	yellow to blue in accordance with some violent internal chemical reaction.
+
+<b>				SUGAR WATKINS
+</b>		It's gonna pop !
+
+	WOMP ! The plasma bug explodes in its cauldron. A blast of bug plasma
+	streaks past them towards the heavens. Now a new plasma bug crawls into
+	the pit to begin the cycle anew.
+
+<b>				GILLESPIE
+</b>		Sir, look !
+
+	Sergeant Gillespie points. A hole opens near the battery and dozens of warriors
+	rampage out of the ground and up the cliff face toward the Roughneck position.
+
+<b>				RASCZAK
+</b>		We must be right over the colony.
+		Let's get some air support, eh ?
+
+<b>				GILLESPIE
+</b>		Yes, sir ! Fleet, this is Roughneck
+		patrol, over ...?
+
+	Rasczak moves off down the line giving orders.
+
+<b>				RASCZAK
+</b>		Corporal, I want pulse cannons there
+		and there ! Rifle teams, spread out
+		along the ridge ! Sugar, bring up that
+		flame thrower !
+
+<b>				GILLESPIE
+</b>		Fleet's pulling the battle group back
+		to safe distance... They'd like us to
+		knock out those batteries, sir.
+
+<b>				RASCZAK
+</b>		They'd rather spend our lives than
+		risk their ships. Who's got the nuke ?
+
+<b>				DIZZY
+</b>		That'd be me, sir.
+
+<b>				RASCZAK
+</b>		Heat it up.
+
+	Dizzy activates a tactical nuke. It makes a distinctive HIGHPITCHED SQUEAL.
+
+<b>				RASCZAK
+</b>		Roughnecks, you may fire at will.
+
+	The Roughnecks open fire. Bugs are blown to pieces but they keep climbing. A 
+	warrior breeches their line. Sugar Watkins torches it. The nuke's ready light flashes.
+
+<b>				DIZZY
+</b>		I'm hot, sir !
+
+<b>				RASCZAK
+</b><b>		FIRE ! BLAST SHIELDS DOWN !
+</b>
+	Johnny blows a warrior away from the edge. Dizzy leans over and fires. The rocket 
+	streaks down toward the battery.
+
+<b>				RASCZAK
+</b><b>		HIT THE DIRT !
+</b>
+	An explosion in the two kiloton range turns the world black and white. When color
+	returns Johnny and the others look down on the smoldering crater which was once the 
+	bug battery.
+
+<b>				GILLESPIE
+</b>		Now comes the part I hate the most.
+
+<b>				JOHNNY
+</b>		What's that ?
+
+<b>				GILLESPIE
+</b>		We go down into the colony and make
+		sure all the queens are dead.
+
+<b>127	INT	TUNNELS - DAY - THE ROUGHNECKS
+</b>
+	fight their way down gassed-out tunnels into bug city. They meet warrors at
+	every turn and kill them. Helmet lamps make weird shadows of dead bugs 
+	piled everywhere along the way.
+
+<b>				SUGAR WATKINS
+</b>		You knew the Lieutenant before the war...
+		What was he like ?
+
+<b>				JOHNNY
+</b>		He was a teacher , kind of a know it all...
+		Always had this little smile.
+<b>	
+</b><b>				SUGAR WATKINS
+</b>		Geez, I don't think I've ever seen him 
+		smile.
+
+<b>				JOHNNY
+</b>		Must fill your bottle up real quick
+		when your wife and kids get smeared.
+
+	Johnny joins Rasczak, Ace and Dizzy and they blow away several warriors
+	guarding the entrance of a large chamber.
+
+<b>128	INT	BUG NURSERY - DAY - THE QUEENS
+</b>
+	are eight meters long with corpulent bodies and tiny heads. Only one survives,
+	and though she is herself dying, her abdomen, rippled by life within, continues to
+	undulate.
+
+<b>				JOHNNY
+</b>		All dead except one, sir.
+
+<b>				RASCZAK
+</b>		Kill the bitch.
+
+<b>				JOHNNY
+</b>		Yes, sir.
+
+	Johnny signals. Dizzy's pulse cannon rips open the dying queen. Thousands of
+	wriggling premature bugs come spilling out. Horrified, knee-deep Roughnecks
+	set them afire.
+
+<b>129	EXT	TANGO URILLA - BASE CAMP - DAY - FLEET ENGINEERS
+</b>
+	unload PRE-FAB BARRACKS from HERCULES CARGO BOATS. 
+	Roughnecks eat. Rasczak stands, banging a spoon on his mess kit.
+
+<b>				RASCZAK
+</b>		Tango Urilla is now bug free. Means
+		the Roughnecks have killed  a
+		helluva lotta bugs...!
+
+	Roughnecks cheer. Rasczak kicks open a CARGO MODULE. Beer kegs
+	rool out. He kicks open a second module. Inside, musical instruments.
+	Ace picks up a violin.
+
+<b>				RASCZAK
+</b>		I expect the best, but I give the best.
+		Habve some fun. That's an order !
+
+<b>130	EXT	BASE CAMP - NIGHT - LATER - ACE
+</b>
+	leads a little quartet, plays a sweet fiddle. Roughnecks laugh and dance.
+	Dizzy tries to pull Johnny into the fun.
+
+<b>				DIZZY
+</b>		C'mon...
+
+<b>				JOHNNY
+</b>		Nah, I don't do that anymore...
+
+<b>				DIZZY
+</b>		You used to dance...
+
+<b>				JOHNNY
+</b>		I said no. Want me to pull rank ?
+
+<b>				DIZZY
+</b>		Well, excuse me, sir...
+
+	Dizzy heads back to the others. Johnny turns and finds Rasczak regarding him 
+	with an odd, sad smile.
+
+<b>				RASCZAK
+</b>		Yopu asked me some advice once, Rico.
+		Want some now ?
+
+<b>				JOHNNY
+</b>		Yes, sir...
+
+<b>				RASCZAK
+</b>		Never pass up a good thing, eh ?
+
+	Gillespie appears.
+
+<b>				GILLESPIE
+</b>		Lieutenant, Brigade's on the com...
+
+	Rasczak heads away. Johnny joins Dizzy.
+
+<b>				JOHNNY
+</b>		Hey, Diz...
+
+<b>				DIZZY
+</b>		What ?
+
+	Johnny takes her hand, bows implishly.
+
+<b>				JOHNNY
+</b>		May I have the honor ?
+
+	He pulls her out among the others and they begin to dance. Ace watches
+	with a grin, puts some spirit in his fiddle.
+
+<b>131	INT	COMMUNICATIONS - NIGHT - RASCZAK
+</b>
+	is in holo conference with an INTELLIGENCE OFFICER
+
+<b>				INTELLIGENCE OFFICER
+</b>		At 0821 we received a distress call from 
+		Planet P, priority code, requesting
+		reinforcement...
+
+<b>				RASCZAK
+</b>		I thought 4th brigade cleaned out P. 
+
+<b>				INTELLIGENCE OFFICER
+</b>		Owen reported the eradication of a low
+		generation colony a month ago. That's why 
+		MICOM wants onsite assessment.
+
+<b>				RASCZAK
+</b>		Sounds more like some idiot at
+		Military Intelligence Command
+		wants to get me and my cap troopers 
+		killed...
+
+	The Intelligence Officer reddens.
+
+<b>				INTELLIGENCE OFFICER
+</b>		Take your group down to P and have a 
+		look see. Leave the thinking to us,
+		Lieutenant. That's not your job.
+
+<b>				RASCZAK
+</b>		My job is to protect the lives of my
+		soldiers so they can kill bugs, Major,
+		and if you're walking me into a trap-
+
+<b>				INTELLIGENCE OFFICER
+</b>		Bugs don't lay traps... They aren't
+		intelligent ! Unlike you, they're stupid
+		enough to follow orders !
+
+<b>				VOICE (O.S.)
+</b>		That'll be all, Major. Dismissed.
+
+	The Intelligence Officer disappears abruptly. A new hologram appears.
+	Rasczak's jaw drops. It's his former student Carl Jenkins, now a Colonel,
+	weary and pissed off.
+
+<b>				CARL
+</b>		This conference is over. Do your duty,
+		Lieutenant. That's an order.
+
+	Rasczak recovers, salutes stiffly.
+
+<b>				RASCZAK
+</b>		Yes, sir.
+
+<b>132	INT	PRE-FAB SLEEPING UNIT - DAY - JOHNNY AND DIZZY
+</b>
+	are making love. The door pops open. Rasczak stands there. Dizzy ducks under
+	the covers. Johnny manages a salute.
+
+<b>				RASCZAK
+</b>		Corporal, the Roughnecks are moving
+		out for Planet P immediately. Get
+		yourself squared away and report to
+		Gillespie for logistics.
+
+<b>				JOHNNY
+</b>		Yes, sir !
+
+<b>				RASCZAK
+</b>		Who's that with you ?
+
+	Dizzy shows herself, grinning.
+
+<b>				RASCZAK
+</b>		Report in ten minutes.
+
+	Rasczak slams the door shut on them. They fall back into one anothers arms,
+	laughing as they resume lovemaking.
+
+<b>				DIZZY
+</b>		Planet P ? What kind of name is that ?
+
+<b>				JOHNNY
+</b>		They ran out of names a long time
+		ago in this part of the galaxy.
+
+<b>133	EXT	PLANET P - BAD LANDS - DAY - THE ROUGHNECKS
+</b>
+	move through canyons of towering wind-carved rock formations.
+	Gillespie carries the communications package.
+
+<b>				GILLESPIE
+</b>		I don't understand it, Lieutenant.
+		It's not getting anything from 4th
+		Brigade...
+		not even their transponder.
+
+<b>				RASCZAK
+</b>		Keep trying, Sergeant.
+
+<b>134	EXT	CANYON FLOOR - CONTINUING - DAY - THE ROUGHNECKS
+</b>
+	walk in a column far below. Something is watching from the above... HOPPERS,
+	lots of them, moving from rock to rock for better position.
+
+<b>135	EXT	CANYON FLOOR - CONTINUING - DAY - ACE
+</b><b>	
+</b>	sees something out of the corner of his eye.
+
+<b>				JOHNNY
+</b><b>		BUGS...!
+</b>
+	The hoppers hit. Several Roughnecks go down. Everyone opens up. 
+	Dive-bombing bugs are blown to bits. Roughnecks set them on fire 
+	when they hit the ground.
+
+<b>				DIZZY
+</b>		Johnny, watch out !
+
+	A burning bug hurls itself at Johnny. Johnny jumps out of the way as
+	Dizzy fires, blowing it apart. The deadly hoppers seem to be everywhere
+	above them in the rocks.
+
+<b>				RASCZAK
+</b><b>		LET'S GO ! ON THE BOUNCE !
+</b>
+<b>136	EXT	FLAT LANDS - DAY - THE ROUGHNECKS
+</b>
+	move out into the open. In the distance they see 4th Brigade HQ, a walled 
+	compound and partially constructed landing pad.
+
+<b>				RASCZAK
+</b>		Gillespie, put in call for retrieval.
+		We're off this rock.
+		Gillespie, do you read me ?
+
+<b>				GILLESPIE
+</b><b>		AAAAAAAAAAA !
+</b>
+	Two hoppers are pulling Gillespie up into the rocks where other bugs
+	join to feast.
+
+<b>				RASCZAK
+</b>		Throw a rifle !
+
+	Dizzy tosses her Morita to Rasczak. Gillespie writhes in the hopper's
+	claws. Rasczak fires, killing Gillespie.
+
+<b>				RASCZAK
+</b>		I expext any one here to do the same
+		for me... Rico, Watkins, Flores, Levy
+		prepare for rear guard action. The rest
+		of you make for 4th Brigade.
+
+	Johnny and the others cover the Roughneck retreat as hoppers soar down
+	on the flat lands from the canyon walls.
+
+<b>				RASCZAK
+</b><b>		FIRE...!
+</b>
+	Johnny and the others blast bugs out of the air.
+
+<b>				RASCZAK
+</b><b>		FALL BACK 100 METERS...!
+</b>
+	A second wave of hoppers come in.
+
+<b>				RASCZAK
+</b><b>		AND FIRE...!
+</b>
+	For now, the sky is clear.
+
+<b>				RASCZAK
+</b><b>		4TH BRIGADE HQ ! ON THE BOUNCE !
+</b>
+<b>137	EXT	4TH BRIGADE HQ - DAY - THE OUTPOST
+</b>
+	is 50 meters by 100, standard issue pre-fab. The Roughnecks land on the
+	compound wall. Inside, WORKER BUGS graze on the remains of 200
+	dead cap troopers strewn over the complex.
+
+<b>				RASCZAK
+</b>		Jeez, Command really humped the bunk
+		on this one...
+
+	Rasczak turns away. Roughnecks engage in the sport of methodically
+	killing the workers.
+
+<b>				RASCZAK
+</b>		Rico, you're acting Sergeant now.
+		My last Sergeant lost the com pack.
+		Put together a search team and find
+		the radio shack.
+		We need retrieval.
+
+<b>				JOHNNY
+</b>		Yes, sir.
+
+<b>138	INT	4TH BRIGADE HQ - OFFICE COMPLEX - DAY - JOHNNY
+</b>
+	surveys the aftermath of the last stand with Rasczak, insect and human dead
+	everywhere.
+
+<b>				DIZZY (O.S.)
+</b>		It's here, sir.
+
+<b>139	INT	COMMINICATIONS - DAY - RASCZAK AND JOHNNY
+</b>
+	enter the radio room. A DEAD MAJOR is slumped over the console with
+	hole in the back of his head. Johnny checks the equipment. 
+	It' dead, too.
+
+<b>				JOHNNY
+</b>		Diz, see what you can do.
+
+<b>				DIZZY
+</b>		I'm on it !
+
+	Dizzy goes to work. Rasczak checks the wound in the back of the dead major's
+	head.
+
+<b>				RASCZAK
+</b>		What's that look like to you, Rico ?
+
+<b>				JOHNNY
+</b>		Looks like a bug was in his brain, sir.
+
+<b>				ACE (O.S.)
+</b>		Lieutenant, I think you're gonna
+		wanna see this, sir.
+
+<b>140	INT	MESS HALL - DAY - A BUG HOLE
+</b>
+	in the middle of the floor is surrounded by carnage.
+
+<b>				ACE
+</b>		Dirty bugs came in right when they 
+		were having chow !
+
+<b>				RASCZAK
+</b>		Gas that hole and seal it.
+
+	Then they hear a sound. Tap tap tap. Rasczak signals for quiet. Tap tap tap tap.
+	It's coming from the kitchen.
+
+<b>141	INT	KITCHEN - DAY - THE ROUGHNECKS
+</b>
+	enter cautiously. The noise is coming from a freezer. Ace stands ready to fire.
+	Johnny levers open the door, jumps back as GENERAL OWEN, 60, tumbles out
+	face first.
+
+<b>				ACE
+</b>		Officer on the deck, sir.
+
+<b>				RASCZAK
+</b>		Pick up the general !
+
+	Roughnecks prop him up. General Owen tries to talk, but no words come out.
+	Rasczak bends down to listen.
+
+<b>				GENERAL OWEN
+</b>		Get out... you gotta get me out...!
+
+<b>				RASCZAK
+</b>		General Owen, sir ?
+
+	The old man grins, hugely relieved.
+
+<b>				GENERAL OWEN
+</b>		At ease, Lieutenant. Thank God for you,
+		for all of you...this is grand...
+		so where's the boat ?
+
+<b>142	INT	COMMUNICATIONS - HALLWAY - DAY - JOHNNY AND RASCZAK
+</b>
+	help the old General, now wrapped in a blanket, rambling.
+
+<b>				GENERAL OWEN
+</b>		I was forced to hide, of course. The security
+		of the Federation in this theater of operations
+		was at stake !
+
+<b>				JOHNNY
+</b>		Diz, what's with the uplink ?
+
+	Dizzy lokks up from where she is working on the radio controls.
+
+<b>				DIZZY
+</b>		Workin on it...!
+
+<b>				GENERAL OWEN
+</b>		They get in your mind... they make you do
+		things ! Look here... They did it to Farley...!
+
+	He points at the hole of the dead major's head.
+
+<b>				RASCZAK
+</b>		The distress call... The bugs wanted us 
+		to rescue you...!
+
+<b>				GENERAL OWEN
+</b>		Oh, you can be sure of it ! They were
+		biding their time... waiting for the most
+		opportune moment !
+
+	Rasczak's lost interest in the general. He's on the com.
+
+<b>				RASCZAK
+</b>		To all Roughnecks, this is Rasczak.
+		Prepare for attack. Repeat. We are
+		going to be attacked...!
+
+<b>				GENERAL OWEN
+</b>		They weren't gonna do it to me.
+		Oh no ! I know too many secrets !
+
+	Rasczak looks at General Owen with contempt.
+
+<b>				SUGAR WATKINS (O.S.)
+</b>		Fire in the hole !
+
+	An explosion in the mess hall closes the bug hole.
+
+<b>143	EXT	OFFICE COMPLEX - DAY - GENERAL OWEN
+</b>
+	blinks as he steps out into the light. Roughnecks snap to attention. 
+	General Owen looks at the carnage that was once his command and
+	begins to keen, collapsing to his knees.
+
+<b>				GENERAL OWEN
+</b>		Oh God...! My soldiers...! All of my
+		boys and girls...!
+
+	The Roughnecks are shocked. They've never seen a general break down before.
+	Lieutenant Rasczak slaps Owen hard.
+
+<b>				LT. RASCZAK
+</b>		Shut up ! Your soldier's dead and
+		you're not !
+
+<b>				GENERAL OWEN
+</b>		I know... I wish you'd shoot me...
+
+<b>				LT. RASCZAK
+</b>		I oughta !
+
+	And it looks like Rasczak just might, but just then Ace touches down
+	next to Johnny and Rasczak.
+
+<b>				ACE
+</b>		Lieutenant, we got trouble !
+
+<b>144	EXT	RAMPARTS - DAY - RASCZAK
+</b>
+	and Johnny join other stunned Roughnecks to see THOUSANDS OF BUGS on
+	the march from every direction. Bug batteries open up in the distance.
+
+<b>				RASCZAK
+</b>		Warm it all up ! Everything you got !
+		Levy, collect the big guns from the 
+		towers. Watkins, put General Owen 
+		with the wounded. Rico, where's my 
+		communications ?
+
+<b>				JOHNNY
+</b>		What's going on, Diz ?
+
+<b>				DIZZY (O.S.)
+</b>		I got power ! Gimme a minute !
+
+	Johnny runs for the communications room.
+
+<b>				JOHNNY
+</b>		We don't have a minute !
+
+<b>145	INT	COMMUNICATIONS - DAY - DIZZY
+</b>
+	has the board up. Outside the battle has begun. Nukes go WOMP ! and
+	pulse guns chatter.
+
+<b>				DIZZY
+</b>			What frequency ?
+
+<b>				JOHNNY
+</b>			All bands.
+
+<b>				DIZZY
+</b>			Roughneck patrol to battle group...
+			Roughneck patrol to battle group...
+
+<b>				RODGER YOUNG (O.S.)
+</b>			This is Rodger Young... What's going
+			on down there ? We're taking plasma !
+			We have Orion P-11 as clear !
+
+<b>				JOHNNY
+</b>			SHUT UP, SIR ! We need pick up now !
+
+<b>				RODGER YOUNG (O.S.)
+</b>			What is your position ?
+
+<b>				JOHNNY
+</b>			Landing zone is extremely hostile.
+			Come down on this transmission !
+
+<b>				RODGER YOUNG (O.S.)
+</b>			Inside 4th brigade compound ?
+			That's crazy !
+
+<b>				JOHNNY
+</b>			Then I hope you have a crazy 
+			pilot ! Keep the line open, Dizzy !
+
+	Johnny races out the door.
+
+<b>146	EXT	4TH BRIGADE HQ - DAY - THE COMPOUND
+</b>
+	is white hot as Roughnecks on the walls unload nukes. Johnny crosses 
+	the compound, lands next to Rasczak on the wall.
+
+<b>				JOHNNY
+</b>		Boat coming down, sir !
+
+	The Roughnecks stop firing as they run out of nukes.
+
+<b>				ROUGHNECKS
+</b>		I'm empty...all nuked out... Me, too !
+
+	Johnny scans the battlefield. Nukes have turned the surface into dark glass.
+	Now, out of the smoke, come the bugs, steaming glass cracking beneath 
+	millions of marching feet.
+
+<b>				ACE
+</b>		Jeez, we musta killed a million already...!
+
+<b>				JOHNNY
+</b>		Not enough, I guess.
+
+	Sugar Watkins sees Genera Owen in the compound below,
+	stumbling aimlessly among his dead soldiers.
+
+<b>				SUGAR WATKINS
+</b>		General ! GENERAL, stay with the wounded...
+		Sir, the general...!
+
+<b>				RASCZAK
+</b>		Ah, the hell with him...
+
+	Hoppers sweep into the compound. The Roughnecks open fire. General Owen
+	make easy pickings for ones that get through.
+
+<b>				RASCZAK
+</b>		Fall back... form a circle ! If no 
+		living bug comes over that wall,
+		we cannot be harmed.
+
+	Dizzy arrives on thr bounce as the Roughnecks fall back into the compound.
+	Bugs pile in over the walls. The circle affords them 360 degrees of kill zone.
+
+<b>				RASCZAK
+</b>		Rico, Flores, Watkins, Levy ! We 
+		control the sky until retrieval !
+
+<b>				JOHNNY ET AL
+</b>		Yes, sir !
+
+	Rasczak, Sugar Watkins, Johnny and Dizzy stand back-to-back in the center
+	of the circle, sweeping the skies with the heavy guns from the towers.
+	Hoppers are blown to pieces.
+
+<b>				ACE
+</b>		Getting low here, sir !
+
+<b>				DIZZY
+</b>		300 rounds and counting, sir !
+
+<b>				RASCZAK
+</b>		Make every shot count !
+
+	Johnny looks up. A RETRIEVAL BOAT hurtles down through bursts of 
+	bug plasma, takes a grazing hit, rights itself with retros and lands within 
+	the circle. Roughnecks cheer, saved !
+
+<b>				RASCZAK
+</b>		Sergeant, secure the boat !
+
+<b>				JOHNNY
+</b>		Yes, sir !
+
+	Roughnecks move to protect the boat. The hatch blows open.
+
+<b>				RASCZAK
+</b>		Board the wounded !
+
+	Dead bugs ring the compound walls, forming ramps for living insect
+	soldiers to enter the compound in greater numbers.
+
+<b>				RASCZAK
+</b>		Move to retrieval on my command !
+		First group, now...!
+
+	The circle shrinks as Roughnecks fall back and board the boat.
+	More and more bugs pile in over the compound walls.
+
+<b>				RASCZAK
+</b>		Alright, Flores ! Levy ! Rico...!
+
+	Suddenly, the ground collapses under Rasczak. He falls in to his waist,
+	vomits blood as something chews on him from below.
+
+<b>				RASCZAK
+</b><b>		AAAAAAAAAAAA !
+</b>
+<b>				JOHNNY
+</b>		Cover us, Ace !
+
+	Ace and the others fire from the boat. Johnny and Dizzy fire at the ground
+	around Rasczak. Rasczak stops screaming. They try to pull him free.
+
+<b>				JOHNNY
+</b>		Hit your jets, sir !
+
+<b>				RASCZAK
+</b>		I can't My legs are gone...
+		Get on the boat...
+
+	The compund wall collapses. A wave of bugs charges in.
+
+<b>				RASCZAK
+</b>		Rico, tell'em to glass this goddam planet.
+		I've never seen so many bugs upstairs at
+		the same time...
+
+<b>				JOHNNY
+</b>		We're not leaving you here, sir !
+
+	Weakly, Rasczak picks up his pulse gun, checks the power.
+
+<b>				RASCZAK
+</b>		This is my farm. Get on the boat,
+		NOW ! That's an order, Sergeant.
+
+<b>				JOHNNY
+</b>		Give'em hell, sir !
+
+	Johnny and Dizzy run for the boat. Rasczak opens fire, picking his shots,
+	but soon the bugs are all over him.
+
+<b>				RASCZAK
+</b>		C'mon you sons of bitches !
+		There's no bug alive can kill a
+		real mAAAAAAA !
+
+	At the boat, Dizzy turns to look back at Rasczak. A hopper swoops
+	down on Dizzy, it's claws ripping into her abdomen.
+
+<b>				DIZZY
+</b><b>		AAAAAAA ! GET IT OFF ME 
+</b><b>		GET IT OFF GET IT OFF 
+</b><b>		GET IT AAAAAAAAAA !
+</b>
+	Johnny blows the bug off her back. Blood sprays from a deep gash in 
+	her neck. Johnny picks her up, tries to stop the blood with his hand.
+	The life is leaving her eyes.
+
+<b>				JOHNNY
+</b>		Hang on, Diz... don't die on me...
+
+	A TANKER BUG breaches the broken wall. Ace jumps out to help his
+	friends. The hatch closes just as the tanker bug sprays. The boat blasts
+	off, dripping metal.
+
+<b>147	INT	CARGO BAY - DAY - JOHNNY
+</b>
+	holds Dizzy in his arms, drenched in her blood, fighting G-forces as the 
+	boats heads for orbit.
+
+<b>				DIZZY
+</b>		I bought the farm, didn't I,
+		Johnny ?
+
+<b>				JOHNNY
+</b>		No, you're gonna be alright, Diz !
+
+<b>				DIZZY
+</b>		It's alright 'cause I got to have you,
+		Johnny...
+
+	MEDICS push Johnny aside, go to work on Dizzy.
+
+<b>148	INT	BOAT - COCKPIT - DAY - JOHNNY
+</b>
+	slams into the cockpit. Out the front screen, violent bursts of BUG PLASMA
+	fill the sky as they break atmosphere.
+
+<b>				JOHNNY
+</b>		Get on the com and tell Fleet to
+		glass that rock...!
+
+	The co-pilot turns around. It's Zander. His eyes narrow.
+
+<b>				ZANDER
+</b>		On whose authority, Corporal ?
+
+<b>				JOHNNY
+</b>		This would be mine, sir. Acting 
+		Sergeant John Rico. I've assumed
+		command on this mission.
+
+	The pilot turns around. It's Carmen.
+
+<b>				CARMEN
+</b>		Johnny...! I thought you were dead !
+
+<b>				JOHNNY
+</b>		I'm not, but alot of my soldiers are.
+		Glass the planet !
+
+	Johnny leaves. Carmen punches up Fleet Command.
+
+<b>				CARMEN
+</b>		Rodger Young, this is inbound shuttle
+		De Ruyter with an official request from
+		the Mobile Infantery to bombard
+		Planet P-11...
+
+<b>149	INT	BOAT - CARGO BAY - DAY - JOHNNY
+</b><b>	
+</b>	returns to Dizzy's side as the medics struggle to save her. Blood pours
+	out of her mouth. Her body thrashes.
+
+<b>				DIZZY
+</b><b>		JOHNNY HEH HEH CAN'T HEH
+</b><b>		BREATHE GOD JOHNNY CAN'T
+</b><b>		HEH HEH HEH HEH...!
+</b>
+	Dizzy dies. A Medic slaps her. Her head lolls, mouth open, eyes blank.
+	They drop her and move on to the next casualty. Johnny sits there,
+	stunned. Carmen enters from the cockpit.
+
+<b>				CARMEN
+</b>		Negative on your request. Fleet 
+		Command has the battle group 
+		on standby...
+
+		Carmen sees Dizzy lying dead on the deck.
+
+<b>				CARMEN
+</b>		...I'm sorry.
+
+<b>				JOHNNY
+</b>		We gotta choke on the mud and the
+		blood and Fleet can't be bothered to
+		spit.
+
+<b>				CARMEN
+</b>		No, I think something's up. The Sky
+		Marshall's here.
+
+	She points out for a viewing port. Johnny looks. Fifteen battle groups, 
+	100 ships strong, lay off Planet P, all of them dwarfed by the Sky
+	Marshall's flagship, Buenos Aires.
+
+<b>				CARMEN
+</b>		I thought you were KIA, Johnny...
+
+<b>				JOHNNY
+</b>		That was just a mix up.
+
+<b>				CARMEN
+</b>		You look so... I don't know, you 
+		look like you've really been in it.
+
+<b>				JOHNNY
+</b>		What happened to your eye ?
+
+	Carmen touches the scar over her eye.
+
+<b>				CARMEN
+</b>		Almost got knocked out of the sky 
+		over Big K.
+
+<b>				JOHNNY
+</b>		I like it. It's kinda...you.
+
+<b>150	EXT	BATTLE GROUP - ORION SYSTEM - THE BOAT
+</b>
+	lands on the flight deck of the Rodger Young in the midst of the 
+	flotilla.
+
+<b>151	INT	OFFICERS QUARTERS - DAY CYCLE - ZANDER
+</b>
+	enters, watches Carmen dress. She hums as she checks herself in the
+	mirror, touches thr scar over her eye, smiles.
+
+<b>				ZANDER
+</b>		Where are you going ?
+
+<b>				CARMEN
+</b>		A funeral.
+
+<b>				ZANDER
+</b>		That girl who died on the way up
+		...his girl ?
+
+<b>				CARMEN
+</b>		Yeah.
+
+<b>				ZANDER
+</b>		How do you feel about him now ?
+
+<b>				CARMEN
+</b>		I don't know, Zander.
+
+<b>				ZANDER
+</b>		I do.
+
+<b>152	INT	RODGER YOUNG - GUNNERY DECK - CARMEN
+</b>
+	enters as Johnny speaks. Dizzy is laid out in dress gray. The surviving
+	Roughnecks have gathered to pay final respects.
+
+<b>				JOHNNY
+</b>		Dizzy bought the farm. She was my
+		good friend, and friens are the best 
+		luck anyone gets... But in war, we must
+		go on without our friends. We take
+		with us their memory, and we are left
+		to wonder if there is meaning in their
+		death. Let me tell you what it is:
+		Dizzy bough the farm so we can keep
+		on fighting.
+
+	Several INTELLIGENCE OFFICERS march into the bay.
+
+<b>				JOHNNY
+</b>		Officer on deck !
+
+	Everyone snaps to attention. Colonel Carl Jenkins strides into the room.
+	His eyes are hollow, and he looks grim. He returns Johnny's salute, 
+	nods to Carmen.
+
+<b>				CARL
+</b>		Please continue, Sergeant.
+
+<b>				JOHNNY
+</b>		Dizzy wouldn't want our tears. She'd
+		want us to remember her... with a
+		vengeance. So go out and kill a bug 
+		for Dizzy. Kill as many as you can.
+		You are her revenge, and every bug 
+		you kill honors her death.
+
+	Johnny nods to the GUNNERY CREW. They load Dizzy's body into a
+	tube. Johnny steps back, salutes Dizzy. Everyone salutes.
+
+<b>				JOHNNY
+</b>		Womb to tomb, cap trooper !
+
+<b>				ROUGHNECKS
+</b>		Womb to tomb !
+
+	The CREW CHIEF fires the tube. Out the viewports, A PULSE OF LIGHT 
+	disperses into space. The Roughnecks file out. Carl approaches.
+	Carmen takes Johnny and Carl by the hand.
+
+<b>				CARMEN
+</b>		Well, look at this. The three of us back
+		together again.
+
+<b>				JOHNNY
+</b>		How are you, Carl ?
+
+<b>				CARL
+</b>		Johnny, I'm sorry it had to be your
+		unit on Planet P. That mission had
+		a very low survival probability...
+
+<b>				JOHNNY
+</b>		Bugs laid a trap, didn't they ?
+
+<b>				CARL
+</b>		Elegant proof of intelligence, 
+		isn't it ? We thought there might
+		be a brain on P.
+
+<b>				CARMEN
+</b>		You knew and you sent them
+		anyway ?
+
+<b>				CARL
+</b>		A colony has to reach a certain size
+		before it produces a Brain... we think
+		300 generations. Woulda too expensive
+		to launch an operation if there wasn't a
+		Brain...
+
+	Carl sees the way Carmen is looking at him, like he's a bug.
+
+<b>				CARL
+</b>		You don't approve. Well, too bad.
+		We're in this for the species, boys
+		and girls. It's simple numbers, they
+		have more, and everyday I have to
+		make decisions that send hundreds of
+		people like you to their deaths.
+
+<b>				JOHNNY
+</b>		Didn't they tell you, Colonel ?
+		That's what cap troopres are good
+		for.
+
+	Carl allows himself a tiny smile.
+
+<b>				CARL
+</b>		Hope you're ready for more. We're
+		going back to P to capture that Brain.
+
+<b>				JOHNNY
+</b>		The Roughnecks are always ready, sir.
+
+<b>				CARL
+</b>		I hear they need a new Lieutenant...
+		Want the job ?
+
+<b>				JOHNNY
+</b>		I'll take it... until I get killed
+		or you find someone better.
+
+	KLAXONS sound. Suddenly, everyone has someplace to go.
+
+<b>				CARMEN
+</b>		Hope you get your Brain Bug, Carl.
+
+<b>				CARL
+</b>		It's good to see you two. It reminds
+		me of the way things were before...
+
+	Carl turns abruptly and heads away. His entourage follows.
+
+<b>				CARMEN
+</b>		Take care, wilya Johnny ?
+
+<b>				JOHNNY
+</b>		See you on the bounce !
+
+<b>153	INT	RODGER YOUNG - COMMAND &amp; CONTROL - CARMEN
+</b>
+	steps onto the bridge. There's a new NUMBER 2 sitting in Zander's chair.
+	She's right out of Tereshkova, and she looks scared. 
+	Carmen turns to Captain Deladier.
+
+<b>				CARMEN
+</b>		Where's Lieutenant Barcalow ?
+
+<b>				DELADIER
+</b>		He requested a combat assignment.
+		There's always a need for experienced
+		pilots on the ground.
+		I had no choice but to let him go...
+		He said you'd understand.
+
+	Carmen bites her lip, takes first chair. Deladier feels bad for her, knows
+	she's made a painful decision.
+
+<b>154	INT	RODGER YOUNG - DROP ROOM - ROUGHNECKS
+</b>
+	are suiting up. Ace enters.
+
+<b>				ACE
+</b>		Officer on the deck !
+
+	Roughnecks fall in. Johnny steps into the room. There are many new and
+	much younger faces.
+
+<b>				JOHNNY
+</b>		I only have two rules. Rule one,
+		everyone fights. Rule two, no one
+		quits. If you don't do your job,
+		I'll kill you myself.
+		Do you get me ?
+
+<b>				ROUGHNECKS
+</b>		We get you, sir !
+
+<b>				JOHNNY
+</b>			(to Ace, sotto voce)
+		Who're all these kids ?
+
+<b>				ACE
+</b>		We got reinforced. Most of'em
+		just got outa boot...
+
+<b>				JOHNNY
+</b>		We're the old men, Ace.
+
+<b>155	EXT	PLANET P - 4TH BRIGADE HQ - DAY - CARGO SHIPS
+</b>
+	have landed. Cap troopers set fire to huge piles of dead bugs. BULLDOZERS
+	push bodies into a mass grave, among them Rasczak. 
+	Johnny walks past with his team.
+
+<b>				JOHNNY
+</b>		We'll take this high ground. Lookouts
+		there and therte and up there. If the
+		bugs come upstairs in this neighbor-hood,
+		we'll be the first to know.
+
+<b>				ACE
+</b>		Got it. Fleet tactical wants to know
+		where they can deploy the skimmers.
+
+<b>				JOHNNY
+</b>		Down there on the flats, eh ?
+		Listen up, Roughnecks ! Our
+		primary objective is to assist
+		our friends from the Fleet...
+
+	Roughnecks boo.
+
+<b>				JOHNNY
+</b>		Alright, cut it out. We will deploy
+		from skimmers in teams of six.
+		If the bugs open up a battery,
+		we put it out of business.
+		Any questions ?
+
+	A HERCULES CARGO BOAT hurtles out of the sky and lands on the high
+	ground Johnny has intended forb his H.Q. Johnny scowls, marches over
+	to the boat and confronts a FLEET OFFICER.
+
+<b>				JOHNNY
+</b>		Would'ya mind moving your boat ?
+
+<b>				FLEET OFFICER
+</b>		Better talk to the boss.
+
+	The cargo bays open to deploy FLEET SKIMMERS. Zander jumps down
+	to oversee the operation.
+
+<b>				JOHNNY
+</b>		You're standing on my H.Q., 
+		Lieutenant !
+
+<b>				ZANDER 
+</b>		This is a Fleet-driven operation, son,
+		and the Fleet thinks my boat will be 
+		safer on the high ground.
+		You can have everything else, eh ?
+
+<b>				JOHNNY
+</b>		You heard the Sky Marshall...
+		Move it all down -
+
+	Suddenly, in the distance, bug batteries open fire, not one but twenty.
+	Zander and Johnny share a look of concern.
+
+<b>				ZANDER
+</b>		Rodger Young, prepare to receice 
+		outgoing fire...!
+			(to his crew chief)
+		I'll take the first group.
+
+<b>				JOHNNY
+</b>		Saddle up, boys, that's our trash !
+
+<b>156	EXT	SPACE - PLANET P ORBIT - BUG PLASMA
+</b>
+	begins to take a toll on the battle group as the orbiting ships lay their eggs.
+	Cap Troopers are scliced as they drop.
+
+<b>157	EXT	RODGER YOUNG - BRIDGE - CAPTAIN DELADIER
+</b>
+	turns to Carmen.
+
+<b>				DELADIER
+</b>		Evasive action !
+
+	Carmen dodges other starships, turns to her new number 2.
+
+<b>				CARMEN
+</b>		Prepare for warp !
+
+<b>				NEW NUMBER 2
+</b>		Yes, ma'am ! Warp in 5... 4...
+<b>		3...!
+</b>
+	KA-WHAM ! The Rodger Young takes a direct hit.
+
+<b>158	EXT	RODGER YOUNG - PLANET P ORBIT - THE RODGER YOUNG
+</b>
+	is cut in two. The rear section explodes, the forward section begins to burn towards
+	the bridge.
+
+<b>159	INT	RODGER YOUNG - BRIDGE - CAPTAIN DELADIER
+</b>
+	calmy evacuates the bridge. Power fails and so does the gravity.
+
+<b>				CARMEN
+</b>		This is Rodger Young, we're going
+		down... Repeat, this is Rodger Young,
+		we're going down...!
+
+<b>				DELADIER
+</b>		Ibanez...LET'S GO !
+
+<b>160	INT	RODGER YOUNG - ESCAPE CORRIDOR - CARMEN
+</b>
+	and Captain Deladier run for the lifepods. An explosion flips the corridor.
+	Captain Deladier's leg is crushed when an airlock closes on her.
+
+<b>				DELADIER
+</b><b>		AAAAAAAAAAA !
+</b>
+	Carmen hits the release, pulls her free. Deladier pushes Carmen away.
+
+<b>				DELADIER
+</b>		Leave me, Lieutenant ! That's an order !
+
+<b>				CARMEN
+</b>		No way, ma'am !
+
+<b>161	INT	RODGER YOUNG - LIFE POD BAY - CARMEN
+</b>
+	pushes into the chaotic life pod bay. PANICKED CREW shoving, screaming,
+	fighting. The ship pitches. They tumble, landing near a pod. Carmen jumps
+	for it, pulls Deladier in after.
+
+<b>162	EXT	RODGER YOUNG - PLANET P ORBIT - THE RODGER YOUNG
+</b>
+	disintegrates as lifepods shoot away toward the planet.
+
+<b>163	INT	LIFEPOD - PLANET P ORBIT - CARMEN
+</b>
+	navigates through a graveyard of floating wreckage, dead cap troopers,
+	someone's trombone. She sets her beacon and the pod plummets 
+	downward.
+
+<b>				CARMEN
+</b>		Mayday, mayday ! This is 
+		Lieutenant Carmen Ibanez in 
+		lifepod RY63... I'm going in...
+
+<b>164	EXT	PLANET P - BASE CAMP - DAY - ROUGHNECKS
+</b>
+	board the Skimmers. Zander approaches Johnny, upset.
+
+<b>				JOHNNY
+</b>		What's your problem now,
+		Lieutenant ?
+
+<b>				ZANDER 
+</b>		The Rodger Young just burned up...
+
+	Johnny's face falls.
+
+<b>				JOHNNY
+</b>		Any survivors ?
+
+	Zander points. Far in the distance, a glowing pod plummets toward the planet.
+	Johnny tracks it on his "head up".
+
+<b>165	INT	LIFEPOD - ATMOSPHERE - DAY - CARMEN
+</b>
+	is shaken violently as the pod hits atmosphere.
+
+<b>166	EXT	PLANET P - DAY - CARMEN'S POD
+</b>
+	hits and goes straight through the crust of Planet P.
+
+<b>167	INT	BUG CITY TUNNELS - DAY - THE POD
+</b>
+	comes to rest. Carmen blows the hatch, pulls Deladier out, grabs a Morita
+	pulse rifle. Tunnels lead in every direction.
+
+<b>				CARMEN
+</b>		This is Lieutenant Carmen Ibanez.
+		Is anyone receiving ?
+
+<b>168	EXT	BASE CAMP - DAY - JOHNNY
+</b>
+	grabs the handset from Ace.
+
+<b>				JOHNNY (O.S.)
+</b>		Affirmative ! Carmen, this is Roughneck
+		base camp... What is your present 
+		location ?
+
+<b>169	INT	BUG CITY TUNNELS - DAY - CARMEN
+</b>
+	sees a warrior coming at her from out of the shadows. Carmen fires a burst
+	and kills it. Now there are two. Carmen backs up firing, but there are 
+	too many.
+
+<b>				CARMEN
+</b>		My present location is 42 degrees 
+		South by 176 degrees East...
+		situation is extremely hostile...
+<b>		I...AAAAAAAAA !
+</b><b>	
+</b>	They have her. She puts the barrel of the Morita in her mouth, but a claw 
+	cut her trigger finger off at the knuckle.
+
+<b>170	EXT	PLANET P - ROUGHNECK BASE CAMP - DAY - JOHNNY
+</b>
+	and Zander are horrified by what they hear.
+
+<b>				CARMEN (O.S.)
+</b><b>		AAAAAAAAAAAAAA !
+</b>
+<b>				JOHNNY
+</b>		We've gotta go get her !
+
+<b>				ZANDER
+</b>		You know as well as I do she's
+		probably already dead.
+
+	Johnny knows it's true, swallows bitterly, turns away. That's when he sees it. 
+	Nearby, the ground shifts, a claw breaks through, a hole opens up and bugs
+	boil up out of the ground.
+
+<b>				SUGAR WATKINS
+</b>		Here they come !
+
+	They turn and see a second bug hole open up.
+
+<b>				JOHNNY
+</b>		We're outa here. Lieutenant, get
+		your men into the skimmers. This
+		real estate's about to go buggy.
+
+<b>				ZANDER
+</b>		Hey, just calm down, I'm giving
+		the orders here-
+
+	The entire area underneath the base camp collapses to form a huge new
+	canyon. The Hercules boat topples, crushing Skimmers and unfortunate
+	Fleet personnnel.
+
+<b>171	EXT	NEW CANYON - DAY - JOHNNY
+</b>
+	and the surviving Roughnecks pick themselves up. The are now 30 meters
+	below the planet's surface. Above them, bugs line the wide rim of the
+	newly formed canyon.
+
+<b>				JOHNNY
+</b>		Form a perimeter !
+
+	Through the dust, exposed bug tunnels can be seen in the canyon walls and
+	piling out of them by the score, deadly Arachnid warriors. Johnny throws
+	Zander a pulse cannon.
+
+<b>				JOHNNY
+</b>		Make yourself useful, fly boy...
+<b>		PREPARE TO REPEL BUGS !
+</b>
+	The Roughnecks open fire at the charging bug horde. Warriors are blown to 
+	pieces. Gas grenades fly and H.E. rounds close tunnels. A maimed warrior 
+	gets through and heads for Zander.
+
+<b>				ZANDER
+</b><b>		AAAAAAAAAAA !
+</b>
+	Johnny and Ace team up to blow it away. Zander takes a deep breath,
+	loos around, impressed. The Roughnecks have killed a great many bugs.
+
+<b>				JOHNNY
+</b>		Ace, get on the com. Tell Fleet we
+		need retrieval... Sugar, salvage some
+		armor and suit up Lieutenant Barcalow.
+
+	Sugar Watkins tosses a bloody jump boot his way.
+
+<b>				ZANDER
+</b>		Thanks.
+
+<b>				ACE
+</b>		Fleet Command says retrieval's no go.
+		The battle group's at safe distance...
+		and we got another problem.
+
+	Ace points out a Tanker bug that's been brough up to the rim. 
+	Johnny sees another.
+
+<b>				JOHNNY
+</b>		Looks like they're gonna hose us down...
+
+	Johnny chews on this.
+
+<b>				JOHNNY
+</b>		Alright... Listen up, Roughnecks.
+		We're gonna head west down through
+		bug city, pick up any Rodger Young 
+		survivors we run across, and join A
+		Company. Get me ?
+
+<b>				ROUGHNECKS
+</b>		We get you, sir !
+
+	Zander, awkward in a power suit, confronts Johnny.
+
+<b>				ZANDER
+</b>		What do you think you're doing ?
+
+<b>				JOHNNY
+</b>		I'm gonna save Carmen.
+
+<b>				ZANDER
+</b>		That would mean a comlete disregard
+		for the mission objective. They hang
+		you for that, Rico.
+
+<b>				JOHNNY
+</b>		Yeah, that's right.
+
+	Johnny and Zander stare each other down.
+
+<b>				ZANDER
+</b>		Let's go.
+<b>		
+</b><b>				JOHNNY
+</b>		Move out.
+
+	Johnny starts for the gaping mouth of an exposed bug tunnel and
+	the others fall in behind him.
+
+<b>				ACE
+</b>		Bug hunt !
+
+<b>				ROUGHNECKS
+</b><b>		BUG HUNT !
+</b>
+<b>172	INT	TUNNEL - DAY - JOHNNY
+</b>
+	leads his deadly force through enemy territory. The Roughnecks kill
+	everything that gets in their way. Zander lends his inexperienced hand.
+
+<b>				JOHNNY
+</b>		Mr. Barcalow, save power, don't
+		waste it on workers...
+		Ace, tell Aardvark we're on our
+		way...
+
+<b>				ACE
+</b>		Yes, sir !
+
+	Warriors appear in the tunnel behind them.
+
+<b>				JOHNNY
+</b>		Sugar, close the tunnel...!
+
+<b>				SUGAR
+</b>		Fire in the hole !
+
+	Sugar Watkins fires an H.E. round and seals the tunnel.
+
+<b>173	INT	BUG CITY - FEEDING PIT - DAY - CARMEN
+</b>
+	opens her eyes. She can hear BUGS CLICKING. She's in a pit filled 
+	with human dead. A nearby carcass wears a uniform from 4th Brigade
+	Off in the dark she hears HUMAN MOANING.
+
+	She crawls over rotting corpses toward the sound. The moaning turns
+	to SCREAMING. It's coming from outside the pit. She pulls herself
+	up to peer over the edge. 
+
+<b>174	INT	BUG CITY - THE ROYAL COURT - DAY - CARMEN
+</b>
+	sees hundred of bugs at work, WARRIORS, WORKERS and dozens of 
+	small (2 meters) CHARIOT BUGS. Aworker walks pas, stepping on her,
+	but pays her no attention.
+
+	She sees the source of the screaming:	Captain Deladier is hold
+	between two warriors, and she's screaming because of what she sees,
+
+<b>				DELADIER
+</b><b>		NAAAAAAAA...! OH PLEASE...
+</b>
+	The BRAIN BUG is huge (5 meters) and pulpy. I has vestigial legs that
+	cannot support ist weight, and so it must be moved by a shifting carpet of
+	chariot bugs.
+
+<b>				DELADIER
+</b><b>		...OH GOD AAAAAAAAAAAAA...!
+</b>
+	A thorn-like PALP unfolds out of the brain bug and strikes, driving deep into
+	Deladier's head and sucks her brains out.
+
+<b>				DELADIER
+</b><b>		AAAAAAAAAAAAAAA !
+</b>
+	Carmen watches horrified as Deladier dies. The suddenly a warrior grabs her
+	from above and drags her out of the pit. She screams as its claws slice into 
+	her limbs.
+
+<b>				CARMEN
+</b><b>		AAAAAAAAAAAAAA !
+</b>
+	Now the brain bug comes for her. She sees the palp unfold, the thorn-like
+	spike coming toward her. Carmen is no longer looking for escape.
+	All she wants to do is die.
+
+	Suddenly, every bug in the chamber stops as though to listen. Carmen hears it.
+	A HIGH-PITCHED SQUEAL, getting louder. 
+	Johnny enters the chamber alone.
+
+	The warriors move toward him. He holds up a NUKE, source of the high-pitched
+	tone. The ready light flashes. The Brain Bug emits a series of harsh clicks.
+	The warriors freeze.
+
+<b>				JOHNNY
+</b>		You know what this is...?
+
+	Johnny makes an explosive sound. The Brain Bug slowly withdraws its palp.
+
+<b>				JOHNNY
+</b>		Sure you do... You're a big fat smart
+		bug, aren't you ?
+
+	Johnny moves toward Carmen. The Brain Bug's multiple eyes track him.
+	The warriors holding Carmen threaten. Johnny turns on the brain bug, 
+	his finger on the nuke's trigger. 
+
+<b>				JOHNNY
+</b>		I'll take you with me.
+
+	The Brain Bug clicks. The warriors back off. Carmen collapses.
+	Johnny reaches for her.
+
+<b>				JOHNNY
+</b>		Take my hand !
+
+	Chariot bugs move the Brain Bug down a hole. Workers seal the hole
+	behind it with amazing speed. Johnny drags Carmen back toward the 
+	tunnel he entered from. The warriors charge.
+
+<b>				JOHNNY
+</b>		Roughnecks...NOW !
+
+	Johnny throws himself on top of Carmen as the Roughnecks burst into
+	the chamber, guns blazing. The fight is furious, point blank, deadly to
+	bug and Roughneck alike. 
+
+	Sugar Watkins screams as a warrior rips his arm off. Zander takes a
+	claw through the gut.
+
+<b>				ZANDER
+</b><b>		AAAAAAAAAAAAA !
+</b>
+	He blows it away, sees his intestines hanging out of the wound, shoves
+	them back inside and keeps on fighting. A warrior rears up over Johnny
+	and Carmen.
+
+<b>				JOHNNY
+</b>		Weapon !
+
+	Ace throws him a Morita. Johnny catches it, pumps three rounds into the 
+	bug's nerve stem. He struggles out from under the dead warrior.
+	Every bug in the chamber is dead.
+
+<b>				JOHNNY
+</b>		Are you hurt ?
+
+	Carmen throws her arms around Johnny.
+
+<b>				CARMEN
+</b>		Johnny...!
+
+	Zander takes this in. Carmen sees him, then his wound.
+
+<b>				CARMEN
+</b>		Zander...! Oh, you're hurt.
+
+	Ace takes a look at his wound, makes a face.
+
+<b>				ACE
+</b>		Ah geez...
+
+	Zander pushes him away, struggles to his feet.
+
+<b>				JOHNNY
+</b>		Can you walk ?
+
+<b>				ZANDER
+</b>			(clenched teeth)
+		Not a problem.
+
+<b>				JOHNNY
+</b>		Let's get some armor on her, and
+		the we'll get outa this stinkin 
+		bug hole !
+
+	Various components are gladly passed forward. Johnny and Ace 
+	help her putting it on.
+
+<b>				CARMEN
+</b>		I thought I was dead. Lucky for
+		me you jokers showed up, eh ?
+
+<b>				ZANDER
+</b>		It wasn't luck. Rico ignored the
+		mission objective to rescue you...
+
+<b>				CARMEN
+</b>		Is it true ?
+
+<b>				JOHNNY
+</b>		Yeah, if I live through this, 
+		they'll probably hang me.
+		Now com'on, let's move out !
+
+<b>175	INT	BUG CITY TUNNELS - DAY - THE ROUGHNECKS
+</b>
+	double-time it, racing for the surface. They come to a fork.
+
+<b>				CARMEN
+</b>		Which way ?
+
+<b>				JOHNNY
+</b>		Up. We gotta be near A Company 
+		by now.
+
+	The tunnel floor drops out. FIVE ROUGHNECKS disappear into the hole.
+	WARRIORS climb up into the tunnel.
+
+<b>				JOHNNY
+</b><b>		FALL BACK !
+</b>
+	The Roughnecks bachk up fast, shooting. Zander staggers, collapses.
+	Johnny drops to his side, rolls him over.
+
+<b>				JOHNNY
+</b>		How bad are you, pal ?
+
+<b>				ZANDER
+</b>		Been better, buddy.
+
+	Johnny sees warriors coming up into the tunnel by the score.
+
+<b>				JOHNNY
+</b>		Alright, we're gonna carry you...
+
+<b>				ZANDER
+</b>		Nah, I figureyou folks oughta get 
+		upstairs before it's too late...
+		Gimmee the nuke.
+
+	Zander checks his pulse cannon's available power.
+
+<b>				JOHNNY
+</b>		Don't be a hero...
+
+<b>				ZANDER
+</b>		This is my farm. Now c'mon, give
+		me what you got and get out of
+		here...
+
+	Johnny nods, hands him the nuke. Carmen sees what's happening.
+
+<b>				CARMEN
+</b>		Zander, what are you doing ?
+
+<b>				ZANDER
+</b>		Just giving you something to
+		remember me by, baby.
+
+<b>				CARMEN
+</b>		Zander, no...!
+
+	He grabs her and kisses her. Johnny drags Carmen away. Zander opens 
+	fire as the first warriors reach his position.
+
+<b>176	INT	BUG CITY - INCLINED TUNNEL - DAY - JOHNNY AND CARMEN
+</b>
+	race desperately for the surface. They hear the chatter of Zander's pulse cannon
+	and the screams of dying bugs.
+
+<b>				JOHNNY
+</b><b>		GO.GO GO GO GO...!
+</b>
+	Tears stream down from Carmen's face.
+
+<b>177	EXT	PLANET P - DAY - JOHNNY AND CARMEN
+</b>
+	and the surviving Roughnecks make it to the surface. 	WOMP !
+	A subterrenean nuclear explosion blows a column of earth and stone
+	into the air.
+
+<b>178	EXT	PLANET P - A COMPANY BASE CAMP - JOHNNY
+</b>
+	and the others enter A Company's perimeter. No one notices their arrival
+	because everyone's gathered in a big circle watching the Brain Bug.
+
+<b>				CARMEN
+</b>		Look... they got it.
+
+	Several of its delicate legs were apparently broken during the capture.
+	Carl approaches it without fear, puts his hand on the thing.
+
+<b>				GENERAL
+</b>		What's it thinking, Colonel ?
+
+	Carl smiles in a cruel way.
+
+<b>				CARL
+</b>		It's afraid.
+
+	Johnny and Carmen approach the General.
+
+<b>				JOHNNY
+</b>		Sir, I'd like to turn myself in.
+		Dereliction of duty by an officer
+		during wartime.
+
+<b>				GENERAL
+</b>		And you freely admit to it ?
+
+<b>				JOHNNY
+</b>		Yes, sir.
+
+<b>				GENERAL
+</b>		Is what this man says true,
+		Lieutenant ?
+
+<b>				CARMEN
+</b>		To the best of my understanding,
+		i</pre><br/>
+<table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
+<tr>
+<td align="center">
+</td><td><h1>Starship Troopers</h1><br/><br/>
+<b>Writers</b> :   <a href="/writer.php?w=Robert A. Heinlein" title="Scripts by Robert A. Heinlein">Robert A. Heinlein</a>  <a href="/writer.php?w=Edward Neumeier" title="Scripts by Edward Neumeier">Edward Neumeier</a><br/>
+<b>Genres</b> :   <a href="/genre/Sci-Fi" title="Sci-Fi Scripts">Sci-Fi</a>  <a href="/genre/Action" title="Action Scripts">Action</a><br/><br/><br/>
+<a href="http://www.imsdb.com/Movie Scripts/Starship Troopers Script.html#comments" title="Starship Troopers comments">User Comments</a>
+</td>
+</tr></table>
+<br/><br/>
+<div align="center">
+<a href="http://www.imsdb.com" title="Internet Movie Script Database"><img alt="Internet Movie Script Database" border="1" src="http://www.imsdb.com/images/lilbutton.gif" style="border: 1px solid black;"/><br/>
+Back to IMSDb</a>
+</div><br/>
+<br/><br/>
+</td></tr>
+</table>
+<br/><br/>
+</td>

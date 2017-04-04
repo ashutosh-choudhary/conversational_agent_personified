@@ -25,16 +25,16 @@ RONNA: More than I got.
 SIMON: I'll give you twenty right now for a blowjob.
 SIMON: Handjob?
 SIMON: Ronna, do you want my shift?
-RONNA: Serious?                                                         *
-SIMON: I haven't punched in yet.                                          *
-SIMON [CONT'D]: Look, my best mates are going to Las Vegas                         * this weekend. I've never been -- I'm told it's incredible. If you took my shift, I could go with them. Everybody wins. (beat; she's not sold) Cash up front.
+RONNA: Serious?
+SIMON: I haven't punched in yet.
+SIMON [CONT'D]: Look, my best mates are going to Las Vegas this weekend. I've never been -- I'm told it's incredible. If you took my shift, I could go with them. Everybody wins. (beat; she's not sold) Cash up front.
 RONNA: Deal.
 SIMON: Ronna? Are you certain I couldn't have a blowjob?
-VOICE ON INTERCOM                                         *: Available cashier to the front.                                     * Customers waiting.                                                  *
-VOICE ON INTERCOM                                         *: Repeat, cashier to the front.                                       *
+VOICE ON INTERCOM: Available cashier to the front. Customers waiting.
+VOICE ON INTERCOM: Repeat, cashier to the front.
 CLAIRE: One of us has to go.
-MANNIE                                                    *: Dead celebrities?                                                   *
-RONNA                                                     *: Loser goes up. Steve McQueen.                                       *
+MANNIE: Dead celebrities?
+RONNA: Loser goes up. Steve McQueen.
 CLAIRE: Michael Landon.
 MANNIE: Lucille Ball.
 RONNA: Burt Lancaster. (to Mannie, re: invite) Can you drive?
@@ -56,7 +56,7 @@ MANNIE: That's like a rule or something. Nothing starts with X.
 RONNA: That's not my problem.
 MANNIE: (to Claire) You can challenge.
 CLAIRE: Okay, I challenge. Give me one dead celebrity that starts with X.
-RONNA: This is bullshit. I am not working the                                * fucking register.
+RONNA: This is bullshit. I am not working the fucking register.
 RONNA: X...X...There is one. I know I thought of one before.
 SWITTERMAN: Break was over four minutes ago. Who's up front?
 RONNA: I am.
@@ -286,14 +286,14 @@ GAINES: So now you're an entrepreneur.
 RONNA: Mannie!!
 RONNA: Mannie, I got it! I remembered who the fuck it was! Perry Farrell's dead girlfriend. Xiola Blue. X-I-O-L-A. Fuck, I knew there was one.
 RONNA: Don't you get it? I win.
-SIMON (ON PHONE): No, no. Donde Miguel?                                             *
+SIMON (ON PHONE): No, no. Donde Miguel?
 SIMON (ON PHONE): Jalisco? (to Claire) Where is Jalisco?
 CLAIRE: Mexico.
 CLAIRE: Simon, no one is going to take your shift.
 SIMON: Ronna, do you want my shift?
 RONNA: Are you serious?
-SIMON: I haven't punched in yet.                                         *
-SIMON [CONT'D]: Look, my best mates are going to Las Vegas                          * this weekend. I've never been, I'm told it's incredible. If you took my shift, I could go with them. Everybody wins.
+SIMON: I haven't punched in yet.
+SIMON [CONT'D]: Look, my best mates are going to Las Vegas this weekend. I've never been, I'm told it's incredible. If you took my shift, I could go with them. Everybody wins.
 SIMON: Shit. Shit!
 SIMON: Fucking let me out of here!
 TINY: Mo'fuckin Jack-in-the-box.
@@ -803,27 +803,27 @@ CLAIRE: Ginseng and lotsa caffeine.
 CLAIRE: You know what I like best about Christmas? The surprises. It's like, you get this box, and you're sure you know what's in it. You shake it, you weigh it, and you're totally convinced you have it pegged. No doubt in your mind. But then you open it up, and it's something completely different. Bing! Wow! Bang! Surprise! I mean, it's like you and me here.
 CLAIRE: I'm not saying this is anything it's not. But, c'mon. This time yesterday, who'dda thunk it?
 GAINES: (stopping) How did you get out?
-GAINES: Simon's apartment is around the back --                              * the gate's always open. Now, you're going to take Sunset to Hyperion.                                          *
-GAINES [CONT'D]                                           *: At Hillhurst, you have to keep right --                              * you want Sunset Boulevard, not Sunset                                * Drive.                                                               *
-CLAIRE                                                    *: (to Gaines)                                                      * Why don't you just drive him there? Maybe                            * you could help pull the trigger.                                     *
-SIMON: Todd, listen, I need hide out here. You                              * won't believe the shit we got into in...                             *
+GAINES: Simon's apartment is around the back -- the gate's always open. Now, you're going to take Sunset to Hyperion.
+GAINES [CONT'D]: At Hillhurst, you have to keep right -- you want Sunset Boulevard, not Sunset Drive.
+CLAIRE: (to Gaines) Why don't you just drive him there? Maybe you could help pull the trigger.
+SIMON: Todd, listen, I need hide out here. You won't believe the shit we got into in...
 VICTOR: How was your drive? We flew.
-VICTOR                                                     *: Do it.                                                               *
-CLAIRE                                                    *: Wait! Stop! STOP! You can't do this!                                 * You won't get away with it!                                          *
-CLAIRE [CONT'D]                                            *: Hello, witness.                                                      * (re: Todd)                                                       * Witness. What are you going to do, kill                              * us too?                                                              *
-CLAIRE [CONT'D]                                           *: What is wrong with you people? Do you think this is an effective way of dealing with problems?
-VICTOR: This fuck shot my boy.                                               *
-SIMON                                                   *: ...in the arm.
-CLAIRE: (to Victor) So, what? You're going to kill three                               * people?                                                            * (beat, no answer) What do you actually want?
+VICTOR: Do it.
+CLAIRE: Wait! Stop! STOP! You can't do this! You won't get away with it!
+CLAIRE [CONT'D]: Hello, witness. (re: Todd) Witness. What are you going to do, kill us too?
+CLAIRE [CONT'D]: What is wrong with you people? Do you think this is an effective way of dealing with problems?
+VICTOR: This fuck shot my boy.
+SIMON: ...in the arm.
+CLAIRE: (to Victor) So, what? You're going to kill three people? (beat, no answer) What do you actually want?
 VICTOR: Justice.
 SIMON: It's all flesh here, it should be okay.
 SIMON: Right, great.
-VIC JR.                                               *: I can't.                                                           *
-SIMON                                                   *: It's all right. Really.                                            *
-GAINES                                                  *: Where are you going?                                               *
-CLAIRE                                                  *: I gotta get to work.                                               *
-VICTOR                                                  *: Look, now the girl's leaving.                                      *
-SIMON                                                   *: See you, Claire.                                                   *
+VIC JR.: I can't.
+SIMON: It's all right. Really.
+GAINES: Where are you going?
+CLAIRE: I gotta get to work.
+VICTOR: Look, now the girl's leaving.
+SIMON: See you, Claire.
 GAINES: Be good!
 SIMON [O.S.]: I'm okay!
 RONNA: Hey.

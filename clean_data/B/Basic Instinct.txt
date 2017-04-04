@@ -828,7 +828,7 @@ CATHERINE: I finished my book.
 NICK: How did it end?
 CATHERINE: (after a beat) I told you.  She kills him. They look at each other a long beat.
 CATHERINE: (quietly) Goodbye, Nick. He stares at her.  A long beat.
-CATHERINE: I finished my book. (a beat) Didn't you hear me?* (a beat) Your character's dead. (a beat) Goodbye. He stares at her.  He can't believe what she is saying.
+CATHERINE: I finished my book. (a beat) Didn't you hear me? (a beat) Your character's dead. (a beat) Goodbye. He stares at her.  He can't believe what she is saying.
 CATHERINE: What do you want, Nick?  Flowers? I'll send you some flowers.
 NICK: (after a beat) What is this -- some kind of... Joke? (a beat; he almost smiles) Are we playing games again?
 CATHERINE: (after a beat) The games are over.  You were right. It was the fuck of the century, Shooter. He stares at her.

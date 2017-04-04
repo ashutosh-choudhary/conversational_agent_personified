@@ -1,5 +1,5 @@
 "HUNTER": Written by Jim Thomas and John Thomas
-MAN                                 *: He's here.
+MAN: He's here.
 PHILIPS: (with affection) You're looking well, Dutch.
 SCHAEFER: It's been a long time, General.
 PHILIPS: (growing serious) We've got a real problem here, something right up your alley.
@@ -63,8 +63,8 @@ BILLY: Six others, U.S. issue jungle boots.  They came in from the north, then f
 SCHAEFER: Mean anything to you?
 DILLON: Probably another rebel patrol. They operate in here all the time.
 SCHAEFER: Get ahead, see what you can find. (to Ramirez) Slow and easy.
-SCHAEFER                            *: What's he got?
-RAMIREZ                             *: Same business, guerrillas hauling two guys from the chopper...followed by men with American equipment...
+SCHAEFER: What's he got?
+RAMIREZ: Same business, guerrillas hauling two guys from the chopper...followed by men with American equipment...
 RAMIREZ: (hoarse whisper) Holy Mother...
 SCHAEFER: (to himself) J.S. Davis, Captain, U.S. Army...
 SCHAEFER: (coldly) Mac.  Cut them down.
@@ -86,7 +86,7 @@ BLAIN: Say, Bull.  What's goin' down? We got movement?
 MAC: No.  Shithead with his trenchcoat and dee-coda-da ring was makin' enough noise to get us all waxed.  I don't like that guy.  Don't like him at my back.  I ain't winding up like those bastards back there.
 BLAIN: I know what you mean, Bull, but don't sweat it, me and 'ol 'painless' here are watchin' the front door.
 MAC: As always, bro...
-SCHAEFER: (whispering; angry) Just killed one of the                             * prisoners.  No time for                            * invitations.  We take them, now.
+SCHAEFER: (whispering; angry) Just killed one of the prisoners.  No time for invitations.  We take them, now.
 DILLON: (to Hawkins) Ready, kid?
 DILLON: On your nine!!!
 SCHAEFER: Stick around.
@@ -94,7 +94,7 @@ SCHAEFER: (shouting) Down!!!
 SCHAEFER: (to Hawkins) Hawk, Get Con. Op. on the hook!  Position and situation, now!
 HAWKINS: You got it, Major!
 SCHAEFER: Any sign of the hostages?
-MAC: (nods) We found 'em both, dead. And the gear from the chopper. If they're Central American, I'm a fuckin' Chinaman.  By                        * the looks of 'em, I'd say our                      * cabinet minister and his aide                      * are CIA. (pause) Another thing, Major, we were lucky...couple of those guys we waxed are Russians, military advisors by the look of it.  Something big was about to happen here.
+MAC: (nods) We found 'em both, dead. And the gear from the chopper. If they're Central American, I'm a fuckin' Chinaman.  By the looks of 'em, I'd say our cabinet minister and his aide are CIA. (pause) Another thing, Major, we were lucky...couple of those guys we waxed are Russians, military advisors by the look of it.  Something big was about to happen here.
 SCHAEFER: Good work, Mac.  Clear the area, no traces.  Get the men ready to move.
 SCHAEFER: (closes eyes) Shit...
 RAMIREZ: You're hit.  You're bleedin', man.
@@ -111,20 +111,20 @@ DILLON: (angry) That's right, I set you up. You're a veteran at this, Dutch, I h
 SCHAEFER: Why us?
 DILLON: Because I told you, you're the best.  I knew you could do it but I couldn't get you in here without a cover story.
 SCHAEFER: What story did you give to Davis?
-DILLON: We've been lookin' for this place for months.  The chopper must have gotten close when they got shot down.  Hopper                        * was sent in to get my men. He was just doing his job. When he disappeared I had to clean this up,  I had to stop there bastards.  We were so close, we couldn't quit.  We couldn't sleep through this one.  I needed you, Dutch, can't you see that?
+DILLON: We've been lookin' for this place for months.  The chopper must have gotten close when they got shot down.  Hopper was sent in to get my men. He was just doing his job. When he disappeared I had to clean this up,  I had to stop there bastards.  We were so close, we couldn't quit.  We couldn't sleep through this one.  I needed you, Dutch, can't you see that?
 DILLON: To invade a foreign country, illegally?  You lied, Dillon. Stacked the odds against us.  Set us up.  You could have gotten us all killed. (pause; looking at him) You used to be one of us, Dillon, someone I could trust with my life...
-DILLON: We've been through a lot together Dutch.  When we were together, no                  * one could stop us, the hottest                     * Goddamned team the army ever saw.                  * But things changed, I woke up. We're fighting them in a dozen Goddamned countries.  It's a fight we can't lose, Dutch.  We're all expendable assets, can't you see that?
+DILLON: We've been through a lot together Dutch.  When we were together, no one could stop us, the hottest Goddamned team the army ever saw. But things changed, I woke up. We're fighting them in a dozen Goddamned countries.  It's a fight we can't lose, Dutch.  We're all expendable assets, can't you see that?
 SCHAEFER: That's your problem, Dillon. You always did put ambition before the lives of your men. (pause) My men are not expendable.  I don't do this kind of work. (crumples up paper in fist) This is your dirty little war, not mine.
 HAWKINS: Major!
 DILLON: (quietly; in Spanish) Are you all right?
 HAWKINS: (urgent) Major, we stepped into some real shit here.  I got a hook-up with aerial surveillance.
 SCHAEFER: Movement?
-HAWKINS: (nods) Guerrillas swarming like flies                     * all over the place.  Can't be more                 * then one, maybe two miles away.                    * Place is going down, Major.
+HAWKINS: (nods) Guerrillas swarming like flies all over the place.  Can't be more then one, maybe two miles away. Place is going down, Major.
 SCHAEFER: How much time?
-HAWKINS: Half an hour, maybe less.                          *
+HAWKINS: Half an hour, maybe less.
 SCHAEFER: (urgently) Tell Mac we move in five.
 DILLON: (o.s.) She goes with us.
-DILLON: She's too valuable.  She's got to know their whole network.  The whole set up. We take her with us.                               *
+DILLON: She's too valuable.  She's got to know their whole network.  The whole set up. We take her with us.
 SCHAEFER: We take her and she'll give away our position, every chance she gets.  No prisoners, Dillon.
 DILLON: You're still under orders, Dutch.  You want to make the call, or should I?
 SCHAEFER: I'm getting my men out of this damn jungle, Dillon.  She's your baggage.  You fall behind, you're on your own.
@@ -148,7 +148,7 @@ BLAIN: I hear you bro, this is some shit.  Makes Cambodia look like Kansas.  Los
 DILLON: (urgently) Shit.  Come on...
 RAMIREZ: (in Spanish) Don't try it.
 RAMIREZ: (coolly) You should put her on a leash, Agent Man.  If you can't handle her, just say the word.
-DILLON: (cold; in Spanish) Try that again.  Please.                           *
+DILLON: (cold; in Spanish) Try that again.  Please.
 DILLON: Watch her.
 SCHAEFER: What's got Billy so spooked?
 MAC: Can't say, Major...been squirrely all mornin'... fuckin' weird...sometimes I think that nose of his is too good...smells things that ain't there.
@@ -230,30 +230,30 @@ BILLY: (o.s.; urgently) Major, over here.
 BILLY: The body...it's gone.
 RAMIREZ: Came in through the trip wires, took it right out from under our noses...
 BILLY: Boar set off the trip flare, Major.  No other tracks.
-RAMIREZ: How could anyone get through this, carry Blain out, right                       * under our noses without leavin'                    * a trace?
-SCHAEFER: He knows our defenses.                             *
+RAMIREZ: How could anyone get through this, carry Blain out, right under our noses without leavin' a trace?
+SCHAEFER: He knows our defenses.
 SCHAEFER: He came back for the body. (pause) He's killing us, one at a time...
-BILLY: Like a Hunter.                                     *
-SCHAEFER: He uses the trees.                                 *
+BILLY: Like a Hunter.
+SCHAEFER: He uses the trees.
 SCHAEFER: Yesterday.  What did you see?
 DILLON: You're wastin' your time.
 SCHAEFER: No more games.
 ANNA: I don't know what it was. It...
 SCHAEFER: Go on.
 ANNA: It changes colors, like the chameleon.  It uses the jungle...
-DILLON: (derisively) Shit, you trying to tell me Blain and Hawkins were killed by a fucking lizard?  Don't listen to her.  Its's a psych-job. Two, maybe three of them, that's                   * all.  We keep our cool, out-think                  * them 'til we're across the                         * border...                                          *
+DILLON: (derisively) Shit, you trying to tell me Blain and Hawkins were killed by a fucking lizard?  Don't listen to her.  Its's a psych-job. Two, maybe three of them, that's all.  We keep our cool, out-think them 'til we're across the border...
 SCHAEFER: What's you name?
 ANNA: Anna.
 SCHAEFER: Anna.  He's hunting us.  You know that?
 DILLON: What the hell do you think you're doing?
-SCHAEFER: We're going to need everyone.                      *
-DILLON: What are you talking about? We'll be out of here in ten                        * minutes.                                           *
-SCHAEFER: We're not going.                                   *
-DILLON: That rendezvous is ten maybe                       * twelve miles, at most!  We're                      * almost home.  But the chopper                      * won't wait.
-SCHAEFER: Dillon...This thing doesn't                        * care who we are, who she is. We make a stand or there won't                     * be anyone left to make that                        * chopper.
+SCHAEFER: We're going to need everyone.
+DILLON: What are you talking about? We'll be out of here in ten minutes.
+SCHAEFER: We're not going.
+DILLON: That rendezvous is ten maybe twelve miles, at most!  We're almost home.  But the chopper won't wait.
+SCHAEFER: Dillon...This thing doesn't care who we are, who she is. We make a stand or there won't be anyone left to make that chopper.
 ANNA: There is something else.  When the big man was killed, you must have wounded it. (pause) It's blood was on the leaves.
 SCHAEFER: If it bleeds, we can kill it.
-DILLON: (straining) I'm tellin' you, this little                       * 'boy scout' stunt is a                             * Godamned waste of time.                            * (stands)                                    * We've got to get the hell out                      * of here, now, while we've still                    * got the chance.
+DILLON: (straining) I'm tellin' you, this little 'boy scout' stunt is a Godamned waste of time. (stands) We've got to get the hell out of here, now, while we've still got the chance.
 SCHAEFER: He'll be looking for the trip wires. If we're lucky, he won't see this.
 DILLON: Now what, Dutch.  You going to send your mystery guest an invitation?
 SCHAEFER: You're catching on, Dillon.
