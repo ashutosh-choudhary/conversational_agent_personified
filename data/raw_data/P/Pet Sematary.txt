@@ -3820,10 +3820,8 @@ JUD has tilted over in one corner and is snoring. His Walkman
 'phones are on and we can hear the tinny sounds of Billy Idol. A 
 little old man's drool trickles down from one corner of his mouth.
 
-SOUND: ELLEN&lt; crying.
+SOUND: ELLENINT.  THE FRONT OF THE WAGON, WITH LOUIS AND ELLIE
 
-<b>INT.  THE FRONT OF THE WAGON, WITH LOUIS AND ELLIE
-</b>
 Tears are spilling freely down ELLIE'S face.
 
 <b>				LOUIS

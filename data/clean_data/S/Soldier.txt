@@ -1,468 +1,486 @@
 SOLDIER: Written by David Webb Peoples
-THE THIRD DRESDEN MOON: (1.16 Earth atmos, acceptable oxygen)
-RUBRICK: Colonel Mekum has his "boys" unpacked.  I think he wants to show them off.
-CHURCH: Hmmmmph.
-RUBRICK: They look...impressive.
-SLOAN: Well, they're...pretty.
-CHURCH: (to Mekum) What's so hot about them?
-MEKUM: (proudly) Very much improved.  In every way.
-RUBRICK: This is Colonel Mekum from Q.  He's their commanding officer.
-CHURCH: (dubious) Improved...how?
-MEKUM: As I said, in every way.  Physically and psychologically.  More endurance, quicker responses, better hand-eye, improved technical training.  Where the First Psychology gave you ninety-eight percent obedience, this bunch gives you 99.4.
-CHURCH: (dubiously) Mmmmmm.  Weeell, you know my old daddy was in maintenance and he had a saying...
-CHURCH: ...He used to say, "If it ain't broke, don't fix it."
-MEKUM: (patronizing) I...see.  I'm not sure I quite get your...point...
-CHURCH: (indicating the Veterans) Well, the soldiers we've got now, they've been through all kinds of heavy shit...and they've always got the job done.  Now these new ones, these "hot shots" of yours...what kind of action have they seen?  They are battle-tested, aren't they?
-MEKUM: That's up to you field guys.  H.Q. wants you to break 'em in when you do the annual security sweep in January.
-CHURCH: The sweep is just routine, not even police action.  I'd like to see some sort of...meaningful evidence...
+REVISED DRAFT: October 2, 1997
+RUBRICK: Colonel Mekum has his "boys" unpacked. I think he wants to show them off.
+CHURCH: They look.impressive.
+RUBRICK: They look.impressive.
+SLOAN: Well, they're.pretty.
+CHURCH: ( to Mekum ) What's so hot about them?
+MEKUM: ( proudly ) Very much improved. In every way.
+RUBRICK: This is Colonel Mekum from Q. He's their commanding officer.
+CHURCH: ( dubious ) As I said, in every way. Physically and psychologically. More endurance, quicker responses, better hand-eye, improved technical training. Where the First Psychology gave you ninety-eight percent obedience, this bunch gives you 99.4.
+MEKUM: As I said, in every way. Physically and psychologically. More endurance, quicker responses, better hand-eye, improved technical training. Where the First Psychology gave you ninety-eight percent obedience, this bunch gives you 99.4.
+CHURCH: ( dubiously ) Mmmmmm. Weeell, you know my old daddy was in maintenance and he had a saying.
+CHURCH: .He used to say, "If it ain't broke, don't fix it."
+MEKUM: ( patronizing ) I.see. I'm not sure I quite get ( indicating the Well, the soldiers we've got now, they've been through all kinds of heavy shit.and they've always got the job done. Now these new ones, these "hot shots" of yours.what kind of action have they seen? They are battle-tested, aren't they?
+CHURCH: ( indicating the Well, the soldiers we've got now, they've been through all kinds of heavy shit.and they've always got the job done. Now these new ones, these "hot shots" of yours.what kind of action have they seen? They are battle-tested, aren't they?
+MEKUM: That's up to you field guys. H.Q. wants you to break 'em in when you do the annual security sweep in The sweep is just routine, not even police action. I'd like to see some sort of.meaningful evidence.
+CHURCH: The sweep is just routine, not even police action. I'd like to see some sort of.meaningful evidence.
 MEKUM: Such as?
-CHURCH: Maybe we could run some tests.  Kind of a comparison, the old and the new...
-RILEY: Sir!
-RUBRICK: Very nice, Riley.  Fall away.
-RILEY: (another salute) Sir!
+CHURCH: Maybe we could run some tests. Kind of a comparison, the old and the
+RILEY: Very nice, Riley. Fall away.
+RUBRICK: Very nice, Riley. Fall away.
+RILEY: ( another salute )
 RUBRICK: Thirty seconds, 90 percent hits.
 MEKUM: Let's make it more difficult.
 MEKUM: Caine Six-Oh-Seven!
-CAINE 607: Sir!
+CAINE 607: Assemble the weapon, load, fire on the target from various evasive positions in a thirty-second period.
 MEKUM: Assemble the weapon, load, fire on the target from various evasive positions in a thirty-second period.
-MEKUM: Starting...now!
-MEKUM: (to Caine 607) As you were, soldier.
-RUBRICK: Ninety-nine percent...
-MEKUM: (smug) While taking evasive action...
-RUBRICK: (amazed) That's...very good.
-MEKUM: See?  Much stronger.
+MEKUM: MEKUM punches his watch as CAINE 607 gracefully begins to pick up pieces of weapon, doing it rapidly, yet without apparent haste. TODD is watching, revealing nothing. CLACK! KA SHACK! CLICK! CAINE 607 slaps the weapon together, loading a magazine with a final KA SHUCK, then he dives to the floor, firing a rapid burst at the electronic target which blinks OFFICERS watch, impressed. CAINE 607 is firing from another position. The target goes crazy. CAINE 607 is rolling and firing at the same time. The target goes wild. MEKUM's watch clicks off 27 seconds.28.29. The firing stops. TODD stares impassively as CAINE 607 salutes. Beside him, RILEY watches also.
+MEKUM: ( to Caine 607 ) As you were, soldier. Ninety-nine percent.
+RUBRICK: Ninety-nine percent.
+MEKUM: ( smug ) While taking evasive action.
+RUBRICK: ( amazed ) That's.very good.
+MEKUM: See? Much stronger.
 CHURCH: What about endurance?
-CHURCH: Our man has been out there fifteen minutes now.  Shouldn't you send one?
-MEKUM: (smug grin, to Church) In a minute. (turning back to Sloan) Now, see this test?  This shows what they do under sleep deprivation conditions.  Forty-eight hours awake and they can...
-MEKUM: Melton, Eight Five.  Forward.
+CHURCH: Our man has been out there fifteen minutes now. Shouldn't you send one?
+MEKUM: ( smug grin, to Church ) In a minute. ( turning back to Sloan ) Now, see this test? This shows what they do under sleep deprivation conditions. Forty-eight hours awake and they can.
+MEKUM: Melton, Eight Five. Forward.
 MELTON: Eight Five, sir.
 MEKUM: Ten miles, Melton, on the run.
-MEKUM (O.S.): You've got sixty minutes.  Go.
-MELTON: Sir!
-MEKUM: My man left exactly twenty minutes after yours.  Make a note of that.
+MELTON: MELTON heads out into the rain running smoothly and easily as EXT. TODD/RUINS - DAY TODD's breath comes in even rasps as his feet splash over rough terrain, splash splash splash, hard work but nothing in his stone face indicates he's not equal to the task. Splash splash INT. OFFICER QUARTERS - DAY In the cluttered office, RUBRICK, CHURCH, and SLOAN look up from a conversation as MEKUM enters dripping wet and takes off his poncho, smiling smugly.
+MEKUM: My man left exactly twenty minutes after yours. Make a note of that.
 RUBRICK: What are we supposed to do with the old soldiers?
-MEKUM: (a shrug and a grin) Old soldiers never die.
-MEKUM: They'll serve as a labor force.  You can use them for physical stuff... loading, unloading, repairs, power lines, that kind of thing. (a glance around the office) Even cleaning...sweeping...,uh, tidying up.
-MEKUM: Of course, age is a factor, but the real factor is the training program, especially the psychological.  The mind controls the body after all, and we're doing wonderful things with the mind.
-TODD: Sir.
+MEKUM: ( a shrug and a grin ) Old soldiers never die.
+MEKUM: They'll serve as a labor force. You can use them for physical stuff. loading, unloading, repairs, power lines, that kind of thing. Even cleaning.sweeping.,uh, tidying up.
+MEKUM: Of course, age is a factor, but the real factor is the training program, especially the psychological. The mind controls the body after all, and we're doing wonderful things with the mind.
+TODD: At ease, soldier.
 RUBRICK: At ease, soldier.
 CHURCH: What's the price of all that speed? Is he tired?
-MEKUM: Tired?
-CHURCH: Todd here ran the pace he's been taught to run.  He's still strong. Send him up the chain, Rube.
-RUBRICK: (to Todd) Soldier!  Up the chain!
-TODD: Sir.
-MEKUM: (sharply) Melton, on the double!  Up a chain!
-MELTON: (saluting) Sir!
-CHURCH: What about...spirit?
-MEKUM: (as in "what's that?") Spirit? (...a grin) Oh!  You mean "AQ"..."aggressive qualities"?
+MEKUM: Todd here ran the pace he's been taught to run. He's still strong. Send him up the chain, Rube.
+CHURCH: Todd here ran the pace he's been taught to run. He's still strong. Send him up the chain, Rube.
+RUBRICK: ( to Todd ) Soldier! Up the chain!
+TODD: TODD salutes and lopes toward ten chains that dangle from the rafters sixty feet above, grabs one, and starts up it, hand over MEKUM watches TODD climb, then looks at CHURCH who is looking at him expectantly. MEKUM grins at CHURCH. Then MEKUM looks back at TODD, not hurrying. TODD is thirty feet up and climbing, passing the eight inch circular "platforms" or footholds in the chain every ten feet.
+MEKUM: ( sharply ) Melton, on the double! Up a chain!
+MELTON: ( saluting )
+CHURCH: What about.spirit?
+MEKUM: ( as in "what's that?" ) ( .a grin ) Oh! You mean "AQ"."aggressive Whatever the latest jargon is.
 CHURCH: Whatever the latest jargon is.
-MEKUM: Much better, much higher.  For example, where your old ones expressed ninety percent of their sexual energy in aggressive physicality, these new ones are ninety-nine percent without sexual inclination.  It's all aggression.
-SLOAN: (dryly) Real men!
-CHURCH: (sharply, to Sloan) At ease, Lieutenant. (turning to Mekum, serious) What if they fought?
+MEKUM: Much better, much higher. For example, where your old ones expressed ninety percent of their sexual energy in aggressive physicality, these new ones are ninety-nine percent without sexual inclination. It's all Real men!
+SLOAN: ( dryly ) Real men!
+CHURCH: ( sharply, to Sloan ) At ease, Lieutenant. ( turning to Mekum, What if they fought?
 MEKUM: You mean up there?
-CHURCH: (to Rubrick) Go ahead, Rube.  Tell Todd to take him.
-MEKUM: No!
-CHURCH: "No"?
-MEKUM: Not fair.  No contest.  Send two more of your old ones up.
+CHURCH: ( to Rubrick ) Go ahead, Rube. Tell Todd to take
+MEKUM: They all look at MEKUM. Is this the chink in the armor? The new soldiers can't fight?
+CHURCH: Not fair. No contest. Send two more of your old ones up. Go ahead.
+MEKUM: Not fair. No contest. Send two more of your old ones up. Go ahead.
 MEKUM: Go ahead.
-RUBRICK: Romero, A. -- Goines, D.L. -- up the chains.
+RUBRICK: Romero, A. Goines, D.L. up the chains.
 RUBRICK: Get him, men!
-MELTON: Sir!
-RUBRICK: They're...fantastic!
-CHURCH: (reluctant agreement) Mmmmmmm...
-SLOAN: (worried) We could have a problem here, couldn't we?  I mean, we just lost three men...
-CHURCH: Oh, I wouldn't worry about that. "Training accident."  Paperwork.
+MEKUM: GET DOWN HERE! GET DOWN HERE ON THE DOUBLE, GET YOUR ASS DOWN HERE, YOU MISERABLE PISS ANT STINKING SHIT FOR
+BRAINS!: CHURCH, SLOAN, and RUBRICK lift their stunned faces from TODD to MEKUM who's continuing to rant at MELTON as MELTON comes down the chain fast.
+MELTON: COME ON, DOUBLE IT UP, DOWN, DOWN, DOWN, YOU MISERABLE THIRD RATE SHITHEAD INCOMPETENT CLOWN!
+MELTON: LOOK AT YOU, YOU BIG DUMB SHIT, YOU'VE LOST AN EYE. WHAT THE HELL GOOD IS A GODDAMN ONE-EYED SOLDIER? DO YOU KNOW WHAT IT COST TO BREED YOU, YOU BIG MORON? TO TRAIN YOU, FEED YOU?
+MEKUM: LOOK AT YOU, YOU BIG DUMB SHIT, YOU'VE LOST AN EYE. WHAT THE HELL GOOD IS A GODDAMN ONE-EYED SOLDIER? DO YOU KNOW WHAT IT COST TO BREED YOU, YOU BIG MORON? TO TRAIN YOU, FEED YOU?
+FEED YOU?: As MEKUM turns, including all the NEW SOLDIERS in his continuing tirade, CHURCH, SLOAN, and RUBRICK confer in low voices.
+RUBRICK: ( reluctant agreement ) ( worried ) We could have a problem here, couldn't we? I mean, we just lost three men.
+CHURCH: ( reluctant agreement ) ( worried ) We could have a problem here, couldn't we? I mean, we just lost three men.
+SLOAN: ( worried ) We could have a problem here, couldn't we? I mean, we just lost three men.
+CHURCH: Oh, I wouldn't worry about that. "Training accident." Paperwork.
 SLOAN: What about the bodies?
-CHURCH: (turning away) Incinerator.
-CHURCH: (interrupting) They're very...impressive.
-MEKUM: (fuming) Yeah, well, the big moron shouldn't have lost an eye.
-CHURCH: It was our best man who got his eye...  Todd, a real tough one. Survived police action in Montana, fought in the Argentine Sector, and in the Saudi Campaign to say nothing of --
-MEKUM: Old news!  They're nothing at all! Wait until you get these new fellas into some real action.  I guarantee you'll be awed.  I guarantee it.
-HAWKINS: Please!  Quiet, please!
-SLADE: Just tell me one thing!  How many of them are there and are they armed?
-HAWKINS: There in a man...one man.  He was found in the trench by several children...
+CHURCH: ( turning away )
+MEKUM: WHAT GOOD IS THIS MAN NOW? WITH ONE GOOD EYE! HE'S GOT NO DEPTH PERCEPTION! HE'S CANNON FODDER. ALL HE CAN DO IS WALK POINT AND TAKE THE FIRST They're very.impressive.
+CHURCH: ( interrupting ) They're very.impressive.
+MEKUM: ( fuming ) Yeah, well, the big moron shouldn't have lost an eye.
+CHURCH: It was our best man who got his eye. Todd, a real tough one. Survived police action in Montana, fought in the Argentine Sector, and in the Saudi Campaign to say nothing Old news! They're nothing at all! Wait until you get these new fellas into some real action. I guarantee you'll be awed. I guarantee it.
+MEKUM: Old news! They're nothing at all! Wait until you get these new fellas into some real action. I guarantee you'll be awed. I guarantee it.
+HAWKINS: Please! Quiet, please!
+SLADE: Just tell me one thing! How many of them are there and are they armed? There in a man.one man. He was found in the trench by several
+HAWKINS: There in a man.one man. He was found in the trench by several
 HAWKINS: This man was not armed.
-ELISE: How could there only be one?  How could he get here?
-MACE: He was unconscious.  We couldn't ask him anything.  He --
-JIMMY PIG: Nothin' out there.  We couldn't see nobody, couldn't see no ship, no vehicles, nothin'...plus the wind's up again real strong.
+ELISE: How could there only be one? How could he get here? He was unconscious. We couldn't ask him anything. He
+MACE: He was unconscious. We couldn't ask him anything. He
+JIMMY PIG: Nothin' out there. We couldn't see nobody, couldn't see no ship, no vehicles, nothin'.plus the wind's up again real strong.
 SLADE: They're hiding, I bet.
-HAWKINS: Let's everybody calm down right now! (beat; silence; then) We have an injured man among us. One man.  A traveler.  Unarmed. (another pause; then) We all want to do the decent thing. The decent thing is to help him. Mace's wife, Sandra, is looking after him now.  Now, I'd like a vote of support on this course of action from all of you.
-SLADE: You keep an eye on him, Mace!  You watch him!
+HAWKINS: Let's everybody calm down right now! We have an injured man among us. One man. A traveler. Unarmed. We all want to do the decent thing. The decent thing is to help him. Mace's wife, Sandra, is looking after him now. Now, I'd like a vote of support on this course of action from all of you.
+SLADE: You keep an eye on him, Mace! You watch him!
 SANDRA: Want to try some more of this?
-SANDRA: You rest now.  I'll give you more later.
-MACE: What do you mean he's survived worse?  Did he say something?
-SANDRA: No, but he's covered with old wounds, all sorts of scars.  Knife scars, bullet scars, burns.
-MACE: (worried) A soldier!
+SANDRA: You rest now. I'll give you more
+MACE: What do you mean he's survived worse? Did he say something?
+SANDRA: No, but he's covered with old wounds, all sorts of scars. Knife scars, bullet scars, burns.
+MACE: ( worried ) A soldier!
 SANDRA: There are words on his shoulder. Tannhauser Gate, the Argentine Sector, Montana, Bolivia, Shanghai
-MACE: The Tannhauser Gate was a battle...
+MACE: The Tannhauser Gate was a battle. We'll have to sleep on the floor.
 SANDRA: We'll have to sleep on the floor.
-MACE: (suddenly alarmed) Where's Nathan?
-MACE: If there's any danger to Nathan --
-SANDRA: (interrupting grimly) I won't permit danger to Nathan.
-SANDRA: (nervous) You must be...you must be feeling better.
+MACE: ( suddenly alarmed ) Where's Nathan?
+MACE: If there's any danger to Nathan
+SANDRA: ( interrupting grimly ) I won't permit danger to Nathan.
+SANDRA: ( nervous ) You must be.you must be feeling
 MACE: We're teaching the boy to walk.
-SANDRA: (nervously filling silence) He's late learning.  He was sick for a long time.
+SANDRA: ( nervously filling silence ) He's late learning. He was sick for a long time.
 MACE: I got something for you.
-MACE: Here.
+MACE: TODD looks mistrustful.
 MACE: Like this.
-MACE: See?
-MACE: Practice with it.  In a day or two maybe you'll be strong enough to go out to the garden with Sandra.
+MACE: Expressionless, watches MACE use the cane.
+MACE: Practice with it. In a day or two maybe you'll be strong enough to go out to the garden with Sandra.
 ELLEN: I came for Nathan.
-MACE: Let's go.  Come on, Sergeant.
-SANDRA: This way...
-SANDRA: You have to watch out for them. They probably wouldn't kill someone your size, not if you were healthy anyway.  But they'd make you pretty sick.  Someone smaller...like me, or a child...
+MACE: Let's go. Come on, Sergeant.
+SANDRA: This way.
+SANDRA: You have to watch out for them. They probably wouldn't kill someone your size, not if you were healthy anyway. But they'd make you pretty sick. Someone smaller.like me, or a child.
 SANDRA: In a month this one will be as big as those.
-SANDRA: Here.  You try one.
-SLADE: You can't talk to a soldier no more than you can talk to a...a...bomb! Or a bullet!  They're trained, they're killing machines.  They got an objective and they go after that objective and nothing stops them but killing them.
-CHESTER: (a glance over his shoulder) Just one?  To kill us all?
-SLADE: First off, if there's one, there's more.  That's how it is, soldiers travel in bunches.  Second, they don't waste soldiers on folks like us, that's for police!  Training soldiers to kill weaklings like us is not what they call "cost effective."
+SANDRA: Here. You try one.
+SLADE: You can't talk to a soldier no more than you can talk to a.a.bomb! Or a bullet! They're trained, they're killing machines. They got an objective and they go after that objective and nothing stops them but killing them.
+CHESTER: ( a glance over his Just one? To kill us all?
+SLADE: First off, if there's one, there's more. That's how it is, soldiers travel in bunches. Second, they don't waste soldiers on folks like us, that's for police! Training soldiers to kill weaklings like us is not what they call "cost Then who do they fight?
 CHESTER: Then who do they fight?
-SLADE: Other soldiers!  There's a saying, "Soldiers deserve soldiers."
+SLADE: Other soldiers! There's a saying, "Soldiers deserve soldiers."
 ILONA: Slade, hush up.
 JUDITH: You see how much he's eating?
 SLADE: I don't see how you can not remember how you got here, Sergeant.
-SLADE: You're not a deserter, are you... Sergeant?
+SLADE: You're not a deserter, are you. No, sir.
 TODD: No, sir.
-SLADE: Then how come you're not with your unit?
+SLADE: Then how come you're not with your Oh, come on, Slade, let the man eat.
 JIMMY PIG: Oh, come on, Slade, let the man eat.
-SLADE: It's not an unreasonable question. (to Todd) How about it, Sergeant?
-TODD: I was...replaced.
-MACE: Replaced?
+SLADE: It's not an unreasonable question. How about it, Sergeant?
+TODD: I was.replaced.
+MACE: TODD hesitates for half a second before answering.
 TODD: By a better soldier, sir.
-SANDRA: ...And it got worse and worse.  My father hadn't had any work in three months and...also...there were other things...violence...  political feelings.  My father said he'd heard it was better in the Trinity moons. A lot of other people must have had the same idea because the ship was jammed with people...mostly families.  That's probably why it broke down...  overloaded.
-SANDRA: Even after they made the repairs, it barely got off the ground, it was an old converted mining transport, a piece of junk to start with.  It just...dropped.  Maybe you saw what's left of it...out there in the wind.  A lot of people died.  And we couldn't make any radio contact... So we were stuck here.  Nobody was happy about it.  A few years later, when the dumpers started coming over and dropping stuff, people tried to get their attention with explosions and fires.  But it didn't work. They must be unmanned...or they just don't care.  Maybe they think we're garbage too!
-SANDRA: So there really wasn't any choice. People had to pull together and make the best of it.  We became a... community.
-SANDRA: One good thing...nobody bothers us. Who'd want to fight over a godforsaken place like this?
-SANDRA: I guess that's what you like!  The fighting, I mean.  The wars. (unsure, a question really) You must...you're a soldier...
+SANDRA: .And it got worse and worse. My father hadn't had any work in three months and.also.there were other things.violence. political feelings. My father said he'd heard it was better in the Trinity moons. A lot of other people must have had the same idea because the ship was jammed with people.mostly families. That's probably why it broke down. overloaded.
+SANDRA: Even after they made the repairs, it barely got off the ground, it was an old converted mining transport, a piece of junk to start with. It just.dropped. Maybe you saw what's left of it.out there in the wind. A lot of people died. And we couldn't make any radio contact. So we were stuck here. Nobody was happy about it. A few years later, when the dumpers started coming over and dropping stuff, people tried to get their attention with explosions and fires. But it didn't work. They must be unmanned.or they just don't care. Maybe they think we're garbage too!
+SANDRA: So there really wasn't any choice. People had to pull together and make the best of it. We became a.
+SANDRA: One good thing.nobody bothers us. Who'd want to fight over a godforsaken place like this?
+SANDRA: I guess that's what you like! The fighting, I mean. The wars. You must.you're a soldier.
 HAWKINS: You children are supposed to be doing lessons.
-HAWKINS: Lessons.
-MACE'S VOICE (O.S.): She's down now, but she'll come up again.  Always does.
-MACE: (continuing) That's why we're weighing down.  And that's why we're always on the wire even when the wind's down, like now. You don't get much warning.  Here, load up, you'll want the weight, I promise.
-MACE: Oh, we're not going to shoot anything.  That's not what we mean by "hunting." (then, laughing, to Jimmy Pig) Jimmy Pig, you're not going to shoot anything, are you?
-JIMMY PIG: (laughing) What could I hit?
-MACE: (to Todd) It's how we call for help.  Two shots.  There'll be someone on duty, listening in case we get off the wire and get lost or something.  We have flares too.  Come on.
-MACE: Sandra said she told you how we wound up here.  Our parents and so on. (turning left, indicating) Over here, we call these "catcher trenches."
-MACE: (continuing) Smaller stuff that blows across the ground, it falls in these trenches, it works sort of like a filter.  We go through the trenches sometimes and get some good stuff.
-MACE: We try to work 'em when they're dry. It's lousy going in there when they're flooded.  You can see...
-MACE: Whatever looks useful, if we can get a rope to it, we'll go for it.  But you can't ever go further than your safety line because it'll come up on you with sometimes maybe ten seconds or even less.
-MACE: Like right now.  You hear that?
+HAWKINS: CUT TO:
+MACE: ( continuing ) That's why we're weighing down. And that's why we're always on the wire even when the wind's down, like now. You don't get much warning. Here, load up, you'll want the weight, I Oh, we're not going to shoot anything. That's not what we mean by "hunting." ( then, laughing, to Jimmy Pig, you're not going to shoot anything, are you?
+MACE: Oh, we're not going to shoot anything. That's not what we mean by "hunting." Jimmy Pig, you're not going to shoot anything, are you?
+JIMMY PIG: ( laughing ) What could I hit?
+MACE: ( to Todd ) It's how we call for help. Two shots. There'll be someone on duty, listening in case we get off the wire and get lost or something. We have flares too. Come on.
+MACE: Sandra said she told you how we wound up here. Our parents and so Over here, we call these "catcher Smaller stuff that blows across the ground, it falls in these trenches, it works sort of like a filter. We go through the trenches sometimes and get some good stuff.
+MACE: ( continuing ) Smaller stuff that blows across the ground, it falls in these trenches, it works sort of like a filter. We go through the trenches sometimes and get some good stuff.
+MACE: We try to work 'em when they're dry. It's lousy going in there when they're flooded. You can see.
+MACE: Whatever looks useful, if we can get a rope to it, we'll go for it. But you can't ever go further than your safety line because it'll come up on you with sometimes maybe ten seconds or even less.
+MACE: Like right now. You hear that?
 MACE: It's close when you hear that.
-CHESTER: (shouting, guffawing)
-MACE: Uh, thanks, Sergeant.  Thanks a lot...
-MACE: Dumpers.  They come every twenty or thirty days.
-JIMMY PIG: Thanks, partner.  These no-goods woulda just let me blow away.
-MEKUM (V.O.): Sorry to disturb the tranquillity of outer space on Christmas Eve, but I'm off to the Caribbean in a few hours, and I wanted to make sure you'd got the transmission on the security sweep.
-CHURCH: We got it all right.  This is an outpost here, not the Third Army! You've got us securing thirty-four locations and erecting monitor units in one month and --
-MEKUM: (interrupting) Piece of cake, guys!  These are totally remote, totally uninhabited territories.  All you do is set down, send out a patrol purely as a formality, then have those veterans of yours put up an A-Type unmanned monitoring unit.  You should be on about number twenty-five by the time I get back from my vacation...
-CHURCH: What if we do run into people... say squatters or refugees?
-MEKUM: (a frown) Well, you sure as hell don't want to get involved in evacuating people and that sort of thing. (then, meaningfully) My advice would be to..."avoid paperwork."
+MACE: SHE'S GONNA BLOW, JIMMY.
+THEM!: GRAB ON, SERGEANT!
+MACE: GRAB ON, SERGEANT!
+CHESTER: ( shouting, guffawing )
+JIMMY.RUNNING.CAN'T.HA HA: CAN'T.KEEP UP WITH HIMSELF. HA HA HA.
+MACE: Uh, thanks, Sergeant. Thanks a
+MACE: Dumpers. They come every twenty or thirty days.
+JIMMY PIG: Thanks, partner. These no-goods woulda just let me blow away.
+CHURCH: We got it all right. This is an outpost here, not the Third Army! You've got us securing thirty-four locations and erecting monitor units in one month and
+MEKUM: ( interrupting ) Piece of cake, guys! These are totally remote, totally uninhabited territories. All you do is set down, send out a patrol purely as a formality, then have those veterans of yours put up an A-Type unmanned monitoring unit. You should be on about number twenty-five by the time I get back from my vacation.
+CHURCH: What if we do run into people. say squatters or refugees?
+MEKUM: ( a frown ) Well, you sure as hell don't want to get involved in evacuating people and that sort of thing. ( then, meaningfully ) My advice would be to."avoid Eliminate them, you mean.
 CHURCH: Eliminate them, you mean.
-MEKUM: Well, no one's out there, but officially these are "hostile zones."  Therefore you'd be within your rights to classify anyone as "hostile," I think. But I repeat, you should be worried about boredom, not action.  Any other questions before I go?
-CHURCH: Down there...is it snowing?
-MEKUM: (a smirk) Not in the Caribbean.  Have a good Christmas, guys.  See you when I get back.
+MEKUM: Well, no one's out there, but officially these are "hostile zones." Therefore you'd be within your rights to classify anyone as "hostile," I think. But I repeat, you should be worried about boredom, not action. Any other questions before I go?
+CHURCH: Down there.is it snowing?
+MEKUM: ( a smirk ) Not in the Caribbean. Have a good Christmas, guys. See you when I get
 SLOAN: Merry Christmas, Captain.
-SLOAN: Hi, fellas.  At ease!
+SLOAN: Hi, fellas. At ease!
 RUBRICK: Merry Christmas, everybody.
-CHURCH: We brought you a little Christmas tree.
+CHURCH: We brought you a little Christmas
 RUBRICK: And some good cheer.
-SLOAN: How about some Christmas pussy, guys?  Anybody for a quick piece?
-RUBRICK: (smirking) That's "conduct unbecoming," Sloan.
-SLOAN: It's Christmas!  Haven't you heard of piece on earth?  "Piece on earth," get it?
-CHURCH: (suddenly serious, sober) Christ, I wish we were on Earth.
-RUBRICK: Eat, drink, and be merry, men.  For tomorrow you go on patrol in the "hostile zone."
+SLOAN: How about some Christmas pussy, guys? Anybody for a quick piece?
+RUBRICK: ( smirking ) That's "conduct unbecoming," Sloan.
+SLOAN: It's Christmas! Haven't you heard of piece on earth? "Piece on earth," get it?
+CHURCH: ( suddenly serious, Christ, I wish we were on Earth.
+RUBRICK: Eat, drink, and be merry, men. For tomorrow you go on patrol in the "hostile zone."
+JIMMY PIG: HO HO HO! HO HO HO!
+MERRY GENTLEMEN.": A MONTAGE OF FACES: JIMMY "SANTA" PIG, MACE, SANDRA, RED, CHESTER, SALLY, ELLEN, HAWKINS, even SLADE, SINGING. ANGLE ON THE DOOR. No sign of TODD! Gone!
 SANDRA: We'll eat these.
-SANDRA: It seemed like he was never going to walk.  Then all of a sudden...he's an expert.
-SANDRA: (a laugh) Well, not quite an expert.
-SANDRA: Sergeant Todd...what's it like...what's it like being a soldier?
+SANDRA: It seemed like he was never going to walk. Then all of a sudden.he's an expert.
+SANDRA: ( a laugh ) Well, not quite an expert.
+SANDRA: Sergeant Todd.what's it like.what's it like being a
 SANDRA: What do you think about?
-SANDRA: Do you think about food?  Or women? You must think about something.
-SANDRA: What about feelings then?  You must have feelings.  You must feel something.
-TODD: (at last) Fear.
-SANDRA: (startled) Fear!  You mean...you feel afraid? (as he nods) That's when you're in battle... What about other times?  Now, for example?
-TODD: Fear.
-SANDRA: (amazed) Now?
-TODD: Always.
-SANDRA: You don't...look afraid.  You look fearless.
-TODD: Fear and...discipline.
-SANDRA: (growing horror) Oh, my God.  But there's nothing to be afraid of here.  I can't hurt you.  I wouldn't.
-TODD: Always.  It makes us...alert.
-WILL: You're not supposed to do that anymore.
-JOHNNY: So what?  I'm a soldier.
+SANDRA: Do you think about food? Or women? You must think about something.
+SANDRA: What about feelings then? You must have feelings. You must feel
+TODD: ( at last ) ( startled ) Fear! You mean.you feel afraid? ( as he nods ) That's when you're in battle. What about other times? Now, for ( amazed )
+SANDRA: ( startled ) Fear! You mean.you feel afraid? ( as he nods ) That's when you're in battle. What about other times? Now, for ( amazed )
+TODD: ( amazed )
+SANDRA: ( amazed )
+TODD: A stunned silence. Finally SANDRA speaks.
+SANDRA: You don't.look afraid. You look
+TODD: Fear and.discipline.
+SANDRA: ( growing horror ) Oh, my God. But there's nothing to be afraid of here. I can't hurt you. I wouldn't.
+TODD: Always. It makes us.alert.
+WILL: You're not supposed to do that
+JOHNNY: So what? I'm a soldier.
 WILL: They're gonna kick him out.
-ELLEN: They can't kick him out...
-WILL: They're gonna.  My father --
-ELLEN: (interrupting strongly) My mother says when someone's sick or hurt, you have to help them.  You don't have a choice.
-JOHNNY: (getting interested) Yeah, but what if the hurt person is...evil?
-ELLEN: You still have to help them... because if you don't, you're evil!
-WILL: (importantly) My father says...uh...he says, "Soldiers deserve soldiers."
-TOM: Yeah.  That's what my father said too.
-ELLEN: My father's making Sergeant Todd a scarf because he saved his life one time.  He's knitting it.
-WILL: That's dumb.  Your father's dumb.
-JIMMY PIG'S WIFE (O.S.): Jimmy knitted it himself.  He worked on it for two months.
-SANDRA: It's beautiful, Jimmy.  He'll love it.
-JIMMY PIG: He saved my life out there.  I guess Mace told you.
-SANDRA: (nods) You should give it to him yourself. I think he's in the meeting room... doing...exercises.
-JIMMY PIG: Scarf!  Scarf!
-EVA: What....?  What... are...those? Chester!  CHESTER!
-JOHNNY: (sullen) Those are my war marks.  From the battles I fought.
+ELLEN: They can't kick him out.
+WILL: They're gonna. My father
+ELLEN: ( interrupting strongly ) My mother says when someone's sick or hurt, you have to help them. You don't have a choice.
+JOHNNY: ( getting interested ) Yeah, but what if the hurt person You still have to help them. because if you don't, you're evil!
+ELLEN: You still have to help them. because if you don't, you're evil!
+WILL: ( importantly ) My father says.uh.he says, "Soldiers deserve soldiers."
+TOM: Yeah. That's what my father said My father's making Sergeant Todd a scarf because he saved his life one time. He's knitting it.
+ELLEN: My father's making Sergeant Todd a scarf because he saved his life one time. He's knitting it.
+WILL: That's dumb. Your father's dumb.
+SANDRA: It's beautiful, Jimmy. He'll love
+JIMMY PIG: He saved my life out there. I guess Mace told you.
+SANDRA: ( nods ) You should give it to him yourself. I think he's in the meeting room.
+JIMMY PIG: Scarf! Scarf!
+EVA: What..? What. are.those? Chester! CHESTER!
+JOHNNY: ( sullen ) Those are my war marks. From the battles I fought.
 MACE: There's going to be a meeting. People are upset about him.
 SANDRA: He's not fully recovered.
-MACE: That's what scares people.  He gets stronger every day.
-MACE: I've caught him..sneaking looks at you.  At your body.
+MACE: That's what scares people. He gets stronger every day.
+MACE: I've caught him..sneaking looks at you. At your body.
 SANDRA: I know.
 SANDRA: Are you afraid of him, Mace?
-MACE: Yes. (pauses, then) God knows where he's been...or what he's done.
-MACE: I've never been afraid of anyone before...not this way.  I feel he could break me in half...with no real effort and no real...feeling.
+MACE: ( pauses, then ) God knows where he's been.or what he's done.
+MACE: I've never been afraid of anyone before.not this way. I feel he could break me in half.with no real effort and no real.feeling.
 SANDRA: He told me he's afraid.
-MACE: Maybe he is.  It doesn't matter.
-SANDRA (O.S.): What happened?
-HAWKINS: No one here has any animosity toward you, Sergeant.  None of us here is your enemy.
+MACE: Maybe he is. It doesn't matter.
+HAWKINS: No one here has any animosity toward you, Sergeant. None of us here is your enemy.
 HAWKINS: Moreover, we respect your qualities. We have no doubt that you are a very, very good soldier.
-HAWKINS (O.S.): But, because of your training, I don't think you'll ever be able to function in a group like this, a community of vulnerable people, of families, of children, where the ability to fight is not the sole purpose of existence.
 HAWKINS: You're different from us, Sergeant. We don't hate you for that, but we have agreed that to try to include you would pose an intolerable risk to the community itself.
 MACE: We'll give you any tools you need, warm clothing, a good knife, boots.
-SANDRA: (emotionally) And if you're ever sick...or you get hurt...
-MACE: You're a friend, Sergeant.  It's just...
-MACE: If you need us...you can ask us for help.
-TODD: It's not true. (then, with great effort) I'm not a good soldier.
-CAINE 607: Crawler, Crawler to Daddy.  No hostiles!
-RUBRICK: All right, Crawler, Crawler, we got you.  This is Daddy.  Continue per, over.
-RUBRICK: We're clear.  We can send a crew out.
-CHURCH: (bored) Sloan's already on it.
-SLOAN: Suit up, fellas.  Time to go build another play house.
-RILEY: Sir.
-SLOAN: Yes, Riley, what is it?
+SANDRA: ( emotionally ) And if you're ever sick.or you get You're a friend, Sergeant. It's
+MACE: You're a friend, Sergeant. It's
+MACE: If you need us.you can ask us for
+TODD: It's not true. I'm not a good soldier.
+CAINE 607: Crawler, Crawler to Daddy. No
+RUBRICK: All right, Crawler, Crawler, we got you. This is Daddy. Continue per,
+RUBRICK: We're clear. We can send a crew Sloan's already on it.
+CHURCH: ( bored ) Sloan's already on it.
+SLOAN: Suit up, fellas. Time to go build another play house.
+RILEY: Yes, Riley, what is it? We haven't been issued weapons, sir.
+SLOAN: Yes, Riley, what is it? We haven't been issued weapons, sir.
 RILEY: We haven't been issued weapons, sir.
-SLOAN: (as to a child) You won't need weapons, Riley. You're not soldiers anymore.
-RILEY: (saluting) Yes, sir.
-SLOAN: You don't even have to salute anymore.  A simple "Yes, sir" will do.
-RILEY: Y-yes...sir.
-SLOAN: Every time it's time to send them out, Riley asks about weapons.  And every time I tell him they don't need weapons anymore, they're not soldiers anymore.
-RUBRICK: (eyes on VDT) Jesus!  It says here Macy's is going out of business.  Can you imagine that?  New York without Macy's?
+SLOAN: ( as to a child ) You won't need weapons, Riley. You're not soldiers anymore.
+RILEY: ( saluting ) Yes, sir.
+SLOAN: You don't even have to salute anymore. A simple "Yes, sir" will
+RILEY: SLOAN turns her back and exits. As the door closes, RILEY, unable to restrain himself any longer, salutes hastily as we.
+SLOAN: Every time it's time to send them out, Riley asks about weapons. And every time I tell him they don't need weapons anymore, they're not soldiers anymore.
+RUBRICK: ( eyes on VDT ) Jesus! It says here Macy's is going out of business. Can you imagine that? New York without Macy's?
 CHURCH: Next one's going to be a real pain in the ass.
-RUBRICK: (reading, not interested) Yeah?  What flavor pain in the ass? Gravity pain in the ass?  Atmosphere pain in the ass?
+RUBRICK: ( reading, not interested ) Yeah? What flavor pain in the ass? Gravity pain in the ass? Atmosphere pain in the ass?
 CHURCH: How about a "gaseous currents" and "urgent convections" pain in the ass.
 SLOAN: I think you're trying to say a "wind pain in the ass."
-RUBRICK: Wind!
-SANDRA: Mace!  What about the vote? Everybody voted.
+RUBRICK: CUT TO:
+SANDRA: Mace! What about the vote? Everybody voted.
 MACE: We voted wrong!
-CHURCH: It's a dump.  Literally.
-SLOAN: No shit!  We're gonna set up a monitor on a garbage dump!  So we can monitor garbage rusting?
+CHURCH: It's a dump. Literally.
+SLOAN: No shit! We're gonna set up a monitor on a garbage dump! So we can monitor garbage rusting?
 RUBRICK: Will the wind affect the patrol?
-CHURCH: The Crawlers are low enough and heavy enough, they won't blow.  The men should wear armored vests and carry double weapons and ammo for the weight.  They may have to use lines too, like mountain climbers.
-MACE: (pauses, then)
-MACE: Damn!  Thank you, Todd.  God damn! I almost took a... a...swim there!
-MACE: My...God!  Someone's landing.
+CHURCH: The Crawlers are low enough and heavy enough, they won't blow. The men should wear armored vests and carry double weapons and ammo for the weight. They may have to use lines too, like mountain climbers.
+MACE: TODD! TODD!
+MACE: TODD! WE'RE SORRY! WE WERE WRONG!
+MACE: Damn! Thank you, Todd. God damn! I almost took a. a.swim there!
+MACE: My.God! Someone's landing.
 SANDRA: What's going on?
-JUDITH: Someone's landing!  Jimmy Pig spotted a ship!
-MACE: Look at that.  It's some kind of vehicle.  A landing party.  HEY!
-MACE: (gasp) ...maybe...they're... (gasp) ...friendly...
-MACE: Oh, shit, Todd...I'm...dead... aren't I?  I'm not going to make it.
-MACE: Why?  Why?
-MACE: I'm not..a soldier. (then...) A...mistake?  Was it...a mistake?
-MACE: Oh, my God.  They won't...they won't...?  Not Sandra!  Not... not...Nathan!
-MACE: Soldiers!  Soldiers... (gasp) ...deserve...soldiers!
-RUBRICK: People.  They've spotted people!
-CHURCH: "People"!  "People"?  What do you mean "people"?
-RUBRICK: Two civilians.  Unarmed.  They've killed both of them.  They've spotted smoke from some kind of camp and they're going to check it out.
-SLOAN: A camp!  Jesus Christ!
-CHURCH: Damn! (worried) Did they ask for assistance?
+JUDITH: Someone's landing! Jimmy Pig spotted a ship!
+MACE: Look at that. It's some kind of vehicle. A landing party. HEY!
+MACE: ( gasp ) ( gasp )
+MACE: Oh, shit, Todd.I'm.dead. aren't I? I'm not going to make it.
+MACE: Why? Why?
+MACE: I'm not..a soldier. A.mistake? Was it.a mistake?
+MACE: Oh, my God. They won't.they won't.? Not Sandra! Not.
+MACE: Soldiers! Soldiers.
+RUBRICK: People. They've spotted people!
+CHURCH: "People"! "People"? What do you mean "people"?
+RUBRICK: Two civilians. Unarmed. They've killed both of them. They've spotted smoke from some kind of camp and they're going to check it out.
+SLOAN: A camp! Jesus Christ!
+CHURCH: ( worried ) Did they ask for assistance?
 RUBRICK: Not yet.
-CHURCH: Like my daddy used to say, "Nothing's ever as simple as it's supposed to be...except shit."
-SLOAN: (rolling her eyes) Thank you, "Daddy."
+CHURCH: Like my daddy used to say, "Nothing's ever as simple as it's supposed to be.except shit."
+SLOAN: ( rolling her eyes ) Thank you, "Daddy."
 RUBRICK: Who do you think they are?
-SLOAN: The civilians? (a shrug) Squatters...refugees. I don't think we want to know, do we?
+SLOAN: The civilians? Squatters.refugees. I don't think we want to know, do we?
 CHURCH: Good point.
-HAWKINS: I'm going to go out and talk to them.  More than likely they're friendly.  If not... (indicating Jimmy Pig, others) ...those of you with weapons will be ready to defend us.  The rest of you go back.
-RUBRICK: Report from Crawler One.  Everything under control.  No need for assistance.
+HAWKINS: I'm going to go out and talk to them. More than likely they're friendly. If not. .those of you with weapons will be ready to defend us. The rest of you go back.
+HAWKINS: HERE! OVER HERE!
+RUBRICK: Report from Crawler One. Everything under control. No need for There's resistance?
 CHURCH: There's resistance?
-RUBRICK: Ineffectual.  About fifty disorganized people with almost no fire power.  Three men are going in to clean them out; one man's staying with the Crawler.
-CHURCH: Humph.  Sounds reckless, three against fifty.  The old ones, the veterans, they would have called for support...just in case.
-SLOAN: Speaking of Riley and his old soldiers...why don't we let them start putting up the unit?  It's gonna take forever in this wind.
+RUBRICK: Ineffectual. About fifty disorganized people with almost no fire power. Three men are going in to clean them out; one man's staying with the Crawler.
+CHURCH: Humph. Sounds reckless, three against fifty. The old ones, the veterans, they would have called for support.just in case. Speaking of Riley and his old soldiers.why don't we let them start putting up the unit? It's gonna take forever in this wind.
+SLOAN: Speaking of Riley and his old soldiers.why don't we let them start putting up the unit? It's gonna take forever in this wind.
 RILEY: Will we be issued weapons, sir?
-SLOAN: (a sneering smile) No, Riley...no weapons.  You're not a soldier, Riley.
+SLOAN: ( a sneering smile ) No, Riley.no weapons. You're not a soldier, Riley.
 SANDRA: Keep going, children, don't panic, don't panic.
-RED: They got armored vests.  You got to aim for exposed parts like the face...
+RED: They got armored vests. You got to aim for exposed parts like the Here goes.
 SINGH: Here goes.
 RED: You want help, partner?
 SANDRA: Into the bedroom, all of you.
 SANDRA: Sergeant Todd!
-WALKIE-TALKIE (V.O.): Crawler One calling Double Mike. Give me an "okay," Double Mike.
 CAINE 607: Crawler to Daddy, Crawler to Daddy. Come in, Daddy!
-CHURCH (O.S.): A "growl"!  He heard a growl?
-RUBRICK: Well, he didn't say the word "growl."  He said a "throat-noise," but I asked him to imitate it and it sounded like a growl to me.
-CHURCH: My God!  Who are we fighting here!
-RUBRICK: (nervous) I think...I think we have to assume the missing men are...down.
-CHURCH: (getting up, pacing) I knew Mekum's hotshots were green. No reinforcements, then they walk right into an enemy stronghold.
-RUBRICK: We could send reinforcements now...
-CHURCH: (sharply) Absolutely not.  Those bastards are just waiting in there for us.  No more of this fancy super-soldier shit.  We do it with the hammer...
-RUBRICK: Uh, what does that mean, "the hammer"?
-CHURCH: (suddenly smug) My daddy always said, "When you want to insert a nail in a piece of wood, you don't do nothing fancy or glamorous, you don't finesse or play the hero, you just pick up your damn hammer and hit that sumbitch till it's in."
-SLOAN: (under her breath) Christ!  Now Daddy's a carpenter!
-RUBRICK: (to Church) I...don't...quite...follow...sir.
-CHURCH: (decisive, sharp) Take the whole unit, both Crawlers, and tell 'em to pound that place with rockets, cannons, mortars, everything we got...from a safe distance.
-RUBRICK: (brightening) Raw firepower!
+RUBRICK: Well, he didn't say the word "growl." He said a "throat-noise," but I asked him to imitate it and it sounded like a growl to me.
+CHURCH: My God! Who are we fighting here!
+RUBRICK: ( nervous ) I think.I think we have to assume the missing men are.down.
+CHURCH: ( getting up, pacing ) I knew Mekum's hotshots were green. No reinforcements, then they walk right into an enemy stronghold.
+RUBRICK: We could send reinforcements now.
+CHURCH: ( sharply ) Absolutely not. Those bastards are just waiting in there for us. No more of this fancy super-soldier shit. We do it with the hammer. Uh, what does that mean, "the ( suddenly smug ) My daddy always said, "When you want to insert a nail in a piece of wood, you don't do nothing fancy or glamorous, you don't finesse or play the hero, you just pick up your damn hammer and hit that sumbitch till it's in."
+RUBRICK: Uh, what does that mean, "the My daddy always said, "When you want to insert a nail in a piece of wood, you don't do nothing fancy or glamorous, you don't finesse or play the hero, you just pick up your damn hammer and hit that sumbitch till it's in."
+CHURCH: ( suddenly smug ) My daddy always said, "When you want to insert a nail in a piece of wood, you don't do nothing fancy or glamorous, you don't finesse or play the hero, you just pick up your damn hammer and hit that sumbitch till it's in."
+SLOAN: ( under her breath ) Christ! Now Daddy's a carpenter!
+RUBRICK: ( to Church ) ( decisive, sharp ) Take the whole unit, both Crawlers, and tell 'em to pound that place with rockets, cannons, mortars, everything we got.from a safe ( brightening ) Raw firepower!
+CHURCH: ( decisive, sharp ) Take the whole unit, both Crawlers, and tell 'em to pound that place with rockets, cannons, mortars, everything we got.from a safe ( brightening ) Raw firepower!
+RUBRICK: ( brightening ) Raw firepower!
 CHURCH: It may not be heroic, and we may waste some ammo, but by God we'll get the job done.
-SANDRA: Nathan, thank God, there you...
+SANDRA: Nathan, thank God, there you.
 SANDRA: Did he find you?
-SANDRA: My husband...Mace...he went out to look for you.  He...found you, didn't he?
-SANDRA: They...killed him...didn't they?
-SANDRA: Your wound...it's still bleeding.
+SANDRA: My husband.Mace.he went out to look for you. He.found you, didn't he?
+SANDRA: They.killed him.didn't they? Your wound.it's still bleeding.
+SANDRA: Your wound.it's still bleeding.
 TODD: I like to bleed, sir.
-SANDRA: It doesn't...hurt?
+SANDRA: It doesn't.hurt?
 TODD: Not enough, sir.
 SANDRA: How do you know they'll come back?
-TODD: They're soldiers, sir.  Like me.
-SANDRA: What...what do they want?
-TODD: Nothing.
-SANDRA: Nothing?
-TODD: They are obeying orders, sir.  It's their duty.
-SANDRA: You know who they are, don't you? Do you know how many there'll be?
+TODD: They're soldiers, sir. Like me.
+SANDRA: What.what do they want?
+TODD: They are obeying orders, sir. It's their duty.
+SANDRA: They are obeying orders, sir. It's their duty.
+TODD: They are obeying orders, sir. It's their duty.
+SANDRA: You know who they are, don't you? Do you know how many there'll be? Seventeen more, sir.
 TODD: Seventeen more, sir.
-SANDRA: Seventeen!  My God! (suddenly energized) You can't fight seventeen yourself! You have to organize the rest of us, show us what to do.  We don't have your...your skills...but we're not cowards.  We'll do what you tell us, we'll --
-TODD: (interrupting, softly) No.
+SANDRA: Seventeen! My God! You can't fight seventeen yourself! You have to organize the rest of us, show us what to do. We don't have your.your skills.but we're not cowards. We'll do what you tell us,
+TODD: ( interrupting, softly )
 SANDRA: Why not?
 TODD: Soldiers deserve soldiers, sir.
-SANDRA: But...one soldier against seventeen!
+SANDRA: But.one soldier against seventeen!
 TODD: I am going to kill them all, sir.
-SLOAN: Double belts, double ammo, double everything!  You've got to be heavy there or you'll blow away, fellas...and we wouldn't want that, would we?
+SLOAN: Double belts, double ammo, double everything! You've got to be heavy there or you'll blow away, fellas.and we wouldn't want that, would we? It's dark now, sir.
 CAINE 607: It's dark now, sir.
-SLOAN: You're afraid of the dark, Sergeant Caine?
-CAINE 607: No, sir.  But the manual says --
-SLOAN: That's what nightscopes are for, soldier.  For the dark.
-CAINE 607: Yes, sir.  But the sixth rule is "never give the enemy an advantage unnecessarily."  If they're expecting us --
-SLOAN: (erupting) Listen, Sergeant, this may come as news to you, but you're not a real hot thinker!  Your pitiful efforts at tactics have cost us three men already.  So turn it off, that little pea brain of yours! (turning to the others) That goes for all the rest of you mental giants too.  All you have to do is go boom-boom.  Understand? Boom-boom!  Kill kill!  Say it... Kill...kill...kill...
-SANDRA (O.S.): Sergeant!  Sergeant Todd!
-SANDRA: Sergeant...these soldiers...the ones you're going to fight...  Are these the "better ones"...the ones who replaced you?
-SANDRA: Sergeant Todd...I think they...I think...someone made a serious... mistake.
-RADIO: Crawler Two to Crawler One.  Do you have a sitrep?
+SLOAN: You're afraid of the dark, Sergeant No, sir. But the manual says
+CAINE 607: No, sir. But the manual says
+SLOAN: That's what nightscopes are for, soldier. For the dark.
+CAINE 607: Yes, sir. But the sixth rule is "never give the enemy an advantage unnecessarily." If they're expecting us
+SLOAN: ( erupting ) Listen, Sergeant, this may come as news to you, but you're not a real hot thinker! Your pitiful efforts at tactics have cost us three men already. So turn it off, that little pea brain of yours! ( turning to the others ) That goes for all the rest of you mental giants too. All you have to do is go boom-boom. Understand? Boom-boom! Kill kill! Say it.
+SANDRA: Sergeant.these soldiers.the ones you're going to fight. Are these the "better ones".the ones who replaced you?
+SANDRA: Sergeant Todd.I think they.I think.someone made a serious.
+GUNNER: CRAWLER ONE, WE ARE RED! RED! WE ARE RED!
+ARE RED!: By veering sharply, the DRIVER is able to shake off the body that was blocking his vision, clearing his shattered windshield.
+RADIO: Crawler Two to Crawler One. Do you have a sitrep?
 GUNNER: Crawler Two, we are one down, responding to sniper activity.
-CAINE 607: Crawler One, do you require assistance?
-RADIO: That is negative.  We will eliminate the sniper and rendezvous at target.
-CAINE 607: Roger, One.  We are proceeding to target.
-GUNNER: There!
+CAINE 607: Crawler One, do you require That is negative. We will eliminate the sniper and rendezvous at target.
+RADIO: That is negative. We will eliminate the sniper and rendezvous at target.
+CAINE 607: Roger, One. We are proceeding to
+GUNNER: The DRIVER steers toward where TODD disappeared.
 GUNNER: Tentative at One.
 GUNNER: That's negative, no target.
-JOHNNY: Where's my father?  Where's my father?
-JIMMY PIG: Johnny, get over under that table with Miss Sandra and Ellen and the others.  Miss Judith, you better go on down the root cellar with Emma and help with the ones down there.
+NEW SOLDIER: RED! RED! RE
+JOHNNY: DAD! DAAAAAAD!
+JOHNNY: Just then, JIMMY PIG pops out of a doorway in front of him and and rushes toward him.
+DAAAAAAAD!: Just then, JIMMY PIG pops out of a doorway in front of him and and rushes toward him.
+JIMMY PIG: BA-WHOOM! Another shell collapses the corridor behind JOHNNY as JIMMY PIG grabs him and hauls him toward the door he emerged from, the Dining Commons.
+GOTCHA!: BA-WHOOM! Another shell collapses the corridor behind JOHNNY as JIMMY PIG grabs him and hauls him toward the door he emerged from, the Dining Commons.
+JOHNNY: Where's my father? Where's my
+JIMMY PIG: Johnny, get over under that table with Miss Sandra and Ellen and the others. Miss Judith, you better go on down the root cellar with Emma and help with the ones down there.
 JOHNNY: Where's my mother?
 ELLEN: Come on, Johnny.
-CAINE 607: Crawler Two to Crawler One.  Come in, One.
-RADIO: One.
+CAINE 607: Crawler Two to Crawler One. Come in, One.
+RADIO: CAINE 607
 CAINE 607: Two to one, take your port to our nine o'clock and commence firing.
-RADIO: Copy, Two.  Port to your nine and commence firing.
-CAINE 607: Crawler Two to Crawler One.  Again; proceed to port nine...
+RADIO: Copy, Two. Port to your nine and commence firing.
+CAINE 607: Crawler Two to Crawler One. Again; proceed to port nine.
 RADIO: Affirmative, Two.
-CAINE 607: (into the mike) Two to One.  You are still on twelve o'clock.  Correct to nine.
-RADIO: Roger.
-CAINE 607: Gunner, hard to port, target hard to port!
-TODD: Roger, Two.  Affirmative.
-CHURCH: Whaaaaat?
-RED: (dampened) They stopped shooting!
-JIMMY PIG: (to Red) Give us a hand, dammit!
-SLADE: You think (grunt) that's good they stopped?  It means (grunt) they're comin' for us!  To (grunt) kill us! That's good news, you think?
-SANDRA: (looking for hope) Sergeant Todd (grunt, cough) said...
-SLADE: That he's gonna (grunt) stomp a whole army?  Couldn't if he wanted.
-SANDRA: He (grunt) knew them!  He said --
-SLADE: He's dead!  If he isn't (grunt) dead, he joined 'em.  He don't (grunt) care about us, he's a soldier.  Besides, we threw him out, remember?
+CAINE 607: ( into the mike ) Two to One. You are still on twelve o'clock. Correct to nine.
+RADIO: But the blip continues straight, directly at them. And suddenly CAINE realizes! Dropping the mike he snaps at his GUNNER urgently.
+CAINE 607: Gunner, hard to port, target hard to
+TODD: Roger, Two. Affirmative.
+CHURCH: CUT TO:
+RED: THEY STOPPED SHOOTING! THEY STOPPED
+SHOOTING!: He stops abruptly, seeing. a blazing fire, whipped by wind from a shel hole in the ceiling, consuming tables in the far half of the commons. while JIMMY PIG, SLADE and SANDRA struggle with one end of a huge beam that's fallen at an angle on top of a trap door in the floor, the root cellar. ELLEN, with NATHAN in her arms, TOMMY, WILL, JOHNNY and OTHER CHILDREN hover behind her, staring at. a six inch opening between the floor and the trap door where EMMA, JUDITH and OTHER CHILDREN, unable to squeeze through the six inch gap, peer out with frightened eyes, trapped.
+RED: ( dampened ) They stopped shooting!
+JIMMY PIG: ( to Red ) Give us a hand, dammit!
+SLADE: You think ( grunt ) that's good they stopped? It means ( grunt ) they're comin' for us! To ( grunt ) kill us! That's good news, you think?
+SANDRA: ( looking for hope ) Sergeant Todd ( grunt, cough ) said.
+SLADE: That he's gonna ( grunt ) stomp a whole army? Couldn't if he wanted.
+SANDRA: He ( grunt ) knew them! He said
+SLADE: He's dead! If he isn't ( grunt ) dead, he joined 'em. He don't ( grunt ) care about us, he's a soldier. Besides, we threw him out,
 SANDRA: He's not dead!
-RUBRICK: This is Daddy, come in, Number Two. Daddy calling Number Two...
-CHURCH: What about Number One?  Try Number...
-RUBRICK: I tried One.  I can't get either one of them.
-SLOAN: There was...some kind of... guerilla action...
-RUBRICK: Then we lost them...
-CHURCH: You should have waked me sooner! This is bad, very bad.  I never should have let that clown Mekum test his wonder boy army on me.  "If it ain't broke, don't fix it." Shit!  We don't even know what we're up against.  How many...?
+RUBRICK: This is Daddy, come in, Number Two. Daddy calling Number Two.
+CHURCH: What about Number One? Try I tried One. I can't get either one of them.
+RUBRICK: I tried One. I can't get either one of them.
+SLOAN: There was.some kind of. guerilla action.
+RUBRICK: Then we lost them.
+CHURCH: You should have waked me sooner! This is bad, very bad. I never should have let that clown Mekum test his wonder boy army on me. "If it ain't broke, don't fix it." Shit! We don't even know what we're up against. How many.?
 SLOAN: We couldn't get any figures on enemy troop strength.
-RUBRICK: Not even estimates...
-CHURCH: We're sitting ducks here!  There could be a couple of divisions! More!  We don't even have the weapons to arm the old soldiers.
-RUBRICK: (into the mike, desperately) Hello...  Hello, One. This is Daddy...
-RADIO (V.O.): This is Daddy!  Come in, Crawler Two, come in...
-SLADE: Get them kids (grunt) hid somewhere! There's soldiers coming.
-JIMMY PIG: Don't worry.  Couple more inches and they're out.
-SLADE: You know where Thomas keeps those two axes?  Go get the axes.
-JIMMY PIG: (so Emma and Ruth can't hear) We can't (cough) chop 'em out.  We don't have time.
-SLADE: Just as good (gasp) to die chopping as fighting.
-SLADE: This (grunt, cough) ain't gonna work.  Where's them axes?  He musta run into soldiers and got killed.
+RUBRICK: Not even estimates.
+CHURCH: We're sitting ducks here! There could be a couple of divisions! More! We don't even have the weapons to arm the old soldiers.
+RUBRICK: ( into the mike, Hello. Hello, One. This is
+SLADE: Get them kids ( grunt ) hid somewhere! There's soldiers coming.
+JIMMY PIG: Don't worry. Couple more inches and they're out.
+SLADE: You know where Thomas keeps those two axes? Go get the axes.
+JIMMY PIG: ( so Emma and Ruth can't We can't ( cough ) chop 'em out. We don't have time.
+SLADE: Just as good ( gasp ) to die chopping as fighting.
+SLADE: This ( grunt, cough ) ain't gonna work. Where's them axes? He musta run into soldiers and got killed.
 JIMMY PIG: How do you know there's soldiers coming?
-SLADE: 'Cause soldiers (gasp) finish what they start -- unless you stop 'em. And we're what (gasp) they started, and we didn't stop 'em! (shouts to Emma)
-RED: (grabbing the axe) Only one axe?
+SLADE: 'Cause soldiers ( gasp ) finish what they start unless you stop 'em. And we're what ( gasp ) they started, and we didn't stop 'em!
+RED: SOLDIERS! SOLDIERS! Only one axe?
+SLADE: ( grabbing the axe ) Only one axe?
 RED: They took the other one!
-SLADE: (chopping furiously) Toldja.
-JIMMY PIG: (to Red) How many?
-RED: I... I couldn't... I couldn't... count 'em.  Four, I think.  Maybe five.
-SLADE: (chopping) More!  Trust me!
-JIMMY PIG: (grabbing the axe) Turns.
+SLADE: ( chopping furiously ) ( to Red ) How many?
+JIMMY PIG: ( to Red ) How many?
+RED: I. I couldn't. I couldn't. count 'em. Four, I think. Maybe More! Trust me!
+SLADE: ( chopping ) More! Trust me!
+JIMMY PIG: ( grabbing the axe )
 SLADE: Do what you can.
-SLADE: They're gonna kill us anyhow.  No point in surrendering. (grabbing the axe) Turn!
-SANDRA: "-- sailed an a river of crystal light into a sea of dew.  Where are you going and what do you wish the old moon asked the three.  'We've come to fish for herring fish...'"
+SLADE: They're gonna kill us anyhow. No point in surrendering.
+SANDRA: " sailed an a river of crystal light into a sea of dew. Where are you going and what do you wish the old moon asked the three. 'We've come to fish for herring fish.'"
 TOMMY: What's a "moon?"
-JOHNNY: I know what a moon is!  It's...
-SANDRA: (suddenly, urgently)
-SANDRA: Oh, my God!  It's... it's you!
-SANDRA: Are you...all right?
+JOHNNY: I know what a moon is! It's.
+SANDRA: ( suddenly, urgently )
+SHHHHHHH!: SANDRA is reacting to vague movement in the shadows beyond the door.and sounds. She puts her hand over the mouth of a whimpering CHILD, hushes A timber falls outside the door and SANDRA sees a shadowy shape enter the meeting room, looming in the darkness. Frightened CHILDREN hold their breath, peer out fearfully. CRACK! SMASH! The huge shape hurls aside the debris in his way, switches on a flashlight, probes the darkness. The light wipes the damaged room. Suddenly, SANDRA gasps.
+SANDRA: Oh, my God! It's. it's you!
+SANDRA: Are you.all right?
 TODD: We should go, sir.
-SANDRA: Go?
+SANDRA: INT. CORRIDOR Peering into the smoke, RED reacts. RED'S POV of CAINE 607, obscured by smoke, crossing the corridor ahead, not seeing RED. ANGLE ON RED, summoning all his courage, raising his rifle, ANGLE ON CAINE 607 reacting, looking toward RED. ANGLE ON RED scared to death, firing again! And again! ANGLE ON CAINE 607 wrenching a heavy door from its hinges and holding it in front of him, shielding himself from RED's continuous shooting, advancing. ANGLE ON RED, firing again and again.and backing up. ANGLE ON CAINE 607 holding the door/shield as he advances on RED. Backing, RED trips, goes down flat on his back. CAINE 607, only six feet away, hurls the door at him. RED shoves the door aside, aims his gun up at CAINE 607, as the huge soldier looms over him. Before RED can pull the trigger, CAINE 607 snatches the rifle barrel and yanks the weapon out of RED'S hands. RED rolls, scrambles to his feet. And CAINE 607 clubs him to the ground with the butt of the rifle, crushes his skull with three brutal blows.
+BANG!: ANGLE ON CAINE 607 reacting, looking toward RED. ANGLE ON RED scared to death, firing again! And again! ANGLE ON CAINE 607 wrenching a heavy door from its hinges and holding it in front of him, shielding himself from RED's continuous shooting, advancing. ANGLE ON RED, firing again and again.and backing up. ANGLE ON CAINE 607 holding the door/shield as he advances on RED. Backing, RED trips, goes down flat on his back. CAINE 607, only six feet away, hurls the door at him. RED shoves the door aside, aims his gun up at CAINE 607, as the huge soldier looms over him. Before RED can pull the trigger, CAINE 607 snatches the rifle barrel and yanks the weapon out of RED'S hands. RED rolls, scrambles to his feet. And CAINE 607 clubs him to the ground with the butt of the rifle, crushes his skull with three brutal blows.
 SANDRA: Sarah, you hang on to Sergeant Todd. No matter what happens!
-SANDRA: Ellen, go to the Commons.  Tell Jimmy Pig and Mr. Slade that Sergeant Todd says we have to leave as soon as they get everybody out of the root-cellar.  Can you do that?
-ELLEN: (scared) Uh, yes, ma'am.
-SANDRA: It's all right.  The soldiers are gone for now.  But be careful where you walk.  And if it's too smoky, just come back.
-SARAH: (on her way out) Yes, ma'am.
-SANDRA: (calling after her) Tell them to bring all the food and clothing they can carry. (turning to the children) Do you all understand that Sergeant Todd here is going to help us, and whatever he says to do you must do immediately, as if he was your father or your mother.
-SARAH: (tears) He's not my father!
-SANDRA: No... but he's our friend.  Our good friend.  Do you understand?
-JOHNNY: I want my father and my mother!  Can he find where my father is?  I want him to find my father!
-SANDRA: No.  No, he can't do that, but --
+SANDRA: Ellen, go to the Commons. Tell Jimmy Pig and Mr. Slade that Sergeant Todd says we have to leave as soon as they get everybody out of the root-cellar. Can you do that?
+ELLEN: ( scared ) Uh, yes, ma'am.
+SANDRA: It's all right. The soldiers are gone for now. But be careful where you walk. And if it's too smoky, just come back.
+SARAH: ( on her way out ) Yes, ma'am.
+SANDRA: ( calling after her ) Tell them to bring all the food and clothing they can carry. ( turning to the Do you all understand that Sergeant Todd here is going to help us, and whatever he says to do you must do immediately, as if he was your father or your mother.
+SARAH: ( tears ) He's not my father!
+SANDRA: No. but he's our friend. Our good friend. Do you understand?
+JOHNNY: I want my father and my mother! Can he find where my father is? I want him to find my father!
+SANDRA: No. No, he can't do that, but
 SANDRA: Sergeant Todd!
-MEKUM/VIDEO SCREEN: You can't be serious!  This is some kind of a joke...in poor taste.
-CHURCH: Not only are we apparently out twenty of your fancy new soldiers, your supermen, we're out both crawlers and all the weapons...so we can't arm the old soldiers, the ones you "improved" on, to defend ourselves...
-SLOAN: (panicky, blurting at the screen) We've got to get out of here, Colonel Mekum!
-MEKUM/VIDEO IMAGE: Abort?  You want to lose twenty top soldiers to a phantom army and then abort the mission?  Do you know what that would look like on my record? Or yours?  We'd be explaining it for the next fifty years from some goddam assignment in God knows where, we'd --
-CHURCH: (interrupting sharply) Well, how's it gonna look when we lose the ship too?  How's that gonna look on the old record?  'Cause that's what's gonna happen if we don't get our ass outta here.  We can't defend ourselves with no weapons and --
-MEKUM/VIDEO IMAGE: (fighting his own panic) Hold on, hold on there, Captain!  At ease!  Let's calm down and remember...remember we're soldiers.
-CHURCH: (sarcastic) Good plan, Colonel.
-MEKUM/VIDEO IMAGE: (moving on, improvising) Now we can't just get the shit kicked out of us by an unknown guerilla army...  But maybe we could...alter...our objective...
-CHURCH: Meaning?
-MEKUM/VIDEO IMAGE: Nuke the joint...and get out!
+SANDRA: THEY'RE JUST CHILDREN!
+CHURCH: Not only are we apparently out twenty of your fancy new soldiers, your supermen, we're out both crawlers and all the weapons.so we can't arm the old soldiers, the ones you "improved" on, to defend We've got to get out of here, Colonel Mekum! Abort? You want to lose twenty top soldiers to a phantom army and then abort the mission? Do you know what that would look like on my record? Or yours? We'd be explaining it for the next fifty years from some goddam assignment in God knows where, we'd
+SLOAN: ( panicky, blurting at We've got to get out of here, Colonel Mekum! Abort? You want to lose twenty top soldiers to a phantom army and then abort the mission? Do you know what that would look like on my record? Or yours? We'd be explaining it for the next fifty years from some goddam assignment in God knows where, we'd
+CHURCH: ( interrupting sharply ) Well, how's it gonna look when we lose the ship too? How's that gonna look on the old record? 'Cause that's what's gonna happen if we don't get our ass outta here. We can't defend ourselves with no weapons and
+CHURCH: ( sarcastic ) Good plan, Colonel.
+CHURCH: MEKUM/VIDEO IMAGE
 CAINE 607: It hurts!
-TODD: (sympathetic) I know.
-SANDRA: Sergeant...
-SANDRA: Nathan!
-JOHNNY: S-sir...sir, are you our friend? (indicating Sandra) Sh-she said you were our friend.
-SLADE: You!
+TODD: ( sympathetic ) I know.
+SANDRA: TODD turns and sees SANDRA slumped against the wall where Caine 607 threw her. There's a trickle of blood coming from a nostril, more blood in her hair. Her eyes don't look right.
+SANDRA: TODD sees NATHAN looking at his mother with fear in his eyes. Struggling to his feet, TODD picks up NATHAN and puts the boy down close to his mother. SANDRA reaches out and takes NATHAN's hand. She holds NATHAN's hand toward TODD. TODD looks confused. There are tears in SANDRA's eyes as she pushes NATHAN's little hand into TODD's huge left paw. TODD looks down at the joined hands, then he looks into SANDRA's flooded eyes. Does TODD understand her gesture? His face is impassive. Maybe he doesn't. Just then a hand touches his shoulder. TODD turns to see JOHNNY face him, trembling but valiant, to ask the question the others are fearful of asking.
+JOHNNY: S-sir.sir, are you our friend? Sh-she said you were our friend.
+SLADE: JIMMY PIG
 JIMMY PIG: Thank God!
-SLOAN (O.S.): Well, Riley, you wanted a weapon, right?  Now you got one!  A real biggee!
-RUBRICK: What good'll it do just setting it outside?  We don't know where the enemy is.
-CHURCH: Doesn't matter.  For once Mekum's on the ball. This is a very dirty bomb!  That wind will churn the radioactivity around like soap in a washing machine.  This is gonna be one clean place in a very short time...
-SLOAN: Okay, fellas, take it about a hundred yards, then get back on the double...unless you wanna fry.
+FROM DADDY.": The heavy bomb is lugged along a long narrow corridor.
+RUBRICK: What good'll it do just setting it outside? We don't know where the enemy is.
+CHURCH: Doesn't matter. For once Mekum's on the ball. This is a very dirty bomb! That wind will churn the radioactivity around like soap in a washing machine. This is gonna be one clean place in a very short time.
+SLOAN: Okay, fellas, take it about a hundred yards, then get back on the double.unless you wanna fry.
+RUBRICK: THIRTY MINUTES IS AWFUL TIGHT! WE HAVE TO LAUNCH AND GET CLEAR OF THE IT'S ENOUGH. IF WE LEAVE MORE THAN ENOUGH, THE ENEMY MAY GET CLEAR SOMEHOW AS WELL.
+CHURCH: IT'S ENOUGH. IF WE LEAVE MORE THAN ENOUGH, THE ENEMY MAY GET CLEAR SOMEHOW AS WELL.
 CHURCH: Right horizontal?
-RUBRICK: Roger.  Right horizontal checks green.
-CHURCH: All right we're "go."  I'm allowing us three minutes to clear the atmosphere and get out of range. That means we can wait seven more minutes.
-SLOAN: Fuck 'em!  Let's just go!
-RUBRICK: She's right!  Four more casualties aren't gonna mean anything to anybody, especially when they're already obsolete.
-CHURCH: I guess they wouldn't want to get old anyway. (to Sloan) Go ahead, lock the hatch. (to Rubrick) Rube, punch up the port power cluster and --
-SLOAN: (interrupting urgently) What was that?
-CHURCH: Huh?  What was what?
-SLOAN: Sssshhhh!  Listen!
-RUBRICK: It sounds...
+RUBRICK: Roger. Right horizontal checks
+CHURCH: All right we're "go." I'm allowing us three minutes to clear the atmosphere and get out of range. That means we can wait seven more Fuck 'em! Let's just go!
+SLOAN: Fuck 'em! Let's just go!
+RUBRICK: She's right! Four more casualties aren't gonna mean anything to anybody, especially when they're already obsolete.
+CHURCH: I guess they wouldn't want to get old anyway. Go ahead, lock the hatch. Rube, punch up the port power cluster and
+SLOAN: ( interrupting urgently ) What was that?
+CHURCH: Huh? What was what?
+SLOAN: Sssshhhh! Listen!
+RUBRICK: It sounds.
 SLOAN: Like a kid!
-RUBRICK: Are you crazy?  You can't do this, soldier!  You're going to be in trouble.
+RUBRICK: Are you crazy? You can't do this, soldier! You're going to be in
 CHURCH: I'm your superior officer, don't you understand that?
-CHURCH: Don't you realize you're violating the chain of command?  I'm giving you a direct order to...to...to...
-CHURCH: S-sergeant?  S-sergeant T-todd? It...  You...!  How...?  How...?
+CHURCH: Don't you realize you're violating the chain of command? I'm giving you a direct order to.to.to.
+CHURCH: S-sergeant? S-sergeant T-todd? It. You.! How.? How.?
 SLOAN: Sergeant Todd!
-RUBRICK: Listen, you don't understand!  That bomb is triggered!  It's on a timer!
-CHURCH: We have to get out of here!  All of us!  You need us!  You need us to operate the ship...
-CHURCH (V.O.): Twenty seconds.  Hurry.
-SLOAN: Oh, my God, I can't remember if it's six-seven or seven-six...
+RUBRICK: Listen, you don't understand! That bomb is triggered! It's on a timer!
+CHURCH: We have to get out of here! All of us! You need us! You need us to operate the ship.
+SLOAN: YOU'RE FUCKING MORONS! CAN'T YOU DIMWITS GRASP THAT YOU'RE KILLING US ALL! YOU'RE KILLING YOURSELVES! THERE'S ONLY A FEW MINUTES LEFT! NO! NO! NO!
+RUBRICK: NO! NO! NO!
+CHURCH: DOWN! LIE DOWN! FLAT!
+SLOAN: NO! NO! NO! PLEASE! NO!
+SLOAN: OH, MY GOD! OH, MY GOD! THERE IT IS! I SEE IT!
+CHURCH: THERE IT IS! I SEE IT!
+SLOAN: Oh, my God, I can't remember if it's six-seven or seven-six.
 CHURCH: Try one! Try it!
-SLOAN: There!  I did it!  Did it stop?  Did it -- ?
-MEKUM/VIDEO IMAGE: ...I need a report, Captain.  It's not just my ass, it's yours too! You've got to stand by me on this. I want you to come in right now... right now!  Do you understand me? Right now!
-MEKUM/VIDEO IMAGE: This is important for all of us, for our careers.  There's going to be a Board of Inquiry and --
-SLADE'S VOICE (O.S.): That was the boss, huh?
-SLADE: Well then, I guess you fellas are all right.  I guess I misjudged you some.  Where I said you were "a buncha no good killer robots," I mighta just overspoke myself.  As of now, till it goes otherwise, you got my sincere approval and support.
-RILEY: Cold.
-TODD: Air?
-TODD: Safe?
-RILEY: (nodding yes) But very cold.
+SLOAN: There! I did it! Did it stop? Did it ?
+SLADE: Well then, I guess you fellas are all right. I guess I misjudged you some. Where I said you were "a buncha no good killer robots," I mighta just overspoke myself. As of now, till it goes otherwise, you got my sincere approval and support.
+RILEY: TODD looks back at the dot, considers it, looks back at RILEY.
+TODD: RILEY nods a yes. TODD is thoughtful.finally asks the next question.
+TODD: ( nodding yes ) But very cold.
+RILEY: ( nodding yes ) But very cold.
 TODD: That one.
 RILEY: Aye, aye, sir.
+THE END: Writers : David Webb Peoples

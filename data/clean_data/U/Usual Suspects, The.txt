@@ -1,153 +1,116 @@
-VOICE (O.S.): How are you, Keaton?
-KEATON: I'd have to say my spine was broken, Keyser.
-VOICE (O.S.): Ready?
+KEATON: I'd have to say my spine was broken,
 KEATON: What time is it?
-VOICE (O.S.): Twelve thirty.
-VERBAL (V.O.): New York. - six weeks ago. A truck loaded with stripped gun parts got jacked outside of Queens. The driver didn't see anybody, but somebody fucked up. He heard a voice. Sometimes, that's all you need.
-VOICE (O.S.): Mr. McManus? McMANUS Yeah.
-VOICE (O.S.): Police. We have a warrant for your arrest. McMANUS Will they be serving coffee downtown?
+GUNSHOT: The sound of Keaton's body slumping onto the deck.
+BOOM: 3 INT. DARK APARTMENT - DAY - NEW YORK - SIX WEEKS PRIOR TO
+PRESENT DAY: The black explodes with the opening of a door into a dark room. Outside, the hall is filled with blinding white light. Shadows in the shapes of men flood into the room. We can make out men in hoods with flashlights. They are laden with It is a blur of violent action and sound.'Beams of flashlights cut the darkness in all directions.
+VOICES: POLICE. SEARCH WARRANT. DON'T MOVE.
 HOCKNEY: Can I help you?
-MAN: Todd Hockney'
+MAN: Todd Hockney' Who are you?
 HOCKNEY: Who are you?
-MAN: Police.
+MAN: Hockney withdraws a filthy towel and wipes grease and sweat from his forehead.
 HOCKNEY: We don't do gun repair.
 EDIE: Let me look at you.
-EDIE (CONT'D): Now remember, this is another kind of business. They don't earn your respect. You owe it to them. Don't stare them down but don't look away either. Confidence. They are fools not to trust you. That's the attitude.
 KEATON: I'm having a stroke.
 EDIE: You've come far. You're a good man. I love you.
+PAUSE: EDIE ( CONT'D )
 FORTIER: Edie, nice to see you.
 EDIE: Sorry we're late.
 FORTIER: Nonsense. Sit, please.
-RENAULT: (struggling with English) You must be Mr. Keaton.
+RENAULT: ( struggling with English ) You must be Mr. Keaton.
 EDIE: I'm sorry. Dean Keaton
 RENAULT: Monsieur Renault. A pleasure.
 KEATON: How do you do?
-FORTIER: Monsieur Fortier. So nice to finally meet you.
-KEATON: Skeptical.
+FORTIER: Monsieur Fortier. So nice to finally meet
+FORTIER: Edie brought us your proposal and I'll be honest. We're very impressed. A bit skeptical, I must admit, but impressed.
+KEATON: We find the concept brilliant, but New York is difficult for new restaurants. How can we be certain that our money will be returned in the long run?
 RENAULT: We find the concept brilliant, but New York is difficult for new restaurants. How can we be certain that our money will be returned in the long run?
 KEATON: It's simple gentlemen, design versatility. A restaurant that can change with taste without losing the overall aesthetic. Our atmosphere won't be painted on the walls.
 FORTIER: This was the part of the proposal that intrigued us, but I'm not sure I follow.
 KEATON: Let's say for example -
-VOICE (O.S.): This I had to see myself.
 KEATON: Dave. I'm in a meeting.
 KUJAN: Time for another one.
-KEATON: This is my attorney, Edie Finneran. (Gesturing)
-KUJAN: Special Agent Kujan. U.S. Customs. (Gestures to men behind him) These gentlemen are with the New York police department. You look great, Keaton. Better than I would have thought.
+KEATON: This is my attorney, Edie Finneran.
+KUJAN: Special Agent Kujan. U.S. Customs. These gentlemen are with the New York police department. You look great, Keaton. Better than I would have thought.
 RENAULT: Is there a problem, Mr. Keaton?
 KUJAN: The small matter of a stolen truck-load of guns that wound up on a boat to Ireland last night.
 FORTIER: Mr. Keaton?
-KEATON: If you will excuse us for a moment, gentlemen.
+KEATON: If you will excuse us for a moment, We need to ask you some questions downtown. You'll be quite awhile.
 KUJAN: We need to ask you some questions downtown. You'll be quite awhile.
 RENAULT: We should leave you to discuss whatever this is.
 KEATON: Please. Sit.
-KEATON: Enjoy the meal. (To Edie) I'LL call you.
-VERBAL (V.O.): It didn't make sense that I be there. I mean these guys were hard-core hijackers, but there I was. At that point, I wasn't scared, f knew I hadn't done anything they could do me for. Besides, it was fun. I got to make like I was notorious.
-VOICE (O.S.): SHUT UP IN THERE. Alright, you all know the drill. When your number is called, step forward and repeat the phrase you've been given. Understand?
-VOICE (O.S.): Number one. Step forward.
-HOCKNEY: Hand-me-the-keys, you-fucking-cock- sucker.
-VOICE (O.S.): Number two. Step forward. McMANUS Give me the keys, you motherfucking, cocksucking pile of shit, or I'll rip off your
-VOICE (O.S.): KNOCK IT OFF. Get back in line.
-VERBAL (V.O.): It was bullshit. The whole rap was a setup. Everything is the cops' fault. You don't put guys like that in a room together. Who knows what can happen?
+KEATON: Enjoy the meal. I'LL call you.
+HOCKNEY: Hand-me-the-keys, you-fucking-cock- Number two. Step forward. Give me the keys, you motherfucking, cocksucking pile of shit, or I'll rip off KNOCK IT OFF. Get back in line.
 MCMANUS: This has to be embarrassing for you guys, huh? I mean you know and I know this is a load of shit, but at least I don't have a captain with his dick in my ass making me play along. That has got to suck,
-VOICE (O.S.): Are you done? McManus Do you work for a broad? That would have to be the worst.
-VOICE (0.8.): Are you done? McMANUS Still, I guess dignity is a small pries to pay for medical and a pension. A small pension, mind you, but a pension nonetheless.
-VERBAL (V.O.): They drilled us all night. Somebody was pissed about that truck getting knocked off and the cops had nothing. They were hoping somebody would slip. Give them something to go on. They knew we wouldn't fight it because they knew how to lean on us. They'd been doing it forever. Our rights went right out the window. It was a violation. I mean disgraceful.
-VERBAL (V.O.): They went after McManus first. He was a good guy. Crazy though. A top notch entry man .
-VOICE (O.S.): So where'd you dump the truck? McMANUS What truck?
-VOICE (O.S.): The truck with the guns, fucko. McMANUS You kill me, you really do. Where's my phone call?
-VOICE (O.S.): Right here. Suck it out. McMANUS Clever guy.
-VOICE (O.S.): You want to know what your buddy Fenster told us?
 FENSTER: I want to call my lawyer. I don;'t know about any truck. I was in Connecticut all night on Friday.
-VOICE (O.S.): That's not what McManus said.
-FENSTER: Who?
-VOICE (0.8.): McManus. Be told us another story altogether. FENSTER                                    t Was it the one about the hooker with dysentery I swear , she never mentioned money until I came.
-VOICE (O.S.): Be fold us about the truck. FENSTER                                    s To be honest, it was more like a                           + mobile home. She made a lot of money,                      t
-VOICE (O.S.)                                  +: Who took the guns off your hands?
-FENSTER: Hey, are we talking about the same thing?
-VOICE (O.S.): I'm losing my patience.
-VERBAL (V.O.): Fenster always worked with McManus. He was a real tight-ass, but when it came to the job, he was right on. Smart guy. A gopher. Got whatever you needed for next to nothing.
+FENSTER: VOICE ( 0.8. )
+FENSTER: Hey, are we talking about the same I'm losing my patience.
 FENSTER: You guys got nothing on me. Where's your probable cause?
-VOICE (O.S.): You're a known hijacker. You're sweating like a guilty motherfucker. That's my p.c. Save us the time. Tell us where the truck is.
 FENSTER: HELLO? Can you hear me in the back? P.C.
-FENSTER (CONT'D): Where is it? I'm lookin'. It's not happening. What's going on with that? I want
-HOCKNEY: - my lawyer. I'll have your badge, cocksucker.
-HOCKNEY (CONT'D): I know you. You don't think I know you're on the take. This whole fucking precinct is dirty. You don't have a fucking leg to stand on.
-VERBAL (V.O.): Hockney was just a bad bastard. Good with explosives. Mean as a snake when it mattered .
-VOICE (O.S.): You think so, tough guy? I can put you in Queens the day of the hijacking.
+HOCKNEY: - my lawyer. I'll have your badge, I know you. You don't think I know you're on the take. This whole fucking precinct is dirty. You don't have a fucking leg to stand on.
 HOCKNEY: I live in Queens. What the fuck is this? You come into my store and lock me up in front of my customers. What the hell is wrong with this country? Are you guys gonna charge me or what?
-VOICE (O.S.): You know what happens if you do another turn in the joint?
 HOCKNEY: I'll fuck your father in the shower. Charge me, dick-head.
-VERBAL (V.O.): Keaton was the real prize for them, for obvious reasons.
-VOICE (O.S.): I'll charge you when I'm ready.
 KEATON: with what?
-VOICE (O.S.): You know damn well, dead-man.
 KEATON: Hey, that was your mistake, not mine. Did you ever think to ask me? I've been
-VOICE (O.S.): What's that? The restaurant business? Not anymore From now on you're in the getting-fucked-by-us business . I'm gonna make you famous, cocksucker.
 KEATON: Like I said. It was all your mistake. Charge me with it and I'll beat it. Let's get back to the truck.
 FENSTER: Somebody should do something. What is this shit - getting hauled in every five minutes? Okay, so I did a little time, does that mean I get railed every time a truck finds its way off the planet?
 HOCKNEY: These guys got no probable cause.
-FENSTER: You're fuckin' A right, no P.C. Well screw P.C. No right. No goddamn right. You do some time, they never let you go. Treat me like a criminal, I'll end up a criminal.
+FENSTER: You're fuckin' A right, no P.C. Well screw P.C. No right. No goddamn right. You do some time, they never let you go. Treat me like a criminal, I'll end up a You are a criminal.
 HOCKNEY: You are a criminal.
 FENSTER: Why you gotta go and do that? I'm trying to make a point.
-KEATON: Then make it. Christ, you're making me tired all over. McMANUS I heard you were dead, Keaton.
+KEATON: Then make it. Christ, you're making me tired all over. I heard you were dead, Keaton.
 KEATON: You heard right.
-HOCKNEY: The word I got is you hung up your spurs, man. What's that all  about? McMANUS What's this?
-HOCKNEY: Rumor has it, Keaton's gone straight - cleaning house. I hear he's tapping Edie Finneran. McMANUS Who?
-HOCKNEY: She's a heavy-weight criminal lawyer from uptown. Big-time connected. She could erase Dillinger's record if she tried. I hear she's Keaton's meal ticket. (To Keaton) Is it true? McMANUS
+HOCKNEY: The word I got is you hung up your spurs, man. What's that all about? What's this?
+HOCKNEY: Rumor has it, Keaton's gone straight - cleaning house. I hear he's tapping Edie She's a heavy-weight criminal lawyer from uptown. Big-time connected. She could erase Dillinger's record if she tried. I hear she's Keaton's meal ticket. Is it true? What about it, Keaton? You a lawyer's wife. What sort of "retainer" you giving I'd say you've gotten on his main and central nerve, McManus.
+HOCKNEY: She's a heavy-weight criminal lawyer from uptown. Big-time connected. She could erase Dillinger's record if she tried. I hear she's Keaton's meal ticket. Is it true? What about it, Keaton? You a lawyer's wife. What sort of "retainer" you giving I'd say you've gotten on his main and central nerve, McManus.
 FENSTER: I'd say you've gotten on his main and central nerve, McManus.
-KEATON: Do your friend a favor, Fenster, keep him quiet . McMANUS You're clean, Keaton? Say it ain't so. Was it you that hit that truck?
+KEATON: Do your friend a favor, Fenster, keep him quiet . You're clean, Keaton? Say it ain't so. Was it you that hit that truck?
 FENSTER: Forget him. It's not important. I was trying to make a point.
-KEATON: (Ignoring McManus) This whole thing was a shakedown. McMANUS What makes you say that?
+KEATON: ( Ignoring McManus )
 KEATON: How many times have you been in a line- up? It's always you and four dummies. The P.D. pays homeless guys ten bucks a head half the time. No way they'd line five felons in the same row. No way. And what the hell is a voice line-.up? A public defender could get you off of that.
 FENSTER: So why the hell was I hauled in and cavity searched tonight?
 KEATON: It was the Feds. A truck load of guns gets snagged, Customs comes down on N.Y.P.D. for some answers - they come up with us. They're grabbing at straws. It's politics - nothing you can do.
-FENSTER: I had a guy's fingers in my asshole tonight.
+FENSTER: I had a guy's fingers in my asshole Is it Friday already?
+HOCKNEY: Is it Friday already?
 FENSTER: Fuck you. I'11 never shit right again. So who did it? Own up.
-KEATON: I don't want to know. McMANUS Nobody asked you, workin'-man.
+KEATON: I don't want to know. Nobody asked you, workin'-man.
 HOCKNEY: Fuck who did it. What I want to know is, who's the gimp?
 KEATON: He's alright.
 HOCKNEY: How do I know that? How about it, pretzel-man? What's your story?
-KEATON: His name is Verbal Kint. I thought you guys knew him. McMANUS Verbal?
+KEATON: His name is Verbal Kint. I thought you guys knew him. Roger really. People say I talk too much.
 VERBAL: Roger really. People say I talk too much.
 HOCKNEY: Yeah, I was gonna tell you to shut up.
-KEATON: We've met once or twice. Last time was in...
+KEATON: We've met once or twice. Last time was County. I was in for fraud.
 VERBAL: County. I was in for fraud.
 KEATON: You were waiting for a line-up then, too. What happened with that?
+VERBAL: I walked. Ninety days, suspended.
 HOCKNEY: So you did it?
 VERBAL: To your mother's ass.
-KEATON: (To Hockney) Let it go. McMANUS Look, we've all been put out by this, I figure we owe it to ourselves to salvage a little dignity. Now Fenster and I got wind of a possible job -
+KEATON: ( To Hockney )
 KEATON: Why don't you just calm down'
-HOCKNEY: What do you care what he says? McMANUS Yeah, I'm just talking here, and Hockney seems to want to hear me out. I know Fenster is with me - (To Verbal) How about you, guy?
-VERBAL: I'm interested, sure. McMANUS There, so you see, I'm going to exercise my right to free assembly.
+HOCKNEY: What do you care what he says? Yeah, I'm just talking here, and Hockney seems to want to hear me out. I know Fenster is with me - How about you, guy?
+VERBAL: I'm interested, sure. There, so you see, I'm going to exercise my right to free assembly.
 KEATON: I'm not kidding. Shut your mouth.
-KEATON: No, you're missing the point. Shut up. I don't want to hear anything you have to say. I don't want to know about your "job". Just don't let me hear you. I want nothing to do with any of you - (Beat) I beg your pardon but all of you can go to hell. McMANUS Dean Keaton, gone the high road. What is the world coming to? McMANUS (CONT'D) Forget him then. (Whispering) Now I can't talk about this here in any detail, but listen up...
-VERBAL (V.O.): And that was how it began. The five of us brought in on a trumped-up charge to be leaned on by half-wits. What the cops never figured out, and what I know now, was that these men would never break, never lie down, never bend over for anybody. .. Anybody.
+KEATON: No, you're missing the point. Shut up. I don't want to hear anything you have to say. I don't want to know about your "job". Just don't let me hear you. I want nothing to do with any of you - I beg your pardon but all of you can go to hell. Dean Keaton, gone the high road. What is the world coming to? Forget him then. Now I can't talk about this here in any detail, but listen up.
 COP: Who are you?
 BAER: Agent Jack Baer, F.B.I. How many dead?
 COP: Fifteen so far. We're still pulling some bodies out of the water.
 COP: Looking for anyone in particular?
-BAER: f don't want any of the bodies taken away until I've had a chance to go over this, understood?
+BAER: f don't want any of the bodies taken away until I've had a chance to go over this, I have to clear the scene. I've got word direct from the Chief
 COP: I have to clear the scene. I've got word direct from the Chief
-BAER: (Unimpressed) Yes, the chief. Spooky stuff. Any survivors?
+BAER: ( Unimpressed )
 COP: Two. There's a guy in county hospital, but he's in a coma. The D.A. has the other guy - A cripple - from New York I think. Listen, the Chief said -
 BAER: Excuse me.
-VOICE #1 (O.S.): My client offers his full cooperation in these proceedings. In exchange, his testimony is to be sealed and all matters incriminating to himself are to be rendered inadmissible.
-VOICE #2 (O.S.): The district attorney's office will comply provided -
 VOICE #1: No provisions, nothing. My clients testimony for his immunity.
-VOICE #2: May-I be frank, Counselor? I suspect your political power as much as I respect it. I don't know why Mr. Kint has so many faceless allies in City Hall, and I don't care. The embarrassment he helped cause the city of New York will not happen here.
-VOICE #1: Immunity.
+VOICE #2: May-I be frank, Counselor? I suspect your political power as much as I respect it. I don't know why Mr. Kint has so many faceless allies in City Hall, and I don't care. The embarrassment he helped cause the city of New York will not happen Counselor, I will prosecute your client.
+VOICE #1: YELLOW 06/11/94
 VOICE #2: Counselor, I will prosecute your client.
-VOICE #1: Then prosecute. I will be very impressed to see if the District Attorney manages to bring in twenty-seven simultaneous counts of murder against one man with cerebral palsy. I would think a man with your job would agree with these alleged "faceless people in City Hall" you mention.
-VOICE #2 1: One would think the counsel is veiling a threat.
-VOICE #1                                     +: Counsel isn't veiling anything.
+VOICE #1: Then prosecute. I will be very impressed to see if the District Attorney manages to bring in twenty-seven simultaneous counts of murder against one man with cerebral palsy. I would think a man with your job would agree with these alleged "faceless people in City Hall" you One would think the counsel is veiling a Counsel isn't veiling anything.
 VOICE #2: I'11 take my chances then. I'11 feel safer without a job if a man like Mr. Kint is behind bars.
-VOICE #1: Mr. Kint will plead guilty to weapons possession.
+VOICE #1: Mr. Kint will plead guilty to weapons You're joking.
 VOICE #2: You're joking.
 VOICE #1: Weapons. Misdemeanor one.
 VOICE #2: Counselor, you're insulting me.
 VOICE #1: Counselor, you're bluffing. Shall I push for misdemeanor two?
-VOICE #2                                     +: Misdemeanor one. Fine. This is ludicrous.
-VOICE #2 (CONT'D): (Clearing throat) As for the rest of the charges grand larceny, arson... murder - the district attorney will accept the subject's testimony in connection with the above mentioned events and in exchange will offer complete immunity. The transcript... The transcript of said testimony will be sealed and all matters incriminating to Mr. Kint will be rendered inadmissible.
 KUJAN: What do you mean I can't see him?
 RAB IN: The D.A. came down here last night ready to arraign before they even moved him to county. Kint's lawyer comes in and five minutes later, the D.A. comes out looking like he'd been bitch-slapped by the boogey man. They took his statement and cut him a deal.
 KUJAN: Did they charge him with anything?
@@ -157,27 +120,25 @@ RABIN: I give the D.A. credit for getting that much to stick. This whole thing h
 KUJAN: When does he post bail?
 RAB IN: Two hours, tops.
 KUJAN: I want to see him.
-RABIN (CONT'D): Even if I was to let you talk to him, he won't talk to you. He's paranoid about being recorded and he knows the interrogation rooms are wired
-KUJAN: This won't be an' interrogation, just a... friendly chat to kill time.
-RAB IN: (enunciating) He won't go into the interrogation room.
+KUJAN: This won't be an' interrogation, just a. friendly chat to kill time.
+RAB IN: ( enunciating )
 KUJAN: Someplace else, then.
-RAB IN: Where?
-RABIN (CONT'D): No, no, no, no, no.
+RAB IN: Kujan looks around Rabin's messy office.
 KUJAN: If it was a dope deal, where's the dope, if it was a hit, who called it in?
-RABIN: And I am sure you have a host of wild                   + theories to answer these questions.
+RABIN: And I am sure you have a host of wild + theories to answer these questions.
 KUJAN: You know damn well what I think.
 RABIN: That's crazy, Dave and it doesn't matter. He has total immunity and his story checks out. He doesn't know what you want to know.
 KUJAN: I don't think he does. Not exactly, but there's a lot more to his story. I want to know why twenty-seven men died on that pier for what looks to be ninety-one million dollars worth of dope that wasn't there. Above all, I want to be sure that Dean Keaton is dead.
 RAB ZN: He's dead.
 KUJAN: Two hours. Just until he makes bail.
-RAB IN: They're all dead. No matter how tough you                 r. say this Keaton was, no one on that boat could've made it out alive.
+RAB IN: They're all dead. No matter how tough you r. say this Keaton was, no one on that boat could've made it out alive.
 PLUMBER: Ridgly, this is Special Agent Jack Baer from the F.B.I. Agent Baer, this is Doctor Ridgly Waiters.
 RIDGLY: Nice to meet you.
 BAER: Is he talking?
 RIDGLY: He regained consciousness less than an hour ago. He spoke - not English - then he lapsed.
-BAER: Hungarian?
+BAER: YELLOW 06/11/94
 RIDGLY: I don't
-BAER: It was Hungarian. Most of them were Hungarians. Any fluent Hungarians on your staff?
+BAER: It was Hungarian. Most of them were Hungarians. Any fluent Hungarians on your We have a Turkish audiologist.
 RIDGLY: We have a Turkish audiologist.
 BAER: will he die?
 PLUMBER: There's a chance.
@@ -185,49 +146,42 @@ KOVASH: you idiot, I'm going to be killed, You'll all be killed if he has to do 
 BAER: Call hospital security and put a man on the door until the police get here.
 KOVASH: you idiot? I'm not speaking English am I? Wouldn't it make sense to find someone who could talk to me so you could find the person that set me on fire, perhaps? He is the Devil. You've never seen anyone like Keyser Soze in all your miserable life you idiot. Keyser Soze. Do you at least understand that? Keyser Soze. The Devil himself. Or are you American policemen io stupid that you haven't even heard of him. Keyser Soze, you ridiculous man. KEYSER SOZE . >>
 PLUMBER: Is he dangerous?
-BAER: Yes.
-BAER (CONT'D): Joel, it's Baer. I'm down at L.A. county. The guy they pulled out of the harbor is ARKOSH Kovash... Yes, I'm sure... No, he's all fucked up... What? I can't hear you. (To Arkosh) Shut up, Hugo, I'm on the phone. (Into Phone) Yes... No... Not until I put someone on him. Listen, I need you to send me someone who can speak Hungarian. He's awake and talking like a Thai hooker... How should I know? Get me someone who can talk to him -
+BAER: Someone picks up on the other end of the phone.
 KOVASH: Keyser - Soze.
-BAER: What?
+BAER: He waves his hand, gesturing for Kovash to say it again.
 KOVASH: Keyser - Soze.
-BAER: No shit? (Into Phone) Joel, call Dan Metzheiser over at Justice and find Dave Kujan from Customs.
-KUJAN: (Exasperated) Verbal, you know we're trying to help you.
+BAER: No shit? Joel, call Dan Metzheiser over at Justice and find Dave Kujan from Customs.
+KUJAN: ( Exasperated )
 VERBAL: Sure. And I appreciate that. And I want to help you, Agent Kujan. I like cops. I would have liked to have been a Fed myself but my C.P. was -
 KUJAN: Verbal, I know you know something. I know you're not telling us everything.
 VERBAL: I told the D.A. everything I know.
-KUJAN (VOICE): I know you liked Keaton I know you think he was a good man.
-VERBAL (VOICE): I know he was good.
-KUJAN (VOICE): He was a corrupt cop, Verbal.
 VERBAL: Sure. Fifteen years ago, but he was a good thief Anyway, the cops wouldn't let him go legit.
 KUJAN: Keaton was a piece of shit.
-VERBAL: You trying to get a rise out of me, Agent Kujan?
+VERBAL: You trying to get a rise out of me, Agent
+KUJAN: I just want to hear your story.
 VERBAL: It's right here.
 KUJAN: According to your statement you are a short-con operator. Run of the mill seams. Everything you do, you learned from somebody else.
 VERBAL: That's been suppressed. Anything in there is inadmissible.
 KUJAN: Oh, I know. Sweet deal you have. Total immunity .
-VERBAL: (laughing) Well I do have the weapons charge. I'm looking at six whole months hard time.
-KUJAN: (smiling) You know a dealer named Ruby Deemer, Verbal?
+VERBAL: ( laughing )
+KUJAN: ( smiling )
 VERBAL: You know a religious guy named John Paul?
 KUJAN: You know Ruby is in Attica?
 VERBAL: He didn't have my lawyer.
 KUJAN: I know Ruby. He's very big on respect. Likes me very much.
-KUJAN (CONT'D): Now I know your testimony was sealed. Ruby is well connected. He still has people running errands for him. What do you think he'd say if he found out you dropped his name to the D.A.?
 VERBAL: There's nothing in there about Ruby.
 KUJAN: I'11 be sure to mention that to him.
-KUJAN (CONT'D): The first thing I learned on the job, know what it was? How to spot a murderer. Let's say you arrest three guys for the same killing. Put them all in jail overnight. The next morning, whoever is sleeping is your man. If you're guilty, you know you're caught, you get some rest - let your guard down, you follow?
-VERBAL: No.
+VERBAL: I'11 get right to the point. I'm smarter than you. I'11 find out what I want to know and I'11 get it from you whether you like it or not.
 KUJAN: I'11 get right to the point. I'm smarter than you. I'11 find out what I want to know and I'11 get it from you whether you like it or not.
 VERBAL: I'm not a rat.
-VERBAL (CONT'D): Ahhh. Back when I was picking beans in Guatemala we used to make fresh coffee. Right off the trees I mean. That was good. This is shit, but hey...
 RAB IN: Can we get started again?
 KUJAN: Now what happened after the line-up?
-EDIE: ...and the desk Sergeant is actually trying to tell me he can't release you? Can you believe that? You weren't even charged. New York police - Jesus. I want to take pictures of your face to bring to the D.A. first thing in the morning.
-KEATON: Just forget about it.
-EDIE: Absolutely not.
-EDIE (CONT'D): I'11 have this thing in front of a grand jury by Monday.
-KEATON: Edie, please. I don't want to hear this right now. What did Renault and Fortier say?
-EDIE: They want more time to think about investing.
-KEATON: Goddamnit.
+EDIE: .and the desk Sergeant is actually trying to tell me he can't release you? Can you believe that? You weren't even charged. New York police - Jesus. I want to take pictures of your face to bring to the D.A. first thing in the morning.
+KEATON: Just forget about it. Absolutely not. I'11 have this thing in front of a grand jury by Monday.
+EDIE: Absolutely not. I'11 have this thing in front of a grand jury by Monday.
+KEATON: Edie, please. I don't want to hear this right now. What did Renault and Fortier They want more time to think about They just said they wanted time.
+EDIE: They want more time to think about They just said they wanted time.
+KEATON: They just said they wanted time.
 EDIE: They just said they wanted time.
 KEATON: Time for what, Edie? Time to look into me a little more, that's what. No matter how well you cover my tracks now, they'll find out who I am.
 EDIE: Give me some credit. I got you this far, let's go to the grand jury. This is never going to stop if we -
@@ -235,19 +189,18 @@ KEATON: No. It's never going to stop, period. It won't take more than a week bef
 EDIE: Don't give up on me now, Dean.
 KEATON: They'll never stop.
 EDIE: I love you.
-KEATON: (To himself) They ruined me tonight.
+KEATON: ( To himself )
 EDIE: Dean, I love you. Do you hear me?
-EDIE (CONT'D): Let's just go to my place. We'll worry about this tomorrow.
-KEATON: Huh?
+KEATON: McManus notices Fenster and glances up from his magazine to see what he is looking at. +
 EDIE: Come home with me, please. Dean?
 EDIE: Come home, Dean.
-KEATON: (Distant) Alright.
-KEATON: What are you doing here'! How did you find me?
-VERBAL: I just asked one of the detectives downtown. He seemed pretty happy to tell me.
-EDIE: Dean, who was at the
+KEATON: ( Distant )
+KEATON: What are you doing here'! How did you find I just asked one of the detectives downtown. He seemed pretty happy to tell
+VERBAL: I just asked one of the detectives downtown. He seemed pretty happy to tell
+EDIE: Dean, who was at the How do you do?
 VERBAL: How do you do?
 KEATON: Verb - Roger, this is Edie Finneran. Edie, this is Roger Kint, he was at
-EDIE: (Cold) I know who he is.
+EDIE: ( Cold )
 VERBAL: I hope I didn't disturb you.
 EDIE: I hope so, too, Mr. Kint. Can I get you something to drink?
 VERBAL: A glass of water would be nice.
@@ -255,42 +208,37 @@ KEATON: What the hell do you want?
 VERBAL: I wanted to talk to you. The other guys -
 KEATON: I did you a favor by standing up for you last night, but don't think we're friends. I'm sorry, but I have other things -
 VERBAL: They're gonna do a job. Three million dollars, maybe more.
-VERBAL (CONT'D): They sent me to offer you a cut. We could use a fifth man - a driver - That's all you'll do.
-VERBAL (CONT'D): Thank you.
 EDIE: So what is it you do, Mr. Kint?
-VERBAL: Umm ...
+VERBAL: Umm .
 EDIE: A hijacker like Dean, here? Or something more creative?
 KEATON: That's enough, Edie.
-EDIE: (Angry) I don't know what you came here for, but we won't have any part of it.
+EDIE: ( Angry )
 KEATON: Edie, please.
 EDIE: I've spent the last year of my life putting his back together again - I won't have you come in here and - What makes you think - GET OUT. GET OUT OF m HOME.
 EDIE: Don't touch me. Just don't,
 KEATON: Get out.
 VERBAL: If you'll just let me -
-VERBAL (CONT'D): Don't hurt me.
-KEATON: (Seething) Hurt you, you sonofabitch? I could kill you.
-VERBAL: (Quickly) They're going to hit the Taxi Service.
+KEATON: ( Seething )
+VERBAL: ( Quickly )
 VERBAL: New York's Finest Taxi Service.
 KEATON: They - That's bullshit. They don't operate anymore.
 VERBAL: McManus has a friend in the Fourteenth Precinct. They're coming out for one job - Thursday. They're picking up a guy smuggling emeralds out of South America. Fenster and McManus have a fence set to take the stuff.
 KEATON: What fence? Who?
-VERBAL: Some guy in California. His name is Redfoot.
+VERBAL: Some guy in California. His name is Never heard of him.
 KEATON: Never heard of him.
 VERBAL: You have to come.
 KEATON: What's with you? What do you care whether I come or not?
 VERBAL: They - They don't know me. You do. They won't take me unless you go. Look at me. I need this.
 KEATON: Tough break.
 VERBAL: Don't tell me you don't need this. Is this your place?
-VERBAL (CONT'D): They're never going to stop with us, you know that. This way we hit the cops where it hurts and get well in the mean time.
-VERBAL (CONT'D): As clean as you could ever get, they'll never let you go now.
 KEATON: You watch your mouth.
-VERBAL: (Gasping) Okay, okay. You say it's the real thing? That's cool.
+VERBAL: ( Gasping )
 KEATON: I apologize.
 VERBAL: I was out of line.
 KEATON: You okay?
 VERBAL: I'11 be alright.
 KEATON: Well, I'm sorry.
-VERBAL: Forget it. (Beat) I'11 probably shit blood tonight.
+VERBAL: Forget it. I'11 probably shit blood tonight.
 KEATON: How are they going to do it?
 VERBAL: McManus wants to go in shooting. I said no way.
 KEATON: Fenster and Hockney?
@@ -299,53 +247,50 @@ KEATON: Three million?
 VERBAL: Maybe more.
 KEATON: No killing?
 VERBAL: Not if we do it my way.
-KEATON: (Lost in thought) I swore I'd live above myself.
-VERBAL (V.O.): New York's finest Taxi Service was not your normal taxi service. It was a ring of corrupt cops in the N.Y.P.D. that ran a high-profit racket, driving smugglers and drug dealers all over the city. For a few hundred dollars a mile, you got your own black and white and a police escort. They even had their own business cards.
-VERBAL (V.O.): After a while, somebody started asking questions and the taxi service shut down. Ever since then, Internal Affairs had been waiting to catch them in the act.
-VERBAL (V.O.): And that was how we started. McManus came to us with the job; Fenster got the vans; Hockney supplied the hardware; 'I came through with how to do it so no one got killed - but Keaton - Keaton put on the finishing touch. A little "Fuck you" from the five of us to the N.Y.P.D.
+LONG PAUSE: ( Lost in thought )
+KEATON: ( Lost in thought )
 RIZZI: How was the flight?
 OSCAR: Will that get me to the Pierre?
 RIZZI: That'll get you to Cape God.
 STRAUSZ: What the
-STRAUSZ: Give it up.
+RIZZI: LOOK OUT.
+SMASH: The hammer punches three huge holes in the windshield and finally caves it in. Strausz and Rizzi are covered with pebbles of broken glass. Whitehead clutches his bag in the back seat. He trembles in terror. The man standing on the roof doubles over and sticks a gun in Strausz's face. His face hangs upside down and looks gruesome - covered from the mouth up in a stocking. By the voice, we know it is McManus. Oscar hands the suitcase up front and Strausz passes it to 40 INT. FRONT VAN Through the front windshield of the front van we see Keaton at the wheel. Verbal is behind him leaning out the back Beneath Keaton's stocking mask we see he is trembling and sweating - sickened by what he is doing. He glances up at the rear-view mirror and looks at the scene outside. He looks down at the floor in shame, shaking his 41 INT. POLICE CAR 41 Strausz looks at Rizzi.
+STRAUSZ: Give it up. The money.
 STRAUSZ: Do you know who I am?
 HOCKNEY: We db now, Jerk-off.
-VERBAL (V.O.): The papers got Keaton's call that day and were on the scene before the cops were. Strausz and Rizzi were indicted three days later. Within a few weeks, fifty more cops went down with them. It was beautiful. Everybody got it right in the ass, from the chief on down.
-HOCKNEY: When does the fence come? McMANUS Redfoot? He never comes to see me. I have to go see him.
-VERBAL: In California? McMANUS Yeah. It'll take a few days. Me and Fenster
-HOCKNEY: Hold the fuckin' phone. You and Fenster? No, no, no. McMANUS Guys, come on.
-HOCKNEY: I'm sure you can understand my hesitation.
+HOCKNEY: When does the fence come? Redfoot? He never comes to see me. I have to go see him.
+VERBAL: In California? Yeah. It'll take a few days. Me and Hold the fuckin' phone. You and Fenster? No, no, no. Guys, come on.
+HOCKNEY: Hold the fuckin' phone. You and Fenster? No, no, no. Guys, come on.
+HOCKNEY: I'm sure you can understand my Then who goes?
 FENSTER: Then who goes?
 HOCKNEY: We all go. How about it, Keaton?
 KEATON: We need to lay low for a while.
+PAUSE: Everyone looks at each other, their moment of distrust blowing over. All eyes drift back to the emeralds on the Hockney begins to snicker, then McManus, then Fenster. Verbal joins in at last. McManus grabs Verbal and hugs him, shaking him violently. SUDDENLY, everyone yells and pours beer over Verbal's head. He laughs as he is drenched in white foam, nearly choking as the others chant his name. Keaton watches from across the room, trying to smile in vain.
 VERBAL: We're going to miss the flight.
 KEATON: We'll make it.
-VERBAL: Don't do this. Send her a card - something.
+VERBAL: Don't do this. Send her a card - We'll make it.
 KEATON: We'll make it.
-VOICE (O.S.): Ms. Finneran will be with you in a moment.
-VERBAL: We're gonna miss the plane. (beat) She'll understand.
+VERBAL: We're gonna miss the plane. She'll understand.
 KUJAN: Heartwarming. Really, I feel weepy.
 VERBAL: You wanted to know what happened after the line-up, I'm telling you.
 KUJAN: Oh come on, Verbal. Who do you think you're talking to? You really expect me to believe he retired? For a woman? Bullshit. He was using her.
 VERBAL: He loved her.
-KUJAN: Sure. And I'm supposed to believe that hitting the Taxi Service wasn't his idea either.
+KUJAN: Sure. And I'm supposed to believe that hitting the Taxi Service wasn't his idea That was all Fenster and McManus.
 VERBAL: That was all Fenster and McManus.
 KUJAN: Come on. Keaton was a cop for four years. Who else would know the Taxi Service
-VERBAL: You keep trying to lay this whole ride on                 t Keaton. It wasn't like that. Sure he knew, but Edie had him all turned around.                 r I'm telling you straight, I swear.                        +
-KUJAN: Let me tell you something. I know Dean Keaton. I've been investigating him for three years. The guy I know is a cold-                    + blooded bastard. L.A.P.D. indicted him on three counts of murder before he was kicked off the force, so don't sell me the hooker with the heart of gold.                        +
+VERBAL: You keep trying to lay this whole ride on t Keaton. It wasn't like that. Sure he knew, but Edie had him all turned around. r I'm telling you straight, I swear. +
+KUJAN: Let me tell you something. I know Dean Keaton. I've been investigating him for three years. The guy I know is a cold- + blooded bastard. L.A.P.D. indicted him on three counts of murder before he was kicked off the force, so don't sell me the hooker with the heart of gold. +
 VERBAL: You got him wrong.
-KUJAN: Do I? Keaton was under indictment a total                 + of seven times when he was on the force.                  + In every case, witnesses either reversed                  + their testimony to the grand jury or died                 + before they could testify. When they                      t finally did nail him for fraud, he spent                  + five years in Sing Sing. He killed three prisoners inside - one with a knife in the tailbone while he strangled him to death. Of course I can't prove this but I can't prove the best part either.
-KUJAN (CONT'D): Dean Keaton was dead. Did you know that?                  r He died in a fire two years ago during an investigation into the murder of a witness who was going to testify against him. Two people saw Keaton enter a warehouse he owned just before it went up. They said he had gone in to check a                   + leaking gas main. It blew up and took all of Dean Keaton with it. Within three months of the explosion, the two witnesses were dead, one killed himself in his car and the other fell down an open elevator shaft.
-KUJAN (CONT'D): He was dead just long enough for a murder rap to blow over, then he had lunch.
+KUJAN: Do I? Keaton was under indictment a total + of seven times when he was on the force. + In every case, witnesses either reversed + their testimony to the grand jury or died + before they could testify. When they t finally did nail him for fraud, he spent + five years in Sing Sing. He killed three prisoners inside - one with a knife in the tailbone while he strangled him to death. Of course I can't prove this but I can't prove the best part either.
 VERBAL: I don't know about that.
 KUJAN: I don't think you do. But you say you saw Keaton die. I think you're covering his ass and he's still out there somewhere. I think he was behind that whole circus in the harbor. My bet is he's using you because you're stupid and you think he's your friend. You tell me he's dead, so be it. I want to make sure he's dead before I go back to New York.
-VERBAL: (Blurting) He wasn't behind anything. It was the lawyer.
+VERBAL: ( Blurting )
 KUJAN: What lawyer?
-KUJAN (CONT'D): What lawyer, Verbal?
-VERBAL: Back when I was in that barber shop quartet in Skokie, Illinois I used to have
+PAUSE: KUJAN ( CONT'D )
+VERBAL: Back when I was in that barber shop quartet in Skokie, Illinois I used to You think I don't know you held out on the D.A.? What did you leave out of that testimony? I can be on the phone to Ruby Deemer in ten minutes.
 KUJAN: You think I don't know you held out on the D.A.? What did you leave out of that testimony? I can be on the phone to Ruby Deemer in ten minutes.
 VERBAL: The D.A. gave me immunity.
-KUJAN: NO IMMUNITY FROM ME. You atone with me or the world you live in becomes the hell you fear in the back of your tiny mind. Every criminal I have put in prison,
+KUJAN: NOT FROM ME, YOU PIECE OF SHIT. THERE IS NO IMMUNITY FROM ME. You atone with me or the world you live in becomes the hell you fear in the back of your tiny mind. Every criminal I have put in prison,
 VERBAL: There was a lawyer. Kobayashi.
 KUJAN: Is he the one that killed Keaton?
 VERBAL: No. But I'm sure Keaton's dead.
@@ -354,77 +299,77 @@ BAER: Are you the translator?
 BODI: Patrolman Lionel Bodi, sir.
 PLUMBER: Agent Beer, this is getting out of hand.
 BAER: I'11 see to it we're gone before he blows his porch light, Doctor.
-BAER: (To Bodi) This is Tracy Fitzgerald. She's a composite sketch artist from county.
-BODI: Hi.
-TRACY: Hi.
-METZHEISER: (Impatient) I've got a noon meeting, Baer.
+BAER: ( To Bodi )
+BODI: ( Impatient )
+TRACY: ( Impatient )
+METZHEISER: ( Impatient )
 PLUMBER: Agent Baer, please.
-BAER: Everyone calm down. (To Bodi) Ask this man about the shoot-out in the harbor.
+BAER: Everyone calm down. Ask this man about the shoot-out in the
+BODI: Kovash smiles with relief when he hears his own language.
 KOVASH: one, but at least I can talk to you.>>
 BODI: F.B.I. He is here to help you. He wants to know what happened in the harbor.>>
 KOVASH: back to Hungary.>>
 BODI: He says they were buying It doesn't make sense. I'm sorry, I'm a little rusty. They were there to buy something.
 BAER: Dope, we know.
-KOVASH +: help me, they are all idiots.                             s (talking slowly)                              + We were there to buy a man, you simple boy. A witness. I don't know his name. A witness who knew the Devil.>>
-BODI: Not dope. Something else. Some what?.. He doesn't knob what they were buying. But not dope... people.
+KOVASH +: help me, they are all idiots. s We were there to buy a man, you simple boy. A witness. I don't know his name. A witness who knew the Devil.>>
+BODI: Not dope. Something else. Some what?.. He doesn't knob what they were buying. But not dope. people.
 KOVASH: it slow enough for you to understand it. Just tell this man I want protection. Real protection.>>
 METZHEISER: Your witness is whacked, Baer.
 BODI: He says he'll tell us everything he knows if we protect him.
 .BAER: Tell him fine.
+BODI: ridiculous man. I am going to be killed. I have seen the Devil and looked him in the eye.>>
 KOVASH: ridiculous man. I am going to be killed. I have seen the Devil and looked him in the eye.>>
-BODI: No good. He needs guarantees. He says... his life is in danger... He has seen the Devil... looked him in the eye.
+BODI: No good. He needs guarantees. He says. his life is in danger. He has seen the Devil. looked him in the eye.
 METZHEISER: I'11 be on my way.
-BAER: (To Bodi) Tell him to tell this man what he was telling me before. Who is the Devil? Who did he see?
-BODI: about?>>
+BAER: ( To Bodi )
+BODI: Keyser Soze He was in the harbor shooting everyone in sight.>>
 KOVASH: Keyser Soze He was in the harbor shooting everyone in sight.>>
-BODI: He says he saw him in the harbor. He was shooting... Killing... Killing many men.
-METZHEISER: Did he say Keyser Soze? He saw Keyser Soze
-BODI: He says he saw him in the harbor. He was shooting... Killing... Killing many men.
-METZHEISER: Did he say Keyser Soze? He saw Keyser Soze.
+BODI: He says he saw him in the harbor. He was shooting. Killing. Killing many men.
+METZHEISER: Did he say Keyser Soze? He saw Keyser He says he saw him in the harbor. He was shooting. Killing. Killing many men.
+BODI: He says he saw him in the harbor. He was shooting. Killing. Killing many men.
+METZHEISER: Did he say Keyser Soze? He saw Keyser face. I see it when I close my eyes.>>
 KOVASH: face. I see it when I close my eyes.>>
 BODI: He says he knows his face. He sees it when he closes his eyes.
 METZHEISER: Ask him what this Devil looks like.
-BAER: (To Tracy) Ready?
-VERBAL (V.O.): McManus' fence was this guy named Redfoot. He had a good reputation around L.A. Seemed like a good guy - Looked like a cowhide full of thumbtacks.
-REDFOOT: How've you been? McMANUS Good. You?
+BAER: ( To Tracy )
+REDFOOT: How've you been? Good. You?
 REDFOOT: Alright. How's it going, Fenster?
 FENSTER: Getting by.
 REDFOOT: You got it?
-KEATON: (Whispering) Snazzy dresser this guy.
-REDFOOT: You must be Keaton. McMANUS Jesus, I'm sorry. Redfoot, this is Dean Keaton, that's Todd Hockney, and that's Verbal Kint.
-REDFOOT: (To Verbal) The man with the plan.
-REDFOOT (CONT'D): Are you guys interested in more work?
+KEATON: ( Whispering )
+REDFOOT: You must be Keaton. Jesus, I'm sorry. Redfoot, this is Dean Keaton, that's Todd Hockney, and that's Verbal Kint.
+REDFOOT: ( To Verbal )
 KEATON: We're on vacation.
-REDFOOT: I've got a ton of work and no good people. McMANUS What's the job?
-REDFOOT: A jeweler out of Texas named Saul. He rents a suite at a hotel downtown and does free appraisals. Buys whatever he can. Word is he moves with a lot of cash. I'11 take the merchandise, you keep the green.
-HOCKNEY: Security?
-REDFOOT: Two bodyguards. Pretty good. McMANUS Give us time to check it out?
-REDFOOT: I'd expect nothing less. McMANUS We'll call you.
+REDFOOT: I've got a ton of work and no good What's the job?
+REDFOOT: A jeweler out of Texas named Saul. He rents a suite at a hotel downtown and does free appraisals. Buys whatever he can. Word is he moves with a lot of cash. I'11 take the merchandise, you keep the Two bodyguards. Pretty good. Give us time to check it out?
+HOCKNEY: Two bodyguards. Pretty good. Give us time to check it out?
+REDFOOT: Two bodyguards. Pretty good. Give us time to check it out?
+REDFOOT: I'd expect nothing less. We'll call you.
 REDFOOT: Take your time. Enjoy L.A.
 KEATON: A friend of mine in New York tells me you knew Spook Hollis.
-REDFOOT: I hear you did time with old Spook. Yeah, he was a good egg. I used to run a lot of dope for him. Fuckin' shame he got shivved.
+REDFOOT: I hear you did time with old Spook. Yeah, he was a good egg. I used to run a lot of dope for him. Fuckin' shame he got I shivved him.
 KEATON: I shivved him.
-KEATON (CONT'D): Better you hear it from me now than somebody else later.
 REDFOOT: Business or personal?
 KEATON: A little of both.
-REDFOOT: Ain't it a crime? Call if you're interested. McMANUS (To Keaton) What's your fucking problem?
-KEATON: One job, that was the deal. McMANUS Take it as it comes, brother.
+REDFOOT: Ain't it a crime? Call if you're What's your fucking problem?
+KEATON: One job, that was the deal. Take it as it comes, brother.
 KEATON: This is bullshit.
 VERBAL: What is it Keaton?
-KEATON: (Distant) Something - I don't know. (Shaking himself) I ever tell you about the restaurant I wanted to open?
-VERBAL (V.O.): L.A., was good for about two hours. We were from New York. There's no place to eat after one; you can't get a pizza that doesn't taste like a fried fruit-bat, and the broads don't want to know you if you don't look like a broad. Within a few days the last of us was ready to go back to N.Y., but Keaton wouldn't have it, so he really didn't have a choice. We went to work.
+KEATON: ( Distant ) ( Shaking himself )
 HIGHAM: Just get in the car Saul.
-HOCKNEY: I get out of the car, and man if the thing wasn't wrecked. And I see this broad in the back seat with nothing on.
-HOCKNEY (CONT'D): I'm laughing so hard I can't breathe -
-HOCKNEY (CONT'D): ...And the fat guy comes out of the car with his pants on backwards and says -
+HOCKNEY: I get out of the car, and man if the thing wasn't wrecked. And I see this broad in the back seat with nothing on. I'm laughing so hard I can't breathe -
+FENSTER: RIGHT THERE. FREEZE.
 KEATON: Give me the case.
-HOCKNEY: What the hell? McManus Bad day. Fuck it.
-KEATON: Move.
+BOOM: collapse, each with a bullet in his head
+PAUSE: The only sound is Saul grappling with Keaton for the gun. His arm is halfway out the window. His elbow rests in the door Keaton cannot get the gun out of his hand. Finally, he pushes down with all his weight. Saul's elbow breaks backwards on the door frame. He screams in agony. The gun falls from his
+BOOM: VERBAL SHOOTS SAUL. Keaton looks at him in surprise. Verbal trembles more than he does. The garage is silent.
+HOCKNEY: What the hell? Bad day. Fuck it.
+KEATON: Keaton reaches into the car and grabs Saul's case. Everyone else piles into the van. Keaton gets in as Verbal is driving for the exit.
 KEATON: Son of a bitch.
 KEATON: What are you doing?
-KEATON: We did it your way. Now I'11 deal with him.
+KEATON: We did it your way. Now I'11 deal with You gonna kill him?
 MCMANUS: You gonna kill him?
-KEATON: I'm going to deal with him. McMANUS What the fuck is this, Redfoot?
+KEATON: I'm going to deal with him. What the fuck is this, Redfoot?
 REDFOOT: Get a grip. I didn't know.
 KEATON: You didn't know.
 REDFOOT: The job got thrown to me by this lawyer.
@@ -432,32 +377,30 @@ KEATON: Who is he?
 REDFOOT: Some Limey. He's a middle-man for somebody. He doesn't say and I don't ask.
 KEATON: We want to meet him.
 REDFOOT: He wants to meet you. He called last night and asked me to set it up. What do I tell him'
-KEATON: Tell him we'll meet. McMANUS If you're lying, Redfoot...
+KEATON: Tell him we'll meet. If you're lying, Redfoot.
 REDFOOT: McManus, you're a real bad-ass, but get off my tip.
-REDFOOT (CONT'D): Real shame about Saul getting whacked. Lot's of cops looking for the guys that did it. I'm sure They'll get around to asking me.
-KUJAN: So this lawyer...
-VERBAL: Kobayashi.
+KUJAN: So this lawyer.
+VERBAL: Came from Redfoot.
 KUJAN: Came from Redfoot.
-VERBAL: Right.
+VERBAL: And why leave this out when you talked to the D.A.?
 KUJAN: And why leave this out when you talked to the D.A.?
 RAB IN: Someone to see you, Agent Kujan.
 KUJAN: Jack. What are you doing here?
 BAER: I've been looking all over for you. You still after the coke that walked out of that blood bath in the harbor?
-KUJAN: Yeah.
+KUJAN: You can stop looking. There was no coke. I've been in L.A. county with a guy they
 BAER: You can stop looking. There was no coke. I've been in L.A. county with a guy they
 KUJAN: There was ninety-one million -
-BAER: We know, but our man says no way on the dope. This Hungarian tells me the whole bunch was pulling stumps for Turkey the next' day. They had no time to negotiate that kind of product and no means to move it.
+BAER: We know, but our man says no way on the dope. This Hungarian tells me the whole bunch was pulling stumps for Turkey the next' day. They had no time to negotiate that kind of product and no means to move What was the money for?
 KUJAN: What was the money for?
 BAER: He didn't know. No one doing the deal knew except a few key people. This guy says they were real hush about it. Whatever it was it was highly sensitive.
 KUJAN: I don't get it.
 BAER: They tell me you got the cripple from New York in there. He mention Keyser Soze
 KUJAN: Who ?
-BAER: Bear with me here...
+BAER: Bear with me here.
 KUJAN: Who is Keyser Soze
 VERBAL: Ahhh fuck.
-KEATON: So I need to know if anyone can think of anybody. Somebody with power. Enough to possibly track us from New York. McMANUS Look. We've been over it for an hour now. I say we pack up and run. Let's go back to New York. At least get out of L.A.
-KOBAYASHI: Mr. Keaton?
-KOBAYASHI (CONT'D): I am Mr. Kobayashi. I've been asked by my employer to bring a proposal to you gentlemen. That must be Mr. Hockney. I recognize Mr. Fenster from his mug shot, as well as Mr. McManus. (To Verbal) I can only assume that you are Mr. Kint. I believe you were the one who disposed of Saul. My employer sends his gratitude. A most unexpected benefit.
+KEATON: So I need to know if anyone can think of anybody. Somebody with power. Enough to possibly track us from New York. Look. We've been over it for an hour now. I say we pack up and run. Let's go back to New York. At least get out of L.A.
+KOBAYASHI: Mr. Keaton? I am Mr. Kobayashi. I've been asked by my employer to bring a proposal to you gentlemen. That must be Mr. Hockney. I recognize Mr. Fenster from his mug shot, as well as Mr. McManus. I can only assume that you are Mr. Kint. I believe you were the one who disposed of Saul. My employer sends his gratitude. A most unexpected benefit. What can we do for you?
 KEATON: What can we do for you?
 KOBAYASHI: My employer requires your services. One job. One day's work. Very dangerous. I don't expect all of you to live, but those who do will have ninety-one million dollars to divide any way they see fit.
 KEATON: Who's your boss?
@@ -468,29 +411,27 @@ KEATON: What is this?
 VERBAL: Who's Keyser Soze?
 KOBAYASHI: I am sure you've heard a number of tall tales, myths and legends about Mr. Soze I can assure you gentlemen, most of them are true.
 VERBAL: Who's Keyser Soze?
-KOBAYASHI: Judging by the sudden change in mood, I am sure the rest of your associates can tell you, Mr. Kint. I have come with an offer directly from Mr. Soze. An order actually.
+KOBAYASHI: Judging by the sudden change in mood, I am sure the rest of your associates can tell you, Mr. Kint. I have come with an offer directly from Mr. Soze. An order An order.
 KEATON: An order.
-KOBAYASHI: In nineteen-eighty one, Mr. Keaton, you participated in the hijacking of a truck in Buffalo, New York. The cargo was raw steel. Steel that belonged to Mr. Soze and was destined for Pakistan to be used in a Nuclear reactor. A very profitable violation of U.N. Regulations. You had no way of knowing this, because the man shipping the steel was working for Mr. Sate without his knowledge.                               + (Beat) Mr. Fenster and Mr. McManus hijacked a twin-prop cargo flight earlier this year out of Newark airport. The plane was carrying platinum and gold wiring. Also set for Pakistan.
-KOBAYASHI (CONT'D): Two months ago, Mr. Hockney stole a truck carrying gun parts through Queens -
-KOBAYASHI (CONT'D): - guns allegedly set to be destroyed by the state of New York. They were to be "lost" in a weigh station and routed to Belfast. Again, Mr. Sate using pawns who had no knowledge. (turning to Verbal) Which brings us to Mr. Kint.
-KOBAYASHI (CONT'D): Nine months ago, one of Mr. Soze less than intelligent couriers was taken in a complicated confidence seam by a cripple. He was relieved of sixty-two thousand dollars. Now (To all of them) - It has taken us some time to find you. Our intention was to approach you after your apprehension in New York.
+KOBAYASHI: In nineteen-eighty one, Mr. Keaton, you participated in the hijacking of a truck in Buffalo, New York. The cargo was raw steel. Steel that belonged to Mr. Soze and was destined for Pakistan to be used in a Nuclear reactor. A very profitable violation of U.N. Regulations. You had no way of knowing this, because the man shipping the steel was working for Mr. Sate without his knowledge. + Mr. Fenster and Mr. McManus hijacked a twin-prop cargo flight earlier this year out of Newark airport. The plane was carrying platinum and gold wiring. Also set for Pakistan.
 KEATON: You set up the line-up.
 KOBAYASHI: Mr. Soze made a few calls, yes. You were not to be released until I came to see you. It seems Mr. Keaton's attorney, Ms. Finneran, was a bit too effective in expediting his release. Holding the rest of you became a moot point.
 KEATON: What about Redfoot?
-KOBAYASHI: Mr. Redfoot knew nothing. Mr. Soze rarely                 t works with the same people for very long, and they never know who they're working for. One cannot be betrayed if one has no people.
+KOBAYASHI: Mr. Redfoot knew nothing. Mr. Soze rarely t works with the same people for very long, and they never know who they're working for. One cannot be betrayed if one has no So why tell us?
 FENSTER: So why tell us?
 KOBAYASHI: Because you have stolen from Mr. Soze. That you did not know you stole from him is the only reason you are still alive, but he feels you owe him. You will repay your debt.
+HOCKNEY: Who is this guy? How do we know you work for Soze
 KOBAYASHI: I don't think that is relevant, Mr. Hockney. The five of you are responsible for the murder of Saul Berg and his bodyguards. Mr. Redfoot can attest to your involvement, and we can see to it that he will. He is not of your "superior" breed.
 MCMANUS: This is a load of shit.
 KOBAYASHI: The offer is this, gentlemen. Mr. Soze's primary interest, as I am sure you all know, is narcotics. He's been - competing shall we say, with a group of
 KEATON: Give me one good reason why I shouldn't kill you right now.
 KOBAYASHI: A gift from Mr. Soze gentlemen.
 KEATON: Jesus Christ. Open them.
-HOCKNEY: They know everything. McMANUS This is my life in here. Everything I've done since I was eighteen.
-FENSTER: Everybody I ever worked with, did time with.
-HOCKNEY: They fucking know everything.
+HOCKNEY: They know everything. This is my life in here. Everything I've done since I was eighteen.
+FENSTER: Everybody I ever worked with, did time They fucking know everything. This is not right.
+HOCKNEY: They fucking know everything. This is not right.
 KEATON: This is not right.
-FENSTER: I don't know. Who was that guy that used to talk about Soze in New York? McMANUS Bricks Marlin.
+FENSTER: I don't know. Who was that guy that used to talk about Soze in New York? Bricks Marlin.
 FENSTER: Yeah. He said he did jobs for him. Indirect stuff. Always five times more money than the job was worth.
 KEATON: Come on. The guy is a pipe dream. This Kobayashi is using him for window dressing .
 FENSTER: I don't know. This is bad.
@@ -498,13 +439,7 @@ HOCKNEY: It's bullshit. This guy could be L.A.P.D. I think it's a setup.
 FENSTER: The way I hear it, Soze is some kind of butcher. No pity.
 KEATON: There' is no Keyser Soze
 VERBAL: Who is Keyser Soze
-VERBAL: He is supposed to be Turkish. Some say                   r his father was German. Nobody believed he was real. Nobody ever saw him or knew anybody that ever worked directly for him, but to hear Kobayashi tell it, anybody could have worked for Soze. You never knew. That was his power. The greatest trick the Devil ever pulled was convincing the world he didn't exist. One story the guys told me - the story I believe - was from his days in Turkey. There was a petty gang of Hungarians that wanted their own mob. They realized that to be in power you didn't need guns or money or even numbers. You just needed                   + the will to do what the other guy wouldn't. After a while they come to power, and then they come after Soze He was small time then, just running dope, they say...
-VERBAL (V.O.): They come to his home in the afternoon looking for his business. They find his wife and kids in the house and decide to wait for Sate.
-VERBAL (V.O.): He comes home to his wife raped and his children screaming. The Hungarians knew Soze was tough. Not to be trifled with. So they let him know they meant business.
-VERBAL (V.O.): They tell Soze they want his territory - all his business. Soze looks over the                    + faces of his family... Then he showed these men of will what will really was.
-VERBAL (V.O.): He tells him he would rather' see his family dead than live another day after this.
-VERBAL (V.O.): He lets the last Hungarian go, and he goes running. He waits until his wife and kids are in the ground and he goes after the rest of the mob. He kills their kids, he kills their wives, he kills their parents and their parents' friends.
-VERBAL (V.O.): He burns down the houses they live in and the stores they work in, he kills people that owe them money. And like that he was gone. Underground. No one has ever seen him again. He becomes a myth, a spook story that criminals tell their kids at night. If you rat on your pop, Keyser Sate will get you. And nobody really ever believes.
+VERBAL: He is supposed to be Turkish. Some say r his father was German. Nobody believed he was real. Nobody ever saw him or knew anybody that ever worked directly for him, but to hear Kobayashi tell it, anybody could have worked for Soze. You never knew. That was his power. The greatest trick the Devil ever pulled was convincing the world he didn't exist. One story the guys told me - the story I believe - was from his days in Turkey. There was a petty gang of Hungarians that wanted their own mob. They realized that to be in power you didn't need guns or money or even numbers. You just needed + the will to do what the other guy wouldn't. After a while they come to power, and then they come after Soze He was small time then, just running dope, they say.
 KUJAN: Do you believe in him, Verbal?
 VERBAL: Keaton always said: "I don't believe in God, but I'm afraid of him." Well I believe in God, and the only thing that scares me is Keyser SOZE.
 RAB IN: You give this any weight, Agent Baer?
@@ -512,7 +447,7 @@ BAER: I can introduce you to Dan Metzheiser from Justice. He has a file on Sate 
 RABIN: Had you heard of him before?
 BAER: On the street? A few times. Outside stuff. Somebody was working for a guy who was working for a guy who got money through Keyser Soze. That kind of shit. Could be an old badge. A hex sign to keep people from fucking with you back when a name meant something.
 RAB IN: But you're here.
-BAER: Shit yeah. I got a guy trying to walk out of the hospital on d fried drumstick to get away from SOZE. I'11 run it up the flagpole.
+BAER: Shit yeah. I got a guy trying to walk out of the hospital on d fried drumstick to get away from SOZE. I'11 run it up the I came clean. I told it like it happened on the boat. So what if I left out how I got there? It's got so many holes in it, the D.A. would've told me to blow amnesty out my ass. So you got what you wanted out of me. Big fucking deal.
 VERBAL: I came clean. I told it like it happened on the boat. So what if I left out how I got there? It's got so many holes in it, the D.A. would've told me to blow amnesty out my ass. So you got what you wanted out of me. Big fucking deal.
 KUJAN: And this is why you never told the D.A.
 VERBAL: You tell me, Agent Kujan. If I told you the Loch Ness Monster hired me to hit the harbor, what would you say?
@@ -521,38 +456,42 @@ VERBAL: I've got immunity now. What can you possibly offer me?
 KUJAN: If there is a Keyser Soze he'll be looking for you.
 VERBAL: Where's your head, Agent Kujan? Where do you think the pressure's coming from? Keyser Soze - or whatever you want to call him - knows where I am right now. He's got the front burner under' your ass to let me go so he can scoop me up ten minutes later. Immunity was just to deal with you assholes. I got a whole new problem when I post bail.
 KUJAN: So why play into his hands? We can protect you.
-VERBAL: Gee, thanks, Dave. Bang-up job so far. Extortion, coercion. You'll pardon me if I ask you to kiss my pucker. The same fuckers that rounded us up and sank us into this mess are telling me They'll bail me out? Fuck you. You think you can catch Keyser Soze? You think a guy like that comes this close to getting fingered and sticks his head out? If he comes up for anything, it will be to get rid of me. (beat) After that, my guess is you'll never hear from him again.
-BODI: (To Tracy)                                 + The nose is sharper. Smaller too.                          + (To Arkosh in Hung.) <<And what about the hair? You said something earlier about it.>>
+VERBAL: Gee, thanks, Dave. Bang-up job so far. Extortion, coercion. You'll pardon me if I ask you to kiss my pucker. The same fuckers that rounded us up and sank us into this mess are telling me They'll bail me out? Fuck you. You think you can catch Keyser Soze? You think a guy like that comes this close to getting fingered and sticks his head out? If he comes up for anything, it will be to get rid of After that, my guess is you'll never hear from him again.
+KOVASH: ( To Tracy ) + ( To Arkosh in Hung. )
+BODI: ( To Tracy ) + ( To Arkosh in Hung. )
 KOVASH: dark. >>
-BODI: (To Tracy) He says the hair is longer and lighter.
+BODI: ( To Tracy )
+KOVASH: ( To Tracy )
+BODI: ( To Tracy )
 VERBAL: That was how I ended up in a barber shop quartet in Skokie, Illinois.
 KUJAN: This is totally irrelevant.
-VERBAL: Oh, but it's not. If I hadn't been nailed in Illinois for running a three card monte in between sets, I never would have took off for New York. I never would have met Keaton, see. That barber shop quartet was the reason for everything.
+VERBAL: Oh, but it's not. If I hadn't been nailed in Illinois for running a three card monte in between sets, I never would have took off for New York. I never would have met Keaton, see. That barber shop quartet was the reason for Can we just get back to Kobayashi?
 KUJAN: Can we just get back to Kobayashi?
 VERBAL: The quartet is part of the bit about Kobayashi. The quartet was in my file, along with every other thing I had done since high school, see? Aliases, middle- men. They knew me better than I did. They knew all of us.
 KUJAN: You're stalling, Verbal.
 VERBAL: Give a guy a break, huh?
-KUJAN: What happened?
+KUJAN: What happened? We woke up the next morning and Fenster was gone. He couldn't handle the idea of slumming for SOZE. He left a note wishing us good luck and took a chunk of the money we'd scraped together.
 VERBAL: We woke up the next morning and Fenster was gone. He couldn't handle the idea of slumming for SOZE. He left a note wishing us good luck and took a chunk of the money we'd scraped together.
 KUJAN: Then what?
 VERBAL: McManus was furious. He was talking about tracking him down and ripping his heart out and all sorts of shit. That night we got the call.
 KUJAN: What call?
-VERBAL: Kobayashi told us where we could find Fenster.
-KEATON: What do you want to do with him? McMAMJS I worked five years with Fenster. More jobs, more money than I can count.
-KEATON: I'm sorry, McManus. McMANUS I want to bury him.
-KEATON: No time. McMANUS YOU WILL FIND TIME. You're not the only one with debts, man.
-KEATON: No shovel. McMANUS
-HOCKNEY: This is nuts. McMANUS Dig.
-HOCKNEY: This is fucking dry sand, man. When he rots, the surfers'll smell him from a hundred yards out. McMANUS
-HOCKNEY: Keaton, we gotta go. They're gonna find him.
-KEATON: Dig.
+VERBAL: Kobayashi told us where we could find
+KEATON: What do you want to do with him? I worked five years with Fenster. More jobs, more money than I can count.
+KEATON: I'm sorry, McManus. I want to bury him.
+KEATON: No time. YOU WILL FIND TIME. You're not the only one with debts, man.
+KEATON: No shovel. WITH OUR HANDS.
+HOCKNEY: This is nuts. This is fucking dry sand, man. When he rots, the surfers'll smell him from a hundred yards out. DIG, YOU FUCKER.
+HOCKNEY: This is fucking dry sand, man. When he rots, the surfers'll smell him from a hundred yards out. DIG, YOU FUCKER.
+HOCKNEY: Keaton, we gotta go. They're gonna find What are we gonna do?
+KEATON: What are we gonna do?
 VERBAL: What are we gonna do?
 HOCKNEY: I can run. I got no problem with that.
-KEATON: They don't seem to have a problem with it either. McMANUS Nobody runs.
+KEATON: They don't seem to have a problem with it Nobody runs.
 HOCKNEY: This ain't my boy we're burying. I don't owe anybody.
-HOCKNEY: Since when? McMANUS Since tonight.                                             +
-HOCKNEY: Fuck that. McMANIJS It's payback.
-KEATON: IT'S NOT PAYBACK. I don't answer to you.                   + It's precaution. You want payback? You want to run? I don't care. I'm going to finish this thing. Not for Fenster, not for anybody else, but for me. This Kobayashi cocksucker isn't going to stand over me. (Beat) All of you can go to hell.
+HOCKNEY: Since when? Since tonight. +
+HOCKNEY: Fuck that. It's payback.
+KEATON: IT'S NOT PAYBACK. I don't answer to you. + It's precaution. You want payback? You want to run? I don't care. I'm going to finish this thing. Not for Fenster, not for anybody else, but for me. This Kobayashi cocksucker isn't going to stand over me. All of you can go to hell.
+KUJAN: And after they killed Fenster nobody would run?
 VERBAL: I wanted to. I thought we could make it.
 KUJAN: Why didn't you say anything?
 VERBAL: I tried, believe me, but Keaton wouldn't have it. It was too far-fetched for him. Keaton was a grounded guy. An ex-cop. To a cop, the explanation is never that complicated. It's always simple. There's
@@ -560,52 +499,52 @@ HOCKNEY: He's coming up.
 KEATON: The answer is no.
 KOBAYASHI: Mr. Soze will be most -
 KEATON: Listen to me, cocksucker. There is no Keyser Sate. If you say his name again, I'11 kill you right here.
-KOBAYASHI: A strange threat. I can only assume you're here to kill me anyway. Pity about Mr. Redfoot. McMANUS Fair trade for Fenster.
+KOBAYASHI: A strange threat. I can only assume you're here to kill me anyway. Pity about Mr. Redfoot. Fair trade for Fenster.
 KOBAYASHI: Ahh, Mr. Hockney. Do join us.
 KEATON: We know you can get to us, and now you know we can get to you. I'm offering you the chance to call this off.
 KOBAYASHI: Mr. So- My employer has made up his mind. He does not change it.
-KEATON: Neither do we. McMANUS You got Fenster, you may get more, but you won't get us all. Not before one of us gets to you.
-KOBAYASHI: I believe you, Mr. McManus. I quite sincerely do. You would not have been chosen if you were not so capable, but I cannot make this decision. Whatever you can threaten me with is... ludicrous in comparison to what will be done to me if
-KOBAYASHI: I am sorry, Mr. McManus. (To Keaton) f implore you to believe me, Mr. Keaton. Mr. Soze is very real and very                             + determined.
+KEATON: Neither do we. You got Fenster, you may get more, but you won't get us all. Not before one of us gets to you.
+KOBAYASHI: I believe you, Mr. McManus. I quite sincerely do. You would not have been chosen if you were not so capable, but I cannot make this decision. Whatever you can threaten me with is. ludicrous in comparison to what will be done to me if
+KOBAYASHI: I am sorry, Mr. McManus. f implore you to believe me, Mr. Keaton. Mr. Soze is very real and very + We'll see.
 KEATON: We'll see.
 KOBAYASHI: Before you do me in, you will let me finish my business with Ms. Finneran first, won't you?
 KEATON: What did you say?
 KOBAYASHI: Edie Finneran. She is upstairs in my office for an extradition deposition. I requested she be put on the case personally. She flew out yesterday.
-KOBAYASHI (CONT'D): No matter. Kill away, Mr. McManus.
 KEATON: You're lying.
 KOBAYASHI: Am I?
 KOBAYASHI: Ms. Finneran's escort in Los Angeles. Never leaves her for a moment. I thought you'd like to know she was in good hands.
-KOBAYASHI (CONT'D): Get your rest, Gentlemen. The boat will be ready for you on Friday. If I see you or your friends before then, or fail to check in every half hour with that unpleasant looking man in there, Ms. Finneran will find herself the victim of a gruesome violation before she dies. As will your father, Mr. Hockney. and your Uncle Randall in Arizona, Mr. Kint. I might only castrate Mr. McManus' nephew, David. Do I make myself clear?
 KOBAYASHI: I'11 take care of the dead men downstairs. We'll add them to the cost of Mr. Fenster. Now if you'll excuse me.
 KEATON: It's a logistical nightmare. Close quarters, no advance layout, ten men, maybe twenty.
 HOCKNEY: Can we stealth these guys?
-KEATON: Doubtful. With all that coke, they'll be ready - which brings me to sunny spot number two. Even if one of us gets through and jacks the boat, we get nothing. McMANUS And if we wait for the money?
-KEATON: Ten more men at least. In my opinion, it can't be done. Anyone who walks into this won't come out alive. McMANUS I'm for waiting for the money.
+KEATON: Doubtful. With all that coke, they'll be ready - which brings me to sunny spot number two. Even if one of us gets through and jacks the boat, we get And if we wait for the money?
+KEATON: Ten more men at least. In my opinion, it can't be done. Anyone who walks into this won't come out alive. I'm for waiting for the money.
 HOCKNEY: Me too.
 VERBAL: Did you hear what he just said?
 HOCKNEY: If I'm going in, I want a stake.
 VERBAL: I just can't believe we're just gonna walk into certain death.
+PAUSE: They all suddenly realize the weight of their situation.
 VERBAL: What-are they speaking?
 KEATON: Russian, I think. I don't know.
-VERBAL: Hungarian?
+VERBAL: YELLOW 06/11/94
 KEATON: Knock it off.
 HOCKNEY: Are we ready, kids?
-KEATON: (into radio) Everyone shut up. I'm ready. McManus, you better be set up in ten seconds. McMANUS (On radio) I'm there.
-KEATON: (To Verbal) I want you to stay here. Understand?
-VERBAL                                 +: But I'm supposed to -
+KEATON: ( into radio )
+KEATON: ( To Verbal )
 KEATON: If we don't make it out, I want you to take the money and go.
-VERBAL: (Confused) Keaton, I can't just -
+VERBAL: ( Confused )
 KEATON: I want you to find Edie. Both of you find some place safe. Tell her what happened - Everything. She knows people. She'll know what to do. If we can't get Kobayashi my way, she'll get him her way.
 VERBAL: What if I
 KEATON: Just do what I tell you.
-KEATON (CONT'D): Tell her I... Tell her I tried.
-HOCKNEY: (In Spanish) <<DON'T SHOOT, DON'T SHOOT. LET'S GET THE                 + FUCK OUT OF HERE. EVERYONE IS DEAD.>>
+IT EXPLODES: The men surrounding Keaton, are distracted. Keaton pulls a pistol out of each pocket and shoots the two men closest to him.
+PAUSE: FINALLY, he turns and runs back for the van parked on the pier above. He finds a ramp leading from the dock to the At the van, he finds the one man who has stayed behind to protect it. I i The man hears Hockney coming and raises his gun. Hockney runs i straight at him, screaming frantically. i
+HOCKNEY: ( In Spanish )
+BOOM: BLOOD sprays all over the money. Hockney looks at it, Hockney raises a blood-soaked hand from his belly. He turns and stares in horror.
 KUJAN: Why didn't you run?
 VERBAL: I froze up. I thought about Fenster and how he looked when we buried him, then I thought about Keaton. It looked like he might pull it off.
-BAER: A boy came across a body on the beach this morning. Thrown clear when the boat burned. Shot once in the head. Two guys from the F.B.I. just identified him.                     +
+BAER: A boy came across a body on the beach this morning. Thrown clear when the boat burned. Shot once in the head. Two guys from the F.B.I. just identified him. +
 KUJAN: And ?
 RABIN: His name was Arturo Marquez. A petty smuggler out of Argentina. He was arrested in New York last year for trafficking. He escaped to California and got picked up in Long Beach. They were setting up his extradition when he escaped again. Get this - Edie Finneran was called in to advise the proceedings.
-KUJAN: Kobayashi.
+KUJAN: Bear nods.
 RAB IN: I called New York County and they fared me a copy of Marquez's testimony. He was a rat.
 KUJAN: A big fucking rat.
 RABIN +: Arturo was strongly opposed 'to going back to prison. So much so that he informed on close to fifty guys. Guess who he names for a finale?
@@ -613,28 +552,31 @@ KUJAN: Keyser Soze
 BAER: There's more.
 KUJAN: I'11 tell you what I know. Stop me when it sounds familiar.
 KUJAN: There was no dope on that boat.
-MAN IN ROBE: He's here. I saw him on deck.
-KEATON: What happened to you? McMANUS Keyser Soze is on the boat.
-KEATON: What? McMANUS I heard somebody screaming his nuts off. He said Keyser Soze was on the boat.
+KEATON: What happened to you? Keyser Soze is on the boat.
+KEATON: I heard somebody screaming his nuts off. He said Keyser Soze was on the boat.
 KEATON: Are you alright?
-KEATON: There's no coke. McMANUS Let's get the fuck out of here.
+KEATON: There's no coke. Let's get the fuck out of here.
 KEATON: Right behind you.
-KEATON: Where's Hockney? McMANUS I don't think he made it to the boat.
-KEATON: I can't remember which way. McMANUS Right -
-MAN IN ROBE: I told them nothing.
-KUJAN (CONT'D): A man in a suit with a slim build. Tall.
+KEATON: Where's Hockney? I don't think he made it to the boat.
+KEATON: I can't remember which way. Right -
+BOOM: The man in the robe falls dead.
+WHAM: The pellet of barrels hits him square in the back and sends him flying into the wheel house of the boat. Keaton is still for a moment. Finally, he tries to get up, but finds he cannot move his legs.
+KUJAN: And that's when you say in your statement that you saw.
 VERBAL: Wait a minute.
-KUJAN: (Looking at watch) I don't have a minute. Are you saying it was Keyser Soze? You told the D.A. you didn't know who it was.
+KUJAN: ( Looking at watch )
 VERBAL: I - there had to be dope there.
 KUJAN: Don't shine me, Verbal. No more stalling. You know what I'm getting at.
 VERBAL: I don't.
+KUJAN: YES YOU DO. YOU KNOW WHAT I'M GETTING AT. THE TRUTH. TRY TO TELL ME YOU DIDN'T KNOW. TRY TO TELL ME YOU SAW SOMEONE KILL KEATON . TRY TO REEF LYING TO ME NOW. I KNOW EVERYTHING . I don't know what you're talking about.
 VERBAL: I don't know what you're talking about.
+KUJAN: YOU KNOW. YOU'VE KNOWN THIS WHOLE FUCKING TIME. GIVE IT TO ME.
 VERBAL: I don't understand what you're saying. I saw Keaton get shot, I swear to you.
 KUJAN: Then why didn't you help him?
-VERBAL: I WAS AFRAID, OKAY? Somehow, I was sure it was Keyser Soze at that point. I couldn't bring myself to raise my gun to him.
-KUJAN: But Keaton...
+VERBAL: I WAS AFRAID, OKAY? Somehow, I was sure it was Keyser Soze at that point. I couldn't bring myself to raise my gun to But Keaton.
+KUJAN: But Keaton.
 VERBAL: It was Keyser Soze, Agent Kujan. I mean the Devil himself. How do you shoot the Devil in the back?
-VERBAL (CONT'D): What if you miss?
+BANG: Verbal hears a shot from the deck of the boat. He turns in time to see the man in the suit running across the deck toward the gangway. Verbal can barely see the man from where he is now. The man in the suit is covered by shadows and the poor angle from the barge. Verbal strains to see but he cannot. The man in the suit stops long enough to pull out a lighter. He turns and walks back across the deck and out of sight. A moment later flames leap up from on the deck. The mesh of steel and rubber leaves a dark and open cocoon at its base.
+KUJAN: Arturo Marquez. Ever hear of him?
 VERBAL: Wha- No.
 KUJAN: He was a stool pigeon for the Justice Department. He swore out a statement to Federal Marshals that he had seen and could positively identify one Keyser Soze and had intimate knowledge of his business, including, but not exclusive to, drug trafficking and murder.
 VERBAL: I never heard of him.
@@ -643,30 +585,29 @@ VERBAL: I said I never heard of him.
 KUJAN: But Keaton had. Edie Finneran was his extradition advisor. She knew who he was and what he knew.
 VERBAL: I don't
 KUJAN: There were no drugs on that boat. It was a hit. A suicide mission to whack out the one man that could finger Keyser Soze so Sate had a few thieves put to it. Men he knew he could march into certain death.
-VERBAL: But how - wait. You're saying SOZE sent                  t us to kill someone?
+VERBAL: But how - wait. You're saying SOZE sent t us to kill someone?
 KUJAN: I'm saying Keaton did.
-KUJAN (CONT'D): Verbal, he left you behind for a reason. If you all knew Soze could find you anywhere, why was he ready to send you off with the money when he could have used you to take the boat?
 VERBAL: He wanted me to live.
 KUJAN: Why did he want you to live? A one-time dirty cop without a loyalty in the world finds it in his heart to save a worthless rat-cripple? No, sir. Why'
-VERBAL: Edie.
+VERBAL: I don't buy that reform story for a minute. And even if I did, I certainly don't believe he would send you to protect her. So why?
 KUJAN: I don't buy that reform story for a minute. And even if I did, I certainly don't believe he would send you to protect her. So why?
 VERBAL: Because he was my friend.
 KUJAN: No, Verbal. You weren't friends. Keaton didn't have friends. He saved you because he wanted it that way. It was his will.
-VERBAL: No...
+VERBAL: Keaton was Keyser Soze
 KUJAN: Keaton was Keyser Soze
+VERBAL: SCRIPT DATE 5/25/94
 KUJAN: The kind of guy who could wrangle the wills of men like Hockney and McManus. The kind of man who could engineer a police line-up from all his years of contacts in N.Y.P.D.
-KUJAN (CONT'D): They found her yesterday in a hotel in Pennsylvania. Shot twice in the head.
-VERBAL: Edie...
+VERBAL: NO, NO, NO, NO, NO. THE KIND OF MAN THAT COULD HAVE KILLED EDIE FINNERAN. They found her yesterday in a hotel in Pennsylvania. Shot twice in the head.
+KUJAN: THE KIND OF MAN THAT COULD HAVE KILLED EDIE FINNERAN. They found her yesterday in a hotel in Pennsylvania. Shot twice in the head.
+VERBAL: He used all of you to get him on that boat. He couldn't get on alone and he had to pull the trigger himself to make sure he got his man. The one man that could identify him.
 KUJAN: He used all of you to get him on that boat. He couldn't get on alone and he had to pull the trigger himself to make sure he got his man. The one man that could identify him.
 VERBAL: This is all bullshit.
 KUJAN: He left you to stay behind and tell us he was dead. You saw him die, right? Or did you? You had to hide when the first police cars showed up. You heard the shot, just before the fire but you didn't see him die.
 VERBAL: I knew him. He would never -
 KUJAN: He programmed you to tell us just what he wanted you to. Customs has been
-VERBAL: McMANUS? I'm a cripple. I'm stupid. Why me?
+VERBAL: BUT WHY ME? WHY NOT HOCKNEY OR FENSTER OR McMANUS? I'm a cripple. I'm stupid. Why
 KUJAN: Because you're a cripple, Verbal. Because you're stupid. Because you were weaker than them. Because you couldn't see far enough into him to know the truth.
-KUJAN (CONT'D): If he's dead, Verbal - if what you say is true, then it won't matter. It was his idea to hit the Taxi Service in New York, wasn't it? Tell me the truth.
-VERBAL: (Sobbing) It was all Keaton. We followed him from the beginning.
-VERBAL (CONT'D): I didn't know. I saw him die. I believe he's dead. Christ
+VERBAL: ( Sobbing )
 KUJAN: Why lie about everything else, then?
 VERBAL: You know what it's like, Agent Kujan, to know you'll never be good? Not good like you. You got good all fucked around. I mean a stand up guy. I grew up knowing I was never going to be good at anything 'cause I was a cripple. Shit, I wasn't
 KUJAN: You're not safe on your own.
@@ -675,21 +616,20 @@ KUJAN: Is he Keyser Soze I don't know, Verbal. It seems to me that Keyser Sate i
 VERBAL: I'm not bait. No way. I post today.
 KUJAN: You posted twenty minutes ago. Captain Leo wants you out of here a.s.a.p., unless you turn state's.
 VERBAL: I'11 take my chances, thank you. It's tougher to buy the cheapest bag-man than it is to buy a cop.
-KUJAN: Where are you going to go, Verbal? You gonna run? Turn states evidence. You might never see trial. If somebody wants to get you, you know They'll get you out there.
+KUJAN: Where are you going to go, Verbal? You gonna run? Turn states evidence. You might never see trial. If somebody wants to get you, you know They'll get you out Maybe so, but I'm no rat, Agent Kujan. You tricked me, that's all. I won't keep my mouth shut 'cause I'm scared. I'11 keep it shut 'cause I let Keaton down by getting caught - Edie Finneran too. And if they kill me, it's
 VERBAL: Maybe so, but I'm no rat, Agent Kujan. You tricked me, that's all. I won't keep my mouth shut 'cause I'm scared. I'11 keep it shut 'cause I let Keaton down by getting caught - Edie Finneran too. And if they kill me, it's
-VERBAL (CONT'D): Fuckin' cops.
-COP: One watch: gold. One cigarette lighter: gold. One wallet: brown. One pack of cigarettes.
+COP: One watch: gold. One cigarette lighter: gold. One wallet: brown. One pack of
 RAB IN: You still don't know shit.
-KUJAN: I know what I wanted to know about Keaton.
+KUJAN: I know what I wanted to know about Which is shit.
 RAB IN: Which is shit.
 KUJAN: No matter. He'll have to know how close we came.
 RAB IN: Keyser Sate or not, if Keaton's alive he'll never come up again.
 KUJAN: I'11 find him.
 RAB IN: Waste of time.
-KUJAN: (To himself) A rumor is not a rumor that doesn't die.
-RAB IN: What?
+KUJAN: ( To himself )
+RAB IN: Nothing. Something I - forget it.
 KUJAN: Nothing. Something I - forget it.
-KUJAN (CONT'D): Man, you're a fucking slob.
 RAB IN: Yeah. It's got it's own system though. It all makes sense when you look at it right. You just have to step back from
-KUJAN: WHERE IS HE? DID YOU SEE HIM?                             t
+KUJAN: WHERE IS HE? DID YOU SEE HIM? t
 COP: The Cripple? He went that way.
+BLACK: Writers : Christopher McQuarrie

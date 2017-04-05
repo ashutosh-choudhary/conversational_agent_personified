@@ -13,8 +13,8 @@ top.location.href=location.href
 <pre>
 <b>FADE IN:
 </b>
-<b>1    INT. DERELICT HOUSE - DAY &lt;<colour sequence="">&gt;	1
-</colour></b>
+<b>1    INT. DERELICT HOUSE - DAY &gt;	1
+</b>
 A POLAROID PHOTOGRAPH, clasped between finger and thumb: a
 crude, crime scene flash picture of a MAN'S BODY lying on a
 decaying wooden floor, a BLOODY MESS where his head should
@@ -73,8 +73,8 @@ Leonard lifts his head. He is lying on a queen-sized bed.
 
 <b>							2.
 </b>
-<b>3    EXT. DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;		   3
-</colour></b>
+<b>3    EXT. DERELICT BUILDING - DAY &gt;		   3
+</b>
 A late model Jaguar bumps across some railroad tracks and
 approaches a large, clearly abandoned DERELICT BUILDING.
 Leonard is driving. He wears a BEIGE SUIT and BLUE SHIRT (no
@@ -108,8 +108,8 @@ He drops them onto the dashboard then SHUTS the door.		*
 Leonard walks towards the house, patting his jacket pockets.
 Teddy leans on the pickup, uneasy, watching Leonard.
 
-<b>4    INT. DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;			4
-</colour></b>
+<b>4    INT. DERELICT BUILDING - DAY &gt;			4
+</b>
 Leonard stands in the dimly-lit, decaying former hallway. He
 pulls a stack of POLAROID PHOTOGRAPHS out of his pocket and
 leafs through them as Teddy starts walking towards him.
@@ -282,8 +282,8 @@ He opens the drawer to find a Gideon Bible.
 
 <b>							CUT TO:
 </b>
-<b>6    INT. DISCOUNT INN OFFICE - DAY &lt;<colour sequence="">&gt;		 6
-</colour></b>
+<b>6    INT. DISCOUNT INN OFFICE - DAY &gt;		 6
+</b>
 E.C.U. of fingers rifling bills in a wallet. Leonard counts
 out some money and hands it to the fat, sweaty middle-aged
 man behind the counter. (BURT). Burt takes the money,
@@ -326,8 +326,8 @@ Teddy grins and holds the door open for Leonard.
 MEMENTO Pink Revision - 9/7/99
 <b>							6.							 
 </b>
-<b>7    EXT. DISCOUNT INN CAR PARK - DAY &lt;<colour sequence="">&gt;	    7
-</colour></b>
+<b>7    EXT. DISCOUNT INN CAR PARK - DAY &gt;	    7
+</b>
 Teddy starts for a GREY SEDAN. Leonard pauses behind him.
 
 <b>				LEONARD
@@ -354,8 +354,8 @@ several cars further down.
 <b>				TEDDY
 </b>		Just trying to have a little fun.
 
-<b>8    INT. CAR - DAY &lt;<colour sequence="">&gt;					  8
-</colour></b>
+<b>8    INT. CAR - DAY &gt;					  8
+</b>
 Leonard drives, Teddy admires the new car' s interior,
 reaching down around the seats, exploring the car with his
 hands.
@@ -418,8 +418,8 @@ Leonard checks the note, then hands it to Teddy.
 </b>		    (smiling)
 		I don't remember.
 
-<b>9    EXT. CONTINUOUS - DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;9
-</colour></b>
+<b>9    EXT. CONTINUOUS - DERELICT BUILDING - DAY &gt;9
+</b>
 The Jaguar crosses the railroad tracks and approaches the
 DERELICT BUILDING. Leonard stops the car next to the PICKUP
 TRUCK and kills the engine, staring at the pickup.
@@ -464,8 +464,8 @@ Leonard pulls the note off, studying it carefully.
 
 <b>							CUT TO:
 </b>
-<b>11   INT. DISCOUNT INN ROOM 304 - DAY &lt;<colour sequence="">&gt;	    11 *
-</colour></b>
+<b>11   INT. DISCOUNT INN ROOM 304 - DAY &gt;	    11 *
+</b>
 Close on the Polaroid of Teddy. Leonard flips it over. On the
 back are the messages:
 
@@ -482,13 +482,13 @@ his HANDGUN up and checks that it is loaded. He sticks the
 GUN in the back of his waistband, the PHOTO in his jacket
 pocket, slings the POLAROID CAMERA over his shoulder.
 
-<b>12   EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   12 *
-</colour></b>
+<b>12   EXT. DISCOUNT INN - DAY &gt;			   12 *
+</b>
 Leonard leaves room 304 and heads to the office. He pauses
 just outside the glass door, breathing, psyching himself up.
 
-<b>13   INT. DISCOUNT INN OFFICE - DAY &lt;<colour sequence="">&gt;		 13 *
-</colour></b>
+<b>13   INT. DISCOUNT INN OFFICE - DAY &gt;		 13 *
+</b>
 Leonard enters , confident, smiling at the man behind the
 desk, BURT (fat, sweaty, 40's). Burt smiles back.
 
@@ -717,8 +717,8 @@ Leonard starts awkwardly SHAVING his right thigh. The PHONE
 RINGS and Leonard FLINCHES, NICKING his leg. He looks at the
 phone, then reaches for the receiver.
 
-<b>17   INT. A RESTAURANT RESTROOM - DAY &lt;<colour sequence="">&gt;	    17		 
-</colour></b>
+<b>17   INT. A RESTAURANT RESTROOM - DAY &gt;	    17		 
+</b>
 Leonard, in BEIGE SUIT and BLUE SHIRT flushes the urinal,
 then moves to the sink and starts washing his hands. He
 notices a MESSAGE written on the back of his hand.
@@ -737,8 +737,8 @@ Leonard is about to roll his sleeve up further when the
 restroom door opens and a MAN enters. Leonard dries his
 hands, then exits the rest room.
 
-<b>18   INT. RESTAURANT - DAY &lt;<colour sequence="">&gt;				18
-</colour></b>
+<b>18   INT. RESTAURANT - DAY &gt;				18
+</b>
 Leonard emerges .nto the waiting area of a crowded
 restaurant. He glances around, lost, then pulls out his
 Polaroids, flipping through them. Someone taps him on his
@@ -771,16 +771,16 @@ The Waiter glances at his Polaroid.
 MEMENTO Pink Revisions - 9/7/99
 <b>							13.
 </b>
-<b>19   EXT./INT. JAGUAR - DAY &lt;<colour sequence="">&gt;			    19
-</colour></b>
+<b>19   EXT./INT. JAGUAR - DAY &gt;			    19
+</b>
 Leonard drives, consulting his Polaroid photos.
 
-<b>20   EXT. DISCOUNT INN ROOM 304 - DAY &lt;<colour sequence="">&gt;	    20 *
-</colour></b>
+<b>20   EXT. DISCOUNT INN ROOM 304 - DAY &gt;	    20 *
+</b>
 Leonard, BROWN ENVELOPE in hand, finds the door to room 304.
 
-<b>21   INT. DISCOUNT INN ROOM 304 - DAY &lt;<colour sequence="">&gt;	    21 *
-</colour></b>
+<b>21   INT. DISCOUNT INN ROOM 304 - DAY &gt;	    21 *
+</b>
 Leonard enters, looks around as if for the first time. An
 anonymous motel room, except that tacked to one wall is a
 HAND-DRAWN CHART showing the layout of some streets, and
@@ -1011,8 +1011,8 @@ tattoo across his chest:
 MEMENTO Pink Revisions - 9/7/99
 <b>							17.
 </b>
-<b>23   EXT. THE CITY GRILL ON MAIN ST. - DAY &lt;<colour sequence="">&gt;    23
-</colour></b>
+<b>23   EXT. THE CITY GRILL ON MAIN ST. - DAY &gt;    23
+</b>
 Leonard parks the Jaguar, gets out, stops outside the door to
 a restaurant, checking its name against a NOTE, written on a    *
 SMALL PAPER BAG FROM A PHARMACY. The note says:			  *
@@ -1027,8 +1027,8 @@ scribbled over, the second reads:
 
 <b>"SHE HAS ALSO LOST SOMEONE, SHE WILL HELP YOU OUT OF PITY"
 </b>
-<b>24   INT. THE CITY GRILL ON MAIN STREET - DAY &lt;<colour sequence="">&gt; 24
-</colour></b>
+<b>24   INT. THE CITY GRILL ON MAIN STREET - DAY &gt; 24
+</b>
 Leonard enters, walking slowly down the aisle, looking at all
 the customers. He makes eye contact with a WOMAN (brunette,
 30's) sitting alone, wearing SUNGLASSES. Her face betrays	  *
@@ -1211,8 +1211,8 @@ Leonard smiles and shuts his eyes.
 
 <b>INSERT FLASHBACK:
 </b>
-<b>25   INT. LEONARD'S APARTMENT - DAY &lt;<colour sequence="">&gt;		 25
-</colour></b>
+<b>25   INT. LEONARD'S APARTMENT - DAY &gt;		 25
+</b>
 Random images of a woman (30's, black hair, plain). Jump cuts
 of details: a smile, eating, tucking her hair behind her ear,
 pulling on a pair of trousers, watching TV, shouting in
@@ -1229,8 +1229,8 @@ TURNS as Leonard pinches her thigh.
 		them, and how much you hate the person
 		who took them away.
 
-<b>26   INT. CITY GRILL - DAY - &lt;<colour sequence="">&gt;			   26
-</colour></b>
+<b>26   INT. CITY GRILL - DAY - &gt;			   26
+</b>
 Leonard opens his eyes. Natalie is looking at him. She nods
 and hands him the BROWN ENVELOPE.
 
@@ -1300,8 +1300,8 @@ Leonard watches Natalie leave. He sits at the table, looking
 down at the BROWN ENVELOPE and the MOTEL ROOM KEY (ROOM 304).
 Leonard rises, and heads to the restroom.
 
-<b>27   INT. RESTAURANT RESTROOM - DAY &lt;<colour sequence="">&gt;		 27
-</colour></b>
+<b>27   INT. RESTAURANT RESTROOM - DAY &gt;		 27
+</b>
 Leonard flushes the urinal, then moves to the sink and starts
 washing his hands. He notices a MESSAGE written on the back
 of his hand:
@@ -1387,13 +1387,13 @@ MEMENTO Pink Revisions - 9/7/99
 		I was good. Sammy was my first real
 		challenge.
 
-<b>31   EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   31 *
-</colour></b>
+<b>31   EXT. DISCOUNT INN - DAY &gt;			   31 *
+</b>
 The Jaguar pulls up. Leonard gets out and heads to the
 office.
 
-<b>32   INT. DISCOUNT INN OFFICE - DAY &lt;<colour sequence="">&gt;		 32 *
-</colour></b>
+<b>32   INT. DISCOUNT INN OFFICE - DAY &gt;		 32 *
+</b>
 Burt is behind the counter reading a magazine.
 
 <b>				LEONARD
@@ -1409,13 +1409,13 @@ Burt puts his magazine down and gets up, sighing.
 				BURT (cont'd)
 		Probably in the room.
 
-<b>33   EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   33 *
-</colour></b>
+<b>33   EXT. DISCOUNT INN - DAY &gt;			   33 *
+</b>
 Burt, swinging a pass key on a chain, leads Leonard along the
 GROUND FLOOR to room 21, then unlocks it.
 
-<b>34   INT. DISCOUNT INN ROOM 21 - DAY &lt;<colour sequence="">&gt;		34 *
-</colour></b>
+<b>34   INT. DISCOUNT INN ROOM 21 - DAY &gt;		34 *
+</b>
 Leonard enters and SCANS the room. Burt picks his nails in
 the doorway. Leonard moves to the unmade bed. There is a pile
 of BLOODSTAINED TISSUES. On the bedside table is an ICE
@@ -1545,12 +1545,12 @@ Leonard looks up at Burt.
 				LEONARD (cont'd)
 		 What time is it?
 
-<b>35   EXT. ROAD - DAY &lt;<colour sequence="">&gt;					 35
-</colour></b>
+<b>35   EXT. ROAD - DAY &gt;					 35
+</b>
 The Jaguar speeds along.
 <b>						 
-</b><b>36   EXT. THE CITY GRILL ON MAIN STREET - DAY &lt;<colour sequence="">&gt; 36
-</colour></b>
+</b><b>36   EXT. THE CITY GRILL ON MAIN STREET - DAY &gt; 36
+</b>
 Leonard checks the restaurant name against the note. He gets
 out his Polaroids, FLIPPING through them until he finds the
 one of Natalie.
@@ -1561,8 +1561,8 @@ one of Natalie.
 MEMENTO Blue Revisions - 8/27/99 
 <b>							26.
 </b>
-<b>37   INT. THE CITY GRILL ON MAIN STREET - DAY &lt;<colour sequence="">&gt; 37
-</colour></b>
+<b>37   INT. THE CITY GRILL ON MAIN STREET - DAY &gt; 37
+</b>
 Leonard walks through the restaurant, checking the patrons.
 He makes eye contact with Natalie, but walks past her table.
 She sighs and grabs the back of his jacket.
@@ -1704,8 +1704,8 @@ Leonard DABS at some blood on his thigh with toilet paper.
 		up any new skills at all, and that's how
 		I got him.
 
-<b>43   EXT. MAIN STREET - DAY &lt;<colour sequence="">&gt;			    43
-</colour></b>
+<b>43   EXT. MAIN STREET - DAY &gt;			    43
+</b>
 Leonard's Jaguar pulls up at a red light. Suddenly Teddy is
 BANGING on the window.
 
@@ -1737,8 +1737,8 @@ Leonard looks at Teddy, sizing him up.
 		Only every time I see ya! Come on, I'll
 		buy you lunch.
 
-<b>44   INT. DINER - DAY &lt;<colour sequence="">&gt;					44
-</colour></b>
+<b>44   INT. DINER - DAY &gt;					44
+</b>
 Teddy pours ketchup all over his steak. Leonard plays with
 his food.
 
@@ -1874,13 +1874,13 @@ Leonard reaches into his pocket and takes out a Polaroid.
 MEMENTO Blue Revisions - 8/27/99
 <b>							31.
 </b>
-<b>45   EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   45 
-</colour></b>
+<b>45   EXT. DISCOUNT INN - DAY &gt;			   45 
+</b>
 The Jaguar pulls up. Leonard gets out and heads to the
 office.
 
-<b>46   INT. DISCOUNT INN OFFICE - DAY &lt;<colour sequence="">&gt;		 46
-</colour></b>
+<b>46   INT. DISCOUNT INN OFFICE - DAY &gt;		 46
+</b>
 Leonard enters. Burt is behind the counter reading a
 magazine.
 
@@ -1963,8 +1963,8 @@ Sammy looks ACCUSINGLY at the Doctor.
 		memory, but by instinct.
 
 <b>50   INT. NATALIE'S BEDROOM: MESSY, CHEAPLY BUT ABUNDANTLY	   50
-</b><b>FURNISHED - MORNING &lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>FURNISHED - MORNING &gt;
+</b>
 Leonard opens his eyes, naked in bed. He looks around,
 confused. With a START, he realizes that someone else is in
 the bed: a BRUNETTE with her back to him.
@@ -2117,8 +2117,8 @@ Leonard heads for the door.
 She tosses him his blue shirt. Leonard looks down at the
 white shirt which he has put on. It is way too small.
 
-<b>51   EXT. MAIN STREET - DAY &lt;<colour sequence="">&gt;			    51
-</colour></b>
+<b>51   EXT. MAIN STREET - DAY &gt;			    51
+</b>
 The Jaguar pulls up to a red light. Suddenly Teddy is banging
 on the window.
 
@@ -2216,8 +2216,8 @@ Leonard looks into the mirror.
 		I live the way Sammy couldn't. Habit and
 		Conditioning. Acting on instinct.
 
-<b>56   EXT./INT. NATALIE'S FRONT DOOR - DUSK &lt;<colour sequence="">&gt;    56 *
-</colour></b>
+<b>56   EXT./INT. NATALIE'S FRONT DOOR - DUSK &gt;    56 *
+</b>
 Leonard pulls up in his Jaguar, gets out, rings the front
 doorbell. It is opened by Natalie.
 
@@ -2251,8 +2251,8 @@ Natalie looks up and down the street.
 </b>		Come inside.
 
 <b>57   INT. NATALIE'S LIVING ROOM: COMFORTABLE AND MESSY - NIGHT    57
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Natalie shows Leonard in.
 <b>							(CONTINUED)
 </b>
@@ -2502,8 +2502,8 @@ spreading her fingers over the blank part of his chest.	    *
 </b>		Maybe I can help you find him. I know a			*
 		lot of people.
 
-<b>58   INT. NATALIE'S BEDROOM - NIGHT &lt;<colour sequence="">&gt;		 58
-</colour></b>
+<b>58   INT. NATALIE'S BEDROOM - NIGHT &gt;		 58
+</b>
 Natalie, eyes closed, has her head on Leonard's chest. He is
    shirtless, lying on top of the covers.
 
@@ -2542,20 +2542,20 @@ Leonard bends his head around to see if Natalie is awake. She
 closes her eyes. Leonard gingerly slides from underneath her
 and moves silently out of the bedroom.
 
-<b>59   INT. NATALIE'S LIVING ROOM - NIGHT &lt;<colour sequence="">&gt;	  59
-</colour></b>
+<b>59   INT. NATALIE'S LIVING ROOM - NIGHT &gt;	  59
+</b>
 Leonard enters the dark room. He goes to the couch and picks
 up his shirt and his jacket. He notices the photograph which
 Natalie showed him on top of some papers on a desk in the
 corner. He holds it in a shaft of light from the streetlamp
 outside, studying the photo of Natalie and Jimmy.
 
-<b>60   INT. NATALIE'S BEDROOM - NIGHT &lt;<colour sequence="">&gt;		 60
-</colour></b>
+<b>60   INT. NATALIE'S BEDROOM - NIGHT &gt;		 60
+</b>
 Natalie, eyes open, slides her hand over to where Leonard was
 lying, feeling his residual warmth.
 
-ii	61   INT. NATALIE'S LIVING ROOM - NIGHT &lt;<colour sequence="">&gt;	 
+ii	61   INT. NATALIE'S LIVING ROOM - NIGHT &gt;	 
 <b>61
 </b>
 Leonard has his Polaroid photograph of Natalie out. He takes
@@ -2575,7 +2575,7 @@ message which has been scribbled out:
 MEMENTO Pink Revisions - 9/7/99
 <b>							42.
 </b>
-<b>62   INT. NATALIE'S BEDROOM - CONTINUOUS - NIGHT &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>62   INT. NATALIE'S BEDROOM - CONTINUOUS - NIGHT <b>SEQUENCE&gt;&gt;
 </b>
 Leonard enters, deposits his jacket and shirt, then slides
 into bed next to Natalie.
@@ -2646,8 +2646,8 @@ MEMENTO Pink Revisions - 9/7/99
 Leonard takes a NEEDLE out of the packet.
 
 <b>66   INT. LEONARD'S APARTMENT WITH HIGH CEILINGS AND WOODEN FLOOR 66
-</b><b>  - NIGHT &lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>  - NIGHT &gt;
+</b>
 We move along a hallway towards a closed door. An ominous	  *
 rumbling builds.
 
@@ -2663,8 +2663,8 @@ The shower curtain pulls TAUT across a GASPING FEMALE FACE.
 
 Leonard's REFLECTION in a MIRROR which SHATTERS.
 
-<b>67   INT. DODD'S MOTEL ROOM - DAY &lt;<colour sequence="">&gt;		   67
-</colour></b>
+<b>67   INT. DODD'S MOTEL ROOM - DAY &gt;		   67
+</b>
 Leonard opens his eyes, frightened. He is lying on the bed in
 his beige suit and blue shirt.
 
@@ -2724,14 +2724,14 @@ closet starts GRUNTING and BUMPING the closet door.
 There is a KNOCK at the door. Leonard looks through the
 peephole.
 
-<b>68   INT./EXT. DODD'S MOTEL - DAY &lt;<colour sequence="">&gt;		   68
-</colour></b>
+<b>68   INT./EXT. DODD'S MOTEL - DAY &gt;		   68
+</b>
 <b>INSERT LEONARD'S P.O.V.:
 </b>
 A FISH-EYE TEDDY, grinning and waving.
 
-<b>69   INT. DODD'S MOTEL - DAY &lt;<colour sequence="">&gt;			   69
-</colour></b>
+<b>69   INT. DODD'S MOTEL - DAY &gt;			   69
+</b>
 Leonard looks around, trying to think. Teddy KNOCKS harder.
 The Man in the closet BUMPS and GROANS. Leonard reaches into
 his pocket and pulls out some Polaroids.
@@ -2950,8 +2950,8 @@ the closet. Dodd has trouble standing up straight.
 MEMENTO Pink Revisions -  9/7/99
 <b>							48.
 </b>
-<b>70   EXT. DODD'S MOTEL - DAY &lt;<colour sequence="">&gt;			   70
-</colour></b>
+<b>70   EXT. DODD'S MOTEL - DAY &gt;			   70
+</b>
 Teddy exits the room, glances around, motions for Leonard and
 Dodd to follow. Dodd is cleaned up and unbound, Leonard is
 pressed up right behind him. The three of them descend to the
@@ -2988,7 +2988,7 @@ Teddy shrugs. Leonard motions Dodd into the driver's seat,
 then slides into the passenger side. They pull out of the
 parking lot, Teddy following in his GREY SEDAN.
 
-<b>71   EXT. SHOULDER OF HIGHWAY HEADING OUT OF TOWN - DAY &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>71   EXT. SHOULDER OF HIGHWAY HEADING OUT OF TOWN - DAY <b>SEQUENCE&gt;&gt;
 </b>
 The Landcruiser PULLS OVER and stops. The grey sedan pulls up
 behind. Leonard gets out of the Landcruiser and it PULLS AWAY
@@ -3023,8 +3023,8 @@ in the rear view mirror. Leonard smiles. Teddy sees him.
 <b>				TEDDY
 </b>		You like it? Let's trade.
 
-<b>73   EXT. ALLEY BEHIND THE MOTEL - DAY &lt;<colour sequence="">&gt;	   73
-</colour></b>
+<b>73   EXT. ALLEY BEHIND THE MOTEL - DAY &gt;	   73
+</b>
 The grey sedan pulls up beside Leonard's Jaguar. Leonard gets
 out.
 
@@ -3041,8 +3041,8 @@ out.
 Leonard ignores him and gets into his Jaguar.
 
 <b>74   EXT. A MODEST SINGLE-STOREY HOUSE - NATALIE'S - DUSK	    74
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 The Jaguar pulls up. Leonard checks the address against the
 address written on his Polaroid of Natalie, then goes to the
 door and RINGS the bell. It is opened by Natalie.
@@ -3081,8 +3081,8 @@ MEMENTO Pink Revisions -  9/7/99
 
 Leonard hangs up.
 
-<b>76   INT. DODD'S MOTEL ROOM BATHROOM - DAY &lt;<colour sequence="">&gt;    76
-</colour></b>
+<b>76   INT. DODD'S MOTEL ROOM BATHROOM - DAY &gt;    76
+</b>
 Leonard sits on the toilet, grasping an empty VODKA BOTTLE by
 the neck. He notices the bottle in his hands as if for the
 first time.
@@ -3129,8 +3129,8 @@ he falls back into the bedroom. Dodd reaches into his INSIDE
 
 <b>							51.
 </b>
-<b>77   INT. DODD'S MOTEL ROOM - DAY &lt;<colour sequence="">&gt;		   77
-</colour></b>
+<b>77   INT. DODD'S MOTEL ROOM - DAY &gt;		   77
+</b>
 Leonard STUMBLES in, naked, from the bathroom, swings around,
 HITTING Dodd square in the face with the empty vodka bottle,
 which does not break.
@@ -3235,8 +3235,8 @@ He examines the NEEDLE, then holds it in the flame again.
 Leonard puts down the lighter and picks up a second BALL-
 <b>POINT PEN.
 </b>
-<b>80   EXT. DODD'S MOTEL - DAY &lt;<colour sequence="">&gt;			   80
-</colour></b>
+<b>80   EXT. DODD'S MOTEL - DAY &gt;			   80
+</b>
 Leonard's Jaguar pulls up, FAST. Several bits of SHATTERED
 SAFETY GLASS are still visible in the frame. He parks around
 the back, out of sight and consults a note.
@@ -3285,8 +3285,8 @@ and knocks.
 
 No answer, so Leonard slips inside.
 
-<b>81   INT. DODD'S MOTEL ROOM - DAY &lt;<colour sequence="">&gt;		   81
-</colour></b>
+<b>81   INT. DODD'S MOTEL ROOM - DAY &gt;		   81
+</b>
 Leonard flicks the light on and glances around. There is
 nothing in the room except an empty VODKA BOTTLE on the
 bedside table.
@@ -3297,8 +3297,8 @@ bedside table.
 He grabs the empty vodka bottle, switches the light off and
 slips into the bathroom.
 
-<b>82   INT. DODD'S MOTEL ROOM BATHROOM - DAY &lt;<colour sequence="">&gt;    82
-</colour></b>
+<b>82   INT. DODD'S MOTEL ROOM BATHROOM - DAY &gt;    82
+</b>
 Leonard sits down on the toilet, holding the empty bottle by
 its neck. He reaches out and adjusts the angle of the door.
 His eyes are alert, he is nervous. Waiting. And waiting.
@@ -3314,7 +3314,7 @@ His eyes are alert, he is nervous. Waiting. And waiting.
 Leonard (boxers, bandaged bicep), takes the second ball-point
 pen and SNAPS it in two.
 
-<b>84	EXT. SMALL ALLEY BEHIND A ROW OF TRAILER HOMES - DAY &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>84	EXT. SMALL ALLEY BEHIND A ROW OF TRAILER HOMES - DAY <b>SEQUENCE&gt;&gt;
 </b>
 Leonard is RUNNING FURIOUSLY, arms pumping.
 
@@ -3350,8 +3350,8 @@ the Jaguar.
 The Jaguar PEELS OUT just as Dodd emerges from the trailer
 park.
 
-<b>85   INT. JAGUAR - DAY &lt;<colour sequence="">&gt;				    85
-</colour></b>
+<b>85   INT. JAGUAR - DAY &gt;				    85
+</b>
 Leonard is breathing hard, looking around nervously. He
 starts knocking BITS OF BROKEN WINDOW GLASS out of the
 driver's side window with his elbow then pulling photos and
@@ -3374,8 +3374,8 @@ Leonard (boxers, bandaged arm) has the NEEDLE/PEN in one hand   *
 and the BROKEN PEN in the other. Leonard DIPS the needle into
 the clear plastic INK RESERVOIR off the broken pen.
 
-<b>87   EXT. TRAILER PARK PARKING LOT - DAY &lt;<colour sequence="">&gt;	 87
-</colour></b>
+<b>87   EXT. TRAILER PARK PARKING LOT - DAY &gt;	 87
+</b>
 Leonard is in the Jaguar. Dodd (without any bruises) is
 standing by the window, aiming his gun at Leonard.
 
@@ -3451,27 +3451,27 @@ FILE CARD. It has a HANDWRITTEN MESSAGE:
 </b>
 <b>							CUT TO:
 </b>
-<b>89   EXT. DISCOUNT INN - NIGHT &lt;<colour sequence="">&gt;			 89  
-</colour></b><b>*
+<b>89   EXT. DISCOUNT INN - NIGHT &gt;			 89  
+</b><b>*
 </b>
 Leonard exits room 304 of the Discount Inn carrying a		   *
 SHOPPING BAG, looking GRIM-FACED.
 
-<b>90   INT. JAGUAR - NIGHT &lt;<colour sequence="">&gt;				  90
-</colour></b>
+<b>90   INT. JAGUAR - NIGHT &gt;				  90
+</b>
 Leonard gets in, gently places the bag on the passenger seat.
 
-<b>91   EXT. STREET - NIGHT &lt;<colour sequence="">&gt;				  91
-</colour></b>
+<b>91   EXT. STREET - NIGHT &gt;				  91
+</b>
 The Jaguar speeds along.
 
-<b>92   EXT. PARKING LOT OVERLOOKING RESERVOIR - NIGHT &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>92   EXT. PARKING LOT OVERLOOKING RESERVOIR - NIGHT <b>SEQUENCE&gt;&gt;
 </b>
 Leonard gets out of the Jaguar, carrying the shopping bag. He
 climbs the chain-link fence.
 
-<b>93   EXT. RESERVOIR - NIGHT - SAME &lt;<colour sequence="">&gt;		  93
-</colour></b>
+<b>93   EXT. RESERVOIR - NIGHT - SAME &gt;		  93
+</b>
 Leonard has built a small FIRE. He reaches into the bag and
 removes a small STUFFED TOY. He douses it with lighter fluid
 and places it on the fire. He watches the fur blacken and the
@@ -3488,8 +3488,8 @@ Leonard flicks through the pages.
 MEMENTO Blue Revisions - 8/27/99
 <b>							57.
 </b>
-<b>94   INT. BEDROOM, LEONARD'S APARTMENT - NIGHT &lt;<colour sequence="">&gt;94
-</colour></b>
+<b>94   INT. BEDROOM, LEONARD'S APARTMENT - NIGHT &gt;94
+</b>
 Leonard is undressing. Leonard's Wife is in bed, reading the
 well-worn paperback.
 
@@ -3516,8 +3516,8 @@ well-worn paperback.
 		annoy you, I enjoy it. Just let me read,
 		please.
 
-<b>95   EXT. RESERVOIR - NIGHT &lt;<colour sequence="">&gt;			    95
-</colour></b>
+<b>95   EXT. RESERVOIR - NIGHT &gt;			    95
+</b>
 He places the BOOK on the fire. He reaches into the bag,
 produces a BRA and a HAIRBRUSH. He puts the bra on the fire,
 then pulls some BLACK HAIR out of the hairbrush. He holds a
@@ -3537,8 +3537,8 @@ flames.
 
 <b>							DISSOLVE TO:
 </b>
-<b>96   EXT. RESERVOIR - DAWN &lt;<colour sequence="">&gt;				96
-</colour></b>
+<b>96   EXT. RESERVOIR - DAWN &gt;				96
+</b>
 The sky has brightened. Leonard KICKS the dying embers apart.
 
 
@@ -3548,8 +3548,8 @@ The sky has brightened. Leonard KICKS the dying embers apart.
 
 <b>							58.
 </b>
-<b>97   INT./EXT. DAWN - THE JAGUAR SPEEDS ALONG &lt;<colour sequence="">&gt; 97
-</colour></b>
+<b>97   INT./EXT. DAWN - THE JAGUAR SPEEDS ALONG &gt; 97
+</b>
 Leonard looks into his rearview mirror to see a LANDCRUISER
 following him. Leonard SPEEDS UP, turns right. The
 Landcruiser sticks behind.
@@ -3576,8 +3576,8 @@ Dodd pulls out a HASNDGUN and points it at Leonard. Leonard
 SLAMS on the brakes, JERKING to a halt as the Landcruiser
 pulls over in front of the Jaguar.
 
-<b>98   EXT. TRAILER PARK PARKING LOT - DAY &lt;<colour sequence="">&gt;	 98
-</colour></b>
+<b>98   EXT. TRAILER PARK PARKING LOT - DAY &gt;	 98
+</b>
 Dodd, gun in hand, gets out of the Landcruiser and
 approaches.
 
@@ -3633,8 +3633,8 @@ reaches out with his BANDAGED arm to lift the receiver.
 
 <b>							CUT TO:
 </b>
-<b>100  INT. MOTEL ROOM 304 - NIGHT &lt;<colour sequence="">&gt;		    100
-</colour></b>
+<b>100  INT. MOTEL ROOM 304 - NIGHT &gt;		    100
+</b>
 Leonard is WOKEN by the sound of a door SHUTTING FIRMLY. He
 turns his head to see a glow from under the bathroom door.
 
@@ -3675,33 +3675,33 @@ MEMENTO Pink Revisions - 9/7/99
 
 Leonard looks around with growing unease.
 
-<b>101	INT. LEONARD'S APARTMENT BATHROOM - NIGHT &lt;<colour sequence="">&gt;101
-</colour></b>
+<b>101	INT. LEONARD'S APARTMENT BATHROOM - NIGHT &gt;101
+</b>
 <b>TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
 </b>
 A glass bottle SHATTERS against a tiled floor, bath salts and
 glass spreading out over the black and white tiles.
 
-<b>102  INT. MOTEL ROOM 304 - NIGHT &lt;<colour sequence="">&gt;		    102
-</colour></b>
+<b>102  INT. MOTEL ROOM 304 - NIGHT &gt;		    102
+</b>
 Leonard RISES from the bed, STARING at the bathroom door.
 
-<b>103	  INT. LEONARD'S APARTMENT BATHROOM - NIGHT &lt;<colour><b>SEQUENCE&gt;&gt;103
+<b>103	  INT. LEONARD'S APARTMENT BATHROOM - NIGHT <b>SEQUENCE&gt;&gt;103
 </b>
 SUDDEN MOVEMENT glimpsed through a WATER-BEADED CLEAR PLASTIC
 SHOWER CURTAIN. Mirror SHATTERING.
 
-<b>104  INT. MOTEL ROOM 304 - NIGHT &lt;<colour sequence="">&gt;		    104
-</colour></b>
+<b>104  INT. MOTEL ROOM 304 - NIGHT &gt;		    104
+</b>
 Leonard is at the bathroom door. He TAPS gently.
 
-<b>105	  INT. LEONARD'S APARTMENT BATHROOM - NIGHT &lt;<colour><b>SEQUENCE&gt;&gt;105
+<b>105	  INT. LEONARD'S APARTMENT BATHROOM - NIGHT <b>SEQUENCE&gt;&gt;105
 </b>
 The wet plastic shower curtain pulls TAUT across a GASPING,
 <b>THRASHING FEMALE FACE.
 </b>
-<b>106  INT. MOTEL ROOM 304 - NIGHT &lt;<colour sequence="">&gt;		    106
-</colour></b>
+<b>106  INT. MOTEL ROOM 304 - NIGHT &gt;		    106
+</b>
 Leonard KNOCKS again. No answer. He KNOCKS louder, concerned.
 
 				LEONARD (cont'd)
@@ -3709,7 +3709,7 @@ Leonard KNOCKS again. No answer. He KNOCKS louder, concerned.
 
 Leonard GRABS the handle, THROWS OPEN THE DOOR.
 
-<b>107  INT. STEAM-FILLED BATHROOM ROOM 304 - NIGHT &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>107  INT. STEAM-FILLED BATHROOM ROOM 304 - NIGHT <b>SEQUENCE&gt;&gt;
 </b>
 A BLONDE WOMAN in a silk dressing gown, seated on the toilet,
 looks up from SNORTING a line of cocaine off a small hand
@@ -3740,15 +3740,15 @@ Leonard moves to turn off the shower.
 				LEONARD (cont'd)
 		I'd like you to leave now.
 
-<b>108  INT. DISCOUNT INN, ROOM 304 - NIGHT - LATER &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>108  INT. DISCOUNT INN, ROOM 304 - NIGHT - LATER <b>SEQUENCE&gt;&gt;
 </b>
 Leonard, fully clothed, grabs a SHOPPING BAG from the closet,
 and does a quick circuit of the room, grabbing various items
 (the paperback book, hairbrush, alarm clock, stuffed toy) and
 STUFFING them into the bag.
 
-<b>109  EXT. DISCOUNT INN - NIGHT &lt;<colour sequence="">&gt;			 109
-</colour></b>
+<b>109  EXT. DISCOUNT INN - NIGHT &gt;			 109
+</b>
 Leonard comes out of Room 304, grim-faced, carrying the
 shopping bag. He goes to his Jaguar and gets in.
 
@@ -3831,8 +3831,8 @@ Leonard flips to the back page to look at his HANDWRITTEN
 		in with what they believed had happened,
 		so they didn't chase any of it up.
 
-<b>111  EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   111
-</colour></b>
+<b>111  EXT. DISCOUNT INN - DAY &gt;			   111
+</b>
 Leonard pulls up in the Jaguar, checks the name against a
 NOTE written on a BEER MAT, and heads into the office.
 
@@ -3840,8 +3840,8 @@ Leonard comes out of the office, gets a sports bag from the
 Jaguar, then takes a Polaroid of the entrance and heads for
 Room 304.
 
-<b>112  INT. DISCOUNT INN - ROOM 304 - DAY &lt;<colour sequence="">&gt;	  112
-</colour></b>
+<b>112  INT. DISCOUNT INN - ROOM 304 - DAY &gt;	  112
+</b>
 Leonard enters the unoccupied room, flapping the Polaroid
 photo. He sifts through his sports bag, pulls out a pen and
 writes the motel's address on the picture.
@@ -3954,8 +3954,8 @@ brush her hair with it, but Leonard stops her.
 
 The Blonde sees the BLACK HAIR stuck in the brush.
 
-<b>113  INT. DISCOUNT INN ROOM 304 - NIGHT &lt;<colour sequence="">&gt;	  113
-</colour></b>
+<b>113  INT. DISCOUNT INN ROOM 304 - NIGHT &gt;	  113
+</b>
 The lights are off. The Blonde and Leonard are lying side by
 side in bed.
 
@@ -4013,8 +4013,8 @@ Leonard takes his pen and alters his FILE CARD to read:
 </b>
 Leonard picks up the NEEDLE/PEN and continues his tattoo.
 
-<b>115  EXT. NATALIE'S HOUSE - DAY &lt;<colour sequence="">&gt;			115
-</colour></b>
+<b>115  EXT. NATALIE'S HOUSE - DAY &gt;			115
+</b>
 The CAR ALARM of the Jaguar is SOUNDING.
 
 Leonard exits, walks to the car and gets in, switching off
@@ -4326,8 +4326,8 @@ reading the address Teddy has given him.
 
 Leonard starts the engine.
 
-<b>116  EXT. DISCOUNT INN - DAY &lt;<colour sequence="">&gt;			   116
-</colour></b>
+<b>116  EXT. DISCOUNT INN - DAY &gt;			   116
+</b>
 Leonard pulls up in his Jaguar, checks the name of the motel
 against the note written on the BEER MAT, then heads into the
 office to check in.
@@ -4483,8 +4483,8 @@ fiddling with the TAPE, peeling back the corners.
 
 <b>							CUT TO:
 </b>
-<b>120  INT. NATALIE'S LIVING ROOM - DAY &lt;<colour sequence="">&gt;	    120
-</colour></b>
+<b>120  INT. NATALIE'S LIVING ROOM - DAY &gt;	    120
+</b>
 Leonard sifts through the papers on the desk, agitated. He	 *
 hears a car door SLAM. He looks out of the window to see	   *
 Natalie getting out of her car.
@@ -4670,8 +4670,8 @@ MEMENTO Pink Revisions - 9/7/99
 Outside, a CAR ALARM starts to sound. Leonard gets up and
 heads to the door, flipping through his Polaroids.
 
-<b>121  EXT. NATALIE'S HOUSE - DAY &lt;<colour sequence="">&gt;			121
-</colour></b>
+<b>121  EXT. NATALIE'S HOUSE - DAY &gt;			121
+</b>
 The Jaguar's CAR ALARM is sounding.
 
 Leonard exits Natalie's house, walks to his Jaguar and gets
@@ -4731,8 +4731,8 @@ just hung up.
 
 <b>							CUT TO:
 </b>
-<b>123  INT. NATALIE'S LIVING ROOM - DAY &lt;<colour sequence="">&gt;	    123
-</colour></b>
+<b>123  INT. NATALIE'S LIVING ROOM - DAY &gt;	    123
+</b>
 Leonard is sitting on the coffee table, relaxed, looking at
 his Polaroids. Natalie (WITHOUT BRUISES) BURSTS in through
 the front door, scared.
@@ -4991,8 +4991,8 @@ purse.
 <b>				NATALIE
 </b>		What does it look like?
 
-<b>124  INT. MOTEL ROOM 21 - DAY &lt;<black and="" sequence="" white="">&gt;	   124
-</black></b>
+<b>124  INT. MOTEL ROOM 21 - DAY &gt;	   124
+</b>
 Leonard lies on the bed, in jeans, topless. He reaches for the
 ringing phone with his left arm. As his hand reaches the
 receiver Leonard reads the tattoo on his arm which says:	   *
@@ -5021,13 +5021,13 @@ call.
 MEMENTO Pink Revisions - 9/7/99
 <b>							82.
 </b>
-<b>125  EXT. NATALIE'S HOUSE - DAY &lt;<colour sequence="">&gt;			125
-</colour></b>
+<b>125  EXT. NATALIE'S HOUSE - DAY &gt;			125
+</b>
 Leonard's Jaguar pulls up. Leonard and Natalie (WITHOUT
 BRUISES) get out. Leonard is carrying his sports bag.		 *
 
-<b>126  INT. NATALIE'S LIVING ROOM - DAY &lt;<colour sequence="">&gt;	    126
-</colour></b>
+<b>126  INT. NATALIE'S LIVING ROOM - DAY &gt;	    126
+</b>
 Natalie leads Leonard in, self-conscious about her messy
 living room.
 
@@ -5095,10 +5095,10 @@ Natalie looks confused.
 		I told them what I remembered. I was
 		asleep, something woke me up...
 
-<b>CUT TO FLASHBACK &lt;<colour sequence="">&gt;
-</colour></b>
-<b>127  INT. LEONARD'S APARTMENT BEDROOM - NIGHT &lt;<colour sequence="">&gt; 127
-</colour></b>
+<b>CUT TO FLASHBACK &gt;
+</b>
+<b>127  INT. LEONARD'S APARTMENT BEDROOM - NIGHT &gt; 127
+</b>
 Leonard opens his eyes. He slides his hand over to the empty
 space on the bed beside him, feeling the sheet.
 
@@ -5109,8 +5109,8 @@ space on the bed beside him, feeling the sheet.
 Leonard sits up in bed, listening.
 
 <b>128  INT. LEONARD'S HALLWAY WITH WOODEN FLOORS AND HIGH CEILINGS  128
-</b><b>NIGHT &lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>NIGHT &gt;
+</b>
 We move down the hail towards a closed door. Shadows and	   *
 light play across the floorboards from the gap under the	   *
 door. An ominous rumbling builds.						 *
@@ -5122,12 +5122,12 @@ Extreme close ups:
 A glass bottle smashes against ceramic tiles. A mirror
 smashes. Flesh hits tiled floor.
 
-<b>129  INT. LEONARD'S APARTMENT BEDROOM - NIGHT &lt;<colour sequence="">&gt; 129
-</colour></b>
+<b>129  INT. LEONARD'S APARTMENT BEDROOM - NIGHT &gt; 129
+</b>
 Leonard takes a gun down from the top of the bedroom closet,
 then quietly makes his way into the corridor.
 
-<b>A129 INT. LEONARD'S APARTMENT BATHROOM - NIGHT &lt;<colour a129=""><b>SEQUENCE&gt;&gt;
+<b>A129 INT. LEONARD'S APARTMENT BATHROOM - NIGHT <b>SEQUENCE&gt;&gt;
 </b>
 He KICKS the door open, revealing two figures struggling on
 the floor of a BATHROOM.
@@ -5170,8 +5170,8 @@ The EYES BLINK and we WHITE OUT.
 
 <b>							   FADE DOWN FROM WHITE TO:
 </b>
-<b>130  INT. NATALIE'S LIVING ROOM - DAY &lt;<colour sequence="">&gt;	    130
-</colour></b>
+<b>130  INT. NATALIE'S LIVING ROOM - DAY &gt;	    130
+</b>
 				LEONARD (cont'd)
 		There had to be a second man. I was
 		struck from behind, I remember. It's
@@ -5300,8 +5300,8 @@ Burt shrugs, then walks off.							 *
 
 <b>							CUT TO:
 </b>
-<b>132  INT. FERDY'S BAR - DAY &lt;<colour sequence="">&gt;			    132
-</colour></b>
+<b>132  INT. FERDY'S BAR - DAY &gt;			    132
+</b>
 Leonard sits at a booth looking through his Polaroids. A
 DRUNK with shaky hands sits at the bar. Natalie (without
 bruises) is working behind the bar. She tops up a silver
@@ -5355,16 +5355,16 @@ Natalie leans in close, studying Leonard, looking him over.
 
 <b>CUT TO FLASHBACK:
 </b>
-<b>133  INT. LEONARD'S BATHROOM - NIGHT &lt;<colour sequence="">&gt;		133
-</colour></b>
+<b>133  INT. LEONARD'S BATHROOM - NIGHT &gt;		133
+</b>
 An extreme close up, from floor level, of a woman's staring
 eyes seen through water-beaded, blood-spattered clear
 plastic.
 
 The EYES BLINK.
 
-<b>134  INT. FERDY'S BAR - DAY &lt;<colour sequence="">&gt;			    134
-</colour></b>
+<b>134  INT. FERDY'S BAR - DAY &gt;			    134
+</b>
 <b>BACK TO LEONARD IN BAR:
 </b>
 Leonard looks at Natalie.
@@ -5425,7 +5425,7 @@ MEMENTO Pink Revisions - 9/7/99
 </b>
 <b>136  OMIT							  136*
 </b>
-<b>137	INT. JAGUAR PARKED IN FERDY'S BAR PARKING LOT - DAY &lt;<colour><b>137*
+<b>137	INT. JAGUAR PARKED IN FERDY'S BAR PARKING LOT - DAY <b>137*
 </b><b>SEQUENCE&gt;&gt;
 </b>
 Leonard sits, studying his Polaroids. A metallic howl makes	*
@@ -5439,8 +5439,8 @@ with the message: "COME BY AFTERWARDS, NATALIE"			  *
 MEMENTO Pink Revisions - 9/7/99
 <b>							89.
 </b>
-<b>139  INT. FERDY'S BAR ON MAIN STREET - DAY &lt;<colour sequence="">&gt;    139
-</colour></b>
+<b>139  INT. FERDY'S BAR ON MAIN STREET - DAY &gt;    139
+</b>
 Leonard enters and sits at the bar a couple of places down
 from a filthy, toothless Drunk. Natalie (without bruises)
 appears in front of him. Leonard looks up at Natalie without
@@ -5679,14 +5679,14 @@ Leonard paces.							*
 MEMENTO Pink Revisions - 9/7/99
 <b>							93.
 </b>
-<b>A140 EXT. ALLEYWAY BEHIND TATTOO PARLOUR - DAY &lt;<colour a140=""><b>SEQUENCE&gt;&gt;							    *
+<b>A140 EXT. ALLEYWAY BEHIND TATTOO PARLOUR - DAY <b>SEQUENCE&gt;&gt;							    *
 </b>
 Leonard DROPS from a WINDOW, gains his balance and HURRIES to   *
 his Jaguar which is parked on the street by the mouth of the    *
 alley. He slips into the car, CLOSES the door gently, starts    *
 the engine and SPEEDS away.							  *
 
-<b>B140 INT./EXT. JAGUAR PARKED OUTSIDE FERDY'S - DAY &lt;<colour b140=""><b>SEQUENCE&gt;&gt;							    *							 
+<b>B140 INT./EXT. JAGUAR PARKED OUTSIDE FERDY'S - DAY <b>SEQUENCE&gt;&gt;							    *							 
 </b>
 Leonard reaches into his jacket pocket and pulls out a round    *
 piece of cardboard. It is a BEER MAT with the name of a local   *
@@ -5926,16 +5926,16 @@ MEMENTO Pink Revisions - 9/7/99
 		pat on the head from the doctors. You
 		bluff it to seem less of a freak.				 *
 
-<b>145  EXT. STRIP MALL - DAY &lt;<colour sequence="">&gt;				145
-</colour></b>
+<b>145  EXT. STRIP MALL - DAY &gt;				145
+</b>
 The TYRES of the Jaguar SCREAM as the car SCREECHES to a
 halt. Leonard backs the car up and stops in front of a TATTOO
 PARLOR. He grabs a FILE CARD of f the dash which says:
 
 <b>"TATTOO: FACT 6. CAR LICENSE: SG13 7IU"
 </b>
-<b>146  INT. TATTOO PARLOR - DAY &lt;<colour sequence="">&gt;			  146
-</colour></b>
+<b>146  INT. TATTOO PARLOR - DAY &gt;			  146
+</b>
 Leonard (beige suit) enters. A TATTOOIST is sitting with a
 magazine, smoking.
 
@@ -5952,8 +5952,8 @@ Leonard hands her a FILE CARD. She reads the card, then looks
 at him. He shrugs.
 
 <b>147  INT. CURTAINED CUBICLE - TATTOO PARLOR - DAY - CONTINUOUS    147
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Leonard unbuckles his trousers and starts to pull them down.
 He STOPS when he sees his thigh, looking up at the tattooist.
 
@@ -5978,8 +5978,8 @@ MEMENTO Pink Revisions - 9/7/99
 <b>							97.
 </b>
 <b>148  INT. CURTAINED CUBICLE - TATTOO PARLOR - DAY - CONTINUOUS    148
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Extreme close-up of the tattooing needle finishing an "F".
 
 Wider shows us Leonard sitting with his suit trousers around
@@ -6055,16 +6055,16 @@ through the curtain.
 		to get you some stuff.
 
 <b>149  INT.CURTAINED CUBICLE - TATTOO PARLOR - DAY - MOMENTS LATER  149
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 The buzzing of the tattoo needle stops. Leonard looks down at
 his thigh. It says:
 
 <b>"FACT 6. CAR LICENSE: SG13 7IU"
 </b>
 
-<b>150  INT. TATTOO PARLOR - DAY - MOMENTS LATER &lt;<colour sequence="">&gt; 150
-</colour></b>
+<b>150  INT. TATTOO PARLOR - DAY - MOMENTS LATER &gt; 150
+</b>
 Leonard exits the curtained cubicle, buckling his belt. Teddy
 is waiting for him with a PLASTIC BAG. Leonard pays the
 tattooist. Teddy looks at her.
@@ -6190,8 +6190,8 @@ MEMENTO Pink Revisions - 9/7/99
 <b>							102.
 </b>
 <b>151  INT. CURTAINED CUBICLE - TATTOO PARLOR - DAY - CONTINUOUS    151
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Leonard drops the plastic bag and takes his jacket off. He
 feels something in the pocket, sticks his hand in and pulls	*
 out a charred Polaroid photograph.						*
@@ -6221,7 +6221,7 @@ looks around, NOTICES a window set high in the wall above the
 padded bench in the cubicle. Leonard CLIMBS on the bench,
 OPENS the window and SQUEEZES himself through.
 
-<b>152  EXT. TATTOO PARLOUR ALLEYWAY - DAY - CONTINUOUS &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>152  EXT. TATTOO PARLOUR ALLEYWAY - DAY - CONTINUOUS <b>SEQUENCE&gt;&gt;
 </b>
 Leonard DROPS from the window, regains his balance and
 hurries to his Jaguar which is parked on the street by the
@@ -6556,10 +6556,10 @@ satisfaction. He looks around for his POLAROID CAMERA. He
 snaps a FLASH picture of Jimmy's body, and stares intently at
 the POLAROID as it begins to DEVELOP.
 
-We see the IMAGE OF THE STRANGLED JIMMY appear &lt;<in>COLOUR&gt;&gt;(POST)
-</in></colour></b>
-<b>168  INT. DAY - DERELICT BUILDING - CONTINUOUS &lt;<colour sequence="">&gt;168
-</colour></b>
+We see the IMAGE OF THE STRANGLED JIMMY appear COLOUR&gt;&gt;(POST)
+</b>
+<b>168  INT. DAY - DERELICT BUILDING - CONTINUOUS &gt;168
+</b>
 Leonard stands above Jimmy's body, examining the picture he
 has just taken, nodding to himself, catching his breath.
 
@@ -6575,8 +6575,8 @@ towards the basement. He opens the door and BACKS down into
 the DARKNESS, pulling Jimmy behind him.
 
 <b>169  INT. BASEMENT OF DERELICT BUILDING - DAY - CONTINUOUS	   169
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Leonard BACKS DOWN the stairs, dragging Jimmy's BODY, head
 BUMPING down each step. In the middle of the room, Leonard
 DROPS the legs. Moving fast, Leonard pulls the BEIGE SUIT	  *
@@ -6594,7 +6594,7 @@ throat. Leonard, frightened, bends down to listen.
 Leonard is SHOCKED. Jimmy is silent. The sound of a CAR
 outside. Leonard JUMPS to his feet.
 
-<b>170  INT. KITCHEN, DERELICT BUILDING - DAY - CONTINUOUS &lt;<colour><b>SEQUENCE&gt;&gt;
+<b>170  INT. KITCHEN, DERELICT BUILDING - DAY - CONTINUOUS <b>SEQUENCE&gt;&gt;
 </b>
 Leonard looks out to see Teddy getting out of his GREY SEDAN.
 Leonard leafs through his Polaroids finding the one of Teddy.
@@ -6604,8 +6604,8 @@ his pocket, pausing at the one of the STRANGLED JIMMY.
 <b>				LEONARD (V.0.)						*
 </b>		What have I done?							  *
 
-<b>171  EXT. DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;		   171
-</colour></b>
+<b>171  EXT. DERELICT BUILDING - DAY &gt;		   171
+</b>
 Leonard emerges to find Teddy trying the Jaguar's doors.
 
 <b>				LEONARD
@@ -6627,8 +6627,8 @@ Teddy moves towards the house. Leonard leads him in.
 MEMENTO Pink Revisions - 9/7/99
 <b>							109.
 </b>
-<b>172  INT. DERELICT BUILDING - DAY - CONTINUOUS &lt;<coulour sequence="">172
-</coulour></b>
+<b>172  INT. DERELICT BUILDING - DAY - CONTINUOUS 172
+</b>
 Teddy follows Leonard down the darkened hall.
 
 <b>				LEONARD
@@ -6648,8 +6648,8 @@ Teddy follows Leonard down the darkened hall.
 They go down into the basement.
 
 <b>173  INT. BASEMENT OF DERELICT BUILDING - DAY - CONTINUOUS	   173
-</b><b>&lt;<colour sequence="">&gt;
-</colour></b>
+</b><b>&gt;
+</b>
 Teddy follows Leonard down the stairs. Jimmy's body, dressed
 only in boxers, lies in the middle of the floor.
 
@@ -6701,8 +6701,8 @@ Teddy CRAWLS to his feet, RUBBING his head.				 *
 MEMENTO  Yellow Revision - 9/29/99
 <b>							110.
 </b>
-<b>174  INT. DERELICT BUILDING - DAY - CONTINUOUS &lt;<colour sequence="">&gt;174
-</colour></b>
+<b>174  INT. DERELICT BUILDING - DAY - CONTINUOUS &gt;174
+</b>
 Leonard pushes Teddy out of the basement.
 
 <b>				TEDDY
@@ -6853,8 +6853,8 @@ Leonard freezes, staring at Teddy.
 
 Leonard thinks.
 
-<b>175  INT. LEONARD'S APARTMENT - DAY &lt;<colour sequence="">&gt;		 175
-</colour></b>
+<b>175  INT. LEONARD'S APARTMENT - DAY &gt;		 175
+</b>
 Leonard's Wife sitting on the edge of the bed. She feels a
 sharp pain, and turns to Leonard (just as we have seen
 before).
@@ -6864,8 +6864,8 @@ before).
 
 Leonard has a syringe in his hand.
 
-<b>176  INT. DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;		   176
-</colour></b>
+<b>176  INT. DERELICT BUILDING - DAY &gt;		   176
+</b>
 Leonard shakes his head, clearing his head of the image.
 
 <b>				LEONARD
@@ -6874,8 +6874,8 @@ Leonard shakes his head, clearing his head of the image.
 <b>				TEDDY
 </b>		Are you sure?
 
-<b>177  INT. LEONARD'S APARTMENT - DAY &lt;<colour sequence="">&gt;		 177
-</colour></b>
+<b>177  INT. LEONARD'S APARTMENT - DAY &gt;		 177
+</b>
 Leonard's Wife on the edge of the bed. She feels a sharp
 pain, and turns to Leonard.
 
@@ -6890,8 +6890,8 @@ MEMENTO - Green Revisions 10-4-99
 </b>
 Leonard is playfully pinching her thigh.
 
-<b>178  INT. DERELICT BUILDING - DAY &lt;<colour sequence="">&gt;		   178
-</colour></b>
+<b>178  INT. DERELICT BUILDING - DAY &gt;		   178
+</b>
 Leonard shakes his head, smiling.
 
 <b>				LEONARD
@@ -7098,8 +7098,8 @@ Leonard stares at Teddy, mystified. Teddy grins.			 *
 
 Leonard turns away, and walks out into the light.
 
-<b>179  EXT. DERELICT BUILDING - DAY - CONTINUOUS &lt;<colour seouence="">&gt;179
-</colour></b>
+<b>179  EXT. DERELICT BUILDING - DAY - CONTINUOUS &gt;179
+</b>
 Leonard, in BEIGE SUIT and BLUE SHIRT, comes out into the
 daylight, THROWS Teddy's CAR KEYS into some bushes then heads
 to his PICKUP TRUCK and climbs in. Teddy goes to look for his
@@ -7111,8 +7111,8 @@ keys in the bushes.
 MEMENTO - Green Revisions 10-4-99
 <b>							117.
 </b>
-<b>180  INT. PICKUP TRUCK - DAY - CONTINUOUS &lt;<colour sequence="">&gt;	180
-</colour></b>
+<b>180  INT. PICKUP TRUCK - DAY - CONTINUOUS &gt;	180
+</b>
 Leonard opens the revolver and empties the bullets onto the
 passenger seat. He flips through the photos until he finds
 the one of the STRANGLED JIMMY.
@@ -7218,14 +7218,14 @@ the money. Leonard glances at Teddy, then the money, shakes
 his head, then SLAMS the trunk. Teddy jogs back to where he
 was looking for his keys.
 
-<b>181  INT. JAGUAR - DAY &lt;<colour sequence="">&gt;				    181
-</colour></b>
+<b>181  INT. JAGUAR - DAY &gt;				    181
+</b>
 Leonard starts the engine. Through the rear-view mirror,
 Leonard stares at Teddy's retreating form. Thinking. Leonard
 PULLS OUT onto the road.
 
-<b>182	INT./EXT. THE ROAD BACK INTO TOWN - DAY &lt;<colour sequence="">&gt;  182
-</colour></b>
+<b>182	INT./EXT. THE ROAD BACK INTO TOWN - DAY &gt;  182
+</b>
 As the Jaguar cruises along, Leonard places the FILE CARD on
 the dash. It says:
 
@@ -7273,8 +7273,8 @@ His EYES DART from the STRIP MALLS to the GAS STATIONS, as if
 		We all need mirrors to remind ourselves
 		who we are. I'm no different.
 
-<b>183  EXT. STRIP MALL - DAY &lt;<colour sequence="">&gt;				183 
-</colour></b><b>*
+<b>183  EXT. STRIP MALL - DAY &gt;				183 
+</b><b>*
 </b>
 From the bewildering BLUR of urban signage, Leonard SUDDENLY
 GLIMPSES A TATTOO PARLOR in a strip mall. He SLAMS ON THE
@@ -7922,7 +7922,7 @@ list.
 
 End.
 
-</colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></b></colour></pre>
+</b></b></b></b></b></b></b></b></b></b></b></b></b></pre>
 </pre><br/>
 <table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
 <tr>

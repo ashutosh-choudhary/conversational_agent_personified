@@ -1,855 +1,835 @@
+WRITTEN: JAMES CAMERON
+BY: JAMES CAMERON
+JAMES CAMERON: TITLE SEQUENCE 1 EXT. MOUNTAINS, NEAR GENEVA, SWITZERLAND - NIGHT The snow covered Alps stand out clearly in the light of a full moon. A fortress-like CHATEAU is situated in a flat saddle of forest partway up the mountain, next to a frozen lake. The property is surrounded by high stone walls, and the stately grounds are bathed in floodlights and patrolled by armed guards with dogs.
+TITLE SEQUENCE: 1 EXT. MOUNTAINS, NEAR GENEVA, SWITZERLAND - NIGHT
 HARRY: Honey, I'm home.
-GIB: Roger that. (he covers the mike and turns) Hey, Fize!  Get your butt in here.  Harry's inside. Outside, FAST FAISIL, an Iranian-American, finishes making yellow snow and hurries back to the van.  They are parked on a winding mountain road a half-mile from the chateau, whose lights are visible through the trees. Faisil jumps in and goes to the eyepiece of a huge telephoto nightvision scope.  The eerie green image lurches as he sweeps the grounds, locating the boathouse.
-HARRY: Switching to sub-vocal.  Gib, you copy?
-GIB (OVER): It's Talkradio.  You're on the air. Harry slips into his shoulder harness... holster on one side, containing his .45 auto Glock-22, and the transmitter pack for the ear-piece slung on the other.  He slips on a formal jacket, concealing the rig.  Then a final touch.  A little aftershave from a tiny plastic vial. Harry adjusts his bow-tie and strides confidently out of the shadows, crossing quickly to the main house.  He looks ultrasharp in his black tux with the white silk cummerbund and his hair slicked back.  He enters the main house through a back service entrance.
-HARRY: (French/ subtitled) This needs more garlic. He breezes through unchallenged, exiting into the--
-HARRY: There's Daddy Petrobucks. HARRY'S POV - Through the crowd is sees JAMAL KHALED, the host of the party and owner of the chateau.  He is fat and animated, greeting guests with a flourish.  As Harry watches he warmly greets a beautiful WOMAN.  They become absorbed in a conversation. The woman glances up and sees Harry checking her out.  There is a frank moment of returned interest.  Then the crowd shifts, cutting off their view of each other.
-HARRY: Modem in place.  Transmitting... now. He pushes a button and a green light comes on.
-FAISIL: Affirmatory.  We are in. Fast Faisil is a computer ace.  His fingers fly on the keyboard as he types rapid key commands.  We see familiar "windows appear".  The words are all in Arabic characters.
-FAISIL: These are encrypted files, guys. This is going to take me a few minutes.
-HARRY: (In Arabic/ subtitled) Where's the john around here?  I have to take a major leak. The guard points warily down the corridor.  Harry nods and heads that way, back toward the party.
-HARRY: (indicating the bas- relief) Magnificent, isn't it?
-WOMAN: Yes.  Hi, I'm Juno Skinner.  I thought I knew most of Khaled's friends but I don't believe I know you. Harry offers his hand to her.
-HARRY: Renquist.  Harry Renquist.
-GIB: Skinner.  Skinner.  Come on... Gib finds the entry he's looking for.  Juno's picture and data appear on the screen.
-GIB: Juno Skinner.  Art and antiquities dealer, specializing in ancient Persia.
-HARRY: This is Persian, if I'm not mistaken.
-JUNO: Very good.  It's sixth century B.C.  Do you like the period?
-HARRY: (shameless) I adore it.
-GIB (VO): Harry, we got a problem.  Guards are swarming all over the dock. Harry glances up the stairs.  Khaled's SECURITY CHIEF is gesturing to several of his men, and speaking quickly into a walky.  Three SECURITY MEN come down the stairs, scanning the crowd.  Harry turns smoothly away from them and takes Juno's arm.
-HARRY: Do you dance, Ms. Skinner? He steers her toward the dance floor.
-FAISIL: Okay, files are unlocked.  I'm in. I'm down, baby.  I got my hand up her dress and I'm going for the gold.  I'm--
-GIB: Just copy the goddamn files! (into his headset) Harry, don't be stopping to smell the roses, now.  You hear me, Harry?
-JUNO: Well.  And I thought this was going to be just another bunch of boring bankers and oil billionaires.
-GIB (OVER): Harry, seconds count, buddy. Ditch the bitch, let's go.
-HARRY: Unfortunately, Juno, I have a plane to catch. She slips a card out of a pocket in her otherwise sheer dress. She hands it to him, maintaining eye contact.  Serious sparks.
+GIB: Roger that. Hey, Fize! Get your butt in here. Harry's inside.
+HARRY: Switching to sub-vocal. Gib, you It's Talkradio. You're on the
+HARRY: ( French/ subtitled ) This needs more garlic.
+HARRY: There's Daddy Petrobucks.
+HARRY: Modem in place. Transmitting.
+FAISIL: Affirmatory. We are in.
+FAISIL: These are encrypted files, guys. This is going to take me a few
+HARRY: ( In Arabic/ subtitled ) Where's the john around here? I have to take a major leak.
+HARRY: ( indicating the bas- Magnificent, isn't it?
+WOMAN: Yes. Hi, I'm Juno Skinner. I thought I knew most of Khaled's friends but I don't believe I know you.
+HARRY: Renquist. Harry Renquist.
+GIB: Skinner. Skinner. Come on.
+GIB: Juno Skinner. Art and antiquities dealer, specializing in ancient Persia.
+HARRY: This is Persian, if I'm not Very good. It's sixth century B.C. Do you like the period?
+JUNO: Very good. It's sixth century B.C. Do you like the period?
+HARRY: ( shameless ) I adore it.
+HARRY: Do you dance, Ms. Skinner?
+FAISIL: Okay, files are unlocked. I'm in. I'm down, baby. I got my hand up her dress and I'm going for the gold. I'm
+GIB: Just copy the goddamn files! Harry, don't be stopping to smell the roses, now. You hear me, Well. And I thought this was going to be just another bunch of boring bankers and oil Harry, seconds count, buddy. Ditch the bitch, let's go.
+JUNO: Well. And I thought this was going to be just another bunch of boring bankers and oil Harry, seconds count, buddy. Ditch the bitch, let's go.
+HARRY: Unfortunately, Juno, I have a plane to catch.
 JUNO: Call me, if you'd like to see some of my other pieces.
 HARRY: I'd like that.
-GIB: (to Faisil) Son of a bitch is with her two minutes and she's ready to bear his children (to Harry) What's your exit strategy Twinkle Toes?
-GUARD: May I see your invitation, sir? Without turning, Harry slips a small flat box out of his breast pocket.  A REMOTE DETONATOR.
-HARRY: Here's my invitation. He pushes the button and-- KABOOM!  The  second floor office windows blow out in a fiery explosion.  Using the diversion, Harry leaps off the terrace before the guard can open fire.
-GIB: Aw, shit.  Here we go--
-GIB: Harry, what's your twenty?  I need a position, buddy-- Suddenly a skier in a black tux launches across the road from the slope above, RIGHT OVER THE VAN, and lands deftly downslope.
-GIB: Uh... right!  I'll catch you on the next bend. Behind the van, pursuing guards leap across the road.  Only about half can make the jump.  The rest crash horribly.  The helicopter thunders overhead.
-GIB (OVER): Harry!  Where are you!
+GIB: ( to Faisil ) Son of a bitch is with her two minutes and she's ready to bear his children ( to Harry ) What's your exit strategy Twinkle
+GUARD: May I see your invitation, sir?
+HARRY: Here's my invitation.
+GIB: Aw, shit. Here we go
+GIB: Harry, what's your twenty? I need a position, buddy Uh. right! I'll catch you on the next bend.
+GIB: Uh. right! I'll catch you on the next bend.
 HARRY: In the helicopter.
-GIB: (deadpan, to Faisil) He's in the helicopter. Big is scanning above for the chopper.  Then upslope he sees the burning fuselage skiing expertly among the trees. The chopper hits a jump and launches into the air-- It crashes through trees, still soaring and-- Gib looks up, screaming as-- The chopper drops right toward him-- He hits the brakes and-- BLAMMO!  It drops onto the road ten feet in front of the skidding van...  then slides over the edge and tumbles into a rocky canyon where is BLOWS UP!  The fireball lights up the night. Gib and Faisil jump out of the van.  They look downslope at the burning wreckage.
-GIB: Harry?  HARRY?!
-HARRY: What? Gib and Faisil spin to look behind them.  Harry is lodged in tree-branches hanging over the road.  Gib hands his MP-5K machine gun to Faisil and reaches up to Harry, who grabs his hand and pulls.  Harry tumbles down into the snowbank.  He stands, brushing snow off his tux, and clomps toward the van in his ski-boots.  He is completely unruffled.
-HARRY: Let's go.  We can still make our flight. As Faisil is getting into the van behind Harry, TWO GUARD TEAMS ON SNOWMOBILES roar around the bend behind them, fish-tailing on the ice.  Faisil OPENS FIRE.  One snowmobile swerves over the embankment.  The other pulls up broadside, and the guards duck behind it.  Gib floors it and the van roars down the mountain.  Faisil is still Ramboing on full-auto.
-FAISIL: This is GREAT!!  I never get to shoot!
-HARRY: Empty.  Go. Gib starts handing him items from a briefcase.  This should all feel like a tired ceremony between them.
-GIB: Harry Tasker wallet.  Harry Tasker passport.  Plane ticket stub, hotel receipt, Tasker.  Two postcards of Lake Geneva.  House keys.  Souvenir snowing Swiss village. Gib snows him how is snows when you shake it up and turn it over.
+GIB: ( deadpan, to Faisil ) He's in the helicopter.
+GIB: Harry? HARRY?!
+HARRY: Gib and Faisil spin to look behind them. Harry is lodged in tree-branches hanging over the road. Gib hands his MP-5K machine gun to Faisil and reaches up to Harry, who grabs his hand and pulls. Harry tumbles down into the snowbank. He stands, brushing snow off his tux, and clomps toward the van in his ski-boots. He is completely unruffled.
+HARRY: Let's go. We can still make our
+FAISIL: This is GREAT!! I never get to
+HARRY: Empty. Go.
+GIB: Harry Tasker wallet. Harry Tasker passport. Plane ticket stub, hotel receipt, Tasker. Two postcards of Lake Geneva. House keys. Souvenir snowing Swiss What's this for?
 HARRY: What's this for?
-GIB: For Dana, schmuck.  Bring your kid something.  You know.  The dad thing.
-HARRY: Got it.  Nice touch.  Okay, pick me up at eight.  The de-brief is at ten hundred. Harry opens the car door.
-GIB: Hey, hey, hey... what are we forgetting? Gib holds up Harry's gold wedding band.  Harry puts it on.
-HARRY: What a team.  See you at eight.
-GIB: Yep.  Sleep fast.
-HELEN: (a drowsy murmur) Hi, honey.  How was the flight?
-HARRY: Fine, honey.  Stay asleep.
-HELEN: Okay. As she drifts off, Harry puts his head on the pillow and stares at the ceiling.
-DANA: Hey, thanks dad.  I never had one of these. They are in her room, which is your basic room from Hell. Pearl Jam posters, and an unbelievable clutter of junk, magazines and cheap jewelry.  Harry kisses her on the cheek, to which she submits dutifully.  He looks at his watch and heads for the door.
-HARRY: You better hurry.  You're going to be late for school. Harry hurries out and Dana considers the Swiss village a moment.
-DANA: Really lame. She plonks is straight in the wastebasket.
-HARRY: Dana, don't forget to feed Gizmo! Harry crosses the bedroom, hurrying past Helen who is clearly rushing to get ready herself.  We get our first good look at Helen.  She is wearing a terrycloth robe as she picks out an outfit.  Her hair is wrapped in a towel.  To call her plain would be inaccurate.  She could be attractive if she put any effort into it, which doesn't occur to her.
+GIB: For Dana, schmuck. Bring your kid something. You know. The dad thing.
+HARRY: Got it. Nice touch. Okay, pick me up at eight. The de-brief is at ten hundred.
+GIB: Hey, hey, hey. what are we
+HARRY: What a team. See you at eight.
+GIB: Yep. Sleep fast.
+HELEN: ( a drowsy murmur ) Hi, honey. How was the flight?
+HARRY: Fine, honey. Stay asleep.
+HELEN: As she drifts off, Harry puts his head on the pillow and stares at the ceiling.
+DANA: Hey, thanks dad. I never had one of these.
+HARRY: You better hurry. You're going to be late for school. Really lame.
+DANA: Really lame.
+HARRY: Dana, don't forget to feed Gizmo!
 HARRY: I'm late.
-HELEN: Me too. They talk without looking at each other, the way people who have been together a long time do.
-HELEN: How'd it go at the trade show? You make all the other salesmen jealous?
-HARRY: Yeah.  You should have seen it. We were the hit of the show with the new model ordering system, the one for the 680... how you can write up an order and the second the customer's name goes into the computer, it starts checking their credit, and if they've ordered anything in the past, and if they get a discount... She is already tuning him out.  And it hits us:  SHE HAS NO
-HELEN: (barely listening) That's fabulous Harry.
-HARRY: Yeah, it was wild. Harry glances at her, oblivious to him and brushing her teeth. He smiles.  The best lies are told with enthusiasm.
-GIB: Come any closer I'll kill you. The dog backs up, whining plaintively.  Gib throws his jacket over the back of the couch and then, inexplicably, he takes out a pack of CAMELS and sets it on the mantelpiece.  He adjusts its position carefully.  Hmmmm.
-HELEN: The plumber came yesterday.  He said they have to dig under the slab or something and it's going to be six hundred dollars to fix. Harry is not really paying attention as he ties his tie in front of the mirror.  His mind is elsewhere.  He couldn't care less about there domestic problems.
-HARRY: Uh huh.  Okay.
-HELEN: It's not okay.  It's extortion.
+HELEN: Me too.
+HELEN: How'd it go at the trade show? You make all the other salesmen Yeah. You should have seen it. We were the hit of the show with the new model ordering system, the one for the 680. how you can write up an order and the second the customer's name goes into the computer, it starts checking their credit, and if they've ordered anything in the past, and if they get a
+HARRY: Yeah. You should have seen it. We were the hit of the show with the new model ordering system, the one for the 680. how you can write up an order and the second the customer's name goes into the computer, it starts checking their credit, and if they've ordered anything in the past, and if they get a
+HELEN: ( barely listening ) That's fabulous Harry.
+HARRY: Yeah, it was wild.
+GIB: Come any closer I'll kill you.
+HELEN: The plumber came yesterday. He said they have to dig under the slab or something and it's going to be six hundred dollars to fix.
+HARRY: Uh huh. Okay.
+HELEN: It's not okay. It's extortion.
 HARRY: What did you tell him?
 HELEN: I slept with him and he knocked off a hundred bucks.
-HARRY: Good thinking, honey. Harry kisses her on the cheek and exits.
+HARRY: Good thinking, honey.
 GIB: Hi, kid.
-DANA: Hey, Gib.  What up? She EXITS, eating an uncooked pop-tart.  Harry comes in a second later and Gib hands him his coffee.
+DANA: Hey, Gib. What up?
 HARRY: Thanks dear.
-GIB: Here, check these out. Gib hands Harry the glasses.  Harry studies them, seeing the VIRTUAL VIDEO DISPLAY inside the left lens of the Ray Bans. Harry glances down the hall, making sure no-one is looking, then he puts them on. HARRY'S POV - INSIDE THE GLASSES - A black and white video image of his own living room.
-GIB: The CCD camera and transmitter and inside a pack of smokes. Slick little unit, huh? IN POV we see Dana enter the living room.  She looks around carefuly, then quickly lifts Gib's jacket and slips out his wallet.  She palms two twenties in the blink of an eye and puts the wallet back.  Pro moves.
+GIB: Here, check these out.
+GIB: The CCD camera and transmitter and inside a pack of smokes. Slick little unit, huh?
 HARRY: Son of a bitch!
-GIB: What? Harry whips off the glasses and charges out of the kitchen. Gib goes after him.
-HARRY: Dana!! She waves from the back of the bike as Trent pops the clutch and they shoot down the driveway.
-DANA: (yelling over the engine) Can't stop, I'm late.  Bye, Dad!
-GIB: Kids.  Ten seconds of joy. Thirty years of misery.
-HARRY: She knows not to steal.  I've taught her better than that.
-GIB: Yeah, but you're not her parents, anymore, you and Helen.  Her parents are Axl Rose and Madonna. The five minutes you spend a day with her can't compete with that kind of constant bombardment. You're outgunned, amigo. Gib and Harry turn onto Pennsylvania Avenue, heading toward Lafayette Square.  Capital Hill is behind them.
+GIB: Harry whips off the glasses and charges out of the kitchen. Gib goes after him.
+HARRY: She waves from the back of the bike as Trent pops the clutch and they shoot down the driveway.
+DANA: ( yelling over the Can't stop, I'm late. Bye, Dad!
+GIB: Kids. Ten seconds of joy. Thirty years of misery.
+HARRY: She knows not to steal. I've taught her better than that.
+GIB: Yeah, but you're not her parents, anymore, you and Helen. Her parents are Axl Rose and Madonna. The five minutes you spend a day with her can't compete with that kind of constant bombardment. You're outgunned, amigo.
 SECRETARY: Morning, Mr. Tasker.
 HARRY: Morning, Charlene.
-GIB: See, kids now are ten years ahead of where we were at the same age. You probably think she's still a virgin--
-HARRY: Don't be ridiculous.  She's only -- how old is she?
+GIB: See, kids now are ten years ahead of where we were at the same age. You probably think she's still a Don't be ridiculous. She's only how old is she?
+HARRY: Don't be ridiculous. She's only how old is she?
 GIB: Fourteen, Harry.
-HARRY: Right.  She's only fourteen. They go into a corridor.
-GIB: Uh huh.  And her little hormones are going like a fire alarm.  I say even money that physicist on the bike is boinkin' her.
-HARRY: No way.  Not Dana. They stop at a door, like any other along the corridor.  It is blank.
-GIB: Okay.  Okay.  De-nail ain't just a river in Egypt.  She's probably stealing the money to pay for an abortion.
-HARRY: Will you just open the door! Gib touches a plastic card to an unmarked spot just above the doorknob.  There is the CLUNK of a SOLENOID LOCK.
+HARRY: Right. She's only fourteen.
+GIB: Uh huh. And her little hormones are going like a fire alarm. I say even money that physicist on the bike is boinkin' her.
+HARRY: No way. Not Dana. Okay. Okay. De-nail ain't just a river in Egypt. She's probably stealing the money to pay for an Will you just open the door!
+GIB: Okay. Okay. De-nail ain't just a river in Egypt. She's probably stealing the money to pay for an Will you just open the door!
+HARRY: Will you just open the door!
 GIB: Or drugs.
-GIB: Twenty here, fifty there... I figured my wife's boyfriend was taking it.
+GIB: Twenty here, fifty there. I figured my wife's boyfriend was taking it.
 HARRY: I thought you moved out.
-GIB: Well .  .  .  I moved back in. My lawyer said it would give me a better claim on the house in the property settlement.  Don't change the subject... you owe me two hundred bucks. They approach another door, with a (bulletproof) glass window in it.  Beyond is a brightly lit room, with a woman sitting at a desk... and nothing else.  Gib presses a buzzer.
-JANICE: Gentlemen, please idenitify yourselves to the scanner. Harry and Gib step up to the combination retinal-thumbprint- voice scanners.  Harry presses his thumb against a black-glass plate for laser scan, and looks into the eye-piece of the retinal scanner.
-HARRY: Harry Tasker.  One zero zero two four.
-GIB: Albert Gibson.  Three four nine nine one. Their clearance appears on a monitor on Janice's desk.
-JANICE: Thank you.  You are cleared. She stands to give them plastic I.D.  badges which they hang around their necks.
+GIB: Well . . . I moved back in. My lawyer said it would give me a better claim on the house in the property settlement. Don't change the subject. you owe me two hundred bucks.
+JANICE: Gentlemen, please idenitify yourselves to the scanner.
+HARRY: Harry Tasker. One zero zero two Albert Gibson. Three four nine nine one.
+GIB: Albert Gibson. Three four nine nine one.
+JANICE: Thank you. You are cleared.
 GIB: Janice, how many years have you been buzzing us in?
 JANICE: Ten, Mr. Gibson.
 GIB: And you still reach for your piece every time.
 JANICE: Yes sir.
-GIB: God!  You have no idea how much that turns me on.  I've never had the courage to say this before but... I love you, Janice.
-JANICE: Yes, sir. He kisses her wetly on the cheek as he goes by.  She does not react is any discernible way. They pass through a heavy stainless steel door which opens automatically.  Beyond is a kind of airlock... a SALLY PORT. Behind a lexan shield are TWO GUARDS armed with MP5s.  They nod but do not speak at Harry and Gib pass them.
-HARRY: You better watch it.  She might file on you for sexual harassment.
+GIB: God! You have no idea how much that turns me on. I've never had the courage to say this before but. I love you, Janice.
+JANICE: Yes, sir.
+HARRY: You better watch it. She might file on you for sexual In her dreams.
 GIB: In her dreams.
-HARRY: Come on, Fize.  We're late for our butt-grinding. Faisil gulps his coffee and hurries after them.
-TRILBY: Jesus, Harry!  You guys really screwed the pooch last night. Please tell me how I can look at this, that it's not a total pooch- screw.
-HARRY: Total is a strong word--
+HARRY: Come on, Fize. We're late for our butt-grinding.
+TRILBY: Jesus, Harry! You guys really screwed the pooch last night. Please tell me how I can look at this, that it's not a total pooch- Total is a strong word
+HARRY: Total is a strong word
 GIB: There are degrees of totality.
-FAISIL: It's a scale really, with "perfect mission" on one end and "total pooch-screw" on the other and we're more about here--
-TRILBY: Faisil.  You're new on Harry's team, aren't you?
-FAISIL: Yes.
+FAISIL: It's a scale really, with "perfect mission" on one end and "total pooch-screw" on the other and we're more about here
+TRILBY: Faisil. You're new on Harry's team, aren't you?
+FAISIL: So what makes you think that the slack I cut him in any way translates to you?!
 TRILBY: So what makes you think that the slack I cut him in any way translates to you?!
-FAISIL: Sorry, sir.  Uh... here's what we got. He hits a button and a photo of Khaled fills a wall-screen.
-FAISIL: Jamal Khaled.  We think he's dirty so we raid his financial files...  Check it out... Faisil hits some buttons and a second screen lights up with the data for their raid.
+FAISIL: Sorry, sir. Uh. here's what we
+FAISIL: Jamal Khaled. We think he's dirty so we raid his financial files. Check it out.
 FAISIL: One hundred million in wire transfers from the COMMERCE BANK
-GIB: Which we all know is a front for certain nations to fund terrorist activities.  Something big is going down --
-FAISIL: And we know that a week ago four MIRV warheads were smuggled out of the former Soviet Republic of Kazakhstan .  .  .
-HARRY: We think Khaled's group has bought the nukes and is bringing them to U.S.  soil.
-TRILBY: So far this is not blowing my skirt up, gentleman.  Do you have anything remotely substantial? Don't be pumping beets up my ass here.  Do you have hard data?
-HARRY: Not what  you'd call rock hard.
+INTERNATIONAL: Which we all know is a front for certain nations to fund terrorist activities. Something big is going down
+GIB: Which we all know is a front for certain nations to fund terrorist activities. Something big is going down
+FAISIL: And we know that a week ago four MIRV warheads were smuggled out of the former Soviet Republic of Kazakhstan . . .
+HARRY: We think Khaled's group has bought the nukes and is bringing them to U.S. soil.
+TRILBY: So far this is not blowing my skirt up, gentleman. Do you have anything remotely substantial? Don't be pumping beets up my ass here. Do you have hard data?
+HARRY: Not what you'd call rock hard.
 GIB: It's pretty limp, actually.
-TRILBY: Then perhaps you better get some ... before somebody parks a car in front of the White House with a nuclear weapon in the trunk!
-HELEN: I mean, it's not like he's saving the world or anything.  He's a sales rep for Chrissakes. Whenever I can't get to sleep I ask him to tell me about his day. Six seconds and I'm out.  But he acts like he's curing cancer or something.
+TRILBY: Then perhaps you better get some . before somebody parks a car in front of the White House with a nuclear weapon in the trunk!
+HELEN: I mean, it's not like he's saving the world or anything. He's a sales rep for Chrissakes. Whenever I can't get to sleep I ask him to tell me about his day. Six seconds and I'm out. But he acts like he's curing cancer or So I guess you didn't get away for the weekend after all?
 ALLISON: So I guess you didn't get away for the weekend after all?
-HELEN: Are you kidding?  Harry had to go out of town.
+HELEN: Are you kidding? Harry had to go out of town.
 ALLISON: I'm shocked.
-HELEN: Yeah.  You know Harry. Helen's nerdy boss BRAD, comes up behind her, scowling.
-BRAD: Helen, have you pulled those files yet?  I need them by lunch.
-HELEN: I won't let you down, Brad. Brad leaves.
-HELEN: (under her breath) You little pencil-neck. (to Allison) So... yo... sista!  D'you do anything interesting?
-ALLISON: Oh... Eric and I drove up to this little romantic inn, and... pretty much lapped champagne out of each other's navels for two days.
+HELEN: Yeah. You know Harry.
+BRAD: Helen, have you pulled those files yet? I need them by lunch.
+HELEN: I won't let you down, Brad.
+HELEN: ( under her breath ) You little pencil-neck. ( to Allison ) So. yo. sista! D'you do anything interesting?
+ALLISON: Oh. Eric and I drove up to this little romantic inn, and. pretty much lapped champagne out of each other's navels for two You bitch.
 HELEN: You bitch.
-ALLISON: Girlfriend, you got a man.  You just have to take control .  . .  set up the right mood.
-HELEN: Harry only has two moods: busy... and asleep.
-ALLISON: Then you better do something to jumpstart that man's motor.  You know... wake up the sleeping giant of his passion. They both crack up at that one.
-HARRY: What'ya got? The following will play as they wind their way through the rows of data-analysis workstations.
-FAISIL: (handing Harry a printout) Here, check this out--
-GIB: It's a two million dollar disbursement from Khaled to... Juno Skinner. (Harry raises an eyebrow) Uh huh.  The babe at the party.
-HARRY: It doesn't mean anything.  She buys antiquities for Khaled.
-GIB: Nope.  The art buys are in a separate ledger.
+ALLISON: Girlfriend, you got a man. You just have to take control . . . set up the right mood.
+HELEN: Harry only has two moods: busy. and asleep.
+ALLISON: Then you better do something to jumpstart that man's motor. You know. wake up the sleeping giant of his passion.
+HARRY: What'ya got?
+FAISIL: ( handing Harry a Here, check this out
+GIB: It's a two million dollar disbursement from Khaled to. Juno Skinner. Uh huh. The babe at the party.
+HARRY: It doesn't mean anything. She buys antiquities for Khaled.
+GIB: Nope. The art buys are in a separate ledger.
 FAISIL: And this is a little above market- rate for the horizontal bop, even for a total biscuit like her.
-HARRY: Alright, I want a complete workup on her.  Do we know where she is?
-FAISIL: Uh huh.  Right here in river city.
+HARRY: Alright, I want a complete workup on her. Do we know where she is?
+FAISIL: Uh huh. Right here in river You're kidding.
 HARRY: You're kidding.
-FAISIL: She lives in Rome, but she does stuff here the Smithsonian and has a lot of diplomatic connections, so she has offices here. Gib starts tangoing with an imaginary partner.
-GIB: Sounds like a job for a specialist.
-HELEN: I need you to talk to Dana.  The vice principle called and she cut class again this afternoon.
-HARRY: I'll handle it. Harry picks up his porkchop and goes out the back door.
-HARRY: Dana, Mr. Hardy called.  Why weren't you in class today?
-DANA: He lies!  I was there!  I was in the nurse's office, cause I had a headache.
+FAISIL: She lives in Rome, but she does stuff here the Smithsonian and has a lot of diplomatic connections, so she has offices
+GIB: Sounds like a job for a
+HELEN: I need you to talk to Dana. The vice principle called and she cut class again this afternoon.
+HARRY: I'll handle it.
+HARRY: Dana, Mr. Hardy called. Why weren't you in class today?
+DANA: He lies! I was there! I was in the nurse's office, cause I had a headache.
 HARRY: You seem fine now.
-DANA: Great!  You're going to believe that fat dweeb Mr. Hardy over your own daughter.
-HARRY: I'm not sure what to believe anymore, young lady.  You never used to lie to me.  But lately you don't seem to know the difference between right and wrong. Dana studies something really fascinating at the end of a fingernail.
+DANA: Great! You're going to believe that fat dweeb Mr. Hardy over your own daughter.
+HARRY: I'm not sure what to believe anymore, young lady. You never used to lie to me. But lately you don't seem to know the difference between right and Dana, are you listening to me?
 HARRY: Dana, are you listening to me?
 DANA: Yeah, Dad.
-HARRY: You know you can always talk to me.  Right?  Whatever is going on in your life, your mom and I'll understand.
+HARRY: You know you can always talk to me. Right? Whatever is going on in your life, your mom and I'll Okay, Dad.
 DANA: Okay, Dad.
-HARRY: You'd tell me if there was something wrong, wouldn't you, pumpkin?
-DANA: I'm not a pumpkin!  Okay?!!  Do I look even remotely like a pumpkin?! I'm not a muffin, or a cupcake or a honeybear either! And you don't understand anything Dad... Dana runs into the house, agent.  Hold on Harry, superagent, unable to comprehend the mind of a 14-year-old.  He looks up to see Helen at the backdoor.
-HELEN: (macho voice) "I'll handle it".
-GIB: It's all set up...  ghost phones and fax, all the usual stuff. You have a suite at the Marquis Hotel under Renquist.  Okay, reality check.  Go.
-HARRY: Hi, I'm Harry Renquist.  I own a--
-HARRY: --corporate art consulting company in San Francisco.  I have an appointment with Ms. Skinner-- Harry is extending his business card to the receptionist as Juno breezes into the lobby from a corridor.  She is dressed sharply and looks as stunning as Harry remembers.
-JUNO: Harry!  I thought I might see you again.  I just didn't  except you to call so soon. Juno lingers a second or so long on the handshake.
-HARRY: Well, what's the point of waiting?
-JUNO: I agree. There is definitely unholy magnetism here.  She indicates for Harry to walk with her and leads him through the suite of offices.  There are mounted fragments of ancient sculpture in niches on either side, and beautifully restored mosaics and tablets of hieroglyphics mounted on the walls.
+HARRY: You'd tell me if there was something wrong, wouldn't you, I'm not a pumpkin! Okay?!! Do I look even remotely like a pumpkin?! I'm not a muffin, or a cupcake or a honeybear either! And you don't understand anything
+DANA: I'm not a pumpkin! Okay?!! Do I look even remotely like a pumpkin?! I'm not a muffin, or a cupcake or a honeybear either! And you don't understand anything
+HELEN: ( macho voice ) "I'll handle it".
+GIB: It's all set up. ghost phones and fax, all the usual stuff. You have a suite at the Marquis Hotel under Renquist. Okay, reality check. Go.
+HARRY: Hi, I'm Harry Renquist. I own a
+HARRY: corporate art consulting company in San Francisco. I have an appointment with Ms. Skinner
+JUNO: Harry! I thought I might see you again. I just didn't except you to call so soon.
+HARRY: Well, what's the point of I agree.
+JUNO: I agree.
 JUNO: So your clients want something for the lobby of their new corporate headquarters?
-HARRY: That's right.  They want something...  dramatic.  I spoke to a number of people who said you're the one to see. Juno leads Harry through a door into a large warehouse area. There is a bustle of activity as workmen unpack crates.  An overhead crane is used to move huge stone pieces.  There are massive columns, and statues two stories high.  Even the entire facade of a tomb.
-JUNO: So what did these... people... say about me exactly? They stroll amongst the statues, as coveralled workmen move around them with tools, scaffolding, pneumatic equipment.  Most of the workers are middle-eastern.
-HARRY: Let's see... that you can read ancient Sanskrit without having to sound out the words.  And that other dealers and archeologists don't like you much.
-JUNO: Those wimps.  It's because I use my diplomatic contacts to export cultural treasures from countries which tell them to take a hike. (yelling in Arabic to two workmen) I told you to move those crates an hour ago.  Come on guys, let's get going. We realize that A WORKMAN is watching them intently from nearby.  He is an intense looking MIDDLE-EASTERN MAN in his mid- thirties.
-JUNO: You see, a lot of these pieces are from ancient Persia. Unfortunately, ancient Persia is twenty feet under the sand of Iran, Iraq and Syria.  Not the most popular places lately.  So I've had to become an expert in international diplomacy. Juno stops and looks at Harry.  Her smile indicates the possibility of more than just business.
+HARRY: That's right. They want something. dramatic. I spoke to a number of people who said you're the one to see.
+JUNO: So what did these. people. say about me exactly?
+HARRY: Let's see. that you can read ancient Sanskrit without having to sound out the words. And that other dealers and archeologists don't like you much.
+JUNO: Those wimps. It's because I use my diplomatic contacts to export cultural treasures from countries which tell them to take a hike. I told you to move those crates an hour ago. Come on guys, let's get going. You see, a lot of these pieces are from ancient Persia. Unfortunately, ancient Persia is twenty feet under the sand of Iran, Iraq and Syria. Not the most popular places lately. So I've had to become an expert in international diplomacy.
+JUNO: You see, a lot of these pieces are from ancient Persia. Unfortunately, ancient Persia is twenty feet under the sand of Iran, Iraq and Syria. Not the most popular places lately. So I've had to become an expert in international diplomacy.
 JUNO: Well, do you see anything you like, Mr. Renquist?
 HARRY: She's importing stuff from all over the mid-east.
-GIB: She could be moving money, guns. Anything.
-FAISIL: And the second you left there, we started getting calls to the ghost numbers.  They were checking out the Renquist front.
-HARRY: Okay.  Let's step up the surveillance on her.  Put on two more guys.
-MALIK: Ms. Skinner?  Can I speak to you for a moment please, in your office? His manner is self-effacing.  Humble.  He doesn't meet her gaze.  She nods and they go into the private office.
-MALIK: You stupid undisciplined bitch! Her jaw clenches but her reaction is surprisingly submissive.
-JUNO: It's a good thing you pay me well.
-MALIK: Do you realize that there are surveillance teams watching this place right now?  Your phones are almost certainly tapped.  And you are busy laughing and flirting like a whore with this Renquist, who may be a--
-JUNO: No.  He checked out okay-- Malik slaps her again.
-MALIK: That is for interrupting. (He backhands her) And that is for being wrong.  We do not tolerate mistakes. Juno bites her lip.
+GIB: She could be moving money, guns. And the second you left there, we started getting calls to the ghost numbers. They were checking out the Renquist front.
+FAISIL: And the second you left there, we started getting calls to the ghost numbers. They were checking out the Renquist front.
+HARRY: Okay. Let's step up the surveillance on her. Put on two more guys.
+MALIK: Ms. Skinner? Can I speak to you for a moment please, in your
+MALIK: You stupid undisciplined bitch!
+JUNO: It's a good thing you pay me Do you realize that there are surveillance teams watching this place right now? Your phones are almost certainly tapped. And you are busy laughing and flirting like a whore with this Renquist, who may be a
+MALIK: Do you realize that there are surveillance teams watching this place right now? Your phones are almost certainly tapped. And you are busy laughing and flirting like a whore with this Renquist, who may be a
+JUNO: No. He checked out okay
+MALIK: That is for interrupting. And that is for being wrong. We do not tolerate mistakes.
 JUNO: What do you want me to do?
 MALIK: Find out who this Renquist it.
-JUNO: How?
+JUNO: Use the gifts that Allah has given you.
 MALIK: Use the gifts that Allah has given you.
-SECRETARY: Hello, Tektel Systems.  Mr. Tasker's office.
-HELEN: Hi, Charlene?  It's Helen.  Is he there?
-CHARLENE: Harry's in a sales meeting, Mrs. Tasker.  Let me try him in there. Hold please. She punches a key, engaging a digital scrambler and connecting to--
-GIB: It's Helen. Harry picks up the phone.  INTERCUT THE FOLLOWING WITH HELEN.
-HARRY: Hi honey.  What's going on?
-HELEN: Sorry to bother you in a meeting, but you have to promise me that you'll be home at eight.  I don't want Dana and I sitting here by ourselves like we were last year. You promise?
-HARRY: (laughing) Baby, I said I'd be there. Really.  Trust me. (the room phone RINGS) Gotta go, honey.  Bye bye. RING.  Harry raises an eyebrow as he answers.
-HARRY: Hello?  Oh, Juno, hi. (pause) Well sure.  I can be there in twenty minutes. Harry hangs up.  Gib, checking his watch, has a look like he's got a bad gas pain.
-HARRY: What?  It's on the way.  She says she's got something for me.
+SECRETARY: Hello, Tektel Systems. Mr. Tasker's office.
+HELEN: Hi, Charlene? It's Helen. Is he
+CHARLENE: Harry's in a sales meeting, Mrs. Tasker. Let me try him in there. Hold please.
+GIB: It's Helen.
+HARRY: Hi honey. What's going on?
+HELEN: Sorry to bother you in a meeting, but you have to promise me that you'll be home at eight. I don't want Dana and I sitting here by ourselves like we were last year. You promise?
+HARRY: ( laughing ) Baby, I said I'd be there. Really. Trust me. ( the room phone RINGS ) Gotta go, honey. Bye bye.
+HARRY: Hello? Oh, Juno, hi. Well sure. I can be there in twenty minutes.
+HARRY: What? It's on the way. She says she's got something for me.
 GIB: Yeah, right.
-HARRY: Hello? He enters the stone doorway of the tomb.  FOLLOWING HARRY as he steps into the inner chamber.  There is an oil-lamp burning on a stone sarcophagus, the only light.  The room appears empty. REVERSE ON HARRY.  Behind him a figure emerges from a shadowed alcove.  It is Juno.  She looks ethereal in the strange light.
-JUNO: Hello, Harry. Harry whips around, startled.
-JUNO: Do you like my tomb?  The museum financing fell out, so I thought your clients might be interested.
-HARRY: It's certainly... dramatic.
-JUNO: Especially in this light.  This is the only light they had then, so I like to study it this way. I love this place.  I love all ruins.
-HARRY: Is that why you got into this business? Juno turns to him in the flickering half-light.  She moves closer.  Her eyes seem to glitter.
-JUNO: I've always been a collector at heart.  When I see something I want, I have to have it.
-HARRY: And you have a reputation as someone who gets what she wants. She is very close to him.  Her eyes seem to glitter in the light from the oil lamp.  She is unbelievably beautiful.
+HARRY: He enters the stone doorway of the tomb. FOLLOWING HARRY as he steps into the inner chamber. There is an oil-lamp burning on a stone sarcophagus, the only light. The room appears empty. REVERSE ON HARRY. Behind him a figure emerges from a shadowed alcove. It is Juno. She looks ethereal in the strange light.
+JUNO: Hello, Harry.
+JUNO: Do you like my tomb? The museum financing fell out, so I thought your clients might be interested.
+HARRY: It's certainly. dramatic.
+JUNO: Especially in this light. This is the only light they had then, so I like to study it this way. I love this place. I love all Is that why you got into this
+HARRY: Is that why you got into this
+JUNO: I've always been a collector at heart. When I see something I want, I have to have it.
+HARRY: And you have a reputation as someone who gets what she wants.
 JUNO: Yes, I do.
-GIB: Harry, this is your conscience speaking...
-JUNO: Look at this.  People who dies twenty centuries ago. Juno presses her cheek against the cold stone.  She runs her fingers slowly across the figures.  It is strange and erotic.
-JUNO: They breathed and loved and wept, just like us.  And now their ideals, their religions, their social orders... are gone like mist.  What did any of it matter? She crosses to Harry.
-JUNO: I only hope they lived well. That they got what they wanted. She puts her hands on him and pulls herself close.  It is a hypnotic moment.
-JUNO: Getting what you want is the only important thing. She kisses him, very lightly, with infinite sensuality.
-GIB: Harry?  Listen to the following code word.  Helen.  H-E-L-E-N. Now, do you want me to I beep you?
-HARRY: Yes.
+GIB: Harry, this is your conscience Look at this. People who dies twenty centuries ago.
+JUNO: Look at this. People who dies twenty centuries ago.
+JUNO: They breathed and loved and wept, just like us. And now their ideals, their religions, their social orders. are gone like mist. What did any of it matter?
+JUNO: I only hope they lived well. That they got what they wanted.
+JUNO: Getting what you want is the only important thing.
+GIB: Harry? Listen to the following code word. Helen. H-E-L-E-N. Now, do you want me to I beep
+HARRY: Yes what?
 JUNO: Yes what?
-HARRY: Uh, yes, it is important. Juno is moving in for a more passionate lip-lock when-- BEEP BEEP BEEP!!  Harry pulls his beeper off his hip and looks at it.  The moment is spoiled.
-HARRY: Uh, it looks like I have to run. I'll call you tomorrow.  Your proposal is very interesting.
-DANA: See.
-GIB: We have a friend.  Five cars back, inside lane.  They've been on us since we left Juno's. Harry adjusts the passenger side mirror.
+HARRY: Uh, yes, it is important.
+HARRY: Uh, it looks like I have to run. I'll call you tomorrow. Your proposal is very interesting.
+DANA: 71 INT./EXT. GIB'S CAR - NIGHT
+GIB: We have a friend. Five cars back, inside lane. They've been on us since we left Juno's.
 HARRY: Station wagon?
-GIB: Uh huh.  Want me to lose them?
-HARRY: No.  We need this lead. (into his Rover) Unit Seven.
-UNIT SEVEN (FAISIL): Seven here.
-HARRY: (into Rover) I need you at the Georgetown mall in three minutes.
-SEVEN: Copy that.  We're rolling.
+GIB: Uh huh. Want me to lose them?
+HARRY: No. We need this lead. Unit Seven.
+HARRY: ( into Rover ) I need you at the Georgetown mall in three minutes.
+SEVEN: Copy that. We're rolling.
 GIB: Helen's going to be pissed.
-HARRY: See, that's the problem with terrorists.  They're really inconsiderate when it comes to people's schedules.
-HARRY: Test two three. (Gib nods, receiving) Pull over here. Gib pulls the car to the curb near the mall entrance.  Half a block behind them the station wagon does the same.  Harry slips on the virtual-image sunglasses and gets out of the car.
-GIB: (in his ear) You don't smoke, dickhead. Harry lets his hand drop to his side, holding the pack of cigarettes casually.  He turns his hand.  The tiny lens in the cigarette pack glints. POV VIDEO SCREEN --inside the left lens of the glasses.  The camera in the cigarette pack reveals Yusif and Mahmoud getting out of their cars, crossing the street half a block away. HARRY strolls into the mall.  It is an open promenade design, with a moderate crowd of shoppers and movie-goers.  Harry watches in the glasses as Mahmoud and Yusif slip through the crowd behind him.
-GIB (VO): What's the plan?
-HARRY: (apparently mumbling to himself) Gonna try to get a closer shot of Beavis & Butthead.
-GIB: There's another guy, still in the car.
-HARRY: (on radio) Stay on him. All Gib can see is a silhouette in the car.  A soft cherry glow, the tip of a cigarette in the dark.  No features.
-GIB: Helen?  Hi, it's Gib.  Harry remembered something he left at the office.  You know Harry. As he is talking he sees that a bus has blocked his view of the station wagon.
-HELEN: Yeah, Gib.  I know Harry. Helen hangs up the phone just as Dana strides through the room, putting on a jacket and heading for the front door.
+HARRY: See, that's the problem with terrorists. They're really inconsiderate when it comes to people's schedules.
+HARRY: Test two three. Pull over here.
+GIB: ( in his ear ) You don't smoke, dickhead.
+HARRY: ( apparently mumbling to Gonna try to get a closer shot of Beavis & Butthead.
+GIB: There's another guy, still in the Stay on him.
+HARRY: ( on radio ) Stay on him.
+GIB: Helen? Hi, it's Gib. Harry remembered something he left at the office. You know Harry.
+HELEN: Yeah, Gib. I know Harry.
 HELEN: Where are you going?
-DANA: Out.  If Dad doesn't care enough about us to be here on his birthday, then why should I care? I'm going to a movie.
-HELEN: No you're not.  You're going to stay here until your father gets home and have cake!
-DANA: Mom, wake up!  Dad barely knows we exist. We see the hurt in her eyes.  She doesn't hate her father.  She just misses him.
-HELEN: That's not true, honey--
-DANA: It is true!  He doesn't know anything about me.  He still thinks I'm like ten years old or something.  As long as I just smile and say yes to whatever he says, like his good little fantasy daughter, he thinks everything's fine.  But it's not fine.  Nothing's fine. Dana runs out the kitchen by the other door.  Helen runs after her.
-HELEN: Dana!  Come back here! The slamming door is her answer.
-GIB: Oh shit. (into his headset) Harry, I lost the third guy. Harry?
-GIB: Harry?  Harry, you copy?!  Shit!
-HARRY: (to the old guy) Sorry.
-GIB (OFF): Malik spins to see Gib nearby, going into a firing stance behind a light-standard.  The terrorist doesn't hesitate.  His Beretta ROARS at 900 rounds per minute. Gib tries to hide behind the light-standard, which is about half as wide as he is.  Shots hit all around him, shattering window glass behind him.  His stomach sticks out from behind the pole.  He sucks it in. Now his butt is sticking out on the other side.  Shots clang into the steel column, and riddle everything behind him.
-GIB: Just when it looks like Gib is going to get a 9mm tummy tuck, Malik turns and sprints away, through shocked pedestrians. Harry runs out of the restroom, trying for a shot, but there are too many people in the line of fire and Malik knows it.
-HARRY: Get back to the car! Gib nods and heads the other way as Harry takes off after Malik.  Malik is fast and vicious.  He hurls people out of the way, sending shoppers sprawling.  Harry is ruthless in his pursuit.  They pound through the mall and out onto the street--
-HARRY: Federal Officer in pursuit of suspect!  Sorry. Harry is in the saddle and galloping after Malik before the cop can get his gut out of the holster to stop him. MALIK roars through the park on the Kawasaki.  He looks back, amazed to see Harry charging after him on a horse.  They scatter joggers and bicyclists, people walking their dogs. TRACKING WITH THEM as they rocket through the park.  Malik leaves the winding path and goes straight through the trees. Harry charges through some rollerbladers who go sprawling. Malik fires his Beretta straight back at Harry, emptying it. He drops the pistol and crouches over the bike, twisting the last bit of throttle out of it.  They are going flat out, through the trees, in a kinetic blur.
+DANA: Out. If Dad doesn't care enough about us to be here on his birthday, then why should I care? I'm going to a movie.
+HELEN: No you're not. You're going to stay here until your father gets home and have cake!
+DANA: Mom, wake up! Dad barely knows we exist.
+HELEN: That's not true, honey
+DANA: It is true! He doesn't know anything about me. He still thinks I'm like ten years old or something. As long as I just smile and say yes to whatever he says, like his good little fantasy daughter, he thinks everything's fine. But it's not fine. Nothing's fine.
+HELEN: Dana! Come back here!
+GIB: Oh shit. Harry, I lost the third guy.
+GIB: Harry? Harry, you copy?! Shit!
+HARRY: ( to the old guy )
+FREEZE!!!: Malik spins to see Gib nearby, going into a firing stance behind a light-standard. The terrorist doesn't hesitate. His Beretta ROARS at 900 rounds per minute. Gib tries to hide behind the light-standard, which is about half as wide as he is. Shots hit all around him, shattering window glass behind him. His stomach sticks out from behind the pole. He sucks it in. Now his butt is sticking out on the other side. Shots clang into the steel column, and riddle everything behind him.
+GIB: WRONG! THIS IS NOT GOOD!
+HARRY: Get back to the car!
+HARRY: Federal Officer in pursuit of suspect! Sorry.
 GIB: Harry, what's your twenty?
-HARRY: Westbound in the park... suspect is on a motorcycle... he's going to  come out on Franklin.  Hang on-- Harry leaps a park bench like he's in a steeple chase.
-HARRY (CONT'D): I want you on 14th in case he turns south.  And I need Seven on the north side to box him in.
+HARRY: Westbound in the park. suspect is on a motorcycle. he's going to come out on Franklin. Hang
 GIB: Copy that.
-HARRY: And make it fast.  My horse is getting tired. ON GIB, mouthing "Your horse?"
-HARRY: Can you just press the top floor, please. The man nods mutely and complies.  Their elevator takes off, rising after Malik's.
-GIB: The guy on the horse?! The porter points at the elevators.
-HARRY: What the hell were you thinking? We had the guy and you let him get away. He looks into the horse's innocent brown eyes.  Pats its neck fondly.
-HARRY: What kind of  cop are you?
-HARRY: Look, I know you're upset.  I'm really sorry, honey.  I raced home as quick--
-HELEN: It's okay, don't bother, Harry. He goes to her and puts his arms around her.  He is tender with her.  He wishes he can tell her the truth.
-HARRY: I'm sorry.  Thank you for the party.
-HELEN: Yeah.  It was great. Helen finds a smile for him somewhere.  She really does love him, though more and more often lately she finds her heart in pain.
-HELEN: Let's go to bed, Harry.  There's only one present you have to open tonight. She grins and arches one eyebrow meaningfully.
-HELEN: Don't move.  I'll be right back. She turns on the stereo.  A Kenny G disc she put in there earlier.  Soft tenor sax flows around the room.  Helen enters the BATHROOM and shuts the door partway.  She opens a cupboard and quickly pulls out some things she hid there earlier.  A bottle of champagne on ice.  Two glasses.  Some trashy lingerie.
+HARRY: And make it fast. My horse is getting tired.
+HARRY: Can you just press the top floor,
+GIB: The guy on the horse?!
+HARRY: What the hell were you thinking? We had the guy and you let him get away. What kind of cop are you?
+HARRY: What kind of cop are you?
+HARRY: Look, I know you're upset. I'm really sorry, honey. I raced home as quick
+HELEN: It's okay, don't bother, Harry.
+HARRY: I'm sorry. Thank you for the Yeah. It was great. Let's go to bed, Harry. There's only one present you have to open
+HELEN: Yeah. It was great. Let's go to bed, Harry. There's only one present you have to open
+HELEN: Let's go to bed, Harry. There's only one present you have to open
+HELEN: Don't move. I'll be right back. Come on to bed, you don't have to brush your teeth.
 HARRY: Come on to bed, you don't have to brush your teeth.
-HELEN: I'll just be a second.  So what happened tonight at the office?
-HARRY: I couldn't believe it.  I go back to get this report I need, right, and the phone is ringing, so like a bonehead I answer it-- Helen is hurrying to put on the unfamiliar lingerie.  G-string panties and low-cut bra.  She holds up the garter belt, turning it backward and forward, trying to figure out which way it goes. ON HARRY, yawning.  Lying with the ease of years of practice.
-HARRY: It's the big client in Japan, and it's the middle of the morning there and their whole system is crashed... this guy's having a meltdown--
-HELEN: (keeping him talking) What'd you do, honey?
-HARRY: Well I pull out the manual on their setup, which is the new 680 server... Helen is pulling up the black stockings.  She fastens the garters to the tops.  Her features are a scowl of concentration.  She is very earnest in her preparations.
-HARRY (CONT'D): ...and I'm troubleshooting it with them over the phone... talking to a translator, right, who's getting half of it wrong... it was unbelievable...  really wild.
-HELEN: (putting on black pumps) It sounds wild.  So now you're a big hero, right?  For fixing their system.
-HARRY: (faintly) Uh huh.
-HELEN: My husband the hero. Red lipstick.  Then she puts a little perfume on her wrists.
-HELEN: I'll be right there, honey.  Just a minute. Harry doesn't answer.  Helen puts a little perfume down the front of her panties.
-HELEN: Just a second. Helen quickly pours two glasses of champagne.  Then she slinks around the doorframe, making her entrance.  She looks like a living 900 number.  Helen stands before the bed, looking down, holding the champagne glasses. ON HARRY: sprawled on the bed, fully clothed, snoring softly. A little bit of drool is coming out the side of his mouth. HOLD ON HELEN, all dressed up with no place to go.  She gazes down at him, her shoulders slumping.
-HELEN: Happy Birthday, Harry. She sighs deeply and downs her champagne in one long gulp.
-GIB: Hey, did that guy Harry chased last night call in to give himself up yet?  Cause apparently that's the only way we're going to catch the son of a bitch --
-HARRY: (not listening) Okay.  Here she comes.
-HARRY: Look at the way the little punk is driving.  He's all over the place.  Look-- he hasn't signalled once.
-GIB: Goddammit!  That's outrageous. Harry speeds up.  Somebody honks as he cuts them off to stay with Trent.
-DANA: Oh my God!  I think that's my dad!
-TRENT: Hang on! Trent downshifts and punches it.  The nimble little bike screams as it zips between cars.
-HARRY: (clenching his jaw) So, you wanna play huh?  You little--
-GIB: (rolling his eyes) That's it.  Get 'im Harry (he draws a pistol) We'll teach that little puke not to signal.
-GIB: (exploding with laughter) Ha!  The little prick ditched you!  That is so goddamn funny.
+HELEN: I'll just be a second. So what happened tonight at the office?
+HARRY: I couldn't believe it. I go back to get this report I need, right, and the phone is ringing, so like a bonehead I answer it
+HARRY: It's the big client in Japan, and it's the middle of the morning there and their whole system is crashed. this guy's having a meltdown
+HELEN: ( keeping him talking ) What'd you do, honey?
+HARRY: Well I pull out the manual on their setup, which is the new 680
+HELEN: ( putting on black It sounds wild. So now you're a big hero, right? For fixing their system.
+HARRY: ( faintly ) Uh huh.
+HELEN: My husband the hero.
+HELEN: I'll be right there, honey. Just a minute.
+HELEN: Just a second.
+HELEN: Happy Birthday, Harry.
+GIB: Hey, did that guy Harry chased last night call in to give himself up yet? Cause apparently that's the only way we're going to catch the son of a bitch
+HARRY: ( not listening ) Okay. Here she comes.
+HARRY: Look at the way the little punk is driving. He's all over the place. Look he hasn't signalled once.
+GIB: Goddammit! That's outrageous.
+DANA: Oh my God! I think that's my Hang on!
+TRENT: Hang on!
+HARRY: ( clenching his jaw ) So, you wanna play huh? You ( rolling his eyes ) That's it. Get 'im Harry ( he draws a pistol ) We'll teach that little puke not to signal.
+GIB: ( rolling his eyes ) That's it. Get 'im Harry ( he draws a pistol ) We'll teach that little puke not to signal.
+GIB: ( exploding with Ha! The little prick ditched you! That is so goddamn funny.
 HARRY: Son of a bitch!
-GIB: Can we go to the office now, Mr. Superspy?
+GIB: Can we go to the office now, Mr.
 HARRY: That's him.
 HARRY: Abu Kaleem Malik.
-GIB: (reading from a file) Hardcore, highly fanatical, ultra- fundamentalist.  Linked to numerous car-bombings, that cafe bomb in Rome, and the 727 out of Lisbon last year.  Major player.
+GIB: ( reading from a file ) Hardcore, highly fanatical, ultra- fundamentalist. Linked to numerous car-bombings, that cafe bomb in Rome, and the 727 out of Lisbon last year. Major player.
 FAISIL: Now he's formed his own splinter faction called CRIMSON JIHAD.
 GIB: Guess he thought the other terrorist groups were too warm and fuzzy for his taste.
 FAISIL: They call him "The Sand Spider".
-TRILBY: Why?
-FAISIL: (he shrugs) Probably because it sounds scary.
+TRILBY: ( he shrugs ) Probably because it sounds scary.
+FAISIL: ( he shrugs ) Probably because it sounds scary.
 TRILBY: This is impressive, gentlemen. Of course, it would have been even more impressive if you actually knew where he was.
 HARRY: We'll get him.
-TRILBY: Yes.  You will. (meaning-- you damn well better) Harry, I still want you in charge, even though your cover is blown.  Just keep a low profile. (he slaps a newspaper on the table) I generally prefer it when my covert operations don't make the front page. The agents look at the headlines:  WILD WEST CHASE.  Harry and Gib wince.
-GIB: What's going on? Harry gets out of the car and turns back, leaning in the door to talk to Gib.
-HARRY: Look, uh... I've got to talk to Helen about this thing with Dana. I'm just going to run in and see if she can get away for lunch.
-GIB: You want me to just hang-- ?
+TRILBY: Yes. You will. Harry, I still want you in charge, even though your cover is blown. Just keep a low profile. I generally prefer it when my covert operations don't make the front page.
+GIB: What's going on?
+HARRY: Look, uh. I've got to talk to Helen about this thing with Dana. I'm just going to run in and see if she can get away for lunch.
+GIB: You want me to just hang ?
 HARRY: Just hang a minute.
 GIB: I'll just hang then, shall I?
-RECEPTIONIST: Hello Mr. Tasker.  Just a second, I'll  buzz Helen.
-HARRY: No.  No, I'd like to surprise her.  Thanks, I know where her desk is. He smiles and breezes past her before she has a chance to object.
-ALLISON: Helen! (grinning conspiratorially) It's your mystery man.
-HELEN: Simon?  Ohmygod. Helen, normally the image of composure, goes suddenly fluttery and nervous as a high-school girl.  She takes the phone, turning away from Allison.
-HELEN: Hello, Simon? (pause) It's all right.  There's no one around. Helen glimpses Allison with her ears cocked and gives her a scowl and a shooing motion.  Allison turns away, grinning.
-HELEN: You mean right now? (she looks around guiltily) I guess so.  Okay.  I'll be right there. (pause) Yes.  I can't wait.  Bye. She hangs up, a little flushed.  Then turns to Allison.
+RECEPTIONIST: Hello Mr. Tasker. Just a second, I'll buzz Helen.
+HARRY: No. No, I'd like to surprise her. Thanks, I know where her desk is. It's your mystery man.
+ALLISON: ( grinning It's your mystery man.
+HELEN: Simon? Ohmygod.
+HELEN: Hello, Simon? It's all right. There's no one
+"SIMON?!": 116 INT. HELEN'S OFFICE - DAY
+HELEN: You mean right now? I guess so. Okay. I'll be right Yes. I can't wait. Bye.
 HELEN: Can you cover me for an hour?
-ALLISON: Just an hour?  You should tell this stud to take more time.
-HELEN: Will you shutup.  I should never have told you about him. Helen grabs her purse and rushes out, going right past the stack where Harry is standing, dumbfounded.  He looks like he was slammed in the stomach with a lead pipe.  His whole like is unravelling.
-GIB: You look like you got gut-kicked. What's the matter?  You sick? Harry leans against the car for support.
-HARRY: (barely audible) He-- Helen.  Helen-- it's Helen. It's Helen, Gib.
+ALLISON: Just an hour? You should tell this stud to take more time.
+HELEN: Will you shutup. I should never have told you about him.
+GIB: You look like you got gut-kicked. What's the matter? You sick?
+HARRY: ( barely audible ) He Helen. Helen it's Helen. It's Helen, Gib.
 GIB: Something to do with Helen, is what I'm getting.
-HARRY: She's having an affair. Harry's best friend in the world brightens with the news.  He slaps him on the back.
-GIB: Congratulations.  Welcome to the club.
-HARRY: It can't be.  Not Helen.
-GIB: Nobody believes it can happen to them.
+HARRY: She's having an affair.
+GIB: Congratulations. Welcome to the It can't be. Not Helen.
+HARRY: It can't be. Not Helen.
+GIB: Nobody believes it can happen to It can't be.
 HARRY: It can't be.
-GIB: Same thing happened to me with wife two.  I had no idea until I came home and the house was empty.  I mean empty.  She even took the ice-cube trays from the fridge.  What kind of person would think of that?
-HARRY: (not listening) I still don't believe it.
-GIB: Relax.  Helen still loves you. She just wants this guy to bang her.  It's nothing serious. You'll get used to it after a -- Harry wheels around on Gib, grabbing him by the lapels, and slams him against the car.
-HARRY: We see in Harry's rage, frustration, and hurt confusion a vulnerability we never expected to see.
-GIB: What'dya expect Harry?  She's a flesh and blood woman.  And you're never there.  It was only a matter of time. Harry sags.  His friend is right.  Gib opens the car door and helps him in like an invalid, talking soothingly the whole time--
-GIB: I say we concentrate on work. That's how I always got through it whenever my life turned to dogshit.  Let's catch some terrorists and then you can beat the crap out of them.  You'll feel better. Gib gets in and starts the car, full of stoic cheer for Harry.
-GIB: Women.  Can't live with 'em. Can't kill 'em.
-GIB: He's giving us a blank check on wiretaps.  So I've set 'em up on all of Juno's shipping agents, her clients, and Faisil made up a list of possible contacts that Crimson Jihad might have in this country.  Now all we can do is wait -- He notices Harry is not listening.
+GIB: Same thing happened to me with wife two. I had no idea until I came home and the house was empty. I mean empty. She even took the ice-cube trays from the fridge. What kind of person would think of that?
+HARRY: ( not listening ) I still don't believe it.
+GIB: Relax. Helen still loves you. She just wants this guy to bang her. It's nothing serious. You'll get used to it after a
+HARRY: STOP. CHEERING. ME. UP.
+GIB: What'dya expect Harry? She's a flesh and blood woman. And you're never there. It was only a matter of time.
+GIB: I say we concentrate on work. That's how I always got through it whenever my life turned to dogshit. Let's catch some terrorists and then you can beat the crap out of them. You'll feel better.
+GIB: Women. Can't live with 'em. Can't kill 'em.
+GIB: He's giving us a blank check on wiretaps. So I've set 'em up on all of Juno's shipping agents, her clients, and Faisil made up a list of possible contacts that Crimson Jihad might have in this country. Now all we can do is
 GIB: Is this national security stuff boring you?
 HARRY: Put a tap on her phone.
-GIB: What're you talking about?  We have that.
-HARRY: Helen's phone.  Her office line and the line at my house. Gib gives Harry a stricken look, and glances around nervously. He pulls him into an empty office.
-GIB: (a whispered hiss) Okay .  .  .I have two words to describe that idea.  In.  Sane. Unauthorized wiretap is a felony, pard. Harry grabs him and rams him up against the wall, his teeth clenched.
-HARRY: Yeah, and we do it twenty times a day.  Don't give me that crap. Just put on the taps.  Now.
-GIB: Sure, Harry.  I'm on it. Harry releases him and turns away.  Gib straightens his jacket, looking at his friend like he's completely losing it.
+GIB: What're you talking about? We have that.
+HARRY: Helen's phone. Her office line and the line at my house.
+GIB: ( a whispered hiss ) Okay . . .I have two words to describe that idea. In. Sane. Unauthorized wiretap is a felony, Yeah, and we do it twenty times a day. Don't give me that crap. Just put on the taps. Now.
+HARRY: Yeah, and we do it twenty times a day. Don't give me that crap. Just put on the taps. Now.
+GIB: Sure, Harry. I'm on it.
 HARRY: How was school today?
-DANA: Fine. Harry takes a bite of his food, watching her.  Silence.  Helen glances at him.
-HELEN: So.  You came by to see me today? She is a too casual, masking her nervousness.
+DANA: Harry takes a bite of his food, watching her. Silence. Helen glances at him.
+HELEN: So. You came by to see me today?
 HARRY: I was in the area, and I thought you might like to have lunch.
 HELEN: They must've just missed me.
 HARRY: They said you had to run out.
-HELEN: Yeah.  It was a rush thing.  They needed some documents down at the court house.  I barely made it. Harry watches her lying to him with some amazement.  You can see the jaw muscles clenching.
-HARRY: So, a little excitement in an otherwise dull day.  Did is work out okay?
-HELEN: Oh, sure.  Fine. (she gets up suddenly) I'll get some more gravy.
-DANA: I'm done. Dana bolts.  She has eaten about four bites.  Harry sits at the table, alone.  He feels isolated, knowing that everybody is lying to everybody else.  He is a man without a center, lost.
-HELEN: Hello?
-SIMON: Helen?  It's Simon.  Is it safe to talk?
-HELEN: Yes.  Go ahead.
-SIMON: I can't talk long.  Can you meet me for lunch tomorrow?  I must see you.
-HELEN: Yes.  I suppose so.  Where?
-SIMON: The same place.  One o'clock.  I have to go now.  See you tomorrow.  Remember, I need you.
-HARRY: I thought we might have lunch tomorrow.
-HELEN: I can't, honey.  I promised Allison I'd go shopping with her. Sorry. Harry watches her smoothly lying to him.  It's surreal to him.
-HARRY: No problem. He surreptitiously picks up Helen's purse from a dresser and goes into the hall.
-GIB: Look, Harry.  I know this is rough.  I felt the same way the first time it happened to-- Harry holds up one finger.  His eyes and expression are so intense, Gib just soft of trails off.
-GIB: Right. (hefting the purse) So .  .  .  the usual, right? GPS locator, telemetry burst transmitter, audio transmitter, power supply.
+HELEN: Yeah. It was a rush thing. They needed some documents down at the court house. I barely made it.
+HARRY: So, a little excitement in an otherwise dull day. Did is work out okay?
+HELEN: Oh, sure. Fine. I'll get some more gravy.
+DANA: I'm done.
+HELEN: Helen? It's Simon. Is it safe to talk?
+SIMON: Helen? It's Simon. Is it safe to talk?
+HELEN: Yes. Go ahead.
+SIMON: I can't talk long. Can you meet me for lunch tomorrow? I must see you.
+HELEN: Yes. I suppose so. Where?
+SIMON: The same place. One o'clock. I have to go now. See you tomorrow. Remember, I need you.
+HARRY: I thought we might have lunch I can't, honey. I promised Allison I'd go shopping with her.
+HELEN: I can't, honey. I promised Allison I'd go shopping with her.
+HARRY: No problem.
+GIB: Look, Harry. I know this is rough. I felt the same way the first time it happened to
+GIB: ( hefting the purse ) So . . . the usual, right? GPS locator, telemetry burst transmitter, audio transmitter, power supply.
 HARRY: Just have is back in two hours.
-GIB: Okay, she's turning on Seventeenth.  Make a left, you should see her. Harry makes the turn.
+GIB: Okay, she's turning on Seventeenth. Make a left, you should see her.
 HARRY: There she is.
-HARRY: Give me audio. Gib hits a switch and they hear the clamor of the cafe at lunch rush come over a speaker.
-SIMON: Are you sure you weren't followed?
-HELEN: I kept looking back, like you taught me.  I didn't see anyone.
-SIMON: Okay.  It's just, things are a bit hot for me right now.  If I get a signal... (holds up a cigarette lighter meaningfully) I may have to leave suddenly.
+HARRY: Give me audio.
+SIMON: Are you sure you weren't I kept looking back, like you taught me. I didn't see anyone.
+HELEN: I kept looking back, like you taught me. I didn't see anyone.
+SIMON: Okay. It's just, things are a bit hot for me right now. If I get a signal. I may have to leave suddenly.
 HELEN: I understand.
-SIMON: It's my job to risk my life, but not yours.  I feel bad about bringing you into this, but you're the only one I can trust. Simon creates an atmosphere of danger.  His haggardness give him an air of mystery and desperation.
-HELEN: Where were you?  On a... uh, mission?
-SIMON: Ssshhh!  We say Op.  Covert operation.  And this one got a little rough.
+SIMON: It's my job to risk my life, but not yours. I feel bad about bringing you into this, but you're the only one I can trust.
+HELEN: Where were you? On a. uh, Ssshhh! We say Op. Covert operation. And this one got a little rough.
+SIMON: Ssshhh! We say Op. Covert operation. And this one got a little rough.
 HELEN: Worse than Cairo?
 SIMON: Cairo was a day at the beach next to this.
 GIB: Guy's a spook!
 HARRY: Yeah, but for who?
-GIB: He could be working her to get to you. Harry waves his hand, silencing Gib.
-SIMON: Did you read the papers yesterday?
-HELEN: Yes.
-SIMON: Sometimes a story is a mask for a covert operation.  See-- two men killed in a restroom, and two unidentified men in a running shootout, ending at the Marriot...
+GIB: He could be working her to get to
+SIMON: Did you read the papers Sometimes a story is a mask for a covert operation. See two men killed in a restroom, and two unidentified men in a running shootout, ending at the
+HELEN: Sometimes a story is a mask for a covert operation. See two men killed in a restroom, and two unidentified men in a running shootout, ending at the
+SIMON: Sometimes a story is a mask for a covert operation. See two men killed in a restroom, and two unidentified men in a running shootout, ending at the
 HELEN: That was you?!
-SIMON: You recognized my style.  See, you're very good.  You're a natural at this.
-GIB: The guy's a fake!  He's taking credit for our moves.
+SIMON: You recognized my style. See, you're very good. You're a natural at this.
+GIB: The guy's a fake! He's taking credit for our moves.
 HELEN: Tell me what happened?
 SIMON: I'm sorry, I can't.
 HELEN: You can trust me completely.
-SIMON: I know.  But it would compromise your safety too much to know certain things.
-HELEN: Right, of course.  I was worried when I didn't hear from you that night.
-SIMON: It's strange.  I knew I was in a woman's thoughts when I was shooting it out with those assassins.
-GIB: Unbelievable.
+SIMON: I know. But it would compromise your safety too much to know certain things.
+HELEN: Right, of course. I was worried when I didn't hear from you that It's strange. I knew I was in a woman's thoughts when I was shooting it out with those
+SIMON: It's strange. I knew I was in a woman's thoughts when I was shooting it out with those
+GIB: 145 INT. CAFE - DAY
 HELEN: Were they trying to kill you?
-SIMON: Three of them.  Hardly worth talking about.  Two won't bother me again.
+SIMON: Three of them. Hardly worth talking about. Two won't bother me again.
 HELEN: And you chased one?
-SIMON: Something came over me, I just had nail him, no matter what the risk.  It was pretty hairy.  I thought he had me, a couple of times.  But I really can't take credit .  .  .
+SIMON: Something came over me, I just had nail him, no matter what the risk. It was pretty hairy. I thought he had me, a couple of times. But I really can't take credit . . .
 HELEN: You can't?
-SIMON: No.  It's the training.  It shapes you into a lethal instrument.  You react without thinking.
-GIB: I'm starting to like this guy. Harry shoot him a hard look.
-GIB: (holding up his hand defensively) We still have to kill him, that's a given.
+SIMON: No. It's the training. It shapes you into a lethal instrument. You react without
+GIB: I'm starting to like this guy.
+GIB: ( holding up his hand We still have to kill him, that's a given.
 HELEN: What is it you want me to do?
-SIMON: Not here.  I'll call you and we'll rendezvous again. (he looks around) We have to leave separately, so we aren't seen together.  For your safety.
+SIMON: Not here. I'll call you and we'll rendezvous again. We have to leave separately, so we aren't seen together. For your safety.
 HELEN: You'll call me then?
-SIMON: Yes.  Now go.
-GIB: (laughing) He's a goddamn used car salesman. This just gets better. (catching himself) Sorry Harry, I know this is painful. Harry's eyes are slitted down lethally as he stares across the street.
-SIMON: It's a great little bar, Amanda, you'd love it.  Beirut's a great place if you know the city. Listen, this isn't a secure line. I'll tell you all about it when I get back tomorrow... if I live. (pause) Scared?  Never!  Except of you-- During this, the owner of the place, DOUG WURTZ, has come out of the back room and looked out at the lot.  What Doug sees is-- HARRY, browsing among the cars. DOUG turns from the window and bears down on Simon, who sees him coming and speeds up his rap.
-SIMON: --I have to go, baby.  A guy's coming toward me-- Doug grabs the phone out of his hand and slams it in the cradle.
-DOUG: Simon, look out there.  You see that man?  Notice how he's looking at the cars.  He's called a customer.  I know it's been a while, but do you remember what you're supposed to do when we have a customer?
-SIMON: It wants you too.  Feel it vibrate?  How about a little spin? Simon opens the passenger door and sits Harry inside, then runs around the car.  He leaps over the closed door into the driver's seat and starts the car.
-SIMON: You gotta jump in.  That's rule number one.  It takes a little practice, but there's no way around it.
-SIMON: See, it's not just the car, it's a total image.  An identity you have to go for.  This isn't some high-tech sports car...  it doesn't even handle that great. But that's not the idea, is it. Simon gives Harry a big grin.  Harry returns a knowing chuckle. Ha ha.
+SIMON: Yes. Now go.
+GIB: ( laughing ) He's a goddamn used car salesman. This just gets better. ( catching himself ) Sorry Harry, I know this is
+SIMON: It's a great little bar, Amanda, you'd love it. Beirut's a great place if you know the city. Listen, this isn't a secure line. I'll tell you all about it when I get back tomorrow. if I live. Scared? Never! Except of you
+SIMON: I have to go, baby. A guy's coming toward me Simon, look out there. You see that man? Notice how he's looking at the cars. He's called a customer. I know it's been a while, but do you remember what you're supposed to do when we have a customer?
+DOUG: Simon, look out there. You see that man? Notice how he's looking at the cars. He's called a customer. I know it's been a while, but do you remember what you're supposed to do when we have a customer?
+SIMON: It wants you too. Feel it vibrate? How about a little
+SIMON: You gotta jump in. That's rule number one. It takes a little practice, but there's no way around it.
+SIMON: See, it's not just the car, it's a total image. An identity you have to go for. This isn't some high-tech sports car. it doesn't even handle that great. But that's not the idea, is it.
 SIMON: What're we talking about here? Pussy, right?
-HARRY: Absolutely. Simon laughs.  Harry laughs.  A big lusty, male-bonding kind of laugh.
-SIMON: Well then this is a vital piece of equipment.  Used properly, it can change your life.  See, you cruise.  No racing.  This ain't a Ferrari.  You check out the scenery, let the scenery check you out.  You got to take it slow.  Old cars are like good women... they heat up fast. How do you grin warmly while your eyes are so cold?  Ask Harry.
+HARRY: Simon laughs. Harry laughs. A big lusty, male-bonding kind of How do you grin warmly while your eyes are so cold? Ask Harry.
+SIMON: Well then this is a vital piece of equipment. Used properly, it can change your life. See, you cruise. No racing. This ain't a Ferrari. You check out the scenery, let the scenery check you out. You got to take it slow. Old cars are like good women. they heat up fast.
 HARRY: Keep talking.
-SIMON: Let's face it, Harry, the Vette gets 'em wet.  But it's not enough.  If you want to really close escrow, you gotta have an angle.
+SIMON: Let's face it, Harry, the Vette gets 'em wet. But it's not enough. If you want to really close escrow, you gotta have an And you've got one.
 HARRY: And you've got one.
-SIMON: It's killer.  Look at me-- I'm not that much to look at.  No really.  I can be honest.  But I got 'em lining up, and not just skanks, either.  Some are.
+SIMON: It's killer. Look at me I'm not that much to look at. No really. I can be honest. But I got 'em lining up, and not just skanks, either. Some are.
 HARRY: So what's your angle?
-SIMON: Sorry.  Trade secret.
-HARRY: (grinning) Sure.  Set me up and then don't tell me. Simon leans forward, conspiratorially.
-SIMON: Okay, just ask yourself.  What do women really want?  You take these bored housewives, married to the same guy for years.  Stuck in a rut.  They need some release.  The promise of adventure.  A hint of danger.  I create that for them.
-HARRY: So you're basically lying your ass off the whole time?  I couldn't do it.
-SIMON: Well, think of it as playing a role.  It's fantasy.  You have to work on their dreams.  Get them out of their daily suburban grind for a few hours.
+SIMON: Sorry. Trade secret.
+HARRY: ( grinning ) Sure. Set me up and then don't tell me.
+SIMON: Okay, just ask yourself. What do women really want? You take these bored housewives, married to the same guy for years. Stuck in a rut. They need some release. The promise of adventure. A hint of danger. I create that for them.
+HARRY: So you're basically lying your ass off the whole time? I couldn't do it.
+SIMON: Well, think of it as playing a role. It's fantasy. You have to work on their dreams. Get them out of their daily suburban grind for a few hours.
 HARRY: Isn't that hard to keep up, in the long run?
-SIMON: Doesn't matter.  I like change. You know, constant turnover.  As soon as I close the deal, it's one of two more times, then adios.
+SIMON: Doesn't matter. I like change. You know, constant turnover. As soon as I close the deal, it's one of two more times, then Use 'em and lose 'em.
 HARRY: Use 'em and lose 'em.
-SIMON: Exactly.  The trick is, you gotta pick your target.  They have to be nice little housewife types. School-teachers.  But, I'm telling you, you get their pilot lit, these babes, they can suck- start a leaf-blower.
+SIMON: Exactly. The trick is, you gotta pick your target. They have to be nice little housewife types. School-teachers. But, I'm telling you, you get their pilot lit, these babes, they can suck- start a leaf-blower.
 HARRY: What about the husbands?
-SIMON: Dickless.  If they took care of business, I'd be out of business, know what I mean?
+SIMON: Dickless. If they took care of business, I'd be out of business, know what I mean?
 HARRY: Those idiots.
 HARRY: You working on someone right now?
-SIMON: I always have a couple on the hook.  You know.  There's one right now, I've got her panting like a dog.  It's great. Unconsciously, Harry's hands clench the wheel tighter.
+SIMON: I always have a couple on the hook. You know. There's one right now, I've got her panting like a dog. It's great.
 HARRY: What does she do?
-SIMON: Some kinda legal secretary of something.  Married to some boring jerk. Harry takes a corner too fast.  The tires squealing.
-SIMON: And she could be so hot, if she wanted to be.  She's like a dying plant that just needs a little water. When Simon is looking, Harry is open and encouraging...  they laugh together... then when he looks away Harry goes snake- eyed.  He could kill Simon with one punch.  He's visualizing his wife getting porked by this guy.
-HARRY: But with you, she gets to be hot, right?
-SIMON: Red hot.  Her thighs steam. They laugh together.  Harry's laugh is getting a bit brittle. He speeds up, his knuckles white on the wheel.  Now for the big question: HAVE THEY OR HAVEN'T THEY?
-HARRY: Sooooo... she's pretty good in bed, then?
-SIMON: (yelling suddenly) Hey, slow down you're gonna miss the turn!
-SIMON: See.  You and this car were meant for each other.  Why fight it? Sure, I have a couple other buyers lined up, but I like your style.  Whattya say?  Should we start on the paperwork?
-HARRY: Let me think about it.  Hold it a day for me? Simon grins and winks.
+SIMON: Some kinda legal secretary of something. Married to some boring jerk.
+SIMON: And she could be so hot, if she wanted to be. She's like a dying plant that just needs a little
+HARRY: But with you, she gets to be hot, Red hot. Her thighs steam.
+SIMON: Red hot. Her thighs steam.
+HARRY: Sooooo. she's pretty good in bed, then?
+SIMON: ( yelling suddenly ) Hey, slow down you're gonna miss the turn!
+SIMON: See. You and this car were meant for each other. Why fight it? Sure, I have a couple other buyers lined up, but I like your style. Whattya say? Should we start on the paperwork?
+HARRY: Let me think about it. Hold it a day for me?
 SIMON: Because it's you.
-HELEN: Dinner's in the warmer.  Tell your father I may be late.
+HELEN: Dinner's in the warmer. Tell your father I may be late.
 DANA: Where are you going?
-HELEN: Out. Dana is momentarily puzzled by the reversal of roles.
+HELEN: Dana is momentarily puzzled by the reversal of roles.
 GIB: Here's today's transcripts. There's nothing interesting.
-SIMON: Nothing from Simon? Keeping one eye on the road, Harry riffles through the sheets. He glances at the top of the last couple of sheets.  He scowls. Then SUDDENLY SLAMS ON THE BRAKES.  The car dives to the curb, bumping one wheel.  Harry gets out and charges around to Gib's side.  Gib gets out, his expression blank.
+SIMON: Nothing from Simon?
 HARRY: Give me the page.
 GIB: What are you talking about?
-HARRY: It skips from page nine to eleven.  Where's page ten?
-GIB: Aw, it's gotta be a typo--
-HARRY: Harry hammers his fist against the car-window right next to Gib.  It explodes inward in a shower of glass.
-GIB: (shrugging) Okay.  Here. He fishes a crumples sheet of paper out of his pocket.  Harry grabs it from him, straightening it.
-GIB: Jeez, Harry.  Seek help. As Harry begins to read, we go into FLASHBACK.
-SIMON: Helen.  I need your help.  Can you meet me tonight? INTERCUT WITH HELEN at her office.
+HARRY: It skips from page nine to eleven. Where's page ten?
+GIB: Aw, it's gotta be a typo
+HARRY: GIVE ME THE GODDAMN PAGE!!
+GIB: ( shrugging ) Okay. Here.
+GIB: Jeez, Harry. Seek help.
+SIMON: Helen. I need your help. Can you meet me tonight?
 HELEN: What's happened?
-SIMON: It's serious.  That's all I can say.  Just meet on K Street under the Key Bridge.  At eight sharp.
-HARRY: Shit!  It's almost eight. He jumps back in the car and activates the GPS locator. Helen's purse-blip flashes on the grid map.
+SIMON: It's serious. That's all I can say. Just meet on K Street under the Key Bridge. At eight sharp.
+HARRY: Shit! It's almost eight.
 HARRY: She's still at my house.
 GIB: The purse is still at the house.
-HARRY: Unit Two?  Unit Seven?
+HARRY: Unit Two? Unit Seven?
 FAISIL: Seven here.
 UNIT TWO: This is Two.
-HARRY: Immediate roll.  Acquire subject at K Street and Key Bridge. Vehicle is red-and-white convertible.  You have six minutes.
-FAISIL: Roger, One.  Rolling.
+HARRY: Immediate roll. Acquire subject at K Street and Key Bridge. Vehicle is red-and-white convertible. You have six Roger, One. Rolling.
+FAISIL: Roger, One. Rolling.
 UNIT TWO: Copy that.
-GIB: Wait a minute!  Are you out of your mind?  You can't pull agents off a priority surveillance to follow  your wife!    It's gross misappropriation of Sector's resources, it's...  it's a breach of national security. Harry drives on, ignoring him.  Gib grabs his shoulder, shaking him.
-GIB: You copy, Harry?  This is too far.  You're losing it big-time. I have to stop you.
-HARRY: Whatya going to do?   Tell?
-GIB: Goddamnit, Harry.  This is our butts.  So your life is in the toilet.  So your wife is banging a used car salesman.  Sure it's humiliating.  But be a man here--
+GIB: Wait a minute! Are you out of your mind? You can't pull agents off a priority surveillance to follow your wife! It's gross misappropriation of Sector's resources, it's. it's a breach of national security. You copy, Harry? This is too far. You're losing it big-time. I have to stop you.
+GIB: You copy, Harry? This is too far. You're losing it big-time. I have to stop you.
+HARRY: Whatya going to do? Tell?
+GIB: Goddamnit, Harry. This is our butts. So your life is in the toilet. So your wife is banging a used car salesman. Sure it's humiliating. But be a man here
 HARRY: You tell on me, I tell on you.
-GIB: Whatya talking?  I'm clean as a preacher's sheets, babe.  Clean as a --
+GIB: Whatya talking? I'm clean as a preacher's sheets, babe. Clean as a
 HARRY: What about that time you trashed a six-week operation because you were busy getting a blow-job?
-GIB: (instantly contrite) You know about that? Harry turns to him.  His glare could melt metal.  Gib gives a fatalistic shrug.
-GIB: Take Franklin, it's quicker. Harry makes the turn, squealing tires.
-GIB: You don't have any pictures though, do ya.  Huh?
-MORTON: Two here.  Subject is southbound on Key Bridge.  A man and a woman in the vehicle.
-HARRY (RADIO): Roger's two.
-SIMON: Now don't be alarmed... but if I'm spotter, it would be best if they don't see you.  You should keep your head down until we're out of the city. He pushes her head down onto his lap.  She crouches there, with her cheek against his thigh.  He's cruising along, loving it.
-MORTON (RADIO): The woman has her head in the guy's lap. Harry is doing a jaw-clenched slow burn.
-HARRY: Roger, two.  One to Condor, do you have visual?
-CONDOR (VOICE OVER/RADIO): This is Condor.  We have the ball, repeat... we have a good lock-up on I.R. CUT TO: INFRARED VIEW of the Vette, from the helicopter's FLIR system.  The greenish, image-intensified view of the car is like daylight.
-SIMON: My place in the city is too hot right now.  So is the penthouse in New York.  But this place is secure.
+GIB: ( instantly contrite ) You know about that?
+GIB: Take Franklin, it's quicker.
+GIB: You don't have any pictures though, do ya. Huh?
+MORTON: Two here. Subject is southbound on Key Bridge. A man and a woman in the vehicle.
+SIMON: Now don't be alarmed. but if I'm spotter, it would be best if they don't see you. You should keep your head down until we're out of the city.
+HARRY: Roger, two. One to Condor, do you have visual?
+SIMON: My place in the city is too hot right now. So is the penthouse in New York. But this place is secure.
 SIMON: To our assignment.
 HELEN: What is it you need me to do?
 SIMON: Helen, I want you to be my wife.
 HELEN: I'm married!
-SIMON: (quickly) Just for the operation in Paris. I need to be married.  They'll be looking for a man traveling alone.
+SIMON: ( quickly ) Just for the operation in Paris. I need to be married. They'll be looking for a man traveling We're going to Paris?
 HELEN: We're going to Paris?
-SIMON: Helen, there's a double agent in my outfit... I don't know who. There's no one I can trust. Except you.  Can you get away? Just for two days.
-HELEN: I don't know.  I have to think...
-SIMON: Here.  Sit down.  Be comfortable. He clears a place for her on the bed, shoving clothes and magazines out of the way.  She sits down and he tops off her glass from the wine bottle.
-HELEN: Okay.  I'll do it. Simon shoots over and sits next to her, taking her hand.
-SIMON: You are incredibly brave.  I have to remind myself the fear you must be feeling.  I've lived like this for years, so I'm used to it.  Every day when I get up, I think it might be my last.  But it makes you appreciate life. And the moment.  Because that may be all you have. He moves a little closer.  Casting his spell.
-SIMON: To pull this cover story off, we have to look exactly like two people who are intimate with each other.  The enemy can spot a fake easily. He puts his hand on her knee.  She tenses up instantly.
-SIMON: You see what I mean?  That reaction would give us away in a second.  Try to relax.
-HELEN: It's just that... it's been sixteen years since anyone but Harry did that, I--
-SIMON: Relax.  There, that's better. Let yourself slip into the role. He puts his other arm around her shoulders and pulls her slowly into a kiss.  This doesn't seem real to Helen.  She finds herself not pulling away.  He lowers her slowly until they are lying together on the bed.
-SIMON: There you go.  That's right... He slides his hand up her thigh.  The fingers, stroking in little circles, slips under her skirt.  And-- She suddenly EXPLODES, pushing on his chest, forcing him up off her.
-HELEN: NO!  Stop! (he keeps kissing her) Get off me RIGHT NOW! Simon struggles with her.  She gets one knee up under him and levers him up.  She pushes him to a standing position.  She sits up on the bed, straightening her skirt. He looks forlorn and pathetic.  Now he's going to try pleading...
-SIMON: If not for me, do it for democracy.
+SIMON: Helen, there's a double agent in my outfit. I don't know who. There's no one I can trust. Except you. Can you get away? Just for two days.
+HELEN: I don't know. I have to think.
+SIMON: Here. Sit down. Be comfortable.
+HELEN: Okay. I'll do it.
+SIMON: You are incredibly brave. I have to remind myself the fear you must be feeling. I've lived like this for years, so I'm used to it. Every day when I get up, I think it might be my last. But it makes you appreciate life. And the moment. Because that may be all you have.
+SIMON: To pull this cover story off, we have to look exactly like two people who are intimate with each other. The enemy can spot a fake
+SIMON: You see what I mean? That reaction would give us away in a second. Try to relax.
+HELEN: It's just that. it's been sixteen years since anyone but Harry did that, I
+SIMON: Relax. There, that's better. Let yourself slip into the role.
+SIMON: There you go. That's right. NO! Stop! Get off me RIGHT NOW! If not for me, do it for
+HELEN: NO! Stop! Get off me RIGHT NOW! If not for me, do it for
+SIMON: If not for me, do it for
 HARRY: Sit down.
-VOICE (HARRY): I said SIT DOWN. (she does) Who do you work for?
 HELEN: Kettleman, Barnes and McGrath. I'm a legal secretary.
-VOICE (HARRY): Of course.  Mrs. Tasker.  And what were you going with the international terrorist, Carlos the Jackal?  Taking dictation?
 HELEN: He said he was an American agent.
 HARRY: How long have you been a member of his faction?
-HELEN: I don't know anything about a faction.  I just met Simon...  or whatever his name is...  a couple of weeks ago.  I barely know him.
-GIB: That's not what it looked like when we found you. Harry scowls at Gib in the dark.  Helen flushes, remembering.
+HELEN: I don't know anything about a faction. I just met Simon. or whatever his name is. a couple of weeks ago. I barely know him.
+GIB: That's not what it looked like when we found you.
 HARRY: How did you meet him?
-HELEN (V.O.): About two weeks ago I was at the mall, having coffee... Simon appears behind her, sort of stalking up to her.  He approaches quickly the last few steps and slips into the seat next to her.  His manner is furtive.  He keeps looking around, as if for hidden assasins.  He hands her a briefcase.
-SIMON: (speaking very low) Keep this for me.  I can't afford to be taken with it.  National security is at stake.  I'll contact you if a can.  Okay?  Oh-- He seems to suddenly spot something OFF CAMERA and dashes off the other way.
+SIMON: ( speaking very low ) Keep this for me. I can't afford to be taken with it. National security is at stake. I'll contact you if a can. Okay? Oh
 HELEN: I should have gone to the police, I suppose.
-GIB: But you didn't.  Why not?
-HELEN: I don't know.  I guess... I wanted to see what would happen.
+GIB: But you didn't. Why not?
+HELEN: I don't know. I guess. I wanted to see what would happen.
 HARRY: What did happen?
 HELEN: Three days later, he called me. He told me to meet him at Overlook Park.
-SIMON: Thank you.  You saved my life. What's your name?
-HELEN: Helen.
-SIMON: You can call me Simon. (he touches her hand) You're very brave to do this... (then notices the locks have been opened) You opened it.
+SIMON: Thank you. You saved my life. What's your name?
+HELEN: You can call me Simon. You're very brave to do this. You opened it.
+SIMON: You can call me Simon. You're very brave to do this. You opened it.
 HELEN: I just glances inside.
-SIMON: (solemn) Then you know.
+SIMON: ( solemn ) Then you know.
 HARRY: Why did you continue to see him?
 HELEN: He needed my help.
-HARRY: Not because you were attracted to him?
-HELEN: No.
-HARRY: You weren't attracted to him at all?
+HARRY: Not because you were attracted to You weren't attracted to him at Well, maybe a little.
+HELEN: You weren't attracted to him at Well, maybe a little.
+HARRY: You weren't attracted to him at Well, maybe a little.
 HELEN: Well, maybe a little.
-GIB: Is this a common thing for you? Cheating?
-HELEN: No!  Never!
+GIB: Is this a common thing for you? No! Never!
+HELEN: No! Never!
 GIB: So, it was your first time.
 HELEN: I wasn't cheating!
-HARRY: Tell me about your husband, Mrs Tasker.
-HELEN: Harry?  What can I say about Harry?  He's a sales rep for a computer company.
-HARRY: (hard question for him) Would you say he was boring, then?
-HELEN: (she sighs, nodding fatalistically) Yeah.  I suppose he is.
-GIB: So sex with him isn't exactly making your flag wave anymore. Harry cuffs him on the shoulder.  Signals with a scowl for him to stay out of it.  Gib smirks.  Harry's put him through enough shit the last couple of days, it's time for a couple digs.
-HELEN: That's none of your goddamn business!  What kind of questions are these?
-HARRY: You're in a lot of trouble, Mrs. Tasker, so I suggest you cooperate.  If we want to know the most intimate details of your life, you'd better tell us. Helen glowers at the mirror.  Her hands are shaking and she hates it that they can probably see she is afraid.
+HARRY: Tell me about your husband, Mrs Harry? What can I say about Harry? He's a sales rep for a computer company.
+HELEN: Harry? What can I say about Harry? He's a sales rep for a computer company.
+HARRY: ( hard question for him ) Would you say he was boring, ( she sighs, nodding Yeah. I suppose he is.
+HELEN: ( she sighs, nodding Yeah. I suppose he is.
+GIB: So sex with him isn't exactly making your flag wave anymore.
+HELEN: That's none of your goddamn business! What kind of questions are these?
+HARRY: You're in a lot of trouble, Mrs. Tasker, so I suggest you cooperate. If we want to know the most intimate details of your life, you'd better tell us.
 HELEN: My husband is a good man.
-GIB: But he's not exactly ringing your bell lately, right?  I mean-- Harry covers the mike and whips around on Gib.
-HARRY: Let me handle this part.  Do you mind? (to Helen) Why did you go to Carlos' hideout?
+GIB: But he's not exactly ringing your bell lately, right? I mean
+HARRY: Let me handle this part. Do you Why did you go to Carlos' He wanted me to go with him on a mission, to pose as him wife.
 HELEN: He wanted me to go with him on a mission, to pose as him wife.
 HARRY: And you agreed?
-HELEN: Yes.
-HARRY: (amazed) Why? Helen searches herself for the explanation.
-HELEN: I don't know.  I guess I needed something...
+HELEN: ( amazed )
+HARRY: ( amazed )
+HELEN: I don't know. I guess I needed What did you need?
 HARRY: What did you need?
-HELEN: I needed to feel alive.  I wanted to do something...  outrageous. And... I don't know... it felt good to be needed.  To be trusted.  To be special. In verbalizing it she just feels smaller, more pathetic that she ever did.  She hates the unseen voices for making for try to explain her deepest, unvoiced needs.
-HELEN: There's so much I wanted to do in this life, and it's like I haven't done any of it.  And the sand's running out of the hourglass.  I want to be able to look back and say:  See!  I did that.  It was wild and it was reckless and outrageous and I fucking did it! (she glares at the mirror) And I frankly don't give a shit if you understand this or not. Gib looks at Harry, eyebrows raised.  Whew!  Harry is studying his wife like she's some fantastic new species.
-HARRY: This Simon.  Did you sleep with him?
-HELEN: No.
-GIB: (covering the mike) She's lying.
+HELEN: I needed to feel alive. I wanted to do something. outrageous. And. I don't know. it felt good to be needed. To be trusted. To be special.
+HELEN: There's so much I wanted to do in this life, and it's like I haven't done any of it. And the sand's running out of the hourglass. I want to be able to look back and say: See! I did that. It was wild and it was reckless and outrageous and I fucking did it! And I frankly don't give a shit if you understand this or not.
+HARRY: This Simon. Did you sleep with She's lying.
+HELEN: ( covering the mike ) She's lying.
+GIB: ( covering the mike ) She's lying.
 HARRY: You didn't have sexual relations with him?
-HELEN: (acidly) Look, if you ask me everything twice, this is going to take a really long time.  And I have to get home to my family.
-GIB: You're not going anywhere. Helen loses it.  It is fury and fear, tears and rage all at once--
-HELEN: Let me out of her!  Right now!
-HARRY: Answer the question-- She picks up her stool and charges toward the mirror, swinging it with all her might.  It bounces off harmlessly.
-HELEN: (she swings again, yelling) I didn't sleep with him! (and again--WHAM!) You hear me, you chickenshit bastards-- WHAM!  She hits the mirror again.
-GIB (INHUMAN VOICE): Everyone tries.  It's unbreakable. WHAM!  WHAM!  WHAM!  The mirror suddenly stars from side to side with huge cracks.  She's about to beat her way through it.
+HELEN: ( acidly ) Look, if you ask me everything twice, this is going to take a really long time. And I have to get home to my family.
+GIB: You're not going anywhere. Let me out of her! Right now!
+HELEN: Let me out of her! Right now!
+HARRY: Answer the question
+HELEN: ( she swings again, I didn't sleep with him! ( and againWHAM! ) You hear me, you chickenshit
 GIB: She could be telling the truth.
-HARRY: (to Helen) Wait!  Calm down, Mrs. Tasker. There is only one more question. Helen drops the stool.  She stands there panting.  Her fury spent, she begins to cry.
-HELEN: What?
+HARRY: ( to Helen ) Wait! Calm down, Mrs. Tasker. There is only one more question.
+HELEN: Do you still love your husband?
 HARRY: Do you still love your husband?
-HELEN: (softly) Yes.
+HELEN: ( softly ) Louder please.
 HARRY: Louder please.
-HELEN: I love him.  I have always loved him and I will always love him. (she wipes at her eyes) Can I go home, please?
+HELEN: I love him. I have always loved him and I will always love him. Can I go home, please?
 GIB: Now what?
-HARRY: (leaning forward to the mike) There is only one solution to your problem, Mrs. Tasker.  You must work for us.
-GIB: (whispering to Harry) Oh shit.  Harry... what're you doing?
-HARRY: (like: isn't it obvious?) I'm giving her an assignment. (to Helen) I am offerring you a choice.  If you work for us we will drop the charges and you can go back to your normal life.  If not, you will go to federal prison, and your husband and daughter will be left humiliated and alone.  Your like will be destroyed.
-HELEN: Oh, gee thanks.  Mmmm, let me see--
+HARRY: ( leaning forward to the There is only one solution to your problem, Mrs. Tasker. You must work for us.
+GIB: ( whispering to Harry ) Oh shit. Harry. what're you ( like: isn't it I'm giving her an assignment. ( to Helen ) I am offerring you a choice. If you work for us we will drop the charges and you can go back to your normal life. If not, you will go to federal prison, and your husband and daughter will be left humiliated and alone. Your like will be destroyed.
+HARRY: ( like: isn't it I'm giving her an assignment. ( to Helen ) I am offerring you a choice. If you work for us we will drop the charges and you can go back to your normal life. If not, you will go to federal prison, and your husband and daughter will be left humiliated and alone. Your like will be destroyed.
+HELEN: Oh, gee thanks. Mmmm, let me see
 HARRY: Yes or no.
-HELEN: What do you think?  Of course yes!  What's involved?
-HARRY: You will be contacted with the assignment.
+HELEN: What do you think? Of course yes! What's involved?
+HARRY: You will be contacted with the My husband can't know about this.
 HELEN: My husband can't know about this.
-HARRY: No one must know!  Especially him.  You must appear to live your life normally, conveying nothing.  The security of this nation depends on it.  Can you do that?
+HARRY: No one must know! Especially him. You must appear to live your life normally, conveying nothing. The security of this nation depends on it. Can you do I think so.
 HELEN: I think so.
-HARRY: Think carefully.  You will be lying to the man you love.  The person who trusts you the most.
-HELEN: (fearless) I can do it!
-HARRY: The code name of your contact will be Boris.  Your code name will be--
-HELEN: (excited) Natasha?
-HARRY: No.  Doris.
-SIMON: Yeeaoowww!!
-HARRY: You son of a bitch.  Did you really think you could elude us forever, Carlos?
-SIMON: Wait!  You got the wrong guy.  My name's Simon.  Look, just let me go.  There's no need to kill me. I haven't seen your-- Harry whips off his ski-mask.
-SIMON: -- face.  Shit!  Shit!! Simon has ducked his head and won't look at Harry.  Then it dawns...  He looks up, brightening hopefully.
-SIMON: It's you!  Hey, you still interested in that Vette at all?
-GIB: You can drop it now, Carlos.  The game is over.  Your career as an inter-national terrorist is too well documented.
-SIMON: No... I sell cars.  That's all! Not even foreign cars.  Nothing international, I swear.  I'm no terrorist.  Everything I said was a lie... you have to believe me. I'm actually a complete coward. If I ever even saw a gun I'd-- Harry whips his pistol out in one liquid motion and snaps the muzzle right in front of Simon's eyes.
-SIMON: -- faint.  Aahhh!  Don't kill me. I'm not a spy.  I'm nothing.  I'm navel lint.  I have to lie to women to get laid.  And I don't score much.  It's pathetic. (he looks down) See, look... would a spy pee himself? Harry is finally sickened by his grovelling.  He pulls Simon away from the edge, then gestures with his gun.
+HARRY: Think carefully. You will be lying to the man you love. The person who trusts you the most.
+HELEN: ( fearless ) I can do it!
+HARRY: The code name of your contact will be Boris. Your code name will be
+HELEN: ( excited ) No. Doris.
+HARRY: No. Doris.
+SIMON: You son of a bitch. Did you really think you could elude us forever, Carlos?
+HARRY: You son of a bitch. Did you really think you could elude us forever, Carlos?
+SIMON: Wait! You got the wrong guy. My name's Simon. Look, just let me go. There's no need to kill me. I haven't seen your
+SIMON: face. Shit! Shit!!
+SIMON: It's you! Hey, you still interested in that Vette at all?
+GIB: You can drop it now, Carlos. The game is over. Your career as an inter-national terrorist is too well documented.
+SIMON: No. I sell cars. That's all! Not even foreign cars. Nothing international, I swear. I'm no terrorist. Everything I said was a lie. you have to believe me. I'm actually a complete coward. If I ever even saw a gun I'd
+SIMON: faint. Aahhh! Don't kill me. I'm not a spy. I'm nothing. I'm navel lint. I have to lie to women to get laid. And I don't score much. It's pathetic. See, look. would a spy pee
 HARRY: Beat it.
-SIMON: No.  Soon as I turn you'll shoot me. Harry starts back to the truck.  Simon stays right with him, facing him, terrified to turn away.  Like a dog following him.
-SIMON: Please don't.  You can have the car for free--
-GIB: Take off, dipshit! Gib finally shoves Simon back and Harry contemptuously cranks THREE ROUNDS into the ground by his feet, forcing him to dance backward.  The two agents get into the van and tear off in a cloud of dust.  Leaving Simon alone in the moonlight, miles from nowhere.
-HARRY: We should pick up visual at the next light. The scrambler phone in Harry's briefcase rings.  He picks it up.
+SIMON: No. Soon as I turn you'll shoot
+SIMON: Please don't. You can have the car for free
+GIB: Take off, dipshit!
+HARRY: We should pick up visual at the next light. Morning, boss.
 HARRY: Morning, boss.
-TRILBY: Harry, this report on last night's operation is the thinnest piece of crap I've ever seen from you.  I'm sure you won't mind giving me a little more detail on why all these assets were deployed.
-HARRY: Absolutely.  But can it wait? I'm on a critical surveillance right now. Harry spots something up ahead.  He snaps his fingers and points, then whips a pair of gyro-stabilized binoculars to his eyes. HARRY'S POV THROUGH SCOPE:  Trent, on the Yamaha with Dana on the back, rides through the intersection up ahead.  Dana bops to the sound coming over her walkman headphones as Trent zips between cars.  Gib makes the turn, pulling in behind them at a distance.
-TRILBY: Harry.  Is there anything you want to tell me?
-HARRY: (innocently) No.  Not that I can think of. THE CAMERA PUSHES IN ominously on Spencer Trilby.
-TRILBY: Harry?  You know we never fire anybody. Click.  Harry hangs up the phone slowly.
-GIB: We're dead, right?  So... where'd you put the transmitter?
-HARRY: In her Walkman.  It's the one thing I knew she'd be taking.
-FIGURE: You! Come with me. The figure comes straight toward Dana.  To her horror is turns out to be her dad.  Her heart stops.
+TRILBY: Harry, this report on last night's operation is the thinnest piece of crap I've ever seen from you. I'm sure you won't mind giving me a little more detail on why all these assets were Absolutely. But can it wait? I'm on a critical surveillance right now. Harry. Is there anything you want to tell me?
+HARRY: Absolutely. But can it wait? I'm on a critical surveillance right now. Harry. Is there anything you want to tell me?
+TRILBY: Harry. Is there anything you want to tell me?
+HARRY: ( innocently ) No. Not that I can think of.
+TRILBY: Harry? You know we never fire
+GIB: We're dead, right? So. where'd you put the transmitter?
+HARRY: In her Walkman. It's the one thing I knew she'd be taking.
+FIGURE: You! Come with me.
 DANA: Oh my Gooooood.
-HARRY: There are going to be some changes Dana.  You're going to start following some rules.  And I'm going to be there to see that you do.
+HARRY: There are going to be some changes Dana. You're going to start following some rules. And I'm going to be there to see that you do.
 DANA: Yeah, right.
 HARRY: You're going to stay in school. Do you understand?
-DANA: Why?  So I can wind up like you? What's the point? You think Harry's going to really rain on her parade.  But he doesn't.  He becomes very tender.  He pushes the hair back from her face.
-HARRY: Did I tell you about the time we first met? She looks up at him, puzzled?
-HARRY: You were quite young at the time. All wet and still attached to your mom by a cord.  You opened your eyes and looked right at me. And I knew then I would always love you with all my heart. Dana stares at her father with a dawning awareness.  This is not just some chump that she has to put up with.  This is her father.  He is a part of her.  No matter what happens they are in this thing together.  Tears start to run down her cheeks.
-HARRY: Somewhere along the way I got lost, honey.  I forgot about what was really important.  I'm sorry pump-- I mean-- She grabs his in a fierce hug.  Harry closes his eyes, letting the moment purify him.
-HARRY: Dana, regarding this singing-- She pulls back, suddenly wary.  Oh shit.
-HARRY: (grinning) You were pretty good.
-HARRY/ DANA: I've been waiting so long To be where I'm going In the sunshine of your looooove They crack up after the long sustain.  They are both suffused with a glow of rediscovery.  Harry pulls the car to the curb in front of Dana's school.
+DANA: Why? So I can wind up like you? What's the point?
+HARRY: Did I tell you about the time we first met?
+HARRY: You were quite young at the time. All wet and still attached to your mom by a cord. You opened your eyes and looked right at me. And I knew then I would always love you with all my heart.
+HARRY: Somewhere along the way I got lost, honey. I forgot about what was really important. I'm sorry pump I mean
+HARRY: Dana, regarding this singing
+HARRY: ( grinning ) You were pretty good.
 DANA: Dad, how come you know the words?
 HARRY: Honey that song came out in 1968, when I was exactly your age.
-DANA: Unbelievable!  Trent told me he wrote it.  He's history.
+DANA: Unbelievable! Trent told me he wrote it. He's history.
 DANA: I'm done.
 HELEN: Where are you off to young lady?
-DANA: (pointing toward her room) I have a book report. Helen watches her go.  That's strange.
+DANA: ( pointing toward her I have a book report.
 HARRY: So last night was pretty exciting, huh?
-HELEN: (alarmed) What? (then smoothly--) Oh, the flat tire?  Yeah, I thought the damn towtruck was never going to get there. Harry smiles, reaching for more chicken.  The phone RINGS. Helen controls the urge to run to it.
-HELEN: Hello?
-METALLIC VOICE: Doris?
-HELEN: Oh.  Yes?
-GIB: Listen carefully.  Go to the Hotel Marquis in one hour.  Pick up an envelope marked Doris at the front desk.  And dress sexy.
-HELEN: What?
+HELEN: ( alarmed ) ( then smoothly ) Oh, the flat tire? Yeah, I thought the damn towtruck was never going to get there.
+HELEN: METALLIC VOICE
+METALLIC VOICE: Oh. Yes?
+HELEN: Oh. Yes?
+GIB: Listen carefully. Go to the Hotel Marquis in one hour. Pick up an envelope marked Doris at the front desk. And dress sexy.
+HELEN: Get going!
 VOICE: Get going!
-HELEN: (thinking for a second, then--) Uh... well, okay then.  You sound terrible.  I'll run out right now.  Just call the prescription in to the pharmacy.  Sure, no problem.  Bye. Harry smirks, listening to her lie.  She's good.  The smirk drops as she turns.
-HELEN: Allison is sick in bed.  I have to go over there, honey.
-HARRY: Sure, hon. She walks unhurriedly out of the room.  Behind her back, Harry is grinning.  The second Helen is out of his sight line, she runs up the stairs.  Harry waits a moment then picks up the phone.
-GIB: You've reached a new low with this one.  I can't believe you're crazy enough to use the room at the Marquis.
-HARRY: Why not?  You think I can afford a suite like that on my salary? Is Jean-Claude done yet? Gib looks over at a SOUND RECORDING BOOTH nearby.  In it a FAT FRENCH AGENT, JEAN-CLAUDE is doing voice recording from a hand- written page.
+HELEN: ( thinking for a second, Uh. well, okay then. You sound terrible. I'll run out right now. Just call the prescription in to the pharmacy. Sure, no problem. Bye.
+HELEN: Allison is sick in bed. I have to go over there, honey.
+HARRY: Sure, hon.
+GIB: You've reached a new low with this one. I can't believe you're crazy enough to use the room at the Marquis.
+HARRY: Why not? You think I can afford a suite like that on my salary? Is Jean-Claude done yet?
 GIB: Not quite.
-JEAN-CLAUDE: No no.  Do it slowly.  Very slowly.
-HELEN: Do you have an envelope for Doris? The man nods.  Saying nothing, he reaches under the counter and hands her the envelope.  She opens it as she walks across the lobby.  In contains a room key, a small bugging device, and a phone number.
-METALLIC VOICE: Listen.  You are a prostitute named Michelle.  Go to the room. A man will be there.  He is a suspected arms dealer.
-HELEN: Do I have to... you know-- ?
-VOICE: No.  He has particular tastes. He likes to watch.  You will say his regular girl, Carla, is sick. If he likes you, he will tell you what to do.  You must plant the bug near the telephone, by the bed, before you leave.  If you do not accomplish your mission, the deal is off.
-VOICE: In here. She goes into the bedroom.  There is a dark figure sitting in a chair, just a silhouette.
-MAN: Step into the light. It is a corner room.  The drapes on one side are closed, shadowing the man, but open on the other just enough to let in a slash of moonlight.  She steps forward into it. TIGHT CLOSE UP on the figure.  We can just make out that it is Harry, though Helen cannot.  TILT DOWN to show his hand, out of sight behind the chair-arm, as he manipulates the pause button on the DAT tape deck.
-HELEN: I'm Michelle.  Carla's sick.  She thought you might like me, so -- Harry goes SSSSHHHH.  Silencing her gently.  He silently clicks off the PAUSE button.  The DAT recorder plays.  Charles Boyer, deep and hypnotic, speaks from Harry's outline.  Harry lipsynchs.
-HARRY (TAPE): Let me do the talking.  You are very pretty.  You may start by unzipping your dress. PAUSE button.  She starts to yank the zipper down.
-HARRY (TAPE): No no.  Do it slowly.  Very slowly. Helen turns her back to him, and draws the zipper down languorously, revealing her creamy back.  She is not wearing a bra.
-HARRY (TAPE): Now slip the dress down... slowly. Helen is starting to get into the ritual.  She lets the dress slip off her shoulders.  It slides down her body to the floor. She steps out of it, still in high heels.
-HARRY (TAPE): Now slide the nylons off one by one.
-HELEN: (puzzled) I'm not wearing any. Harry winces.  He starts the next line immediately.
-HARRY (TAPE): That's good.  Now the panties. The ritual continues as she strips slowly (this will be tastefully done).  She conceals the bugging device in her hand as she sets her clothes on the bed near the phone.  Helen is still concentrating on her mission.
-HARRY (TAPE): Now turn, cheri, in the moonlight.  Let your body flow like water. She turns.  Her skin is beautiful in the silvery light.
-HARRY (TAPE): Now dance for me.  Go on. Helen has no idea what to do, but she improvises quite well. The scrutiny of the shadowed man, who is fully clothed, and her raw vulnerability are a quiveringly powerful erotic combination.
-HARRY (TAPE): Let your hands be a lover's hands on your own skin as you move. Yes, that's it. TIGHT ON Harry's eyes as he studies her.  His game, meant to give her a dangerous fantasy, is actually turning him on mightily.  He is amazed to see her playing the role, getting into it.  This is not the Helen is thought he knew for sixteen years.
-HARRY (TAPE): Now, lie on the bed and close your eyes. She does.  Harry rises and goes to her, bringing the tape deck.
-HARRY (TAPE): Keep them closed.  Do not open them. He sits on the bed, next to her, but without touching her.  He strokes her hair, lovingly.  Then runs his fingertips over her eyes, down her cheeks.  To her it feels delicate and delicious. Part of her is enjoying this a lot.  But Helen is torn between wanting to flee and knowing that nothing the man has done so far is enough to cause her to abort her mission.
-HELEN: I thought you only liked to watch. Harry goes SSSHHH.  It's all he can do.  He bends over her and brings his lips slowly down to her.  He touches them to hers so slowly that she barely knows he is kissing her.  Then he takes her in a passionate kiss. And she grabs the lamp on the bedside table and SMASHES IT OVER HIS HEAD.  Harry flies off onto the floor, groaning and semiconscious. Helen flips on the light and grabs her clothes, starting to dress rapidly.  She still doesn't recognize Harry, who is face down.  He groans and starts to rise.  She kicks him in the ribs and finishes putting her dress on.  She sticks the bug under the night table and grabs her shoes.  Mission accomplished, motherfuckers. Harry grabs her ankle.  She raises one shoe to kosh him again, and sees who it is.  Freezeframe.  Total shock.  She can't even form the question.
-HELEN: Harry-- ?!
+HELEN: Do you have an envelope for
+METALLIC VOICE: Listen. You are a prostitute named Michelle. Go to the room. A man will be there. He is a suspected arms dealer.
+HELEN: Do I have to. you know ?
+VOICE: No. He has particular tastes. He likes to watch. You will say his regular girl, Carla, is sick. If he likes you, he will tell you what to do. You must plant the bug near the telephone, by the bed, before you leave. If you do not accomplish your mission, the deal is off.
+VOICE: In here.
+MAN: Step into the light.
+HELEN: I'm Michelle. Carla's sick. She thought you might like me, so Let me do the talking. You are very pretty. You may start by unzipping your dress.
+HELEN: ( puzzled ) I'm not wearing any.
+HELEN: I thought you only liked to
+HELEN: Harry ?!
 HELEN: He's got nothing to do with this. It's me you want, right?
-HARRY: (to lead TERRORIST) Let the hooker go.  She's not important.
-HELEN: Harry, be quiet.  Let me handle this.
-LEAD TERRORIST: Shutup, both of you. During this exchange, the thugs have handcuffed Harry's hands behind his back.  The leader gestures to one of the men to bring Helen along.  Helen and Harry are dragged roughly out of the room with pistol-muzzles stuck in their ribs.
-HELEN: Listen, you don't need him, he's nothing.  He's a sales rep for a computer company, really-- The thug leader cuffs her across the head to shut her up.
+HARRY: ( to lead TERRORIST ) Let the hooker go. She's not Harry, be quiet. Let me handle Shutup, both of you.
+HELEN: Harry, be quiet. Let me handle Shutup, both of you.
+LEAD TERRORIST: Shutup, both of you.
+HELEN: Listen, you don't need him, he's nothing. He's a sales rep for a computer company, really
 HELEN: That was unnecessary.
 HELEN: What were you doing there?
-HARRY: You wouldn't believe me. A pistol muzzle is jammed hard behind Helen's ear.
-TERRORIST LEADER: Talk again, I kill you. They are hustled across a loading dock to a RENTAL VAN waiting with the door open.  A fourth terrorist slides the van door shut after they get in and gets in behind the wheel.  The van takes off.
-JUNO: (with a wry smile) Hello, Harry.
-HARRY: Juno.  I wish I could say it's a pleasure to see you again.
-HELEN: You know her? Juno signals with her eyes and the terrorists march the prisoners toward the plane.
+HARRY: You wouldn't believe me.
+TERRORIST LEADER: Talk again, I kill you.
+JUNO: ( with a wry smile ) Hello, Harry.
+HARRY: Juno. I wish I could say it's a pleasure to see you again.
+HELEN: You know her?
 JUNO: Who's your little friend?
-HELEN: I'm Helen Tasker.  Harry's my husband.  And you are?
-JUNO: (to Harry) So now it's Tasker?  Not Renquist?
+HELEN: I'm Helen Tasker. Harry's my husband. And you are?
+JUNO: ( to Harry ) So now it's Tasker? Not
 HELEN: Look, Harry's not part of this. He's just a sales rep.
-JUNO: No, my dear, he is a federal agent.  He killed two of my colleagues the other night.
-HELEN: No, you don't understand, we've been married for 15 years--
-HARRY: Look, Juno, this is just some whacko hooker I met in the bar. AKBAR and the other terrorists push Helen and Harry into seats and strap them in.
-HELEN: Harry, what's the matter with you?  Tell them the truth.  We're married, we have a daughter--
-HARRY: (looking at Helen contemptuously) I don't know what this crazy bitch is on.  You should just cut her loose, so we can get down to business.
-HELEN: Oh yeah?  Oh yeah?  Then where did I get this? Helen grabs the locket, dangling on a chain around her neck, and opens it to show Juno. THE PICTURE IN THE LOCKET -- Harry and Helen together, smiling. Harry roles his eyes.  Great, Helen.  A FLIGHT HOSTESS walks up carrying a tray.  Juno smiles graciously at Helen.
-JUNO: Something before take-off? The hostess whips a PNEUMATIC INJECTOR off the tray and zaps Helen in the shoulder.
-HELEN: Oooowww!!  That hurt.  You biii-- She slumps.  Juno looks at Harry.
-JUNO: She was telling the truth, wasn't she Harry?  She really doesn't know.  Interesting. Juno nods and the hostess zaps Harry.  He slides into unconsciousness as the plane engines begin to SCREAM.
+JUNO: No, my dear, he is a federal agent. He killed two of my colleagues the other night.
+HELEN: No, you don't understand, we've been married for 15 years
+HARRY: Look, Juno, this is just some whacko hooker I met in the bar.
+HELEN: Harry, what's the matter with you? Tell them the truth. We're married, we have a daughter
+HARRY: ( looking at Helen I don't know what this crazy bitch is on. You should just cut her loose, so we can get down to Oh yeah? Oh yeah? Then where did I get this?
+HELEN: Oh yeah? Oh yeah? Then where did I get this?
+JUNO: Something before take-off?
+HELEN: Oooowww!! That hurt. You biii
+JUNO: She was telling the truth, wasn't she Harry? She really doesn't know. Interesting.
 MALIK: Who is this woman?
 JUNO: His wife.
-MALIK: (seeing the possibilities) His wife?  Good.  Bring them.
-JUNO: Incredible, aren't they?  Warrior figures from the Persian Empire of Darius the First, around 500 BC.  I call them "The Four Horsemen". She approaches the nearest figure, caressing its flank.  A man with a jackhammer steps up to her.
-JUNO: They're absolutely priceless. She shrugs and nods to the man with the jackhammer.  He blasts right into the body of one of the Horseman, destroying it. Stone fragments fall away, revealing a cavity cut with great precision inside the figure. Inside is a BRIGHT METAL CONTAINER.  Four terrorists pull it out and set it on the ground.  It is six feet long and coffin- like.  Malik steps up to it, his eyes glistening.  A hush has fallen over the group.
-MALIK: Open it. The latches are released and the lid lifted.  Inside is machined metal object, roughly conical, about five feet long. Malik signals to Harry to step closer and look.
+MALIK: ( seeing the His wife? Good. Bring them.
+JUNO: Incredible, aren't they? Warrior figures from the Persian Empire of Darius the First, around 500 BC. I call them "The Four
+JUNO: They're absolutely priceless.
+MALIK: Open it.
 MALIK: Do you know what this is?
-HARRY: Can you give me a clue?  It could be a water heater for all I know. Malik grabs Helen, jerking her roughly forward.  He whips out a knife and inserts the point under Helen's jaw, forcing her head back and drawing blood.
+HARRY: Can you give me a clue? It could be a water heater for all I know.
 MALIK: Do you know why you have been brought here?
-HELEN: N-no.
+HELEN: So that this man can verify to the world that Crimson Jihad is now a nuclear power.
 MALIK: So that this man can verify to the world that Crimson Jihad is now a nuclear power.
-HELEN: How can Harry do that?  He's a salesman for chrissakes.
-MALIK: If we were wrong about him... then the last thing you see will be your blood spraying in his face. Harry steps forward, his face grim.
-HARRY: This is a Soviet MIRV-Six, from an SS-22N launch vehicle.  The warhead contains 14.5 kilos of enriched uranium, with a plutonium trigger.  The nominal yield is 10 kilotons. (in Arabic, subtitled) Release her and I'll cooperate. Malik lowers the knife from her jaw.  He turns away from her like she has ceased to exist and yells at the terrorists to remove the other weapons.  Jackhammers tear into the stone figures. Helen is just staring at Harry, her mouth open.  He turns to her, not knowing what to say.  He shrugs sheepishly.
-HARRY: What can I say?  I'm a spy. She just looks at him for a long time.  She moves closer, staring and staring, letting it sink in.  Then she hauls off and slugs him right in the jaw so hard is almost knocks him down.
-HELEN: You bastard!!  You lying son of a bitch!! Terrorists grabs her and restrain her.  She starts to cry.
+HELEN: How can Harry do that? He's a salesman for chrissakes.
+MALIK: If we were wrong about him. then the last thing you see will be your blood spraying in his
+HARRY: This is a Soviet MIRV-Six, from an SS-22N launch vehicle. The warhead contains 14.5 kilos of enriched uranium, with a plutonium trigger. The nominal yield is 10 kilotons. Release her and I'll cooperate.
+HARRY: What can I say? I'm a spy. You bastard!! You lying son of a bitch!!
+HELEN: You bastard!! You lying son of a bitch!!
 HARRY: I'm sorry, honey.
-HELEN: Don't call me honey!  You don't ever get to call me honey again. You understand?!  You pig! Juno looks at them both and laughs.  She offers Helen a tissue.
-JUNO: Here you go, dear. NEARBY, Akbar is going through the contents of Helen's handbag and Harry's wallet.  He rips open the bottom stitching and pulls out the geo-positioning transmitter.
-AKBAR: Abu!  Look at this! Malik looks at the tracker and then smashes it to the floor. Helen looks at the crushed transmitter.  She stares at Harry with dawning realization.
-HELEN: You bugged me?!! Juno cracks up at this.
-FAISIL: We've lost the signal. Gib, who has been pacing the aisile whirls to the screen.
-GIB: Son of a bitch!  Where?
-FAISIL: It's an island in the Keys, out past Marathon. Gib goes up to the cockpit.  They are on approach and the lights of Miami fill the front window.
+HELEN: Don't call me honey! You don't ever get to call me honey again. You understand?! You pig!
+JUNO: Here you go, dear.
+AKBAR: Abu! Look at this!
+HELEN: You bugged me?!!
+FAISIL: We've lost the signal.
+GIB: Son of a bitch! Where?
+FAISIL: It's an island in the Keys, out past Marathon.
 PILOT: Miami TCA, we are on final.
 GIB: Call our DEA contact, tell him I want those choppers flight-ready the second we land.
-HARRY: ...and I can verify that they have the arming box and all equipment necessary to detonate the four warheads.  This is absolutely the real thing, gentlemen. The camera swings off Harry to Malik, standing before the rest of the Jihad warriors, who are assembled behind the four bombs.
-MALIK: You have killed our women and children, bombed our cities from afar like cowards, and dare to call us terrorists-- Over the image of Malik, a LOW-BATTERY warning begins to flash. CUT TO SCENE, as Malik speaks into the camera, which is head by one of his men.  The CAMERAMAN is sweating, wondering if he should interrupt.  He gulps nervously as Malik drones on.
-MALIK: -- But now the Oppressed have been given a mighty sword, to strike back at their enemies. Unless the US pulls all military forces out of the Persian Gulf area, immediately and forever, Crimson Jihad will rain fire on one major US city each week until these demands are met... BACK TO VIEWFINDER IMAGE.  BATTERY warning flashing faster.
-MALIK: ... First one weapon will be detonated on this uninhabited island as a demonstration of Crimson Jihad's power and our willingness to be humanitarian. However, if there demands are not-- In a burst of static the image GOES BLACK. The cameraman nervously lowers the camera, ashen faced. Malik's eyes are black with murder.
+HARRY: .and I can verify that they have the arming box and all equipment necessary to detonate the four warheads. This is absolutely the real thing,
+MALIK: You have killed our women and children, bombed our cities from afar like cowards, and dare to call us terrorists
+MALIK: But now the Oppressed have been given a mighty sword, to strike back at their enemies. Unless the US pulls all military forces out of the Persian Gulf area, immediately and forever, Crimson Jihad will rain fire on one major US city each week until these demands are met.
+MALIK: . First one weapon will be detonated on this uninhabited island as a demonstration of Crimson Jihad's power and our willingness to be humanitarian. However, if there demands are not
 CAMERAMAN: Battery, Abu.
 MALIK: Get another one, you moron!
-JUNO: This is Samir.  See if you can guess his specialty.
+JUNO: This is Samir. See if you can guess his specialty.
 HARRY: Oral hygiene?
 JUNO: Not exactly.
-HELEN: (scared) What's going on, Harry?
-JUNO: Samir is just going to ask Harry a few questions.  See, we're not even sure which agency Harry works for.  Now, Samir is absolutely first class, but on the other hand we have Harry, here, who has managed to lie convincingly to the woman he loves for 15 years.  So it will be interesting to see how long he can resist.
-SAMIR: (holding up a syringe) This will help. Samir injects Harry in the arm with the syringe.
-HARRY: You know, you should swab that with alcohol.  I might get an infection.
-SAMIR: I'll return when this has taken effect.  Then we'll talk.
-HARRY: I'm looking forward to it. Samir exits.
-HARRY: Why are you helping these raving psychotics.
-JUNO: Because they're very well-funded raving psychotics, and I'm getting a lot of money. She kneels down in front of Harry, stroking his leg.
-JUNO: You think I care about their cause?  Or yours?  Not at all. See, America is on top now .  . .  but so was Rome, once.  All civilizations crumble.  One nation succeeding over another. What does it mean in the long run?  The only important thing is to live well.  And...  living well takes money.
-HARRY: You're damaged goods, lady. Harry's words are beginning to be slightly slurred.  The drugs are taking effect.
-JUNO: (indicating Helen) Did you tell her about us, Harry?
-HARRY: There is no us, you psychotic bitch.
-JUNO: Sure.  Say that now. Juno puts her arms around him and kisses him passionately.  She breaks, looking at Helen to savor the effect.  Helen is trembling with rage.
-JUNO: Thanks for everything, Harry.  It was good while it lasted. Juno crosses to the guard and takes a hand-grenade off his belt.  Then she goes to Helen and places it between her knees. She pushes Helen's knees together to hold the spoon against the grenade then pulls the pin.
+HELEN: ( scared ) What's going on, Harry?
+JUNO: Samir is just going to ask Harry a few questions. See, we're not even sure which agency Harry works for. Now, Samir is absolutely first class, but on the other hand we have Harry, here, who has managed to lie convincingly to the woman he loves for 15 years. So it will be interesting to see how long he can resist.
+SAMIR: ( holding up a syringe ) This will help.
+HARRY: You know, you should swab that with alcohol. I might get an I'll return when this has taken effect. Then we'll talk.
+SAMIR: I'll return when this has taken effect. Then we'll talk.
+HARRY: I'm looking forward to it.
+HARRY: Why are you helping these raving Because they're very well-funded raving psychotics, and I'm getting a lot of money.
+JUNO: Because they're very well-funded raving psychotics, and I'm getting a lot of money.
+JUNO: You think I care about their cause? Or yours? Not at all. See, America is on top now . . . but so was Rome, once. All civilizations crumble. One nation succeeding over another. What does it mean in the long run? The only important thing is to live well. And. living well takes money.
+HARRY: You're damaged goods, lady.
+JUNO: ( indicating Helen ) Did you tell her about us, Harry?
+HARRY: There is no us, you psychotic Sure. Say that now.
+JUNO: Sure. Say that now.
+JUNO: Thanks for everything, Harry. It was good while it lasted.
 JUNO: Now just keep your knees together, and you'll be fine.
 HELEN: Something you obviously have a hard time doing!
-JUNO: Hold that thought. Juno leaves.  Harry looks dopily at Helen.
-HARRY: There was nothing.  I swear. Helen doesn't believe him, and why should she.  She looks up from staring at the grenade, to see that Harry's head has slumped forward.
+JUNO: Hold that thought.
+HARRY: There was nothing. I swear.
 HELEN: What did he give you?
-HARRY: (groggy) Sodium amytal, maybe some other truth agent.
+HARRY: ( groggy ) Sodium amytal, maybe some other truth agent.
 HELEN: It makes you tell the truth?
-HARRY: Yes.
+HARRY: Is it working yet?
 HELEN: Is it working yet?
 HARRY: Ask me a question I would normally lie to.
 HELEN: Are we going to die?
-HARRY: Yup.
+HARRY: I'd say it's working.
 HELEN: I'd say it's working.
 HARRY: They'll either torture us to death, shoot us in the head, or leave us until the bomb goes off.
-HELEN: Okay, okay.  I get it.  How long have you been a spy, Harry?
+HELEN: Okay, okay. I get it. How long have you been a spy, Harry?
 HARRY: 17 years.
-HELEN: My God.  Have you had to...  have sex with other women in the line of duty?
+HELEN: My God. Have you had to. have sex with other women in the line of duty?
 HARRY: I don't take those assignments.
 HELEN: What about Juno?
 HARRY: She's really a fox, isn't she?
 HELEN: Did you pork her Harry?
-HARRY: No. (pause) But I wanted to.
-HELEN: (crying) Are you a total lying, scumsucking pig Harry?
+HARRY: ( pause ) But I wanted to.
+HELEN: ( crying ) Are you a total lying, scumsucking pig Harry?
 HARRY: Looks that way.
 SAMIR: Is there anything you would like to tell me before we start?
-HARRY: Yes.  I'm going to kill you pretty soon.
-SAMIR: (calmly preparing his instruments) I see.  How exactly?
-SAMIR: Well, I thought I'd break your neck, then use you as a human shield, then kill the guard with that knife there on your table and take his gun. Samir approaches Harry with a long steel needle probe.
-SAMIR: (humoring Harry) And what makes you think you can do all that?
-HARRY: Because I picked the lock on these handcuffs... He holds them up to show Samir.  Then he explodes out of the chair-- Breaks the torturer's neck-- Spins him between himself and the guard-- Who then hesitates to fire-- Giving Harry the split second he needs to grab the knife from the table and throw it into the guard's eye, killing him instantly. Helen is flat blown away.  Wow.  It only took a few seconds for Harry to reverse the situation.  Her Harry!  He picks up the guard's 9mm pistol and staggers over to her.
-HARRY: Don't move. He kneels down in front of her.  Gently he slips his hands between her thighs, getting a grip on the grenade, then sliding his fingers slowly over the spoon to hold it securely. He stops moving, suddenly.  She realizes with a sudden jolt of terror that he has frozen.
+HARRY: Yes. I'm going to kill you pretty soon.
+SAMIR: ( calmly preparing his I see. How exactly?
+SAMIR: Well, I thought I'd break your neck, then use you as a human shield, then kill the guard with that knife there on your table and take his gun.
+SAMIR: ( humoring Harry ) And what makes you think you can do all that?
+HARRY: Because I picked the lock on these handcuffs.
+HARRY: Don't move.
 HELEN: What is it?
-HARRY: (staring transfixed) God, you have great legs.
-HELEN: Harry... snap out of it! She sees how shitfaced he is.  He holds the grenade up, gripped safely so the spoon can't fly off.
+HARRY: ( staring transfixed ) God, you have great legs.
+HELEN: Harry. snap out of it!
 HARRY: Go it, baby.
 HELEN: Tell me something before this stuff wears off and you start lying again.
-HARRY: What?
+HARRY: Do you still love me?
 HELEN: Do you still love me?
-HARRY: Yes.
+HARRY: As much as you used to?
 HELEN: As much as you used to?
-HARRY: No. (she deflates) Much more. She looks into his eyes, and knows he is telling the truth.
-HELEN: (grinning) It wore off. At that moment, they hear yelling from the cinder-block building.
-HARRY: They found the bodies.  Come on--
-HELEN: I married Rambo. He grabs her and kisses her passionately.
+HARRY: ( she deflates ) Much more.
+HELEN: ( grinning ) It wore off. They found the bodies. Come on
+HARRY: They found the bodies. Come on
+HELEN: I married Rambo.
 HARRY: Let's go.
-HARRY: In ninety minutes a pillar of holy fire will rise at this place as a sign to out enemies. (Malik theatrically turns the arming key) It is done... Malik jumps out of the pit.  He signals and terrorists pour concrete into the pit, covering the bomb.  He begins ranting again.
-HARRY: Now no man can stop us.  We are set on our course.  No force can stop us... (as libbing) ... we're cool, we're badass, blah blah.
+HARRY: In ninety minutes a pillar of holy fire will rise at this place as a sign to out enemies. It is done. Now no man can stop us. We are set on our course. No force can stop us. . we're cool, we're badass, blah blah.
+HARRY: Now no man can stop us. We are set on our course. No force can stop us. . we're cool, we're badass, blah blah.
 HELEN: If we're on an island, why are they using trucks?
-HARRY: We must be in the Florida Keys . .  .  the Overseas Highway connects the islands to the mainland.
-HELEN: So there's no border, no customs. They can just drive anywhere they want .  .  .  there's nothing to stop them .  .  .
+HARRY: We must be in the Florida Keys . . . the Overseas Highway connects the islands to the So there's no border, no customs. They can just drive anywhere they want . . . there's nothing to stop them . . .
+HELEN: So there's no border, no customs. They can just drive anywhere they want . . . there's nothing to stop them . . .
 HARRY: Just us.
 HELEN: What are you going to do?
-HARRY: (shrugs, like: what do you think?) Go down there and kill everybody, I guess. He hands her the MAC-10.  She holds it clumsily.
+HARRY: ( shrugs, like: what do Go down there and kill everybody, I guess.
 HELEN: Oh shit.
-HARRY: Wait here.  If you have to use this, use it.  Don't choke. Okay? She nods gamely and Harry starts down the steel stairs to the floor below.
-HARRY: (to Helen)
-HELEN: Oh my God.  Harry. A PISTOL ENTERS FRAME.  Its muzzle taps the back of her head. She gasps and turns to see-- JUNO, holding the weapon expertly.
-JUNO: My condolences to the window. Juno grabs her and yanks her to her feet.  Helen SLAPS JUNO HARD.  Juno has a slash across her cheek.  Blood trickles down. She grabs Helen's hand and viciously turns it, seeing the wedding ring turned inward, the diamond on the palm-side.  Her face darkens with fury and she points the gun at Helen's face, preparing to kill her .  .  . And Malik's hand grabs her wrist, stopping her.
-MALIK: Not now.  We may need a hostage. Juno grabs her and twists her around, pushing her toward the limo nearby.
+HARRY: Wait here. If you have to use this, use it. Don't choke.
+HARRY: ( to Helen )
+SHOOT!!: 258 INT. WAREHOUSE - CATWALK - NIGHT
+HELEN: Oh my God. Harry.
+JUNO: My condolences to the window.
+MALIK: Not now. We may need a hostage.
 JUNO: Let's go, Suzy Homemaker.
-GIB: I thought this look like your work.
-HARRY: Let's go.  I'll brief you in the air.
+GIB: I thought this look like your Let's go. I'll brief you in the You're welcome.
+HARRY: Let's go. I'll brief you in the You're welcome.
 GIB: You're welcome.
-GIB: --you tell the son of bitch this is  Bright Boy Alert.  Repeat, a Bright Boy Alert.  And I need a patch of the White House ASAP. That's right--
-HARRY: (overlapping) ... the Coast Guard has to clear them back to a twenty mile radius.  Anybody that can't make the minimum safe distance we need an airlift on, immediately-- Gib whips around to Harry, lowering his headset mike.
-GIB: I can get 3 Marine Corps Harriers here in about 12 minutes. They're on maneuvers out of Boca Chica.
-HARRY: (checking his watch) Get 'em.  I'll brief them on the way in.
+GIB: you tell the son of bitch this is Bright Boy Alert. Repeat, a Bright Boy Alert. And I need a patch of the White House ASAP. That's right
+HARRY: ( overlapping ) . the Coast Guard has to clear them back to a twenty mile radius. Anybody that can't make the minimum safe distance we need an airlift on, immediately
+GIB: I can get 3 Marine Corps Harriers here in about 12 minutes. They're on maneuvers out of Boca Get 'em. I'll brief them on the way in.
+HARRY: ( checking his watch ) Get 'em. I'll brief them on the way in.
 JUNO: Like one?
-HELEN: (eyes like steel) Fuck you.
-GIB: ... well get the Highway Patrol to go through the streets and tell everybody on their damn loudspeakers.  Just the basics... get away from windows, don't look at it... yeah--
-HARRY: Here they come. Gib looks out the window in time to see-- THREE hunch-winged P.S.T.O.L.  HARRIER jets pass them at 600 knots.
-HARRY: (to the pilots) Roger, Mike Three Five, you are cleared to engage.  Be advised, your targets have Stingers and light machine guns.
-PILOT: Copy that, Bright Boy command. (to his wingman) Tally ho.
-HARRY: (to the pilots) Recommend you use your Mavericks to take out the bridge.
-PILOT (OVER): They won't set off those nukes will they?
-HARRY: Negative, Mike Three Five. That's a negative. (low, to Gib) Probably not.
-HARRY: Good shooting, Mike Three Five. I need you to stay on station. (to the copter pilot) Okay.  You see that limo?
-HELEN: You... bitch!! Helen is raging, grabbing Juno's head and pounding it against anything hard she can find inside the car.  Suddenly she stops, looking out the front window.  Juno turns too, off her look, to see-- ANGLE THROUGH THE WINDSHIELD.  The causeway is blown away about a quarter mile ahead.
-JUNO: Shit! Juno climbs through the window into the front seat, tugging on the dead driver.  The heavyset Akbar is like a bag of cement. Helen look up through the sunroof and sees--
-GIB: Get lower, goddamnit!  Right now! Harry strains downward with one hand.  Helen reaches up toward him.  The car screeches along the guard-rail, slamming against it, throwing her from side to side in the sunroof.  Their fingers touch, then separate.  She looks-- the limo is almost on the precipice.
+HELEN: ( eyes like steel ) Fuck you.
+GIB: . well get the Highway Patrol to go through the streets and tell everybody on their damn loudspeakers. Just the basics. get away from windows, don't look at it. yeah
+HARRY: Here they come. Roger, Mike Three Five, you are cleared to engage. Be advised, your targets have Stingers and light machine guns.
+HARRY: ( to the pilots ) Roger, Mike Three Five, you are cleared to engage. Be advised, your targets have Stingers and light machine guns.
+PILOT: Copy that, Bright Boy command. Tally ho.
+HARRY: ( to the pilots ) Recommend you use your Mavericks to take out the bridge.
+HARRY: Negative, Mike Three Five. That's a negative. Probably not.
+HARRY: Good shooting, Mike Three Five. I need you to stay on station. Okay. You see that limo?
+HELEN: You. bitch!!
+JUNO: Juno climbs through the window into the front seat, tugging on the dead driver. The heavyset Akbar is like a bag of cement. Helen look up through the sunroof and sees
+GIB: Get lower, goddamnit! Right now!
 HARRY: Any minute now.
-GIB: (with a megaphone/ to everybody) It's show time.  Don't look at the flash.  Do not look at the flash.
-HARRY: (to Helen) We're safe here.
-HELEN: That was some kiss. The two young Harrier pilots stand nearby, watching the mushroom disperse.  Gib is with the other Omega agents, his finger pressed in his ear, listening to his headset.  He waves to Harry to come to him. Harry detaches from Helen and walks over to him.  Helen watches him go... back to work.  She glances over at the two Harrier pilots.
-HELEN: (to the pilots) That's my husband. HARRY goes into the huddle with Gib and the others.
-GIB: Malik's copter landed twenty minutes ago in Miami.  He's on the top of a high-rise downtown. SWAT's on the scene, and I got the cops sealing off the area. He renezvous'd there with about a dozen more faction members. They're barricaded on the twentieth floor. (he gets very serious) Harry, they have a hostage.  It's Dana.
+GIB: ( with a megaphone/ to It's show time. Don't look at the flash. Do not look at the ( to Helen ) We're safe here.
+HARRY: ( to Helen ) We're safe here.
+HELEN: That was some kiss. That's my husband.
+HELEN: ( to the pilots ) That's my husband.
+GIB: Malik's copter landed twenty minutes ago in Miami. He's on the top of a high-rise downtown. SWAT's on the scene, and I got the cops sealing off the area. He renezvous'd there with about a dozen more faction members. They're barricaded on the twentieth floor. Harry, they have a hostage. It's My Dana!?
 HARRY: My Dana!?
-GIB: They must have grabbed her during the night... we didn't know. Sorry, Harry, I--
-GIB: Harry!  We'll get her out!  We have a man inside already .  . .  Harry!!  Aw, shit... here we go. Harry walks up to the young pilot...
-HARRY: I need to borrow this thing for a few minutes. He pushes past the pilot before the guy can react.
-PILOT: Excuse me .  .  .  sir?!
+GIB: They must have grabbed her during the night. we didn't know. Sorry, Harry, I
+GIB: Harry! We'll get her out! We have a man inside already . . . Harry!! Aw, shit. here we
+HARRY: I need to borrow this thing for a few minutes.
+PILOT: Excuse me . . . sir?!
 GIB: Force Comm cleared you to give us total cooperation, right?
-PILOT: Yessir, but .  .  .
+PILOT: Yessir, but . . .
 GIB: That's coming right from the President, Captain.
-PILOT: Yessir.  Uh .  .  .  sir?  You're going to have to sign for the aircraft.
-GIB: I'll sign for it.  You got a pen? (one of the agents pulls out a pen) Here, he'll sign for it. Harry is in the cockpit by now.  Gib climbs up.
+PILOT: Yessir. Uh . . . sir? You're going to have to sign for the I'll sign for it. You got a pen? Here, he'll sign for it.
+GIB: I'll sign for it. You got a pen? Here, he'll sign for it.
 GIB: I'd like to remind you that it has been ten years since you were actually in one of these.
 HARRY: If I break it they can take it out of my pay.
-GIB: (to pilot) It'll be fine.  He's got hundreds of hours in Harriers.  Joint-ops, cross-training and all that.
-AGENT: Harry can fly anything. The big plane wobbles off the ground like a drunken bumble-bee.
-GIB: He's a little rusty.  It's like riding a bicycle .  .  .  you never forget.  Uh .  .  .  I'd seek shelter! It drifts sideways and everybody runs to get out of the way. At about six feet above the ground it slides sideways, clips the top of a cop car and knocks off the light bar.  It lifts unsteadily straight into the sky.  It turns around 180.
+GIB: ( to pilot ) It'll be fine. He's got hundreds of hours in Harriers. Joint-ops, cross-training and all that.
+AGENT: Harry can fly anything.
+GIB: He's a little rusty. It's like riding a bicycle . . . you never forget. Uh . . . I'd seek shelter!
 GIB: He's got it.
-HARRY: Sorry. Harry pushes the vector lever forward and the thrust-nozzles turn, accelerating the plane forward.
-HARRY: Tell Helen what's going on.  Tell her I love her.  And ask the pilot where the button for the 20mm cannon is-- never mind.  I found it. The plane disappears toward Miami.
-DANA: I have to go to the bathroom. The terrorists ignore her.  A terrified ACTION NEWS REPORTER and his CAMERAMAN, under guard by TWO TERRORISTS, are hastily setting up to shoot Malik.
+HARRY: Harry pushes the vector lever forward and the thrust-nozzles turn, accelerating the plane forward.
+HARRY: Tell Helen what's going on. Tell her I love her. And ask the pilot where the button for the 20mm cannon is never mind. I found it.
+DANA: I have to go to the bathroom.
 CAMERAMAN: Tape is rolling.
-MALIK: This is a communique from Crimson Jihad.  You have heard from your own expert.  You have seen the Holy fire with your own eyes.  Do not force us to destroy this city.  And do not try to use force against us.  I can trigger this bomb instantly.  All I have to do is turn that key... (he points fiercely at the bomb) ... and five million of your people will die. The reporter glances down, nervously.
+MALIK: This is a communique from Crimson Jihad. You have heard from your own expert. You have seen the Holy fire with your own eyes. Do not force us to destroy this city. And do not try to use force against us. I can trigger this bomb instantly. All I have to do is turn that key. . and five million of your people will die.
 REPORTER: What key?
-MALIK: (pointing like the guy's blind) That key right there! Malik looks down.  The key is gone.
-MALIK: (to his men) Someone has stolen the key! He turns, looking around wildly.  Malik then sees Dana running for the stairwell to the roof.  He pulls a pistol and shoots at her, but hits the wall as she bangs through the door.  He runs after her.
-DANA: (terrified, but thinking) You shoot me, this'll fall. Malik advances slowly, his eyes glistening ferally.  She backs up a step with each of his, moving along the edge of the roof. Malik keeps his pistol aimed at her chest.
-DANA: Don't come any closer.  I'll drop it!  I swear to God.
-MALIK: If you drop it, I will have no reason not to kill you. He advances, calling her bluff.  She backs away from him along the edge.
-MALIK: Come on, child.  Give me the key. (smiling) Don't you want to live?  I give you my word.
-DANA: No way you whacko. She reaches the corner of the building.  Her back touches something.  it is the boom of a small crane, used for lifting building supplies.  Careful to keep the key dangling over open space, Dana climbs up on the lattice-work boom and moves out beyond the edge of the building, never taking her eyes off Malik.  She is hyperventilating, terrified, but thinking clearly. Malik steps up on the crane, crawling out after her.  He knows she will not drop the key as long as he has the gun.  It is a game which will end when she reaches the end of the boom.  Dana puts the key between her teeth so she can hang on better.  It is windy and the boom is swinging.
-HARRY: (shouting) Let go baby!  I've got you! Daddy's got you!
-HARRY: Don't touch the stick, baby. She stares at her father in amazement.  He banks away from the building, accelerating the jet.  He grins at her.  Raises one eyebrow.  Woggles the plane's wings.
+MALIK: ( pointing like the That key right there!
+MALIK: ( to his men ) Someone has stolen the key!
+DANA: ( terrified, but You shoot me, this'll fall.
+DANA: Don't come any closer. I'll drop it! I swear to God.
+MALIK: If you drop it, I will have no reason not to kill you.
+MALIK: Come on, child. Give me the key. Don't you want to live? I give you my word.
+DANA: No way you whacko.
+HARRY: ( shouting ) Let go baby! I've got you! Daddy's got you!
+HARRY: Don't touch the stick, baby.
 HARRY: Hi, pumpkin.
-HELEN: ... you should have seen your father, standing there all covered with spaghetti sauce.  He looked like such a dope.
-HARRY: I told the guy--- (snorts, it's too funny) I told the guy, this isn't even my order. Dana is laughing too, a part of it.  They are happy.  They are a family.  Dana gets up, her meal half-eaten as usual.
-DANA: I'm done. She heads for the front door.
+HELEN: . you should have seen your father, standing there all covered with spaghetti sauce. He looked like such a dope.
+HARRY: I told the guy- I told the guy, this isn't even my order.
+DANA: I'm done.
 HARRY: I seem to remember something about a history project that's due tomorrow.
-DANA: ( busted) Dad.  You just think you know everything, don't you? Dana trudges off to her room to do her homework.  The phone rings.  Helen answers.
+DANA: ( busted ) Dad. You just think you know everything, don't you?
 VOICE: Boris and Doris?
-HELEN: (calmly, signalling Harry with her eyes) Go ahead.
-GIB: So, what's the scoop, team?  You see your contact yet?
-HELEN: Not yet.  But we'll find him.
-HARRY: Dance? He whirls her across the floor and the CAMERA PULLS BACK AND UP as they dance.
+HELEN: ( calmly, signalling Go ahead.
+GIB: So, what's the scoop, team? You see your contact yet?
+HELEN: Not yet. But we'll find him.
+HARRY: He whirls her across the floor and the CAMERA PULLS BACK AND UP as they dance.
+FADE OUT: The END

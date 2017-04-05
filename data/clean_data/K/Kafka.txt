@@ -1,582 +1,725 @@
-BURGEL: Kafka.
+TINY ALLEYWAY: He runs alone in the dim light of the deserted morning.
+CROOKED PASSAGEWAY: Running for his life.
+NARROW LANE: Running on sheer pumping fear, long after the verge of BLACK TUNNEL Coming out into the light, but by no means out of danger, he allows himself a brief pause, gasping for air, just for a moment looking back into the gloom, starting to retreat again even as he does, then turning running .
+BLACK TUNNEL: Coming out into the light, but by no means out of danger, he allows himself a brief pause, gasping for air, just for a moment looking back into the gloom, starting to retreat again even as he does, then turning running .
+WINDING STREET: He runs on, past boarded-up houses and shuttered inns, strange relics of the Middle Ages casting frightening AROUND A CORNER Eduard appears suddenly, quickly flattens himself back against the large notice board that covers the wall here, layers of expressionistic theatre and film posters pasted on He breathes painfully in short bursts, as silently as he can. He watches the corner he's just come from, the ornate archway through which any pursuer must emerge. Nothing there. But then a shadow moves. Eduard's shoulders tense. His eyes widen. He holds his The shadow . spreading . Eduard edges away ever so slowly, keeping his unblinking gaze on the archway, backing off, one arm brushing the notice board as he feels his way along it, macabre images on the posters, some torn and incomplete, revealing other fragments behind, Eduard's eyes staring constant, no noise here at all A HAND! clamps over his face from behind. All of a sudden and out of absolutely nowhere and not a thing he can do about But he tries, his hands coming up to grip the arm that grasps him, an arm of iron. The hand is huge. It covers Eduard's face almost entirely, only one eye gaping bloodshot through the fingers, ghastly fingers that, just for a second, seem almost inhuman, perhaps even fingers that seem incompatible on the same hand, a hand covered in scar tissue, starting to squeeze as it pulls Eduard swiftly away.
+BURGEL: Kafka turns to see BURGEL, a creep.
 BURGEL: The keeper of the files is still waiting for your final summation of the Erlanger claim.
 KAFKA: I gave it to him yesterday.
-BURGEL: (doesn't understand) You didn't give it to me.
+BURGEL: ( doesn't understand ) You didn't give it to me.
 KAFKA: No, I left it in his office.
 BURGEL: Did you see him?
-KAFKA: I've never seen him.  I don't believe there is a keeper of the files.
-BURGEL: He's usually in the storage room sorting things out.  He can't close the file on a case until he has the concluding report.
+KAFKA: I've never seen him. I don't believe there is a keeper of the He's usually in the storage room sorting things out. He can't close the file on a case until he has the concluding report.
+BURGEL: He's usually in the storage room sorting things out. He can't close the file on a case until he has the concluding report.
 KAFKA: He has it, he just hasn't noticed it yet, all right?
-BURGEL: Who's to say he ever will?  He's a timid old man and quite careful not to tread on anyone's toes -- In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.
+BURGEL: Who's to say he ever will? He's a timid old man and quite careful not to tread on anyone's toes In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me. In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
 BURGEL: In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
-KAFKA: (tiring of this) Burgel, I thought it would be easier, as long as I was passing --
-BURGEL: But like this damages my credibility.
-KAFKA: Your credibility -- yes, it's well known.
-BURGEL: (flushed) When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
+KAFKA: ( tiring of this ) Burgel, I thought it would be easier, as long as I was passing
+BURGEL: like this damages my credibility.
+KAFKA: Your credibility yes, it's well When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
+BURGEL: ( flushed ) When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
 KAFKA: I'll commit that to memory.
-BURGEL: Your position in this firm is not unassailable.
-BIZARRE VOICE: Yes?
-KAFKA: I'm sorry to disturb you -- I wonder if you know where my friend Eduard is?
-BIZARRE VOICE: I can't hear you! -- You'd better come in.
-KAFKA: -- I didn't want to bother you.
-CONCIERGE: Well, you have.  What do you want?
-KAFKA: (pointing upstairs) My friend Eduard, I wonder if you've seen him?  He hasn't been in to work, I thought he might be ill.
-KAFKA: You didn't have to get out of bed -- I could have taken the key.
+BURGEL: Your position in this firm is not
+KAFKA: Has one more look over at the empty desk before returning to his work.
+THE OFFICE: The desks make a checkerboard pattern of the huge floor as Burgel calculates his path among them.
+GROUND FLOOR: Kafka comes through the door that divides the stairs from the hall, goes to knock on the door of the first apartment down
+BIZARRE VOICE: I'm sorry to disturb you I wonder if you know where my friend Eduard is?
+KAFKA: I'm sorry to disturb you I wonder if you know where my friend Eduard is?
+BIZARRE VOICE: I can't hear you! You'd better come in.
+APARTMENT: Kafka comes in tentatively, seeing the CONCIERGE in a far corner of the cluttered room, in bed, covers tucked right up to her chin.
+KAFKA: I didn't want to bother you.
+CONCIERGE: Well, you have. What do you My friend Eduard, I wonder if you've seen him? He hasn't been in to work, I thought he might be ill.
+KAFKA: ( pointing upstairs ) My friend Eduard, I wonder if you've seen him? He hasn't been in to work, I thought he might be ill.
+STAIRS: The Concierge trudges up to the top floor, Kafka following
+KAFKA: You didn't have to get out of bed I could have taken the key.
 CONCIERGE: Yes, I'm sure you could.
+EDUARD'S ROOM: The door unlocks and the two of them come in. Kafka goes to open the window curtain. He turns around to see the Concierge already poking about in drawers. He ignores her and looks around the room on his own. Eduard isn't here. Nothing else seems out of place. He wonders instead how he can dissuade the Concierge from her unbelievable snooping.
 KAFKA: Well, he's not here.
-KAFKA: Do you think you ought to do that?
-CONCIERGE: The manners of a tramp!  It's my house, isn't it?
+KAFKA: Do you think you ought to do
+CONCIERGE: The manners of a tramp! It's my house, isn't it?
 KAFKA: Miss Rossmann?
-KAFKA: I'm Kafka -- I work upstairs in Accident --
+KAFKA: I'm Kafka I work upstairs in I know.
 GABRIELA: I know.
 KAFKA: You're a friend of Eduard Raban's.
 GABRIELA: Why would you suppose so?
-KAFKA: Oh -- well, I thought he once mentioned --
-GABRIELA: (shuts file cabinet) One of you must be mistaken.
-KAFKA: I'm sorry, but I just wondered --
-GABRIELA: (brushing past him) Excuse me, I have to copy this for Central Docketing by 2:30.
-BURGEL: You're late -- I knew it would happen one day.
-MARGARETE: -- This is our friend Anna who works with us on the magazine.
-KAFKA: Hello.
+KAFKA: Oh well, I thought he once One of you must be mistaken.
+GABRIELA: ( shuts file cabinet ) One of you must be mistaken.
+KAFKA: I'm sorry, but I just wondered
+GABRIELA: ( brushing past him ) Excuse me, I have to copy this for Central Docketing by 2:30.
+KAFKA'S DEPARTMENT: Burgel sees Kafka coming back in toward his desk, immediately walks to intersect him.
+BURGEL: You're late I knew it would happen one day.
+OFFICE STAIRWELL: The office workers stream down the stairs that wind around a central elevator shaft, the gated elevator grinding upwards at the same time. When Kafka reaches the ground floor he passes a pair of SENIOR PARTNERS conferring together and does a double-take when he hears his name mentioned then sees the two men shake hands conclusively and turn away. Kafka continues walking away himself, worried about his future.
+OUTSIDE: The office workers pour out of the building, all going in different directions. Three of them get jammed in the doorway, untangle themselves, and Kafka is the next to THE CONTINENTAL COFFEE HOUSE - NIGHT A lively place, crowded with chattering, smoking, arguing students, poets, painters . Kafka joins a group of friends. It's clear that this is a regular gathering and, from their warm reception, considered incomplete without him.
+MARGARETE: This is our friend Anna who works with us on the magazine.
+KAFKA: I've been hearing all about you.
 ANNA: I've been hearing all about you.
-ERNST: Don't worry, Kafka -- I championed your virtues.
+ERNST: Don't worry, Kafka I championed your virtues.
 KAFKA: I'd like to hear them.
-JULIUS: Anna's new to the city -- we wouldn't frighten her needlessly.
-KAFKA: I've lived all my life in this city -- it frightens me.  As it draws me closer into its web.
-STELLA: -- This is an ancient lament.
-KAFKA: No, but do you realize why? -- it has no present.
-ANNA: -- I'm hoping to live in the Old Quarter.
-KAFKA: Even the so-called New Town isn't so new.  Only the people.  People of the future living in buildings of the past. (abruptly) Has anyone seen Eduard?
-MARGARETE: Who? My friend Eduard from the office -- I've brought him here lots of times -- you used to marvel at his travel stories.
+JULIUS: Anna's new to the city we wouldn't frighten her needlessly.
+KAFKA: I've lived all my life in this city it frightens me. As it draws me closer into its web.
+STELLA: This is an ancient lament.
+KAFKA: No, but do you realize why? it has no present.
+ANNA: I'm hoping to live in the Old Even the so-called New Town isn't so new. Only the people. People of the future living in buildings of the past. Has anyone seen Eduard?
+KAFKA: Even the so-called New Town isn't so new. Only the people. People of the future living in buildings of the past. Has anyone seen Eduard?
+MARGARETE: My friend Eduard from the office I've brought him here lots of times you used to marvel at his travel Oh, him.
 JULIUS: Oh, him.
-KAFKA: What d'you mean, oh him?  He's a perfectly nice person, he's never missed a day before.
+KAFKA: What d'you mean, oh him? He's a perfectly nice person, he's never missed a day before.
 ERNST: Perhaps he's taken up with those traveling players you two were so fond of.
-KAFKA: No, it's me who always wanted to run away with them -- except that that life would be far too hectic for me.  I'm worried about him, no one's seen him.
+KAFKA: No, it's me who always wanted to run away with them except that that life would be far too hectic for me. I'm worried about him, no one's seen him.
 STELLA: Haven't you ever called in sick and gone roaming about, free of responsibility to anyone, if only for a day?
-KAFKA: When you work for a medical firm you can't call in sick.  They know malingerers like a dog knows fleas.
+KAFKA: When you work for a medical firm you can't call in sick. They know malingerers like a dog knows fleas.
 ANNA: You work in the insurance department?
 KAFKA: You have been hearing the sordid side then.
-MARGARETE: Be pleased -- you constantly inspire people to take an interest in your life.
-ANNA: I should think it's very interesting work.
+MARGARETE: Be pleased you constantly inspire people to take an interest in your I should think it's very interesting
+ANNA: I should think it's very interesting
 KAFKA: My father always said I had no ambition.
-STELLA: The cabaret will be packed this time of night -- we'll never get in.
+STELLA: The cabaret will be packed this time of night we'll never get in.
 JULIUS: Well, it has to be the cabaret because there's nowhere else to go.
 MARGARET: Home, I think.
-MARGARET: (head on Ernst's shoulder) You know I can't stay up late.
-VOICE: Home is the last resort --
-ERNST: (introducing him) -- Do you know Bizzlebek -- the gravedigger?
-BIZZLEBEK: No one should admit being an artist unless they're paid for it.  If you go to the cabaret mention my name -- they'll find a table for you.
-ERNST: Bizzlebek has ways and means denied lesser mortals.  It comes from working in the cemetery all day -- he's able to transcent the physical world.
-BIZZLEBEK: No -- it only makes me view people dispassionately as so many ... slabs.
-BIZZLEBEK: Quartz ... slate ... gravel ... granite ... flint ... (and then) Marble.
+JULIUS: ( head on Ernst's shoulder ) You know I can't stay up late.
+MARGARET: ( head on Ernst's shoulder ) You know I can't stay up late.
+VOICE: Home is the last resort
+BIZZLEBEK: The owner of the voice. A man sitting at the bar nearby, turning on his stool to face them. A dissipated dandy of a
+ERNST: ( introducing him ) Do you know Bizzlebek the gravedigger?
+BIZZLEBEK: No one should admit being an artist unless they're paid for it. If you go to the cabaret mention my name they'll find a table for you.
+MARGARETE: No one should admit being an artist unless they're paid for it. If you go to the cabaret mention my name they'll find a table for you.
+BIZZLEBEK: No one should admit being an artist unless they're paid for it. If you go to the cabaret mention my name they'll find a table for you.
+ERNST: Bizzlebek has ways and means denied lesser mortals. It comes from working in the cemetery all day he's able to transcent the physical world.
+BIZZLEBEK: No it only makes me view people dispassionately as so many . slabs.
+BIZZLEBEK: Quartz . slate . gravel . granite . flint .
 JULIUS: My God, look, he's marching forward willingly to make human contact.
-GABRIELA: (as Kafka comes over) Hello again.
+GABRIELA: On the other hand, is an enticement. Kafka can't help walking towards her. Sitting with her own friends, though there is something less than friendly about them. Two men, two women.
+GABRIELA: ( as Kafka comes over ) Hello again.
 KAFKA: I've never seen you here before.
-GABRIELA: Have you looked?
-KAFKA: Well -- nice to know life exists outside the office.
-GABRIELA: (ironic) Yes.
+GABRIELA: Have you looked? Well nice to know life exists outside the office.
+KAFKA: Well nice to know life exists outside the office.
+GABRIELA: ( ironic )
 KAFKA: No, really, I have to go home too.
-MARGARETE: We're keeping him from his true vocation.
+MARGARETE: We're keeping him from his true I know, he We wouldn't be his friends if we didn't threaten his solitude!
 JULIUS: I know, he We wouldn't be his friends if we didn't threaten his solitude!
+ANNA: Has a private moment with Kafka.
 ANNA: Where do you live?
 KAFKA: Up there.
-ANNA: I tried finding a place on Castle Hill when I arrived.  I wanted to share the majesty.
+ANNA: I tried finding a place on Castle Hill when I arrived. I wanted to share the majesty.
 KAFKA: It's only majestic from here. When you get closer you see it for what it really is.
 ANNA: What is it really?
-KAFKA: A glorified office block.  They keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.
-ANNA: Well, as long as I admire it from afar it shouldn't worry me if it's hollow.
-KAFKA: It's more than hollow.  It's stillborn.  For all its size it serves no purpose.  It's just there -- like death -- hovering over a breathing city.
-MARGARETE: Don't worry about your friend -- I'm sure he'll turn up.
-ERNST: (a parting word) What are you working on, Kafka?
-KAFKA: I'm writing a story about a man who wakes up one morning to find himself transformed into a giant insect.
-BIZZLEBEK: I've read your stories.  They're fantastic.
-KAFKA: (not sure if he believes him) I don't know what you could have read.
+KAFKA: A glorified office block. They keep all the old records there the final resting place for facts and figures that have ceased to matter in the world of the living.
+ANNA: Well, as long as I admire it from afar it shouldn't worry me if it's
+KAFKA: It's more than hollow. It's stillborn. For all its size it serves no purpose. It's just there like death hovering over a breathing city.
+THE OTHERS: Turn back into the picture. Margarete pats Kafka
+MARGARETE: Don't worry about your friend I'm sure he'll turn up.
+ERNST: ( a parting word ) What are you working on, Kafka?
+KAFKA: I'm writing a story about a man who wakes up one morning to find himself transformed into a giant
+KAFKA: Turns to go when he notices Bizzlebek leaning listlessly in the coffee house doorway. A figure in the shadows.
+BIZZLEBEK: I've read your stories. They're I don't know what you could have Just what you've published.
+KAFKA: ( not sure if he I don't know what you could have Just what you've published.
 BIZZLEBEK: Just what you've published.
-KAFKA: -- In magazines nobody reads.
-BIZZLEBEK: I read the one about the penal colony.
-KAFKA: (cautious) Did you?
-BIZZLEBEK: The needles inscribing the judgement into the flesh of the man. (looks impressed) Very good.
+KAFKA: In magazines nobody reads.
+BIZZLEBEK: I read the one about the penal Did you?
+KAFKA: ( cautious ) Did you?
+BIZZLEBEK: The needles inscribing the judgement into the flesh of the Very good.
 BIZZLEBEK: If I could sculpt as well as that, I'd be quite proud of myself.
-KAFKA: "As Gregor Samsa awoke one morning from disturbing dreams he ... from unsettling dreams ... uneasy dreams ... Gregor Samsa ... Gregor ...?" (wondering) Carl.  George.  Rudolf ...
-SECOND MAN: (still behind Kafka at the door) You know him?
-KAFKA: ... Yes.
+KAFKA'S ROOM: He's struggling to get a sentence right rereading it to Suddenly there's a loud KNOCK on the front door below.
+KAFKA: "As Gregor Samsa awoke one morning from disturbing dreams he . from unsettling dreams . uneasy dreams . Gregor Samsa . Gregor .?" Carl. George. Rudolf .
+DOWNSTAIRS: Kafka opens the tiny front door of this almost-miniature little house. Two intimidating MEN stand outside, one tall, one short, wearing similar black suits and grim expressions.
+MORGUE: Kafka tugs his collar up a bit, his breath visible in the air. He has a feeling what's going to be under the sheet on the lonely trolley in the middle of the room before the first man summons him over to it. Kafka goes. The first man yanks the sheet off the face in one quick movement. The face of Eduard. White and bloated, the tongue jutting, the eyes bulging. Kafka recoils, stepping back instinctively.
+SECOND MAN: ( still behind Kafka You know him?
+KAFKA: . Yes.
 FIRST MAN: His name is Eduard Raban?
-KAFKA: ... Yes.
-MAN: (with an introductory nod) Inspector Grubach.
-INSPECTOR: Kafka -- is that your real name?
-KAFKA: Yes.  Yes, of course -- why wouldn't it be?
+KAFKA: . Yes. Inspector Grubach.
+MAN: ( with an introductory Inspector Grubach.
+INSPECTOR: Kafka is that your real name?
+KAFKA: Yes. Yes, of course why wouldn't it be?
 INSPECTOR: When was the last time you saw Mr. Raban?
-KAFKA: Wednesday.  We left the office together.
-INSPECTOR: Did you go anywhere afterwards -- to have a drink perhaps?
-KAFKA: No, we said goodbye outside the building.  He went off, as usual, toward his house.
-INSPECTOR: (consulting papers) Your office is the Workmen's --
-KAFKA: -- Accident and Compensation Association.
+KAFKA: Wednesday. We left the office Did you go anywhere afterwards to have a drink perhaps?
+INSPECTOR: Did you go anywhere afterwards to have a drink perhaps?
+KAFKA: No, we said goodbye outside the building. He went off, as usual, toward his house.
+INSPECTOR: ( consulting papers ) Your office is the Workmen's
+KAFKA: Accident and Compensation Where you've been employed for seven years.
 INSPECTOR: Where you've been employed for seven years.
-KAFKA: Eight -- and seven months.
-INSPECTOR: Engaged in the manufacture and distribution of ... pills and so forth.
-KAFKA: Well -- other departments are, yes.
+KAFKA: Eight and seven months.
+INSPECTOR: Engaged in the manufacture and distribution of . pills and so Well other departments are, yes.
+KAFKA: Well other departments are, yes.
 INSPECTOR: Would you describe your relationship with the dead man as close?
-KAFKA: Yes.  Since he came to the office, almost three years ago, we've been quite good friends. (pause) How was Eduard ...
-INSPECTOR: He was found in the River.  Could he swim?
+KAFKA: Yes. Since he came to the office, almost three years ago, we've been quite good friends. How was Eduard .
+INSPECTOR: He was found in the River. Could he swim?
 KAFKA: I don't know.
 INSPECTOR: Was he depressed?
-KAFKA: No.  He didn't seem to be.  Do you think he drowned himself?
+KAFKA: No. He didn't seem to be. Do you think he drowned himself?
 INSPECTOR: Grown men don't normally fall into the river, do they?
 KAFKA: No, I suppose not.
-INSPECTOR: (closing the file) He might have had a drink or two, despite what you think.
-KAFKA: (as the interview seems to be over) Can I ask -- how you found me?
+INSPECTOR: ( closing the file ) He might have had a drink or two, despite what you think.
+KAFKA: ( as the interview Can I ask how you found me?
 INSPECTOR: His landlady knew of no other friends to refer us to.
 KAFKA: I don't think he really had any. He had no family either.
-INSPECTOR: We know that.
+INSPECTOR: We know that. He wasn't a lonely man, though.
 KAFKA: He wasn't a lonely man, though.
 INSPECTOR: What makes you think so?
-KAFKA: ... Just a perception.
-INSPECTOR: I don't usually involve myself with you people in the Old Quarter -- but the River runs its own course. It won't be the last time it deposits its unwanted debris on my doorstep.
+KAFKA: . Just a perception.
+HALLWAY: Kafka comes out of a door that closes behind him. He stands and waits. At a high desk a POLICEMAN is reading a newspaper. Without even looking up from it he extends his arm and pushes Kafka slightly to one side so he's no longer blocking the light. Two other MEN are here waiting, sitting on a bench, sharing a private joke. Kafka glances down at himself, wondering if his appearance could in any way inspire ridicule. The door opens again and the Inspector is back.
+INSPECTOR: I don't usually involve myself with you people in the Old Quarter but the River runs its own course. It won't be the last time it deposits its unwanted debris on my Probably not.
 KAFKA: Probably not.
-INSPECTOR: Anyway, I'd like you to reflect that in me you have -- I won't say a friend, because we're complete fencers, of course -- from distinctly incompatible social classes -- but to some extent, shall we say, an interested third party.
+INSPECTOR: Anyway, I'd like you to reflect that in me you have I won't say a friend, because we're complete fencers, of course from distinctly incompatible social classes but to some extent, shall we say, an interested third party.
 KAFKA: I'll bear that in mind.
-INSPECTOR: (hands Kafka his card) -- Should you happen upon anything that might be relevant.
+INSPECTOR: ( hands Kafka his card ) Should you happen upon anything that might be relevant.
+THE TROLLEY: With Eduard's sheet-covered form on it, coming down the hall, the SQUEAKING WHEELS of the thing loud on the wooden floor.
+KAFKA: The noise causes him to turn around. He watches the trolley as it's pushed past.
+KAFKA: Edges out of the way to let it by, feeling as though it has been made for him, is waiting for him. He walks on to the Chief Clerk's office.
 KAFKA: You wanted to see me, sir.
-CHIEF CLERK: (indicates a chair) Sit down, Kafka.
-CHIEF CLERK: You've been with the firm for nearly nine years.  You've done your work diligently, there are no complaints on that score.  But there's more to the job than the work -- there are other people to consider -- and frankly, Kafka, we eel your social situation could bear improving.
-KAFKA: ... My ... social situation?
-CHIEF CLERK: You keep too much to yourself -- you're a lone wolf.  It makes me uneasy, and if it makes me uneasy I can't imagine the impression you make on lesser employees.
-KAFKA: To do my work well, I have little time for --
-CHIEF CLERK: You must make the time.  Where do you go off to in the lunch hour?
+CHIEF CLERK: ( indicates a chair ) Sit down, Kafka.
+CHIEF CLERK: You've been with the firm for nearly nine years. You've done your work diligently, there are no complaints on that score. But there's more to the job than the work there are other people to consider and frankly, Kafka, we eel your social situation could bear improving.
+KAFKA: . My . social situation?
+CHIEF CLERK: You keep too much to yourself you're a lone wolf. It makes me uneasy, and if it makes me uneasy I can't imagine the impression you make on lesser employees.
+KAFKA: To do my work well, I have little time for
+CHIEF CLERK: You must make the time. Where do you go off to in the lunch I usually take lunch by the River.
 KAFKA: I usually take lunch by the River.
-CHIEF CLERK: It's not healthy, Kafka -- not for you and not for your workmates.  At the annual dinner this month you again failed to make an appearance.
+CHIEF CLERK: It's not healthy, Kafka not for you and not for your workmates. At the annual dinner this month you again failed to make an appearance.
 KAFKA: I did not realize it was obligatory.
-CHIEF CLERK: Have you never wondered -- and I mention this only in passing -- (as he paces past and Kafka turns his head) why other clerks have advanced to more responsible positions while you, who have been here longer, have not?
+CHIEF CLERK: Have you never wondered and I mention this only in passing why other clerks have advanced to more responsible positions while you, who have been here longer, have not?
 KAFKA: No, sir.
-CHIEF CLERK: Attitude, Kafka.  It doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.
-KAFKA: (leans forward in rebuttal) Well, I --
-CHIEF CLERK: (keeps pacing) Oh, I know you got along with that poor fellow -- what was his name?
-KAFKA: -- Eduard --
-CHIEF CLERK: -- Yes -- Raban -- but he was too much like you -- even more so perhaps.  He wasn't here as long as you, so I didn't know him as well -- but I could see the influence he was having.  I simply want you to be aware of this because you'll be happier for it.
-CHIEF CLERK: In any case -- don't ask me why -- the word has come down you're to be promoted.
-CHIEF CLERK: Your colleague's death has helped precipitate the need, though I can tell you it's been under consideration for some time.  You're to be given two assistants and a commensurate rise in salary. (sits back behind desk) That's all.
-CHIEF CLERK: Kafka.
-CHIEF CLERK: I understand you fancy yourself an author.
-KAFKA: (almost visibly cringes) In a small way.
-CHIEF CLERK: You might find a more athletic hobby -- put some color in your cheeks.
-BURGEL: Good morning -- (she ignores him) Or should I say good afternoon?
-GABRIELA: Say what you like -- no one pays the least attention.
-BURGEL: (walking quickly alongside her) Oh, don't they?  I think you underestimate my station in this office and overrate your own.
-GABRIELA: Not today, Burgel.  Send one of your memos, write up one of your communiques, but for God's sake don't bother me today.
-BURGEL: It's my place to offer advice, not yours -- and by advising the Chief Clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.
-GABRIELA: (stops to glare at him) You're just doing your job.
+CHIEF CLERK: Attitude, Kafka. It doesn't matter how well you do your work you still see it as something to be gotten on with rather than something to take an active interest in.
+KAFKA: ( leans forward in Well, I
+CHIEF CLERK: ( keeps pacing ) Oh, I know you got along with that poor fellow what was his name?
+KAFKA: CHIEF CLERK
+CHIEF CLERK: Yes Raban but he was too much like you even more so perhaps. He wasn't here as long as you, so I didn't know him as well but I could see the influence he was having. I simply want you to be aware of this because you'll be happier for it.
+CHIEF CLERK: In any case don't ask me why the word has come down you're to be promoted.
+CHIEF CLERK: Your colleague's death has helped precipitate the need, though I can tell you it's been under consideration for some time. You're to be given two assistants and a commensurate rise in salary. That's all.
+CHIEF CLERK: Kafka turns.
+CHIEF CLERK: I understand you fancy yourself an In a small way.
+KAFKA: ( almost visibly In a small way.
+CHIEF CLERK: You might find a more athletic hobby put some color in your
+GABRIELA: She looks distressed, walking tall as if to bolster her composure. Sneaky Burgel does not help matters by characteristically appearing from the sidelines.
+BURGEL: Good morning Or should I say good afternoon?
+GABRIELA: Say what you like no one pays the least attention.
+BURGEL: ( walking quickly Oh, don't they? I think you underestimate my station in this office and overrate your own.
+GABRIELA: Not today, Burgel. Send one of your memos, write up one of your communiques, but for God's sake don't bother me today.
+BURGEL: It's my place to offer advice, not yours and by advising the Chief Clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're You're just doing your job.
+GABRIELA: ( stops to glare at You're just doing your job.
 BURGEL: It's what I'm paid to do.
 GABRIELA: You're detestable.
 BURGEL: And you're late!
+KAFKA: As startled as the rest of the office by the incident. Burgel recovers, straightening up in shock and embarrassment. He immediately resolves to march directly to the office of the Chief Clerk. Seeing him coming, Kafka quickly starts away.
+KAFKA: Coming this way, has paused, having spotted the weird duo.
+THE ASSISTANTS: Continue with their mischief until one of them notices Kafka coming and nudges the other so strongly he almost falls over. They're both standing at attention, looking guilty, by the time Kafka arrives.
 KAFKA: My assistants, I presume.
-ASSISTANTS: Yes -- that's us.
-KAFKA: (offers his hand) I'm Kafka.
-LUDWIG: (shaking hands) Ludwig.
-OSKAR: (now it's his turn) Oskar.
+ASSISTANTS: Yes that's us.
+KAFKA: ( offers his hand ) I'm Kafka.
+LUDWIG: ( shaking hands ) ( now it's his turn ) You look like brothers.
+OSKAR: ( now it's his turn ) You look like brothers.
 KAFKA: You look like brothers.
-ASSISTANTS: Yes -- we do.
+ASSISTANTS: Yes we do.
 KAFKA: Have you worked here long?
-ASSISTANTS: No, no, no -- quite a long time, yes.
+ASSISTANTS: No, no, no quite a long time,
 KAFKA: Well, we'd better move things from my old desk.
-GABRIELA: Eduard and I had lunch together one day ... and you saw us.
+ASSISTANTS: Look at each other with identical frowns, then back at Kafka. Oskar nods, as if to say "oh, all right, if we must." And Ludwig grins.
+GABRIELA: Eduard and I had lunch together one day . and you saw us.
 KAFKA: On the Embankment.
-GABRIELA: I was having an affair with Eduard. (notes Kafka's reaction) He didn't tell you?
-KAFKA: No.
-GABRIELA: He would have.  You were his best friend.  A better friend than me.
-KAFKA: I suspected that he -- well.
-GABRIELA: What?
-KAFKA: That he was -- satisfied in that regard.  I didn't want to pry.
-GABRIELA: (throws her hair back proudly) It's not that we wanted to deceive anyone -- but you know how these things are looked upon at the office.
+GABRIELA: I was having an affair with He didn't tell you?
+KAFKA: He would have. You were his best friend. A better friend than me.
+GABRIELA: He would have. You were his best friend. A better friend than me.
+KAFKA: I suspected that he well.
+GABRIELA: That he was satisfied in that regard. I didn't want to pry.
+KAFKA: That he was satisfied in that regard. I didn't want to pry.
+GABRIELA: ( throws her hair It's not that we wanted to deceive anyone but you know how these things are looked upon at the office. What's funny?
 GABRIELA: What's funny?
 KAFKA: This morning it was suggested to me that my own sense of office fellowship could bear improving.
-GABRIELA: As long as it's on their terms. If your work and your private life don't correspond to their specifications you're labelled a dangerous agitator -- with no recourse whatsoever.
-KAFKA: How long were you and Eduard --
-GABRIELA: Two or three months, that's all. (adds) -- I seduced him.
+GABRIELA: As long as it's on their terms. If your work and your private life don't correspond to their specifications you're labelled a dangerous agitator with no recourse whatsoever.
+KAFKA: How long were you and Eduard
+GABRIELA: Two or three months, that's all. I seduced him.
+HIGH TERRACE: A flight of stone steps takes them up here to this vantage spot overlooking the River and the city beyond. Kafka stands by a railing and the huge, distorted shadow of SOMEONE looms suddenly on the high wall under him.
 GABRIELA: You know as well as I do that he didn't commit suicide.
-KAFKA: No, I don't.  I'm amazed that anyone is able to bear life with any assurance at all.
+KAFKA: No, I don't. I'm amazed that anyone is able to bear life with any assurance at all.
 GABRIELA: Eduard didn't see it as something that needed bearing.
 KAFKA: The police would know the difference, wouldn't they?
-GABRIELA: Do you think people in the New Town care what happens over here? (nodding across the water) This will always be the ghetto.
-KAFKA: He wasn't robbed.  He was identified by his wallet.
+GABRIELA: Do you think people in the New Town care what happens over here? This will always be the ghetto.
+KAFKA: He wasn't robbed. He was identified by his wallet.
 GABRIELA: And you believe everything the authorities tell you.
 KAFKA: When I have no reason to doubt.
-GABRIELA: The very fact that they're authorities should give you reason. People will do anything to protect their own interests.  For all you know he was killed at the hands of the police.
-KAFKA: -- What could he have done to warrant that?
+GABRIELA: The very fact that they're authorities should give you reason. People will do anything to protect their own interests. For all you know he was killed at the hands of the police.
+KAFKA: What could he have done to warrant that?
+GABRIELA: Turns back to Kafka.
 GABRIELA: Are you free tonight?
-KAFKA: Tonight?
-GABRIELA: There are some people I'd like you to meet.  Can you come to the Musil district at eight o'clock?
-KAFKA: ... All right.
+KAFKA: There are some people I'd like you to meet. Can you come to the Musil district at eight o'clock?
+GABRIELA: There are some people I'd like you to meet. Can you come to the Musil district at eight o'clock?
+KAFKA: . All right. You almost married recently, didn't you?
 GABRIELA: You almost married recently, didn't you?
-KAFKA: Last year.  I -- it was broken off.
+KAFKA: Last year. I it was broken Eduard wanted to marry me.
 GABRIELA: Eduard wanted to marry me.
-KAFKA: And you ...?
-GABRIELA: I'm suspicious of men who want to marry.  I believe they think it's the only thing that will make them equal to their fathers.
-KAFKA: (then follows behind her) -- I don't know the Musil district.
-GABRIELA: (without turning) You won't have any trouble finding it.
-MAN IN BLACK: (hoarse voice) Long live anarchy!
-VOICE FROM BEHIND: Please sit down.
-BEARDED ANARCHIST: We'll save the introductions. (takes his seat) We don't know yet if you're friend or foe.
-KAFKA: Strangers make better foes than friends.  Will you tell me who you are altogether, if not individually?
-POCKMARKED ANARCHIST: Heralds of a new age -- does that sound immodest?
-BEARDED ANARCHIST: You could say we represent the unofficial view of a well-ordered society.
-KAFKA: (to Gabriela) Ah -- we're back to the "authorities" you spoke of.
-GABRIELA: They're ubiquitous.  What we try to do ... is make them a little less so.
-BEARDED ANARCHIST: Quite a disturbance tonight, yes? And perhaps you recall last month -- the explosion at the Municipal Courthouse that sent one of the examining magistrates to join the heavenly choir.
-KAFKA: (disbelieving) ... Was Eduard one of you?
+KAFKA: And you .?
+GABRIELA: I'm suspicious of men who want to marry. I believe they think it's the only thing that will make them equal to their fathers.
+KAFKA: Stays where he is a moment, watching her. He may have found his ideal woman.
+KAFKA: ( then follows I don't know the Musil ( without turning ) You won't have any trouble finding
+GABRIELA: ( without turning ) You won't have any trouble finding
+DIRTY YARD: The dark figure walks alongside a row of black window panes, turning around the corner where they end. Kafka follows around the corner and through a dingy doorway.
+ATTIC: Gloomy except for the light around a table at a far end. Kafka advances, seeing Gabriela sitting there with her same companions from the coffee house. Kafka stops in front of the table.
+BEARDED ANARCHIST: We'll save the introductions. We don't know yet if you're friend or foe.
+KAFKA: Strangers make better foes than friends. Will you tell me who you are altogether, if not individually?
+POCKMARKED ANARCHIST: Heralds of a new age does that sound immodest?
+BEARDED ANARCHIST: You could say we represent the unofficial view of a well-ordered Ah we're back to the "authorities" you spoke of.
+KAFKA: ( to Gabriela ) Ah we're back to the "authorities" you spoke of.
+GABRIELA: They're ubiquitous. What we try to do . is make them a little less so.
+BEARDED ANARCHIST: Quite a disturbance tonight, yes? And perhaps you recall last month the explosion at the Municipal Courthouse that sent one of the examining magistrates to join the heavenly choir.
+KAFKA: ( disbelieving ) . Was Eduard one of you?
 YOUTHFUL ANARCHIST: The last to join us, the first to leave us.
-KAFKA: ... Why take me into your confidence?
-POCKMARKED ANARCHIST: That's obvious, isn't it?  We have an opening for a new member.
-GABRIELA: I nominated you as a possible candidate.  You were Eduard's good friend.  He read me some of your work.
+KAFKA: . Why take me into your confidence?
+POCKMARKED ANARCHIST: That's obvious, isn't it? We have an opening for a new member.
+GABRIELA: I nominated you as a possible candidate. You were Eduard's good friend. He read me some of your I've hardly published enough for anyone to draw conclusions from.
 KAFKA: I've hardly published enough for anyone to draw conclusions from.
-GABRIELA: You strike me as a man with a defined notion of injustice -- a high concern for the lot of your fellow men.  And yet you're able to remain an outsider.  With the concomitant air of ... superiority?
-BEARDED ANARCHIST: In short, a higher man.  It's what we want.  It's what we need.
-KAFKA: The distance to my fellow man is for me quite a journey.  As for being an outsider, it's never been a matter of choice.
-YOUTHFUL ANARCHIST: (as Kafka starts to leave) -- They may have instituted proceedings against you.
-KAFKA: (turns) What proceedings?
+GABRIELA: You strike me as a man with a defined notion of injustice a high concern for the lot of your fellow men. And yet you're able to remain an outsider. With the concomitant air of . superiority?
+BEARDED ANARCHIST: In short, a higher man. It's what we want. It's what we need.
+KAFKA: The distance to my fellow man is for me quite a journey. As for being an outsider, it's never been a matter of choice.
+YOUTHFUL ANARCHIST: ( as Kafka starts to They may have instituted proceedings against you.
+KAFKA: ( turns ) What proceedings?
 POCKMARKED ANARCHIST: Preliminary investigations may already be underway.
-BEARDED ANARCHIST: You were his friend.  One link is all they need.
-GABRIELA: The day he died, Eduard was called up to the Castle.  Did you know that?
-KAFKA: (shakes his head) What of it?
-GABRIELA: He was summoned to help correct a minor discrepancy of some sort in the Medical Records Division. Apparently one of his claims was relevant.
-POCKMARKED ANARCHIST: -- Merely in the interests of order, you understand.  The officials at the Castle like to cover their tracks.
+BEARDED ANARCHIST: You were his friend. One link is all they need.
+GABRIELA: The day he died, Eduard was called up to the Castle. Did you know that?
+KAFKA: ( shakes his head ) What of it?
+GABRIELA: He was summoned to help correct a minor discrepancy of some sort in the Medical Records Division. Apparently one of his claims was you understand. The officials at the Castle like to cover their tracks.
+POCKMARKED ANARCHIST: Merely in the interests of order, you understand. The officials at the Castle like to cover their tracks.
 GABRIELA: He was never seen alive again.
-KAFKA: And you still maintain -- what? That he was murdered.
+KAFKA: And you still maintain what? That he was murdered.
 GABRIELA: He was murdered.
-BEARDED ANARCHIST: As you can imagine, a pass into the Castle -- hardly ever granted -- was an opportunity we couldn't ignore.
+BEARDED ANARCHIST: As you can imagine, a pass into the Castle hardly ever granted was an opportunity we couldn't The Castle represents every anachronism that needs to be destroyed if progress is to be made.
 YOUTHFUL ANARCHIST: The Castle represents every anachronism that needs to be destroyed if progress is to be made.
-BEARDED ANARCHIST: As you know, it's not the most accessible location.  Far from being depressed, Eduard was particularly excited when he brought us the news of this chance invitation. He set off that evening carrying one of our custom-made briefcases instead of his own.
-GABRIELA: (gauging Kafka's reaction) You're shocked at the thought of Eduard tossing a bomb through a window.
-KAFKA: I have no right to be, I know.  My experience with real life  is practically nil.
+BEARDED ANARCHIST: As you know, it's not the most accessible location. Far from being depressed, Eduard was particularly excited when he brought us the news of this chance invitation. He set off that evening carrying one of our custom-made briefcases instead of his own.
+GABRIELA: ( gauging Kafka's reaction ) You're shocked at the thought of Eduard tossing a bomb through a I have no right to be, I know. My experience with real life is practically nil.
+KAFKA: I have no right to be, I know. My experience with real life is practically nil.
 GABRIELA: When you only see someone sitting at a desk all day, it's liable to create a false impression.
-KAFKA: People must think the same of me -- a quiet, dependable person.
-BEARDED ANARCHIST: You don't have to accept everything as true, my friend.  You need only accept it as necessary.
-GABRIELA: As the bomb never went off, we can only assume he was caught with it -- and summarily executed.
-POCKMARKED ANARCHIST: -- Merely in the interests of order.
-BEARDED ANARCHIST: The formality of a trial would be too costly for them.  They're beginning to understand that it's the ensuing news of our actions that incites support.
+KAFKA: People must think the same of me a quiet, dependable person.
+BEARDED ANARCHIST: You don't have to accept everything as true, my friend. You need only accept it as necessary.
+GABRIELA: As the bomb never went off, we can only assume he was caught with it and summarily executed.
+POCKMARKED ANARCHIST: Merely in the interests of order.
+BEARDED ANARCHIST: The formality of a trial would be too costly for them. They're beginning to understand that it's the ensuing news of our actions that incites Propaganda of the dead?
 KAFKA: Propaganda of the dead?
-YOUTHFUL ANARCHIST: The Castle will deny he was there any longer than his business required. They're just file clerks up there.  No doubt he was handed over to the police with the utmost discretion.
-BEARDED ANARCHIST: In any event, we've felt no repercussions as yet.  Eduard must not have talked.  You're the one they contacted.
-KAFKA: So that's who my foes are -- policemen and file clerks.  Law and order, you might say.
-GABRIELA: You think what we're doing is so wrong?  And what are you doing? Pursuing goodness?  For what?  To answer to some supreme tribunal?
-KAFKA: My only concern is the human tribunal.  Isn't it yours?
-GABRIELA: Yes -- which is why "quiet, dependable people" have to take charge of their own lives.
-KAFKA: At the cost of others?  You accuse people of murder without trial -- apparently without irony.  Did you go to the Castle with Eduard? (apparently not) Then you have no idea what really might have happened that night at all -- even before or after he got there.
-GABRIELA: Your human tribunal will betray you.  Just as its members will be betrayed when they find no supreme one
+YOUTHFUL ANARCHIST: The Castle will deny he was there any longer than his business required. They're just file clerks up there. No doubt he was handed over to the police with the utmost discretion.
+BEARDED ANARCHIST: In any event, we've felt no repercussions as yet. Eduard must not have talked. You're the one they So that's who my foes are policemen and file clerks. Law and order, you might say.
+KAFKA: So that's who my foes are policemen and file clerks. Law and order, you might say.
+GABRIELA: You think what we're doing is so wrong? And what are you doing? Pursuing goodness? For what? To answer to some supreme tribunal?
+KAFKA: My only concern is the human tribunal. Isn't it yours?
+GABRIELA: Yes which is why "quiet, dependable people" have to take charge of their own lives.
+KAFKA: At the cost of others? You accuse people of murder without trial apparently without irony. Did you go to the Castle with Eduard? Then you have no idea what really might have happened that night at all even before or after he got
+GABRIELA: Your human tribunal will betray you. Just as its members will be betrayed when they find no supreme
 GABRIELA: Join us, Kafka.
 GABRIELA: It's sheer folly for anyone to try to pull through alone.
 KAFKA: How was your evening?
-ASSISTANTS: Fine -- terrible.
-KAFKA: (uncovering his typewriter) What was the matter with it?
-OSKAR: (indicating Ludwig) He can't sit still.  Just when we arrive at a nightclub he wants to go to another one.
-LUDWIG: (to Kafka) You look tired.
-OSKAR: (interrupting) Gabriela Rossman was here looking for you.  Do you know her?
-KAFKA: (looking up) Do you?
-OSKAR: We saw her naked once -- didn't we.
-LUDWIG: Women are all you have on your mind!
-OSKAR: She went to the roof to sunbathe one lunch hour -- we watched her changing.
+ASSISTANTS: Fine terrible.
+KAFKA: ( uncovering his What was the matter with it?
+OSKAR: ( indicating Ludwig ) He can't sit still. Just when we arrive at a nightclub he wants to go to another one.
+LUDWIG: ( to Kafka ) You look tired.
+OSKAR: ( interrupting ) Gabriela Rossman was here looking for you. Do you know her?
+KAFKA: ( looking up ) Do you?
+OSKAR: We saw her naked once didn't we.
+LUDWIG: Women are all you have on your She went to the roof to sunbathe one lunch hour we watched her I didn't realize you'd been here that long.
+OSKAR: She went to the roof to sunbathe one lunch hour we watched her I didn't realize you'd been here that long.
 KAFKA: I didn't realize you'd been here that long.
-OSKAR: You mean because it's been a while since there was a sunny day?  What a good detective you are.
-LUDWIG: They keep switching us from department to department.  He doesn't mind because he can't sit still.
+OSKAR: You mean because it's been a while since there was a sunny day? What a good detective you are.
+LUDWIG: They keep switching us from department to department. He doesn't mind because he can't sit We used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.
 OSKAR: We used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.
 LUDWIG: It's not too bad working here.
-KAFKA: You don't think it's a horrible double life from which there is probably no escape but insanity?
-LUDWIG: No.
+KAFKA: You don't think it's a horrible double life from which there is probably no escape but insanity? I'm glad for you.
+LUDWIG: I'm glad for you.
 KAFKA: I'm glad for you.
-OSKAR: (calling after him) You should be content, you know!
-BURGEL: Are you looking for Gabriela Rossmann?
-KAFKA: Yes.
-GABRIELA: (hardly glancing at him) I'm collecting Eduard's things. If there's anything you want, take it or I'll give it to charity.
-KAFKA: (taking her note from his pocket) Burgel gave me this -- what does it mean?
-GABRIELA: (now looks up) Burgel! -- I didn't leave it with him.
-KAFKA: (going closer) Why were you given notice?
+OSKAR: ( calling after him ) You should be content, you know!
+GABRIELA'S SECTION: Kafka working his way toward Gabriela's desk but he stops before he gets to it, a familiar shiver running through him.
+THE DESK: Empty. The chair pushed squarely under it. The typewriter Stares at it then at the ermine Mr. Burgel who has once again popped up out of nowhere.
+KAFKA: Stares at it then at the ermine Mr. Burgel who has once again popped up out of nowhere.
+BURGEL: Are you looking for Gabriela
+KAFKA: Burgel bows sarcastically to hand Kafka an envelope. Then chuckles spitefully, obviously knowing something Kafka does not. He walks off, leaving Kafka uneasy.
+EDUARD'S LANDING: The door to his room is open. Kafka goes in.
+EDUARD'S ROOM: Kafka comes in. Gabriela is here, gathering up Eduard's belongings from drawers.
+GABRIELA: ( hardly glancing at I'm collecting Eduard's things. If there's anything you want, take it or I'll give it to charity.
+KAFKA: ( taking her note Burgel gave me this what does it mean?
+GABRIELA: ( now looks up ) Burgel! I didn't leave it with ( going closer ) Why were you given notice?
+KAFKA: ( going closer ) Why were you given notice?
 GABRIELA: They're not obliged to tell.
 KAFKA: It couldn't be for that incident with Burgel the other day.
-GABRIELA: Of course it could -- Burgel's been trying to get me thrown out as long as I can remember.  He could've killed Eduard.
+GABRIELA: Of course it could Burgel's been trying to get me thrown out as long as I can remember. He could've killed Eduard.
 KAFKA: You don't believe that.
 GABRIELA: I wouldn't put it past him.
 KAFKA: It seems I knew Eduard a little bit, after all.
-CONCIERGE: Lodgers!  Not one of them thinks to spare me such spectacles!
-GABRIELA: You might think -- I thought so myself at first -- that Burgel's too insignificant to be dangerous. But that's the very reason to beware! It's the small men to watch out for -- the ones who substitute method for character.
-KAFKA: (sighs at her relentlessness) Now you've fallen into his trap. When he goes to bed at night Burgel dreams of inspiring as much fear in others as they inspire in him.
+CONCIERGE: Lodgers! Not one of them thinks to spare me such spectacles!
+EDUARD'S ROOM: Gabriela turns to Kafka.
+GABRIELA: You might think I thought so myself at first that Burgel's too insignificant to be dangerous. But that's the very reason to beware! It's the small men to watch out for the ones who substitute method for character.
+KAFKA: ( sighs at her Now you've fallen into his trap. When he goes to bed at night Burgel dreams of inspiring as much fear in others as they inspire in It's still easier for you to understand suicide, isn't it.
 GABRIELA: It's still easier for you to understand suicide, isn't it.
-KAFKA: That street down there -- I always used to call it the approach road for suicides.  It leads straight down to the bridge and the River.
-GABRIELA: Burgel hated Eduard.  And me.  I'm sure he knew about us -- and I'm sure it drove him mad.
+KAFKA: That street down there I always used to call it the approach road for suicides. It leads straight down to the bridge and the River.
+GABRIELA: Burgel hated Eduard. And me. I'm sure he knew about us and I'm sure it drove him mad.
 KAFKA: Burgel doesn't like anybody!
-GABRIELA: He used to like me -- very much more than I liked him.
-KAFKA: He's jealous, yes, but jealous?  He's too cautious.
-GABRIELA: Of course he is -- the Castle precincts are not the safest part of the city after dark.  People disappear up there regularly.   If you want to lie in wait for someone, that's the place to do it.
-KAFKA: Now you're saying Eduard was lured there?
-GABRIELA: (puts away the last few books) How often does one of our clerks have business in the house of records?
+GABRIELA: He used to like me very much more than I liked him.
+KAFKA: He's jealous, yes, but jealous? He's too cautious.
+GABRIELA: Of course he is the Castle precincts are not the safest part of the city after dark. People disappear up there regularly. If you want to lie in wait for someone, that's the place to do it.
+KAFKA: Now you're saying Eduard was lured How often does one of our clerks have business in the house of records?
+GABRIELA: ( puts away the last How often does one of our clerks have business in the house of records?
 KAFKA: I've heard of it happening.
 GABRIELA: And Burgel is the bringer of messages, isn't he?
-KAFKA: Usually.
-GABRIELA: Or what if there really error? -- I don't know what kind -- any kind that needed correcting -- and what if Burgel was responsible for it?  One mistake -- even a small one in a firm like ours -- it could cost him a promotion.
-KAFKA: First these nameless authorities were the root of all evil, now it's insignificant Burgel.  If indeed there was a mistake -- and a minor one at that -- you're suggesting someone went to a lot of trouble over something so trivial as to not matter at all.
-GABRIELA: What seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.
+KAFKA: Putting the bag down, Gabriela goes closer to Kafka, so close he almost cowers.
+GABRIELA: Or what if there really error? I don't know what kind any kind that needed correcting and what if Burgel was responsible for it? One mistake even a small one in a firm like ours it could cost him a promotion.
+KAFKA: First these nameless authorities were the root of all evil, now it's insignificant Burgel. If indeed there was a mistake and a minor one at that you're suggesting someone went to a lot of trouble over something so trivial as to not matter at all.
+GABRIELA: What seems important to these people is not determined by the amount of work it entails you're far from understanding the authorities if you believe that.
 KAFKA: Now Burgel's one of the authorities?
-GABRIELA: For all his big talk he is.  Does he really have access to the Directors of the firm as he always claims?  -- or only the Deputy Managers -- people of no importance whatsoever.  Someone ought to follow him for a change.
+GABRIELA: For all his big talk he is. Does he really have access to the Directors of the firm as he always claims? or only the Deputy Managers people of no importance whatsoever. Someone ought to follow him for a change.
 KAFKA: You won't make any sense of it while you're upset.
-GABRIELA: Burgel is only there for one purpose -- to spy on the employees and report any and all indiscretions, real or imagined.  If he didn't send Eduard to the Castle, you can be damn sure he's in league with whoever greeted him there. (very upset now) All those bastards are in league with each other -- why can't you see that!
-KAFKA: ... I don't see anything.  I see a message on its way to me -- with all the right answers.  Only it never arrives -- it's always just on its way.
-GABRIELA: Eduard ...
+GABRIELA: Burgel is only there for one purpose to spy on the employees and report any and all indiscretions, real or imagined. If he didn't send Eduard to the Castle, you can be damn sure he's in league with whoever greeted him there. All those bastards are in league with each other why can't you see that!
+KAFKA: . I don't see anything. I see a message on its way to me with all the right answers. Only it never arrives it's always just on its way.
+GABRIELA: Eduard .
 GABRIELA: Your ignorance of the way things are here is so appalling that it makes my head spin to listen to you and compare what you say and have in mind with the real situation!
-INSPECTOR: You said she was extremely upset. People who are extremely upset -- Kafka -- are given to disappearing in a hurry.  They go and calm down for a day or so and then they come back.
-KAFKA: But that's just my point -- she was more than upset, she was livid. She slammed every door on her way downstairs -- except that one. (points at front door) I was just behind her and I didn't even hear that one shut -- not at all.
+GABRIELA: Rushing down the stairs in anger, tearing open the door at the middle landing and slamming that one too once past it.
+KAFKA: Following her down.
+GABRIELA: Coming down the final flight of stairs, disappearing through the door at the bottom, slamming that one as well.
+KAFKA: Almost caught up with her, coming down to the last door.
+OUTSIDE: The front door opens and Kafka steps out. He stands on the stoop. He looks up the street one way. Deserted. He looks down the street the other way. Deserted.
+INSPECTOR: You said she was extremely upset. People who are extremely upset Kafka are given to disappearing in a hurry. They go and calm down for a day or so and then they come
+KAFKA: But that's just my point she was more than upset, she was livid. She slammed every door on her way downstairs except that one. I was just behind her and I didn't even hear that one shut not at That's not what I call conclusive evidence of an abduction.
 INSPECTOR: That's not what I call conclusive evidence of an abduction.
 KAFKA: If someone was waiting here in the hallway to spirit her away, wouldn't they have shut the door as quietly as possible?
-INSPECTOR: Why would someone want to kidnap this woman -- the name is Rossmann?
-KAFKA: You told me to contact you if anything relevant came up -- Gabriela is relevant.  When I spoke to you before I didn't know she'd been seeing Eduard.
-INSPECTOR: That's been noted.  But where does it lead us?  Unless you have something more to add.
-KAFKA: She's missing.  I went to her house and she hadn't returned there.
-INSPECTOR: She lost her job today.  Just between you and me, I'd probably go away and brood a bit myself.
-KAFKA: (manages to blurt out) Maybe it's true then what she said.
-INSPECTOR: (pauses) What did she say?
+EDUARD'S ROOM: Kafka keeps his eye on the two policemen as they poke around, one of them getting close to the dumbwaiter.
+INSPECTOR: Why would someone want to kidnap this woman the name is Rossmann? You told me to contact you if anything relevant came up Gabriela is relevant. When I spoke to you before I didn't know she'd been seeing Eduard.
+KAFKA: You told me to contact you if anything relevant came up Gabriela is relevant. When I spoke to you before I didn't know she'd been seeing Eduard.
+INSPECTOR: That's been noted. But where does it lead us? Unless you have something more to add.
+KAFKA: She's missing. I went to her house and she hadn't returned there.
+INSPECTOR: She lost her job today. Just between you and me, I'd probably go away and brood a bit myself.
+STAIRWAY: The two Policemen lead the way back down, the Inspector behind them, Kafka remaining on the top landing.
+KAFKA: ( manages to blurt out ) Maybe it's true then what she said.
+INSPECTOR: ( pauses ) What did she say?
 KAFKA: That the police may have allegiance to something other than truth.
-KAFKA: -- She didn't think Eduard committed suicide. (then) Any more than I do. (then) She was convinced of it.
+KAFKA: She didn't think Eduard committed suicide. Any more than I do. She was convinced of it. I'm going to say something, and I hope it's quite clear because I won't be repeating it.
 INSPECTOR: I'm going to say something, and I hope it's quite clear because I won't be repeating it.
-INSPECTOR: We don't have to hunt for criminals. We're drawn towards them.  The guilty show us the way.
+INSPECTOR: We don't have to hunt for criminals. We're drawn towards them. The guilty show us the way.
 BIZZLEBEK: Where are your friends?
 KAFKA: Good question. would also be of interest.
-KAFKA: (staring into steaming coffee cup) Gabriela was right -- it's easier for me to understand suicide. I'm a practicing suicide.
-BIZZLEBEK: (slightly mocking as ever) -- In what sense?
-KAFKA: Bachelorhood is just the slow form.  The bachelor doesn't sew seeds.  Only the moment matters. The space he occupies grows smaller and smaller -- until the only space right for him is his coffin.
-BIZZLEBEK: These strange stories you write -- they come naturally, do they?
-KAFKA: Naturally? -- that's not the word I would have chosen.
-BIZZLEBEK: (seriously) Where do you get your ideas? (quickly) Only joking -- I'm just joking. (laughing) Let's go to a brothel then, Kafka, come on.
-KAFKA: I haven't got the energy.  I mean, I have to conserve my energy.
-BIZZLEBEK: Why do you work in that hideous insurance office?  -- dealing with people who fall off ladders.  Now take me -- I make my living as a stone mason.  It's not my art -- but it's the tools of my art.  You could be -- a journalist.
-KAFKA: That would be even worse -- it would be a compromise.
+TABLE: Bizzlebek sits listening to Kafka's tale of woe.
+KAFKA: ( staring into steaming Gabriela was right it's easier for me to understand suicide. I'm a practicing suicide.
+BIZZLEBEK: ( slightly mocking In what sense?
+KAFKA: Bachelorhood is just the slow form. The bachelor doesn't sew seeds. Only the moment matters. The space he occupies grows smaller and smaller until the only space right for him is his These strange stories you write they come naturally, do they?
+BIZZLEBEK: These strange stories you write they come naturally, do they?
+KAFKA: Naturally? that's not the word I would have chosen.
+BIZZLEBEK: ( seriously ) Where do you get your ideas? ( quickly ) Only joking I'm just joking. ( laughing ) Let's go to a brothel then, Kafka, come on.
+KAFKA: I haven't got the energy. I mean, I have to conserve my energy.
+BIZZLEBEK: Why do you work in that hideous insurance office? dealing with people who fall off ladders. Now take me I make my living as a stone mason. It's not my art but it's the tools of my art. You could be a journalist.
+KAFKA: That would be even worse it would be a compromise.
 BIZZLEBEK: Success or nothing?
-KAFKA: No -- not even success.  My writing is not for making a living -- it's for living.  Not for other people, it's for me.
-KAFKA: ... I'm the exile.  Gabriela was right about that too.
+KAFKA: No not even success. My writing is not for making a living it's for living. Not for other people, it's for me. . I'm the exile. Gabriela was right about that too.
+KAFKA: . I'm the exile. Gabriela was right about that too.
+AN AUDIENCE: Watching, laughing. A great sea of grinning teeth and teary Except one. Kafka sits grimly alone near the back. But suddenly he's not alone the Bearded Anarchist has sat down in front of him and now turns round, startlingly.
 BEARDED ANARCHIST: We have another theory.
-POCKMARKED ANARCHIST: We may have attached too little importance to the reason Eduard was summoned to the Castle to begin with.
-YOUTHFUL ANARCHIST: -- To correct a small discrepancy, you may recall.
-POCKMARKED ANARCHIST: -- Ah, but what if it
-BEARDED ANARCHIST: -- Small.
-YOUTHFUL ANARCHIST: -- What if it was a discrepancy?
-POCKMARKED ANARCHIST: Yours is a very powerful and important firm -- it has a lot at stake.
+POCKMARKED ANARCHIST: We may have attached too little importance to the reason Eduard was summoned to the Castle to begin
+YOUTHFUL ANARCHIST: To correct a small discrepancy, you may recall.
+POCKMARKED ANARCHIST: Ah, but what if it
+BEARDED ANARCHIST: YOUTHFUL ANARCHIST
+YOUTHFUL ANARCHIST: What if it was a
+POCKMARKED ANARCHIST: Yours is a very powerful and important firm it has a lot at stake.
 BEARDED ANARCHIST: Perhaps Eduard was closer than he knew to discovering it and so had to be silenced.
-YOUTHFUL ANARCHIST: -- Or he was even more an innocent victim than that -- he was chosen to bear the blame if the crime was uncovered by anyone else.
-POCKMARKED ANARCHIST: -- The crime so scandalous that the poor young clerk committed suicide rather than own up to it.
-KAFKA: That's
-POCKMARKED ANARCHIST: -- Oh, yes, it's mad.
-KAFKA: -- You said so yourself the firm is large and powerful.  If the discrepancy really was something big, Eduard's responsibility would still have to be small.  No poor young clerk could find himself in such a fix.
-POCKMARKED ANARCHIST: (sarcastic grunt) When a scapegoat is needed, my friend ...
+YOUTHFUL ANARCHIST: Or he was even more an innocent victim than that he was chosen to bear the blame if the crime was uncovered by anyone else.
+POCKMARKED ANARCHIST: The crime so scandalous that the poor young clerk committed suicide rather than own up to it.
+KAFKA: POCKMARKED ANARCHIST
+POCKMARKED ANARCHIST: Oh, yes, it's mad. You said so yourself the firm is large and powerful. If the discrepancy really was something big, Eduard's responsibility would still have to be small. No poor young clerk could find himself in such a fix.
+KAFKA: You said so yourself the firm is large and powerful. If the discrepancy really was something big, Eduard's responsibility would still have to be small. No poor young clerk could find himself in such a fix.
+POCKMARKED ANARCHIST: ( sarcastic grunt ) When a scapegoat is needed, my friend .
 BEARDED ANARCHIST: We have to know what he was working on at the time of his death.
-KAFKA: He worked on routine claims.  His visit to the Castle was probably as minor a mission as he said it was.
-POCKMARKED ANARCHIST: Why are you so aggressively unimaginative?  Eduard is no longer the only casualty.
-KAFKA: Then why haven't I been --
-YOUTHFUL ANARCHIST: -- Kidnapped or murdered?  Because your connection with Eduard was obvious and above board -- not as easily misconstrued.
-BEARDED ANARCHIST: -- Not secretive, therefore not suspicious.
-POCKMARKED ANARCHIST: -- Gabriela, on the other hand, had made an enemy of this man Burgel.
-KAFKA: (head turning, exasperated) Oh, Burgel!  Gabriela was having an affair with Eduard.  They were both members of this group.  If any crime's been discovered and people are paying for it, I'd look to yourselves!
-POCKMARKED ANARCHIST: The loyal civil servant.  I suppose you'll deny that shortchanging the workers to whom compensation is due is standard company policy.
+KAFKA: He worked on routine claims. His visit to the Castle was probably as minor a mission as he said it was.
+POCKMARKED ANARCHIST: Why are you so aggressively unimaginative? Eduard is no longer the only casualty.
+KAFKA: Then why haven't I been
+YOUTHFUL ANARCHIST: Kidnapped or murdered? Because your connection with Eduard was obvious and above board not as easily misconstrued.
+BEARDED ANARCHIST: Not secretive, therefore not Gabriela, on the other hand, had made an enemy of this man Burgel.
+POCKMARKED ANARCHIST: Gabriela, on the other hand, had made an enemy of this man Burgel.
+KAFKA: ( head turning, exasperated ) Oh, Burgel! Gabriela was having an affair with Eduard. They were both members of this group. If any crime's been discovered and people are paying for it, I'd look to The loyal civil servant. I suppose you'll deny that shortchanging the workers to whom compensation is due is standard company policy.
+POCKMARKED ANARCHIST: The loyal civil servant. I suppose you'll deny that shortchanging the workers to whom compensation is due is standard company policy.
 BEARDED ANARCHIST: It wouldn't surprise us if the discrepancy was between medicines sent and medicines received.
-YOUTHFUL ANARCHIST: -- People die for such discrepancies.
-SOLEMN ANARCHIST: (the hoarse voice of the restaurant bomber) We must have a look at Eduard's file.
-KEEPER: (vexed) "Raban" -- that'll be nearly at the back of the alphabet.
+YOUTHFUL ANARCHIST: People die for such discrepancies.
+SOLEMN ANARCHIST: ( the hoarse voice of the We must have a look at Eduard's
+KEEPER: ( vexed ) "Raban" that'll be nearly at the back of the alphabet.
 KAFKA: It usually is.
-KEEPER: (snaps at him) I'm not obliged to give you access, you know -- not without authorization -- but I'll make an exception this one time.
-KEEPER: (oblivious to the danger) I'm overworked as it is. (finds the right section) "Raban" did you say?
-KAFKA: Yes.  Isn't it there?
-KEEPER: (pauses) Wait a minute.  "Raban?"  Where have I heard that name?
+KEEPER: ( snaps at him ) I'm not obliged to give you access, you know not without authorization but I'll make an exception this one
+KEEPER: ( oblivious to the I'm overworked as it is. ( finds the right "Raban" did you say?
+KAFKA: Yes. Isn't it there?
+KEEPER: ( pauses ) Wait a minute. "Raban?" Where have I heard that name?
 KAFKA: He's the clerk who died last week. From the insurance department
-KAFKA: (follows anxiously) What's the matter?
-KEEPER: Why would we keep files on employees?  All old files are sent up to the Castle.  Do you think we have room for two hundred years worth personnel records?
-KAFKA: (dodges another paper landslide) It's gone out so quickly?
+KAFKA: ( follows anxiously ) What's the matter?
+KEEPER: Why would we keep files on employees? All old files are sent up to the Castle. Do you think we have room for two hundred years worth personnel records?
+KAFKA: ( dodges another It's gone out so quickly?
 KEEPER: Whenever an employee departs, shall we say, it's up to the head of his department to requisition his file, reassign any outstanding claims, and send it off.
-KAFKA: -- You mean my Chief has it.
-KAFKA: Excuse me, sir -- I understand you have Eduard Raban's file.
+KAFKA: You mean my Chief has it.
+KAFKA: Excuse me, sir I understand you have Eduard Raban's file.
 CHIEF CLERK: I do.
-KAFKA: I wonder if I might look to see if there's an address for family -- I thought I'd like to write to them.
-CHIEF CLERK: No -- just as I thought -- no entry for family.
+KAFKA: I wonder if I might look to see if there's an address for family I thought I'd like to write to them.
+CHIEF CLERK: No just as I thought no entry for family.
 CHIEF CLERK: Was there something else?
-KAFKA: No -- I just -- I feel a sense of obligation.  He was my friend -- if I can be of any help -- closing his affairs.
-CHIEF CLERK: (putting file away again) No, there's only one report to complete.  I'll be doing it myself and submitting it to the Castle today or tomorrow.
-KAFKA: (as ingenuously as possible) I see -- it's just the Erlanger claim then.
-CHIEF CLERK: (looks up) The Orlac claim.
-KAFKA: Sorry, yes -- well -- thank you, sir.
-CHIEF CLERK: Kafka.
-CHIEF CLERK: You're too sensitive.  Let your friend rest in peace. (returning to paperwork) I've known suicides.  Such a song- and-dance about nothing.
-KAFKA: Yes, sir.
+KAFKA: No I just I feel a sense of obligation. He was my friend if I can be of any help closing his affairs.
+CHIEF CLERK: ( putting file away No, there's only one report to complete. I'll be doing it myself and submitting it to the Castle today or tomorrow.
+KAFKA: ( as ingenuously as I see it's just the Erlanger claim then.
+CHIEF CLERK: ( looks up ) The Orlac claim.
+KAFKA: Sorry, yes well thank you,
+CHIEF CLERK: Kafka reluctantly turns.
+CHIEF CLERK: You're too sensitive. Let your friend rest in peace. I've known suicides. Such a song- and-dance about nothing.
+KAFKA: Yes, sir. Give it up.
 CHIEF CLERK: Give it up.
 KEEPER: If it was Accounts you wanted why did you ask for Employees?
 KAFKA: Orlac is an account?
-KEEPER: It's a factory in the northern mountains.  One of our best customers. (as they disappear around a corner) Without a proper request I'm not obliged to do this, you understand -- but I'll make an exception on this one occasion.
+KEEPER: It's a factory in the northern mountains. One of our best Without a proper request I'm not obliged to do this, you understand but I'll make an exception on this one occasion.
+ANOTHER ROW: Kafka glances nervously around as shelves CREAK threateningly under the weight of documents. Up on a ladder, the Keeper of the Files finds the Orlac folder.
 KEEPER: At least the account is current even if the employee isn't.
-KEEPER: (coming down ladder) That place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.
-KAFKA: (leafing through pages) All these in the last year?
-KEEPER: You must have read about it in the papers -- there was a terrible cave-in.  It wouldn't have been so bad, but even the Medical Officer for the district was killed!
-KAFKA: I did read that.  They gave him a posthumous medal.
-KEEPER: (nods) Dr. Murnau was the bravest of men. He spent an entire career in those backwaters with no regard for personal gain.  A great loss.
-KAFKA: (a particular document) This is the cross-reference of clerks who've worked on Orlac claims?
-KEEPER: (nods) Is your friend's name among them? (Kafka shakes his head) Then he only worked on the one case. (taking file back again) Your Chief will send me the final summation when he's finished with it.
+KEEPER: ( coming down ladder ) That place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.
+KAFKA: ( leafing through pages ) All these in the last year?
+KEEPER: You must have read about it in the papers there was a terrible cave-in. It wouldn't have been so bad, but even the Medical Officer for the district was killed!
+KAFKA: I did read that. They gave him a posthumous medal.
+KEEPER: ( nods ) Dr. Murnau was the bravest of men. He spent an entire career in those backwaters with no regard for personal gain. A great loss.
+KAFKA: ( a particular document ) This is the cross-reference of clerks who've worked on Orlac ( nods ) Is your friend's name among ( Kafka shakes his Then he only worked on the one ( taking file back Your Chief will send me the final summation when he's finished with Once a file's been sent to the Caste, is it possible to recall it for review?
+KEEPER: ( nods ) Is your friend's name among ( Kafka shakes his Then he only worked on the one ( taking file back Your Chief will send me the final summation when he's finished with Once a file's been sent to the Caste, is it possible to recall it for review?
 KAFKA: Once a file's been sent to the Caste, is it possible to recall it for review?
-KEEPER: (going back up ladder) Of course not.  Only by a Director of the firm.  Who'd want to let in all kinds of riff-raff off the streets?
+KEEPER: ( going back up Of course not. Only by a Director of the firm. Who'd want to let in all kinds of riff-raff off the What good are records if they're not open for public inspection?
 KAFKA: What good are records if they're not open for public inspection?
-KEEPER: (stuffing file back in place) These laws have been with us for centuries -- how can you doubt them?
-KAFKA: What if I petitioned one of the Directors?
-KEEPER: (coming back down) You do not summon them -- they summon you -- and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.
-KAFKA: Where do our records go to in the Castle?
-KEEPER: (starting to walk away) We're a medical firm, aren't we? They go to the Medical Records Section.
+KEEPER: ( stuffing file back These laws have been with us for centuries how can you doubt What if I petitioned one of the ( coming back down ) You do not summon them they summon you and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.
+KAFKA: What if I petitioned one of the You do not summon them they summon you and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.
+KEEPER: ( coming back down ) You do not summon them they summon you and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.
+KAFKA: Where do our records go to in the We're a medical firm, aren't we? They go to the Medical Records I could always apply there.
+KEEPER: ( starting to walk We're a medical firm, aren't we? They go to the Medical Records I could always apply there.
 KAFKA: I could always apply there.
 KEEPER: It so happens, my dear simple sir, that the Head of Medical Records at the Castle is one of the Directors of this firm.
+THE ASSISTANTS: One is sweeping the floor. The other is scribbling at their desk. His pen blotches his paper. He has a fit and crumples it up and throws it down.
+KAFKA: Looks over at the Chief Clerk's office sees him writing intently at his desk, pausing to turn on a lamp.
+THE ASSISTANTS: The sweeping one bangs his knee against a desk and starts hopping about. The pen of the other one leaks again. He crumples up his new sheet and flings it away even more angrily than before. Then he examines his pen, determines that the cap at the back is loose, and starts banging it on his desk in an attempt to tighten it while the other assistant keeps jumping around holding his hurt kneecap.
+KAFKA: Glances over his shoulder at them, starts to say something but then notices Burgel, not far away, sometimes blocked by other employees, walking in the direction of the Chief Clerk's office.
+THE ASSISTANTS: The one assistant has just fixed his pen when the other one, still hopping around, bumps into him, causing him to knock over a bottle of ink. The two of them start shoving each other about. Kafka whirls around, can't ignore them any longer.
 KAFKA: Do you mind!
-OSKAR: -- I was just trying to finish some work!
-KAFKA: You mean you've actually begun some?
-LUDWIG: (pointing at Oskar) -- Just because he's done nothing today, he doesn't want me to show him up!
-KAFKA: My assistants!  You might as well have fallen from the sky for all the thought that was spent in choosing you!
-OSKAR: It's not our fault.  We're naturally nervous.
+OSKAR: I was just trying to finish some work!
+KAFKA: You mean you've actually begun Just because he's done nothing today, he doesn't want me to show him up!
+LUDWIG: ( pointing at Oskar ) Just because he's done nothing today, he doesn't want me to show him up!
+KAFKA: My assistants! You might as well have fallen from the sky for all the thought that was spent in choosing you!
+OSKAR: It's not our fault. We're naturally nervous.
 LUDWIG: And we're upset too.
 KAFKA: What's the matter with you?
-KAFKA: -- You should meet my father.
-LUDWIG: We've been together too long.  His personality is overflowing into mine and vice versa.
-OSKAR: -- How would horrible situation like that?
-KAFKA: (to Assistants again) All right, you might as well go home -- go on.
+OSKAR: I can't make a simple statement without him taking issue with it
+KAFKA: You should meet my father.
+LUDWIG: We've been together too long. His personality is overflowing into mine and vice versa.
+OSKAR: How would horrible situation like that?
+KAFKA: He wouldn't. It's the nightmare of his life. But now he's distracted again noticing Burgel walking away from the Chief Clerk's office ( without ever having seem him actually enter it ). And Burgel is carrying a parcel under his arm.
+KAFKA: ( to Assistants again ) All right, you might as well go home go on.
+KAFKA: Following him.
+KAFKA: Pauses in some shadows. He glances up at the distance, the way Burgel is going, up at
+THE CASTLE: Almost glowing as it's outlined against the blue of the darkening night.
+WHORES: Giving Kafka the eye as he goes past doorway after doorway filled with their frightening/tempting forms. But he tries never to lose focus on the small form of Burgel further up the street. Men milling about, up and down the street, prostitutes roaming amongst them, Kafka negotiating his way through. An urgent moment when he almost loses Burgel then sees him turning down an alley. Kafka hurries after him, avoiding a pair of drunken louts in the way.
+FURTHER ON: The Castle visible, but still a little in the distance. Kafka comes into view. He sees Burgel entering a building.
+UPSTAIRS HALLWAY: Very dingy. Burgel leaves the top of the stairs and walks down to a room at the end.
+DOWNSTAIRS: Kafka waits momentarily at the bottom, then goes up.
+HALLWAY: Peeking around the corner, he sees a YOUNG GIRL embracing Burgel in her doorway before letting him in.
+OUTSIDE: Kafka comes out of the building. He hears a noise, turns around, sees Burgel and the girl on the tiny baroque balcony outside her room. Kafka retreats into the shadows. He watches the girl unwrap the parcel Burgel's given her. She smiles as a box of chocolates is revealed.
+KAFKA: Watches with an expression of guilt, sadness? Until a door suddenly opens at his back. A MAN shuffles out past him. A rather ugly WOMAN in a dressing gown holds the door open, giving Kafka a cursory look. Beyond her inside, a quick glimpse of MASOCHIST yelping as he's whipped.
 WOMAN: Well, what're you waiting for?
-MR. PICK'S VOICE: -- Come on -- there's no one up there.  We're going now.
-MR. PICK: That's it -- it's all right -- you've done very well.
-MR. PICK: Never mind them -- they'll be attended to.
-KAFKA'S VOICE: "-- oh, and thank you for the suit from Father, although I don't know why he didn't simply return it.  If it's too small for him why do you immediately suppose it will fit me? ... Your son ... Your loving son ... Your somewhat loving son ... Your occasionally loving son ... Your incapable-of-loving son ... Your absolutely-bored-to-death-with-any- kind-of-family-life son ..."
-BURGEL: The Chief Clerk would like this ready for tomorrow morning. (oily) He says it should only take you an extra hour or two.
-KAFKA: (calls down there) -- Help!  HELP!
+DINGY DOORWAY: He goes through. A MOUSE scurries past him across the THE LOPSIDED STAIRWAY Leads him up to the attic.
+MR. PICK: That's it it's all right you've done very well.
+MR. PICK: Never mind them they'll be attended to.
+KAFKA: Pretending to be one of the dead anarchists. Hiding under the large body of the Bearded Anarchist. Trying hard to emulate his lack of movement. Blood from the Bearded Anarchist's ear drips onto Kafka's face. He tries to blink it away while his other eye remains fixed on the two figures walking away to the doorway until they're through it and After a moment, he unloads the Bearded Anarchist and softly hurries over to the attic doorway.
+STAIRS: The Strange Man utters another low moan as Mr. Pick leads him like a dog down the creaking old steps.
+KAFKA: Comes cautiously out onto the landing. He leans over the bannister, watching the two figures slowly going down the long stairs, vanishing from sight at a certain turn of the staircase on every floor and coming into view after a moment or so.
+STREET OUTSIDE: Mr. Pick and the Strange One walk away.
+KAFKA: Follows at a respectable distance. He pauses when he hears a WAGON looking back at the anarchists' building to see it pulling up outside. The DRIVER jumps to the ground. Kafka looks from the wagon to the two men walking away in the distance and makes his choice continuing after the two THE QUARRIES - NIGHT On the outskirts of the city, beyond the Castle. Mr. Pick and the Strange Man approach. Some distance behind them, Kafka takes cover behind a tree, watching. Mr. Pick leads the Strange Man down the central quarry to where a third man, a LABORER by the look of him, is waiting. Kafka finds a vantage point somewhere above the central quarry. He flattens himself on the ground and peers over the In the quarry, Mr. Pick steps back a pace from the Strange Man as they meet up with the Laborer and suddenly grabs the Strange Man, pinning his arms behind him, baring his chest or the Laborer to stab a dagger into! Kafka is shocked by the abruptness of this. He sees the Strange Man slump to the ground. He crawls a little closer. He sees the Laborer replace the knife in its sheath on his belt, then help Mr. Pick drag the Strange Man off to some side shadows where they dump him. Kafka strains forward a little, trying to make out their faces and the ground gives way!
+KAFKA: Lands at the bottom of the incline, dazed. He's still quite far away from the other end of the quarry where they are.
+KAFKA: Sees them coming. Scrambles to his feet. It takes him a split second to establish his options. Namely, the best route is back up the way he came. If only he can get up it again as fast. Mr. Pick and the Laborer start to run. Kafka starts to climb. The incline is steep. The gravel is loose. He slips back down. Mr. Pick and the Laborer are gaining speed. Kafka digs his fingers into the dirt, pulling himself up with all his might, even though his shoes don't sustain holds. Mr. Pick is a better runner than the burly Laborer. He's almost there. Kafka slips back down again. Mr. Pick could almost grab him but Kafka literally throws himself up the slope again, gasping and Mr. Pick stretches but can't reach that far and Kafka's nearly at the top again Mr. Pick climbing after him now and Kafka's arm comes over the edge, he struggles over, kicking gravel back down in Mr. Pick's face. Mr. Pick slides back down to the bottom and Kafka's gone. The Laborer fell over Mr. Pick as he came crashing back down, now Mr. Pick pushes him off in one direction while he goes SLOPING STREET Escaping back into the Old Quarter, Kafka runs downhill. But even the momentum doesn't carry him as fast as he'd like.
+SLOPING STREET: Escaping back into the Old Quarter, Kafka runs downhill. But even the momentum doesn't carry him as fast as he'd like.
+SMALL SQUARE: A number of streets branching off. Kafka sees Mr. Pick coming down one of them and the Laborer coming down another. Kafka runs off along a third.
+CIRCUITOUS PASSAGE: Kafka runs. Looks behind him. Mr. Pick is coming. He runs faster, under a weird archway. Looks behind him. Mr. Pick and the Laborer are coming. Kafka darts down a side street.
+SIDE STREET: Another twisting little road. He winds around one corner only to be met by another, the end of this street impossible to determine.
+BEHIND HIM: Mr. Pick and the Laborer are catching up.
+KAFKA: Turns another corner and finds himself at the bottom of an incredibly long flight of steps. A staired street. On and on and on. He doesn't know if he can make it.
+THE TOP: Here they come, huffing and puffing.
+THE BOTTOM: Kafka comes out from behind an extravagantly designed iron gate grillwork. He sneaks away, back the way he came.
+THE FACE: Of a monster. Horribly disfigured, scarred and stitched. And it isn't the kind of patchwork mess caused by acid or accident. There seems to be design behind it. Human design. And beneath all this warped, mutilated flesh, almost unrecognizable . the features of the vagrant snatched from the River.
+KAFKA'S FACE: Revulsion. He goes.
+THE WAGON: Parks above the quarry. The evil-looking Driver jumps down and pulls a large sack off the back. He starts down into the Appears over another edge. He looks over at the wagon. He sees that now the back is loaded up, and covered by a sheet of tarpaulin.
+KAFKA: Appears over another edge. He looks over at the wagon. He sees that now the back is loaded up, and covered by a sheet of tarpaulin.
+KAFKA'S HOUSE: He comes in. Before taking off his coat, he finds in a pocket Inspector Grubach's card. But what can he do again without evidence? He puts the card back in the pocket.
+KAFKA'S VOICE: " oh, and thank you for the suit from Father, although I don't know why he didn't simply return it. If it's too small for him why do you immediately suppose it will fit me? . Your son . Your loving son . Your somewhat loving son . Your occasionally loving son . Your incapable-of-loving son . Your kind-of-family-life son ."
+THE BRIDGE: Two men walk across the river.
+A WAGON: Rolls along one of the moribund streets of the Old Town. The Driver swivels in his seat, looking over his wide shoulder, as if to see if he's being followed. The glint in his eye suggests Evil.
+KAFKA'S ROOM: Kafka puts a stamp on his letter, then adds it to the stack of obsessive correspondence already piled on one corner of his desk.
+THE ASSISTANTS: Jump in unison when the BELL goes off. Then in their hurry to leave start shoving all their papers and whatnots haphazardly into various drawers, opening and slamming them regardless of whether or not the contents are fully inside, resulting in a lot of crumpled documents and snapped pencils.
+BURGEL: Suddenly hovering by Kafka's side, handing him something.
+BURGEL: The Chief Clerk would like this ready for tomorrow morning. He says it should only take you an extra hour or two.
+BATHROOM: SCRATCH, SCRATCH. Kafka looks for the source of the sound and in sudden startled shock instantly finds it where a huge arm has just been thrust through a small, high window and the ugly hand at the end of the arm is feeling around for the window-latch. Kafka starts backing away as the hand flips open the latch and now the window, swinging open with a bang, and the rest of the intruder starts coming into view out before all of him appears Kafka has run out and slammed the door behind him.
+OFFICE: Kafka pulls a desk across the bathroom doorway.
+BATHROOM: The MANIAC because that's what his posture and breathing, seen from the back, suggest lurches into the bathroom from the window.
+OFFICE: Kafka grabs his coat and an umbrella off a rack. He looks back at the bathroom the desk rocking back and forth as the intruder behind the door pushes. Kafka runs away.
+HALLWAY: He runs to the elevator, sliding open the gate.
+OFFICE: CRASH! The desk tips over as the bathroom door is forced Kafka descending. The elevator cranking slowly downwards. Then, nearing the ground floor, it slows down even further. Then it suddenly stops dead. Kafka reaches for the walls to steady himself. He looks through the gate, assessing the distance to the ground floor below. He tries the gate but it won't open.
+ELEVATOR: Kafka descending. The elevator cranking slowly downwards. Then, nearing the ground floor, it slows down even further. Then it suddenly stops dead. Kafka reaches for the walls to steady himself. He looks through the gate, assessing the distance to the ground floor below. He tries the gate but it won't open.
+KAFKA: ( calls down there ) Help! HELP!
+THE MANIAC: Lunges forward from above, scooping both arms down in a vain attempt to catch Kafka just as he drops out of sight landing on the ground floor with a roll. The Maniac HOWLS at his failure, his features even more horribly contorted, Practically filling the small opening of the roof hatch as he SHRIEKS. And as his atrocious face comes CLOSER and CLOSER and CLOSER one of his eyeballs falls out! POP! out of the socket suddenly dangling into the elevator, hanging by a single sinewy bloody thread. The Maniac cries out and reaches for the eyeball, bringing it back up to try and stuff back in place .
+STREET OUTSIDE: Kafka runs away from the office building, in horror, off into the night.
 VOICE: Did you think you'd be safe back in your little burrow?
 OTHER VOICE: No matter how deep a hole you dig for yourself, the beast will always find you.
 OSKAR: We're to take you to the Castle.
-KAFKA: So.  You're the guides up there. And we thought it was Burgel.
-LUDWIG: They wouldn't let the Castle.  You should look upon this as a great favor.
-KAFKA: I don't want any favors from the Castle -- just my rights.
-LUDWIG: We answer directly to Ekman, the Senior Partner -- he practically runs the Castle.  In a case like this you're better off dealing with the highest authority -- even though it's equally futile.
-OSKAR: When you speak to him you have to lean quite near his right ear because the left doesn't work so well.
-KAFKA: For all your incompetence I was beginning to think you were at least loyal to me.  You're very good ham actors.
-OSKAR: -- Just doing our job.
+KAFKA: So. You're the guides up there. And we thought it was Burgel.
+LUDWIG: They wouldn't let the Castle. You should look upon this as a great favor.
+KAFKA: I don't want any favors from the Castle just my rights.
+LUDWIG: We answer directly to Ekman, the Senior Partner he practically runs the Castle. In a case like this you're better off dealing with the highest authority even though it's equally futile.
+OSKAR: When you speak to him you have to lean quite near his right ear because the left doesn't work so
+KAFKA: For all your incompetence I was beginning to think you were at least loyal to me. You're very good ham actors.
+OSKAR: Just doing our job.
 KAFKA: It's a farce.
 LUDWIG: We think you'd better accept your position instead of pointlessly annoying us.
-KAFKA: What position?  Being prosecuted in a case like this means having already lost it.
+KAFKA: What position? Being prosecuted in a case like this means having already lost it.
 OSKAR: Still, we're probably closer to you at the moment than any of your fellow human beings.
 KAFKA: Close only by virtue of antithesis.
-KAFKA: (shaking his head) My assistants.  I should have known. Nothing is given to me.  I have to acquire everything.
-OSKAR: (laughs) It's all right to be sarcastic in private to us -- because we have a sense of humor -- but when we're up at the Castle we suggest you don't make a fuss.  It would spoil the not unfavorable impression you make in other respects.
-LUDWIG: Frankly, we don't understand why you've even bothered pursuing this business.
+ANOTHER STREET: Kafka walks stiffly between the Assistants, the three of them almost locked together as one unit, like lifeless matter.
+KAFKA: ( shaking his head ) My assistants. I should have known. Nothing is given to me. I have to acquire everything.
+OSKAR: ( laughs ) It's all right to be sarcastic in private to us because we have a sense of humor but when we're up at the Castle we suggest you don't make a fuss. It would spoil the not unfavorable impression you make in other respects.
+LUDWIG: Frankly, we don't understand why you've even bothered pursuing this It would be more accurate to say that it has pursued me.
 KAFKA: It would be more accurate to say that it has pursued me.
-OSKAR: But your goal is so hard to reach. Do you think the official network would surrender to one man?  We would never think of attempting anything remotely as difficult.
-LUDWIG: My mother used to tell us of the young man who decided to ride to the next village and how she was afraid that -- not even mentioning accidents -- the span of a normal happy life might fall far short of the time needed for such a trip.
+OSKAR: But your goal is so hard to reach. Do you think the official network would surrender to one man? We would never think of attempting anything remotely as difficult.
+LUDWIG: My mother used to tell us of the young man who decided to ride to the next village and how she was afraid that not even mentioning accidents the span of a normal happy life might fall far short of the time needed for such a trip.
 KAFKA: You've dropped some money.
 KAFKA: You work in the cemetery.
-BIZZLEBEK: A man must eat -- (raises glass) And drink.
-KAFKA: The
-BIZZLEBEK: (waits for Kafka) Are you sure you wouldn't prefer going through official channels?
-KAFKA: Official channels -- a lot of good they've done me.  My only hope is to approach the officials personally.
-BIZZLEBEK: -- I'm flattered, of course, to be considered a friend -- even without knowing all the details. (Kafka doesn't take that cue) -- To see such determination is reward enough for me.
-KAFKA: The Kafka men are famous for it, you know.  Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --
-KAFKA: (gulp) -- Oh, yes, determination runs in the family.
+BIZZLEBEK: A man must eat And drink.
+KAFKA: CEMETERY - NIGHT Ancient tombstones crumbling with age, slanting out of the ground at bizarre angles, and cluttered so close together that a way can scarcely be made between them. Bizzlebek leads Kafka along the crooked little pathways, overgrown with crawling weeds, upwards towards the high section of the cemetery under the dark wall of the Castle. Bizzlebek, who knows his way around, seems more cheerful here than we've seen him before. Kafka more fearful. Wind WHISTLES. Leaves RUSTLE. CREAKING trees cast ghastly shadows. Scary tombs, all shapes and sizes, strange symbolic symbols on them, mystical figures and designs. Trying to keep up with Bizzlebek, Kafka spots a horrendous shape looming ahead of him. He starts to bypass it and jumps when a tall plant brushes against him.
+BIZZLEBEK: ( waits for Kafka ) Are you sure you wouldn't prefer going through official channels?
+KAFKA: Official channels a lot of good they've done me. My only hope is to approach the officials personally.
+BIZZLEBEK: I'm flattered, of course, to be considered a friend even without knowing all the details. To see such determination is reward enough for me.
+KAFKA: The Kafka men are famous for it, you know. Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth
+KAFKA: ( gulp ) Oh, yes, determination runs in the family.
 BIZZLEBEK: There is to tell me.
-KAFKA: I'm trying to find things out myself -- that's the whole point.
+KAFKA: I'm trying to find things out myself that's the whole point.
 BIZZLEBEK: What made you think get you into the Castle?
-KAFKA: The cemetery is nearer the Castle than anywhere else -- wasn't it part of the Castle originally?  -- I always assumed there'd be a gate or something. (stops again, concerned) Isn't there?
+KAFKA: The cemetery is nearer the Castle than anywhere else wasn't it part of the Castle originally? I always assumed there'd be a gate or Isn't there?
 BIZZLEBEK: In a manner of speaking.
-BIZZLEBEK: I was restoring some stones here in the upper section one day -- and I found this.
-KAFKA: (unclear) An empty tomb?
-BIZZLEBEK: A cenotaph -- a monument to someone whose remains ended up elsewhere. But look --
-BIZZLEBEK: The Castle gates were blockaded in the time of the great plague -- it's an escape route. (offers Kafka the lantern) Don't get stuck.
-KAFKA: (accepts it) Not a chance.  I'm the thinnest person I know.
-KAFKA: -- You appreciate my writing.
-BIZZLEBEK: (taken aback) Yes.
+BIZZLEBEK: I was restoring some stones here in the upper section one day and I found this.
+KAFKA: ( unclear ) An empty tomb?
+BIZZLEBEK: A cenotaph a monument to someone whose remains ended up elsewhere. But look The Castle gates were blockaded in the time of the great plague it's an escape route. Don't get stuck.
+BIZZLEBEK: The Castle gates were blockaded in the time of the great plague it's an escape route. Don't get stuck.
+KAFKA: ( accepts it ) Not a chance. I'm the thinnest person I know.
+THE SHAFT: Kafka starts to climb down, shoes loud on the rungs affixed to the stone wall of this well. But then he remembers something, pops back up.
+KAFKA: You appreciate my writing.
+BIZZLEBEK: ( taken aback ) Will you do me a favor then?
 KAFKA: Will you do me a favor then?
 BIZZLEBEK: Another one?
-KAFKA: If I don't see you later -- go to my house and find my notebooks -- and destroy them.  All my manuscripts -- just burn them. Please.
+KAFKA: If I don't see you later go to my house and find my notebooks and destroy them. All my manuscripts just burn them. What an extraordinary request!
 BIZZLEBEK: What an extraordinary request!
 KAFKA: It's my last and final one.
 BIZZLEBEK: Then its authority is in doubt.
 KAFKA: A true friend would do it.
-BIZZLEBEK: Not necessarily. (a pointed look) A wife would.
-GAUNT MAN: You've killed him!  Like a dog!
-GAUNT MAN: -- They won't like that.  Not a bit!
-KAFKA: I didn't --
+BIZZLEBEK: Not necessarily. A wife would.
+OTHER SIDE: Kafka stands up and he's inside a big filing cabinet He steps out of it and looks around. He's in an entire room full of file cabinet drawers. A morgue of file cabinet drawers. He shuts the one he came out of before walking away. "D-7" says the label on the outside of it.
+GAUNT MAN: You've killed him! Like a dog!
+GAUNT MAN: They won't like that. Not a bit!
+KAFKA: I didn't
 GAUNT MAN: You'll incriminate the rest of us! Let me out too!
-HORRIBLE VOICES: Help us! -- release us!
-GAUNT MAN: (yelling above the din) You're in the bowels now, my friend! You've thrown yourself in it now!
-GAUNT MAN: Let haven't treated me yet!  We can go together!
+HORRIBLE VOICES: Help us! release us!
+GAUNT MAN: ( yelling above the din ) You're in the bowels now, my friend! You've thrown yourself in it now!
+GAUNT MAN: haven't treated me yet! We can go
+MR. PICK: Kafka yanks the lever and runs away. Mr. Pick FIRES after him, starting to chase but the prisoners are coming out of their cells coming for him.
+ANOTHER FLOOR: Here is a part of the Castle Kafka can understand office workers toiling away. Kafka walks past one long row of them, SCRIBES sitting at a single endless desk. They look like students under examination, hunched over their writing, a virtual conveyor belt of paperwork. In the center of this floor is an actual conveyor a chain pulley running slowly up and down, presumably throughout the entire Castle, through small holes in the floor and ceiling. There are little pockets on the chain which the clerks continually pluck papers out of and slip papers into. The ink bottle of one of the scribes runs dry. He takes it over to a sink with three taps Hot, Cold and the third one he turns Ink.
+CORRIDOR: Kafka passes a FRIENDLY CLERK.
 FRIENDLY CLERK: Are you lost?
-KAFKA: I'm, uh, looking for the Medical Records Section.
-FRIENDLY CLERK: Oh, you're miles away.  From here you'll want to go left, left again, right, right again, left then right, right then left, and take the Blue Staircase.
+KAFKA: I'm, uh, looking for the Medical Records Section. Oh, you're miles away. From here you'll want to go left, left again, right, right again, left then right, right then left, and take the Blue Thank you.
+FRIENDLY CLERK: Oh, you're miles away. From here you'll want to go left, left again, right, right again, left then right, right then left, and take the Blue Thank you.
 KAFKA: Thank you.
-FRIENDLY CLERK: (going on his way) -- I haven't seen you here before.
-KAFKA: No ...
-KAFKA: ... I'm new.
-MURNAU: I assume you're wondering ... what all this has been about.
-KAFKA: Are you the Head of Medical Records?
-MURNAU: (to Ekman) He's come on his own initiative. (to Kafka) -- Not something we encourage, mind you, but we like to know it exists.
-MURNAU: What it amounts to is simply this ...
-MURNAU: A piece of paper was delivered to the wrong clerk.  It was essential he bring it back to us.  These complications have arisen because he had friends -- like you, among others -- friends unlikely to let a sleeping dog lie.
-KAFKA: ... A piece of paper ...
-MURNAU: A mere slip. (coming forward) Your friend Mr. Raban dealt only with claims that came in, another department being responsible for compensation that goes out -- this is correct?
-MURNAU: (not quite in the light yet) Through a very unfortunate -- and I might add extremely rare -- mishap, a document intended for the one department was sent to the other.  And for the first time -- though your friend wasn't aware of it -- two and two could have been put together to make one.
-KAFKA: (again) ... A piece of paper ...
-MURNAU: (face bending into the light) You see, Kafka, in all cases relating to the factory at Orlac -- which is what this paper referred to -- the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority.
-MURNAU: -- You seem amused.
+FRIENDLY CLERK: ( going on his way ) I haven't seen you here before.
+KAFKA: No .
+KAFKA: He stands there, a man in a suit with a briefcase in an antiseptic corridor.
+KAFKA: . I'm new.
+UNDERGROUND CELLS: Mr. Pick leans against a door, trying to keep back the howling horde of prisoners pushing from the other side. Another JAILER joins him, helping him to try and push the door closed. Then a SECOND JAILER too. A bestial hand reaches through and Mr. Pick presses his pistol muzzle into the outstretched palm
+BANG!: A book falls to the floor like a pistol-shot and Kafka hides back in shadows hoping no one heard. He's in a Surrounded by books from floor to ceiling, even on the tall door through which he entered. A sliver of light gives it away and on the other side of it he hears FOOTSTEPS. But they pass by. There's another sliver of light indicating another door in the books opposite him. He walks over and pulls on the shelves. Here the dark wood is merely a disguising cover for the shiny modern steel he discovers on the other side of it And he finds more than that as he enters
+LIBRARY: Surrounded by books from floor to ceiling, even on the tall door through which he entered. A sliver of light gives it away and on the other side of it he hears FOOTSTEPS. But they pass by. There's another sliver of light indicating another door in the books opposite him. He walks over and pulls on the shelves. Here the dark wood is merely a disguising cover for the shiny modern steel he discovers on the other side of it And he finds more than that as he enters
+THE LABORATORY: A real mad scientist's workshop. Chemicals of bizarre colors rush and FIZZ through mazes of glass pipes and beakers, in some places boiling and steaming, in others frosting or freezing. Circuits and test tubes flash and glow as sparks and filamentary arcs CRACKLE with electric incandescence. insane instruments and devices, interconnected with complex wires, perform strange and villainous functions. It's the most modern setting we've yet seen but at the same time all this futuristic technology seems somehow archaic, as if put together from old, familiar materials and elements, both eccentric and eclectic. The chain that runs through the floors of the Castle carrying documents runs up and down through the laboratory too. Amidst this feast for the eyes, what Kafka now focuses in on a simple cigarette left smoking in an ashtray. And by the look of the ash, not very long ago. Kafka looks around anxiously notices an archway leading to another room.
+UNDERGROUND CRYPT: Mr Pick and the two Jailers can't hold back the dreadful prisoners any longer. Mr. Pick runs, letting the Jailers fend for themselves.
+MAIN LAB: Holding himself together, and with new determination etched on his face, Kafka walks to the center of the lab and an operating table. Ignoring the implications of the table, he sets down the bomb-briefcase flicking the latches to open The sight of the explosive mechanism inside causes him a moment's hesitation, but a look round at various animal parts hanging from hooks above the table or bobbing in jars alongside sinister implements laid out in preparation for an operation renews his anger and he decisively turns the dial on the bomb's timer-clock, setting it to the maximum allowance of one hour. He closes the case and locks its latches. The case begins to
+CORRIDOR: Kafka tries finding his way back the way he came.
+MURNAU: I assume you're wondering . what all this has been about.
+KAFKA: Are you the Head of Medical
+MURNAU: ( to Ekman ) He's come on his own initiative. ( to Kafka ) Not something we encourage, mind you, but we like to know it exists.
+MURNAU: What it amounts to is simply this . A piece of paper was delivered to the wrong clerk. It was essential he bring it back to us. These complications have arisen because he had friends like you, among others friends unlikely to let a sleeping dog lie. . A piece of paper .
+MURNAU: A piece of paper was delivered to the wrong clerk. It was essential he bring it back to us. These complications have arisen because he had friends like you, among others friends unlikely to let a sleeping dog lie. . A piece of paper .
+KAFKA: . A piece of paper .
+MURNAU: A mere slip. Your friend Mr. Raban dealt only with claims that came in, another department being responsible for compensation that goes out this is correct?
+MURNAU: ( not quite in the Through a very unfortunate and I might add extremely rare mishap, a document intended for the one department was sent to the other. And for the first time though your friend wasn't aware of it two and two could have been put together to make one.
+KAFKA: ( again ) . A piece of paper .
+MURNAU: ( face bending into You see, Kafka, in all cases relating to the factory at Orlac which is what this paper referred to the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority.
+UNDERGROUND CRYPTS: Mr. Pick runs from the crazed prisoners chasing him. Fires his gun back at them, dropping one or two but then runs out of bullets. The prisoners slowly surround him. He backs away. One of those chains that run throughout the Castle has its base here. Mr. Pick keeps backing up, unavoidably, the deranged prisoners closing in until he falls backwards with a cry into the grinding wheels of the chain-system. Caught up in the chain, he's carried aloft with it, up to the ceiling. The chain is the lifeline of the Castle and does not, could not, ever stop. Instead it forces Mr. Pick to go along with it, his head CRACKING through the glass or wood "manhole" cover through which the chain passes.
+MURNAU'S OFFICE: Kafka tries not to flinch in the presence of this deadly
+MURNAU: You seem amused.
 KAFKA: It only amuses me in that it gives me an insight into the ludicrous bungling that in some circumstances may decide the life of a human being.
-MURNAU: It's merely a matter of expediency.  It's imperative that my room to maneuver not be hindered by ... bureaucratic ramifications.
-MURNAU: -- If an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident -- and should he tragically die in spite of the District Medical Officer's strenuous efforts to save him -- the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible ... efficiency.
-KAFKA: (becoming clearer) "Accident and Compensation" -- no one can accuse the firm of not supplying exactly what it promises.
-MURNAU: (to Ekman) I believe we've exceeded his expectations.
-KAFKA: (virtually to himself) I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every ... authority I could see. (looks up) And I find you.  A body snatcher.
+MURNAU: It's merely a matter of expediency. It's imperative that my room to maneuver not be hindered by . bureaucratic
+MURNAU: If an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident and should he tragically die in spite of the District Medical Officer's strenuous efforts to save him the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible . efficiency.
+KAFKA: ( becoming clearer ) "Accident and Compensation" no one can accuse the firm of not supplying exactly what it ( to Ekman ) I believe we've exceeded his ( virtually to I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every . authority I could ( looks up ) And I find you. A body snatcher.
+MURNAU: ( to Ekman ) I believe we've exceeded his ( virtually to I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every . authority I could ( looks up ) And I find you. A body snatcher.
+KAFKA: ( virtually to I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every . authority I could ( looks up ) And I find you. A body snatcher.
 MURNAU: Life is more than a Chinese puzzle, my friend.
-KAFKA: And I suppose Dr. Murnau didn't die in a cave-in.  You killed him to free the Position of Orlac Medical Officer for your own ends.
-MURNAU: Yes, well -- we're looking for a new village now.  If we stay too long at one source ... people become suspicious.
-MURNAU: But you're quite right that he didn't die in that cave-in. In fact, he didn't die at all. He was simply recalled -- by himself.  As well as being Head of Medical Records here and a Director of your firm -- I'm Dr. Murnau, of course.
+CASTLE CORRIDOR: Kafka walks along with Murnau and Ekman. The Laughing Man holds Kafka's arm.
+KAFKA: And I suppose Dr. Murnau didn't die in a cave-in. You killed him to free the Position of Orlac Medical Officer for your own ends.
+MURNAU: Yes, well we're looking for a new village now. If we stay too long at one source . people become suspicious.
+MURNAU: But you're quite right that he didn't die in that cave-in. In fact, he didn't die at all. He was simply recalled by himself. As well as being Head of Medical Records here and a Director of your firm I'm Dr. Murnau, of course.
+LIBRARY: The Laughing Man, subdued for a moment, merely smiles a little, opening the door to let Kafka in first, guarding him close. Dr. Murnau then leads the way across to his laboratory door.
 MURNAU: May I ask where your two warders are?
 KAFKA: Lying in the gutter where they belong.
-MURNAU: Pity.  They're an amusing pair, didn't you find?  Absolute innocents.
-MURNAU: I so rarely get the chance of showing my work to anybody -- anybody capable of appreciating it, that is.  You might say I'm a student of human reaction.
+MURNAU: Pity. They're an amusing pair, didn't you find? Absolute
+LABORATORY: Murnau spreads his hands proudly as they enter, displaying his amazing factory.
+MURNAU: I so rarely get the chance of showing my work to anybody anybody capable of appreciating it, that is. You might say I'm a student of human reaction. The fact that it's live bodies you practice your trade on doesn't seem to matter to you.
 KAFKA: The fact that it's live bodies you practice your trade on doesn't seem to matter to you.
-MURNAU: On the contrary, it matters a great deal.  We're engaged in immensely important research here.  I'm a revolutionary too, you know -- but a much more pragmatic one.
-MURNAU: -- I can't very well administer experimental treatments to corpses -- and if they become corpses, why, they have their uses too -- that's why speed is essential.  Living tissue, even if its owner has passed on, is our most valuable acquisition.
-MURNAU: We've tried transfusions on our ... volunteers.  Unfortunately, far from infusing superior characteristics it's tended to make them insane -- murderous even -- a condition we've had occasion to make use of.
-MURNAU: -- And the new patients they bring me aren't usually as dexterous as you've been in evading us.  Not perfect specimens by any means, but not the type of person who'll be missed either.
+MURNAU: On the contrary, it matters a great deal. We're engaged in immensely important research here. I'm a revolutionary too, you know but a much more pragmatic one.
+MURNAU: I can't very well administer experimental treatments to corpses and if they become corpses, why, they have their uses too that's why speed is essential. Living tissue, even if its owner has passed on, is our most valuable acquisition.
+MURNAU: We've tried transfusions on our . volunteers. Unfortunately, far from infusing superior characteristics it's tended to make them insane murderous even a condition we've had occasion to make use of.
+THE LAB: Murnau walks to where the elaborate distillation processes are going on. The very section where Kafka hid the bomb. Kafka wipes his brow, quickly, conscious of Ekman staring at him. Murnau gazes obsessively at his contraptions, his piercing eyes following the routes of the flowing chemicals.
+MURNAU: And the new patients they bring me aren't usually as dexterous as you've been in evading us. Not perfect specimens by any means, but not the type of person who'll be missed either.
 KAFKA: What have you done with Gabriela Rossmann?
-MURNAU: As a matter of fact you've caught us in a state of considerable excitement.  Our latest preparation we believe -- we pray -- is perfected. It should take years off her.
-MURNAU: And if not -- well, there are always what I call my caprices of vivisection.
-MURNAU: Actually, if it weren't for the aberrant dilemma posed by someone like yourself -- continually asking for out-of-date files -- I'd probably give up my revisionist policies altogether. I'm sure what we have to do is start instead at the very inception -- with the embryo -- from a single cell even. (leers at Kafka) The lure of the Golem -- the man-made man.  You appreciate that, I know.
-MURNAU: To corrupt the image of man and then offer redemption ... This is the dawn, Kafka.  A new man is being born here.  A more resilient man ... A superman.
-MURNAU: To a new world -- of Gods and monsters.
-LUDWIG: (pulls open a drawer) Oskar!
-OSKAR: (turning from another) Ludwig?
+MURNAU: As a matter of fact you've caught us in a state of considerable excitement. Our latest preparation we believe we pray is perfected. It should take years off her.
+MURNAU: And if not well, there are always what I call my caprices of vivisection.
+MURNAU: Actually, if it weren't for the aberrant dilemma posed by someone like yourself continually asking for out-of-date files I'd probably give up my revisionist policies altogether. I'm sure what we have to do is start instead at the very inception with the embryo from a single cell even. The lure of the Golem the man-made man. You appreciate that, I know.
+MURNAU: To corrupt the image of man and then offer redemption . This is the dawn, Kafka. A new man is being born here. A more resilient man . A superman.
+MURNAU: To a new world of Gods and monsters.
+KAFKA: Throws Ekman aside and runs away.
+EKMAN: Falls to the floor, holding his hands up over his head with a SCREAM as the ghastly creatures from the depths converge on him but they pass him by intent on getting Murnau. The last out of the elevator is the most horrible BEAST-MAN yet and we finally see the use to which various animal-parts have been put.
+MURNAU: Just stands by the operating table, waiting for them. He knows there's no way out and he's far too practical a man to waste energy running or screaming.
+DOORWAYS: Kafka running through the Castle, through door after door after door after door, leaving them all banging behind him, back and forth.
+THE LABORATORY: Ekman stumbles to his feet, watching in horror as the prisoners of the Castle strap Murnau to his own operating One by one, the prisoners file past the intricate surgical tools neatly laid out on white cloth. Each prisoner selects the implement of his choice. Ekman, too, runs away out of the laboratory. The Laughing Man, snickering, isn't sure whose side he's on. But then, LAUGHTER BUILDING, he goes to join the others in Kafka still running in the maze through a final door. And he finds himself right back in
+DOORWAYS: Kafka still running in the maze through a final door. And he finds himself right back in
+THE LIBRARY: With the brightness of the laboratory facing him through its open door. Horrible SOUNDS coming from in there.
+KAFKA: Running again, through the maze of corridors. He HEARS running footsteps behind him looks back to see Ekman running after him. Ekman catches up but runs past Kafka in his panic to escape out onto a metal walkway around a central area of offices.
+THE LABORATORY: Murnau can't be seen, only the deranged men huddled closely around the operating table.
+THE LABORATORY: Totally wrecked and jutting out of the broken walls are burst pipes spurting red, blue, and black INK everywhere.
+THE LABORATORY: The burst ink pipes drip empty. The sound of maniacal LAUGHTER abruptly stops. The ink has filled the lab halfway to the ceiling. It's covered everything and every . body. A last bubble pops, leaving a lake of ink with a surface smooth as glass.
+LUDWIG: ( pulls open a drawer ) ( turning from another )
+OSKAR: ( turning from another )
 LUDWIG: This is filed incorrectly!
-OSKAR: Here too!  They're all in a dreadful muddle!
-KAFKA: Gabriela! -- you did get away.
-GABRIELA: I knew you walked this way to work.  I wanted to find you before they did.
-KAFKA: -- I've just come from the Castle.  It's over.
-GABRIELA: (her eye glancing far away) Over?  It's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.
-KAFKA: Gabriela ...?
-GABRIELA: Should I tell you why I joined our late lamented nihilists? Why I became a murderer? Because murder ... is bliss. (looks at him) It's easier than you might think to absorb and assimilate Evil -- once you've adopted its procedure.
-GABRIELA: Have you ever watched a person deteriorate?  Day by day.  I don't mean in a spiritual sense.
-GABRIELA: Only two steps back?  Even the man they left to guard me retreated further than that.
-KAFKA: I -- I found your jailer.
-GABRIELA: This is the result of their elixir of youth.  They were to come and check on it during the night.  I contrived to miss the appointment.
-KAFKA: They're dead now.  We can get help.
-GABRIELA: I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon -- with all the others.
-KAFKA: There's a new potion -- he said it was perfected.
-GABRIELA: I know there is.  And you're what I have to bargain with. For now you're the last one in their way.
-KAFKA: I told you, they're finished.
-GABRIELA: Why should I believe a man who never believed me?  They're absolutely right, you know -- guilt should never be doubted. It's easier that way.
-GABRIELA: I think you've just escaped for the moment.  Just as I did.  As Eduard did.  As they let us do. But only for the moment.
-KAFKA: No -- not this time.
-GABRIELA: I know better than you what people will say when they have to.  When they brought me in for questioning I informed on my friends the very first day.
-KAFKA: -- Listen to me --
-GABRIELA: I do.  Always.  You understand the world better than any of us, Kafka.  And what it's becoming. (pause) I've always held you in the highest regard.
-KAFKA: -- Gabriela!
-KAFKA'S VOICE: Dearest Father ...
-KAFKA'S VOICE: You asked me recently why I maintain that I am afraid of you ...
-KAFKA'S VOICE: Naturally things cannot in reality fit together the way the evidence does in my letter -- life is more than a Chinese puzzle.  But in my opinion something has been achieved which so closely approximates the truth that it might reassure us both a little and make our living and our dying easier.
-LUDWIG: We could go back to the office. Explain ourselves to the Chief Clerk.
-OSKAR: They'd drive us away.  That Kafka's made things very hot for us.
+OSKAR: Here too! They're all in a dreadful muddle!
+CASTLE COURTYARD: He and his men pause, reacting . . as the few wretched survivors of the Castle prison stagger out of the shadows to greet them.
+KAFKA: Walks slowly, tiredly. He looks up at the sky, but the sky is a silver shield against anyone who looks for help from it.
+FURTHER ON: Kafka stops. Turns. Did he hear something other than the wind and the water?
+FURTHER ON: He passes through a small park, approaching a gate on the other side of it. Leaves RUSTLING. Mist swirling around him. He opens the gate and BOO!
+GABRIELA: Standing there, half in shadow, in profile. Her glorious
+KAFKA: Gabriela! you did get away.
+GABRIELA: I knew you walked this way to work. I wanted to find you before they did.
+KAFKA: I've just come from the Castle. It's over.
+GABRIELA: ( her eye glancing Over? It's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.
+KAFKA: Gabriela .?
+GABRIELA: Should I tell you why I joined our late lamented nihilists? Why I became a murderer? Because murder . is bliss. It's easier than you might think to absorb and assimilate Evil once you've adopted its
+GABRIELA: Have you ever watched a person deteriorate? Day by day. I don't mean in a spiritual sense.
+GABRIELA: Only two steps back? Even the man they left to guard me retreated further than that.
+KAFKA: I I found your jailer.
+GABRIELA: This is the result of their elixir of youth. They were to come and check on it during the night. I contrived to miss the appointment.
+KAFKA: They're dead now. We can get help.
+GABRIELA: I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon with all the others.
+KAFKA: There's a new potion he said it was perfected.
+GABRIELA: I know there is. And you're what I have to bargain with. For now you're the last one in their way.
+KAFKA: I told you, they're Why should I believe a man who never believed me? They're absolutely right, you know guilt should never be doubted. It's easier that way.
+GABRIELA: Why should I believe a man who never believed me? They're absolutely right, you know guilt should never be doubted. It's easier that way.
+GABRIELA: I think you've just escaped for the moment. Just as I did. As Eduard did. As they let us do. But only for the moment.
+KAFKA: No not this time.
+GABRIELA: I know better than you what people will say when they have to. When they brought me in for questioning I informed on my friends the very first day.
+KAFKA: Listen to me
+GABRIELA: I do. Always. You understand the world better than any of us, Kafka. And what it's I've always held you in the highest regard.
+KAFKA: She comes after him, blade glistening. Kafka does his best to run.
+THE BRIDGE: Kafka giddily staggers forward, one arm wrapped around his bleeding chest, Gabriela close behind him. Too close for him to get away. He turns to face her as he reaches the bridge and as she comes upon him again with the knife, raising his arm to block the thrust and hold her wrist back. She's strong, though, made more so by her madness. She forces him down to the ground, straddling him, the knife pushing closer. Kafka gasps in pain, finally succumbs, no longer able to hold his hand up in defense, simply shutting his eyes with a terrible sigh to await the fatal stab. It doesn't come. Almost. But not quite. Gabriela's arm pauses, shaking in the cool, cloudy air, her sleeve trembling in the breeze off the River, the sharp blade, inches from Kafka's throat, flashing in the new day's light. Gabriela stares away over the River, the destroyed half of her face in shadow again, the other more strikingly beautiful than ever. As Kafka watches, passive, she gets off him and slowly walks to the wall of the bridge, letting the knife drop from her hand along the way. Kafka manages to lift himself to his knees, clutching his wound. He looks up. Gabriela in one graceful movement climbs over the wall and throws herself into the River. Kafka lowers his head.
+KAFKA'S VOICE: Dearest Father . You asked me recently why I maintain that I am afraid of you .
+KAFKA'S VOICE: You asked me recently why I maintain that I am afraid of you .
+KAFKA'S VOICE: Naturally things cannot in reality fit together the way the evidence does in my letter life is more than a Chinese puzzle. But in my opinion something has been achieved which so closely approximates the truth that it might reassure us both a little and make our living and our dying easier.
+FADE OUT: FADE IN WATERFRONT WHARVES - MORNING The Assistants sit on a big packing crate, brushing soot from their suits, shaking dust out of their hair, fiddling with the rips in their jackets and trousers.
+FADE IN: WATERFRONT WHARVES - MORNING The Assistants sit on a big packing crate, brushing soot from their suits, shaking dust out of their hair, fiddling with the rips in their jackets and trousers.
+LUDWIG: We could go back to the office. Explain ourselves to the Chief They'd drive us away. That Kafka's made things very hot for us.
+OSKAR: They'd drive us away. That Kafka's made things very hot for us.
 LUDWIG: I understand he was wounded in the lung.
-OSKAR: (sulky) It doesn't matter.  It's too late for all of us.
-LUDWIG: (looks at O.) What's to become of us now?
-OSKAR: (looks at L.) Amerika.  That's the place to go.
+OSKAR: ( sulky ) It doesn't matter. It's too late for all of us.
+LUDWIG: ( looks at O. ) What's to become of us now?
+OSKAR: ( looks at L. ) Amerika. That's the place to go.
 LUDWIG: Everyone in Amerika has a toaster in their building!
 OSKAR: Then that's the place for us!
 LUDWIG: Amerika for us!
-OSKAR: Amerika!
+OSKAR: And, linking arms, they do a strange dance along the quay . Writers : Lem Dobbs

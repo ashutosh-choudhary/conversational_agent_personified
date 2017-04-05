@@ -2352,8 +2352,7 @@
 <b>          GUERILLAS
 </b>
 <b>          (SUBTITLES)
-</b>          &lt; We have heard an explosion, in the
-          northern sector.&gt;
+</b>          
 
 <b>          A UNKNOWN VOICE
 </b>          (crackling over walkie

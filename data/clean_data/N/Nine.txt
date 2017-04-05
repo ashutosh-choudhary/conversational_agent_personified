@@ -1,624 +1,655 @@
-NINE: Written by Michael Tolkin & Anthony Minghella November 11, 2009
-GUIDO: You kill your film several times, mostly by talking about it. A film is a dream. You kill it writing it down, you kill it with a camera; the film might come to life for a moment or two when your actors breathe life back into it - but then it dies again, buried in film cans. Mysteriously, sometimes, in the editing room, a miracle happens when you place one image next to another so that when, finally, an audience sits in the dark, if you're lucky -- very lucky - and sometimes I've been lucky - the dream flickers back to life again. That's why I'm secretive.
-REPORTER (O.S.): So what's your favorite pasta?
+NINE: Written by
+GUIDO: You kill your film several times, mostly by talking about it. A film is a dream. You kill it writing it down, you kill it with a camera; the film might come to life for a moment or two when your actors breathe life back into it - but then it dies again, buried in film cans. Mysteriously, sometimes, in the editing room, a miracle happens when you place one image next to another so that when, finally, an audience sits in the dark, if you're lucky very lucky - and sometimes I've been lucky - the dream flickers back to life again. That's why I'm secretive.
 GUIDO: Finally, a serious question.
-STUDIO SUPERINTENDENT: Good luck, Maestro. p. 2
-GUIDO (V.O.): Maestro, Maestro, Maestro Contini... How do you begin? How do you begin this thing? Page 1... Page 1... Page 1... Page nothing...
-DANTE: (walking) Guido! You're here.
+NINE: INT. STAGE 5, CINECITTA - NIGHT A huge soundstage. The STUDIO SUPERINTENDENT lets a man into the stage, turns on a working light. SUPERTITLE: Cinecitta film studios, Rome, 1965
+STUDIO SUPERINTENDENT: Good luck, Maestro. Maestro, Maestro, Maestro Contini. How do you begin? How do you begin this thing? Page 1. Page 1. Page 1. Page nothing.
+DANTE: ( walking ) Guido! You're here.
 GUIDO: Buongiorno, Dante.
 DANTE: I've been looking for you all over the place. The set's coming along. How are you?
 GUIDO: Bene, grazie, bene.
 DANTE: Bene. My God, you look terrible, better go to makeup, forget you've got a press conference?
-FAUSTO: (discreetly, to Dante) He has no tie.
+FAUSTO: ( discreetly, to Dante ) He has no tie.
 DANTE: Yes, makeup and wardrobe.
-FAUSTO: (overlapping Dante) Signor Contini, I'm Fausto.     Good morning, Signor Contini. p. 4
-DANTE: (interrupts) He's counting costs, you know. The Bank wants him here. (to Fausto) Don't speak to him, I speak to him.
-FAUSTO: Okay, I have some questions for Signor Contini.
-GUIDO: We all have questions for Signor Contini.
-FAUSTO: Yes, but please, please, I think it's customary for there to be an approved script and budget before filming commences...
+FAUSTO: ( overlapping Dante ) Signor Contini, I'm Fausto. Good morning, Signor Contini.
+DANTE: ( interrupts ) He's counting costs, you know. The Bank wants him here. ( to Fausto ) Don't speak to him, I speak to him.
+FAUSTO: Okay, I have some questions for Signor We all have questions for Signor
+GUIDO: We all have questions for Signor
+FAUSTO: Yes, but please, please, I think it's customary for there to be an approved script and budget before filming Is he going to follow us?
 GUIDO: Is he going to follow us?
-FAUSTO: It's not my intention to be difficult. Maestro, I am a huge admirer of Maestro Contini's movies, your early films are...everybody loves them and... I consider it a great honour for me to be here now... none the less, I need a script and a budget.
+FAUSTO: It's not my intention to be difficult. Maestro, I am a huge admirer of Maestro Contini's movies, your early films are.everybody loves them and. I consider it a great honour for me to be here now. none the less, I need a script and a budget.
 PIERPAOLO: Where do you want your messages?
 GUIDO: On my desk.
 PIERPAOLO: There's no room on your desk.
-GUIDO: Under my desk. In the trash. Non lo so.
-PIERPAOLO: (waving them at him) Some of these are urgent!
-GUIDO: (to Pierpaolo) Get me a cigarette.
-JACONELLI: (confidentially) We will never be ready to shoot in ten days.
+GUIDO: Under my desk. In the trash. Non lo Some of these are urgent!
+PIERPAOLO: ( waving them at him ) Some of these are urgent!
+GUIDO: ( to Pierpaolo ) Get me a cigarette.
+JACONELLI: ( confidentially ) We will never be ready to shoot in ten Jaconelli -
 GUIDO: Jaconelli -
-FAUSTO: (at the same time) Not ready?!
-GUIDO: (continues) Ascolta me.
-(MORE): p. 6
-GUIDO (CONT'D): (he kisses Jaconelli on the cheek) Careful what you say. He's a spy from the bank.
+FAUSTO: ( at the same time ) Not ready?!
+GUIDO: ( continues ) Ascolta me.
 DANTE: He's not exactly from the bank, Guido.
-BENITO: Dottore, Dottore. You have actors waiting for you in your office. Auditions all morning. You should see what I've found. I found two sisters. Look, they're right...
-BENITO (CONT'D): Dottore, this way...
-BENITO (CONT'D): Maestro!
-DANTE: Not now. He's got the Press Conference.
-GUIDO: I need a cigarette. p. 7
+BENITO: Dottore, Dottore. You have actors waiting for you in your office. Auditions all morning. You should see what I've found. I found two sisters. Look, they're right.
+DANTE: Not now. He's got the Press
+GUIDO: I need a cigarette.
 DANTE: He needs a shirt and tie, Lilli.
 GUIDO: I need a coffee and a cigarette.
-LILLI: (unimpressed) Answer a question, I'll give you a coffee. Answer another question, I'll give you a cigarette. And so on.
-GUIDO: Actually and an aspirin.
-DANTE: (in the background, on the phone) We're running late...
-LILLI: (turns to Guido and lights a cigarette) Calm down. Directing a movie is a very overrated job, we all know it. You just have to say yes or no. What else do you do? Nothing. Maestro - Should this be Red? Yes. Green? No. More extras? Yes. More lipstick? No. Yes, no, yes, no, yes, no - that's directing.
-GUIDO: That's right: that's directing. And it doesn't seem to make a blind bit of difference, finally, what the answer is...
+LILLI: ( unimpressed ) Answer a question, I'll give you a coffee. Answer another question, I'll give you a cigarette. And so on.
+GUIDO: Actually and an aspirin. We're running late.
+DANTE: ( in the background, on the We're running late.
+LILLI: ( turns to Guido and lights Calm down. Directing a movie is a very overrated job, we all know it. You just have to say yes or no. What else do you do? Nothing. Maestro - Should this be Red? Yes. Green? No. More extras? Yes. More lipstick? No. Yes, no, yes, no, yes, no - that's
+GUIDO: That's right: that's directing. And it doesn't seem to make a blind bit of difference, finally, what the answer So please, Guido, yes or no, do you want any costumes in this film?
 LILLI: So please, Guido, yes or no, do you want any costumes in this film?
-GUIDO: Yes. p. 8
-LILLI: You see - simple! (handing him an espresso fetched by her assistant,
-ROBERTA): Might I know what period the movie's in?
-GUIDO: Yes, yes. (downs the espresso) Soon.
-LILLI: You know I don't allow producers in here.
+GUIDO: p. 8
+LILLI: You see - simple!
+ROBERTA ): Might I know what period the movie's
+GUIDO: Yes, yes.
+LILLI: You know I don't allow producers in Alright. Two minutes Guido.
 DANTE: Alright. Two minutes Guido.
 LILLI: He's gone. Have you written a word of the script?
-GUIDO: No.
+GUIDO: Are you in a panic?
 LILLI: Are you in a panic?
-GUIDO: Yes.
-LILLI: Is Luisa going with you to the Press Conference?
-GUIDO: No. Nobody. Dante.    And his spy.
-LILLI: You need to shave.    You look terrible. p. 9
-GUIDO: (looking around, desperate) Why is there no fire escape in here? What if somebody needed to escape? I can't face these reporters. I have nothing to say.
+GUIDO: She ties Guido's tie for him.
+LILLI: Is Luisa going with you to the Press No. Nobody. Dante. And his spy.
+GUIDO: No. Nobody. Dante. And his spy.
+LILLI: You need to shave. You look terrible.
+GUIDO: ( looking around, Why is there no fire escape in here? What if somebody needed to escape? I can't face these reporters. I have nothing to say.
 LILLI: You'll be fine. You're a world class liar, darling, go out there and lie for Italy, lie for Italia.
 GUIDO: What the hell's wrong with me? I can't sleep. I can't think. I can't write. I can't breathe. My heart is racing. Am I dying, Mamma? I owe you flowers, I know. I'll come to the cemetery at the weekend. You should have let me bury you in Roma, Mamma, I could visit you every week. Don't look at me like that.
-MAMMA: (with kindly patience) Oh, Guido, Guido.
+MAMMA: ( with kindly patience ) Oh, Guido, Guido.
 MAMMA: This is your Rome, Guido. The world sees Rome the way you invented it. Your films did that.
-GUIDO: (buoyed by her encouragement) I miss you.
+GUIDO: ( buoyed by her I miss you.
 MAMMA: I miss you, too.
-RADIO REPORTER: And we're just waiting for the arrival of Contini...any moment now - Could this film put the Maestro back on top?
-RADIO REPORTER (CONT'D): And here he is..! p. 11
-DANTE: Silenzio, per favore...Thank you, thank you...
-RADIO REPORTER: Dante, Guido Contini's long time producer, is about to speak...
-DANTE: I want to say a few words from my heart. I am humbled and thrilled to be able to announce that I am producing Guido Contini's next film, Italia, which will star once again Contini's longtime inspiration, the international film star, Claudia Jenssen...
-DANTE (CONT'D): ...we start shooting in ten days time in Cinecitta. That makes it one week from Monday. (to Guido, handing over) Thank you, Maestro, thank you very much. This is our ninth film together. Guido Contini.
+RADIO REPORTER: And we're just waiting for the arrival of Contini.any moment now - Could this film put the Maestro back on top?
+DANTE: Silenzio, per favore.Thank you, thank you.
+RADIO REPORTER: Dante, Guido Contini's long time producer, is about to speak.
+DANTE: I want to say a few words from my heart. I am humbled and thrilled to be able to announce that I am producing Guido Contini's next film, Italia, which will star once again Contini's longtime inspiration, the international film star, Claudia
 GUIDO: Thanks for coming, everybody.
 DINARDO: Maestro Contini. Maestro Contini.
-GUIDO: Yes.
-DINARDO: Grazie. Maestro Contini, your new film is called Italia... big title. p. 12
+GUIDO: Grazie. Maestro Contini, your new film is called Italia. big title.
+DINARDO: Grazie. Maestro Contini, your new film is called Italia. big title.
 GUIDO: Actually, it's my shortest title yet.
 DINARDO: But hardly a modest one.
 GUIDO: Films are not modest. They cost too much, they take too long, and they involve too many people. So they should have grand titles.
 DINARDO: And might you tell the press what the film is about?
 GUIDO: Why? I still don't know what my last film was about.
-LEOPARDI: (In a loud aside to Dinardo) That was the problem. Nobody else did.
-GUIDO: Of course I can tell you what my film is about...I can tell you the story, I can tell you who I am going to cast, the music I want to use, I can tell you everything... but... I... won't. I'm afraid that if I say anything, the word might get out to the Press.
+LEOPARDI: ( In a loud aside to That was the problem. Nobody else did.
+GUIDO: Of course I can tell you what my film is about.I can tell you the story, I can tell you who I am going to cast, the music I want to use, I can tell you everything. but. I. won't. I'm afraid that if I say anything, the word might get out to the Press. Our next film will be exactly as it sounds. Italia. It's the very spirit of Italy - Italy as myth, Italy as a woman, Italy as a dream.
 DANTE: Our next film will be exactly as it sounds. Italia. It's the very spirit of Italy - Italy as myth, Italy as a woman, Italy as a dream.
 LEOPARDI: Is this true?
-GUIDO: It sounds fantastic.    I can't wait to see it. p. 13
+GUIDO: It sounds fantastic. I can't wait to see it.
 STEPHANIE: Signor Contini.
-GUIDO: Stephanie.
+GUIDO: Grazie. Could you tell the fashionable women of America who your favorite designer is this year?
 STEPHANIE: Grazie. Could you tell the fashionable women of America who your favorite designer is this year?
 GUIDO: I'm less interested in the wrapping than what might be inside it.
-REPORTER ONE: Signor Contini! You're a man of the world, yes? Educated in Britain, a home in Biarritz. With Italia is it fair to say that you've come home for good?
-REPORTER TWO (O.S.): (tries to interrupt) What do you think of the New Wave in the French Cinema?
+REPORTER ONE: Signor Contini! You're a man of the world, yes? Educated in Britain, a home in Biarritz. With Italia is it fair to say that you've come home for What do you think of the New Wave in the French Cinema?
 GUIDO: For good?
 REPORTER FOUR: It's been a long time since you made a movie with your wife, do you plan on casting her in this new film?
 GUIDO: I told Luisa that when we got married I would never again make love to my leading lady.
 REPORTER FOUR: But she hasn't worked at all since working with you.
-REPORTER FIVE: But why are you being so tight-lipped about this film? It's a serious question. What's the big deal? p. 14
-GUIDO: You want me to be serious? In a Press Conference?
-GUIDO: I thought I was the clown in this circus.
-LEOPARDI: Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were...
-GUIDO: Flops.
-LEOPARDI: Your word. Flops. p. 15
-LEOPARDI: I'm just asking if you're nervous? You seem nervous...
+REPORTER FIVE: But why are you being so tight-lipped about this film? It's a serious question. What's the big deal?
+GUIDO: I WOULD LIKE TO BE HERE. You want me to be serious? In a Press I WOULD LIKE TO BE THERE I thought I was the clown in this I WOULD LIKE TO BE EVERYWHERE AT ONCE I KNOW THAT'S A CONTRADICTION IN Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+GUIDO: You want me to be serious? In a Press I WOULD LIKE TO BE THERE I thought I was the clown in this I WOULD LIKE TO BE EVERYWHERE AT ONCE I KNOW THAT'S A CONTRADICTION IN Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+GUIDO: I WOULD LIKE TO BE THERE I thought I was the clown in this I WOULD LIKE TO BE EVERYWHERE AT ONCE I KNOW THAT'S A CONTRADICTION IN Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+GUIDO: I thought I was the clown in this I WOULD LIKE TO BE EVERYWHERE AT ONCE I KNOW THAT'S A CONTRADICTION IN Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+GUIDO: I WOULD LIKE TO BE EVERYWHERE AT ONCE I KNOW THAT'S A CONTRADICTION IN Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+LEOPARDI: Signor Contini. Artists do their best work before they're famous. Now you're famous. Without wishing to be negative - but your last two films, they're not, they were.
+GUIDO: Your word. Flops.
+LEOPARDI: Your word. Flops.
+GUIDO: AND IT'S A PROBLEM, ESPECIALLY WHEN MY BODY'S NEARING FIFTY AS MY MIND IS NEARING TEN. I'm just asking if you're nervous? You seem nervous.
+LEOPARDI: I'm just asking if you're nervous? You seem nervous.
 GUIDO: Excuse me?
 LEOPARDI: What I'm asking, Maestro, is have you run out of things to say?
-GUIDO: p. 16
+GUIDO: I CAN HARDLY STAY UP AND I CAN'T GET TO SLEEP, AND I DON'T WANT TO WAKE TOMORROW AT THE BOTTOM OF SOME HEAP BUT WHY TAKE IT SO SERIOUSLY? AFTER ALL, THERE'S NOTHING AT STAKE HERE - ONLY ME I WANT TO BE YOUNG. AND I WANT TO BE OLD. I WOULD LIKE TO BE WISE BEFORE MY TIME AND YET BE FOOLISH AND BRASH AND BOLD. I WOULD LIKE THE UNIVERSE TO GET DOWN ON ITS KNEES AND SAY, "GUIDO, WHATEVER YOU PLEASE, IT'S OKAY EVEN IF IT'S IMPOSSIBLE, WE'LL ARRANGE IT." THAT'S ALL THAT I WANT.
+MORNING,: AT THE BOTTOM OF SOME HEAP BUT WHY TAKE IT SO SERIOUSLY? AFTER ALL, THERE'S NOTHING AT STAKE HERE - ONLY ME I WANT TO BE YOUNG. AND I WANT TO BE OLD. I WOULD LIKE TO BE WISE BEFORE MY TIME AND YET BE FOOLISH AND BRASH AND BOLD. I WOULD LIKE THE UNIVERSE TO GET DOWN ON ITS KNEES AND SAY, "GUIDO, WHATEVER YOU PLEASE, IT'S OKAY EVEN IF IT'S IMPOSSIBLE, WE'LL ARRANGE IT." THAT'S ALL THAT I WANT.
 STEPHANIE: I was wondering if you think there's a limit to what you can show in a movie.
 GUIDO: What would you like to see that I haven't already shown you?
-GUIDO: p. 17
-GUIDO: p. 18
+GUIDO: I AM LUSTING FOR MORE, SHOULD I SETTLE FOR LESS? I ASK YOU, WHAT'S A GOOD THING FOR IF NOT FOR TAKING IT TO EXCESS? ONE LIMITATION I DEARLY REGRET: THERE'S ONLY ONE OF ME I'VE EVER MET.
+GUIDO: I WOULD LIKE TO BE HERE ( SING ALONG WITH MYSELF IN A SONG ) TO BE THERE ( WALKING DOWN A LANE NOW ), ( EVERYWHERE ) EVERYWHERE, THAT'S A CONTRADICTION IN I WANT TO BE HERE ( WITH A COUNTER- ) HERE ( MELODY IN THE ) HERE ( TOP OF THE MORNING TO YOU GUIDO ) GUIDO ( GUIDO ) GUIDO ( GUIDO ) GUIDO. ME ( ME ) ME! I WANT TO BE PROUST.
+EVERYWHERE: ( EVERYWHERE ) EVERYWHERE, THAT'S A CONTRADICTION IN I WANT TO BE HERE ( WITH A COUNTER- ) HERE ( MELODY IN THE ) HERE ( TOP OF THE MORNING TO YOU GUIDO ) GUIDO ( GUIDO ) GUIDO ( GUIDO ) GUIDO. ME ( ME ) ME! I WANT TO BE PROUST.
+TERMS: I WANT TO BE HERE ( WITH A COUNTER- ) HERE ( MELODY IN THE ) HERE ( TOP OF THE MORNING TO YOU GUIDO ) GUIDO ( GUIDO ) GUIDO ( GUIDO ) GUIDO. ME ( ME ) ME! I WANT TO BE PROUST.
+BUDDHA: BUT NOT HAVE TO BELIEVE IN GOD. AND YOU KNOW I MEAN IT WITH ALL OF MY HEART - IT'S THE END IF SOMETHING IMPORTANT DOESN'T START.
+GUIDO: .I WANT TO BE YOUNG, BUT I HAVE TO BE OLD. WHAT I WANT IS A TALE OF SOUND AND THAT SOME IDIOT WENT AND TOLD. I WOULD LIKE THE UNIVERSE TO GET DOWN ON ITS KNEES AND SAY, "GUIDO, WHATEVER YOU PLEASE, IT'S OKAY EVEN IF IT'S RIDICULOUS, WE'LL ARRANGE IT."
+FURY: THAT SOME IDIOT WENT AND TOLD. I WOULD LIKE THE UNIVERSE TO GET DOWN ON ITS KNEES AND SAY, "GUIDO, WHATEVER YOU PLEASE, IT'S OKAY EVEN IF IT'S RIDICULOUS, WE'LL ARRANGE IT."
+GUIDO: SO ARRANGE IT!
+WOMEN: ARRANGE IT! THAT'S ALL THAT I WANT!
+ARRANGE IT!: THAT'S ALL THAT I WANT!
+GUIDO: THAT'S ALL THAT I WANT!
+GUIDO!: The Alfa Spyder comes to a screeching stop in front of the gates of the entrance of an impressive looking Spa: GRAND HOTEL BELLAVISTA. The hotel has a slightly faded glamour, something that lifts it a little out of time. Guido's women are gone as the song ends. SUPERTITLE: Bellavista Spa Hotel, Anzio, Italy
 GUIDO: I need a room.
-DE ROSSI: Of course. p. 19
+DE ROSSI: Of course.
+GUIDO: DE ROSSI
+DE ROSSI: Something with air.
+GUIDO: Something with air.
+DE ROSSI: just look for you.
+GUIDO: DE ROSSI
+DE ROSSI: busy busy.
+GUIDO: busy busy.
+DE ROSSI: ( without looking up ) Would Maestro Contini prefer to register under a pseudonym?
+GUIDO: ( doleful ) ( suggesting a name ) Signor Milano?
+DE ROSSI: ( suggesting a name ) Signor Milano?
+GUIDO: DE ROSSI ( continuing to work )
+DE ROSSI: ( continuing to work ) Needless to say, I love your films. Guilty pleasure. Those early films.
+GUIDO: ( anxious, confidential ) I need to see a doctor. Do you know one who's discreet.? I'd like to see him today, in my room, now, if
 DE ROSSI: p. 20
-GUIDO: (takes the key) And I need to place a call.   To my wife.
+GUIDO: ( takes the key ) And I need to place a call. To my You can take the call at the lobby phone over there.
 DE ROSSI: You can take the call at the lobby phone over there.
-GUIDO: Luisa, tesoro...
+GUIDO: Luisa, tesoro.
 LUISA: There you are.
 GUIDO: Is everybody mad at me?
-LUISA: Well, I'm mad at you.   Where are you?
-GUIDO: I had to escape from the Press Conference.
+LUISA: Well, I'm mad at you. Where are you?
+GUIDO: I had to escape from the Press I heard. Dramatic.
 LUISA: I heard. Dramatic.
 GUIDO: Don't tease me. I'm sick, Luisa.
 LUISA: You're making a film. You make a film, you get sick. It's what happens.
-GUIDO: No, but this time I'm really sick.      I can't breathe. p. 21
+GUIDO: No, but this time I'm really sick. I can't breathe.
+LUISA: calling, please come straight away. That would be wonderful.
+GUIDO: calling, please come straight away. That would be wonderful.
+LUISA: calling, please come straight away. That would be wonderful.
+GUIDO: calling, please come straight away. That would be wonderful.
+LUISA: just kept driving.
+GUIDO: just kept driving.
+LUISA: just kept driving.
+GUIDO: just kept driving.
+LUISA: where you are.
+GUIDO: ( suddenly claustrophobic ) And, actually, it's hardly worth it. I'll be home in a day or two.
+LUISA: ( all too familiar ) Yes, it's hardly worth it.
+GUIDO: then come back here and make a good
+LUISA: then come back here and make a good
+GUIDO: p. 22
 LUISA: p. 22
 DE ROSSI: Your doctor is on his way.
-GUIDO: (carefully) This number - if a woman answers you put it through to my room, otherwise...
+GUIDO: ( carefully ) This number - if a woman answers you put it through to my room,
 DE ROSSI: It's a wrong number.
-GUIDO: What?
-NURSE: Dottore.
-DOCTOR RONDI: Si?
-GUIDO: What is she whispering? Is it my blood pressure? Is it serious? Am I dying?
-DOCTOR: (to the Nurse, not answering Guido) Check again. p. 23
-DOCTOR (CONT'D): Stress.    Exhaustion.
-DOCTOR (CONT'D): Your liver, your heart, your kidneys, they're all very cross with you, Signore.
-DOCTOR: Open wide.
-DOCTOR (CONT'D): But you've come to the right place. There are a dozen mineral springs around the town...
-DOCTOR: ...the Roman emperors came here for the waters...
-GUIDO: (into the phone) Pronto. p. 24
-DE ROSSI (V.O.): Signor Contini, it's the Signora.
-GUIDO: (coming back quickly to life) It's a very an important call, Doctor. I'm sorry, I have to take it. Private call.
+GUIDO: DOCTOR RONDI
+NURSE: DOCTOR RONDI
+DOCTOR RONDI: He walks round to her. The Nurse whispers to the Doctor. They look at the blood pressure gauge. Guido is disturbed by their conspiracy.
+GUIDO: What is she whispering? Is it my blood pressure? Is it serious? Am I Check again.
+DOCTOR: ( to the Nurse, not Check again.
+CARLA: Open wide. But you've come to the right place. There are a dozen mineral springs around the town.
+DOCTOR: Open wide. But you've come to the right place. There are a dozen mineral springs around the town.
+CARLA: .the Roman emperors came here for the waters.
+DOCTOR: .the Roman emperors came here for the waters.
+GUIDO: ( into the phone )
+CARLA: I WAS LAZING AROUND MY BEDROOM WHEN YOU CALLED AND AN IDEA OCCURRED TO ME I THOUGHT YOU MIGHT BE WONDERING ABOUT, GUIDO. It's a very an important call, Doctor. I'm sorry, I have to take it. Private As you wish.
+GUIDO: ( coming back quickly to It's a very an important call, Doctor. I'm sorry, I have to take it. Private As you wish.
 DOCTOR: As you wish.
-NURSE: Doctor... His pulse... it's racing.
-DOCTOR: (to Guido) Is something wrong?
-GUIDO: What? Yes, yes. It's about my film. It's from the Vatican. Go ahead, Monsignore! Yes, yes, of course, I'm listening.
-CARLA: p. 26
-CARLA (CONT'D): (spoken) I love you, Guido.
-CARLA: Guido!    Ciao!
-GUIDO: (to himself, remembering how much work she is) Carla. (and now to her, covering his ambivalence) Carla!
+CARLA: WHO'S NOT WEARING ANY CLOTHES? I'M NOT! MY DARLING, WHO'S AFRAID TO KISS YOUR TOES? I'M NOT! YOUR MAMA DEAR IS BLOWING INTO YOUR SO YOU'LL GET IT LOUD AND CLEAR, I NEED YOU TO SQUEEZE ME HERE. AND HERE. AND HERE.
+I'M NOT!: MY DARLING, WHO'S AFRAID TO KISS YOUR TOES? I'M NOT! YOUR MAMA DEAR IS BLOWING INTO YOUR SO YOU'LL GET IT LOUD AND CLEAR, I NEED YOU TO SQUEEZE ME HERE. AND HERE. AND HERE.
+MY DARLING,: WHO'S AFRAID TO KISS YOUR TOES? I'M NOT! YOUR MAMA DEAR IS BLOWING INTO YOUR SO YOU'LL GET IT LOUD AND CLEAR, I NEED YOU TO SQUEEZE ME HERE. AND HERE. AND HERE.
+I'M NOT!: YOUR MAMA DEAR IS BLOWING INTO YOUR SO YOU'LL GET IT LOUD AND CLEAR, I NEED YOU TO SQUEEZE ME HERE. AND HERE. AND HERE.
+EAR,: SO YOU'LL GET IT LOUD AND CLEAR, I NEED YOU TO SQUEEZE ME HERE. AND HERE. AND HERE.
+NURSE: Doctor. His pulse. it's racing.
+DOCTOR: ( to Guido ) Is something wrong?
+GUIDO: What? Yes, yes. It's about my film. It's from the Vatican. Go ahead, Monsignore! Yes, yes, of course, I'm
+CARLA: COOTCHIE, COOTCHIE, COOTCHIE COO. I'VE GOT A PLAN FOR WHAT I'M GONNA DO TO YOU, SO HOT YOU'RE GONNA STEAM, AND SCREAM, AND VIBRATE LIKE A STRING I'M PLUCKING- KISS YOUR FEVERED LITTLE BROW PINCH YOUR CHEEKS TILL YOU SAY "OW," AND I CAN HARDLY WAIT TO SHOW YOU HOW,
+I'VE GOT: A PLAN FOR WHAT I'M GONNA DO TO YOU, SO HOT YOU'RE GONNA STEAM, AND SCREAM, AND VIBRATE LIKE A STRING I'M PLUCKING- KISS YOUR FEVERED LITTLE BROW PINCH YOUR CHEEKS TILL YOU SAY "OW," AND I CAN HARDLY WAIT TO SHOW YOU HOW,
+SO HOT: YOU'RE GONNA STEAM, AND SCREAM, AND VIBRATE LIKE A STRING I'M PLUCKING- KISS YOUR FEVERED LITTLE BROW PINCH YOUR CHEEKS TILL YOU SAY "OW," AND I CAN HARDLY WAIT TO SHOW YOU HOW,
+CARLA: WHO WON'T CARE IF YOU COME TO ME TIRED AND OVERWORKED? I WON'T! BAMBINO, WHO KNOWS A THERAPY TO BEAT WHAT YOU CAN GET FROM ME? I DON'T! BUT THIS WILL HAVE TO BE ENOUGH FOR
+AND OVERWORKED?: I WON'T! BAMBINO, WHO KNOWS A THERAPY TO BEAT WHAT YOU CAN GET FROM ME? I DON'T! BUT THIS WILL HAVE TO BE ENOUGH FOR
+I DON'T!: BUT THIS WILL HAVE TO BE ENOUGH FOR
+NOW,: ( MORE )
+GUIDO,: ( MORE )
+CARLA: Guido! Ciao!
+GUIDO: ( to himself, remembering ( and now to her, covering I'm so happy to see you.
 CARLA: I'm so happy to see you.
-GUIDO: Carlissima.
-CARLA: I missed you so much. (they move off) Are you happy I'm here?
+GUIDO: She gives him a hug and a kiss, both too much for him in public.
+CARLA: I missed you so much. Are you happy I'm here?
 GUIDO: Of course.
-CARLA: But very happy? Or just a little happy?
+CARLA: But very happy? Or just a little Very happy.
 GUIDO: Very happy.
-CARLA: What's wrong? You look very tired, very tired. p. 27
-GUIDO: (avoiding this, looks at her bags) Carla, all those bags for the weekend?
+CARLA: What's wrong? You look very tired, very tired.
+GUIDO: ( avoiding this, looks at Carla, all those bags for the weekend?
 CARLA: Yes, the Bellavista is a very fashionable place. You know I stayed there with my parents, during the war, it was full of Germans.
-GUIDO: Carla... I have to tell you... they found out who I am at the hotel--
-CARLA: No...
-GUIDO: ... yes, horrible, but obviously we don't want to be followed by the press, so I found the most charming pensione for you, and it's right here. It's charming.
+GUIDO: Carla. I have to tell you. they found out who I am at the hotel
+CARLA: . yes, horrible, but obviously we don't want to be followed by the press, so I found the most charming pensione for you, and it's right here. It's charming.
+GUIDO: . yes, horrible, but obviously we don't want to be followed by the press, so I found the most charming pensione for you, and it's right here. It's charming.
 CARLA: Here at the station?
-GUIDO (O.S.): Close the curtains, it's too light in here.
-GUIDO (CONT'D): Perfect.   Now, go into the corridor---
-CARLA: What? p. 28
-GUIDO: Shhh! Yes, count to ten and come back in, and pretend you're in the wrong room, and I'm a complete stranger--
+CARLA: p. 28
+GUIDO: Shhh! Yes, count to ten and come back in, and pretend you're in the wrong room, and I'm a complete stranger
 CARLA: I love your games!
 GUIDO: I'm here on business.
-CARLA: Okay.
-GUIDO: Go, go.   Wait. Your face.
+CARLA: Go, go. Wait. Your face.
+GUIDO: Go, go. Wait. Your face.
 CARLA: What about it?
 GUIDO: Get your makeup.
-CARLA: I had a nightmare last night. We were in that little alley behind Piazza Navona, where I bought you that scarf, remember? The same one your wife bought you--
-GUIDO: (probably doesn't) Don't move, Carla.
+CARLA: I had a nightmare last night. We were in that little alley behind Piazza Navona, where I bought you that scarf, remember? The same one your wife bought you
+GUIDO: ( probably doesn't ) Don't move, Carla.
 CARLA: When you wear it, I never know if it's hers or mine.
-GUIDO: (not really listening) Uh-huh.
+GUIDO: ( not really listening ) So we were there, on the ground, naked, kissing, and we didn't care, and then my husband arrived and killed us both with a shovel! Poor Luigi!
 CARLA: So we were there, on the ground, naked, kissing, and we didn't care, and then my husband arrived and killed us both with a shovel! Poor Luigi!
-(MORE): p. 29
-CARLA (CONT'D): He would never do that! He's so sweet. He speaks Latin! He knows all the Roman Emperors.
-GUIDO: (still intent on his makeup job) Good for him.
-CARLA: Perhaps there's a job for him in the movie--
+GUIDO: ( still intent on his Good for him.
+CARLA: Perhaps there's a job for him in the Why not?
 GUIDO: Why not?
 CARLA: You could work well together.
 GUIDO: Beautiful. When you come in I want you to be my little savage.
-CARLA: Yes.
-GUIDO: (gesturing towards the door) Go, go.
+CARLA: ( gesturing towards the Go, go. You think I am one of your actresses?
+GUIDO: ( gesturing towards the Go, go. You think I am one of your actresses?
 CARLA: You think I am one of your actresses?
 GUIDO: Hurry, please, Carla.
 CARLA: Oh, Madonna!
 GUIDO: I'll pretend to be asleep.
-CARLA: What if I really found the wrong room? Would you be jealous? p. 30
+CARLA: What if I really found the wrong room? Would you be jealous?
 GUIDO: Could you do such a thing?
-CARLA: (coyly) Hm! Who knows?
+CARLA: ( coyly ) Hm! Who knows?
 GUIDO: What happened?
-CARLA: (still giggling) It was the woman from the hotel. She wanted to give me towels.
+CARLA: ( still giggling ) It was the woman from the hotel. She wanted to give me towels.
 GUIDO: Come here.
-CARLA: Okay.
-GUIDO: What?
 CARLA: You are a stranger, I don't know you.
-GUIDO: Carla, just come here. (indicating her sheet) Be savage. Show me.
+GUIDO: You are a stranger, I don't know you.
+CARLA: You are a stranger, I don't know you.
+GUIDO: Carla, just come here. Be savage. Show me.
 CARLA: Excuse me! I've got the wrong room.
-GUIDO: Yes, you have. And I don't have the faintest idea who you are. p. 31
-GUIDO (V.O.): Page one, page one, page one... The figure emerges from the darkness like a goddess. She is Claudia, his muse...
-GUIDO (V.O.): She takes the man's face and kisses him...
-GUIDO (V.O.) (CONT'D): ...And with that gesture, he's suddenly inspired to write something... profound.
-GUIDO (CONT'D): Mother of God, give me a sign. p. 32
-GUIDO: Excuse me, father...
-CARDINAL'S SECRETARY: (turns) Buongiorno.
+GUIDO: Yes, you have. And I don't have the faintest idea who you are.
+GUIDO: Excuse me, father.
+CARDINAL'S SECRETARY: ( turns ) His Excellency, the Cardinal, is he -?
 GUIDO: His Excellency, the Cardinal, is he -?
-CARDINAL'S SECRETARY: (recognising Guido) Signor Contini! (starstruck) I am a big fan.
+CARDINAL'S SECRETARY: ( recognising Guido ) Signor Contini! ( starstruck ) I am a big fan.
 GUIDO: I would very much like to speak to the Cardinal. Do you think he might grant me -
 CARDINAL'S SECRETARY: Is Claudia Jenssen with you?
-GUIDO: No.
+GUIDO: CARDINAL'S SECRETARY
 CARDINAL'S SECRETARY: Pity. His excellency is a big admirer of Signorina Jenssen.
-GUIDO: (explaining) I'm in need of some guidance, some pointers...
-CARDINAL'S SECRETARY: Do you think you could find a signed photograph of Signorina Jenssen? p. 33
+GUIDO: ( explaining ) I'm in need of some guidance, some Do you think you could find a signed photograph of Signorina Jenssen?
+CARDINAL'S SECRETARY: Do you think you could find a signed photograph of Signorina Jenssen?
 GUIDO: For His Excellency?
-CARDINAL'S SECRETARY: Si.
-GUIDO: I'm sure that would be possible...
-CARDINAL'S SECRETARY: Truly?   What a pleasure. Arrivederci, Maestro.
-DANTE: Guidino!
+CARDINAL'S SECRETARY: I'm sure that would be possible.
+GUIDO: I'm sure that would be possible.
+CARDINAL'S SECRETARY: Truly? What a pleasure. Arrivederci,
+DANTE: Guido hurries towards the elevator. The elevator doors close. Guido is trapped.
 GUIDO: I'm not going to ask how you found me.
-DANTE: Please - it's my job. A producer needs to know where his director is at all times...even to know the pensione where his mistress is staying...
+DANTE: Please - it's my job. A producer needs to know where his director is at all times.even to know the pensione where his mistress is staying.
 GUIDO: Oh God.
 DANTE: I understand, Guido. Rome is absolutely unbearable. The pressure. It's no good.
-GUIDO: Really?    You understand?
-DANTE: Of course I understand.      Absolutely.
+GUIDO: Really? You understand?
+DANTE: Of course I understand. Absolutely.
 GUIDO: You're not going to drag me back?
-DANTE: No. You're a genius and genius must be served. p. 34
-GUIDO: Thank you, my old friend. (Dante is guiding him) Where are we going?
-DANTE: You can't be in Rome. Okay. (heading towards the ballroom)
+DANTE: No. You're a genius and genius must be
+GUIDO: Thank you, my old friend. Where are we going?
+DANTE: You can't be in Rome. Okay.
 DANTE: Rome will come to you!
-DANTE (CONT'D): It's a fantastic place for you to focus. Everyone is here to help the movie. Everyone is here because they love you, Guido.
-JACONELLI: (explaining his designs) Yes, with the flower and the glass and the arches of the Roman Empire...
-DANTE: Guido...you remember Donatella.
-DONATELLA: Ciao.
-GUIDO: (he doesn't, she's new) Ciao.
+JACONELLI: ( explaining his designs ) Yes, with the flower and the glass and the arches of the Roman Empire.
+DANTE: Guido.you remember Donatella.
+DONATELLA: ( he doesn't, she's new ) Donatella, you tested her.
+GUIDO: ( he doesn't, she's new ) Donatella, you tested her.
 DANTE: Donatella, you tested her.
-DONATELLA: I was very nervous. He probably doesn't remember. I was quite nervous. p. 35
-GUIDO: (distracted, taking it all in) No, I remember you. You were, we all enjoyed you, so to speak.
-PIERPAOLO: Maestro...
-PIERPAOLO (CONT'D): Claudia's agent...
-GUIDO: (listens to a stream of invective) Did she like the script? (gestures for Pierpaolo to light him a cigarette) No no no no - impossibile - are you telling me she didn't get the script? (shouting at Pierpaolo) Pierpaolo!
-GUIDO (CONT'D): Claudia didn't get the script! Send her another one. For Chrissake. Send her two!
-PIERPAOLO: (playing along) Yes, I'm sorry. Right now.
-GUIDO: Cretino! (back to Lombardo, listens) Yes, yes, that's what I say, people just don't realise - she's an actress as well as a star - I know Dante's dying to talk to you. A dolpo. Ciao.
-DANTE: Lombardo... p. 36
+DONATELLA: I was very nervous. He probably doesn't remember. I was quite
+GUIDO: ( distracted, taking it all No, I remember you. You were, we all enjoyed you, so to speak.
+PIERPAOLO: Pierpaolo, Guido's assistant, holds a telephone. Guido wants to know who it is.
+GUIDO: ( listens to a stream of invective ) Did she like the script? ( gestures for Pierpaolo to light him a cigarette ) No no no no - impossibile - are you telling me she didn't get the script? ( shouting at Pierpaolo )
+PIERPAOLO: ( playing along ) Yes, I'm sorry. Right now.
+GUIDO: ( back to Lombardo, Yes, yes, that's what I say, people just don't realise - she's an actress as well as a star - I know Dante's dying to talk to you. A dolpo. Ciao.
+DANTE: p. 36
 GUIDO: Yap, yap, yap, yap, yap, yap, yap!
-GUIDO (CONT'D): What are we doing here?
 LILLI: I'm happy. I brought my swimsuit.
-LILLI (CONT'D): It was Luisa's birthday yesterday.
 GUIDO: What? No. Oh please God. No. I spoke with her yesterday. She didn't even mention it. Give me a cigarette.
 LILLI: What's that?
 GUIDO: What's that?
 LILLI: It's for Claudia.
 GUIDO: For which scene?
 LILLI: Well I don't know which scene until I`ve seen the script, but she always likes something like this, or you do.
-GUIDO: Looks like the Folies Bergere. It's wrong. Italian women don't wear those things. p. 37
-LILLI: Don't knock the Folies Bergere...
-LILLI (CONT'D): ...it brings back happy memories. That's where I learned my art. All those sequins, all those feathers. (Still working) And, you're wrong, you put Claudia in one of these for that nightclub scene in Natura Morta.
-GUIDO: Why did people love that film?
-LILLI: Oh Guido, don't. That's death.     Every time we have to start again.
+GUIDO: Looks like the Folies Bergere. It's wrong. Italian women don't wear those
+LILLI: Don't knock the Folies Bergere.
+GUIDO: Why did people love that film? Oh Guido, don't. That's death. Every time we have to start again.
+LILLI: Oh Guido, don't. That's death. Every time we have to start again.
 GUIDO: I'm trying to find it.
 LILLI: You won't find it with your head jammed halfway up your ass.
-GUIDO: Ashtray.
-GUIDO (CONT'D): Thanks. You were saying - my head is jammed up my ass.
-LILLI: Halfway. I don't know. Why not dream up something entertaining, Guido? Something with music...with dancing... God knows, we could use a little joie de vivre around here... p. 38
-LILLI: (singing and performing in a french accent)
-LILLI (CONT'D): p. 39
-LILLI (CONT'D): Ah, Bon soir, bon soir, bon soir. Je suis la vedette des Folies Bergere. Vedette, it means 'star.'
-LILLI (CONT'D): Let me tell you. Last night I looked down at this table in the chairs you are sitting in now, and what did I see? A priest! And next to him?
-LILLI (CONT'D): Ahh, mon Dieu! Guido? Guido Contini? What are you doing here at the Folies Bergere? You naughty boy! You're only nine years old! But I'm glad you've come. Would you like to join me on stage? Yes. Come. Come, come, come.
-LILLI (CONT'D): Feeling better? There's no room for hopelessness in here, is there, Guido? (to the audience) We must explain something to our young Guido. What do we want? Laughter! What do we want? Love! What do we want? Dreams! Let us not forget, Guido, mon cher -- That's our privilege - to entertain. p. 40
+GUIDO: She produces one.
+LILLI: Halfway. I don't know. Why not dream up something entertaining, Guido? Something with music.with dancing. God knows, we could use a little joie de vivre around here.
+LILLI: ( singing and performing in
+SINGING,": A STRING, A CLARINET, A SAXOPHONE TAKE A LESSON FROM THIS OLD PARISIENNE AND THE FINEST ENTERTAINMENT SHE HAS
+DANCING!: NOT A MOMENT IN LIFE COULD BE MORE THAN AN EVENING YOU SPEND AUX FOLIES BERGERE. FOLIES BERGERE, NOT A SOUL IN THE WORLD COULD BE IN WHEN HE IS GLANCING AT THE FABULOUS STAGE DES FOLIES BERGERE
+ENTRANCING: THAN AN EVENING YOU SPEND AUX FOLIES BERGERE. FOLIES BERGERE, NOT A SOUL IN THE WORLD COULD BE IN WHEN HE IS GLANCING AT THE FABULOUS STAGE DES FOLIES BERGERE
+FOLIES BERGERE,: NOT A SOUL IN THE WORLD COULD BE IN WHEN HE IS GLANCING AT THE FABULOUS STAGE DES FOLIES BERGERE
+DESPAIR: WHEN HE IS GLANCING AT THE FABULOUS STAGE DES FOLIES BERGERE
+FOLIES BERGERE: THE MUSIC, THE LIGHTS, AND THE THE ANSWER TO WHAT YOU ARE AFTER EACH NIGHT AT THE FOLIES BERGERE. FOLIES BERGERE BY THE HEAVENS ABOVE, YOU WILL SWEAR THERE'S NOTHING RARER! THAN THE FOLIES BERGERE
+LAUGHTER,: THE ANSWER TO WHAT YOU ARE AFTER EACH NIGHT AT THE FOLIES BERGERE. FOLIES BERGERE BY THE HEAVENS ABOVE, YOU WILL SWEAR THERE'S NOTHING RARER! THAN THE FOLIES BERGERE
+FOLIES BERGERE: BY THE HEAVENS ABOVE, YOU WILL SWEAR THERE'S NOTHING RARER! THAN THE FOLIES BERGERE
+LILLI: BY THE HEAVENS ABOVE, YOU WILL SWEAR THERE'S NOTHING RARER! THAN THE FOLIES BERGERE
+FOLIES BERGERE: THE STAGE OVERFLOWING, AND GIVING A MUSICAL REASON FOR LIVING EACH NIGHT AT THE FOLIES BERGERE. FOLIES BERGERE. TO YOUR MODERN IDEAS I COMPARE ONE AT THE FOLIES BERGERE!
+LILLI: TO YOUR MODERN IDEAS I COMPARE ONE AT THE FOLIES BERGERE!
+DERRIERE!: LILLI AND SHOWGIRLS
+LAUGHTER: OF THE FOLIES BERGERE!
 CARDINAL'S SECRETARY: The Cardinal is right this way.
-CARDINAL'S SECRETARY: Your Eminence, Signor Contini is here.
+CARDINAL'S SECRETARY: ( CONT'D )
 CARDINAL: I like Charlie Chaplin.
 GUIDO: Me too.
 CARDINAL: A genius. What can I do for you?
 GUIDO: Do you believe in God?
 CARDINAL'S SECRETARY: Signor Contini, please.
-CARDINAL: No, no, it's an honest question.    Yes, I believe in God. p. 42
+CARDINAL: No, no, it's an honest question. Yes, I believe in God.
 GUIDO: So do I.
 CARDINAL: Are you a Catholic?
 GUIDO: Oh yes, very much so. Not as much as I would like to be, not as much as you would like me to be, I'm sure, but certainly yes, I'm trying.
 CARDINAL: Try harder.
-GUIDO: Yes, yes. I will, I will. Your Eminence, I am not happy. I'm searching for something. I feel a sense of misery, of despair and --
-CARDINAL: (interrupting) I saw your films. Not the flops, the others, the good ones. But you think people need to see so much sex?   It's not necessary. We can all imagine.
-GUIDO: (laughing) Excuse me - my films are what I imagine.
-CARDINAL: Then your imagination has no moral training.
-GUIDO: (nonplussed) How do you train the imagination?
-CARDINAL: The imagination is God's garden; don't let the Devil play in it. Teach our Italian women to be wives, not whores, don't make us look at filth and debauchery. Make us proud to be Italian... p. 43
-YOUNG GUIDO: (not loud enough) Saraghina. (louder) Saraghina.
-BOYS: Saraghina!   Saraghina!
-YOUNG GUIDO: (loudest) Saraghina! Sa-ra-ghina! p. 44
-SARAGHINA: So, you little Italian devils, you want to know about love? Saraghina will tell you...and if you want to make a woman happy, you rely on what you were born with. Because it is in your blood.
-SARAGHINA: (sings)
+GUIDO: Yes, yes. I will, I will. Your Eminence, I am not happy. I'm searching for something. I feel a sense of misery, of despair and
+CARDINAL: ( interrupting ) I saw your films. Not the flops, the others, the good ones. But you think people need to see so much sex? It's not necessary. We can all imagine.
+GUIDO: ( laughing ) Excuse me - my films are what I Then your imagination has no moral ( nonplussed ) How do you train the imagination?
+CARDINAL: Then your imagination has no moral How do you train the imagination?
+GUIDO: ( nonplussed ) How do you train the imagination?
+CARDINAL: The imagination is God's garden; don't let the Devil play in it. Teach our Italian women to be wives, not whores, don't make us look at filth and debauchery. Make us proud to be
+YOUNG GUIDO: ( not loud enough ) ( louder )
+BOYS: Saraghina! Saraghina!
+YOUNG GUIDO: ( loudest ) Saraghina! Sa-ra-ghina!
+SARAGHINA: So, you little Italian devils, you want to know about love? Saraghina will tell you.and if you want to make a woman happy, you rely on what you were born with. Because it is in your blood.
+SARAGHINA: ( sings )
+SARAGHINA: PLEASE BE GENTLE, SENTIMENTAL, GO AHEAD AND TRY TO GIVE MY CHEEK A BUT BE DARING AND UNCARING. WHEN YOU PINCH ME, TRY TO PINCH ME WHERE THERE'S FAT.
+PAT,: BUT BE DARING AND UNCARING. WHEN YOU PINCH ME, TRY TO PINCH ME WHERE THERE'S FAT.
 MAMMA: I am ashamed of you, Guido.
 YOUNG GUIDO: But Mamma, what did I do.
 PRINCIPAL: Bring him here. That savage is the devil. God will punish you for your sins, now and forever.
 CARLA: What? What?
 GUIDO: I can't breathe, I can't breathe.
-CARLA: Guido, don't die on me! Can you imagine... poor Luigi! It would kill him.
-GUIDO: (finding her ridiculous) If I die it would kill your husband?
+CARLA: Guido, don't die on me! Can you imagine. poor Luigi! It would kill If I die it would kill your husband?
+GUIDO: ( finding her ridiculous ) If I die it would kill your husband?
 CARLA: No, that's not what I meant, Guidino. No. Where are you going?
-GUIDO: I have to go to work. Carla, I can't breathe.
+GUIDO: I have to go to work. Carla, I can't
 CARLA: Let me come with you.
 GUIDO: It's impossible.
-CARLA: Why?
+CARLA: Because it's impossible. Please.
 GUIDO: Because it's impossible. Please.
 CARLA: But why is it impossible? Look at your producer! He's married, he brings his girlfriend to work and nobody cares. Guido. Everybody knows about me. Why? Why won't you let me near you?
-GUIDO: For the very same reason you don't want me to die on top of you. It's not fair to your husband. It's not fair to my wife. p. 48
-CARLA: See, you're playing with me. You're twisting everything... Please let me come with you.
-GUIDO: No.
+GUIDO: For the very same reason you don't want me to die on top of you. It's not fair to your husband. It's not fair to my wife.
+CARLA: See, you're playing with me. You're twisting everything. Please let me come with you.
+GUIDO: Guido heads towards the door, still dressing.
 CARLA: I'll be here waiting for you with my legs open.
-GUIDO: Let's say there were ten sequences, each one set in a different period, but played by the same cast, a man and a woman, a woman and a man... (pours himself a glass of wine) Something light and hectic - like Mozart would do it, like Figaro. (to Lilli) Like the circus...
+GUIDO: Let's say there were ten sequences, each one set in a different period, but played by the same cast, a man and a woman, a woman and a man. Something light and hectic - like Mozart would do it, like Figaro. Like the circus.
 DANTE: Claudia is going to be amazing.
 BENITO: It sounds like a masterpiece.
-FAUSTO: (hissing at Dante) Dante, you see, he hasn't written a word...
-DANTE: (defending his director) The screenplay is first of all a map. That's a map. p. 49
+FAUSTO: ( hissing at Dante ) Dante, you see, he hasn't written a ( defending his director ) The screenplay is first of all a map. That's a map.
+DANTE: ( defending his director ) The screenplay is first of all a map. That's a map.
 GUIDO: Let's try to dig for something else. Maybe a group of people digging, with shovels, in the desert.
-LILLI: Guido.
-GUIDO: Luisa!
-GUIDO (CONT'D): I can't believe you came.
-LUISA: The jungle drums said it was an emergency.
+LILLI: She nudges him. He looks across the restaurant to see his wife at the entrance looking for him.
+GUIDO: He jumps up from the table and hurries towards the dance floor, genuinely happy.
+LUISA: The jungle drums said it was an The jungle drums exaggerated just a tiny bit.
 GUIDO: The jungle drums exaggerated just a tiny bit.
-LUISA: Not entirely. (with concern) You haven't been sleeping.
-GUIDO: I was dying, until just now.    Come.
-GUIDO (CONT'D): And don't think I forgot your birthday. When you get home, the house will be full of flowers...
+LUISA: Not entirely. You haven't been sleeping.
+GUIDO: I was dying, until just now. Come.
 LUISA: Am I already going home?
-GUIDO: I hope not. Happy Birthday, my darling. p. 50
-DANTE: (Seeing Luisa) Here she is. At last.   Magnificent. You know Donatella?
+GUIDO: I hope not. Happy Birthday, my
+DANTE: ( Seeing Luisa ) Here she is. At last. Magnificent. You know Donatella?
 LUISA: I do now.
-LUISA (CONT'D): (to Lilli) Thank you for calling.
-LILLI: (confidentially) You're saving the movie. Give him a good idea, for God's sake.
-GUIDO: Let's drink a toast to Luisa's birthday.
-LUISA: (negating it) It was Monday.
+LILLI: ( confidentially ) You're saving the movie. Give him a good idea, for God's sake.
+GUIDO: Let's drink a toast to Luisa's It was Monday.
+LUISA: ( negating it ) It was Monday.
 DANTE: Happy Birthday!
-LUISA: (not quite able to forgive him) Thank you.
+LUISA: ( not quite able to forgive Thank you.
 GUIDO: Happy Birthday.
-CARDINAL'S SECRETARY: Maestro. p. 51
-GUIDO: (standing up to greet him, then turning to Luisa) Ah, Don Mario. Excuse me, darling, this is Don Mario. This is my wife, Luisa.
+CARDINAL'S SECRETARY: p. 51
+GUIDO: ( standing up to greet him, Ah, Don Mario. Excuse me, darling, this is Don Mario. This is my wife, A pleasure, Signora.
 CARDINAL'S SECRETARY: A pleasure, Signora.
 LUISA: Sit down, won't you, Don Mario?
 CARDINAL'S SECRETARY: Oh no.
-LUISA: Please.
-CARDINAL'S SECRETARY: I was telling your husband how much I admire his movies. Publicly, you know the Church condemns them - we have to - but we all love them. (To Guido) Last year we did our own version of your Il Vicolo at the Christmas Party.
+LUISA: CARDINAL'S SECRETARY ( To Guido )
+CARDINAL'S SECRETARY: I was telling your husband how much I admire his movies. Publicly, you know the Church condemns them - we have to - but we all love them. Last year we did our own version of your Il Vicolo at the Christmas That I would pay to see.
 LILLI: That I would pay to see.
 GUIDO: Luisa was in that film.
 LILLI: She was the best thing in the movie.
-GUIDO: It's true.   It was your first part.
+GUIDO: It's true. It was your first part.
 CARDINAL'S SECRETARY: Of course! - you're Luisa Acari! Oh my Lord!
 LUISA: I was.
 CARDINAL'S SECRETARY: You can't stop being somebody.
-LUISA: Can't you? p. 52
-CARDINAL'S SECRETARY: Well there's a good catholic wife for you, Guido, that's what they do - sacrifice. Still, Signora Contini, it must be a very exciting life for you...
-LUISA (CONT'D): p. 53
-CLAPPER LOADER (O.S.): Signorina Acari, per favore. Provino numero uno. Luisa Acari.
-GUIDO (O.S.): Your name, it's Italian.
-LUISA: My father's Italian. My mother's French.
-GUIDO (O.S.): What have you done before?
-LUISA: (eyes twinkling) Oh, I've waited...
-GUIDO (O.S.): Waited? For this?
-LUISA: Waited tables. (they both laugh) And, of course, I studied theatre and mime in Paris. But, mostly waited tables. p. 54
+LUISA: Can't you?
+CARDINAL'S SECRETARY: Well there's a good catholic wife for you, Guido, that's what they do - sacrifice. Still, Signora Contini, it must be a very exciting life for
+LUISA: MY HUSBAND MAKES MOVIES TO MAKE THEM HE LIVES A KIND OF DREAM IN WHICH HIS ACTIONS AREN'T ALWAYS WHAT THEY SEEM- HE MAY BE ON TO SOME UNIQUE ROMANTIC SOME MEN RUN BANKS SOME RULE THE WORLD SOME EARN THEIR LIVING BAKING BREAD. MY HUSBAND.. HE GOES A LITTLE CRAZY MAKING MOVIES INSTEAD. MY HUSBAND SPINS FANTASIES, HE LIVES THEM, THEN GIVES THEM TO YOU LIKE MICHELANGELO, HE PAINTS HIS PRIVATE DOME BUT CAN'T DISTINGUISH WHAT'S HIS WORK AND WHAT'S HIS HOME. SOME MEN SELL STOCKS SOME MEN PUNCH CLOCKS SOME LEAP WHERE OTHERS FEAR TO TREAD. MY HUSBAND, AS AUTHOR AND DIRECTOR, MAKES UP STORIES IN HIS HEAD.
+ALL: LIKE MICHELANGELO, HE PAINTS HIS PRIVATE DOME BUT CAN'T DISTINGUISH WHAT'S HIS WORK AND WHAT'S HIS HOME. SOME MEN SELL STOCKS SOME MEN PUNCH CLOCKS SOME LEAP WHERE OTHERS FEAR TO TREAD. MY HUSBAND, AS AUTHOR AND DIRECTOR, MAKES UP STORIES IN HIS HEAD.
+LIKE MICHELANGELO,: HE PAINTS HIS PRIVATE DOME BUT CAN'T DISTINGUISH WHAT'S HIS WORK AND WHAT'S HIS HOME. SOME MEN SELL STOCKS SOME MEN PUNCH CLOCKS SOME LEAP WHERE OTHERS FEAR TO TREAD. MY HUSBAND, AS AUTHOR AND DIRECTOR, MAKES UP STORIES IN HIS HEAD.
+OWN,: THEN WE HAD NO END OF WORLDS TO SINGING TOGETHER ALL NIGHT ON THE PHONE LONG AGO - SOMEONE ELSE AGO.
+DISCOVER,: SINGING TOGETHER ALL NIGHT ON THE PHONE LONG AGO - SOMEONE ELSE AGO.
+LUISA: My father's Italian. My mother's What have you done before?
+LUISA: ( eyes twinkling ) Oh, I've waited.
+LUISA: Waited tables. And, of course, I studied theatre and mime in Paris. But, mostly waited
 GUIDO: Thank you.
 LUISA: For what?
-GUIDO: Thank you. For what I'm looking at. (walking away) Keep running.
-LUISA: Excuse me, I suddenly feel very tired. p. 55
-GUIDO: Luisa!
-LUISA: I'm staggered by my own stupidity.    I could vomit.
+GUIDO: Thank you. For what I'm looking at. Keep running.
+LUISA: LONG AGO - SOMEONE ELSE AGO. HOW HE NEEDS ME SO, AND HE'LL BE THE LAST TO KNOW IT. MY HUSBAND MAKES MOVIES. TO MAKE THEM HE MAKES HIMSELF HE WORKS FOR WEEKS ON END WITHOUT A BIT OF REST- NO OTHER WAY CAN HE ACHIEVE HIS LEVEL SOME MEN READ BOOKS, SOME SHINE THEIR SHOES, SOME RETIRE EARLY, SOME STAY UP TO DREAM AND MUSE. MY HUSBAND ONLY RARELY COMES TO BED - MY HUSBAND MAKES MOVIES INSTEAD. MY HUSBAND MAKES MOVIES.
+LUISA: Excuse me, I suddenly feel very tired.
+GUIDO: I'm staggered by my own stupidity. I could vomit.
+LUISA: I'm staggered by my own stupidity. I could vomit.
 GUIDO: Luisa - will you please just tell me what happened?
-LUISA: You open your mouth and a lie comes out.
+LUISA: You open your mouth and a lie comes What lie?
 GUIDO: What lie?
 LUISA: Why am I surprised? - it's like breathing to you.
-CARLA: Guido.
-CARLA: (trying to explain) I was hungry. I'm tired of eating alone in that room.
-GUIDO: There are plenty of restaurants. p. 56
+CARLA: Raging, he grabs her and frogmarches her out the door.
+CARLA: ( trying to explain ) I was hungry. I'm tired of eating alone in that room.
+GUIDO: There are plenty of restaurants.
 CARLA: I wanted to see the hotel. I told you I came here with my parents when I was little. I didn't come to disturb you.
 GUIDO: Well you certainly managed to.
 CARLA: Why didn't you tell me Luisa was going to be here!
-GUIDO: I didn't know she was here.   She just turned up.
+GUIDO: I didn't know she was here. She just turned up.
 CARLA: Well, she could have warned you.
-GUIDO: The only privilege my wife has these days is not having to warn me.
+GUIDO: The only privilege my wife has these days is not having to warn me. A taxi, please, for the Signora.
 GUIDO O.S: A taxi, please, for the Signora.
-DE ROSSI O.S.: Right away.
 GUIDO: Carla, you have to wait outside.
 CARLA: Will you wait with me?
 GUIDO: I'm in the middle of a working dinner with my colleagues.
 CARLA: So why do I have to wait outside?
-GUIDO: (shamed) I'll find someone to escort you home. p. 57
-DE ROSSI: (carefully) Signora, would you rather wait inside?
-CARLA: I'm going to walk.   Please tell my friend I had to leave.
-GUIDO: Apparently she's staying in some grotesque pensione next to the station.
-GUIDO (CONT'D): Luisa, if I'd invited her here, she would be staying in the hotel, wouldn't she? Think about it. I didn't even know you were coming.
-LUISA: (without opening her eyes) Very plausible.
+GUIDO: ( shamed ) I'll find someone to escort you home.
+DE ROSSI: ( carefully ) Signora, would you rather wait inside?
+CARLA: I'm going to walk. Please tell my friend I had to leave.
+GUIDO: Apparently she's staying in some grotesque pensione next to the
+LUISA: ( without opening her eyes ) Very plausible.
 GUIDO: Because it's true.
 LUISA: You told me it was finished.
-GUIDO: It is. Look, she was worried about me, she came to see if I was all right - which yes, is stupid but not, as far as I know, a crime, and hardly a mortal sin. p. 58
-GUIDO (CONT'D): (smiles, insecure) What? What are you laughing about?
-LUISA: Nothing. If you could see yourself. (raising herself up further) I couldn't live with it - the absurdity of being you, the effort of having to hide and lie and cheat. It's exhausting, no wonder you've got no script, you're too busy inventing your own life.
-GUIDO: It's finished. It's finished. (and he is exhausted) If it wasn't before, it is now.
-LUISA: (lying back on her bed) Blah blah blah blah blah.
-GUIDO: Vodka.
-STEPHANIE (O.S.): I'll have one of those. Due.
-STEPHANIE (CONT'D): Hi, Guido Contini. Stephanie, from Vogue, remember me?
+GUIDO: It is. Look, she was worried about me, she came to see if I was all right - which yes, is stupid but not, as far as I know, a crime, and hardly a mortal sin.
+LUISA: Nothing. If you could see yourself. I couldn't live with it - the absurdity of being you, the effort of having to hide and lie and cheat. It's exhausting, no wonder you've got no script, you're too busy inventing your own life.
+GUIDO: It's finished. It's finished. If it wasn't before, it is now.
+LUISA: ( lying back on her bed ) Blah blah blah blah blah.
+GUIDO: A voice comes from behind him.
 GUIDO: Yes, I remember very well, Stephanina from Vogue.
-STEPHANIE: So, coincidence. You being here.    And me being here. p. 59
-GUIDO: (taking his glasses off) Amazing. May I take a cigarette?
+STEPHANIE: So, coincidence. You being here. And me being here.
+GUIDO: ( taking his glasses off ) Amazing. May I take a cigarette?
 STEPHANIE: That was quite a performance. At the Press Conference. The Vanishing Act.
-STEPHANIE (CONT'D): No, please, my treat.
-GUIDO: (paying) Please.
-STEPHANIE: Grazie.
-GUIDO: Prego.
-STEPHANIE: (eyeing Guido) I've seen all your movies.
-GUIDO: (lights their cigarettes) Really?
+GUIDO: ( paying ) ( eyeing Guido ) I've seen all your movies.
+STEPHANIE: ( eyeing Guido ) I've seen all your movies.
+GUIDO: ( eyeing Guido ) I've seen all your movies.
+STEPHANIE: ( eyeing Guido ) I've seen all your movies.
+GUIDO: ( lights their cigarettes ) Like a million times. They're the only movies that tell the truth about the modern world.
 STEPHANIE: Like a million times. They're the only movies that tell the truth about the modern world.
 GUIDO: And what truth is that?
-STEPHANIE: (thinks) Death of religion... Sexual revolution...
+STEPHANIE: ( thinks ) Death of religion. Sexual I don't think religion is dead. And what exactly is the sexual revolution?
 GUIDO: I don't think religion is dead. And what exactly is the sexual revolution?
 STEPHANIE: That we can talk about later.
-STEPHANIE (CONT'D): You have such style. I always think that. That's the other thing I love about your movies.
-GUIDO: (appalled) Style.
+GUIDO: ( appalled ) Every frame is like a postcard.
 STEPHANIE: Every frame is like a postcard.
-GUIDO: (appalled) Okay.
+GUIDO: ( appalled ) It's great: you care as much about the suit as the man wearing it.
 STEPHANIE: It's great: you care as much about the suit as the man wearing it.
-STEPHANIE (CONT'D): It's the Italian man in you: pays for your drinks, undresses you with his eyes...
 GUIDO: I hate that man.
 STEPHANIE: No! Style is the new content! It's what my readers love. They want to dress like Claudia Jenssen. They want to undress like Claudia Jenssen. They want to ride on a Vespa down the Via Veneto. They want to live in an Italian movie.
-CONTINI'S CINEMA: p. 64
-GUIDO: No.
-GUIDO: I love you Luisa.
-GUIDO (CONT'D): Can we please try to be close again.
-GUIDO (CONT'D): Pronto...
+STEPHANIE: I LOVE THE BLACK AND WHITE! I LOVE THE PLAY OF LIGHT! THE WAY CONTINI PUTS HIS IMAGE THROUGH A PRISM.
+STEPHANIE: I FEEL MY BODY CHILL GIVES ME A SPECIAL THRILL EACH TIME I SEE THAT GUIDO NEO-REALISM
+STEPHANIE: I LOVE THE DARK AND HANDSOME GUYS WITH THEIR SKINNY LITTLE TIES DRESSIN' MOD, LOOKIN' OUTTA SIGHT! I LOVE TO WATCH `EM AS THEY CRUISE WITH THEIR POINTY LEATHER SHOES WEARIN' SHADES IN THE MIDDLE OF THE
+STEPHANIE: WHATEVER GUIDO DOES, IT MAKES ME SMILE HE IS THE ESSENCE OF ITALIAN STYLE. I LOVE THE GLAMOROUSLY LATIN WORLD THAT ONLY GUIDO CAN PORTRAY!!! CONTINI'S CINEMA ITALIANO! I LOVE HIS CINEMA ITALIANO! HE MAKES ME FEEL WITH CINEMA ITALIANO
+STEPHANIE: THOSE SCENES I LOVE TO SEE FROM GUIDO'S "P" "O" "V" THERE'S NO ONE ELSE WITH HIS UNIQUE DIRECTOR'S VISION. HIS ANGLES - WIDE AND TIGHT - EACH MOMENT FEELS SO RIGHT. DEFINES ITALIAN STYLE BY ONLY HIS I LOVE THE SPEEDY LITTLE CARS THE HIP COFFEE BARS THE SLEEK WOMEN IN POSITANO. GUIDO'S THE ULTIMATE UOMO ROMANO! CONTINI'S CINEMA ITALIANO! I LOVE HIS CINEMA ITALIANO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO!
+DECISION!: I LOVE THE SPEEDY LITTLE CARS THE HIP COFFEE BARS THE SLEEK WOMEN IN POSITANO. GUIDO'S THE ULTIMATE UOMO ROMANO! CONTINI'S CINEMA ITALIANO! I LOVE HIS CINEMA ITALIANO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO GUIDO!
+GUIDO GUIDO!: DRUM BREAK. The number heats up.
+STEPHANIE: DARK AND HANDSOME GUYS SKINNY LITTLE TIES SHADES IN THE MIDDLE OF THE NIGHT SPEEDY LITTLE CARS HIP COFFEE BARS SLEEK WOMEN IN POSITANO. STEPHANIE AND WOMEN MEN NELLA MIA ANIMA NELLA MIA ANIMA CINEMA ITALIANO BIANCO-NERO BIANCO-NERO CINEMA ITALIANO WOMEN MEN NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+ALL: NELLA MIA ANIMA NELLA MIA ANIMA CINEMA ITALIANO BIANCO-NERO BIANCO-NERO CINEMA ITALIANO WOMEN MEN NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+CINEMA ITALIANO: BIANCO-NERO BIANCO-NERO CINEMA ITALIANO WOMEN MEN NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+STEPHANIE: CINEMA ITALIANO WOMEN MEN NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+CINEMA ITALIANO: WOMEN MEN NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+NIGHT: SPEEDY LITTLE CARS HIP COFFEE BARS MOD, LOOKIN' OUTTA SIGHT
+ALL: NELLA MIA ANIMA CINEMA ITALIANO NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+CINEMA ITALIANO: NELLA MIA ANIMA CINEMA ITALIANO CONTINI'S CINEMA
+CINEMA ITALIANO: CONTINI'S CINEMA
+CONTINI'S CINEMA: Suddenly, Guido is sharing the runway with Stephanie, the go-go dancers, and the male models, soaking up the adoration as his idol-worshipping audience cheers and paparazzi flash. It's a party. Champagne Popping. Everyone is chanting Guido's name. Guido and Stephanie exit the runway, arm and arm.
+ITALIANO!: Suddenly, Guido is sharing the runway with Stephanie, the go-go dancers, and the male models, soaking up the adoration as his idol-worshipping audience cheers and paparazzi flash. It's a party. Champagne Popping. Everyone is chanting Guido's name. Guido and Stephanie exit the runway, arm and arm.
+GUIDO: He gets up from the bed and bolts from the room.
+GUIDO: I love you Luisa. Can we please try to be close again.
 GUIDO: Is the doctor still with her?
-MATRON: Yes, he's in there. He's waiting for you. This way. p. 65
-CARLA: (distant) You came.
-GUIDO: (taking her hand) I'm here.
+MATRON: Yes, he's in there. He's waiting for you. This way.
+CARLA: ( distant ) You came.
+GUIDO: ( taking her hand ) I'm here. Signor Contini.
 DOCTOR RONDI: Signor Contini.
 CARLA: Come back.
-DOCTOR RONDI: She took five or six pills, enough to make herself very sick. I understand she's your mistress. (Guido can't answer) This is a sordid business. You movie people, I suppose you don't consider yourself bound by morality...
-MAMMA (O.S.): Guido? Dove corri? Where are you running to?
-GUIDO: Thank you.    I'm going to stay with her now.
+DOCTOR RONDI: She took five or six pills, enough to make herself very sick. I understand she's your mistress. This is a sordid business. You movie people, I suppose you don't consider yourself bound by morality.
+GUIDO: Thank you. I'm going to stay with her If you need us for anything, just call, okay? Francesca, andiamo.
 MATRON: If you need us for anything, just call, okay? Francesca, andiamo.
-GUIDO: Grazie.
-GUIDO (CONT'D): Carla, I should call your husband.
+GUIDO: He sits on the side of the bed and puts his hand over
 CARLA: No, he'll take me home.
-GUIDO: What have you done to yourself?    I'm not worth dying for, Carla.
+GUIDO: What have you done to yourself? I'm not worth dying for, Carla.
 CARLA: Don't be angry with me. Everything I do, I just want you to love me.
-CARLA (CONT'D): When you're not here with me, I'm still here. When you're in your life, making your movies, dancing with your wife - I'm still here.
-GUIDO: Ssshh. You should rest. We'll talk about everything in the morning... p. 67
-CARLA: (Clutching at him) Don't leave me. Don't leave me.
-GUIDO: Rest, rest.   Cara mia...
-MAMMA (O.S.): ...Caro,caro mio.
+GUIDO: Ssshh. You should rest. We'll talk about everything in the morning.
+CARLA: ( Clutching at him ) Don't leave me. Don't leave me.
+GUIDO: Rest, rest. Cara mia.
+BLISSFULLY!: DREAMING, FLYING FREE!
 CARLA: My husband thinks I'm clever, that's the strange thing, because I'm not, well you know that, I spend too much time in my little brain thinking about you, about where you are, what you are doing, what you dream of.
-MAMMA: p. 68
-GUIDO: Hold on to me, Mamma.   Don't let me wake from this.
+MAMMA: OH, DREAM OF YOUR YOUTH WHEN I'M STILL BY YOUR SIDE DREAM OF YOUR MANHOOD, PRAY I'M THERE TO GUIDE YOU AND WHEN YOU GROW OLD
+MINE!: YES, MINE!
+YES, MINE!: She gently spins Young Guido, and - as he completes the turn - he is replaced by Older Guido. Mamma now waltzes with her adult son.
+GUIDO: SAI CHE TI VOGLIO BENE, FIGLIOLO MIO, DO YOU THINK THAT SO MANY WILL LOVE YOU AS I DO?
+FIGLIOLO MIO,: DO YOU THINK THAT SO MANY WILL LOVE YOU AS I DO?
+GUIDO: DO YOU THINK THAT SO MANY WILL LOVE YOU AS I DO?
+GUIDO: Hold on to me, Mamma. Don't let me wake from this.
 MATRON: Excuse me.
 LUIGI: Is she okay?
-GUIDO: Yes.
+GUIDO: I'd like to take her home.
 LUIGI: I'd like to take her home.
-GUIDO: Of course. I'm sorry. (hapless) She loves you, you know that, don't you.
+GUIDO: Of course. I'm sorry. She loves you, you know that, don't She's my wife.
 LUIGI: She's my wife.
-GUIDO: Darling?
+GUIDO: Dante appears, stuffing Guido's things into a suitcase.
 DANTE: We're going back to Rome.
-GUIDO: (anxious) Where's Luisa?
-DANTE: Luisa? She's gone. She's had it with you. (different tone) And quite frankly, so have I. You drag a whole crew up here and then you just disappear.
-(MORE): p. 70
-DANTE (CONT'D): I can't protect you anymore. And Claudia is in Rome. Makeup tests start today. Remember?
-GUIDO: (sits) I can't.
+GUIDO: ( anxious ) Where's Luisa?
+DANTE: Luisa? She's gone. She's had it with And quite frankly, so have I. You drag a whole crew up here and then you just disappear.
+GUIDO: ( sits ) I can't.
 DANTE: You can't. You must. Don't sit down.
 GUIDO: I need help.
-DANTE: (still packing) You've had help. You've seen the doctors, you've seen the priests, you've taken the cure.
+DANTE: ( still packing ) You've had help. You've seen the doctors, you've seen the priests, you've taken the cure.
 GUIDO: I'm not cured.
-DANTE: (decisive, no arguments) That's enough! The movie calls, your star has landed. Fausto - take his things please.
-DANTE (CONT'D): (impatient, at the door) Guido! Andiamo!
-GUIDO (O.S.): I need more time.
-DANTE (O.S.): Forget the script. Claudia's here now. She'll inspire you to do what you do best, write with your camera. p. 71
+DANTE: ( decisive, no arguments ) That's enough! The movie calls, your star has landed. Fausto - take his things please.
 PIERPAOLO: Maestro, the screen tests are back from the lab. Will you watch them now?
-DANTE: Tonight.   We'll watch everything tonight and make some decisions.
+DANTE: Tonight. We'll watch everything tonight and make some decisions.
 PIERPAOLO: Design meeting? Production meeting?
-DANTE: Tonight.
-PIERPAOLO: Tonight.
+DANTE: Dante marches Guido towards the stage. Lilli joins
+PIERPAOLO: Dante marches Guido towards the stage. Lilli joins
 LILLI: Claudia says where are you? She's in fine form. Feisty.
-GUIDO: (knows what that means) Okay.
-LILLI: She asked if she could read my script as she didn't have one. I said I didn't quite have mine. p. 72
-LUISA: Pronto.
-GUIDO: Luisa, it's me. Please don't hang up. (she doesn't respond) I want you to be with me in the screening room tonight. I want to talk to you about the casting, about the script. Everything...
-GUIDO: Otherwise I won't be able to start, I won't know what I'm thinking...
-PIERPAOLO: Maestro.
+GUIDO: ( knows what that means ) She asked if she could read my script as she didn't have one. I said I didn't quite have mine.
+LILLI: She asked if she could read my script as she didn't have one. I said I didn't quite have mine.
+LUISA: Luisa, it's me. Please don't hang up. I want you to be with me in the screening room tonight. I want to talk to you about the casting, about the script. Everything.
+GUIDO: Luisa, it's me. Please don't hang up. I want you to be with me in the screening room tonight. I want to talk to you about the casting, about the script. Everything.
+GUIDO: Otherwise I won't be able to start, I won't know what I'm thinking.
+PIERPAOLO: Guido nods, waves him away.
 GUIDO: Are you there? Luisa?
 LUISA: Go on.
-GUIDO: I'm not asking you to let me come home, I just want you to come to the screen test tonight. Not for me, but for the movie. You always have, you always do. p. 73
-PIERPAOLO: Silence please. Se gira. And we are rolling.
-GUIDO: Could you turn to the right please, Claudia.
+GUIDO: I'm not asking you to let me come home, I just want you to come to the screen test tonight. Not for me, but for the movie. You always have, you always do.
+PIERPAOLO: Silence please. Se gira. And we are
+GUIDO: Could you turn to the right please, Yes, I can turn to my right.
 CLAUDIA: Yes, I can turn to my right.
 GUIDO: And can you turn to the left.
 CLAUDIA: Yes, I can turn to my left.
 GUIDO: Now just one slow turn for us.
-CLAUDIA: (she turns around) Okay, one slow turn.
-GUIDO: Bellissima.   Brava.   Cut.
-PIERPAOLO: We've got it. Next costume please. p. 74
-CLAUDIA: Has anybody got a script? Script missing, handsome reward.... Lost, one script, title Italia. Can't make a film without it...
-CLAUDIA (CONT'D): So interesting to do hair and makeup for a part when you don't know what the part is.
-CLAUDIA (CONT'D): (shrugs off the coat) No! I'm going back to my hotel now.
-PIERPAOLO: (anxious) But please, just a couple more costumes, Claudia.
-CLAUDIA: (to Guido) I'm going back to my hotel now, my darling, and when I there is a script, I'll read it and then we'll take it from there. (calls over to Lilli) I love the costumes, Lilli. They are beautiful. (back to the guys, sweetly) Ciao Bello.
+CLAUDIA: ( she turns around ) Okay, one slow turn.
+GUIDO: Bellissima. Brava. Cut.
+PIERPAOLO: We've got it. Next costume please.
+CLAUDIA: Has anybody got a script? Script missing, handsome reward.. Lost, one script, title Italia. Can't make a film without it.
+PIERPAOLO: ( anxious ) But please, just a couple more costumes, Claudia.
+CLAUDIA: ( to Guido ) I'm going back to my hotel now, my darling, and when I there is a script, I'll read it and then we'll take it from there. ( calls over to Lilli ) I love the costumes, Lilli. They are ( back to the guys, Ciao Bello.
 GUIDO: That's fair.
-DANTE: Claudia!
-GUIDO: (to Dante) That's fair.
-DANTE: Fair?
-GUIDO: I'll be back. p. 75
-DANTE: (calling to Guido) You've got dailies, Guido.
+DANTE: ( to Dante ) That's fair.
+GUIDO: ( to Dante ) That's fair.
+DANTE: I'll be back.
+GUIDO: I'll be back.
+DANTE: ( calling to Guido ) You've got dailies, Guido.
 GUIDO: I'll be right back.
-DANTE: (shouting) You've got meetings.
+DANTE: ( shouting ) You've got meetings.
 GUIDO: You look ravishing.
 CLAUDIA: You're not seeing me, you're seeing Lilli's wigs and makeup, I'm somewhere hidden underneath.
 GUIDO: It's good to see you.
 CLAUDIA: I'm assuming that's code for there's no script.
-GUIDO: Why is everybody so suddenly obsessed with the script?
-GUIDO (CONT'D): Talk to the people who love you in our films, they're not interested in my script! They're interested in the way you turn your head, the way the camera looks past you to the moon... the way you smile a little as you cry, the way you really do blush for the camera - how?! - (enough examples, sighs) who even knows, but whatever else it is, it's not my script.
+GUIDO: Why is everybody so suddenly obsessed with the script? Talk to the people who love you in our films, they're not interested in my script! They're interested in the way you turn your head, the way the camera looks past you to the moon. the way you smile a little as you cry, the way you really do blush for the camera - how?! - who even knows, but whatever else it is, it's not my script.
 CLAUDIA: So Lilli says I'm playing a million different parts -
 GUIDO: Not a million - you're the muses, the incredible women who made Italy what it is today, a country run by men - who are themselves run by women, whether they know it or not.
-CLAUDIA: (teasing him) So I'm the women behind the great men?
-GUIDO: (trying hard to tell the truth) The great women...
-(MORE): p. 77
-GUIDO (CONT'D): In a way - yes - you have this man in the story and he's, he wants to take hold of everything, to devour everything, he can't let anything go, or, he doesn't want to, and he changes direction every day, because he's lost, he's dying, he's bleeding to death...
-CLAUDIA: (deflating) And these muses - they fall in love with the man?
-GUIDO: Exactly!   They fall in love with him.
-CLAUDIA: (decisive) I'd rather be the man.
-GUIDO: What?
+CLAUDIA: ( teasing him ) So I'm the women behind the great men?
+GUIDO: ( trying hard to tell the The great women.
+CLAUDIA: ( deflating ) And these muses - they fall in love with the man?
+GUIDO: Exactly! They fall in love with him.
+CLAUDIA: ( decisive ) I'd rather be the man.
+GUIDO: I'd rather be the man.
 CLAUDIA: I'd rather be the man.
-CLAUDIA: These women who come off their pedestals for a kiss - they're just fantasies.
-GUIDO: No, you misunderstand... p. 78
+CLAUDIA: IN A VERY UNUSUAL WAY, ONE TIME I NEEDED YOU, IN A VERY UNUSUAL WAY, YOU WERE MY FRIEND. MAYBE IT LASTED A DAY, MAYBE IT LASTED AN HOUR, BUT SOMEHOW IT WILL NEVER END. These women who come off their pedestals for a kiss - they're just No, you misunderstand.
+CLAUDIA: These women who come off their pedestals for a kiss - they're just No, you misunderstand.
+GUIDO: No, you misunderstand.
+CLAUDIA: IN A VERY UNUSUAL WAY, I THINK I'M IN LOVE WITH YOU, IN A VERY UNUSUAL WAY, I WANT TO CRY. SOMETHING INSIDE ME GOES WEAK, SOMETHING INSIDE ME SURRENDERS, AND YOU'RE THE REASON WHY, YOU'RE THE REASON WHY. YOU DON'T KNOW WHAT YOU DO TO ME. YOU DON'T HAVE A CLUE. YOU CAN'T TELL WHAT IT'S LIKE TO BE ME LOOKING AT YOU. IT SCARES ME SO THAT I CAN HARDLY She's his inspiration.
 GUIDO: She's his inspiration.
 CLAUDIA: I can't keep playing that part.
 GUIDO: I fall in love with you every time.
 CLAUDIA: When there's a camera between us.
-GUIDO: No.
-CLAUDIA: It's not a real person, Guido. (pointed) And this man you describe - he doesn't know how to love.
-GUIDO: There was a time once, we were on location, some terrible hotel - and you were in the room directly above me and I could hear you walking about...
-GUIDO (CONT'D): ...and, all through the night, I wanted to rush up the stairs and hammer on your door until you opened.
+GUIDO: It's not a real person, Guido. And this man you describe - he doesn't know how to love.
+CLAUDIA: It's not a real person, Guido. And this man you describe - he doesn't know how to love.
+GUIDO: There was a time once, we were on location, some terrible hotel - and you were in the room directly above me and I could hear you walking about.
 CLAUDIA: And why didn't you?
 GUIDO: I don't know. I don't know.
-CLAUDIA: Maybe you should have knocked, maybe you should have knocked me right off the pedestal. I can't do this anymore.
-CLAUDIA (CONT'D): This is me.   And you have a wife who loves you.
-CLAUDIA (CONT'D): I'll miss you. Wrong girl. p. 80
-DANTE: (to Lilli) Great work, Lilli... Wonderful costume...
+CLAUDIA: SPECIAL TO ME IN MY LIFE, SINCE THE FIRST DAY THAT I MET YOU. HOW COULD I EVER FORGET YOU, ONCE YOU HAD TOUCHED MY SOUL. IN A VERY UNUSUAL WAY, YOU'VE MADE ME WHOLE.
+CLAUDIA: Maybe you should have knocked, maybe you should have knocked me right off the pedestal. I can't do this
+DANTE: ( to Lilli ) Great work, Lilli. Wonderful Thank you.
 LILLI: Thank you.
-DANTE: ...and the hair, makeup, fantastic.
+DANTE: .and the hair, makeup, fantastic. She has a beautiful profile.
 BENITO: She has a beautiful profile.
 DANTE: Two great profiles.
 FAUSTO: She's a goddess.
 DANTE: And the back isn't too bad.
-FAUSTO: She came directly from Venus. Beautiful.
-DANTE: Fantastic. Guido?     Really nice. Who's next?
-BENITO: Actresses.
-DANTE: Okay.   Let's see the actresses. p. 81
+FAUSTO: She came directly from Venus. Fantastic. Guido? Really nice. Who's next?
+DANTE: Fantastic. Guido? Really nice. Who's next?
+BENITO: Okay. Let's see the actresses.
+DANTE: Okay. Let's see the actresses.
 BENITO: If we like her, we have to call her agent right away. Everybody wants her right now.
 DANTE: Well they can keep her.
 BENITO: She's a very funny actress.
-DANTE: She's peculiar. You don't like her Guido?
-DANTE (CONT'D): She's nice.
+DANTE: She's peculiar. You don't like her
 FAUSTO: She's very natural.
-DANTE: Even better. She's a bit nervous here. What do you say, Guido? Donatella's nice? p. 82
-DANTE (CONT'D): Who's this? I thought we were looking for a blonde.
+DANTE: Even better. She's a bit nervous here. What do you say, Guido? Donatella's nice?
 FAUSTO: She's too tall.
 DANTE: Very tall.
 BENITO: She's very beautiful.
-DANTE: It's not the point.     Guido wants the blonde.
+DANTE: It's not the point. Guido wants the She's not bad, but -
 FAUSTO: She's not bad, but -
-DANTE: Shh.
+DANTE: She's beautiful.
 FAUSTO: She's beautiful.
-DANTE: She's too beautiful.      For my tastes.
-DANTE (CONT'D): I don't know what Guido thinks. I think we are happy with Donatella. Donatella's better, isn't she?
-GUIDO: Sure.
-DANTE: (delighted, jumps up) Great. Anyway, fantastic day, but we have to go home. We have a very, very busy day tomorrow. Thank you very much everybody. Thank you. Okay, well done.
-GUIDO: It meant so much to us all.    That you came.
-(MORE): p. 83
-GUIDO (CONT'D): (nothing from Luisa) What did you think? Did you like anybody or -? (nothing) Luisa?
+DANTE: She's too beautiful. For my tastes.
+GUIDO: ( delighted, jumps up ) Great. Anyway, fantastic day, but we have to go home. We have a very, very busy day tomorrow. Thank you very much everybody. Thank you. Okay, well
+DANTE: ( delighted, jumps up ) Great. Anyway, fantastic day, but we have to go home. We have a very, very busy day tomorrow. Thank you very much everybody. Thank you. Okay, well
+GUIDO: It meant so much to us all. That you
+LUISA: YOU WANT MY LOVE? TAKE IT ALL YOU WANT TO WATCH IT ALL COME OFF? TAKE IT ALL COME ON NOW SHOW ME HOW YOU TAKE IT ALL. Thank you.
 LUISA: Thank you.
-GUIDO: (encouraged) What for?
+GUIDO: ( encouraged ) What for?
 LUISA: Thank you for reminding me I'm not special. You don't even see what you do, do you? Even the moments I think are ours, it's just you working to get what you want.
-GUIDO: (dawning on him) What are you talking about?
-GUIDO (CONT'D): The screen test? You have to understand, it's nothing, this is what I do, I direct. That's my job.
+LUISA: YOU WANT MY GLOVE? ARE YOU ENTHRALLED? YOU WANT TO SEE IT SLIP AWAY AND WATCH IT FALL? OH WE KNOW IT'S YOUR SHOW SO TAKE IT ALL What are you talking about?
+GUIDO: ( dawning on him ) What are you talking about?
 LUISA: And this is our life. You think to create is to forgive yourself in public. Fine. But don't think I can forgive you in private, because I can't ever.
+LUISA: SO GO AHEAD TAKE IT ALL YOU WANT MY SOUL? TAKE IT ALL! IT'S TIME TO LEAVE. IF I'M TO LIVE. BECAUSE I HAVE NO MORE, THERE'S NOTHING LEFT TO GIVE.
+NOTHING!: INT. SCREENING ROOM, CINECITTA - NIGHT Luisa gets up from her chair, heads to the exit door.
 LUISA: You're just an appetite, and if you stopped being greedy you'd die. You take everything, and I'm empty.
-LUISA (CONT'D): You know, I'm glad I came. I can see now... it's hopeless...
-GUIDO: What have I done? What have I done, Luisa?
-GUIDO: p. 86
-GUIDO (CONT'D): (honest) I destroyed everything, Mamma...
-GUIDO (CONT'D): ...I destroyed everything, I just... you make one wrong turn and then because of that, after it all the turns are wrong. And you are so far from where you wanted to be...and you're lost and then you're lost. p. 87
-MAMMA: No one can help you find your way. (a beat) It's up to you, Guido. Up to you. Nobody else.
-GUIDO (O.S.): Old friends, I have to come clean with you.
-GUIDO: There is no movie. I can't pretend anymore. We have to stop. (nothing more to say) I'm sorry.
-LILLI: I'm glad she's acting again. I made her costumes for the play. She's funny.
-GUIDO: She seemed so happy. I didn't want to interfere... Is she with anybody?
-LILLI: Guido, she's my friend. I'm not her mother. I don't know. I expect so. Nobody likes to be alone. Promise me you're going to let me cut your hair and get rid of that awful beard. p. 89
+GUIDO: What have I done? What have I done,
+GUIDO: I CAN'T MAKE THIS MOVIE, THERE'S NO WAY THAT I'LL BEGIN IT. I CAN'T BEAR TO SEE THE CAMERAS ROLL. PROBLEM IS THE SUBJECT, THERE'S NO PLEASANT WAY TO TREAT IT.
+MY EXISTENCE: END UP BEING NOTHING THAT I PLANNED HAVE I LOST MYSELF AND ALL I WISHED HAS MY LIFE BECOME A MINDLESS GAME GUIDO, I CAN'T STAND THE NAME OF GUIDO GUIDO, FOR GODSAKE, WHO IS THIS GUIDO? GUIDO HERE, WITH NO ONE ELSE BUT
+FOR: HAS MY LIFE BECOME A MINDLESS GAME GUIDO, I CAN'T STAND THE NAME OF GUIDO GUIDO, FOR GODSAKE, WHO IS THIS GUIDO? GUIDO HERE, WITH NO ONE ELSE BUT
+MAMMA: No one can help you find your way. It's up to you, Guido. Up to you. Nobody else.
+GUIDO: There is no movie. I can't pretend anymore. We have to stop. I'm sorry.
+LILLI: I'm glad she's acting again. I made her costumes for the play. She's She seemed so happy. I didn't want to interfere. Is she with anybody?
+GUIDO: She seemed so happy. I didn't want to interfere. Is she with anybody?
+LILLI: Guido, she's my friend. I'm not her mother. I don't know. I expect so. Nobody likes to be alone. Promise me you're going to let me cut your hair and get rid of that awful beard.
 GUIDO: I like to get about without everybody pointing at me.
 LILLI: And where are you getting about?
 GUIDO: Nowhere. Here. I walk. Just to be able to walk.
 LILLI: Are you seeing anybody?
 GUIDO: No, no. Nobody.
-LILLI: (teasing) Well, it sounds exciting. Walking around and not seeing anyone, growing a beard.   I might come up here and join you.
-GUIDO: Don't tease me, Lilli.    My heart is -
+LILLI: ( teasing ) Well, it sounds exciting. Walking around and not seeing anyone, growing a beard. I might come up here and join you.
+GUIDO: Don't tease me, Lilli. My heart is -
 LILLI: - I know.
 GUIDO: I just miss her. I should have IDIOT tattooed on my forehead.
 LILLI: Luisa certainly thinks so.
-GUIDO: (grasping at this) Does she? Did she really say that?
+GUIDO: ( grasping at this ) Does she? Did she really say that?
 LILLI: Stop! I'm not going to act as a postman between you both. Come back to Rome. Make a movie. Go to work.
-GUIDO: No. Never. I've spent this time trying to learn something, Lilli, to not be the person who forgets about everybody else, the person who never grew up. p. 90
-LILLI: You're such a dope, aren't you? Making movies wasn't your problem. You were your problem.   Don't stop being a child. You'll never make another movie! Nobody wants that... especially Luisa.
-LILLI (CONT'D): Guido - there probably isn't a single person passing by who hasn't been touched in some way by one of your movies. That's your gift. That's what you've been given. Use it. Just use it with some grace. For Chrissake.
-GUIDO: (doubtful) The only movie I could make now would be... I don't know... would be about a man trying to win back his wife.
-LILLI: Sounds perfect. (after a beat) The costumes might not be so bad too.
+GUIDO: No. Never. I've spent this time trying to learn something, Lilli, to not be the person who forgets about everybody else, the person who never grew up.
+LILLI: You're such a dope, aren't you? Making movies wasn't your problem. You were your problem. Don't stop being a child. You'll never make another movie! Nobody wants that. especially Luisa.
+GUIDO: ( doubtful ) The only movie I could make now would be. I don't know. would be about a man trying to win back his wife.
+LILLI: Sounds perfect. The costumes might not be so bad too.
 YOUNG GUIDO: We're ready to begin!
 GUIDO: I can't remember how you do this.
 PIERPAOLO: You'll remember.
 GUIDO: I don't want to say too much. The first way that we kill our film is by talking about it. But this scene is about reconciliation. And within the scene I would like you to try and find your way to begin that journey back towards each other.
-YOUNG GUIDO: Presto! Presto! Take your places! Andiamo! Andiamo! p. 92
-GUIDO: (Continuing to speak to his actors) Maybe it's the most important building block that we have to begin again... We start from the beginning each time and I feel today as if I'm starting from the beginning. We'll just keep asking each other questions, and don't look to me for the answers, okay?
+YOUNG GUIDO: Presto! Presto! Take your places! Andiamo! Andiamo!
+GUIDO: ( Continuing to speak to Maybe it's the most important building block that we have to begin again. We start from the beginning each time and I feel today as if I'm starting from the beginning. We'll just keep asking each other questions, and don't look to me for the answers, okay?
 PIERPAOLO: Maestro, should I call final checks?
-GUIDO: Yes.
+GUIDO: Makeup, please! Final checks!
 PIERPAOLO: Makeup, please! Final checks!
-PIERPAOLO (CONT'D): Alora. Silencio per favore. Silence please. (to camera) Gyriamo. E alora motore! p. 93
-CLAPPER LOADER: Slate.
+CLAPPER LOADER: At the last moment, Young Guido runs fast, down the maze of steps, across the soundstage and jumps onto the crane with Guido as it begins to rise. Luisa watches. As the last note plays, the crane soars higher, carrying Guido up and up.
+GUIDO: CUT TO BLACK. Writers : Michael Tolkin Anthony Minghella

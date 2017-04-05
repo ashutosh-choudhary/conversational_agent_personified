@@ -1,718 +1,620 @@
-BAD DREAMS: Written by Andrew Fleming & Steven E. de Souza
-VOICES: (various) --where did she go...? ... was here a moment ago... Cynthia, come on, honey, we need you... Cynthia, come out, come out wherever you are... the sun's going down, we're losing the moment...!
-VOICES (CONT'D): ...There you are, you naughty girl! You almost made us lose the sunset... Come on, honey, time's wasting...
-CYNTHIA: (faintly) No, please... I... I really don't want to do this... Can't I just wait for you..? I--I'm not sure about this--
-VICTOR: Easy, Cyn, easy. You don't want to do this, that's okay... right, Harris?
-HARRIS: No, Victor, it's not okay. Here at Unity House, some things have to be done... (slight smile) ...in Unity. This is one of them.
-HARRIS (CONT'D): Cynthia, do you trust me?
-HARRIS (CONT'D): And have I ever lied to you?
-HARRIS (CONT'D): Then I say to you now... to all of you now... that this will be the Ultimate Joining... of man and woman... parent and child... humanity and Godhead.
-HARRIS (CONT'D): Cynthia. Come. There is no shame in this. No crime. No sin. Just the final break with the old world... As night falls, we start a new day... a day of Unity. (a command, but warm) Come to me... my lovechild.
-CYNTHIA'S VOICE: No!   No...
-HARRIS' VOICE: Cynthia, come back! We can't do it without you... We must have unity, my lovechild... Unity, now and through eternity... Cynthia, you cannot run... You belong to us forever--!
+BAD DREAMS: Written by
+VOICES: ( various ) where did she go.? . was here a moment ago. Cynthia, come on, honey, we need you. Cynthia, come out, come out wherever you are. the sun's going down, we're losing the moment.!
+CYNTHIA: ( faintly ) No, please. I. I really don't want to do this. Can't I just wait for you..? II'm not sure about this
+VICTOR: Easy, Cyn, easy. You don't want to do this, that's okay. right,
+HARRIS: No, Victor, it's not okay. Here at Unity House, some things have to be done. .in Unity. This is one of them.
+CYNTHIA'S VOICE: No! No.
+HARRIS' VOICE: Cynthia, come back! We can't do it without you. We must have unity, my lovechild. Unity, now and through eternity. Cynthia, you cannot run. You belong to us
 WASSERMAN: What have we got?
 POLICEMAN: Twenty-four bodies, Inspector. Maybe more.
 WASSERMAN: Cause of fire?
-OFFICER: Some kind of explosion... gas main, methane, too soon to tell. God only knows.
-WASSERMAN: Let's hope He doesn't keep it to Himself.
+OFFICER: Some kind of explosion. gas main, methane, too soon to tell. God only knows.
+WASSERMAN: Let's hope He doesn't keep it to We got one! We got a survivor! Get a stretcher and oxygen over here,
 A VOICE: We got one! We got a survivor! Get a stretcher and oxygen over here,
-VOICES: (busy, frantic) Make room, make room! Get that airway in! I got a pulse, whoa, it's faint... Talk about lucky, she musta fallen in the basement... First and second degree burns... Come on people, move your asses!
-NEWSCASTER'S VOICE: (filtered) --Authorities continue to investigate yesterday's mysterious explosion and fire at Unity House, the controversial New Age commune headed by self-styled Guru Adrian Harris. 32 people died in the blaze. Thirteen year old Cynthia Weston, the fire's only survivor, remains in guarded but stable condition at County General. In national news, newspaper heiress Patricia Hearst was abducted from her Bay area apartment shortly before dawn today... A communique from the so-called "Symbionese Liberation Army" demanded that...
-VOICES: Blood pressure 90 over 30, we're losing her... Where's that cart? CLEAR! CLEAR! Okay, it's climbing... Watch the EEG... Brain activity, shit, damn low... A) WASSERMAN, who appears first in his clothes from the fire, then two other wardrobe changes; B) HOSPITAL PERSONNEL, at first the harried and rushed emergency staff, and then the more blase regular doctors and nurses; C) VARIOUS MEDICAL EQUIPMENT, as a series of DIAGNOSTIC TESTS are run on Cynthia--
-VOICES (CONT'D): (over this) No sign of physical damage but neurological functions still depressed... Sorry, Inspector, no changes... Patient comatose after 14 days... Brain scan shows minor irregularities; pupil function within normal range... Still no sign of consciousness... Still comatose after 21 days ... Sorry, Inspector, we'll call you if there's any progress... Still comatose after 42 days... Patient moved out of intensive care....
-VARIOUS NEWSCASTERS' VOICES: (filtered, in and out, intermittently audible) ...The mother of Martin Luther King Junior was assassinated today while she played the organ in her son's church... interrupt to bring this bulletin... Richard Milhous Nixon has resigned as President of the United States... As the Marine guards hold back the crowds, the last helicopters took off from the roof of the Embassy in Saigon... Bicentennial festivities begin today in Philadelphia...
-NEWSCASTERS: --leak at the Three Mile Island facility... 73 Americans remain hostage in the Teheran Embassy... Ronald Reagan has been elected 40th President... renewed fighting in the Middle East... assailant shot John Lennon at point blank range... President Reagan has been shot! He is in guarded condition at... The Pope has been shot! He was rushed by ambulance to... President Anwar Sadat has been assassinated...
-NEWSCASTERS(CONT'D): ...the Korean airliner was shot down by a Soviet jet, killing all 269 people aboard... invasion of the island Nation of Grenada... Prime Minister Indira Ghandi was assassinated by members of her own bodyguard... the PLO hijackers shot the wheelchair-bound American and threw his body overboard... Space Shuttle Challenger exploded moments after launch... renewed fighting today in the Middle East... President Corazon Aquino asked the soldiers to lay down their arms... Senator Gary Hart withdrew from the race... Fawn Hall... Lieutenant Colonel Oliver North... Contrascam Investigation... PTL scandal... munitions train severed the lag of a protester at the... renewed fighting in the Middle East...
+STAT!: Wasserman and the cop run up the slope with the others.
+VOICES: ( busy, frantic ) Make room, make room! Get that airway in! I got a pulse, whoa, it's faint. Talk about lucky, she musta fallen in the basement. First and second degree burns. Come on people, move your asses!
+NEWSCASTER'S VOICE: ( filtered ) Authorities continue to investigate yesterday's mysterious explosion and fire at Unity House, the controversial New Age commune headed by self-styled Guru Adrian Harris. 32 people died in the blaze. Thirteen year old Cynthia Weston, the fire's only survivor, remains in guarded but stable condition at County General. In national news, newspaper heiress Patricia Hearst was abducted from her Bay area apartment shortly before dawn today. A communique from the so-called "Symbionese Liberation Army" demanded that.
+VOICES: Blood pressure 90 over 30, we're losing her. Where's that cart? CLEAR! CLEAR! Okay, it's climbing. Watch the EEG. Brain activity, shit, damn low. A ) WASSERMAN, who appears first in his clothes from the fire, then two other wardrobe changes; B ) HOSPITAL PERSONNEL, at first the harried and rushed emergency staff, and then the more blase regular doctors and nurses; C ) VARIOUS MEDICAL EQUIPMENT, as a series of DIAGNOSTIC TESTS are run on Cynthia
+DATES;: VOICES ( CONT'D ) ( over this )
+NEWSCASTERS: leak at the Three Mile Island facility. 73 Americans remain hostage in the Teheran Embassy. Ronald Reagan has been elected 40th President. renewed fighting in the Middle East. assailant shot John Lennon at point blank range. President Reagan has been shot! He is in guarded condition at. The Pope has been shot! He was rushed by ambulance to. President Anwar Sadat has been assassinated.
 HEAD NURSE: Debbie. What happened to your windsurfing lesson?
-YOUNG NURSE: No wind. I changed shifts with Nancy. (picking up charts) Well... time to weed the vegetable patch.
-CYNTHIA: (faint, weak) No... no... it's wrong... someone... please help...
-YOUNG NURSE: Holy shit...
-SPOKESMAN: (in mid speech) Twelve years, two months...   nine days.
+YOUNG NURSE: No wind. I changed shifts with Well. time to weed the vegetable
+CYNTHIA: ( faint, weak ) No. no. it's wrong. someone. please help.
+YOUNG NURSE: Holy shit.
+SPOKESMAN: ( in mid speech ) Twelve years, two months. nine Is that like a world record for a coma or something?
 FIRST REPORTER: Is that like a world record for a coma or something?
 SPOKESMAN: Actually, no. The longest one on record is 37 years.
 SECOND REPORTER: Does she remember anything about the fire at Universe House?
-SPOKESMAN'S VOICE: (correcting) Unity House. No, she appears to have no memory of the accident itself or the days leading up to it. It's not uncommon after serious trauma.
+SPOKESMAN'S VOICE: ( correcting ) Unity House. No, she appears to have no memory of the accident itself or the days leading up to it. It's not uncommon after serious trauma.
 THIRD REPORTER: What happens to her now? Have her family or friends been notified?
 SPOKESMAN: We stopped looking for any family ton years ago.. Right now we"re planning to transfer Cynthia to Dr. S.A. Berrisford's Neuropsychiatric Clinic. It's right here on our grounds, and Dr. Berrisford is familiar with both the neuromuscular problems a patient like this will encounter as well as the inevitable mental readjustment that will be required. Thank you.
-THERAPIST: Good... Very good... Come on, just a few more steps...
-CYNTHIA: (weary) I... I can't... I have to rest...
+THERAPIST: Good. Very good. Come on, just a few more steps.
+CYNTHIA: ( weary ) I. I can't. I have to rest.
 BERRISFORD'S VOICE: Young lady, you've had fifteen years of rest.
-BERRISFORD (CONT'D): Now walk to the end of that platform, or you won't got any chocolate ice cream.
-CYNTHIA: (finally) I... I hate chocolate ice cream.
+CYNTHIA: ( finally ) I. I hate chocolate ice cream.
 BERRISFORD: Then walk to the end of the platform, or I'll shove an entire gallon down your throat.
-BERRISFORD: (to the therapist) That'll be all.
-CYNTHIA: (peering at Berrisford) Am I supposed to know you or something?
-BERRISFORD: I've looked in on you from time to time... but that's hardly an introduction. You've been transferred into my care, Cynthia. Im Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.
-CYNTHIA: (fumbling it) C-consulting Cheev-- Chief of--
-BERRISFORD: Oh, forget all that.   Just call me what my staff does.
+BERRISFORD: ( to the therapist ) That'll be all.
+CYNTHIA: ( peering at Berrisford ) Am I supposed to know you or I've looked in on you from time to time. but that's hardly an introduction. You've been transferred into my care, Cynthia. Im Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.
+BERRISFORD: I've looked in on you from time to time. but that's hardly an introduction. You've been transferred into my care, Cynthia. Im Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.
+CYNTHIA: ( fumbling it ) C-consulting Cheev Chief of
+BERRISFORD: Oh, forget all that. Just call me what my staff does.
 CYNTHIA: What's that?
-BERRISFORD: God.
-CYNTHIA: What... what kind of doctor did you say you were?
-BERRISFORD: Obviously, I'm not a surgeon. (as she laughs) I'm a psychiatrist.
-CYNTHIA: (puzzled) Why do I need a psychiatrist?
-BERRISFORD: Cynthia, you've been out of touch with reality for over ten years. Your recovery goes beyond your muscle tone... You have to ease into life... into interacting with other people again. Into a world that's changed so much that sometimes I get confused by it. (taking out an appointment book) Now, my assistant Dr. Goldman has a group therapy session every day... I'm putting you down for it, starting tomorrow...
-CYNTHIA: (unsure) Group therapy? But--
+BERRISFORD: Cynthia LAUGHS. She likes this man's directness, the way he doesn't condescend to her.
+CYNTHIA: What. what kind of doctor did you say you were?
+BERRISFORD: Obviously, I'm not a surgeon. I'm a psychiatrist.
+CYNTHIA: ( puzzled ) Why do I need a psychiatrist?
+BERRISFORD: Cynthia, you've been out of touch with reality for over ten years. Your recovery goes beyond your muscle tone. You have to ease into life. into interacting with other people again. Into a world that's changed so much that sometimes I get confused by it. Now, my assistant Dr. Goldman has a group therapy session every day. I'm putting you down for it, starting tomorrow.
+CYNTHIA: ( unsure ) Group therapy? But
 WASSERMAN'S VOICE: Dr. Berrisford?
-WASSERMAN: I'm Lieutenant Wasserman. I left a message with your secretary...?
-BERRISFORD: (rising, meeting him halfway) And I left one with your desk sergeant. (a hard whisper) I told you this would have to wait. You shouldn't even be here--
+WASSERMAN: I'm Lieutenant Wasserman. I left a message with your secretary.?
+BERRISFORD: ( rising, meeting him And I left one with your desk ( a hard whisper ) I told you this would have to wait. You shouldn't even be here
 WASSERMAN: I've waited fifteen years. That's long enough. Now I want to speak with Miss Weston.
-BERRISFORD: Miss Weston is still recovering and is in no condition for a prolonged interrogation.
-WASSERMAN: (tight smile) Then don't prolong it. I'll be brief with her, I'll be gentle with her--
-BERRISFORD: I'll let you know when she's ready--
-CYNTHIA: E--excuse me...
-CYNTHIA (CONT'D): Doctor Berrisford, what's this all about...? This man wants to talk to me...?
-WASSERMAN: (quietly, slowly, as if to a child) That's right, Miss Weston. I just have a few easy, simple questions. (patient, phony smile) About you... and about Unity House.
-CYNTHIA: (sotto) Why is he talking like that? Is he one of your patients?
+BERRISFORD: Miss Weston is still recovering and is in no condition for a prolonged Then don't prolong it. I'll be brief with her, I'll be gentle with I'll let you know when she's ready
+WASSERMAN: ( tight smile ) Then don't prolong it. I'll be brief with her, I'll be gentle with I'll let you know when she's ready
+BERRISFORD: I'll let you know when she's ready
+CYNTHIA: Eexcuse me.
+WASSERMAN: ( quietly, slowly, as if to That's right, Miss Weston. I just have a few easy, simple questions. ( patient, phony smile ) About you. and about Unity House.
+CYNTHIA: ( sotto ) Why is he talking like that? Is he one of your patients?
 BERRISFORD: Lieutenant Wasserman is a police officer. And the word "patience" isn't part of his vocabulary.
-WASSERMAN: Miss Weston. What's the last thing you remember before...
-CYNTHIA: --Before the accident?   Nothing.
-WASSERMAN: Then how do you know it was an accident?
-BERRISFORD: Lieutenant!
-CYNTHIA: I remember... a beautiful sunset. Harris, smiling at me...
-WASSERMAN: (writing) Harris, he was the leader?
-CYNTHIA: Leader, founder... chief cook and bottlewasher... (smiling) Executive in charge of Dreaming. We were all together... all working to make a now world... That last night, there was a... (brow furrowing) Gathering... a... a sort of... baptism... And then...
-CYNTHIA (CONT'D): I'm sorry, that's all I can see.
-WASSERMAN: Miss Weston. This "Unity House"... was it a cult?
-CYNTHIA: I'm sorry.     I don't understand the question.
-BERRISFORD: A "cult," Cynthia. A syndrome of society you have been fortunate enough to miss. They're popular with impressionable people, the penny press... (pause) ...and lazy policemen who like to blame them for crimes they can't solve.
-WASSERMAN: I was there that night, Doctor. I watched them stack those bodies...
-WASSERMAN (CONT'D): If it was an accident... fine. If it wasn't... the person responsible could still be out there. (pause) And he's probably as interested in Miss Weston's memory as I am.
-WASSERMAN (CONT'D): Feel better.
+WASSERMAN: Miss Weston. What's the last thing you remember before.
+CYNTHIA: Before the accident? Nothing.
+WASSERMAN: Then how do you know it was an I remember. a beautiful sunset. Harris, smiling at me.
+BERRISFORD: ( CONTINUED )
+CYNTHIA: I remember. a beautiful sunset. Harris, smiling at me.
+WASSERMAN: ( writing ) Harris, he was the leader?
+CYNTHIA: Leader, founder. chief cook and Executive in charge of Dreaming. We were all together. all working to make a now world. That last night, there was a. Gathering. a. a sort of. baptism. And then.
+WASSERMAN: Miss Weston. This "Unity House". was it a cult?
+CYNTHIA: I'm sorry. I don't understand the A "cult," Cynthia. A syndrome of society you have been fortunate enough to miss. They're popular with impressionable people, the penny press. .and lazy policemen who like to blame them for crimes they can't
+BERRISFORD: A "cult," Cynthia. A syndrome of society you have been fortunate enough to miss. They're popular with impressionable people, the penny press. .and lazy policemen who like to blame them for crimes they can't
+WASSERMAN: I was there that night, Doctor. I watched them stack those bodies.
 CYNTHIA: I don't like that man.
 BERRISFORD: That makes two of us.
-BERRISFORD (CONT'D): But as long as you're here... (smiling) I can keep him away.
-RALPH: Well, now that we're all here, we can begin. Cynthia, I'm Dr. Goldman, and I'd like to welcome you to our little group. I don't know how much my colleague Dr. Berrisford has told you about my methods. I have my detractors... but I have my successes, too! We're going to get you out of your depression... We're going to got you out of your neurosises... We're going to got you out of that hideous hospital robe and into a flimsy revealing negligee--one with the little holes here? I can see us now on a desert island... You, me, a portable waterbed--
+RALPH: Well, now that we're all here, we can begin. Cynthia, I'm Dr. Goldman, and I'd like to welcome you to our little group. I don't know how much my colleague Dr. Berrisford has told you about my methods. I have my detractors. but I have my successes, too! We're going to get you out of your depression. We're going to got you out of your neurosises. We're going to got you out of that hideous hospital robe and into a flimsy revealing negligeeone with the little holes here? I can see us now on a desert island. You, me, a portable waterbed
 ALAN: Ralph, sit down and cut out the shit, okay?
-RALPH: Dr. Goldman, I was on the verge of a major breakthrough, and you blew it!
-ALAN: Ralph? (when he sits) Cynthia. I'm Doctor Goldman--at least, last time I checked...
+RALPH: Dr. Goldman, I was on the verge of a major breakthrough, and you blew Cynthia. I'm Doctor Goldmanat least, last time I checked.
+ALAN: ( when he sits ) Cynthia. I'm Doctor Goldmanat least, last time I checked.
 CYNTHIA: What's a borderline personality?
 MIRIAM: Don't ask him. He's making this up as he goes along.
 ALAN: A borderline personality is one that can't be accurately placed on the Neurosis-Psychosis arc. As a personality syndrome it encompasses identity crises, chemical addictions, emotionalism, anxiety-
-RALPH: (standing, SCREAMING like Sam Kinison) You forgot VIOLENT MOOD SWINGS!
+RALPH: ( standing, SCREAMING like You forgot VIOLENT MOOD SWINGS!
 CONNIE: He also forgot suicidal tendencies. But, as one whose previous reincarnations stretch back to Ancient Atlantis, well, suicide is meaningless anyway.
-ED: And don't forgot binge eating. (pause) Gourmet binge eating.
-MIRIAM: (sweetly, to Cynthia) I told you he was making this up.
-ALAN: If everyone is finished--
-LANA: (breaking in) They're not finished, Dr. Goldman, they won't be finished until they have her feeling as miserable and pathetic and confused as they are.
-CYNTHIA: I am confused--
-LANA: See? (to the group) I hope you're all happy--
-CYNTHIA: Dr. Goldman, I... I don't really know what I'm doing here. I mean... I don't think I meet your description of a Borderline Personality--
+ED: And don't forgot binge eating. Gourmet binge eating.
+MIRIAM: ( sweetly, to Cynthia ) I told you he was making this up.
+ALAN: If everyone is finished
+LANA: ( breaking in ) They're not finished, Dr. Goldman, they won't be finished until they have her feeling as miserable and pathetic and confused as they are.
+CYNTHIA: I am confused
+LANA: ( to the group ) I hope you're all happy
+CYNTHIA: Dr. Goldman, I. I don't really know what I'm doing here. I mean. I don't think I meet your description of a Borderline Give yourself some time, Cynthia. We'll help you work on it.
 RALPH: Give yourself some time, Cynthia. We'll help you work on it.
-CYNTHIA: --and I don't really know what I'm doing here.
+CYNTHIA: and I don't really know what I'm doing here.
 ALAN: Didn't Dr. Berrisford explain?
-CYNTHIA: He said he thought that this would help me... fit into the 80's.
-MIRIAM: Honey, you want to fit into the 80's, you're already two divorces, one condo and a yeast infection behind. Why don't you just catch up with the 70's and move to Cleveland?
-ALAN: If I can offer a more practical suggestion... Why don't you talk, Cynthia?
-CYNTHIA: Talk...?
+CYNTHIA: He said he thought that this would help me. fit into the 80's.
+MIRIAM: Honey, you want to fit into the 80's, you're already two divorces, one condo and a yeast infection behind. Why don't you just catch up with the 70's and move to If I can offer a more practical suggestion. Why don't you talk, About something close to you.
+ALAN: If I can offer a more practical suggestion. Why don't you talk, About something close to you.
+CYNTHIA: About something close to you.
 ALAN: About something close to you.
 MIRIAM: Stop beating around the fucking bush, Goldman! Just come out and ask her!
-LANA: (to Miriam) Do you have to be so crude?
-MIRIAM: Come on, Cynthia. Dish out the dirt. Tell us all about Unity House. (gesturing a marquee) The last gasp of the Age of Aquarius. Building a better world through... what? Chemistry? Good vibrations? Tie-dying your undies?
+LANA: ( to Miriam ) Do you have to be so crude?
+MIRIAM: Come on, Cynthia. Dish out the dirt. Tell us all about Unity The last gasp of the Age of Aquarius. Building a better world through. what? Chemistry? Good vibrations? Tie-dying your undies?
 CYNTHIA: I'm sorry to disappoint you. I don't have those kinds of stories.
 RALPH: Back off, Miriam. Cynthia, just tell us about the orgies.
 CYNTHIA: Ralph, I'm going to bore you.
-CYNTHIA (CONT'D): What we felt... what we believed... was that if people could become selfless enough, if they could free themselves from their egos, they would experience a... togetherness. A... oneness. A Unity. That's where the name came from. We had a dream about a perfect society based on trust. On love. On totally committed togetherness. We weren't trying to change the whole world. We were just trying to change each other.
-RALPH: (acting out) Bullshit.
-GILDA: No.
-GILDA (CONT'D): It's beautiful. It didn't matter if it worked. All that mattered was... you tried.
-CYNTHIA: (touched) Exactly!
-ALAN: Gilda hasn't said three words in three weeks. And now, Cynthia comes in with this love, peace and Woodstock routine and... presto. Am I missing something, or what?
+RALPH: ( acting out )
+GILDA: 27 NEW ANGLE 27
+CYNTHIA: ( touched )
+ALAN: Gilda hasn't said three words in three weeks. And now, Cynthia comes in with this love, peace and Woodstock routine and. presto. Am I missing something, or what?
 BERRISFORD: She's espousing a total belief system. A kind of holistic healing matrix not unlike the dynamic energy shift model. Isn't that interesting? They're adopting it, embracing it.
-ALAN: Too bad we can't follow through on this.
+ALAN: Too bad we can't follow through on Why not?
 BERRISFORD: Why not?
-ALAN: Dr. Berrisford, the people in this group... some of them are deeply disturbed. Cynthia doesn't belong with them-- an experiment for one session, fine, but in the long run--
-BERRISFORD: Alan. We've opened primary channels of communication. You've opened them, Alan. Let's not rush to throw away our progress. Neuroses are hardly contagious. A few weeks in the group won't hurt Cynthia. With luck, she'll overcome her memory trauma. That would mean progress... not to Mention getting Lieutenant Wasserman off my back. In the meantime...
-BERRISFORD (CONT'D): She seems to like you. See if you can get her to open up, and let's press on. (pause) With a united front?
-ALAN: A united front.   Sure.
+ALAN: Dr. Berrisford, the people in this group. some of them are deeply disturbed. Cynthia doesn't belong with them an experiment for one session, fine, but in the long run
+BERRISFORD: Alan. We've opened primary channels of communication. You've opened them, Alan. Let's not rush to throw away our progress. Neuroses are hardly contagious. A few weeks in the group won't hurt Cynthia. With luck, she'll overcome her memory trauma. That would mean progress. not to Mention getting Lieutenant Wasserman off my back. In the
+ALAN: A united front. Sure.
 HETTIE: Drop down to first gear, honey. It's Miller time.
 CYNTHIA: What are these? Vitamins?
 HETTIE: Beauty secrets from the orient. Look what they've done for me.
 HETTIE: Ralph, you in a cooperative mood, or do I have to tie you up again?
 RALPH: Promises, promises.
-HETTIE: Open.
-HETTIE (CONT'D): Next time I hit lower.
-RALPH: She's crazy about me. (watching Cynthia's workout) You're coming along. A regular Rocky.
-CYNTHIA: Rocky?   The flying squirrel?
-RALPH: Rocky the fighting Stallone. (on her blank look)
-CYNTHIA: You're making this up...      aren't you?
-CYNTHIA (CONT'D): Sounds like a complicated world. How do you handle it?
+HETTIE: Of course the pills are still under his tongue. Hettie gives him a shot in the solar plexus and he GULPS. Hettie hands him the juice.
+RALPH: She's crazy about me. You're coming along. A regular Rocky? The flying squirrel?
+CYNTHIA: Rocky? The flying squirrel?
+RALPH: Rocky the fighting Stallone.
+CYNTHIA: You're making this up. aren't
 RALPH: Well, whenever it gets to be too much, I just let all of the negative stuff out of my body.
-CYNTHIA: You mean with meditation, yoga, what?
-RALPH: Nah. I just make a little hole and let it all escape.
-RALPH (CONT'D): Uh-uh, here comes the assistant Ayatollah. See ya.
-CYNTHIA: "Ay-a-toll-ah..?"
+CYNTHIA: You mean with meditation, yoga, Nah. I just make a little hole and let it all escape. Uh-uh, here comes the assistant Ayatollah. See ya.
+RALPH: Nah. I just make a little hole and let it all escape. Uh-uh, here comes the assistant Ayatollah. See ya.
+CYNTHIA: Then she sees Alan.
 ALAN: Buy you some lunch?
-CYNTHIA: Sure.
+CYNTHIA: ( CONTINUED )
 ALAN: I'm impressed.
 CYNTHIA: Impressed enough to call me a cab?
 ALAN: I'm not sure I follow you.
-CYNTHIA: I've been talking to Ralph. He told me about his... personal therapy program. (as Alan winces) And I've been watching the others... Dr. Goldman, they belong here. I don't.
-ALAN: (as they walk) Please, call me Alan. Doctor Goldman is my father... (thinking) ...and my grandfather. I think my first baby toy was a stethoscope--
-CYNTHIA: You're changing the subject... (trying it out) --Alan. I'm feeling stronger. I'm getting used to things like VC esses and MCDs. I want to leave.
-ALAN: (carefully) Your parents died when you were a child. We haven't been able to locate any relatives.
-ALAN (CONT'D): Where would you go?
-CYNTHIA: I guess I'd just look up some of the old hands from Unity House... crash with them for a while... (thinking) ...do people still say "crash"--?
-ALAN: Cynthia... (gently) There aren't any old hands left. The fire that injured you...? It took everyone also with it. They're all gone.
-CYNTHIA: I knew there were deaths...   but... everybody?
-ALAN: I'm afraid so. Look, Cynthia... I'm not saying this to upset you, but the sooner you realize that that whole phase of your life is over, and move on, the better off you're going to be. Why don't you bring this into the open... talk about it in group? Oh, here's our ride.
-CYNTHIA: (confused) Talk about it...?
-CYNTHIA: (to him) "Talk about it in group." Is that the answer to everything around here?
+CYNTHIA: I've been talking to Ralph. He told me about his. personal therapy program. And I've been watching the others. Dr. Goldman, they belong here. I don't.
+ALAN: ( as they walk ) Please, call me Alan. Doctor Goldman is my father. ( thinking ) .and my grandfather. I think my first baby toy was a stethoscope
+CYNTHIA: You're changing the subject. Alan. I'm feeling stronger. I'm getting used to things like VC esses and MCDs. I want to leave.
+ALAN: ( carefully ) Your parents died when you were a child. We haven't been able to locate any relatives.
+CYNTHIA: I guess I'd just look up some of the old hands from Unity House. crash with them for a while. .do people still say "crash"?
+ALAN: ( gently ) There aren't any old hands left. The fire that injured you.? It took everyone also with it. They're all gone.
+CYNTHIA: I knew there were deaths. but. I'm afraid so. Look, Cynthia. I'm not saying this to upset you, but the sooner you realize that that whole phase of your life is over, and move on, the better off you're going to be. Why don't you bring this into the open. talk about it in group? Oh, here's our
+ALAN: I'm afraid so. Look, Cynthia. I'm not saying this to upset you, but the sooner you realize that that whole phase of your life is over, and move on, the better off you're going to be. Why don't you bring this into the open. talk about it in group? Oh, here's our
+CYNTHIA: ( confused ) Talk about it.? Could somebody hit one? Thanks.
+ALAN: Could somebody hit one? Thanks.
+CYNTHIA: ( to him ) "Talk about it in group." Is that the answer to everything around
 ALAN: Nobody ever said it would be easy. And it works for a lot of people.
-CYNTHIA: (gently) It's not working for Ralph... or his chest. (pleading tone) Can't you at least transfer me... get me in a group of people with problems a little more like mine--
+CYNTHIA: ( gently ) It's not working for Ralph. or his chest. ( pleading tone ) Can't you at least transfer me. get me in a group of people with problems a little more like mine
 ALAN: Cynthia, we don't have a lot of patients who've been in a coma for over a decade!
-A PASSENGER: You'd think with what they charge here they could pay their electric bills
-CYNTHIA: Relax. They're probably giving shock therapy. (for Alan's benefit) "It works for most people".
-PASSENGER: Oh, great--
-PASSENGER (CONT'D): Jesus, lady, relax! We're on the ground floor--
-CYNTHIA: Let me out! Let me out--!
-HARRIS: Unity, Cynthia...   Now and forever!
-CYNTHIA: Let me out, let me out!   Alan, help, help--!
-HARRIS: Cynthia, you cannot run...      You belong to us Forever--!
-ALAN: Cynthia..?
-ALAN: Cynthia, what happened--?
-CYNTHIA: It's him!     It's him!   He's alive--
+A PASSENGER: You'd think with what they charge here they could pay their electric Relax. They're probably giving shock therapy. "It works for most people".
+CYNTHIA: Relax. They're probably giving shock therapy. "It works for most people".
+PASSENGER: Oh, great
+CYNTHIA: Let me out! Let me out!
+HARRIS: Unity, Cynthia. Now and forever! Let me out, let me out! Alan, help, help!
+CYNTHIA: Let me out, let me out! Alan, help, help!
+HARRIS: Cynthia, you cannot run. You belong to us Forever!
+ALAN: The elevator doors suddenly OPEN.
+ALAN: Cynthia, what happened?
+CYNTHIA: It's him! It's him! He's alive
 ALAN: Who's alive?
-CYNTHIA: (pointing) He's alive! Right over--
-CYNTHIA (CONT'D): (weakly) --there...
-ALAN: --hallucination, flashback, I don't know what to call it-
+CYNTHIA: ( pointing ) He's alive! Right over ( weakly )
+ALAN: hallucination, flashback, I don't know what to call it-
 BERRISFORD: How about psychotic episode?
-ALAN: No, no, she doesn't fit the pattern--
-BERRISFORD: Addictive personalities can be borderline. You know that--
-ALAN: (patiently) She has no history of drug abuse--
-BERRISFORD: There's other kinds of addictions. (standing, pensive) we see it in these fringe religious groups... these instant creeds with pseudo-Messianic delusions. You've heard how she talks about Unity House? Perhaps that's her drug. Perhaps she's going through a--withdrawal of sorts. Her memory lapses about Unity House are equally symptomatic... There's some violent turmoil under that pretty little facade.
-ALAN: (skeptical) You put her in the Borderline Group and she became one?
-BERRISFORD: No.
-BERRISFORD (CONT'D): I believe she went into that coma a disturbed young lady. Fifteen years later... nothing has changed.
+ALAN: No, no, she doesn't fit the Addictive personalities can be borderline. You know that
+BERRISFORD: Addictive personalities can be borderline. You know that
+ALAN: ( patiently ) She has no history of drug abuse
+BERRISFORD: There's other kinds of addictions. we see it in these fringe religious groups. these instant creeds with pseudo-Messianic delusions. You've heard how she talks about Unity House? Perhaps that's her drug. Perhaps she's going through awithdrawal of sorts. Her memory lapses about Unity House are equally symptomatic. There's some violent turmoil under that pretty little facade.
+ALAN: ( skeptical ) You put her in the Borderline Group and she became one?
+BERRISFORD: CAMERA TIGHTENS ON HIM. 37 INT. ENTRANCE - BERRISFORD CLINIC WING - NIGHT 37
 CYNTHIA: This one's new.
-HETTIE: It'll help you sleep. (explaining) Sort of a post-elevator cocktail?
-HETTIE: (extending her hand) Pay up. Twenty bucks.
+HETTIE: It'll help you sleep. Sort of a post-elevator cocktail?
+CORRIDOR? ): 40 BACK TO SCENE 40 41 INT. HOSPITAL HALLWAY - NIGHT 41
+HETTIE: ( extending her hand ) Pay up. Twenty bucks.
 CYNTHIA: Who's there?
-FIGURE: (whisper) Cynthia?
-VICTOR: Cynthia?   It's me.   Victor.
-CYNTHIA: (amazed) Vic? Oh, my God--
-VICTOR: Look at you. (marveling) Little Cyn. (impressed) Not so little anymore.
-CYNTHIA: Vic, this is just... fantastic, it's the most incredible... (hesitating) But... how can you be here?
-VICTOR: Yeah.   It is after visiting hours--
-CYNTHIA: I mean... they said that...      that everybody died.
-VICTOR: (smiling) Do I look like a ghost to you?
-CYNTHIA: (rapid-fire) How did you survive? How did you find me? Is anyone else--
-VICTOR: Whoa, whoa. It's a long story... (looking around) Let me tell it somewhere else. I feel like I'm in, like, the Pentagon or something.
+FIGURE: ( whisper ) Cynthia? It's me. Victor.
+VICTOR: Cynthia? It's me. Victor.
+CYNTHIA: ( amazed ) Vic? Oh, my God Look at you. ( marveling ) Little Cyn. ( impressed ) Not so little anymore.
+VICTOR: Look at you. Little Cyn. Not so little anymore.
+CYNTHIA: Vic, this is just. fantastic, it's the most incredible. But. how can you be here?
+VICTOR: Yeah. It is after visiting hours
+CYNTHIA: I mean. they said that. that everybody died.
+VICTOR: ( smiling ) Do I look like a ghost to you?
+CYNTHIA: ( rapid-fire ) How did you survive? How did you find me? Is anyone else
+VICTOR: Whoa, whoa. It's a long story. Let me tell it somewhere else. I feel like I'm in, like, the Pentagon or something.
 CYNTHIA: Then let's go AWOL.
-CYNTHIA: Zeke!   You've still got Zeke!
+CYNTHIA: Zeke! You've still got Zeke!
+VICTOR: I. did it by memory. I tried to imagine. what you'd. look like today. Guess I came pretty It's beautiful. More beautiful than I ever was.
 CYNTHIA: It's beautiful. More beautiful than I ever was.
-VICTOR: (softly) Then you need a new mirror.
-VICTOR (CONT'D): That's Chairman Meow.
-CYNTHIA: You still haven't told me how you lived. I really can't remember anything about the... accident.
+VICTOR: ( softly ) Then you need a new mirror.
+CYNTHIA: You still haven't told me how you lived. I really can't remember anything about the. accident.
 VICTOR: It wasn't an accident.
-VICTOR (CONT'D): A lot of people back then, they hated Unity House. Hated Harris and his dreams... dreams of peace... of oneness. That hate fed negative energy into the cosmic vortex... Something bad was bound to happen. That hate was so strong... so envious of what we had...
-VICTOR (CONT'D): (very normal) Oh, fuck--
-CYNTHIA: You've cut yourself--
+CYNTHIA: You've cut yourself
 VICTOR: I guess talking about the past can be a little dangerous.
-VICTOR (CONT'D): Let's drink to the present. (pause) To us.
 CYNTHIA: To us.
+VICTOR: ( quietly ) To. Unity.
 VICTOR: Oh Jesus!
-CYNTHIA: Victor?
-VICTOR: Oh, my God. I can't believe it. What a great idea...! Too amazing! Too amazing!
+CYNTHIA: Victor paces around the room, practically bouncing off the
+VICTOR: Oh, my God. I can't believe it. What a great idea.! Too amazing! Too amazing!
 CYNTHIA: Is something wrong?
-VICTOR: Not wrong, Cynthia...right! The most right thing in the world!
-CYNTHIA: Are you going to tell me your little secret, or should I just got dressed?
+VICTOR: Not wrong, Cynthia.right! The most right thing in the world! Are you going to tell me your little secret, or should I just got I'm sorry, Cyn, but I just got the most incredible idea. It's absolutely beautiful! Do you want to know what it is?
+CYNTHIA: Are you going to tell me your little secret, or should I just got I'm sorry, Cyn, but I just got the most incredible idea. It's absolutely beautiful! Do you want to know what it is?
 VICTOR: I'm sorry, Cyn, but I just got the most incredible idea. It's absolutely beautiful! Do you want to know what it is?
-CYNTHIA: (exasperated) Yes!
-VICTOR: I was just thinking about what we were doing here together...
-CYNTHIA: I should hope so...
+CYNTHIA: ( exasperated )
+VICTOR: I was just thinking about what we were doing here together.
+CYNTHIA: I should hope so.
 VICTOR: Wouldn't it be incredible if, right at the perfect moment right when we're coming, if we did it?
 CYNTHIA: Did what?
-VICTOR: What we were meant to do, of course.
-CYNTHIA: (puzzled) ...meant to do...?
-VICTOR: That sunset. That last night.      At Unity House. Remember?
-CYNTHIA: No...     No, Victor, I don't...
-VICTOR: (distant) They all got to go. You and me... we got left behind... while they went on. (chuckling) Guess that's why they say life ain't fair. Well...
-VICTOR (CONT'D): --we can fix that.
-CYNTHIA: (stiffening) My God, Victor! Put those away--
-VICTOR: This is so great! I mean, I've been living with all this shit, thinking about you, searching... going nowhere. And you, hell, you don't fit in with Ralph and Miriam, those other flakes... Berrisford and Goldman, they're a waste of time--
-CYNTHIA: H-how do you know about them? I never--
+VICTOR: What we were meant to do, of .meant to do.?
+CYNTHIA: ( puzzled ) .meant to do.?
+VICTOR: That sunset. That last night. At Unity House. Remember?
+CYNTHIA: No. No, Victor, I don't.
+VICTOR: ( distant ) They all got to go. You and me. we got left behind. while they went on. ( chuckling ) Guess that's why they say life ain't fair. Well.
+CYNTHIA: ( stiffening ) My God, Victor! Put those away
+VICTOR: This is so great! I mean, I've been living with all this shit, thinking about you, searching. going nowhere. And you, hell, you don't fit in with Ralph and Miriam, those other flakes. Berrisford and Goldman, they're a waste of H-how do you know about them? I
+CYNTHIA: H-how do you know about them? I
 VICTOR: Yeah. We had the answers, way back then. Unity. Unity, now and forever. Cynthia, this is our second chance!
-VICTOR (CONT'D): Okay, you do me, and I'll do you-- but wait until I say go! Hey, get rid of the sheet... Let me see that grown up body...
-CYNTHIA: No, Vic. Please.       Please!   I don't want to do this!
+CYNTHIA: No, Vic. Please. Please! I don't want to do this!
 VICTOR: Yes, you do. You know you do.
-CYNTHIA: No!
+CYNTHIA: He's holding her down. He's getting into it.
 VICTOR: Oh, Cynthia, it's so beautiful.
-CYNTHIA: God, God, no--
-VICTOR: We're on the edge of space and time.
-VICTOR (CONT'D): Oh, good... good... ummm... ummm... (continuing) Cynthia, it's happening. Put the gun to my head.
+CYNTHIA: God, God, no
+VICTOR: We're on the edge of space and Oh, good. good. ummm. Cynthia, it's happening. Put the gun to my head.
 CYNTHIA: Jesus, Vic, no!
-VICTOR: Yeah, oh yeah...     oh, YEAH--
-CYNTHIA: No!
-CYNTHIA (CONT'D): Vic?
-CYNTHIA: Vic?
+VICTOR: Yeah, oh yeah. oh, YEAH
+CYNTHIA: The candles are out. Victor isn't in the room. Cynthia, drenched with sweat, slowly catches her breath. She looks around, confused.
+CYNTHIA: She checks in the kitchen. Nothing. She looks back in the bedroom. The apartment is empty. She's just calming whenMEEOW! The CAT LEAPS out of nowhere, startling her, and then running out of sight. She swallows. Very nervous now, she sits on the couch and starts pulling on her jeans and shoes. The CAMERA MOVES AROUND her, revealing the entire apartment. We see EVERY ANGLE. It is completely quiet and still. The CAMERA SETTLES at one ANGLE on Cynthia. A shadow behind her MOVES.
 VICTOR: Where are you going?
-CYNTHIA: Jesus, Vic. I thought you... left.
-VICTOR: Me?    Leave you all alone?
-CYNTHIA: Vic?   Vic, are you... happy?
-VICTOR: That... (kissing her) ...has to be.. (kissing again) ...the stupidest question I ever heard...
-CYNTHIA: I mean... with... life.   With... being alive.
+CYNTHIA: Jesus, Vic. I thought you. left.
+VICTOR: Me? Leave you all alone?
+CYNTHIA: Vic? Vic, are you. happy?
+VICTOR: ( kissing her ) .has to be.. ( kissing again ) .the stupidest question I ever
+CYNTHIA: I mean. with. life. With. being alive.
 VICTOR: What are you talking about?
-CYNTHIA: (relaxing) Never mind... I had this... bizarre dream...
+CYNTHIA: ( relaxing ) Never mind. I had this. bizarre dream.
 VICTOR: Welcome to reality.
-VICTOR (CONT'D): What's the matter?
-VICTOR (CONT'D): Cynthia?
-VICTOR (CONT'D): Why did you pull away?
-CYNTHIA: I...    I think I'd better go.
-VICTOR: Why?
+CYNTHIA: I. I think I'd better go.
+VICTOR: She's over by the door. Victor comes and presses against it so she can't get out.
 CYNTHIA: Please let me out.
-VICTOR: I don't understand...    What did I do?
-CYNTHIA: Nothing. It's not you, it...     it's me. I just want to go.
-VICTOR: You know, maybe you belong in that clinic, because this, this is crazy! We were having a good time-- (on her look) I'm sorry. Look, what we were feeling... it was special.
-VICTOR (CONT'D): --it was Unity. (distantly) Unity, Now and through Eternity... Cynthia, you cannot run...
-VICTOR (CONT'D): You cannot run... You belong to us Forever--!
+VICTOR: I don't understand. What did I Nothing. It's not you, it. it's me. I just want to go.
+CYNTHIA: Nothing. It's not you, it. it's me. I just want to go.
+VICTOR: You know, maybe you belong in that clinic, because this, this is crazy! We were having a good time I'm sorry. Look, what we were feeling. it was special.
 MANAGER: Apartment 2-B, right?
-CYNTHIA: Right.
+CYNTHIA: 2B or not 2B, that is the question.
 MANAGER: 2B or not 2B, that is the question.
-CYNTHIA: B..but...     it... it's empty!
-MANAGER: Of course it is. I     don't show rented apartments.     Anyway, what you see is what you    get... one bedroom, gas range,    yadda yadda yadda.
-CYNTHIA: This... this is impossible... Alan, I was here... He was here-
-ALAN: (to the manager) How long has this place been vacant?
-MANAGER: 'Bout six weeks. Couple a deadbeats... their damn kids tore the hell out of it, too--
-CYNTHIA: Alan, I don't care what she says, this is it! Look, look-- (pointing) There's a double-door closet in there on the left.
-ALAN: Cynthia, a double closet isn't exactly a positive I.D.--
+CYNTHIA: B..but. it. it's empty!
+MANAGER: Of course it is. I don't show rented apartments. Anyway, what you see is what you get. one bedroom, gas range, yadda yadda
+CYNTHIA: This. this is impossible. Alan, I was here. He was here-
+ALAN: ( to the manager ) How long has this place been 'Bout six weeks. Couple a deadbeats. their damn kids tore the hell out of it, too
+MANAGER: 'Bout six weeks. Couple a deadbeats. their damn kids tore the hell out of it, too
+CYNTHIA: Alan, I don't care what she says, this is it! Look, look There's a double-door closet in there on the left.
+CYNTHIA: ( as he comes back out ) Cynthia, a double closet isn't exactly a positive I.D.
+ALAN: Cynthia, a double closet isn't exactly a positive I.D.
 MANAGER: What are you two talking about? You wanna rent, or what?
-CYNTHIA: There! There, look--that's where I spilled the tequila... (on her knees, desperate) See? See? It's still wet!
-MANAGER: (apologetic) Hon, I think that's from the ceiling...
-MANAGER (CONT'D): ...damn plumber was supposed to fix it last week. (smiling) So! We in business?
-WASSERMAN: Twelve hours! You wait twelve hours to tell me about this? Am I supposed to be grateful for your civic-mindedness? I told you the Unity House case was still open-- (pointing at Cynthia) --and she's the only lead. You should have called me the minute you found out--
-BERRISFORD: (calmly) Found out what? Lieutenant, if I called the police every time one of my patients experienced a fantasy or a delusion, you'd have to move in here--
-CYNTHIA: (sharp, stepping forward) It was not a delusion! Victor Lunes was here--
-BERRISFORD: The security guard didn't see anyone--
-CYNTHIA: Then the security guard needs glasses! Alan, tell them--
-ALAN: (on the spot) The apartment did match her general description--
-WASSERMAN: --a one bedroom flat with a beige rug... that's rather... generic.
-CYNTHIA: --Victor isn't generic--
-WASSERMAN: Victor is dead! Dead for fifteen years--
-CYNTHIA: --you've seen his body?
-WASSERMAN: --it was burned beyond recognition-- but there was I.D.--
-CYNTHIA: I knew it--I knew it-
-ALAN: Cynthia. Look... we've all done it... tumbled out of bed positive that we've just lived something that was only a dream--
-CYNTHIA: (firmly) Damn it, it wasn't a dream--I was out there--
-WASSERMAN: No one's denying you flow the coop, Miss Weston... You wanna prove the rest? Lemme get a policewoman to stand by while a gynecologist checks out your plumbing. We'll see soon enough if your ghost left a calling card--
+CYNTHIA: There! There, lookthat's where I spilled the tequila. See? See? It's still wet!
+MANAGER: ( apologetic ) Hon, I think that's from the .damn plumber was supposed to fix it last week. ( smiling ) So! We in business?
+WASSERMAN: Twelve hours! You wait twelve hours to tell me about this? Am I supposed to be grateful for your civic-mindedness? I told you the Unity House case was still open and she's the only lead. You should have called me the minute you found out
+BERRISFORD: ( calmly ) Found out what? Lieutenant, if I called the police every time one of my patients experienced a fantasy or a delusion, you'd have to move in here
+CYNTHIA: ( sharp, stepping forward ) It was not a delusion! Victor Lunes was here
+BERRISFORD: The security guard didn't see Then the security guard needs glasses! Alan, tell them
+CYNTHIA: Then the security guard needs glasses! Alan, tell them
+ALAN: ( on the spot ) The apartment did match her general a one bedroom flat with a beige rug. that's rather. generic.
+WASSERMAN: a one bedroom flat with a beige rug. that's rather. generic.
+CYNTHIA: Victor isn't generic
+WASSERMAN: Victor is dead! Dead for fifteen you've seen his body?
+CYNTHIA: you've seen his body?
+WASSERMAN: it was burned beyond recognition but there was I.D.
+CYNTHIA: I knew itI knew it-
+ALAN: Cynthia. Look. we've all done it. tumbled out of bed positive that we've just lived something that was only a dream
+CYNTHIA: ( firmly ) Damn it, it wasn't a dreamI was out there
+WASSERMAN: No one's denying you flow the coop, Miss Weston. You wanna prove the rest? Lemme get a policewoman to stand by while a gynecologist checks out your plumbing. We'll see soon enough if your ghost left a calling card
 CYNTHIA: You bastard.
-CYNTHIA (CONT'D): You... (searching) --experts!
-BERRISFORD: Wonderful! Wonderful! I've been waiting and waiting for her to finally show real anger--real emotion! This could be a breakthrough! (sincere) Thank you, Lieutenant.
-WASSERMAN: Hey.   Anytime.
-ALAN: Okay. First off, we're all going to feel a little silly and maybe look a little silly...
-RALPH: (a la Groucho) Especially in that shirt you're wearing, Goldman...
-ALAN: (amused, but pushing on) --but this technique works, and we're going to release some of our hidden aggression. Who's going to go first? Lana?
-LANA: (pause) How many helpless goose had to die to fill those stupid pillows?
-ALAN: (as everyone groans) None, Lana. They're polyester. Ed? Want to start?
-ED: Nah. Let's talk about the geese again. Nice fat ones, with all the trimmings--
+BERRISFORD: Wonderful! Wonderful! I've been waiting and waiting for her to finally show real angerreal emotion! This could be a Thank you, Lieutenant.
+WASSERMAN: Hey. Anytime.
+ALAN: Okay. First off, we're all going to feel a little silly and maybe look a little silly.
+RALPH: ( a la Groucho ) Especially in that shirt you're wearing, Goldman.
+ALAN: ( amused, but pushing on ) but this technique works, and we're going to release some of our hidden aggression. Who's going to go first? Lana?
+LANA: ( pause ) How many helpless goose had to die to fill those stupid pillows?
+ALAN: ( as everyone groans ) None, Lana. They're polyester. Ed? Want to start?
+ED: Nah. Let's talk about the geese again. Nice fat ones, with all the All right, how about if we all start together and eliminate the wimp factor. Come on.
 ALAN: All right, how about if we all start together and eliminate the wimp factor. Come on.
-ALAN (CONT'D): (standing, walking around the circle) Okay. What are we feeling?
-CONNIE: (as she pounds) We used to do something like this in the royal palace in Atlantis. But we used bags of dried kelp.
-RALPH: Your brain is a bag of dried kelp--
-ALAN: (chiding) Ralph. Miriam?
-MIRIAM: (pounding) I'm pretending this is my first husband... No, maybe my third... (grinning) Can I have a baseball bat?
-ALAN: Please, people, let's work at being serious.
-ALAN (CONT'D): I know you had a rough night.   But you have to participate.
-ALAN (CONT'D): Okay, that's better. Now let's hear some emotion. Let it out. yell! Scream!
-HARRIS: You failed me, Cynthia...   You failed all of us...
-HARRIS (CONT'D): We were supposed to be together... in this world... and in the next...
-HARRIS (CONT'D): It was going to be perfect, all of us taking the same journey... You shouldn't have run. You made us wait for you while you slept... all those years.
-HARRIS (CONT'D): The waiting time is over, my lovechild. It's time for you to join us. In Unity...
-HARRIS (CONT'D): In death.    You know you want it.
-HARRIS (CONT'D): ...You have no choice...
-HARRIS (CONT'D): ...Come to us, Cynthia. It's time to die. Don't lot another take your place. Come to us... now.
-CYNTHIA: (softly, tense) ...They... they sang songs as they stacked up the white containers... they were... happy. Because it was going to be their break with the world... a world that didn't understand them. I don't remember if they took a vote or if Harris just... decided. But they all agreed. They were... happy... smiling... laughing... crying from happiness as he drenched them in the gasoline...
-WASSERMAN: (under his breath) --Jesus--
-CYNTHIA: Somehow, I... I knew it was wrong... I ran... When he threw the match, I was at the other end of the hallway... There was a flash... and a... like a wind, or the hand of God--picked me up, threw me... The ceiling fell in... When I opened my eyes... (she looks up) I was here.
-ALAN: (to Wasserman) If that's what happened, why didn't you find any evidence of arson?
-WASSERMAN: The plastic jerry cans would've burned up before anything else... We knew there'd been an explosion... We just didn't know how or why.
-BERRISFORD: Well. You must be pleased. Closing a case after... what is it, twelve years?
-WASSERMAN: Who says it's closed?
+CONNIE: ( as she pounds ) We used to do something like this in the royal palace in Atlantis. But we used bags of dried kelp.
+RALPH: Your brain is a bag of dried kelp
+ALAN: ( chiding ) Ralph. Miriam?
+MIRIAM: ( pounding ) I'm pretending this is my first husband. No, maybe my third. ( grinning ) Can I have a baseball bat?
+ALAN: Please, people, let's work at being I know you had a rough night. But you have to participate.
+HARRIS: You failed me, Cynthia. You failed all of us. We were supposed to be together. in this world. and in the next.
+CYNTHIA: It is a blood-curdling and heart-stopping a scream as ever There is a FLASH of light.
+NOOOOOOOOO!: It is a blood-curdling and heart-stopping a scream as ever There is a FLASH of light.
+CYNTHIA: ( softly, tense ) .They. they sang songs as they stacked up the white containers. they were. happy. Because it was going to be their break with the world. a world that didn't understand them. I don't remember if they took a vote or if Harris just. decided. But they all agreed. They were. happy. smiling. laughing. crying from happiness as he drenched them in the gasoline.
+WASSERMAN: ( under his breath ) Somehow, I. I knew it was wrong. I ran. When he threw the match, I was at the other end of the hallway. There was a flash. and a. like a wind, or the hand of Godpicked me up, threw me. The ceiling fell in. When I opened my eyes. ( she looks up ) I was here.
+CYNTHIA: Somehow, I. I knew it was wrong. I ran. When he threw the match, I was at the other end of the hallway. There was a flash. and a. like a wind, or the hand of Godpicked me up, threw me. The ceiling fell in. When I opened my eyes. I was here.
+ALAN: ( to Wasserman ) If that's what happened, why didn't you find any evidence of arson?
+WASSERMAN: The plastic jerry cans would've burned up before anything else. We knew there'd been an explosion. We just didn't know how or why.
+BERRISFORD: Well. You must be pleased. Closing a case after. what is it, twelve years?
+WASSERMAN: Who says it's closed? What's that supposed to mean?
 ALAN: What's that supposed to mean?
-WASSERMAN: When the fairy princess here woke up, she said she didn't remember anything about 32 deaths. Now she remembers they committed suicide...
-HETTIE: That man's a candidate for shock therapy... with a car battery right to the cojones.
-CYNTHIA: No... he's right.     I am guilty.
-CYNTHIA (CONT'D): I'm guilty of lying... to Unity House. I promised to be part of it... Forever. They expected me to keep my word. (pause) They still do.
+WASSERMAN: When the fairy princess here woke up, she said she didn't remember anything about 32 deaths. Now she remembers they committed suicide.
+HETTIE: That man's a candidate for shock therapy. with a car battery right to the cojones.
+CYNTHIA: No. he's right. I am guilty.
 BERRISFORD: Well, Alan. Still think she doesn't belong in the group?
 MIRIAM: Nothing like a hot shower, huh?
-LANA: Cynthia?   Cynthia?   Are you okay?
-CYNTHIA: What?
-LANA: Are you all right?    After that session today, I--
+LANA: Cynthia? Cynthia? Are you okay?
+CYNTHIA: Are you all right? After that session today, I
+LANA: Are you all right? After that session today, I
 CYNTHIA: I'm fine.
-LANA: I think... you're a decent person... not a... mean spirited witch like some people...
-LANA (CONT'D): --and, well, if you need a friend here...
-CYNTHIA: (distant tone) All my friends are dead.
-MIRIAM: Lana, wait a minute, she didn't mean it--shit.
-MIRIAM (CONT'D): I know Lana's a mealy-mouthed little prude, but she means well. I probably pull her chain too much... She's reaching out, like all of us. Try and help her.
+LANA: I think. you're a decent person. not a. mean spirited witch like some people.
+CYNTHIA: ( distant tone ) All my friends are dead.
+MIRIAM: Lana, wait a minute, she didn't mean itshit.
 CYNTHIA: I can't even help myself.
-DISTANT VOICES: (echo affect) Be cleansed!
+DISTANT VOICES: ( echo affect ) Be cleansed!
 VOICE: Cleanse the heart of your mind.
-HARRIS: Cynthia.     You are part of the whole.
-HARRIS (CONT'D): Cleanse the heart of the mind!
-HARRIS (CONT'D): Cleanse the soul of the self!
-HARRIS (CONT'D): Cleanse the spirit of the body!
-HARRIS (CONT'D): Cleanse.
-HARRIS (CONT'D): I warned you, Cynthia. I warned you someone else would take your place.
-CYNTHIA: --He killed her--he killed her because I broke my word... He said he'd take someone else, and he did... She wanted my help... my friendship... That's why... he took her...
-HETTIE: Move it, people, this ain't a sideshow... Get back to your rooms...
-BERRISFORD: (thinking aloud) Fascinating.
-ALAN: (exploding) I think she's fucking freaked out about Lana!
-BERRISFORD: (a shrug) Possible.
-ED: (aside to Ralph) Did you see the swimming pool this morning? The cops are all over it... Fingerprints, photographs...
-RALPH: Next they'll send in the fucking coast guard. Lot of good it'll do Lana.
+HARRIS: Cynthia. You are part of the
+CYNTHIA: He killed herhe killed her because I broke my word. He said he'd take someone else, and he did. She wanted my help. my friendship. That's why. he took her.
+HETTIE: Move it, people, this ain't a sideshow. Get back to your
+BERRISFORD: ( thinking aloud ) She's a textbook specimen from a collective environment, an immersion philosophy, run by an extremely manipulative figurehead with Messianic delusions. Unity House at its apex must have been a classic matrix of belief impression overlaid on collectivity That would indicate she's symptomatic of a hypothetical Borderline Personality syndrome among cult followers, all externalizing their anxiety! What do you think?
+ALAN: ( exploding ) I think she's fucking freaked out about Lana!
+BERRISFORD: ( a shrug )
+ED: ( aside to Ralph ) Did you see the swimming pool this morning? The cops are all over it. Fingerprints, photographs.
+RALPH: Next they'll send in the fucking coast guard. Lot of good it'll do
 HETTIE: Ralph, we're gonna start billing you for these outbursts.
-CONNIE: Drowning isn't so bad... I remember when I died in Atlantis... It was like failing asleep. You know what's bad? Burning. When I was in the great Fire of London, well, let me tell you--
+CONNIE: Drowning isn't so bad. I remember when I died in Atlantis. It was like failing asleep. You know what's bad? Burning. When I was in the great Fire of London, well, let me tell you
 MIRIAM: Connie, I don't know about your previous lives, but in this one, you're a shithead.
-MIRIAM: Honey, you can't blame yourself. Lana was an unhappy girl. Sometimes unhappy girls do foolish things.
+MIRIAM: Honey, you can't blame yourself. Lana was an unhappy girl. Sometimes unhappy girls do foolish She didn't kill herself.
 CYNTHIA: She didn't kill herself.
-CYNTHIA (CONT'D): It was Harris.
-MIRIAM: Harris?
-CYNTHIA: From Unity House. He comes to me, Miriam. He talks to me. He reminds me that I was supposed to go with them that night--
-MIRIAM: Go with them--
-CYNTHIA: Through the fire. To the next world. They waited while I was in a coma... He told me that if I didn't join him, he would take someone also... and he did it, Miriam, he did it!
-CYNTHIA (CONT'D): You...   you don't believe me, do you?
-MIRIAM: I believe that you believe it. And I also believe that shooting you up every time you get the heebie- jeebies ain't gonna do shit for your real problems. We gotta get you out of here--get you to some nice place at the beach or the mountains where you can fight your demons in your own way. Right?
-CYNTHIA: But I don't know anyone.   I don't have any money.
+MIRIAM: ( CONTINUED )
+CYNTHIA: From Unity House. He comes to me, Miriam. He talks to me. He reminds me that I was supposed to go with them that night
+MIRIAM: Go with them
+CYNTHIA: Through the fire. To the next world. They waited while I was in a coma. He told me that if I didn't join him, he would take someone also. and he did it, Miriam, he did it!
+MIRIAM: I believe that you believe it. And I also believe that shooting you up every time you get the heebie- jeebies ain't gonna do shit for your real problems. We gotta get you out of hereget you to some nice place at the beach or the mountains where you can fight your demons in your own way. Right?
+CYNTHIA: But I don't know anyone. I don't have any money.
 MIRIAM: You know me.
-CYNTHIA: (skeptical) And you have money, right?
-MIRIAM (CONT'D): (turning) I was on the staff of a magazine... Well, some people called it a rag, but it was home: ME! Magazine. You heard of it?
-CYNTHIA: (shaking her head, diplomatic) I was in a coma.
-MIRIAM: Oh, right. Well, when they took me off to the funny farm, Saul--he's the editor--he said I was always welcome back. Maybe this is the time. See, if I can go to him, tell him your story, I could get a big advance... I'd share it with you, and we'd be set! I mean, girl, your story has everything... death, hospitalization, weird rituals, maybe a little romance-- I've seen all those longing glances between you and Goldman-
-CYNTHIA: What--!
-MIRIAM: --and now with poor Lana we got a little mystery. Hell, you're not an article, you're a goddamned mini- series!
-CYNTHIA: I...   I don't know...
-MIRIAM: Cynthia, let me be honest. This is a great story, and it means a second chance for me, so, okay, there's some self interest here. But I really think you need to tell people about Unity House... about the way decent ideas and dreams got twisted into something sick and poisonous. You owe it to the world. You owe it to yourself. It's your life, and you have to ask yourself how you want to live it... (sharper) --if you want to live it.
+CYNTHIA: ( skeptical ) And you have money, right?
+MIRIAM: Look. Despite popular opinion to the contrary, I have not always been the career borderline psychotic neurotic that I am today. Up until a coupla years ago I was a writer, a reporter, a damn good one too. Hell, I really kicked some ass with that Selectric.
+CYNTHIA: ( shaking her head, I was in a coma.
+MIRIAM: Oh, right. Well, when they took me off to the funny farm, Saulhe's the editorhe said I was always welcome back. Maybe this is the time. See, if I can go to him, tell him your story, I could get a big advance. I'd share it with you, and we'd be set! I mean, girl, your story has everything. death, hospitalization, weird rituals, maybe a little romance I've seen all those longing glances between you and Goldman-
+CYNTHIA: and now with poor Lana we got a little mystery. Hell, you're not an article, you're a goddamned mini- I. I don't know.
+MIRIAM: and now with poor Lana we got a little mystery. Hell, you're not an article, you're a goddamned mini- I. I don't know.
+CYNTHIA: I. I don't know.
+MIRIAM: Cynthia, let me be honest. This is a great story, and it means a second chance for me, so, okay, there's some self interest here. But I really think you need to tell people about Unity House. about the way decent ideas and dreams got twisted into something sick and poisonous. You owe it to the world. You owe it to yourself. It's your life, and you have to ask yourself how you want to live it. if you want to live it.
 CYNTHIA: Let's do it.
 MIRIAM: I think I know a way to make a phone call. We'll have you out of here tonight.
-MIRIAM (CONT'D): Cynthia.    This is the right thing to do.
 CYNTHIA: Of course it is.
-MIRIAM: Uh oh.     Mum's the word.
-ALAN: (nodding) Ladies. Good to see you socializing, Cynthia.
-CYNTHIA: Yes. (to Miriam) See you later. And...     thanks.
+MIRIAM: Uh oh. Mum's the word.
+ALAN: ( nodding ) Ladies. Good to see you socializing, Cynthia.
+CYNTHIA: ( to Miriam ) See you later. And. thanks.
 MIRIAM: Thank you.
 ALAN: How are you feeling?
-CYNTHIA: Fine.
-ALAN: Good.
-CYNTHIA: No!
-CYNTHIA (CONT'D): Miriam!    Stop!
-ALAN: Cynthia?
-CYNTHIA: (yelling into the door) Miriam, get out!
-ALAN'S VOICE: Cynthia!
-VOICE: Cynthia!
+CYNTHIA: He heads off in the opposite direction. Cynthia watches him. She turns back towards Miriam. Miriam is alone in the elevator except for one other person. Miriam smiles and waves. Cynthia smiles and waves. From behind Miriam, Harris, all burned and puffy, smiles and The elevator doors close.
+ALAN: He heads off in the opposite direction. Cynthia watches him. She turns back towards Miriam. Miriam is alone in the elevator except for one other person. Miriam smiles and waves. Cynthia smiles and waves. From behind Miriam, Harris, all burned and puffy, smiles and The elevator doors close.
+CYNTHIA: Alan whirls around. Cynthia rushes to the elevator.
+ALAN: ( CONTINUED )
+CYNTHIA: ( yelling into the door ) Miriam, get out!
+ALAN'S VOICE: She swings around a turn into a flight and trips. Suddenly she's ROLLING DOWN A
+VOICE: ANOTHER VOICE
 ANOTHER VOICE: She's trying to get away!
 VOICE: Cynthia! We want you to stay with us! You mustn't be afraid!
 CYNTHIA: Please, no.
 FEMALE VOICE: She's over here.
 HARRIS: No pain, Cynthia. There's no pain. Come with us. Share with us. Take my hand.
 ORDERLY'S VOICE: Take my hand.
-ALAN: Jesus.
-MIRIAM: Cynthia, it's really quite beautiful.
+ORDERLY: Cynthia, take my hand.
+ALAN: The nurse crosses herself. Cynthia is escorted away amid the 99 EXT. SKY - DAY 99 The CAMERA IS MOVING FORWARD, TOWARDS the window. It seemingly goes OUT THROUGH THE WINDOW. The FRAME is filled with bright blue sky. Silence, except for a slight BREEZE. Someone is falling through the sky. It is MIRIAM. We see her CLOSER, flowing down, the wind rushing up round her. She is happy.
+MIRIAM: Cynthia, it's really quite
 CYNTHIA: They want us all now. They want us with them. Whether we like it or not, we're going,
-ALAN: Cynthia, we're all upset by what's happened. But let's not get--
-CYNTHIA: Harris promised us eternal bliss on the other side when we're all together.
-CONNIE: Eternal bliss....
-RALPH: Eternal bullshit--!
-CYNTHIA: Miriam was going to write a story about me. He killed her because she was going to help me got out of here.
-ALAN: Cynthia, please...
-CYNTHIA: You're not listening to me! He wants us all to die! He wants you all with them, and it's because of me! (sobbing) It's all because of me...
+ALAN: Cynthia, we're all upset by what's happened. But let's not get
+CYNTHIA: Harris promised us eternal bliss on the other side when we're all Eternal bliss..
+CONNIE: Eternal bliss..
+RALPH: Eternal bullshit!
+CYNTHIA: Miriam was going to write a story about me. He killed her because she was going to help me got out of Cynthia, please.
+ALAN: Cynthia, please.
+CYNTHIA: You're not listening to me! He wants us all to die! He wants you all with them, and it's because of It's all because of me.
 FIRST REPORTER: Dr. Berrisford, what would you call two suicides on your promises so close together?
 BERRISFORD: I'd call it a tragic coincidence. Unfortunately, Borderline Personality Disorder is indicative of a pre-existing disposition towards suicidal tendencies.
 SECOND REPORTER: What about the commune girl? Has she confirmed that the fire was some sort of mass suicide?
 BERRISFORD: As that is a police matter, I am not at liberty to comment on it.
 FIRST REPORTER: Speaking of the police, doctor, isn't it true that they suspect that the recent deaths may not have been suicides at all?
-BERRISFORD: That's completely absurd.   Where do you get this nonsense?
-FIRST REPORTER: (a smug smile) From Lieutenant Wasserman. He confirmed to me that he's assigning some of his officers to the hospital grounds until further notice.
-REPORTERS: (rapid fire) Doctor Berrisford, are you cooperating with the police? Dr. Berrisford, do your patients have a history of violence?
-BERRISFORD: Ah... I have work to do.    No further questions.
+BERRISFORD: That's completely absurd. Where do you get this nonsense?
+FIRST REPORTER: ( a smug smile ) From Lieutenant Wasserman. He confirmed to me that he's assigning some of his officers to the hospital grounds until further
+REPORTERS: ( rapid fire ) Doctor Berrisford, are you cooperating with the police? Dr. Berrisford, do your patients have a history of violence?
+BERRISFORD: Ah. I have work to do. No further questions.
 HARRIS: You're in pain, Cynthia.
-HARRIS (CONT'D): Your pain is my pain. We share it all, because we have our love.
 ALAN: I didn't want you to be alone.
-ALAN (CONT'D): Looks like I was right.
 HETTIE: What are you doing here?
-ED: You know me at feeding time.
-CONNIE: (coming up for air) Why didn't you tell me before that you were a Prince of Ancient Atlantis?
-ED: It slipped my mind ...    your Highness.
-ED (CONT'D): They'll have bed check soon.   I know a better place.
-ALAN: I don't know if you want to hear this or not, and frankly, I don't care.
-ALAN (CONT'D): You are no more responsible for those deaths twelve hours ago than you are for the ones twelve years ago.
-ALAN (CONT'D): Thinking otherwise is putting you in a self-replicating spiral of depression. And that puts me in a bind... What do I do, write more prescriptions? You need to face reality, not get medicated out of it...
-ALAN (CONT'D): Damn it, Cynthia, you can't run away from this--
-CYNTHIA: It's Harris--he's going to do something to Connie--to Ed--!
-ALAN: Good! Get mad--get angry--but not at me--at these fantasies--!
-CONNIE: (wistful) Nectar from the grapes of Atlantis!
+ED: You know me at feeding time. Why didn't you tell me before that you were a Prince of Ancient It slipped my mind . your
+CONNIE: ( coming up for air ) Why didn't you tell me before that you were a Prince of Ancient It slipped my mind . your
+ED: It slipped my mind . your
+ALAN: I don't know if you want to hear this or not, and frankly, I don't
+CYNTHIA: It's Harrishe's going to do something to Connieto Ed!
+ALAN: Good! Get madget angrybut not at meat these fantasies!
+CONNIE: ( wistful ) Nectar from the grapes of Atlantis!
 ED: No fooling you.
 ED: I'm so happy.
-ALAN: Miriam and Lana were both deeply disturbed women. Miriam tried to kill herself before. Lana was obsessed with the morbid... You heard her in the sessions. You can't twist what they did into something other than what it was.
-ALAN (CONT'D): Now what?
-ALAN (CONT'D): Damn it, Cynthia, come back--!
-ALAN (CONT'D): Shit--!
-NURSE: It's just overloaded circuits. Everyone, please go back into your room.
-EDGAR: The turbine room upstairs? All right. (he hangs up) We'll set it straight in a minute. Somethin's caught in the turbine.
-NURSE: Hurry.
-EDGAR: Goddammit.
+ALAN: Miriam and Lana were both deeply disturbed women. Miriam tried to kill herself before. Lana was obsessed with the morbid. You heard her in the sessions. You can't twist what they did into something other than what it was.
+NURSE: It's just overloaded circuits. Everyone, please go back into your
+EDGAR: The turbine room upstairs? All We'll set it straight in a minute. Somethin's caught in the turbine.
+NURSE: 120 INT. HALLWAY - NIGHT 120
+EDGAR: He walks off.
 EDGAR: What the hell?
-ALAN: Cynthia--!
-CONNIE'S VOICE: Cynthia.   Cynthia.
-CYNTHIA: Connie?
+ALAN: Cynthia turns, reacts. and then reacts to
+CONNIE'S VOICE: Cynthia. Cynthia.
+CYNTHIA: She goes into another corridor. Alan hurries to catch up, but then has to help a nurse with a frightened OLDER WOMAN.
+CONNIE'S VOICE: Cynthia moves down the hall a bit. She looks up at the 123 ANGLE - THE AIR VENT 123 Down the hall further, another vent.
 ED'S VOICE: Come with us, Cynthia!
 CONNIE'S VOICE: You must join us, Cynthia!
-HARRIS' VOICE: Cynthia, you must reach out and embrace our love for you... You must reach out to me...
+HARRIS' VOICE: Cynthia, you must reach out and embrace our love for you. You must reach out to me.
 CYNTHIA: Where are Connie and Ed?
 HARRIS: They're with us now.
-CYNTHIA: Where are they? (she is frantic) Where are Connie and Ed?   Where are they?
-CYNTHIA (CONT'D): Where are Connie and Ed?
-ALAN: It's all right--it's all right--
-EDGAR: --horrible--sweet Jesus--help me--
+CYNTHIA: Where are they? Where are Connie and Ed? Where are
+ALAN: It's all rightit's all right
+EDGAR: horriblesweet Jesushelp me
 RALPH: What the fuck is going on?
-GILDA: It's Ed and Connie.    They're dead, aren't they?
-ALAN: Yes. We're not sure what happened... There was evidence that they were drinking... They fell into... the main turbine.
-RALPH: Fuck... Look, Ed drank before. Lots of times. Didn't know that, did you? But he didn't usually decide to jump into a mix master, man!
+GILDA: It's Ed and Connie. They're dead, aren't they? Yes. We're not sure what happened. There was evidence that they were drinking. They fell into. the main turbine.
+ALAN: Yes. We're not sure what happened. There was evidence that they were drinking. They fell into. the main turbine.
+RALPH: Fuck. Look, Ed drank before. Lots of times. Didn't know that, did you? But he didn't usually decide to jump into a mix master, Ralph, as for your own safety, you are being given the most amount of protection possible.
 ALAN: Ralph, as for your own safety, you are being given the most amount of protection possible.
-GILDA: The police are powerless.    Ask Cynthia. She knows. (softly) Harris wants us all.
-RALPH: Jesus Fucking Christ!    I'm getting the hell out of here.
+GILDA: The police are powerless. Ask Cynthia. She knows. Harris wants us all.
+RALPH: Jesus Fucking Christ! I'm getting the hell out of here.
 RALPH: Now what?
-COP: Lieutenant Wasserman assigned me to you. Where you go--
+COP: Lieutenant Wasserman assigned me to you. Where you go
 RALPH: I get the picture. Try not to shoot me or your fat ass, okay?
 ALAN: Isn't this a coincidence?
 CYNTHIA: I'm getting out of here.
-ALAN: Believe it or not, this is the safest place for you to be. The police are here. There are doctors here. And I'm going to keep you company, all night. I even brought provisions.
-ALAN (CONT'D): Pure unadulterated junk. At this point, who cares about the chemicals?
-ALAN (CONT'D): Try harder next time.
-CYNTHIA: (with frightening casualness) Connie and Ed aren't going to be the last.
+ALAN: Believe it or not, this is the safest place for you to be. The police are here. There are doctors here. And I'm going to keep you company, all night. I even brought
+CYNTHIA: ( with frightening Connie and Ed aren't going to be the last.
 ALAN: Yes, they are. Everyone's under protection. Nothing can happen.
 RALPH'S POLICEMAN: Everything okay?
 RALPH: Yes, thank you, officer. Hey, lemme buy you a cup of coffee.
-RALPH'S POLICEMAN: (shrugging) Sounds good to me.
-RALPH: (to his cop) Just a sec.
+RALPH'S POLICEMAN: ( shrugging ) Sounds good to me.
+RALPH: ( to his cop ) Just a sec.
 CYNTHIA: Ralph? What is it?
-RALPH: Nothing. I just came to tell you-- (smiling, conspiratorially) Everything's gonna be okay.
+RALPH: Nothing. I just came to tell you Everything's gonna be okay.
 CYNTHIA: What's going to be okay?
-CYNTHIA (CONT'D): What happened to your hand?
-RALPH: Don't worry. Everything's gonna be okay.
-CYNTHIA: Ralph?
-CYNTHIA: (yelling down the hall) Ralph?
-CYNTHIA: Ralph was just here.   His hand was... all bloody.
+RALPH: Don't worry. Everything's gonna be
+CYNTHIA: Cynthia is mystified. He goes.
+CYNTHIA: ( yelling down the hall )
+CYNTHIA: Ralph was just here. His hand was. all bloody. Dr. Goldman, have you seen Ralph?
 HETTIE: Dr. Goldman, have you seen Ralph?
-ALAN: I was going to ask you the same thing.
-HETTIE: He didn't take his four o'clock. If he misses this one, I'm gonna...
-ALAN: Shit! It's his tranquilizer! If he doesn't take this, he'll completely flip out--!
-CYNTHIA: Look.
-RALPH'S POLICEMAN: Are you sure you know where you're going?
+ALAN: I was going to ask you the same
+HETTIE: He didn't take his four o'clock. If he misses this one, I'm gonna.
+ALAN: Shit! It's his tranquilizer! If he doesn't take this, he'll completely flip out!
+CYNTHIA: 136 ANGLE - ON THE FLOOR 136
+RALPH'S POLICEMAN: Are you sure you know where you're
 ALAN: Was he behaving strangely?
 CYNTHIA: No more strangely than everybody also in this place.
-CYNTHIA'S POLICEMAN: (with walkie-talkie) I can't get him. He must be shut off.
-CYNTHIA: Hey.
-ALAN: Cynthia!
-CYNTHIA: Ralph, we have to go and get your medication.
-RALPH: Relax.
-CYNTHIA: Ralph, I'm not going out.    We have to go back upstairs.
-CYNTHIA (CONT'D): Ralph, please!
+CYNTHIA'S POLICEMAN: ( with walkie-talkie ) I can't get him. He must be shut
+CYNTHIA: A BLOODY HAND reaches out of the elevator covering her mouth and pulls her inside.
+ALAN: 141 INT. FREIGHT ELEVATOR - NIGHT 141
+CYNTHIA: Ralph, we have to go and get your
+RALPH: He smiles.
+CYNTHIA: Ralph, I'm not going out. We have to go back upstairs.
 RALPH: I have to talk to you.
-RALPH (CONT'D): It's very, very, very, very, very important that I talk to you.
 CYNTHIA: Ralph, you're not being yourself. Can't you tell?
-RALPH: No!   This is the real me!
-RALPH (CONT'D): I come down here a lot. It helps me unwind.
+RALPH: No! This is the real me!
 CYNTHIA: Ralph, please! How do we get out?
-RALPH: It's been said by better men than me in better ways in better times-- there is no way out!
-CYNTHIA: Help!
-RALPH: There are only a few chances for real glory, and most people fuck it up. Most people can't even find the noses on their fucking faces. (jump, BREAK) You want an example? How about EVERY FUCKING DOCTOR in this entire hospital? Do you think I'm just going to let myself slowly dissolve into nothingness here?! (jump, BREAK) I'm talking about a glorious glory. And everybody's trying to drag me down!
+RALPH: It's been said by better men than me in better ways in better times there is no way out!
+CYNTHIA: ( CONTINUED )
+RALPH: There are only a few chances for real glory, and most people fuck it up. Most people can't even find the noses on their fucking faces. You want an example? How about EVERY FUCKING DOCTOR in this entire hospital? Do you think I'm just going to let myself slowly dissolve into nothingness here?! I'm talking about a glorious glory. And everybody's trying to drag me Ralph, please, they said you have to take some pills.
 CYNTHIA: Ralph, please, they said you have to take some pills.
-RALPH: Pills have got nothing to do with it! You know what I'm talking about!
+RALPH: Pills have got nothing to do with it! You know what I'm talking
 CYNTHIA: No, I don't. I don't.
 RALPH: You do! Real glory, hallelujah! The great big gig in the sky. Don't play dumb, Cynthia.
-RALPH (CONT'D): I think you know the word I'm searching for.
-RALPH (CONT'D): U, N, I, T, Y! Unity!
 CYNTHIA: Oh God, Ralph! No!
 RALPH: Yes, oh, yes! Eternal bliss!
 CYNTHIA: Ralph, please, stop!
-CYNTHIA (CONT'D): Ralph!
-RALPH: (fading) Get back.
-RALPH (CONT'D): Join us, Cynthia.
+RALPH: ( fading ) Get back.
 HARRIS: Join us.
 VOICES: Join us.
-POLICEMAN: They're in the basement.   The girl's alive.
-WASSERMAN: You're running out of patients, Doctors.
+POLICEMAN: They're in the basement. The girl's alive.
+WASSERMAN: You're running out of patients, What did she say happened?
 ALAN: What did she say happened?
-WASSERMAN: She's having a little trouble with reality--as usual.
-CYNTHIA: (to Alan) Goodbye, Alan. Thanks for trying. But it's time for me to go now.
-ALAN: I have to go with her.    Where is she being taken?
-BERRISFORD: Isolation.
-ALAN: (stunned) Isolation? Are you out of your mind? That girl needs human contact--connection--isolation is the worst thing you can do--
+WASSERMAN: She's having a little trouble with realityas usual.
+CYNTHIA: ( to Alan ) Goodbye, Alan. Thanks for trying. But it's time for me to go now.
+ALAN: I have to go with her. Where is she being taken?
+BERRISFORD: ( stunned ) Isolation? Are you out of your mind? That girl needs human contactconnectionisolation is the worst thing you can do
+ALAN: ( stunned ) Isolation? Are you out of your mind? That girl needs human contactconnectionisolation is the worst thing you can do
 BERRISFORD: Dr. Goldman, I know you're fond of the girl, but you're out of line.
-ALAN: Shit. You want her on the edge, don't you... You want to play your theory out to the end--
-BERRISFORD: Goldman!
-WASSERMAN: (interested) Theory? Anything I should know?
-BERRISFORD: It's an extraordinarily complex situation, severe identity crisis compounded with the multiple shock of these deaths. She's reverting to this total belief system from the commune through an intermittent psychosis that puts ideology above her life itself--
-ALAN: Fuck ideology! Fuck you, Berrisford! You can't use a human being as a guinea pig-- (to Wasserman) You have to stop this. Call it off--I'll--I'll sign her into police custody if I can stay on as her physician--
-BERRISFORD: Doctor Goldman. I believe your tenure with my clinic has just come to an end. (calling off) Security? Would you please escort Dr. Goldman off the premises?
+ALAN: Shit. You want her on the edge, don't you. You want to play your theory out to the end
+BERRISFORD: ( interested ) Theory? Anything I should know?
+WASSERMAN: ( interested ) Theory? Anything I should know?
+BERRISFORD: It's an extraordinarily complex situation, severe identity crisis compounded with the multiple shock of these deaths. She's reverting to this total belief system from the commune through an intermittent psychosis that puts ideology above her life itself
+ALAN: Fuck ideology! Fuck you, Berrisford! You can't use a human being as a guinea pig You have to stop this. Call it offI'llI'll sign her into police custody if I can stay on as her physician
+BERRISFORD: Doctor Goldman. I believe your tenure with my clinic has just come to an end. Security? Would you please escort Dr. Goldman off the premises?
 CYNTHIA: Would you like to come in?
 NURSE: No, thank you.
 VOICE: It's time, Cynthia.
-SECURITY GUARD: --Excuse me, Dr. Goldman? (apologetic) I'm going to have to ask you for your key card. (apologetic) Dr. Berrisford's orders. I'm sorry.
+SECURITY GUARD: Excuse me, Dr. Goldman? I'm going to have to ask you for your key card. Dr. Berrisford's orders. I'm
 ALAN: Tell Berrisford he can use it for a bookmark. Maybe then he can find his dick without a road map.
 SECURITY GUARD: We're gonna miss you around here, Dr. Goldman.
-HARRIS' VOICE: You were always the favorite.    We love you. Come with us.
-FEMALE UNITY MEMBER: All of us together, that's all we've ever wanted, isn't it?
+HARRIS' VOICE: You were always the favorite. We love you. Come with us.
 CYNTHIA: Why are you doing it to everybody else? Why don't you kill me?
-CYNTHIA (CONT'D): Why don't you kill me?
-CONNIE: You have to do it yourself, honey. When you didn't... he took us instead. But we're not mad. It's wonderful here.
-FEMALE UNITY MEMBER 2: Death is like this really beautiful trip Cynthia. We just want to share it with you.
+CONNIE: You have to do it yourself, honey. When you didn't. he took us instead. But we're not mad. It's wonderful here.
 LANA: You mustn't be afraid, Cynthia.
-MIRIAM: if I can do it, you can do it, honey.
+MIRIAM: if I can do it, you can do it, Why don't you kill me?
 CYNTHIA: Why don't you kill me?
-CYNTHIA (ON TV): Why don't you just kill me?!
-GILDA'S POLICEMAN: Hey.
-HARRIS (CONT'D): You have to do it for yourself-- (smiling) --lovechild.
+GILDA'S POLICEMAN: 158 INT. CYNTHIA'S ROOM - NIGHT 158
+HARRIS: You have to join us because you love us. You have to do it for
 CYNTHIA: But I'm so scared.
-NURSE: You want me to call the doctor, honey?
-NURSE (CONT'D): Try to sleep, all right?
-NURSE (CONT'D): Hey, get out of here!
-GILDA: (frantic) I can do nothing for you now, but know this--the answer you seek is inside of you! It is inside you!
+NURSE: You want me to call the doctor,
+GILDA: ( frantic ) I can do nothing for you now, but know thisthe answer you seek is inside of you! It is inside you!
 NURSE: Get her out of here!
-GILDA: (as she goes) Know yourself and you will be at peace! It is so!
-POLICEMAN: Yeah, I'm taking her back to her room... Okay, bye.
-GILDA: I know you'd come.
-GILDA (CONT'D): But you're too late.
-CYNTHIA: It feels good. I know this is right.
+GILDA: ( as she goes ) Know yourself and you will be at peace! It is so!
+POLICEMAN: Yeah, I'm taking her back to her room. Okay, bye.
+GILDA: I know you'd come. But you're too late.
+CYNTHIA: It feels good. I know this is That's right. You need our love. We need your love.
 HARRIS' VOICE: That's right. You need our love. We need your love.
-CYNTHIA: I know this is right.   We'll all be together.
+CYNTHIA: I know this is right. We'll all be
 ALAN: Brilliant. Do we feel better now? No. Yes. Maybe.
-HARRIS: Good work, Dr. Goldman.   Now, it's your turn.
-HARRIS (CONT'D): Need a light?
-RON: Goldman, you look like shit--
-ALAN: (pushing him aside) Show me the scrips for the therapy group--
-RON: Come on, man, I can't do that-- it's Berrisford's show all the way--
-ALAN: Shit, this is all standard stuff--
+SKIDDING BACKWARDS: 171N BERRISFORD 171N
+HARRIS: Good work, Dr. Goldman. Now, it's your turn.
+RON: Goldman, you look like shit
+ALAN: ( pushing him aside ) Show me the scrips for the therapy Come on, man, I can't do that it's Berrisford's show all the way
+RON: Come on, man, I can't do that it's Berrisford's show all the way
+ALAN: Shit, this is all standard stuff
 RON: What do you expect?
 ALAN: Do you fill these prescriptions?
-RON: Nah, Berrisford does it. He comes in every morning and sets up the medication for the day--Hettie takes it as she needs it--
-ALAN: Fuck!
-RON: Hey--!
-ALAN: Read it.   Pesco, Ralph--
-RON: He's dead--
-ALAN: READ IT!   What's he down for?
-RON: Ah, Lithium--four times a day--
+RON: Nah, Berrisford does it. He comes in every morning and sets up the medication for the dayHettie takes it as she needs it
+ALAN: He turns, tries to open the glass case with the prearranged trays. It's locked. He grabs a paperweight, SMASHES THE
+RON: Alan pulls out the tray, scans it. He grabs Ron by the collar, shoves the files into his face.
+ALAN: Read it. Pesco, Ralph
+RON: He's dead
+ALAN: READ IT! What's he down for?
+RON: Ah, Lithiumfour times a day
 ALAN: Is that Lithium?
-RON: Fuck, no--that's Endoral--the complete opposite--one of those, even a normal person would flip out--
-ALAN: Tell me about it--
-ALAN (CONT'D): What's this? And this?      And this?
-RON: This is, uh, dextroamphetamine... Christ, take one of these and you can walk on the ceiling. Holy mother. Methylphenidate! Don't mass with that fucker. Clonodine! Chlorapromazine! Preludin? Shit, I didn't know they still made that... Two of these and Mother Teresa would turn into a maniac!
-RON (CONT'D): Tetrahydrocannabinol! Do you know what that is? Liquid condensed marijuana! Just thinking about that stuff gets you wasted.
-RON (CONT'D): Hey, Goldman, come back here! Who's gonna clean up this mess--?
+RON: Fuck, nothat's Endoralthe complete oppositeone of those, even a normal person would flip Tell me about it
+ALAN: Tell me about it
+RON: This is, uh, dextroamphetamine. Christ, take one of these and you can walk on the ceiling. Holy mother. Methylphenidate! Don't mass with that fucker. Clonodine! Chlorapromazine! Preludin? Shit, I didn't know they still made that. Two of these and Mother Teresa would turn into a maniac!
 HETTIE: You're not supposed to be here, Dr. Goldman, are you?
 ALAN: Please, Hettie, I need your help.
-VOICE: Now.
-ALAN: Cynthia!     Cynthia!
+VOICE: 190 INT. HALLWAY - NIGHT 190
+ALAN: Cynthia! Cynthia!
 NURSE: Sometimes doctors got personally involved. I think it's a mistake. You've got to keep professional.
-HETTIE: Get some rest, Goldman.   You look like shit.
-HETTIE (CONT'D): Oh, no!
+HETTIE: Get some rest, Goldman. You look like shit.
 CYNTHIA: Get out of here. I want to do it!
-ALAN: (going to her) No. Cynthia, please. I'm not going to be able to come back, but you have to listen! Berrisford's been tampering with the medication for everybody in the group--that's why they've been committing suicide--he's been making them crazy--
-CYNTHIA: But Harris comes to me...   He speaks to me--
-ALAN: A drug induced psychotic state is very suggestible. All we've hearing for days is "Harris, Harris,"... so that's what we all saw... That's what I saw when I took Ralph's pill! It's all part of Berrisford's plan--he has this fucked-up theory about how you still think you're part of the Unity House, and the only way he can prove it is if you want to kill yourself!
-ALAN (CONT'D): Do you hear me?! He's going to want you to kill yourself! He's recreating the whole thing for you! But you can't listen to him!
+ALAN: ( going to her ) No. Cynthia, please. I'm not going to be able to come back, but you have to listen! Berrisford's been tampering with the medication for everybody in the groupthat's why they've been committing suicidehe's been making them But Harris comes to me. He speaks to me
+CYNTHIA: But Harris comes to me. He speaks to me
+ALAN: A drug induced psychotic state is very suggestible. All we've hearing for days is "Harris, Harris,". so that's what we all saw. That's what I saw when I took Ralph's pill! It's all part of Berrisford's planhe has this fucked-up theory about how you still think you're part of the Unity House, and the only way he can prove it is if you want to kill
 BERRISFORD: Dr. Goldman.
-CYNTHIA: No...   no... no...
+CYNTHIA: No. no. no.
 HARRIS: Only one thing matters.
-CYNTHIA: Our love.     We'll be together.   All of us.
-ALAN: Shit!
-HETTIE: One at a time! No pushing!      Please do not use the elevator!
+CYNTHIA: Our love. We'll be together. All of us.
+ALAN: 193 INT. HALLWAY - NIGHT 193
+HETTIE: One at a time! No pushing! Please do not use the elevator!
 ALAN: Where's Berrisford?
 HETTIE: This is your fault! These goddamn doors won't re-lock!
-ALAN: (furious ) Where is he? He's going to kill Cynthia! Tell me where he is!
+ALAN: ( furious ) Where is he? He's going to kill Cynthia! Tell me where he is!
 HETTIE: I haven't seen him!
-ALAN: (soothingly) Cynthia, take my hand... Just relax... Think about what you're doing... Stay calm... I want you to take my hand...
+ALAN: ( soothingly ) Cynthia, take my hand. Just relax. Think about what you're doing. Stay calm. I want you to take my hand.
 CYNTHIA: It's so beautiful.
-ALAN: (to Berrisford) You piece of shit!
-ALAN (CONT'D): No!
-ALAN'S VOICE: Cynthia!
-ALAN: Cynthia! Open your eyes!   Open your eyes!
-ALAN (CONT'D): Pull up! Pull yourself up so I can got a grip on you!
+ALAN: ( to Berrisford ) You piece of shit!
+ALAN'S VOICE: Suddenly she FALLS. She drops and dangles in the night air against
+ALAN: Cynthia! Open your eyes! Open your eyes!
 CYNTHIA: Let me go.
-ALAN: No!
-CYNTHIA: Let me go.     I saw it.   It's beautiful.
-ALAN: You didn't see shit!       Hold on!
+ALAN: Let me go. I saw it. It's You didn't see shit! Hold on!
+CYNTHIA: Let me go. I saw it. It's You didn't see shit! Hold on!
+ALAN: You didn't see shit! Hold on!
 BERRISFORD: Eternal bliss.
-CYNTHIA: Yes!   I want to go!    Let me go!
-BERRISFORD: (coming forward) Let her go. She needs it.
+CYNTHIA: Yes! I want to go! Let me go!
+BERRISFORD: ( coming forward ) Let her go. She needs it.
 ALAN: No! Cynthia, Harris doesn't exist! He's dead! Look at who that is! Look at him! Look!
-ALAN (CONT'D): Goddamn you! Goddamn you!
 BERRISFORD: Let her go. Let her go and I'll forget your disobedience.
 ALAN: Publish this, asshole!
-ALAN (CONT'D): (to Cynthia) Don't you hear him? He's trying to bribe me--but I'm not letting go! I'll go with you, but I'm not letting go!
-ALAN (CONT'D): Cynthia, help us! Help us both!
 BERRISFORD: You'll be with them, Dr. Goldman, Be happy.
-ALAN: No!
-CYNTHIA: S...stop it... Stop it!
+ALAN: S.stop it. Stop it!
+CYNTHIA: S.stop it. Stop it!
 ALAN: Cynthia, don't let him kill you! Don't let him do this!
-CYNTHIA: Unity... It... it's my destiny... I've fought it too long. Right or wrong... my death has a purpose... It will close the book. End the story.
-ALAN: Your life has a purpose... to bring joy and happiness! You're part of my life now. That's an unfinished story, too...
-CYNTHIA: Let me up.     Stop it.
-CYNTHIA (CONT'D): Let me up!
+CYNTHIA: Unity. It. it's my destiny. I've fought it too long. Right or wrong. my death has a purpose. It will close the book. End the Your life has a purpose. to bring joy and happiness! You're part of my life now. That's an unfinished story, too.
+ALAN: Your life has a purpose. to bring joy and happiness! You're part of my life now. That's an unfinished story, too.
+CYNTHIA: Let me up. Stop it.
 BERRISFORD: I'm afraid it's too late for that.
 GUARD: Dr. Berrisford?
-GUARD (CONT'D): Jesus (Yelling down the stairs) Gomez, get up here!
-GUARD (CONT'D): Holy shit.
 DOCTOR'S VOICE: I need a detox prep! Stat!
-CYNTHIA: It was him...
+CYNTHIA: It was him.
 ALAN: It's okay. It's over. It was Berrisford. He killed them.
-CYNTHIA: Then all those other things... Faces... voices? They were...      in my head?
+CYNTHIA: Then all those other things. Faces. voices? They were. in my head?
 ALAN: It was Berrisford. He shot you up with hallucinogens. What he didn't do, you imagined.
 CYNTHIA: Go right if that's the interstate. Yeah, it is.
 ALAN: Victorian. Looks like it was a nice house once.
-CYNTHIA: Yes. I guess appearances can be deceiving.
-CYNTHIA (CONT'D): It's dead.     It's really dead...
-ALAN: What?
+CYNTHIA: Yes. I guess appearances can be
+ALAN: ( CONTINUED )
 CYNTHIA: It's over.
-LAWYER: (in mid-speech) --letters of support could have an influence on the court... You know, from your peers--?
-BERRISFORD: (cutting him off) I have no peers. (turning) Hello, Lieutenant. (smiling) Forgive me for not getting up.
+LAWYER: ( in mid-speech ) letters of support could have an influence on the court. You know, from your peers?
+BERRISFORD: ( cutting him off ) I have no peers. ( turning ) Hello, Lieutenant. ( smiling ) Forgive me for not getting up.
 WASSERMAN: Real funny, Doctor. Try this for laughs: As soon as you're ambulatory, you're going in front of a Grand Jury, and you're going to be charged with six counts of obstruction of justice and two counts of assault.
-BERRISFORD: Well. I don't agree with your definition of justice, but I suppose I obstructed it... All in the name of science, of course--
-LAWYER: (appalled) Doctor Berrisford--
-BERRISFORD: (hushing him) --but as to murder, well, Lieutenant, I beg to differ. I didn't kill anyone. Why would I? I'm only interested in knowledge. Cynthia is a unique girl--the product of an environment and a philosophy unrivaled in its purity. I wanted to understand the depth of her commitment, the link between psychosis and total immersion philosophies, the dark terra incognita of the human psyche--
-WASSERMAN: (fed up) Hey, go chow on a Latin dictionary, okay? You can bullshit all you want, but how do you account for six bodies?
-BERRISFORD: Clearly some unknown variable was a factor.
+BERRISFORD: Well. I don't agree with your definition of justice, but I suppose I obstructed it. All in the name of science, of course
+LAWYER: ( appalled ) Doctor Berrisford
+BERRISFORD: ( hushing him ) but as to murder, well, Lieutenant, I beg to differ. I didn't kill anyone. Why would I? I'm only interested in knowledge. Cynthia is a unique girlthe product of an environment and a philosophy unrivaled in its purity. I wanted to understand the depth of her commitment, the link between psychosis and total immersion philosophies, the dark terra incognita of the human psyche
+WASSERMAN: ( fed up ) Hey, go chow on a Latin dictionary, okay? You can bullshit all you want, but how do you account for six bodies?
+BERRISFORD: Clearly some unknown variable was a Yeah? Well, if you didn't kill off the therapy group, who did?
 WASSERMAN: Yeah? Well, if you didn't kill off the therapy group, who did?
 BERRISFORD: Lieutenant, I'll put it in terms even a policeman can understand.
-BERRISFORD (CONT'D): It beats the fuck out of me.
 ALAN: What's the matter?
 CYNTHIA: I was just thinking about Gilda. Somehow, she knew. She kept talking about "him," but I didn't know what she meant. She said the answer was inside me. Why would she say that?
 ALAN: Let's go.
-CYNTHIA: You go down. I'll be out in a minute. I just want to... bury some memories.
+CYNTHIA: You go down. I'll be out in a minute. I just want to. bury some memories.
 ALAN: You sure?
-WOMAN 1: Cynthia!   Are you staying for supper?
-VICTOR: Cynthia.   It's good.   Come in.
+WOMAN 1: Cynthia! Are you staying for
+VICTOR: Cynthia. It's good. Come in.
 MIRIAM: Cynthia, I'm so glad you're here.
 GILDA: Cynthia, it's so wonderful here, but we miss you terribly.
-HARRIS: It's time, Cynthia.    It's finally time, isn't it?
-EVERYONE: Yes.
-CYNTHIA: (fighting the vision) You don't exist.
-HARRIS: I wouldn't say that. (he touches her) Go on. Take the knife.
-HARRIS (CONT'D): Do it.   You know you want to.
+HARRIS: It's time, Cynthia. It's finally time, isn't it?
+EVERYONE: ( fighting the vision ) You don't exist.
+CYNTHIA: ( fighting the vision ) You don't exist.
+HARRIS: I wouldn't say that. Go on. Take the knife.
 GILDA: You know you do, Cynthia.
 VICTOR: You'll see how beautiful it is.
 SOMEONE ELSE: You will.
 MIRIAM: Cynthia, we're only telling you this because we love you.
 HARRIS: Beautiful lovechild. All will be in balance when you've joined us. All will be right when daughter is with father.
 SOMEONE: You're special, Cynthia.
-SOMEONE ELSE: Scared blood... daughter of the father.
-CYNTHIA: I'm...?
+SOMEONE ELSE: Scared blood. daughter of the
+CYNTHIA: Now you remember.
 HARRIS: Now you remember.
-CYNTHIA: Yes...
+CYNTHIA: My own beautiful lovechild. Everyone has proven their love to me. Now you must.
 HARRIS: My own beautiful lovechild. Everyone has proven their love to me. Now you must.
-CYNTHIA: No!
-CYNTHIA (CONT'D): No I don't! I don't love you!      I don't need you!
-CYNTHIA (CONT'D): I never loved any of you! I hate you! I hate you all! What you did was wrong!
-CYNTHIA (CONT'D): It was WRONG! It was stupid!
-HARRIS: (saddened) Oh, Cynthia.
-CYNTHIA: I never needed you!    Any of you!
-CYNTHIA (CONT'D): I never did...
-ALAN: Cynthia?
-ALAN (CONT'D): Are you all right?
+CYNTHIA: She jams the knife into Harris' throat and pulls it out.
+HARRIS: ( saddened ) Oh, Cynthia.
+CYNTHIA: I never needed you! Any of you!
+ALAN: She drops the knife. The knife is all rusty and corroded. The floor is a charred mass. Cynthia turns around. Alan comes in the front door. The room is again its empty, skeletal self, blackened and silent. Cynthia is trembling. She walks out of the room.
 CYNTHIA: Let's go.
-CYNTHIA: It's going to be okay.   I'm going to be okay.
-BOY: (far off) Come on, where are you? I hope you're not in that house... You always got like this and make stupid threats that you don't mean!
-BOY (CONT'D): If you're not here on three, I'm history. Permanently. One... Two... Three! Fine. Good riddance.
-GIRL: (startled) Who are you?
-HARRIS: A friend.    You're upset.
-HARRIS (CONT'D): What would you say if I could promise you eternal bliss?
+CYNTHIA: It's going to be okay. I'm going to be okay.
+BOY: ( far off ) Come on, where are you? I hope you're not in that house. You always got like this and make stupid threats that you don't mean!
+GIRL: ( startled ) Who are you?
+HARRIS: A friend. You're upset.
 GIRL: Eternal bliss? What do you mean?
+THE END: Writers : Andrew Fleming Steven E. de Souza

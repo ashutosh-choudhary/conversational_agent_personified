@@ -1,9 +1,4 @@
-WHITE JAZZ: Written by Matthew Michael Carnahan & Joe Carnahan
-ME (V.O.): I'm old. And all I have left is the will to remember...
-ME (V.O.) (CONT'D): ...and the fear I'll forget...
-ME (V.O.) (CONT'D): I killed innocent men. I betrayed sacred oaths. I reaped profit from horror. The names are dead or too guilty to tell. The events so brutal they beg to be re-told...
-ME (V.O.): Lieutenant Dave Klein, Vice Division. LAPD. That's what my face looked like before.
-ME (V.O.) (CONT'D): Junior Stemmons. A partner I never asked for. The scowl meant to hide a shit-scared kid who'd been teaching evidence classes three months ago. His Old-Man was an LAPD lifer who never got past Sergeant.
+WHITE JAZZ: Written by
 JUNIOR STEMMONS: We should make our move now.
 ME: Mid-fight? Look at the crowd: you wanna be at the center of a riot?
 JUNIOR STEMMONS: I don't wanna be here when Noonan and the Feds show up.
@@ -14,96 +9,75 @@ ME: Sanderline, I'm Lieutenant Klein of the LAPD and a real big fan-
 JUNIOR STEMMONS: -you're under arrest.
 ME: No you're not. Reuben is-
 REUBEN RUIZ: -Lieutenant Dave why you arrest-
-ME: -for being a ranked fighter who still steals hubcaps. Shut up. (off Ruiz, back to Sanderline) If I was gonna arrest you, I wouldn't have let you finish: and that hook-uppercut combo you got is something special. (from Reuben, beat) Reuben's in custody. But you could be our Guest. Whaddya say?
-RING ANNOUNCER: Ladies and Gentleman...due to circumstances beyond our control, Rock-A-Bye Ruiz will not fight this-
-ME (V.O.): Welles Noonan, US Attorney. Ivy League Crimefighter. Launching a big boxing probe as a way to begin prying into everything else crooked and corrupt in LA.
-ME (V.O.) (CONT'D): Unaware the LAPD was walking away with his two big witnesses.
+ME: -for being a ranked fighter who still steals hubcaps. Shut up. If I was gonna arrest you, I wouldn't have let you finish: and that hook-uppercut combo you got is something special. Reuben's in custody. But you could be our Guest. Whaddya say?
+RING ANNOUNCER: Ladies and Gentleman.due to circumstances beyond our control, Rock-A-Bye Ruiz will not fight this-
+JUNIOR STEMMONS: C'MON-JESUS-HE'S RIGHT THERE!
 ME: Then you can stop pointing at him.
 ME: Hungry Sanderline?
 SANDERLINE JOHNSON: If they got shrimp.
-ME: (into the phone) Shrimp cocktail. (over to Reuben) You want something Reuben?
+ME: ( into the phone ) Shrimp cocktail. ( over to Reuben ) You want something Reuben?
 REUBEN RUIZ: To know why the fuck I'm here-
-JUNIOR STEMMONS: -mind your tone, Shitbird...
+JUNIOR STEMMONS: -mind your tone, Shitbird.
 REUBEN RUIZ: Shitbird went out with Vaudeville. You get your badge in a cereal box?
 ME: You're here because we want you to remember where you live.
-SANDERLINE: (grade-school mind) City of Angels.
+SANDERLINE: ( grade-school mind ) City of Angels.
 ME: Excellent Sanderline.
-REUBEN RUIZ: What?
+REUBEN RUIZ: You live in LA, Asshole. You do not live in `Federal Government.'
 ME: You live in LA, Asshole. You do not live in `Federal Government.'
 JUNIOR STEMMONS: We get to spend time alone now.
 REUBEN RUIZ: Want some perfume?
 ME: Stop laughing.
-ME (CONT'D): What were you gonna tell Welles Noonan? (watch as he flinches) He has a subpoena with your name on it, Sanderline. Why would someone like you need to talk to the U.S. Attorney?
-ME (CONT'D): You're a legbreaker for the Mob. I know the Men that pay you for that will murder you if they hear you're about to talk to the U.S.-
-SANDERLINE JOHNSON: -but they don't know...
-ME: (beat, small smile) And they don't have to. Now tell me what you were gonna tell Noonan-
+SANDERLINE JOHNSON: -but they don't know.
+ME: ( beat, small smile ) And they don't have to. Now tell me what you were gonna tell Noonan-
 SANDERLINE: Bet you they ran outta shrimp.
-ME: Yeah.
-UNIDENTIFIED VOICE (O.S.): The Spook with you?
-UNIDENTIFIED VOICE (CONT'D): C'mon, we know he is. We're just trying to be mysterious-
+ME: UNIDENTIFIED VOICE ( O.S. )
 ME: -who's `we?'
-UNIDENTIFIED VOICE (O.S.): Me and Sam G.
-ME (V.O.): G for `Giancana.' I owe him favors for the rest of my life.
-UNIDENTIFIED VOICE (O.S.): We're out at the place in Palm Springs. You should come out for the weekend.
 ME: Tell Sam if I get minute-
-UNIDENTIFIED VOICE: -yer gonna have to make a minute for him. Now. See, we think the Spade might testify that Sam owns him and how we was grooming him for a title shot he was gonna tank. A fight everybody woulda' got flush off of, including the Spade. (beat, quieter) Have him look out the window Klein.
-ME: Sanderline, you gotta see this...
+UNIDENTIFIED VOICE: -yer gonna have to make a minute for him. Now. See, we think the Spade might testify that Sam owns him and how we was grooming him for a title shot he was gonna tank. A fight everybody woulda' got flush off of, including the Spade. Have him look out the window Klein.
+ME: Sanderline, you gotta see this.
 SANDERLINE JOHNSON: What'm I-
-ME (CONT'D): Remember where you live.
-ME (V.O.): LA's version of the Young Turks, only meaner.
-(MORE): ME (V.O.) (cont'd) Boyce Bradley, Chief of Detectives. Smartest man in town. And one of the richest: Dad was a Real Estate Developer who owned a strip of land that's now known as the Santa Monica Freeway. On either side, Bradley's book-ends: D.A. Bob Gallaudet, not the smartest man in town: `Gas Chamber' Bob cribbed my notes at USC Law. And Tom Bethune, running for a City Council seat that'll decide if this Mexican slum called Chavez Ravine gets bulldozed and renamed `Dodger Stadium.'
+ME: DID THAT MUTT JUST JUMP?
+DODGERS NO!: Four of us at the table glued to the T.V, watching U.S. Attorney Welles Noonan lambasting the LAPD.
 BRADLEY: Turn it off.
 ME: I was pissing. He was jumping.
-BRADLEY: `US Attorney Noonan is accusing the Los Angeles Police Department in general, and Lt. David Klein in particular, of murder at worst, gross incompetence at best...'
+BRADLEY: `US Attorney Noonan is accusing the Los Angeles Police Department in general, and Lt. David Klein in particular, of murder at worst, gross incompetence at best.'
 ME: Noonan had Sanderline scared. After he sang to me he panicked & jumped.
 TOM BETHUNE: He did spend a month in Camarillo Mental Hospital last year-
-GAS CHAMBER BOB: -and wearing that hotel robe over his clothes makes him look even more looney-bin.
 TOM BETHUNE: Plus, Reuben Ruiz recanted. So Noonan's Boxing Probe is dead. He's got nothing-
-BRADLEY: -but time, a mandate and new targets...I need to speak to the Lieutenant alone.
-BRADLEY (CONT'D): Describe to me your duty, as you understood it, regarding Sanderline Johnson and Reuben Ruiz.
+BRADLEY: -but time, a mandate and new targets.I need to speak to the Lieutenant alone.
 ME: Take both men into custody before Noonan and the Feds could, and find out what they were going to tell-
 BRADLEY: -and why did I choose you for this?
 ME: Because I'm a Cop with a law degree, and you thought my legal-
-BRADLEY: -because your a thug with a law degree. Because I thought by now you'd be so indebted to this Department for not indicting and/or imprisoning you, that diligent, honest discharge of duty would be assured. (beat) And I made a horrible misjudgment.
-ME: Bethune and Gallaudet don't think so.
-BRADLEY: Bob's happy because he wants to be State Attorney General and his most likely opponent will be Welles Noonan. Tom's happy because Morton Diskant, who's leading their City Council race, is endorsed by Noonan. Thus, they're not seeing the larger play. (with calculated emphasis) Noonan's new target will likely be the LAPD itself.
+BRADLEY: -because your a thug with a law degree. Because I thought by now you'd be so indebted to this Department for not indicting and/or imprisoning you, that diligent, honest discharge of duty would be And I made a horrible misjudgment.
+ME: Bethune and Gallaudet don't think Bob's happy because he wants to be State Attorney General and his most likely opponent will be Welles Noonan. Tom's happy because Morton Diskant, who's leading their City Council race, is endorsed by Noonan. Thus, they're not seeing the larger play. Noonan's new target will likely be the LAPD itself.
+BRADLEY: Bob's happy because he wants to be State Attorney General and his most likely opponent will be Welles Noonan. Tom's happy because Morton Diskant, who's leading their City Council race, is endorsed by Noonan. Thus, they're not seeing the larger play. Noonan's new target will likely be the LAPD itself.
 ME: How do you know that?
-BRADLEY: Because that's where I would aim: a subpoenaed Federal witness plummets to his death in the company of two LAPD detectives? (beat) This screams Police Corruption. This offers Noonan the possibility of payback in the form of national headlines.
-ME: Johnson did that stint at the Nut House -- leak his file to your friends at the times-
-BRADLEY: My friends would be more interested in this. (beat, flipping file open) Coroner's preliminary: white paint chips found embedded in Sanderline Johnson's scalp. A matching dent on the white window sill. I checked with the hotel switchboard and found a call was patched to your room at about the same time Johnson flew out of it. (beat, proclamation:) It shocks and sickens me that your allegiance to the Chicago mob would take precedence over the LAPD.
-ME: (fuck drawing this out) Alright. Where's this going? (pull my badge, table it) Gun? Shield? What?
-BRADLEY: The appearance of disciplinary measures taken against you are mandated post-Sanderline Johnson, so your suspension will be recorded but sealed...and kept quiet for now-
+BRADLEY: Because that's where I would aim: a subpoenaed Federal witness plummets to his death in the company of two LAPD detectives? This screams Police Corruption. This offers Noonan the possibility of payback in the form of national
+ME: Johnson did that stint at the Nut House leak his file to your friends at the times-
+BRADLEY: My friends would be more interested in this. Coroner's preliminary: white paint chips found embedded in Sanderline Johnson's scalp. A matching dent on the white window sill. I checked with the hotel switchboard and found a call was patched to your room at about the same time Johnson flew out of it. It shocks and sickens me that your allegiance to the Chicago mob would take precedence over the LAPD.
+ME: ( fuck drawing this out ) Alright. Where's this going? ( pull my badge, table it ) Gun? Shield? What?
+BRADLEY: The appearance of disciplinary measures taken against you are mandated post-Sanderline Johnson, so your suspension will be recorded but sealed.and kept quiet for now-
 ME: So if the papers or Noonan come sniffing around-
 BRADLEY: -we can provide adequate proof of your dismissal.
 ME: But you're not dismissing me.
-BRADLEY: Just on paper. (closes the file) Since I misjudged the Cop I thought you were, I'm going to leverage the Cop that you are.
-BRADLEY (CONT'D): Morton Diskant is to be removed from the City Council race. The means and methods implemented to that end I will entrust to you.
-ME: (throw a thumb at Bethune) You want me to torpedo Diskant so your buddy Bethune can win a City Council seat uncontested-
+BRADLEY: Just on paper. Since I misjudged the Cop I thought you were, I'm going to leverage the Cop that you are.
+ME: ( throw a thumb at Bethune ) You want me to torpedo Diskant so your buddy Bethune can win a City Council seat uncontested-
 BRADLEY: -or spend the next month in lock-up before being arraigned on charges of gross misconduct and dereliction of duty. The preamble before you face life in prison for murder.
-BRADLEY (CONT'D): Diskant works Saturdays. Late.
-ME (V.O.): Bradley's stooge now. A smart play suspending me: a built-in shield for him if things go sideways.
-ME (V.O.) (CONT'D): Black Buick...five Cars back...feels like a tail...
-ME (V.O.) (CONT'D): ...or maybe I just need sleep.
-ME (V.O.) (CONT'D): Press camped out post-Sanderline, looking for quotes to hang me with.
-ME (V.O.): Retreat to Meg's. My kid sister and only living family. Mom and Pop died in `51 when their first plane ride became their last.
-MEG: (glances from paper to me) I already got the Times inside.
+MEG: ( glances from paper to me ) I already got the Times inside.
 MEG: How much is true?
 ME: How many times have I lied to you?
-MEG: Zero.
-ME: You've always liked your Men mean.
+MEG: Shrug. Play aloof. Hope it suffices.
+ME: You've always liked your Men mean. She looks up at me. Feels the shame I shun.
 ME: What would Mom and Dad say?
 ME: Nothing. That's where I learned it.
 MEG: Poor you.
-ME: Yeah, pour me...a cup please. Black, no sugar.
-ME (CONT'D): Pretty please.
-ME (CONT'D): How's work?
+ME: Yeah, pour me.a cup please. Black, no sugar.
 MEG: It's work.
 ME: How's Pete?
 MEG: More work.
-ME (V.O.): Big Pete Bondurant. One-time LA Sheriff. Bounced when he beat-dead a Prisoner who spit at him. A duly impressed Howard Hughes hired him on as his full-time muscle. My Sister's new Hump. My oldest living Friend.
-PETE: (turns back at me) You look like Death taking a shit.
+PETE: ( turns back at me ) You look like Death taking a shit.
 MEG: He's still got that MGM-face.
-PETE: You're still the only guy who ever traded movie-potential for Police work.
+PETE: You're still the only guy who ever traded movie-potential for Police Because in the movies they make you pull your punches.
 MEG: Because in the movies they make you pull your punches.
 ME: Wanna do LAPD a favor tonight?
 MEG: No. We're going to the Cocoanut-
@@ -113,151 +87,150 @@ MEG: Gimme the phone so I can find another Date-
 ME: -you're the only Woman I know who calls Men-
 MEG: -you're the only Man I know who doesn't call Women.
 PETE: What are we doing?
-ME (V.O.): Morton Diskant, a man who preferred migrant workers to million dollar ballparks. Beating Bethune in their City Council Race despite getting outspent 10 to 1. (beat) If he wins, the Dodgers don't get a Stadium, Mexicans get to keep raising chickens two miles from City Hall and Bradley makes sure I burn for Sanderline Johnson.
-ME (V.O.) (CONT'D): Junior brought along because he begged. Already hip to how many ways you can make money with a badge.
 JUNIOR STEMMONS: You got a birthday coming up.
-ME: What?
+ME: JUNIOR STEMMONS
 JUNIOR STEMMONS: On the 16th, right? How old?
 ME: Old. What are you writing?
-JUNIOR STEMMONS: Just notes...about work-
+JUNIOR STEMMONS: Just notes.about work-
 ME: -what `work'?
 JUNIOR STEMMONS: Mostly compare and contrast stuff. Street work versus textbook-
-ME: -chapter 1: don't write shit down. Chapter 2: or other Cops might kill you.
+ME: -chapter 1: don't write shit down. Chapter 2: or other Cops might kill
 JUNIOR STEMMONS: So you think Noonan will come after you for the Sanderline thing? He seems like a real hard charger.
-ME: (the deadest deadpan) I heard he was coming after both of us.
-JUNIOR STEMMONS: What?
-ME: Indictments. Prison time. Whole nine.
+ME: ( the deadest deadpan ) I heard he was coming after both of Feature real concern from Junior.
+JUNIOR STEMMONS: Indictments. Prison time. Whole Holy Jesus. Is this true?
+ME: Indictments. Prison time. Whole Holy Jesus. Is this true?
 JUNIOR STEMMONS: Holy Jesus. Is this true?
-ME: I'm seriously thinking about turning Junior...testifying against you.
-ME (CONT'D): Here we go.
-ME (V.O.): Seen Pete do this a dozen times and every time the same thought:
-ME (V.O.) (CONT'D): God help me if he ever hits me like that.
-ME (V.O.): Junior picked up this Quiff jocking other Fags in a Men's Room. But Quiff was a Law Student who wanted his record kept clean.
+ME: I'm seriously thinking about turning Junior.testifying against
 JUNIOR STEMMONS: He should suck his dick. Y'know? Put the icing on it.
-PETE: What?
-JUNIOR STEMMONS: Tell me that wouldn't sell it...plus he's a Communist.
+PETE: JUNIOR STEMMONS
+JUNIOR STEMMONS: Tell me that wouldn't sell it.plus he's a Communist.
 ME: We're ruining his career, not his soul. Reload the camera.
 MORTON DISKANT: Off me!
-ME: Drop out of the City Council race or I send these pictures to the papers.
+ME: Drop out of the City Council race or I send these pictures to the
 MORTON DISKANT: I'll fight you rotten-
 ME: -and maybe salvage something that's a close cousin to `respect.' But what about your wife and kid getting hold of those pictures?
-ME (CONT'D): Take the Quiff home.
 QUIFF: My name's Franklin-
 ME: -of course it is.
-ME (CONT'D): I need a nod from you Morton, let's me know you get it-
-DISKANT: -don't say my name...
+DISKANT: -don't say my name.
 PETE: He gets it.
 ME: Someone from the Times will call for a quote. Whatever your reason for dropping out make it real.
-DISKANT: (not looking at us) You eventually lose the ability to reconcile the things you've done to people. That's Hell.
-PETE: (pocketing the money) Y'know Hughes has a job you're tailor-made for. I already gave him your-
+DISKANT: ( not looking at us ) You eventually lose the ability to reconcile the things you've done to people. That's Hell.
+PETE: ( pocketing the money ) Y'know Hughes has a job you're tailor-made for. I already gave him -no thanks.
 ME: -no thanks.
 PETE: Stop pretending you're not a pig for all this, Klein.
 ME: I still got a day job, Pete-
-PETE: -tossing more Bantamweights out windows?
+PETE: -tossing more Bantamweights out
 ME: The Mutt jumped.
-PETE: (laughs small, then:) Not even the people who don't know you believe that. If somebody from the DA's office decides to dig, you could fry Boy-o. Be nice to be in with a billionaire who's got a fleet of planes, fly you outta the country on a moment's notice. (beat) C'mon -- it's a cake legal gig. He just wants you to burn some actress that stopped fucking him.
-PETE (CONT'D): Tomorrow. Hughes Aircraft, 7pm It'll be worth it.
-ME (CONT'D): Klein-
-BRADLEY (O.S.): -you know who Hector Magdalena is?
-ME: (as cobwebs clear) ...yeah...Narco's Snitch.
-BRADLEY (O.S.): He's missing. His home was broken into at some point within the last hour.
+PETE: ( laughs small, then: ) Not even the people who don't know you believe that. If somebody from the DA's office decides to dig, you could fry Boy-o. Be nice to be in with a billionaire who's got a fleet of planes, fly you outta the country on a moment's notice. ( beat ) C'mon it's a cake legal gig. He just wants you to burn some actress that stopped fucking him.
+ME: ( as cobwebs clear ) .yeah.Narco's Snitch.
 ME: So send Robbery.
-BRADLEY (O.C.): The only thing taken was him. Wilshire Station is on-scene. Get over there right now.
 ME: Why me?
 BRADLEY: Call it penance.
 ME: I thought that's what Morton Diskant was-
-BRADLEY: -that makes one of us. 1284 South Tremaine.
-(MORE): BRADLEY (cont'd) (edge to his voice) This kind of timing makes for disasters, Lieutenant.
+BRADLEY: -that makes one of us. 1284 South This kind of timing makes for disasters, Lieutenant.
 ME: Junior. Meet me at 1284 South Tremaine. 20 minutes.
-ME (V.O.): Captain Dan Wilhite, Head of the LAPD Narcotics Division. A Michigan Catholic poisoned by 25 years in this desert. Recently divorced despite seven kids with his Ex.
 WILHITE: Why are you here?
 ME: You smell like bourbon Wilhite-
-WILHITE: -fuck off. This is handled. And pull your idiot partner out of there-
+WILHITE: -fuck off. This is handled. And pull your idiot partner out of -Junior's already here-
 ME: -Junior's already here-
 WILHITE: -Magdalena was my Snitch, so it's my scene.
 ME: Then get Bradley on the horn, so you can relay that order. I'm here on his word. Now, what happened?
-WILHITE: (dragged out of him) Guard dogs are dead. Magdalena's missing.
+WILHITE: ( dragged out of him ) Guard dogs are dead. Magdalena's
+ME: this case to get a quick burial.
+WILHITE: this case to get a quick burial.
+ME: and buzzed Wilshire Station.
+WILHITE: and buzzed Wilshire Station.
+ME: Barbara. Just got back.
+WILHITE: Barbara. Just got back.
+ME: ( check my Hamilton ) At 2 AM?
+WILHITE: with her Parents, left ASAP.
+ME: fighting about? Santa Barbara Wasps don't fancy dope-pushing Wetbacks.
+WILHITE: fighting about? Santa Barbara Wasps don't fancy dope-pushing Wetbacks.
+ME: ( sneering hatred ) Tommy. Make him your #1 suspect.
+WILHITE: ( sneering hatred ) Tommy. Make him your #1 suspect.
+ME: Hector had been at each others throats for months. Have Tommy picked up. He likes to loaf at those nigger jazz joints in Watts.
+WILHITE: Hector had been at each others throats for months. Have Tommy picked up. He likes to loaf at those nigger jazz joints in Watts.
 ME: Alright, you better cut out before people start asking why the head of Narco is at a missing persons.
 WILHITE: Get a conviction. Grab Tommy and pin this thing fast or you'll have a whole division of disgraced cops at your front door.
 ME: What are you talking about Wilhite?
-WILHITE: You queered the Fed's   Fight Probe by killing that boxer   and they already had a hard-on   for the LAPD- Bradley sent you down   here as damaged goods...think   about it. Everybody sees what's   coming. (beat, closer) Now close this quick.
-ME (V.O.): The God-sized problems I triggered tossing Sanderline take shape: the LAPD's sanctioned dope-pusher vanishes -- that's a pretty juicy spot to stick a new probe.
-BIDDIE: (mid-sentence) -shifty...colored...y'know Negros are planning an invasion! After our white women and our water supply-
+WILHITE: You queered the Fed's Fight Probe by killing that boxer and they already had a hard-on for the LAPD- Bradley sent you down here as damaged goods.think about it. Everybody sees what's coming. Now close this quick.
+BIDDIE: ( mid-sentence ) -shifty.colored.y'know Negros are planning an invasion! After our white women and our water supply-
 OFFICER: -where was this Peeper you saw?
 BIDDIE: Bushes. Spyin' on Lucille. Seen him there before! He's a black saboteur looking for fertile white wombs. Wanna breed a mulatto master race-
-ME: Officer.
-ME (CONT'D): Besides bat-shit insanity, is there anything else about her that rings true?
+ME: The Six-Pack crosses to confer.
 OFFICER: Heard an argument, loud, maybe a minute or two, then silence.
 ME: What's this `Peeper' riff she's on?
-OFFICER: She saw someone in the bushes earlier. She's reported that kind of thing a dozen other times. She's also reported flying saucers, so...
+OFFICER: She saw someone in the bushes earlier. She's reported that kind of thing a dozen other times. She's also reported flying saucers, so.
 ME: See if any of the other Neighbors can verify this `Peeper' thing.
 JUNIOR STEMMONS: No one touch a thing `til I say.
-JUNIOR STEMMONS (CONT'D): Dave-
 ME: -Lieutenant Klein. I said `meet me' in twenty minutes' not `go in without me.'
 JUNIOR STEMMONS: All I've been doing-
-ME: (hard/harsh/low) -is stepping on dicks. You don't know the history, the players or the play.
-ME (CONT'D): The Department gave Magdalena a monopoly on the LA dope trade decades ago-
+ME: ( hard/harsh/low ) -is stepping on dicks. You don't know the history, the players or the play.
 JUNIOR STEMMONS: -what Department?
-ME: Us Pollyanna -- LAPD. We bullet- proofed him in exchange for 60% of his profit and a promise he only deal drugs in Darktown and East LA-
+ME: Us Pollyanna LAPD. We bullet- proofed him in exchange for 60% of his profit and a promise he only deal drugs in Darktown and East LA-
 JUNIOR STEMMONS: -Black and Mexican-
 ME: -give the man a prize. He'd also rat his competition and kill the ones we couldn't convict. Now keep your mouth shut and stay on my hip.
-JUNIOR STEMMONS: Fine.
-JUNIOR STEMMONS (CONT'D): Loaded him into a car-
+JUNIOR STEMMONS: I want to bounce his head off the wall. I continue my tour instead. Follow the blood-trail out into the garage where it ends in another smaller lake of blood.
 ME: -are all the Magdalena vehicles accounted for?
 JUNIOR STEMMONS: Except for the Son's: Tommy.
-ME (CONT'D): The old lady hear dogs barking? Gunshots?
+ME: As he pokes his head around the corner:
 OFFICER: No, I asked. Just the yelling.
-ME: She didn't hear barking...so they were either lousy guard dogs...or they knew the Killer. (point to the wounds) You can't hit something this clean unless you're point blank. He could've been petting them when he fired: look at the burn pattern- (point) Like when you shoot something with a silencer.
+ME: She didn't hear barking.so they were either lousy guard dogs.or they knew the Killer. You can't hit something this clean unless you're point blank. He could've been petting them when he fired: look at the burn pattern- Like when you shoot something with a silencer.
 JUNIOR STEMMONS: How do you know that?
-ME: (stare so he gets it) I've shot things with silencers... And the old lady didn't hear any gunshots.
-JUNIOR STEMMONS: You make a family member for it? Tommy?
-ME: Maybe...
+ME: ( stare so he gets it ) I've shot things with silencers. And the old lady didn't hear any You make a family member for it? Do you want to issue an APB?
+JUNIOR STEMMONS: You make a family member for it? Do you want to issue an APB?
+ME: JUNIOR STEMMONS
 JUNIOR STEMMONS: Do you want to issue an APB?
 ME: I want to talk to Bradley first. Where are the Mother and Daughter?
 ME: It's Klein.
-BRADLEY (O.S.): Update.
 ME: Hector's gone. Blood that may or may not be his leads out to the garage. Two guard dogs shot dead but no other signs of a struggle. The house is intact.
-BRADLEY: Family?
+BRADLEY: Wife and Daughter are here.
 ME: Wife and Daughter are here.
 BRADLEY: Describe their state.
-ME: Mother Madge aggrieved. (aim my gaze at Lucille) Daughter Lucille...indifferent. The son is persona non grata and a strong early suspect.
+ME: Mother Madge aggrieved. Daughter Lucille.indifferent. The son is persona non grata and a strong early suspect.
 BRADLEY: Alright, kick everyone out. Including all police personnel.
 ME: How's that?
 BRADLEY: Don't question me. Is your partner on hand?
-ME: Yeah...
+ME: Have him bag and seal everything and bring it to Wilshire Station. Find Tommy Magdalena post-haste and take him into custody. No APB's, nothing to alert Noonan and the FBI to this situation.
 BRADLEY: Have him bag and seal everything and bring it to Wilshire Station. Find Tommy Magdalena post-haste and take him into custody. No APB's, nothing to alert Noonan and the FBI to this situation.
 ME: You want me to-
 BRADLEY: -no more information over an open line. I'll be at the Bethune event later on today. Find me there.
-ME: I'm giving you on-scene command. Bradley wants everyone removed from the premises and the entire house bagged for evidence and brought to Wilshire Station. (more of a dare) Can you handle this?
+ME: I'm giving you on-scene command. Bradley wants everyone removed from the premises and the entire house bagged for evidence and brought to Wilshire Station. Can you handle this?
 JUNIOR STEMMONS: Entirely. Where are you going?
 ME: To find Tommy Magdalena.
-KLEIN (V.O.): Big yawns. Half haze from no sleep. Buzz dispatch. A message from Pete. `Reminder: Hughes aircraft, 7 PM.
-ME (V.O.): Another Black Buick. Call it a Fed Tail. Noonan already up my ass. (beat) Let's see if they got guts enough to keep following me South.
-ME (V.O.): Dispatch gave me Tommy's make and model: A `32 Ford Deuce with a bent eight. Hot-rodder Tommy liked to goose the cops into giving chase.
-ME (V.O.) (CONT'D): Noonan tail confirmed: Fed faces glow like Martians this far down Crenshaw.
-ME: (flop badge on bar) Get Lester and get me a scotch straight.
+ME: ( flop badge on bar ) Get Lester and get me a scotch
 BARTENDER: Sanderline Johnson was my second cousin, Peckerwood. I wouldn't drink that with my gun hand.
-ME (V.O.): Lester Lake. One-time velvet voiced crooner. But a dabble in the dope trade cost him a set of slashed vocal cords at the hands of none other than Hector Magdalena.
-LESTER LAKE: Lieutenant Dave Klein. Slayer of Sanderline Johnson...y'got stones showing up this far South.
+LESTER LAKE: Lieutenant Dave Klein. Slayer of Sanderline Johnson.y'got stones showing up this far South.
 ME: What happened to your face?
-LESTER LAKE: (beat) Tommy Mag wanted to make sure I understood something he was saying.
+LESTER LAKE: ( beat ) Tommy Mag wanted to make sure I understood something he was saying.
 ME: Where is he?
 LESTER LAKE: Left an hour ago. Emptied my safe.
 ME: Shit. He's wise.
 LESTER LAKE: To what? You looking for him?
-ME: (at the reefer) Just never got this...
+ME: ( at the reefer ) Just never got this.
 LESTER LAKE: Too white to appreciate good grass.
-ME: Hector Magdalena is missing, presumed dead. Tommy is our sole suspect.
-LESTER LAKE: Muthafucker -- there is a God. If only I'd known this an hour ago.
+ME: Hector Magdalena is missing, presumed dead. Tommy is our sole
+LESTER LAKE: Muthafucker there is a God. If only I'd known this an hour ago.
 ME: Heartbreaker, huh? You let him gig here last night?
 LESTER LAKE: I don't let him, he just does. Nails on a chalkboard too. He rushed the stage last week when we had Charlie Mingus drop in for a set. Mingus looked at this half-Mex greaser kid trying to play `Round Midnight,' said that fool couldn't find them keys with a flashlight.'
 ME: Tommy's playing days are over.
+LESTER LAKE: LESTER LAKE ( mops his brow of blood ) ( beat, hopeful-prayer )
+ME: LESTER LAKE ( mops his brow of blood ) ( beat, hopeful-prayer )
+LESTER LAKE: poppin' switchblades like punks. The only thing that was keepin' him `untouched' was Hector. Is he really dead?
+ME: seems to belong to him. There's just no body. Not yet.
+LESTER LAKE: ( a toke, a thought ) I don't feature Tommy for it.
+ME: ( my head kinks a bit ) How's that? How many times has he been in here, busted you up?
+LESTER LAKE: to truly take a Man's life. Especially not Hector's.he was scared of him.
+ME: LESTER LAKE
+LESTER LAKE: ass from the time he could talk.
+ME: LESTER LAKE
+LESTER LAKE: Burglar'.eyes were so black, it looked like she had a mask on.
+ME: Lester can't quip that one as quick. Tokes. Shaking his head.
 LESTER LAKE: Things up off the street. Rumors.
-ME: Like?
+ME: LESTER LAKE
 LESTER LAKE: Hector had turned her out. Using her the way the Romans used to use their daughters when they did business: Some pussy to sweeten the pot. Rumor was she got picked up in this trick sweep few weeks back.
 ME: Hector was whoring her?
 LESTER LAKE: Hector was an evil Muthafucker.
-LESTER LAKE (CONT'D): ...born with ruthless bones. (sitting up) And if he really is dead and gone, this game `bout to explode.
 ME: What game?
 LESTER LAKE: Drugs. Especially here in South Central. Hector ran it uncontested. Lotta cats gonna rush in now, try to plant a flag.
 ME: Tommy can't hold the throne?
@@ -268,9 +241,8 @@ REPORTER #1: Councilman Bethune, was Mr. Diskant dropping out the only way you c
 TOM BETHUNE: Not at all. My message of civic advancement manifested in that beautiful blue baseball team was starting to hit home.
 REPORTER #3: Anything you'd like to say to future constituents?
 TOM BETHUNE: I like my Dodger Dogs with mustard and relish!
-ME (V.O.): Fritz Koenig. German born. Former US Spymaster, current Head of the LAPD's Intelligence Division. He and Bradley in the middle of their own Cold War -- each fighting to be the second most important member of the LAPD behind Chief Parker.
 KOENIG: These functions aren't normally open to Jews.
-ME: Someone with your accent should never be allowed to say `Jew' again.
+ME: Someone with your accent should never be allowed to say `Jew' That accent allowed me to execute many a Nazi.
 KOENIG: That accent allowed me to execute many a Nazi.
 ME: Then we're both Traitors: Ellis Island said Grandpa's `Kleinsasser' was two syllables too long.
 KOENIG: I wouldn't have expected so public a showing after Sanderline Johnson.
@@ -280,122 +252,119 @@ ME: Working his first big job.
 KOENIG: Might the job involve the LAPD's most important missing Wetback, Hector Magdalena?
 ME: It does.
 KOENIG: I've known Stemmons since the academy. He was a top pupil. A peculiar little pain in the ass, but very good with details.
-ME: Kid might have some climb in him. (look back at Bradley) Reminds me of another pain in the ass.
-KOENIG: I'm puzzled as to why the Bradley would assign you to the Magdalena case when you're neither Homicide nor Robbery...
+ME: Kid might have some climb in him. Reminds me of another pain in the
+KOENIG: I'm puzzled as to why the Bradley would assign you to the Magdalena case when you're neither Homicide nor Robbery.
 ME: There's no body, and nothing was taken except Hector.
-KOENIG: He does know how to delegate doesn't he...and also I'm sure that poor Negro's nosedive has put you squarely in his debt.
+KOENIG: He does know how to delegate doesn't he.and also I'm sure that poor Negro's nosedive has put you squarely in his debt.
 ME: Something like that.
-KOENIG: Keep me abreast will you? Chief Parker is understandably nervous. Situations like these tend to yield grief...and we've the FBI poking around our garden patch.
+KOENIG: Keep me abreast will you? Chief Parker is understandably nervous. Situations like these tend to yield grief.and we've the FBI poking around our garden patch.
 ME: My ass first Fritz, yours second.
-ME (CONT'D): Tommy Magdalena has gone to ground and he's got a war chest to keep him there. The only way we take him quickly is to issue a citywide APB-
+BRADLEY: make him for the murderer?
+ME: definitely an inside job. That whole family feels hinky. The daughter was all bruises and no tears and Hector's hop-head wife looks part punching bag.
+BRADLEY: Santa Barbara at the time.
+ME: Santa Barbara at the time.
+BRADLEY: ratings as an evidence teacher and I trust him more than you. Find Tommy Magdalena. Focus everything on that effort & I want him apprehended Klein, not killed.
+ME: ratings as an evidence teacher and I trust him more than you. Find Tommy Magdalena. Focus everything on that effort & I want him apprehended Klein, not killed.
+BRADLEY: ratings as an evidence teacher and I trust him more than you. Find Tommy Magdalena. Focus everything on that effort & I want him apprehended Klein, not killed.
+ME: Stakeout the residence. Put tails on both the mother and daughter I want this investigation working quietly, and around the clock.
+BRADLEY: Stakeout the residence. Put tails on both the mother and daughter I want this investigation working quietly, and around the clock.
+ME: If he's alive, bring him to me. If he's dead, have him John Doe'd at the morgue until Noonan can be drawn off and this FBI situation sorted out.
 BRADLEY: If he's alive, bring him to me. If he's dead, have him John Doe'd at the morgue until Noonan can be drawn off and this FBI situation sorted out.
 ME: Wilhite. He was operating Hector-
 BRADLEY: -don't worry about Dan Wilhite. You deal directly with me. Now go out the back. I don't want the press recognizing you.
 ME: You got a light?
-WOMAN: (searches my empty hands) You got a cigarette?
-WOMAN (CONT'D): If you snap a picture of me, I get to set you on fire. Fair?
+WOMAN: ( searches my empty hands ) You got a cigarette?
 ME: It didn't look like you were all that upset with the attention.
 WOMAN: Good thing you're not a cop.
-ME: (beat) How's that?
+ME: ( beat ) How's that?
 WOMAN: Your power of observation leaves lots to be desired.
 ME: Thank you.
 WOMAN: Don't thank me: these things are bad for you.
 ME: You believe everything you read?
 WOMAN: You believe anything you read?
-ME: (hail-mary) Do you eat Dinner?
-WOMAN: No.
-ME (V.O.): Make a note: steal Bethune's guest- list, then go door-to-door until you find her again.
+ME: ( hail-mary ) Do you eat Dinner?
+WOMAN: I can't stop watching her, even after she pushes back through the double doors, re-entering the fray head-first. I step after her. A reporter finally makes me. Random catcalls of `Klein! `Hey, Enforcer!' Shutterbugs beeline my way, firing flashbulbs from the hip. Close the door quick and bolt.
 ME: This everything from the house?
-JUNIOR STEMMONS: ...No.
+JUNIOR STEMMONS: Commander upstairs?
+ME: Commander upstairs?
+JUNIOR STEMMONS: ( schoolboy proud ) That this was a random drug seizure. I'm not using names and I'm number coding everything. A load of interesting stuff too. ( points to each stack ) I got unregistered fire-arms, more dope than I've ever seen, and some mail from business associates that seems hinky. We should follow up- ( grabs an envelope ) -here, this one, `Hurwitz Holdings' Hector had some real estate ( like I'm speaking Greek ) How do you solve a case when the evidence is in bags?
+ME: JUNIOR STEMMONS ( like I'm speaking Greek )
+JUNIOR STEMMONS: ( like I'm speaking Greek ) How do you solve a case when the evidence is in bags?
+ME: ( point to the red steno ) And why is that out?
+JUNIOR STEMMONS: ( like he's caught ) I'm making notes separate from- ( gear change off my glare ) -I thought we were investigating Magdalena's disappearance-
+ME: need Kid? A little bouncing ball, bottom of the screen? Magdalena is twenty years dirty with this Department.do you think a word of that exists on paper?
+JUNIOR STEMMONS: And there's reasons. Respect them.
 ME: And there's reasons. Respect them.
-ME (CONT'D): Now we need surveillance set up on the house and revolving tails on both Madge and Lucille Magdalena. Their alibi is they were in Santa Barbara when Hector vanished. Find out if that's real. The tails and the stakeout start tonight. (beat) Can you manage this?
 JUNIOR STEMMONS: Sure, Lieutenant.
-ME (V.O.): Police blotter gets me bupkis. Buzz dispatch. Looking for license hits on that `32 Ford Deuce. Nothing. Zoom Darktown again. Zilch. Tommy dug in deep.
-ME: Shit.
-ME (V.O.): Howard Hughes. Billionaire germ freak. Boob man. Pete's prime benefactor. Nobody had seen him in years.
-(MORE): ME (V.O.) (cont'd) Now he only communicated through a small standing army of lapdog lawyers he kept on staff.
+ME: 26 INT. HUGHES AIRCRAFT HANGAR - EVENING 26
 MILTEER: Gregory Milteer. Attorney-at-Law. A pleasure Lt. Klein.
 ME: Dave. Sorry I'm late.
-MILTEER: Indeed. (motions to sit) Please.
-MILTEER (CONT'D): Thanks for your time on a Sunday.
-ME: (a wink for Pete) Where's Mr. Hughes?
+MILTEER: ( motions to sit )
+ME: ( a wink for Pete ) Where's Mr. Hughes?
 MILTEER: Unavailable. Unfortunately. But I've been given full authority to-
-ME: -I'm not contagious...if that's what he's worried about.
+ME: -I'm not contagious.if that's what he's worried about.
 MILTEER: I don't find that the least bit humorous Lt. Klein.
-ME: Yes you do. What's your pitch Mr. Milteer?
+ME: Yes you do. What's your pitch Mr.
 MILTEER: An `Actress' named Glenda Bledsoe signed a Service Contract that she's now willfully violating by acting in a Z-grade horror picture presently `shooting' in Griffith Park. Despite entreaties for her to cease participation in this absurdity, she continues to revel in her outlaw status with us. Thus we would like her destroyed.
 ME: What makes you think I can do a better job than your people?
 MILTEER: Mr. Bondurant says you're one of the smarter people he knows-
-ME: -dubious honor if you knew the other people Pete knows. (beat) So you want to catch her in violation of her Service Contract? Something like that?
-MILTEER: Exactly. The morality clause in particular as the damage to her reputation would be most devastating: Nymphomaniac, Criminal, Communist...anything along these lines. Once you visit the set of her `Attack of the Atomic Vampires,' you'll see the void that is her character. We haven't a photograph handy, but she's playing the lead female role.
+ME: -dubious honor if you knew the other people Pete knows. So you want to catch her in violation of her Service Contract? Something like that?
+MILTEER: Exactly. The morality clause in particular as the damage to her reputation would be most devastating: Nymphomaniac, Criminal, Communist.anything along these lines. Once you visit the set of her `Attack of the Atomic Vampires,' you'll see the void that is her character. We haven't a photograph handy, but she's playing the lead female role.
 ME: I'm happy to help. But my price is $10,000. Not 5.
 MILTEER: $10,000 should buy more than help.
 ME: For 10 give it any name you want. I'm a salaried employee of LAPD, that means I'll have to find time off hours to do this.
 MILTEER: Agreed. Start tonight. Someone's been stealing groceries from our talent domiciles. There's no proof that it's her, but it's her. Peter will provide you addresses.
-ME: (faux fey) Thank you Peter.
+ME: ( faux fey ) Thank you Peter.
 MILTEER: We look forward to your updates.
-ME: Sergeant, pass a message to Stemmons: I want him to meet me at the one-thousand block of South Tremaine tonight at 11 and at some point between now and then, I'll need him to do a preliminary work- up on a woman named Glenda Bledsoe. (beat, check spelling) B-L-E-D-S-O-E. Thanks.
-ME (V.O.): Twice in a day doesn't happen. Not in a city like LA. Not like this. (beat) This is fate. This is Cupid firing his whole fucking quiver. Move. Make sure she's real.
+ME: Sergeant, pass a message to Stemmons: I want him to meet me at the one-thousand block of South Tremaine tonight at 11 and at some point between now and then, I'll need him to do a preliminary work- up on a woman named Glenda Bledsoe. B-L-E-D-S-O-E. Thanks.
 DIRECTOR: This is the big Armada landing, so I need everybody's energy up, up up! Where's my Alien Commander?
-ME (V.O.): Mickey Cohen: one-time LA crime kingpin and West Coast Mob heavy who now trawls for loose change.
-ME (CONT'D): Cecil B. Demoted.
+WEREWOLF: RIGHT HERE GOD DAMN IT.
 MICKEY COHEN: Where Klein goes tsuris follows. This is what I hate about being down, lip from the likes of you.
-ME: If this is `down' I never want to see `out.' How the mighty have fallen.
-MICKEY COHEN: (gives it right back) Which one of us are you talking about Klein? Word is the Federal Bureau is all hot and bothered with you Gonif. Hey, I hear J. Edgar schtups his personal assistant and makes him wear ladies hose.
+ME: If this is `down' I never want to see `out.' How the mighty have Which one of us are you talking about Klein? Word is the Federal Bureau is all hot and bothered with you Gonif. Hey, I hear J. Edgar schtups his personal assistant and makes him wear ladies hose.
+MICKEY COHEN: ( gives it right back ) Which one of us are you talking about Klein? Word is the Federal Bureau is all hot and bothered with you Gonif. Hey, I hear J. Edgar schtups his personal assistant and makes him wear ladies hose.
 ME: What else are you hearing?
 MICKEY COHEN: That this Welles Noonan character has developed quite a crush. That you might want to consider relocating to Dogdick, Delaware.
 ME: Been a marked man for years Mick.
-MICKEY COHEN: But the bullseye on your back's never been quite so big...if you need a new line of work, I got this faygele leading man needs replacing-
-MICKEY COHEN: His agent told me he could play straight.
+MICKEY COHEN: But the bullseye on your back's never been quite so big.if you need a new line of work, I got this faygele leading man needs replacing-
+MICKEY COHEN: His agent told me he could play His agent lied.
 ME: His agent lied.
 MICKEY COHEN: You interested?
 ME: No. But I am interested in your leading lady. Bradley sent me. Saw her at the Bethune-
 MICKEY COHEN: -not a chance. I'm still trying to play hide the submarine.
 ME: You want Chief Bradley angry?
-MICKEY COHEN: Ten years ago I could call for that little Pisher's head on a stick. (looks around) And now...
+MICKEY COHEN: Ten years ago I could call for that little Pisher's head on a stick. And now.
 ME: And now the only thing you're putting on sticks are corn dogs. What's her name, Mick?
-MICKEY COHEN: Glenda.
-ME: (still looking for HER) Why was she there?
-MICKEY COHEN: Low-budget strategy: I send Glenda and Rock to any event where there's cameras -- Glenda gets guest-a'- honor treatment everywhere with that shape a' her's...
+MICKEY COHEN: ( still looking for HER ) Why was she there?
+ME: ( still looking for HER ) Why was she there?
+MICKEY COHEN: Low-budget strategy: I send Glenda and Rock to any event where there's cameras Glenda gets guest-a'- honor treatment everywhere with that shape a' her's.
 ME: What she drive?
 GLENDA BLEDSOE: Coffee's in the kitchen. Let's go over this quick because I'm beat.
 DIRECTOR: We're set on a place where we can stash you and Rock. It's in Topanga Canyon, two weeks-
-ROCKWELL: (petulant) -two weeks? My body'll fall apart-
-GLENDA BLEDSOE: -think of it as 14 days of push-ups- (to the Director) Are you sure about this Sid? Seems shaky. Was this Mickey's idea?
-DIRECTOR: And I think it's brilliant! Inspired! The two leads of Mickey Cohen's magnum opus get kidnapped! The press'll eat it up! They'll write about `Gangster Mickey,' the glory days. Couple a' headlines like that and interest in Atomic Vampires will go through the roof! (to Glenda) Who's gonna grab you?
-GLENDA BLEDSOE: A charmer I knew in another life...George Ainge.
+ROCKWELL: ( petulant ) -two weeks? My body'll fall apart-
+GLENDA BLEDSOE: -think of it as 14 days of push-ups- Are you sure about this Sid? Seems shaky. Was this Mickey's idea?
+DIRECTOR: And I think it's brilliant! Inspired! The two leads of Mickey Cohen's magnum opus get kidnapped! The press'll eat it up! They'll write about `Gangster Mickey,' the glory days. Couple a' headlines like that and interest in Atomic Vampires will go through the roof! Who's gonna grab you?
+GLENDA BLEDSOE: A charmer I knew in another life.George Ainge.
 SID FRIZELL: Is he okay with making it look real-
 ROCKWELL: -he can't hit me in the face! That's a deal-breaker!
 GLENDA BLEDSOE: He'll be thrilled to knock me around. Plus he's holding something of mine, so we can kill two birds. He'll grab us Tuesday in front of the Pacific Dining Car.
 ROCKWELL: What about Hughes?
 GLENDA BLEDSOE: What about him? That angle can only help us.
-SID FRIZELL: I'm dying to know...was he the Spruce Goose between the sheets?
-GLENDA BLEDSOE (O.C.): Hung like a newborn and he called my tits `propellers.'
-ME (V.O.): The real howler: fake kidnappings always bomb.
-ME (V.O.): Thinking I could tip Milteer off to the kidnap plot and pick up the other half of my payment... (stare at that money) Thinking I should just give the first half back now...'cuz I know right now I'll never hurt her.
-ME (V.O.) (CONT'D): No sense of time. Exhaustion steals it. A full hour earlier than I told Junior to meet me. I need sleep.
-ME (V.O.) (CONT'D): This routine had been done before. That old broad babbling about a Peeper. The only other link to Hector Magdalena's disappearance.
+SID FRIZELL: I'm dying to know.was he the Spruce Goose between the sheets?
+ME: Still unsure what hit me. Pick-up my gun, clear my nose of gouting blood, stand, weave: a figure in black, sprinting away: PEEPER. Wipe away impact-tears, aim, realize my trigger finger is dislocated bent back ugly. Tuck the gun use my left hand to pop it back in deep growl re-aim: POP-POP-POP. The Peeper pitches. Visible in the streetlight: a red puff off his right shoulder. Headlights at end of the block, behind me, come to life now- Baritone of a big V-8. Peeper fighting for balance, keeps running. I sprint heedless, round the corner: follow a blood-trail, panting, bleeding my own trail. Lift my eyes to see the Peeper shoulder through a fence, vanish into a backyard. Neighborhood mutts yelp a chorus. I cross the street- -those headlights swerve hard in front of me: Black Buick. I look down in time to watch my knee detonate a quarter-panel. I bounce off like someone yanked a leash. Crumble-yell. Hands pick me up. I fight back before I even see at whom I'm swinging: square-jawed types, eyes hidden by Bureau derbies. Welles Noonan gets out of the passenger-side of the Buick. Punches me as hard as he can without provocation: nothing to write home about. My gun clatters to the ground.
 WELLES NOONAN: That's for Sanderline Johnson.
-ME: (nod at the Peeper trail)
+ME: ( nod at the Peeper trail )
 WELLES NOONAN: -what were you firing at?
-ME: The only lead on Magdalena -- we're after the same guy you idiot!
-WELLES NOONAN: (to one of the goons) -write that name down: `Magda-LEE- na' or `Magda-LAY-na.' (back to me) No, we were after you. But thanks for the name.
-ME (V.O.): Assumed the Feds were smart. Assumed they were ready to stick a new probe into the LAPD's deal with Hector, like Bradley warned, like everyone feared. But they had no clue and I just handed them the whole God damn thing. (beat) Like I said: I need sleep...
-ME (CONT'D): First punch you ever thrown Noonan? Your Mom have to teach you how because Dad was the same no-chin, Connecticut Faggot you are?
-ME (V.O.) (CONT'D): I think I hit the Noonan family dynamic, dead-on.
-WELLES NOONAN (O.C.): Drop him.
-DERBY #1 (O.C.): You don't want to take him in?
-WELLES NOONAN (O.C.): I only want to bring him in when I know he'll never leave.
-ME: Coffee?
+ME: The only lead on Magdalena we're after the same guy you idiot!
+WELLES NOONAN: ( to one of the goons ) -write that name down: `Magda-LEE- na' or `Magda-LAY-na.' ( back to me ) No, we were after you. But thanks for the name.
+ME: Ice. Bradley's on his way down.
 KOENIG: Ice. Bradley's on his way down.
-JUNIOR STEMMONS: That's mine...you needed some mopping up.
+JUNIOR STEMMONS: That's mine.you needed some mopping up.
 ME: Who found me?
-JUNIOR STEMMONS: I did. I got there at eleven like you said, right as two black & white's pulled up: you were out cold in a gutter `round the block. (this blithe little grin) Did Noonan knock you out?
+JUNIOR STEMMONS: I did. I got there at eleven like you said, right as two black & white's pulled up: you were out cold in a gutter `round the block. Did Noonan knock you out?
 ME: He hit me with his car first.
-JUNIOR STEMMONS: (a nod to Koenig) The Captain was the only one here at this hour...
+JUNIOR STEMMONS: ( a nod to Koenig ) The Captain was the only one here at this hour.
 KLEIN: If I need your help later on, can I count on it?
 KOENIG: Of course you can.
-KOENIG (CONT'D): Chief.
 BRADLEY: What are you doing here?
 KOENIG: The Lieutenant was thirsty.
 BRADLEY: Progress on Magdalena.
@@ -403,18 +372,17 @@ JUNIOR STEMMONS: No fingerprints. Clean crime scene. Canvassed the neighborhood.
 ME: -confirmed Peeper.
 BRADLEY: Is that who knocked you out?
 ME: Noonan knocked me out.
-BRADLEY: (beat) He's having you tailed then...
-ME: And he knows the Magdalena name and that I was chasing a suspect -- the Peeper Lucille strips for.
+BRADLEY: ( beat ) He's having you tailed then.
+ME: And he knows the Magdalena name and that I was chasing a suspect the Peeper Lucille strips for.
 JUNIOR STEMMONS: She knows someone watches?
-ME: And who he is. She has to. (back to Bradley) I want access to her juvie sheet or whatever arrest records exist. Rumor was Hector whored her out to dealers he did business with.
+ME: And who he is. She has to. I want access to her juvie sheet or whatever arrest records exist. Rumor was Hector whored her out to dealers he did business with.
 BRADLEY: That's immaterial.
-ME: (as my teeth grit) It is if you're eliminating her as a suspect-
+ME: ( as my teeth grit ) It is if you're eliminating her as a suspect-
 BRADLEY: -did you confirm their alibi?
 JUNIOR STEMMONS: I spoke with a Mr. and Mrs. Preston Mott of Santa Barbara, the parents of Madge Magdalena nee Mott and they've confirmed their visit and also corroborated the argument that resulted in them leaving early.
-BRADLEY: (back to me now) One alteration to my previous orders-
+BRADLEY: ( back to me now ) One alteration to my previous -previous orders being what? Assign the Cop Noonan blames for his dead boxing probe to the case that's becoming his new crusade?
 ME: -previous orders being what? Assign the Cop Noonan blames for his dead boxing probe to the case that's becoming his new crusade?
 BRADLEY: Step out Stemmons.
-BRADLEY (CONT'D): No direct approach on the mother or the daughter.
 ME: No. Madge was a battered wife and Lucille was a suborned whore. If that's not motive, what is? You want answers then we brace those two hard.
 BRADLEY: If you do so directly, if they're formally questioned then Noonan may find out and go after them with Federal warrants.
 ME: Noonan will figure out who and what Hector was sooner or later.
@@ -425,51 +393,46 @@ ME: -this is bigger than a fucking ballpark! Hector Magdalena and Narco is the p
 BRADLEY: Don't be dramatic, it looks weak. Right now, Noonan needs a pursuit, so I supply him with one-
 ME: -me. You want me to draw him off-
 BRADLEY: -you've been drawing him off. And the more he sees you the less he'll think of anything other than getting you. Now find Tommy and take him alive. Do not let Noonan get to him. As a potential major case witness against the LAPD, Tommy Magdalena isn't just a powder- keg, he's an atom bomb.
-ME (V.O.): Bradley has a bigger angle and I'm getting close to it...I just haven't hit home. Yet.
 ME: Seltzer will take the blood out.
 JUNIOR STEMMONS: I give you the shirt off my back and you bash me!
 ME: When a Superior Officer tells you to leave the room, you leave the fucking room.
 JUNIOR STEMMONS: I made a file on the Bledsoe broad. The one you asked about.
 ME: Thanks. But forget it.
-JUNIOR STEMMONS: I spent a whole day putting it together and this skirt's got skeletons.
-JUNIOR STEMMONS (CONT'D): Shoplifting in Bakersfield at 17. Prostitution arrest at 21. Known associate of a Kern County homicide victim, this convicted pimp named Dwight Gillette, probably her pimp. Stabbed to death in his home, weapon never recovered-
-ME: Forget it. Burn it, s'not important now.
+JUNIOR STEMMONS: I spent a whole day putting it together and this skirt's got
+ME: Forget it. Burn it, s'not important
 JUNIOR STEMMONS: Why is it not important?
 ME: I need an address on a guy named Ainge, George Ainge-
 JUNIOR STEMMONS: -what about Magdalena?
 ME: -after you get the Ainge address, get back to the Magda-
-JUNIOR STEMMONS: (picks up Glenda's file) -is Ainge related to this Cunt?
+JUNIOR STEMMONS: ( picks up Glenda's file ) -is Ainge related to this Cunt?
 ME: We're partners in name only. You want to stay in the room next time, Junior? Do something to impress me: like finding that address.
-ME (V.O.): Noonan replaced the Buick with a Packard and a better Shadow-Man. But I could still spot the tail.
-ME (V.O.) (CONT'D): This jet-engine urge to see her. Needing it like a junkie does. No logic. Just the push.
-GLENDA BLEDSOE: Better looking than the last guy Howard hired. Once you heal. (she recognizes me) Wait a minute. You were there, the other night, the Bethune Party...
-ME: Yeah.
-GLENDA: Mickey told me this `Bent Cop' everybody used to call- (mocking, I love it:) -`The Enforcer' was asking about me. Told me to be careful. So you're LAPD after all...
+GLENDA BLEDSOE: Better looking than the last guy Howard hired. Once you heal. Wait a minute. You were there, the other night, the Bethune Party.
+ME: Mickey told me this `Bent Cop' everybody used to call- -`The Enforcer' was asking about me. Told me to be careful. So you're LAPD after all.
+GLENDA: Mickey told me this `Bent Cop' everybody used to call- -`The Enforcer' was asking about me. Told me to be careful. So you're LAPD after all.
 ME: In theory.
 GLENDA BLEDSOE: You're going to arrest me for breaking and entering?
-ME: Depends. (nod to groceries) Those Howard's?
+ME: ( nod to groceries ) Those Howard's?
 GLENDA BLEDSOE: Everything's Howard's.
 ME: Except you.
 GLENDA BLEDSOE: That's why I left.
 ME: You just shop here now?
 GLENDA BLEDSOE: Some of our extras haven't had a vegetable since Truman.
-ME: Attack of the Atomic Vampires...
-GLENDA BLEDSOE: (smiles, no flinch) We can't all be Audrey Hepburn. Plus it pays bills.
+ME: Attack of the Atomic Vampires.
+GLENDA BLEDSOE: ( smiles, no flinch ) We can't all be Audrey Hepburn. Plus it pays bills.
 ME: Better than a billionaire does? Go make amends and finish out your service contract Ms. Bledsoe.
 GLENDA BLEDSOE: Not if there was just one day left on it.
-ME: Why?
+ME: GLENDA BLEDSOE
 GLENDA BLEDSOE: I'm better than that.
 ME: You're also better than a starring role in schlock horror flick that'll never see a screen, regardless if it's leading lady gets `kidnapped' or not.
 GLENDA BLEDSOE: This isn't the first time you've spied on me.
 ME: Nor the second.
-GLENDA BLEDSOE: (beat) Well you've got me all giftwrapped, Enforcer-
+GLENDA BLEDSOE: ( beat ) Well you've got me all giftwrapped, -Dave. You're on Hughes' bad side Ms. Bledsoe. It's not a bright place to be. So please go-
 ME: -Dave. You're on Hughes' bad side Ms. Bledsoe. It's not a bright place to be. So please go-
-GLENDA BLEDSOE: -Glenda. (this smile just for me) And tell Howard I'll take my chances with the fake vampires.
-ME: Klein. Go ahead...
+GLENDA BLEDSOE: ( this smile just for me ) And tell Howard I'll take my chances with the fake vampires.
+ME: Klein. Go ahead.
 DISPATCH: Message from a Lester Lake: asked that you contact him immediately.
 ME: Get me Lester. This is Lieutenant Klein, LAPD-
-ME (CONT'D): (push this out pronto) -this is LAPD-put Lester on the phone or I'll have your liquor license and after-hours permits yanked inside the hour...
-LESTER LAKE: Dave?
+LESTER LAKE: Got your message.
 ME: Got your message.
 LESTER LAKE: Girl that works here, gigs the late sets, the torch stuff Fridays and Saturdays, name of Tilly Hopwell.
 ME: I saw her singing the other night.
@@ -480,165 +443,143 @@ ME: Where's this girl now?
 LESTER LAKE: Didn't show up for work last night. Called a friend of hers, a waitress that works here too, said she was at Bido Lito's in Hollywood. Said she was `hiding out.'
 ME: She actually said `hiding out?'
 LESTER LAKE: Then she got off the phone. Fast. If Tilly's running with that demon, you gotta get her out of there. She got a lot more good in her than not-
-ME (V.O.): Smart Tommy. Dodging Darktown altogether. Holed up in Hollywood. Hiding in plain sight.
-ME (V.O.): Stakeout work. Browse mugs. Match a face out front if I get lucky. Wait till Bido Lito's gets busy before I make my move.
-ME (V.O.): Tommy's Deuce.
-ME (V.O.) (CONT'D): Now he's on foot.
+ME: Bodies scramble. No words. Just Pistol fire through the half- rotted walls punks taking potshots. No compliance means I hit the hallway shooting back. Firing dead-bang at a couple fleeing silhouettes see them pop-stumble-fall- -the archway above my head shreds, collapses. Somebody firing a sub-machine gun. Flat on my ass, my back finds the wall, cough up plaster, sleeve my eyes to see. Then quiet, save the rattle-clap of changing clips.
+POLICE!: Bodies scramble. No words. Just Pistol fire through the half- rotted walls punks taking potshots. No compliance means I hit the hallway shooting back. Firing dead-bang at a couple fleeing silhouettes see them pop-stumble-fall- -the archway above my head shreds, collapses. Somebody firing a sub-machine gun. Flat on my ass, my back finds the wall, cough up plaster, sleeve my eyes to see. Then quiet, save the rattle-clap of changing clips.
+ME: PUT THAT GOD DAMN GUN DOW- -YOU SET ME UP YOU COCKSUCKER!
+TOMMY MAGDALENA: -RAT FUCK COP! YOU KILLED HIM
+WILHITE!: Every part of me pauses.`Wilhite'.back door gets blunted open, frantic footfalls recede. That big bent V-8 on Tommy's `32 Deuce roars to life. Up now, plow through the cloud of cordite. See one of Tommy's Pachucos propped up against the wall, unhit, unhurt. Point my .45 and pull the trigger a I pass. Hit an empty chamber.this punk's lucky day.
 ME: Shots fired, 1600 block of Ivar. Suspect fleeing scene in red `32 Ford Deuce travelling westbound on Wilcox, vehicle impaired, intercept at Hollywood Blvd-
 ME: -and I need an ambulance to respond to 1607 North Ivar, second floor, female negro, possible overdose.
-ME (CONT'D): Where's your father!? Did Wilhite kill him!?- TELL ME!
-ME (V.O.): That Gray Packard: not the Feds. Make them Magdalena rivals. I left Bido Lito's too fast to catch a tail. So where did they come from?
-JUNIOR STEMMONS: Dave? (when I don't respond) Dave!
+JUNIOR STEMMONS: ( when I don't respond )
 ME: Where's Dan Wilhite?
-ME: Did he kill your piece-a'-shit pimp Dad?
+WILHITE: KLEIN GET OUT OF HERE!
+ME: Did he kill your piece-a'-shit pimp
 ME: Or was it that Peeper across the street that jacks off to your sad little shows-
+WILHITE: -GOD DAMN YOU!
 JUNIOR STEMMONS: Dave, please! CHIEF BRADLEY!
 ME: Where's Magdalena's body!?
-ME: (step to Lucille)
+LUCILLE: FUCK YOU COP!
+ME: ( step to Lucille )
+WILHITE: YOU FUCKING THUG! LET GO OF HER! You murdered him! That's why the dogs didn't bark: they knew you-
 ME: You murdered him! That's why the dogs didn't bark: they knew you-
-JUNIOR STEMMONS: (reeling back)
+JUNIOR STEMMONS: ( reeling back )
 WILHITE: What the fuck are you-
-ME: -you're gonna shell it out for me or I'm gonna kick your teeth in...
-ME (CONT'D): (at the door)
+ME: -you're gonna shell it out for me or I'm gonna kick your teeth in.
 WILHITE: I outrank you Klein! Are you out of your mind?
 ME: You fingered Tommy for his father's disappearance and pressed me to do the same to cover your ass!
 WILHITE: He was the prime suspec-
-ME: -he was screaming about `set-ups,' and about how a `Cop' killed Hector --he thought I was you Wilhite. (get closer, growl this) The gray Packard that gunned him down showed up three minutes after my dispatch call...
+ME: -he was screaming about `set-ups,' and about how a `Cop' killed Hector he thought I was you Wilhite. The gray Packard that gunned him down showed up three minutes after my dispatch call.
 WILHITE: -so cops killed him too, is that the kind of bullshit you wa-
-ME: -not just cops. Narcotics Cops. You clip Hector, then his kid becomes collateral & you gotta clip him too.
+ME: -not just cops. Narcotics Cops. You clip Hector, then his kid becomes collateral & you gotta clip him -you're paddlin' air pal.
 WILHITE: -you're paddlin' air pal.
 ME: Am I? Where's Hector? You can't file murder charges without a corpse. Who knows this? Cops know this- You would know this.
 WILHITE: -I'm going to the review board and have you cited for-
-ME: -When'd Hector start pimping Lucille?
-WILHITE: What-
-ME: --When did he start whoring out his own daughter to sweeten business deals?
+ME: -When'd Hector start pimping
+WILHITE: When did he start whoring out his own daughter to sweeten business I have no fucking idea what you're-
+ME: When did he start whoring out his own daughter to sweeten business I have no fucking idea what you're-
 WILHITE: I have no fucking idea what you're-
 ME: -he ever offer her to you?
 WILHITE: I'm married!
 ME: And about to be divorced. Have you ever fucked Lucille?
-ME: I don't care where you get your dick wet Wilhite. I care that you're covering. Twenty years dirty with this fucked-up family...your secrets must stink like rot.
+ME: I don't care where you get your dick wet Wilhite. I care that you're covering. Twenty years dirty with this fucked-up family.your secrets must stink like rot.
 WILHITE: You're worried about every wrong thing Klein. Bradley's tee'ing you up to take a big fat fall-
-ME: -then we'll hold hands on the way down: look further up the street. (directing his gaze) The Black Buick.
-ME (CONT'D): Feds. They're all over this. You think I'm the only one that burns? Two decades worth of twisted shit between your division and the biggest dope dealer in LA?
-ME (CONT'D): I know I'm going down Dan...that's the difference between you and me.
-BRADLEY: Klein!
-BRADLEY (CONT'D): I said `no direct approach!'
-ME: (my back still turned) Then what are you doing here?
+ME: -then we'll hold hands on the way down: look further up the street. The Black Buick.
+BRADLEY: Hit the front door, moving toward my car, Junior and the Narco brims cagey, primed for another atomic outburst.
+ME: ( my back still turned ) Then what are you doing here?
 BRADLEY: You were instructed to take Tommy Magdalena alive. Do I have to remind you of the coroner's file-
-ME: (turn on him, fierce) -enough of your `Sanderline' bullshit. (nod to the Black Buick) I'll checkmate with an admission of guilt to Noonan himself.
-BRADLEY: (sharp, shrill) Keep your voice down!
+ME: ( turn on him, fierce ) -enough of your `Sanderline' ( nod to the Black Buick ) I'll checkmate with an admission of guilt to Noonan himself.
+BRADLEY: ( sharp, shrill ) Keep your voice down!
 ME: I'll bargain immunity in exchange for testimony on how the LAPD really runs: Magdalena dope profit kickbacks, Diskant run out of the city council race on your word, suspended cops pulling shakedowns. I'll give Noonan a dozen new probes for the one I killed.
 BRADLEY: I'm assuming command of this investigation myself.
 ME: What investigation? Tommy's murder? Hector's disappearance? What are you investigating?
 BRADLEY: You're on one month's unpaid leave as of this moment.
 ME: You're scamming something big.
-BRADLEY: -if you make any further inquiries into this case I'll strip you of rank, have your pension revoked and walk that coroner's file into the Times myself...stay away from this.
+BRADLEY: -if you make any further inquiries into this case I'll strip you of rank, have your pension revoked and walk that coroner's file into the Times myself.stay away from this.
 ME: What's your fucking angle Bradley!?
 BRADLEY: You're done Klein. Soon.
-JUNIOR STEMMONS: Dave listen: don't do anything else to jeopardize yourself...I can protect you...I've been putting some things together-
+JUNIOR STEMMONS: Dave listen: don't do anything else to jeopardize yourself.I can protect you.I've been putting some things together-
 KLEIN: Central, this is Klein, I need an update on that overdose I called in. What's the girl's condition?
 DISPATCH: Lieutenant Klein, the girl, Tilda Hopwell was pronounced D.O.A. at Hollywood Presbyterian Hospital-
-ME: (God-like import) George Ainge's address.
+ME: ( God-like import ) George Ainge's address.
 JUNIOR STEMMONS: You're in no state to conduct yourself as a Police Offic-
 ME: -shut up. Don't identify yourself, don't badge him, don't talk.
 ME: How do you know Glenda Bledsoe?
 GEORGE AINGE: Knew that whore'd try to muscle me-
 ME: -don't call her a whore again.
 GEORGE AINGE: If you gave her as many paychecks as me, you'd know `whore' fits like a fuckin glov-
-GEORGE AINGE (CONT'D): She fucked for a fee! Jesus Christ she's a pro! What is she paying to get that blade back-
 ME: What? What `blade?'
 GEORGE AINGE: What's she paying you to recover her knife?
-JUNIOR STEMMONS: Lieutenant!
+JUNIOR STEMMONS: A hate-scowl for Junior: trying to put enough heat behind it to melt his head. Ainge lights up.
 GEORGE AINGE: Y'all are Cops!?
 ME: Shut your mouth.
 GEORGE AINGE: Back in `50, Glenda the Good Witch put a blade in her pimp `bout as deep as I put my pink in her, this mongrel named Dwight Gillette.
-GEORGE AINGE (CONT'D): Could use a couple LAPD favors, and ain't guttin' a pimp still a crime?
-JUNIOR STEMMONS: (aimed at ME) Capitol crime.
+JUNIOR STEMMONS: ( aimed at ME ) Capitol crime.
 GEORGE AINGE: Guess who she asked to hold the knife? Guess why she brought me in on this kidnap thing? It was her way a' buying it back-
 ME: -show it to me.
 GEORGE AINGE: I'll have my lawyer take a picture of it for you-
-JUNIOR STEMMONS: (more question than statement)
+JUNIOR STEMMONS: ( more question than
+STOP!: ( more question than
+ME: GOD DAMN IT- -HE'S A MATERIAL WITNESS TO A MURD-
+JUNIOR STEMMONS: -HE'S A MATERIAL WITNESS TO A MURD-
+GEORGE AINGE: I AIN'T RESISTING YOU! I'm not arresting you.
 ME: I'm not arresting you.
-ME (CONT'D): (hissing) Where is it?
-ME (CONT'D): -that blade or your life.
-JUNIOR STEMMONS: Last time you push me out a door! For a dirty split-tail! You're- (cinches hard) -not dragging me down! If Bradley doesn't get you, Noonan will! And- (through gritted-teeth) -you're gonna burn all by yourself!
-ME (V.O.): Call it: the knife was here. Ainge was crawling under his bed not to escape me, but to hand it over. Too hate-wired to see it.
-ME (V.O.) (CONT'D): Junior the Player. Junior the Underestimated. Junior the Former Evidence Teacher: a murder weapon, a witness, a two-hour head-start.
-ME (V.O.): Junior the Flush: my $5000 down- payment from Hughes gone. Junior the Merciful: He should've put a bullet in my brain.
-ME (V.O.): Everything inspection neat. No mail, no personal items. Eagle scout perfect.
-FEMALE VOICE (O.S.): What?
+WHERE?!: Swing it into a wall. Gaping holes in holster. Bring it back like Babe Ruth over his head.
+GEORGE AINGE: Roll to my knees: guttural groans I can't place because they're mine. Junior rips a radio cord from the wall, wraps it around my neck, pulls my head back, feel his tears hit my shoulders. Veins in his arms go Pop. Eyes in my head go Pop.
+NICE!: Roll to my knees: guttural groans I can't place because they're mine. Junior rips a radio cord from the wall, wraps it around my neck, pulls my head back, feel his tears hit my shoulders. Veins in his arms go Pop. Eyes in my head go Pop.
+JUNIOR STEMMONS: Last time you push me out a door! For a dirty split-tail! You're- -not dragging me down! If Bradley doesn't get you, Noonan will! And- -you're gonna burn all by yourself!
 ME: Meg wake up Pete.
-MEG (O.S.): ...Jesus Christ...
-PETE (O.S.): Take some pills, will you?
 ME: I'll give you a grand to locate and tail Junior Stemmons.
-PETE (O.S.): Your partner?
 ME: Past tense.
-PETE (O.S.): Two grand.
 ME: Done. Tell me what he does, who he talks to, where he goes, and if he's got this mutt named George Ainge stashed somewhere.
-ME: Yeah.
-PETE (O.S.): What's Stemmons' address?
+ME: PETE ( O.S. )
 ME: I'm working on it.
-ME (CONT'D): (nod to shoulder bag) You moonlighting?
-KOENIG: Doing some ad hoc dope seizures for Dan Wilhite. (that shark grin) Still love taking the occasional door down.
+KOENIG: Doing some ad hoc dope seizures for Dan Wilhite. Still love taking the occasional door down.
 ME: You were born for the street Fritz. I never featured you for the suit and tie set.
 KOENIG: We're of a common bloodline Boy-o.
 ME: Where'd you get that haul?
-KOENIG: (dropping bag) Some reformed spic dope dealers that normally dabble in reefer.
-KOENIG (CONT'D): Seized from Chavez Ravine. Thirty pounds. The City is cracking down on the dreaded to make room for their beloved Dodgers. They remove the Mexicans, we remove the rest.
+KOENIG: ( dropping bag ) Some reformed spic dope dealers that normally dabble in reefer.
 ME: Why? They could hawk heroin right along with peanuts and hot dogs. Have the whole bleacher section goofing on horse.
 KOENIG: A new found dedication these days? What's prompting such odd hours?
 ME: Playing catch-up.
 KOENIG: The boy Chief seems to be running both of us ragged.
 ME: He currying favor with Chief Parker with this Chavez Ravine sweep?
-KOENIG: Parker appreciates Bradley's political skills...and the addition of a professional Ball-club to our fare city fulfills his own personal mandate of a cleaner, brighter, LA.
+KOENIG: Parker appreciates Bradley's political skills.and the addition of a professional Ball-club to our fare city fulfills his own personal mandate of a cleaner, brighter, LA.
 ME: Sounds boring.
 KOENIG: Stale milk to me too. And how are you faring? Is our visiting U.S. Attorney still in hot pursuit?
 ME: Borrowed time Fritz.
 KOENIG: Anything I can do?
-ME: Yeah...a small favor. (beat) Stemmons home address if you have it. He's in a bit of a bind.
-KOENIG: (beat) Bigger than your own?
+ME: Yeah.a small favor. Stemmons home address if you have it. He's in a bit of a bind.
+KOENIG: ( beat ) Bigger than your own?
 ME: A lot bigger.
 ME: 3160 Rossmore. Apartment #6.
 PETE: Did you want me to clip Stemmons?
 ME: Not yet. By now, he's stashed Ainge, so he's travelling solo.
 PETE: Who's this `Ainge' clown anyway?
 ME: Not important.
-PETE: Oh, Milteer wants a progress report on the Movie Broad -- Bledsoe-
-GLENDA BLEDSOE: I could say something witty about "gentleman callers at this hour, covered in blood" but--
+PETE: Oh, Milteer wants a progress report on the Movie Broad Bledsoe-
+GLENDA BLEDSOE: I could say something witty about "gentleman callers at this hour, covered in blood" but
 ME: George Ainge.
-GLENDA BLEDSOE: Is that his? (off my nod `yes') Is he dead?
+GLENDA BLEDSOE: Is that his? Is he dead?
 ME: No. But I know about Dwight Gillette and the knife you're trying to barter back. All of it.
 GLENDA BLEDSOE: Then why are you here? Y'should be picking up a paycheck from Hughes.
-ME: I'm not watching you for him anymore.
-GLENDA BLEDSOE: (beat) If you're planning on shaking me down for `favors,' go pick-up your paycheck Mr. Klein. Or are you being a policeman right now?
+ME: I'm not watching you for him If you're planning on shaking me down for `favors,' go pick-up your paycheck Mr. Klein. Or are you being a policeman right now?
+GLENDA BLEDSOE: ( beat ) If you're planning on shaking me down for `favors,' go pick-up your paycheck Mr. Klein. Or are you being a policeman right now?
 ME: The good ones are called `Policemen.' The bad ones are called `Cops.' I'm a Cop.
-ME (CONT'D): Another `cop' has this information on you. He has the murder weapon too. He might use it against you before I can stop him. Can you go somewhere?
-GLENDA BLEDSOE: You're protecting me? You don't even know me...
+GLENDA BLEDSOE: You're protecting me? You don't even know me.
 ME: Just the parts you wish I didn't. The place in Topanga Canyon where your going to hole up for the kidnapping thing. Is it safe?
-ME (CONT'D): Get your coat.
 ANNOUNCER: -KGFJ news at the top of the hour. U.S. Attorney Welles Noonan today announced his intention to probe what he called `widespread corruption' within the Los Angeles Police Department and promised an equally widespread round of criminal indictments before-
 ME: Did Ainge know about this place?
-GLENDA BLEDSOE: No. I didn't want to tell him till after.
-ME: Good.
-ME (CONT'D): Nothing's going to happen to you...
+GLENDA BLEDSOE: No. I didn't want to tell him till
+ME: Put the car into `park.' Idle. She looks over, her eyes asking something. I hold her gaze, hesitate, then:
 GLENDA BLEDSOE: I don't know that.
 ME: I'm not gonna let it.
-ME (CONT'D): This is my sister's number. Name is Meg. Call if there are problems.
-ME (CONT'D): Sleep.
-GLENDA BLEDSOE: Impossible.
+GLENDA BLEDSOE: Me too.
 ME: Me too.
-ME (V.O.): Looking for leverage. Figure out Bradley's angle before I fry. Madge and Lucille in custody. No Hector and no Tommy equals No leads. Save one.
-ME (V.O.): Dan Wilhite. (beat) Dispatch shot me his temporary address. Some beach flop he fled to after his wife put him out.
-ME (V.O.): My first thought, pure panic: Noonan figured the Narco-Magalena connection.
-ME (V.O.) (CONT'D): But it wasn't a Federal Subpoena. Wilhite was being called to testify by Bob Gallaudet, a man who doesn't piss without Bradley's say-so. (beat) Bradley trying to beat Noonan to the punch and burn the LAPD himself...why?
-ME (V.O.): Swap my car for Wilhite's. The former head of the LAPD's Narcotics division dead in the trunk. Call it the leverage I was looking for -- his body can buy me out of bad spot-
-ME (V.O.): Wilhite was the Peeper. Bent on Lucille, a girl younger than his youngest daughter. Call it grounds for divorce...Call Wilhite Hector Magdalena's murderer...
 ME: Bradley trying to bury me too. That subpoena means my fifteen year career with the LAPD just went up in smoke.
-ME: Hey-
-PETE (O.S.): -Junior's left the fucking planet.
+ME: PETE ( O.S. )
 ME: You find him?
 PETE: Yeah. I swung by his apartment, car was out front. I scoped it: a sawed- off shotgun in front, canned tuna in the back seat. Think he's living outta that car. After he left, I tried to get inside his place: The front door is triple pad-locked.
-ME: (out loud) That knife is in there-
+ME: ( out loud ) That knife is in there-
 PETE: -the what?
 ME: Meet me down the street from his place. You got bolt cutters?
 PETE: I'll bring `em.
@@ -646,154 +587,135 @@ ME: Thirty minutes.
 PETE: Who's car is that?
 ME: Long story.
 PETE: Junior looked real skeezed this morning. Like he was on a dope jag.
-ME: Yeah?
+ME: Sweated up like a stuck pig. And be careful. He was fucking around with his front door before he left. I don't know what he was doing.
 PETE: Sweated up like a stuck pig. And be careful. He was fucking around with his front door before he left. I don't know what he was doing.
 ME: Two honks if he shows. Then meet me in the alley, back of his place.
-PETE: (handing me bolt-cutters) What about this Bledsoe broad? Milteer has called me twice.
-ME: (taking the bolt-cutters) One thing at a time pal.
-ME (V.O.): Junior the Insane: You couldn't hide what he was hiding in 1958 LA, and not have it rot your mind.
-ME (V.O.): Junior stealing evidence from the Magdalena crime scene.
-ME (V.O.): Junior the Climber, trading me up to Noonan. Thinks bootlicking will buy him a Bureau gig.
-MY NARRATOR VOICE (V.O.): The safe scared me more than all of it because a safe doesn't get installed overnight...he'd been working on something, planning something...
-PETE: Asshole!
+PETE: ( handing me bolt-cutters ) What about this Bledsoe broad? Milteer has called me twice.
+ME: ( taking the bolt-cutters ) One thing at a time pal.
+PETE: Get it open if you can and meet me back at Meg's!
 ME: Get it open if you can and meet me back at Meg's!
 JUNIOR STEMMONS: Stay right here. I'll get it all and come back. Don't move.
-ME (V.O.): Call it. Keep going and give up Wilhite's car and the corpse inside, or lay back and deal with Noonan's Buzzcuts.
-ME (CONT'D): Civil servants can't afford manicures?
-WELLES NOONAN: Breaking and entering, theft, and willful destruction of private property...and I'll add attempted murder to the current first degree murder charge I'm about to file against you.
-ME: Proof. If you had it, you wouldn't be fucking around with shitty shakedown routine -- you'd file. Coercion equals confession. So let's see you pound it out of me.
+WELLES NOONAN: Breaking and entering, theft, and willful destruction of private property.and I'll add attempted murder to the current first degree murder charge I'm about to file against you.
+ME: Proof. If you had it, you wouldn't be fucking around with shitty shakedown routine you'd file. Coercion equals confession. So let's see you pound it out of me.
 WELLES NOONAN: Where are the files you stole from Sergeant Richard Stemmons.
-ME: Junior. Your secret weapon right? I mean, I know J. Edgar is a slanted fuck, but traditionally `vicious fags' don't make the best major case witnesses. (beat, keep pushing) I'm worried those burning dildos may have damaged his credibility.
+ME: Junior. Your secret weapon right? I mean, I know J. Edgar is a slanted fuck, but traditionally `vicious fags' don't make the best major case witnesses. I'm worried those burning dildos may have damaged his credibility.
 WELLES NOONAN: Oh I don't need his testimony Klein. I'll just force yours.
+ME: WELLES NOONAN
+WELLES NOONAN: Sam Giancana to Mickey Cohen, extortion, bribes, murder-for-hire. I'll put you in every pair of cross- hairs I can find. I'll torch everything you've ever touched. You have no idea how deep I run Klein. And how far I'm willing to go to fuck you-
+ME: What are you proving? Bradley's the guy flanking you right now. The guy who's vulnerable right now.
+WELLES NOONAN: Why trust a God damn word that comes out of your-
+ME: Magdalena case?
+WELLES NOONAN: ( thrown ) Prelims: drug pusher gone missing, presumed dead, we're investigat-
+ME: ( scoffing ) -Dealing drugs for 20 years! Arrested once. Hall a' fame career! You photographed the head of Narco in-front of his house.
+WELLES NOONAN: ( sell this fucker now ) Come after me: you get me. Go after what I can give you and you get the LAPD's power-set on a slab.
+AND?: ( sell this fucker now ) Come after me: you get me. Go after what I can give you and you get the LAPD's power-set on a slab.
+ME: ( sell this fucker now ) Come after me: you get me. Go after what I can give you and you get the LAPD's power-set on a slab.
 WELLES NOONAN: I don't believe you'd turn. Treacherous yes, traitorous no. Tell me where Stemmons' files are.
 ME: I'll bring them to you.
 WELLES NOONAN: You're not leaving here Klein.
 ME: Then like I said: you only get me.
 WELLES NOONAN: I'll take it.
-ME: I give you the body of Dan Wilhite, head of LAPD's Narcotics Division. Proof of a 20-year criminal collusion between his department and Hector Magdalena and my testimony to link the dots. (beat, make him believe) Then I leave LA for good.
+ME: I give you the body of Dan Wilhite, head of LAPD's Narcotics Division. Proof of a 20-year criminal collusion between his department and Hector Magdalena and my testimony to link the dots. Then I leave LA for good.
 WELLES NOONAN: What happened to Wilhite?
-ME: Suicide.
+ME: WELLES NOONAN
 WELLES NOONAN: Like Sanderline Johnson?
-WELLES NOONAN (CONT'D): Get me Stemmons files and Wilhite's body by noon tomorrow.
 ME: No more tails. I don't want anyone else incriminated.
-WELLES NOONAN: Agreed.
-ME: (nod to agreement) I get a copy of that?
+WELLES NOONAN: ( nod to agreement ) I get a copy of that?
+ME: ( nod to agreement ) I get a copy of that?
 WELLES NOONAN: After a judge signs it. Now Leave.
-WELLES NOONAN (CONT'D): We wait for him to deliver, then we arrest him. You never saw that agreement.
 DEPUTY #1: Tail him?
-WELLES NOONAN: No. Let him get comfortable...let him believe me.
-ME (V.O.): Running out of room, time, both. Trapped between Bradley and Noonan.
-PETE: I know what Feds look like -- those were Feds with Junior...
+WELLES NOONAN: No. Let him get comfortable.let him believe me.
+PETE: I know what Feds look like those were Feds with Junior.
 ME: Yeah and they made me leaving the scene. Had to barter out.
 PETE: Barter what?
 ME: My Testimony. I signed a Federal Witness Agreement.
 PETE: You what?
-ME: It's bullshit. Noonan's got no intention of honoring it. (beat) They want Stemmons files though. I think Junior's been working angles for awhile, doing his own investigations.
+ME: It's bullshit. Noonan's got no intention of honoring it. They want Stemmons files though. I think Junior's been working angles for awhile, doing his own What did you do to his place? Nice quiet neighborhood one minute, Nagasaki the next.
 PETE: What did you do to his place? Nice quiet neighborhood one minute, Nagasaki the next.
-ME: (point to safe) He had a hand grenade tied to that. (as Pete resumes drilling) How much longer do you need?
-PETE: Few more hours. Maybe. Junior didn't skimp on this thing. I gotta bore right through the face plate. (beat) You got some time now, why don't you get Milteer off my back and go work that Bledsoe broad.
+ME: ( point to safe ) He had a hand grenade tied to that. ( as Pete resumes drilling ) How much longer do you need?
+PETE: Few more hours. Maybe. Junior didn't skimp on this thing. I gotta bore right through the face plate. You got some time now, why don't you get Milteer off my back and go work that Bledsoe broad.
 ME: You read my mind.
-ME: ...tell me if I'm being too rough.
-ME: Tell me anything. Tell me everything.
+ME: .tell me if I'm being too rough.
+ME: Tell me anything. Tell me
 GLENDA BLEDSOE: Where would I start?
 ME: Why here?
-GLENDA BLEDSOE: Why L.A.? (this amazing smile) Why is anybody here? Want the rest of the world to know who they are.
-ME: You?
-GLENDA BLEDSOE: No...I don't think so. (beat) I just love it. I grew up in Seattle. My aunt, every week, she'd take me to the movies.
-GLENDA BLEDSOE (CONT'D): The idea that you can outlive yourself...that a part of you goes on, long after you're gone. (beat, grins) Sounds silly doesn't it? `Attack of the Atomic Vampires' being-
+GLENDA BLEDSOE: Why L.A.? Why is anybody here? Want the rest of the world to know who they are.
+ME: GLENDA BLEDSOE ( beat )
+GLENDA BLEDSOE: No.I don't think so. I just love it. I grew up in Seattle. My aunt, every week, she'd take me to the movies.
 ME: -your ticket to immortality?
-GLENDA BLEDSOE: Hughes told me he could get me in for this screen test two years ago. Movie with Gregory Peck at Universal. He thought he was humoring me...until I got it. They offered me the role...there in the room. So Howard, who I'm sure never thought in a million years I'd land that part, makes some phone calls and just like that they don't want me anymore. (beat) Nobody calls now. I can't get in to see any studio casting people. He's ruined me in those circles.
+GLENDA BLEDSOE: Hughes told me he could get me in for this screen test two years ago. Movie with Gregory Peck at Universal. He thought he was humoring me.until I got it. They offered me the role.there in the room. So Howard, who I'm sure never thought in a million years I'd land that part, makes some phone calls and just like that they don't want me anymore. Nobody calls now. I can't get in to see any studio casting people. He's ruined me in those circles.
 ME: And you still want it-
-GLENDA BLEDSOE: -bad enough to put on a silly cheerleading skirt and try to make the most god-awful dialogue sound decent.
-ME: Surrounded by winos in werewolf suits. (she laughs, I laugh) That's...dedication.
+GLENDA BLEDSOE: -bad enough to put on a silly cheerleading skirt and try to make the most god-awful dialogue sound Surrounded by winos in werewolf Or desperation. Depends on the day.
+ME: Surrounded by winos in werewolf Or desperation. Depends on the day.
 GLENDA BLEDSOE: Or desperation. Depends on the day.
-GLENDA BLEDSOE (CONT'D): I'll get there though. (beat) I'll get there.
 ME: Dwight Gillette.
-GLENDA BLEDSOE: He asked me to take his `niece and nephew' to their cousin in Oxnard. These beautiful, funny little kids. (tears she doesn't swipe) I dropped them off. Didn't ask any questions -- I believed Dwight. A week later I saw their pictures in the Post Office. A week after that their little bodies came in on the tide near San Pedro. (beat, tears stream) I'll never shake the thought that maybe those poor kids thought I was part of it. That I knew what was going to happen to them. So I pray to God that he let them look in when I put that knife into Dwight. (beat) But I'll never ask his forgiveness for doing it... (beat, clears her eyes) Why do they call you `Enforcer?'
+GLENDA BLEDSOE: He asked me to take his `niece and nephew' to their cousin in Oxnard. These beautiful, funny little kids. I dropped them off. Didn't ask any questions I believed Dwight. A week later I saw their pictures in the Post Office. A week after that their little bodies came in on the tide near San Pedro. I'll never shake the thought that maybe those poor kids thought I was part of it. That I knew what was going to happen to them. So I pray to God that he let them look in when I put that knife into Dwight. But I'll never ask his forgiveness for doing it. Why do they call you `Enforcer?'
 ME: I've killed 44 men.
-ME (CONT'D): 33 for War. 2 for principle. 9 for profit -- mostly. Why did you sign with Hughes, knowing what he was?
-GLENDA BLEDSOE: `For profit -- mostly.'
+GLENDA BLEDSOE: `For profit mostly.'
 ME: I'm not much good.
 GLENDA BLEDSOE: Me neither.
-PETE (O.C.): The Knife ain't there. File on top of that middle pile: George Ainge in an `undisclosed locale.'
-PETE: Junior documented everything like a fucking Monk. (pulls a file) Like here: `has evidence' you murdered Sanderline Johnson.
-(MORE): PETE (cont'd) Kept track of `suspected contract killings' you pulled for the mob.
+PETE: Junior documented everything like a fucking Monk. Like here: `has evidence' you murdered Sanderline Johnson.
 ME: You been up all night?
-PETE: In-case Stemmons made a house-call. He's got every goddamn address of everybody you know... (beat, hard) And you should've told me about the Bledsoe broad.
+PETE: In-case Stemmons made a house-call. He's got every goddamn address of everybody you know. And you should've told me about the Bledsoe broad.
 ME: There's nothing to tell.
-PETE: Then call Milteer about this dead Pimp Gillette. I'm no legal mind like you, but I'll bet a murder beef would violate her morals clause quick. (beat, hands phone) Collect the rest of your money.
+PETE: Then call Milteer about this dead Pimp Gillette. I'm no legal mind like you, but I'll bet a murder beef would violate her morals clause quick. Collect the rest of your money.
 ME: I don't want it anymore.
 PETE: Then give that five grand back.
 ME: Junior stole it.
 PETE: People are gonna start lining-up to see you bleed, Pal.
-KOENIG: (formal-frosty) Your young partner called me at my home, early this morning.
-KOENIG (CONT'D): Heavily inebriated. Speaking inarticulately of `betrayal,' & how the LAPD was set to be `blitzed by justice.' Is this the `bind' of which we spoke earlier?
-ME: Yeah.
-KOENIG: And his apartment -- there was some type of disturbance? A fire?
-ME: That's why I needed his address. I was trying to help him before something like this happened. The kid snapped-in-half Fritz. He's literally lost it. (beat, deadpan) He say anything else to you?
-KOENIG: Only that he was in possession of materials that might deeply damage Chief Bradley...and yourself.
+KOENIG: ( formal-frosty ) Your young partner called me at my home, early this morning.
+ME: And his apartment there was some type of disturbance? A fire?
+KOENIG: And his apartment there was some type of disturbance? A fire?
+ME: That's why I needed his address. I was trying to help him before something like this happened. The kid snapped-in-half Fritz. He's literally lost it. He say anything else to you?
+KOENIG: Only that he was in possession of materials that might deeply damage Chief Bradley.and yourself.
 ME: Like I said Fritz, he's flipped his lid. I don't want to go to Internal Affairs but I'm afraid Junior might've forced just that.
 KOENIG: Let me try to locate the lad first Dave. Be a shame to ruin such a young career so soon.
 ME: Be careful Fritz. He's dangerous.
-ME (V.O.): Fritz Koenig, the best inspector in the LAPD, digging. He'll find Junior and when he does he'll find Ainge...then Glenda...
 ME: Where is he?
-SECRETARY: (frowns at my informality) Out at the Ravine Lieutenant.
-ME (V.O.): Noonan's deadline lapsed ten minutes ago. An official fugitive from justice now.
-ME (V.O.): Bradley doing damage control, the forced relocation of the Ravine's immigrants has the press in a feeding frenzy. Reuben Ruiz forced along as the token Mexican mouthpiece.
-BRADLEY: -this area has long been rife with crime and venality, but with a brand new Stadium, we can make this horrible blight a bright spot and give our Los Angeles Dodgers the home they deserve. (like Ruiz was an orphan) Reuben Ruiz can tell you of his travails growing up in this horrible slum and why now is the time to `Redeem The Ravine.'
+SECRETARY: ( frowns at my informality ) Out at the Ravine Lieutenant.
+BRADLEY: -this area has long been rife with crime and venality, but with a brand new Stadium, we can make this horrible blight a bright spot and give our Los Angeles Dodgers the home they deserve. Reuben Ruiz can tell you of his travails growing up in this horrible slum and why now is the time to `Redeem The Ravine.'
 REPORTER #2: Chief Bradley, U.S. Attorney Noonan has promised to deliver surprise witnesses before the Federal Grand jury on-
 BRADLEY: -Welles Noonan is an unscrupulous hack politician whose smear campaign against us will fail, for he has grievously underestimated the moral rectitude of the Los Angeles Police Department.
 BRADLEY: Now if you'll excuse me, I'll leave you with Reuben Ruiz.
-ME: Your subpoena hasn't caught up to me yet, Chief...
-ME (CONT'D): (hand him Junior's file) Hurwitz Holdings.
-ME (CONT'D): You, Bethune, and Gallaudet bought big chunks of Chavez Ravine over the past two years through a shell company called Hurwitz Holdings. (beat, look around) If the Dodgers move here the value of the land booms...you could sell it off for a fortune -- or hang onto it and make even more. The parking lots alone would make you all multi-millionaires.
-ME: Word gets out that the three City Officials who were pushing hardest for a Stadium also stood to gain a mint -- might color public opinion. Might color it even more to know that the LAPD's Chief of Detectives was trying to purchase a huge tract of that land from the biggest dope dealer in town.
-ME: Hector Magdalena owned ten and half acres of this land. (beat, ram him) You didn't give a shit about solving his disappearance. You were worried that your real estate deal was going south.
-(MORE): ME (cont'd) That's why you wanted Tommy found, not because he was a murder suspect or you were concerned that Noonan might tap him as a federal witness...you needed him to finalize your fucking land grab. To sign paperwork in place of his dead Dad. That's why you've got Madge and Lucille in custody now. (beat) Maybe I'll let your subpoena find me now Chief, maybe I'll walk right into it...the tales I could tell.
-BRADLEY: How?
-ME: Junior Stemmons. The ex-evidence teacher. His `excellent ratings' didn't stop him from stealing the Magdalena seizure and doing his own investigation.
+ME: Your subpoena hasn't caught up to me yet, Chief.
+ME: Word gets out that the three City Officials who were pushing hardest for a Stadium also stood to gain a mint might color public opinion. Might color it even more to know that the LAPD's Chief of Detectives was trying to purchase a huge tract of that land from the biggest dope dealer in town.
+ME: Hector Magdalena owned ten and half acres of this land. You didn't give a shit about solving his disappearance. You were worried that your real estate deal was going south.
+BRADLEY: Junior Stemmons. The ex-evidence teacher. His `excellent ratings' didn't stop him from stealing the Magdalena seizure and doing his own Why would he investigate me?
+ME: Junior Stemmons. The ex-evidence teacher. His `excellent ratings' didn't stop him from stealing the Magdalena seizure and doing his own Why would he investigate me?
 BRADLEY: Why would he investigate me?
-ME: That was stapled to the cover. (beat) Why would Noonan worry about a Turd like me now...when a high profile target like you can be taken down.
+ME: That was stapled to the cover. Why would Noonan worry about a Turd like me now.when a high profile target like you can be taken down.
 BRADLEY: Where is Stemmons?
-ME: No idea. If you haven't spoken to Internal Affairs today, I'm sure they've called. Junior's apartment caught fire. Deeply deviant material inside. Round him up- (my angle) -and anyone he's got with him.
+ME: No idea. If you haven't spoken to Internal Affairs today, I'm sure they've called. Junior's apartment caught fire. Deeply deviant material inside. Round him up- -and anyone he's got with him.
 BRADLEY: I'll issue an A.P.B. saying Stemmons is a known deviant targeting kindergarten children.
-ME: Now, quid pro quo...you subpoenaed Wilhite too.
+ME: Now, quid pro quo.you subpoenaed Wilhite too.
 BRADLEY: How do y-
 ME: -don't worry `how.' Why?
-ME (CONT'D): You're going after Narco yourself.
-BRADLEY: Exposing the corrupt parts of the LAPD will redeem the whole. I'll prove that Police can police themselves-
-ME: -so you show-up Noonan...co-opt his crusade and condemn your own before he can...Jesus Christ can you turn lemons to lemonade.
+BRADLEY: Exposing the corrupt parts of the LAPD will redeem the whole. I'll prove that Police can police -so you show-up Noonan.co-opt his crusade and condemn your own before he can.Jesus Christ can you turn lemons to lemonade.
+ME: -so you show-up Noonan.co-opt his crusade and condemn your own before he can.Jesus Christ can you turn lemons to lemonade.
 BRADLEY: No Cop will testify against other Cops. This is why Wilhite has suddenly disappeared.
-ME: And how. (beat) So where do we go now Chief?
-BRADLEY: (beat, eyes flick again to the files I'm holding...) There are other forces at work here...faces we need to identify. Names we need to know. A third party.
-(MORE): BRADLEY (cont'd) Find out who Klein and I'll reinstate you, rescind that subpoena & burn the coroner's report on Sanderline-
+ME: And how. So where do we go now Chief?
+BRADLEY: ( beat, eyes flick again to There are other forces at work here.faces we need to identify. Names we need to know. A third
 ME: -that report is only useful to Noonan now.
 BRADLEY: No. It ensures our mutual destruction should you choose to share the contents of that Stemmons file. Which I know you won't do until you figure out how it will best benefit you.
-ME (V.O.): A mistake to underestimate me now Chief. The price to keep your secrets is steep...and you're going to pay up. Soon.
-SIX-PACK: Something in your trunk smells to high hell Lieutenant.
 ME: Dead body.
-ME (V.O.) (CONT'D): Borrowed time burning fast. My days are done. Only hours remain. Whatever moves I have left...make them now.
 PETE: Fucking Christ. You can't keep that car in the garage, the smell's coming into the house.
 MEG: Open the windows.
 PETE: That's not gonna help.
-ME: (still scribbling) Take a couple bottles of bleach, pour it over the trunk.
+ME: ( still scribbling ) Take a couple bottles of bleach, pour it over the trunk.
 PETE: What do you got in there?
 ME: My foreseeable future.
 MEG: I'm going to work.
 ME: You taking her?
-PETE: (God damn glowering) I'm taking her.
-ME (CONT'D): What?
-PETE: Hughes.
-ME: This is almost over Pete -- I'll give Milteer the five-grand back.
+PETE: ( God damn glowering ) I'm taking her.
+PETE: This is almost over Pete I'll give Milteer the five-grand back.
+ME: This is almost over Pete I'll give Milteer the five-grand back.
 PETE: It's more than that.
 ME: I'll square it. It's my thing.
 PETE: That you made mine.
 ME: I'm sorry.
 PETE: Look as bad as I've ever seen you.
-ME: Things are as bad as they've ever been...
-ME (V.O.): Bradley's Third Party Theory. Everything linked: Wilhite, Magdalena, the Ravine...I've got my own theories...and the one that sticks is the one I pray I'm wrong about.
-ME (CONT'D): Klein.
-JUNIOR STEMMONS: MOTHERFUCKER -- you better meet me! That Cooze you threw everything away for is still cooked! I got the knife. I got Ainge-
+ME: Things are as bad as they've ever
+JUNIOR STEMMONS: MOTHERFUCKER you better meet me! That Cooze you threw everything away for is still cooked! I got the knife. I got Ainge-
 ME: How'd you get this number Junior?
 JUNIOR STEMMONS: I got everything on you! AND I'M
 ME: -you're a broom-closet Queer. Your career is over.
@@ -805,11 +727,10 @@ JUNIOR STEMMONS: Meet me in one hour with that file, Fern Dell Park-
 ME: -Where you used to snag fruits for Vice? A volunteer gig I'm guessing.
 JUNIOR STEMMONS: Be there with Bradley's file or I scratch your scabby Bitch.
 ME: Hey, did the Feds dig your pad?
-ME (CONT'D): -I see anybody near there Junior, the deals off and I gift that file to Bradley to fuck you with-
-GLENDA BLEDSOE: -Dave?
-ME: (big beat) Glenda?
-GLENDA BLEDSOE: Sorry...you gave me this number...
-ME: Jesus...hey...
+GLENDA BLEDSOE: ( big beat )
+ME: ( big beat )
+GLENDA BLEDSOE: Sorry.you gave me this number.
+ME: 92 INTERCUT: 92
 GLENDA: Who were you talking-
 ME: -no, no. It's nothing. I had a phone call, just before yours.
 GLENDA: Was it him? The Cop you were telling me about?
@@ -818,86 +739,64 @@ GLENDA: You don't think it's safe?
 ME: I'd just rather have someone there with you.
 GLENDA: I wish you would've woken me up this morning.
 ME: I'm better-looking in low light, I didn't want to blow it for myself.
-ME (CONT'D): Stay by the phone.
 GLENDA: I miss you.
 ME: Where's the knife.
-ME: Turn your lights off...and just come out and talk to me...Fritz.
-ME (V.O.): Third Party Confirmed...I fucking knew it.
-KOENIG: Not much with these sub-rosa things...
-ME: (a nod to the Packard) I thought it was Noonan tailing me.
+ME: Turn your lights off.and just come out and talk to me.Fritz.
+KOENIG: Not much with these sub-rosa I thought it was Noonan tailing me.
+ME: ( a nod to the Packard ) I thought it was Noonan tailing me.
 KOENIG: Bradley's greatest stroke was enlisting you to his side.
-ME (CONT'D): Wilhite ran Magdalena for you, not Narco.
 KOENIG: When did you know?
-ME: I didn't. I had a feeling. I smelled cover-up all over Hector's disappearance and Wilhite wouldn't have the muscle or the mind-set to kingpin something that big by himself...you knew about Bradley trying to buy him out?
-KOENIG: He was offering to exonerate Hector and clear his criminal record. Hector met with Wilhite and I to inform us of his decision...
-KOENIG (V.O.): ...to accept Bradley's deal...
-KOENIG (V.O.) (CONT'D): ...and although the terms of that deal worked well for him. I found them less than favorable...
-KOENIG: Darktown. Chavez Ravine. Hot Spots for Human Vice. These are slums I run & profit from. If these slums suddenly become Stadiums, that profit goes elsewhere...that crime goes elsewhere.
-ME: Bradley...you two got greed in common.
+ME: I didn't. I had a feeling. I smelled cover-up all over Hector's disappearance and Wilhite wouldn't have the muscle or the mind-set to kingpin something that big by himself.you knew about Bradley trying to buy him out?
+KOENIG: He was offering to exonerate Hector and clear his criminal record. Hector met with Wilhite and I to inform us of his decision.
+KOENIG: Darktown. Chavez Ravine. Hot Spots for Human Vice. These are slums I run & profit from. If these slums suddenly become Stadiums, that profit goes elsewhere.that crime goes elsewhere.
+ME: Bradley.you two got greed in
 ME: You knew about Wilhite and Lucille. That's how you were operating him.
-KOENIG: I was aware of his sexual predilections.
-ME: (a scowl for Junior) ...and someone else's...
-KOENIG: (that great white grin ) We share an eye for human frailty and we're both born blackmailers Dave. (beat) I knew young Stemmons here had a fondness for Lads, stretching back to his days at the academy.
-ME: And now you're his only ally. (back at Junior) This sad queer who fell out with cops and flunked out with the Feds. (back to Koenig) So you get this file to battle Bradley with. What's Junior get in return?
-JUNIOR STEMMONS (CONT'D): (two inches from my face)
-KOENIG: (turning his back) I don't want to watch...I'm sorry it came to this, Dave.
-JUNIOR STEMMONS: I hope the Bledsoe whore was worth it...'cuz she's still fucked. For a crooked cop, you think small.
-ME (V.O.): Whatever moves I had left...I just made.
+KOENIG: I was aware of his sexual .and someone else's.
+ME: ( a scowl for Junior ) .and someone else's.
+KOENIG: ( that great white grin ) We share an eye for human frailty and we're both born blackmailers ( beat ) I knew young Stemmons here had a fondness for Lads, stretching back to his days at the academy.
+ME: And now you're his only ally. This sad queer who fell out with cops and flunked out with the Feds. So you get this file to battle Bradley with. What's Junior get in
+JUNIOR STEMMONS: JUST YOU! YOU FUCK!
+KOENIG: ( turning his back ) I don't want to watch.I'm sorry it came to this, Dave.
+JUNIOR STEMMONS: I hope the Bledsoe whore was worth it.'cuz she's still fucked. For a crooked cop, you think small.
 KOENIG: This isn't it!
-KOENIG: Poorly played Dave...poorly played...
+KOENIG: Poorly played Dave.poorly
 KOENIG: Could I talk you into something? Cut you in on something?
 ME: Won't work for me Fritz.
 KOENIG: Give me a minute then?
-KOENIG: (with a nod) Okay...
-BRADLEY: Who?
+KOENIG: ( with a nod )
+BRADLEY: Fritz Koenig.
 ME: Fritz Koenig.
-BRADLEY: (going pale) Where?
-ME: Dead. Along with Wilhite, Junior...and Hector Magdalena.
+BRADLEY: ( going pale ) Dead. Along with Wilhite, Junior.and Hector Magdalena.
+ME: Dead. Along with Wilhite, Junior.and Hector Magdalena.
 BRADLEY: Why are you here?
 ME: To collect. I have the things you need to destroy Noonan's play. These same things can be used to destroy you.
 BRADLEY: Things like?
-ME: Stemmons files...and Wilhite's body. He committed suicide after you subpoenaed him.
+ME: Stemmons files.and Wilhite's body. He committed suicide after you subpoenaed him.
 BRADLEY: This body is in your possession?
-ME: And it's what you need to burn Narco to the ground...but if those files and his body were to be given to Noonan and the Feds, with me providing the cherry-on-top testimony of a rogue cop. Well. The word `Cataclysmic' comes to mind.
+ME: And it's what you need to burn Narco to the ground.but if those files and his body were to be given to Noonan and the Feds, with me providing the cherry-on-top testimony of a rogue cop. Well. The word `Cataclysmic' comes to mind.
 BRADLEY: What will this cost?
-ME: A percentage of your Dodger Stadium stake in perpetuity. You buy my silence for a fourth of Hurwitz Holdings.
-BRADLEY: Doubtful.
-ME: What'd you expect? A stick-up? Empty your safe? I'm about to disappear for good, and you're gonna fund my new life. You can't counter-punch out of this. Arrest me and I snitch the world. (point to the file) I'll hold that over your head for the rest of your life. Renege on our deal and it won't matter if it's tomorrow or ten years from now...I'll fry you with that file. (at my cracked Hamilton) I'm officially outta time now Chief. Call it.
-BRADLEY: Wilhite's body...Bury it.
-ME (V.O.): Shaking to see her, touch her...
+ME: A percentage of your Dodger Stadium stake in perpetuity. You buy my silence for a fourth of Hurwitz
+BRADLEY: What'd you expect? A stick-up? Empty your safe? I'm about to disappear for good, and you're gonna fund my new life. You can't counter-punch out of this. Arrest me and I snitch the world. I'll hold that over your head for the rest of your life. Renege on our deal and it won't matter if it's tomorrow or ten years from now.I'll fry you with that file. I'm officially outta time now Chief. Call it.
+ME: What'd you expect? A stick-up? Empty your safe? I'm about to disappear for good, and you're gonna fund my new life. You can't counter-punch out of this. Arrest me and I snitch the world. I'll hold that over your head for the rest of your life. Renege on our deal and it won't matter if it's tomorrow or ten years from now.I'll fry you with that file. I'm officially outta time now Chief. Call it.
+BRADLEY: Wilhite's body.Bury it.
 ME: You go to bed drunk, or just been up all night.
 KLEIN: Where's Glenda, is she asle-
-ME (V.O.): Seen Pete do this a dozen times and every time the same thought: God help me if he ever hits me like that...
-ME (CONT'D): Don't kill me.
-MILTEER: The harder you hit him the quicker I say `stop' -- and cease that absurd crying.
-GLENDA BLEDSOE: (at Milteer)
+MILTEER: The harder you hit him the quicker I say `stop' and cease that absurd crying.
+GLENDA BLEDSOE: ( at Milteer )
 MILTEER: -touch me and he dies.
-MILTEER (CONT'D): Kick him-kick him-kick him.
-MILTEER (CONT'D): (prim, official) -you may stop. (beat, for the room) Howard determined that this was the price for your time together.
 MILTEER: You still have a job.
-PETE: ...I'm sorry Dave...
-ME: I put you here...that Powerhawk-
+PETE: .I'm sorry Dave.
+ME: I put you here.that Powerhawk-
 PETE: -there's a body in the trunk-
 ME: -burn it.
-PETE: I'm so sorry....
+PETE: I'm so sorry..
 GLENDA: Let me take you to a hospital.
 ME: We'd never make it inside.
-GLENDA: (big beat) I'm worried.
+GLENDA: ( big beat ) I'm worried.
 ME: I'm through the worst of it.
 GLENDA: I don't believe you.
-GLENDA (CONT'D): (at a whisper) Was I worth this?
 ME: Whatever the cost.
 GLENDA: Just like that then?
-ME: Just like that.
-ME (V.O.): My deadline with Noonan: two days old. He and Bradley playing chess by press release.
-(MORE): ME (V.O.) (cont'd) Bradley relocates the deaths of Captain Fritz Koenig and Sergeant Richard Stemmons to Chavez Ravine...both given posthumous Medals of Valor. Junior dies a hero after all.
-ME (V.O.): Cop-killings clear the way for Bradley's "Redeem The Ravine' mandate. Dodger Stadium construction moves forward. (beat) Captain Dan Wilhite and Hector Magdalena. Missing. APB's issued. Bradley's press fodder cast them as `outlaw cop and drug dealer' who most likely fled to Mexico. Narco under a full-blown, Bradley-led investigation.
-BRADLEY (ON SCREEN): ...police unit run amok, who's long tradition of graft, does not extend to other divisions of the LAPD...
-ME (V.O.): I haven't loved you long enough to leave it all behind...Too many enemies. Too many ways for you to get hurt. Too close to me...a decision that will haunt me the rest of my days...
-ME (V.O.) (CONT'D): "My Heaven: the hours I had with you. My Hell: the years ahead, without. Someday I'll see you before you even know I'm looking."
-PETE: ...be nice to be in with a billionaire who's got a fleet of planes, fly you outta the country on short notice...
-ME (V.O.): Pete's penance beating built me a brand new face...nobody gives me a second glance...not even the cops I recognize.
-ME (V.O.): My will to remember. My confession complete. Still not enough. (beat) Post-scripts.
-(MORE): ME (V.O.) (cont'd) Me: gringo exile rich off funds from Stadium Parking lots. Meg and Pete: still married. Three boys. Boyce Bradley: Lt. Governor, then a Gubernatorial primary loser to some chump who acted in Chimp movies. Welles Noonan, convicted of jury tampering in `64. Prison suicide in `66. Howard Hughes: a shut-in shitting in coffee-cans at the Vegas Hilton. (beat) George Ainge: body found, murder unsolved. Madge Magdalena, liver failure in `68. Lucille Magdalena: Mother of five.
-ME (V.O.) (CONT'D): Glenda: twenty-five years avoiding her name. Only a photograph, yellowed with years-passed, reminding me of everything I never was. (beat) Then a week-old Times at the place I buy coffee. Her picture sees me before I realize she's looking. Her Face eternal-beautiful...
-ME (V.O.): ...and it asked me to revoke our time apart, redeem it...tell her anything...tell her everything...
+ME: Just like that. `LAPD Officer Wanted in Connection with Recent Rash of Murders.U.S. Attorney Welles Noonan issued a nationwide warning to law enforcement.'
+PETE: .be nice to be in with a billionaire who's got a fleet of planes, fly you outta the country on short notice.
+WHITE JAZZ: Writers : Joe Carnahan Matthew Michael Carnahan

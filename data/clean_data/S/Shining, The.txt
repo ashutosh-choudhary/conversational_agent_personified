@@ -1,790 +1,803 @@
 "THE SHINING.": Post Production Script.
-JACK: Hi, I've got an appointment with Mr. Ullman.  My name is Jack Torrance.
-RECEPTIONIST: His office is the first door on the left.
+JAN HARLAN: PRODUCED AND DIRECTED BY:
+STANLEY KUBRICK: July, 1980
+"THE SHINING.": EXT. COLORADO MOUNTAIN ( U.S.A. ) - DAY - L.S. Lake and Mountains. CAMERA TRACKS FORWARD past island in EXT. ROAD - DAY - L.S. High Angle V.W. Car moving along road - CAMERA TILTS UP with EXT. COLORADO MOUNTAINS & ROAD - DAY - L.S. Mountains and Road - V.W. Car moves away along road - CAMERA TRACKS after it.
+JACK: Hi, I've got an appointment with Mr. Ullman. My name is Jack Torrance.
+RECEPTIONIST: His office is the first door on the Thank you.
 JACK: Thank you.
 JACK: Mr. Ullman?
-ULLMAN: Yes?
+ULLMAN: I'm Jack Torrance.
 JACK: I'm Jack Torrance.
 ULLMAN: Oh, well - come on in Jack.
 ULLMAN: Very nice to meet you.
 JACK: Nice to meet you, Mr. Ullman.
 ULLMAN: This is my secretary, Susie.
-SECRETARY: Hallo.
+SECRETARY: Susie, how do you do?
 JACK: Susie, how do you do?
 ULLMAN: Have any trouble finding us?
-JACK: Oh, no problem at all.  I made the trip in three and a half hours.
-ULLMAN: Well, that's very good time, very good.  Please sit down a minute.
+JACK: Oh, no problem at all. I made the trip in three and a half hours.
+ULLMAN: Well, that's very good time, very good. Please sit down a minute.
 ULLMAN: JAck, just make yourself at home. Would you like some coffee?
-JACK: Well, if you are going to have some, I wouldn't mind.  Thanks.
-ULLMAN: Susie.
-SECRETARY: Sure.
+JACK: Well, if you are going to have some, I wouldn't mind. Thanks.
+ULLMAN: Oh, and would you ask Bill Watson to join us?
+SECRETARY: Oh, and would you ask Bill Watson to join us?
 ULLMAN: Oh, and would you ask Bill Watson to join us?
 SECRETARY: Yes, I will.
-DANNY: Mom...
-WENDY: Yeah.
+DANNY: Do you really want to go and live in that hotel for the winter?
+WENDY: Do you really want to go and live in that hotel for the winter?
 DANNY: Do you really want to go and live in that hotel for the winter?
 WENDY: Sure, Danny, it will be lots of fun.
-DANNY: Yeah, I guess so.  Anyway, there's hardly anybody to play with around here.
-WENDY: Yeah, I know.  It always takes a little time to make new friends.
+DANNY: Yeah, I guess so. Anyway, there's hardly anybody to play with around Yeah, I know. It always takes a little time to make new friends.
+WENDY: Yeah, I know. It always takes a little time to make new friends.
 DANNY: Yeah, I guess so.
-WENDY: What about Tony?  He's looking forward to the hotel, I bet.
+M.S. WENDY: What about Tony? He's looking forward to the hotel, I bet.
+WENDY: What about Tony? He's looking forward to the hotel, I bet.
 TONY: NO, I ain't Mrs. Torrance.
-WENDY: Oh come on, Tony.  Don't be silly.
-TONY: I don't want to go there, Mrs. Torrance.
+M.S. WENDY: Oh come on, Tony. Don't be silly.
+WENDY: Oh come on, Tony. Don't be silly.
+TONY: I don't want to go there, Mrs. Well, how come you don't want to go?
+M.S. WENDY: Well, how come you don't want to go?
 WENDY: Well, how come you don't want to go?
 TONY: I just don't.
-WENDY: Well, let's just wait and see. We're all gonna have a real good time.
-ULLMAN: Bill, I'd like you to meet Jack Torrance.
+WENDY: Well, let's just wait and see. We're all gonna have a real good
+ULLMAN: Bill, I'd like you to meet Jack How do you do?
 WATSON: How do you do?
 JACK: Bill, how do you do?
 WATSON: Pleased to meet you.
 JACK: Pleasure to meet you.
 ULLMAN: Grab a chair Bill, and join in.
-ULLMAN: Jack is going to take care of the Overlook for this winter.  I would like you to take him around the place as soon as we are through.
-WATSON: Fine.
+ULLMAN: Jack is going to take care of the Overlook for this winter. I would like you to take him around the place as soon as we are through.
+WATSON: Jack is a schoolteacher.
 ULLMAN: Jack is a schoolteacher.
 JACK: Eh - formerly a school-teacher.
-WATSON (OFF): What line of work are you in now?
-JACK: I'm a writer um... Teaching has been more or less a way of making ends meet.
+JACK: I'm a writer um. Teaching has been more or less a way of making ends meet.
 WATSON: Well this ought to be quite a change for you.
+M.C.S. JACK: Well, I'm looking for a change.
 JACK: Well, I'm looking for a change.
-ULLMAN (OFF): Our people in Denver recommended Jack very highly, and, for once, I agree with them.
-ULLMAN: Let's see, where were we?  Yes.  I was about to explain that eh... our season here runs from oh May 15th to October 30th and then we close down completely until the following May.
-JACK: Do you mind if I ask why you do that?  It seems to me that the skiing up here would be fantastic.
-ULLMAN (OFF): Oh, it sure would be
-ULLMAN (CONT'D): but the problem is the enormous cost it would be to keep the road to the Sidewinder open.  It's a... It's a 25 mile stretch of road - gets an average of 20 feet of snow during the winter, and there's just no way to make it economically feasible to keep it clear.  When the place was built in 1907, there was very little interest in winter sports, and this site was chosen for its seclusion and scenic beauty.
-JACK: Well, it's certainly got plenty of that.
-ULLMAN: That's right.  And did they give you any idea in Denver about what the job entails?
+M.S. ULLMAN: Let's see, where were we? Yes. I was about to explain that eh. our season here runs from oh May 15th to October 30th and then we close down completely until the following Do you mind if I ask why you do that? It seems to me that the skiing up here would be fantastic.
+ULLMAN: Let's see, where were we? Yes. I was about to explain that eh. our season here runs from oh May 15th to October 30th and then we close down completely until the following Do you mind if I ask why you do that? It seems to me that the skiing up here would be fantastic.
+M.C.S. JACK: Do you mind if I ask why you do that? It seems to me that the skiing up here would be fantastic.
+JACK: Do you mind if I ask why you do that? It seems to me that the skiing up here would be fantastic.
+M.S. ULLMAN: ULLMAN ( CONT'D )
+JACK: Well, it's certainly got plenty of
+ULLMAN: That's right. And did they give you any idea in Denver about what the job entails?
 JACK: Only in a very general way.
-ULLMAN: Well...
-ULLMAN (CONT'D): ...the winters can be fantastically cruel, and the basic idea is to...to cope with the very costly damage and depreciation which can occur.  And this consists mainly of running the boiler, heating different parts of the hotel on a daily rotating basis, repairing damage as it occurs and doing repairs, so that the elements can't get a foothold.
+ULLMAN: CUT TO:
+M.S. ULLMAN: ULLMAN ( CONT'D )
+M.C.S. JACK: Well, that sounds fine to me.
 JACK: Well, that sounds fine to me.
-ULLMAN: Physically, it's not a very demanding job.  The only thing that can get a bit trying up here during the winter is eh... the tremendous sense of isolation.
-JACK: Well, that just happens to be exactly what I'm looking for.  I'm eh... I'm outlining a new writing project, and eh...
-JACK (CONT'D): five months of peace is just what I want.
-ULLMAN: That's very good Jack, because eh... for some people eh solitude and isolation...
-ULLMAN (OFF) (CONT'D): can of itself be a problem.
+M.S. ULLMAN: Physically, it's not a very demanding job. The only thing that can get a bit trying up here during the winter is eh. the tremendous sense of isolation.
+ULLMAN: Physically, it's not a very demanding job. The only thing that can get a bit trying up here during the winter is eh. the tremendous sense of isolation.
+M.C.S. JACK: Well, that just happens to be exactly what I'm looking for. I'm eh. I'm outlining a new writing project, and eh.
+JACK: Well, that just happens to be exactly what I'm looking for. I'm eh. I'm outlining a new writing project, and eh.
+M.S. ULLMAN: That's very good Jack, because eh. for some people eh solitude and can of itself be a problem.
+ULLMAN: That's very good Jack, because eh. for some people eh solitude and can of itself be a problem.
 JACK: Not for me.
-ULLMAN: How about your wife and son?  How do you think they'll take to it?
+ULLMAN: How about your wife and son? How do you think they'll take to it?
 JACK: They'll love it.
-ULLMAN (OFF): Great...
-ULLMAN: Well, before I turn you over to Bill, there is one other thing I think we should talk about.  I don't want to sound melodramatic, but it is something that's...
-ULLMAN (CONT'D): been known to give a few people second thoughts about the job.
+M.S. ULLMAN: Well, before I turn you over to Bill, there is one other thing I think we should talk about. I don't want to sound melodramatic, but it is something that's.
+ULLMAN: Well, before I turn you over to Bill, there is one other thing I think we should talk about. I don't want to sound melodramatic, but it is something that's.
+M.C.S. JACK: I'm intrigued.
 JACK: I'm intrigued.
 ULLMAN: I don't suppose they eh told you anything in Denver about the tragedy we had up here during the winter of 1970?
 JACK: I don't believe they did.
-ULLMAN (OFF): Well, my predecessor in this job
-ULLMAN (CONT'D): hired a man named Charles Grady, as the winter caretaker.  He came up here with his wife and two little girls of about eight or ten.  And he had a good employment record, good references and from what I've been told, I mean, he seemed like a completely normal individual.  But at some point during the winter, he must have suffered some kind of a complete mental breakdown.
-ULLMAN (CONT'D): He ran amok and eh... killed his family with an axe,
-ULLMAN (OFF) (CONT'D): stacked them neatly in one of the rooms in the West Wing, and then he um... then he put eh both barrels of his shotgun in his mouth.
-ULLMAN (CONT'D): The police eh... they thought that it was what the old-timers used to call cabin-fever, a kind of claustrophobic reaction which can occur when people are
-ULLMAN (OFF) (CONT'D): shut in together over long periods of time.
+M.C.S. JACK: ULLMAN ( OFF ) ( CONT'D )
+M.C.S. JACK: ULLMAN ( OFF ) ( CONT'D )
 JACK: Well, that is eh quite a story.
-ULLMAN: Yes, it is.  Oh, it's still hard for me to believe that it actually happened here, but it did and eh... I think you can appreciate why I wanted to tell you about it.
-JACK: Ah, I certainly can, and eh... I also understand why your people in Denver left it for you to tell me.
+ULLMAN: Yes, it is. Oh, it's still hard for me to believe that it actually happened here, but it did and eh. I think you can appreciate why I wanted to tell you about it.
+JACK: Ah, I certainly can, and eh. I also understand why your people in Denver left it for you to tell me.
 ULLMAN: Well, obviously some people can be
-ULLMAN (OFF) (CONT'D): put off by the idea of staying alone in a place where something like that actually happened.
-JACK: Well, you can rest assured Mr. Ullman, that's not going to happen with me, and eg as far as my wife is concerned, I am sure she'll be absolutely fascinated when I tell her about it.  She's a confirmed ghost story and horror film addict.
+JACK: Well, you can rest assured Mr. Ullman, that's not going to happen with me, and eg as far as my wife is concerned, I am sure she'll be absolutely fascinated when I tell her about it. She's a confirmed ghost story and horror film addict.
 DANNY: Tony, do you think Daddy will get the job?
-TONY (OFF): Yeah, he did.  He's gonna phone Wendy up in a few minutes to tell her.
-WENDY: (into phone) Hello.
-JACK: (into phone) Hi, babe.
-WENDY: (over phone) Hi, hon.  How's it going?
-JACK: (into phone) Great.  Look, I'm at the hotel and I still have an awful lot to go through.  I don't think I can get home before nine or ten.
-WENDY: (into phone) Sounds like you got the job?
-JACK: (into phone) Right it's a beautiful place.  You and Danny are gonna love it.
+WENDY: ( into phone ) ( into phone ) Hi, babe.
+JACK: ( into phone ) Hi, babe.
+WENDY: ( over phone ) Hi, hon. How's it going?
+JACK: ( into phone ) Great. Look, I'm at the hotel and I still have an awful lot to go through. I don't think I can get home before nine or ten.
+WENDY: ( into phone ) Sounds like you got the job?
+JACK: ( into phone ) Right it's a beautiful place. You and Danny are gonna love it.
 DANNY: Tony, why don't you want to go to the hotel?
-TONY (OFF): I don't know.
 DANNY: You do too know, now come on tell me.
-TONY (OFF): I don't want to.
-DANNY: Please...
-TONY (OFF): No.
+DANNY: DANNY wiggles forefinger.
 DANNY: Now Tony, tell me.
-DOCTOR (OFF): Now hold your eyes still so that I can see.
 DOCTOR: That's good, now the other one. Good boy.
 DOCTOR: Now Danny, when you were brushing your teeth, do you remember if you smelled anything funny, or saw any bright flashing lights, or anything at all strange?
-DANNY: No.
-DOCTOR (OFF): Do you remember when you were brushing your teeth?
-DANNY: Yes.
+DANNY: DOCTOR ( OFF )
+DANNY: CUT TO:
 DOCTOR: What's the next thing you remember after you were brushing your teeth?
 DANNY: Mommy saying, 'Wake up, wake up, wake up Danny, wake up.'
 DOCTOR: Now Danny, can you remember what you were doing just before you started brushing your teeth?
+M.C.S. DANNY: Talking to Tony.
 DANNY: Talking to Tony.
+M.C.S. DOCTOR: Is Tony one of your animals?
 DOCTOR: Is Tony one of your animals?
-DANNY: No.  It's the little boy that lives in my mouth.
+M.C.S. DANNY: No. It's the little boy that lives in my mouth.
+DANNY: No. It's the little boy that lives in my mouth.
+M.C.S. WENDY: Tony is his imaginary friend.
 WENDY: Tony is his imaginary friend.
-DOCTOR (OFF): Oh,
-DOCTOR (CONT'D): if you were to open your mouth now, could I see Tony?
-DANNY: No.
+M.C.S. DOCTOR: DOCTOR ( CONT'D )
+M.C.S. DANNY: CUT TO:
+DANNY: CUT TO:
+M.C.S. DOCTOR: Why not?
 DOCTOR: Why not?
+M.C.S. DANNY: Because he hides.
 DANNY: Because he hides.
+M.C.S. DOCTOR: Where does he go?
 DOCTOR: Where does he go?
+M.C.S. DANNY: To my stomach.
 DANNY: To my stomach.
+M.C.S. DOCTOR: Does Tony ever tell you to do things?
 DOCTOR: Does Tony ever tell you to do things?
-DANNY: I don't want to talk about Tony anymore.
-DOCTOR: Okay.  That's fine.  All right Danny.
-DOCTOR: Now I'm going to ask you to do me a favor, and stay quietly in bed for the rest of the day.  Okay?
+M.C.S. DANNY: I don't want to talk about Tony
+DANNY: I don't want to talk about Tony
+DOCTOR: Okay. That's fine. All right Danny.
+DOCTOR: Now I'm going to ask you to do me a favor, and stay quietly in bed for the rest of the day. Okay?
 DANNY: Do I have to?
 DOCTOR: Yes, I'd like you to.
 WENDY: We're just going to go into one of the other rooms for a few minutes and talk - then I'll come back and check on you, okay?
-DANNY: Okay.
-DOCTOR: Goodbye.
+DANNY: WENDY & DOCTOR move R-L to open door. DOCTOR goes into the INT. CORRIDOR/LIVING ROOM - DAY - M.S. DOCTOR standing in corridor. WENDY moves out of DANNY's room and closes the door. She turns to DOCTOR.
+DOCTOR: WENDY & DOCTOR move R-L to open door. DOCTOR goes into the INT. CORRIDOR/LIVING ROOM - DAY - M.S. DOCTOR standing in corridor. WENDY moves out of DANNY's room and closes the door. She turns to DOCTOR.
 WENDY: Shall we go into the living room?
-DOCTOR: Yes.
-WENDY: Please...
-DOCTOR: Thank you.
-DOCTOR: Mrs. Torrance, I don't think you have anything to worry about.  I'm quite sure there is nothing physically wrong with Danny.
-WENDY: Oh, yeah.  Oh, yeah, he seems absolutely fine now, but you should have seen him.
-DOCTOR: Oh I know.  Kids can scare you to death, but believe me these episodes are not at all uncommon, and they look much worse than they are.
+DOCTOR: DOCTOR & WENDY walk forward along the corridor - CAMERA TRACKS BACK before them and PANS R-L with them to Living Room. WENDY points to sofa.
+WENDY: Thank you. Mrs. Torrance, I don't think you have anything to worry about. I'm quite sure there is nothing physically wrong with Danny.
+DOCTOR: Thank you. Mrs. Torrance, I don't think you have anything to worry about. I'm quite sure there is nothing physically wrong with Danny.
+DOCTOR: Mrs. Torrance, I don't think you have anything to worry about. I'm quite sure there is nothing physically wrong with Danny.
+WENDY: Oh, yeah. Oh, yeah, he seems absolutely fine now, but you should have seen him.
+DOCTOR: Oh I know. Kids can scare you to death, but believe me these episodes are not at all uncommon, and they look much worse than they are.
 WENDY: But eh what was the matter with him?
-DOCTOR: Mrs. Torrance, most of the time these episodes with kids are never explained.  They are brought on by emotional factors, and they rarely occur again.
-DOCTOR: They're more akin to auto-hypnosis, a kind of self induced trance.  If it re-occurs which I doubt
-DOCTOR (OFF) (CONT'D): you can always think about having some tests done.
-DOCTOR (OFF): No thank you.
-WENDY: Oh, I'm...I'm sure you're right.
-DOCTOR: Have you been in Boulder long, Mrs. Torrance?
-WENDY: Only about three months.  Eh we're from Vermont.  My husband was teaching school there.
-DOCTOR: Did the appearance of Danny's imaginary friend...?
-WENDY: Tony.
+DOCTOR: Mrs. Torrance, most of the time these episodes with kids are never explained. They are brought on by emotional factors, and they rarely occur again.
+DOCTOR: They're more akin to auto-hypnosis, a kind of self induced trance. If it re-occurs which I doubt
+WENDY: Oh, I'm.I'm sure you're right.
+DOCTOR: Have you been in Boulder long, Mrs. Only about three months. Eh we're from Vermont. My husband was teaching school there.
+WENDY: Only about three months. Eh we're from Vermont. My husband was teaching school there.
+M.S. DOCTOR: Did the appearance of Danny's imaginary friend.?
+DOCTOR: Did the appearance of Danny's imaginary friend.?
+WENDY: Did Tony's first appearance happen to coincide with your arrival here?
 DOCTOR: Did Tony's first appearance happen to coincide with your arrival here?
+M.C.S. WENDY: No, um let's see I guess Danny started talkin to Tony about the time we put him into nursery school.
 WENDY: No, um let's see I guess Danny started talkin to Tony about the time we put him into nursery school.
 DOCTOR: Did he adjust well to school?
-WENDY: No.  He didn't like it too much at first, and then he had an injury, so we kept him out for a while, and, yeah, I...I guess that's about the time when I first noticed that he was talking to Tony.
+WENDY: No. He didn't like it too much at first, and then he had an injury, so we kept him out for a while, and, yeah, I.I guess that's about the time when I first noticed that he was talking to Tony.
 DOCTOR: What sort of injury did he have?
+M.C.S. WENDY: Ah he dislocated his shoulder.
 WENDY: Ah he dislocated his shoulder.
-DOCTOR (OFF): How did he manage to do that?
-WENDY: Well it's just one of those things. You know... purely an accident, um. My husband had oh... been drinking, and he came home about three hours late, so he wasn't exactly in the greatest mood that night.  And well Danny had scattered some of his school papers all over the room... and my husband grabbed his arm, you know, and pulled him away from them. It's...it's just the sort of thing you do a hundred times with a child - you know, in a park or on the streets - but on this particular occasion my husband just... used too much strength and he injured Danny's arm.
-WENDY (OFF) (CONT'D): Anyway, something good did come out of it all because he said:
-WENDY (CONT'D): "Wendy, I'm never gonna touch another drop and if I do you can leave me", and he didn't and he hasn't had any alcohol in eh five months.
+WENDY: Well it's just one of those things. You know. purely an accident, um. My husband had oh. been drinking, and he came home about three hours late, so he wasn't exactly in the greatest mood that night. And well Danny had scattered some of his school papers all over the room. and my husband grabbed his arm, you know, and pulled him away from them. It's.it's just the sort of thing you do a hundred times with a child - you know, in a park or on the streets - but on this particular occasion my husband just. used too much strength and he injured Danny's arm.
+M.S. DOCTOR: WENDY ( OFF ) ( CONT'D )
+M.C.S. WENDY: WENDY ( CONT'D )
 WENDY: Boy, we must be really high up. The air feels so different.
-JACK: Uh...huh.
-DANNY: Dad?
-JACK: Yes?
+JACK: I'm hungry.
 DANNY: I'm hungry.
-JACK: Well you should have eaten your breakfast.
+JACK: I'm hungry.
+DANNY: I'm hungry.
+JACK: Well you should have eaten your We'll get something as soon as we get to the hotel, okay?
 WENDY: We'll get something as soon as we get to the hotel, okay?
 DANNY: Okay, Mom.
 WENDY: Hey, wasn't it around here that the Donner party got snowbound?
 JACK: I think that was farther west in the Sierras.
 DANNY: What was the Donner party?
-JACK: There were a party of settlers in the covered wagon times.  They got snowbound one winter in the mountains.  They had to resort to cannabilism in order to stay alive.
+JACK: There were a party of settlers in the covered wagon times. They got snowbound one winter in the mountains. They had to resort to cannabilism in order to stay alive.
 DANNY: You mean they ate each other up?
 JACK: They had to, in order to survive.
-WENDY: Jack...
-DANNY: Don't worry, Mom.  I know all about cannabilism, I saw it on T.V.
-JACK: See, it's okay.  He saw it all on the television.
+WENDY: Don't worry, Mom. I know all about cannabilism, I saw it on T.V.
+DANNY: Don't worry, Mom. I know all about cannabilism, I saw it on T.V.
+JACK: See, it's okay. He saw it all on the television.
 ULLMAN: What time does the plane leave?
 WATSON: Eight thirty.
 ULLMAN: Well, that still gives up plenty of time to go over everything first.
 GIRLS: Goodbye Mr. Ullman.
-ULLMAN: Goodbye.
-ULLMAN: Good morning Jack.  I hope you haven't been waiting too long.
-JACK: No problem.  In fact we had time to grab a bite to eat.
-ULLMAN: Good.  Glad you made it before they shut down the kitchen.  Is your family having a look around?
-JACK: No, my son's discovered the games room.
-ULLMAN: Oh... Has your luggage been brought in?
+ULLMAN: ULLMAN & WATSON walk L-R to JACK sitting in chair.
+ULLMAN: Good morning Jack. I hope you haven't been waiting too long.
+JACK: No problem. In fact we had time to grab a bite to eat.
+ULLMAN: Good. Glad you made it before they shut down the kitchen. Is your family having a look around?
+JACK: No, my son's discovered the games Oh. Has your luggage been brought
+ULLMAN: Oh. Has your luggage been brought
 JACK: Right there.
-ULLMAN: Oh fine.  Well in view of all the ground that we to cover today, I suggest we go and have a quick look at your apartment and then get started straight away.
+ULLMAN: Oh fine. Well in view of all the ground that we to cover today, I suggest we go and have a quick look at your apartment and then get started straight away.
 ULLMAN: Bill, would you have the Torrances' things brought in their apartment.
-WATSON: Fine.
+WATSON: WATSON walks out cam.L.
 JACK: I'd better collect my family first.
-ULLMAN: Oh...
+ULLMAN: ULLMAN laughs and they move out cam.L.
 ULLMAN: This is our Colorado Lounge.
-WENDY: Oh, it's beautiful. (to Jack) My God, this place is fantastic, isn't it hon?
+WENDY: Oh, it's beautiful. My God, this place is fantastic, isn't it hon?
 JACK: Sure is.
-WENDY: God, I've never seen anything like this before.  Are all of these Indian designs authentic?
+WENDY: God, I've never seen anything like this before. Are all of these Indian designs authentic?
 ULLMAN: Yes, I believe they are based mainly on Navajo and Apache motifs.
-WENDY: Oh well they're really gorgeous. As a matter of fact this is probably the most gorgeous hotel I've ever seen.
-ULLMAN: Oh this old place has had an illustrious past.  In its heyday it was one of the stopping places for the jet set,
-ULLMAN (CONT'D): even before anybody knew what a jet set was.  We've had four presidents who stayed here, lots of movie stars.
-WENDY: Royalty?
+WENDY: Oh well they're really gorgeous. As a matter of fact this is probably the most gorgeous hotel I've ever
+ULLMAN: Oh this old place has had an illustrious past. In its heyday it was one of the stopping places for the jet set,
+WENDY: All the best people.
 ULLMAN: All the best people.
 ULLMAN: This is the staff wing of the hotel. None of the other bedrooms are heated during the winter.
-WENDY: Oh!
+WENDY: Two Girls carrying bags enter from cam.L.
 GIRLS: Goodbye Mr. Ullman.
 ULLMAN: Goodbye girls.
 ULLMAN: And here are your quarters.
 ULLMAN: Living Room, bedroom, bathroom, and a small bedroom for your son.
 JACK: Perfect for a child.
-WENDY: Yeah.
-ULLMAN: Yes.
-ULLMAN (OFF): Well the place is very nicely self- contained, easy to keep.
-JACK: Cosy.
-ULLMAN (OFF): Yes, very cosy for a family, and if you feel like spreading out you have the rest of the hotel to move around in.
-JACK: Well, it's very... homely.
-WENDY: Yeah.
-ULLMAN: This is our famous hedge maze. It's quite an attraction around here.  The walls are thirteen feet high and the hedges are about as old as the hotel itself.  It's a lot of fun,
-ULLMAN (CONT'D): but I wouldn't go in there unless I had an hour to spare to find my way out.
+WENDY: They move into apartment. JACK & WENDY move away through living room into bedroom - CAMERA TRACKS FORWARD after them.
+ULLMAN: They move into apartment. JACK & WENDY move away through living room into bedroom - CAMERA TRACKS FORWARD after them.
+JACK: JACK & WENDY move away and enter bathroom - CAMERA TRACKS after them.
+JACK: Well, it's very. homely.
+WENDY: DISSOLVE TO:
+ULLMAN: This is our famous hedge maze. It's quite an attraction around here. The walls are thirteen feet high and the hedges are about as old as the hotel itself. It's a lot of fun,
 WENDY: When was the Overlook built?
-ULLMAN: Ah... construction started in 1907. It was finished in 1909.  The site is supposed to be located on an Indian burial ground, and I believe they actually had to repel a few Indian attacks as they were building it.
-ULLMAN: That's our Snowcat.  Can you both drive a car?
-JACK & WENDY: (together) Yes.
+ULLMAN: Ah. construction started in 1907. It was finished in 1909. The site is supposed to be located on an Indian burial ground, and I believe they actually had to repel a few Indian attacks as they were building
+ULLMAN: That's our Snowcat. Can you both drive a car?
 ULLMAN: That's fine because basically the Snowcat operates very much like a car and it won't take you long to get the hang of it.
-ULLMAN: As a matter of fact we eh... brought a decorator in from Chicago just last year to refurbish this part of the hotel.
+ULLMAN: As a matter of fact we eh. brought a decorator in from Chicago just last year to refurbish this part of the hotel.
 WENDY: Oh well he sure did a beautiful job. Pink and gold are my favorite colors.
-ULLMAN: Oh...well this is our gold ballroom.
+ULLMAN: Oh.well this is our gold ballroom.
 WENDY: Oh, I'll say.
 ULLMAN: We can accommodate up to three hundred people here very comfortably.
 WENDY: Boy, I bet you we could really have a good party in this room, huh hon?
-ULLMAN: I'm afraid you're not going to do too well here unless you've brought your own supplies.  We always remove all the booze from the premises when we shut down:
+ULLMAN: I'm afraid you're not going to do too well here unless you've brought your own supplies. We always remove all the booze from the premises when we shut down:
 ULLMAN: that reduces the insurance that we normally have to carry.
 JACK: We don't drink.
 ULLMAN: Well then, you're in luck.
 ULLMAN: Oh Dick, come on over and say hello to Mr. and Mrs. Torrance.
-HALLORAN: Sure.
+HALLORAN: This is Dick Halloran, our Head Chef.
 ULLMAN: This is Dick Halloran, our Head Chef.
 JACK: Mr. Halloran, I'm Jack, and this is my wife, Winifred.
 HALLORAN: Glad to meet you, Jack.
 HALLORAN: Glad to meet you, Winifred.
 WENDY: Nice to meet you.
-ULLMAN: The Torrances are going to take care of the Overlook for us this winter.
-HALLORAN: Oh, that's just great.  How do you folks like our hotel so far?
+ULLMAN: The Torrances are going to take care of the Overlook for us this Oh, that's just great. How do you folks like our hotel so far?
+HALLORAN: Oh, that's just great. How do you folks like our hotel so far?
 WENDY: Oh it's just wonderful.
 WENDY: Hi Danny!
 SUSIE: I found him outside looking for you.
-JACK: Danny, did you get tired
-(IN SHOT): of bombing the universe?
-DANNY: Yeah.
+JACK: ( OFF ) Danny, did you get tired
+DANNY: Danny, come on over here.
 WENDY: Danny, come on over here.
-WENDY: Thanks.
+WENDY: Thank you, Susie.
 ULLMAN: Thank you, Susie.
-ULLMAN: Dick, if you're ready to do it now, I think it would be a good idea if you could show Mrs. Torrance the kitchen, while I continue on with Jack.
-HALLORAN: It will be a pleasure.  Right this way Mrs. Torrance.
-WENDY: Great.  See you later, hon.
+ULLMAN: Dick, if you're ready to do it now, I think it would be a good idea if you could show Mrs. Torrance the kitchen, while I continue on with It will be a pleasure. Right this way Mrs. Torrance.
+HALLORAN: It will be a pleasure. Right this way Mrs. Torrance.
+WENDY: Great. See you later, hon.
 JACK: Bye darling.
-HALLORAN: Mrs. Torrance, your husband introduced you as Winifred.  Now are you a Winnie or a Freddie?
+HALLORAN: Mrs. Torrance, your husband introduced you as Winifred. Now are you a Winnie or a Freddie?
 WENDY: I'm a Wendy.
-HALLORAN: Oh Wendy.  That's nice.  That's the prettiest.
-WENDY: God.  This is the kitchen, huh?
-HALLORAN: Yeah, this is it.  How do you like it, Danny?  Is it big enough for you?
+HALLORAN: Oh Wendy. That's nice. That's the God. This is the kitchen, huh?
+WENDY: God. This is the kitchen, huh?
+HALLORAN: Yeah, this is it. How do you like it, Danny? Is it big enough for you?
 DANNY: Yeah, it's the biggest place I've ever seen.
-WENDY: Yeah.  This whole place is such an enormous maze, I feel I'll have to leave a trail of breadcrumbs every time I come in.
-HALLORAN: Don't let it get you down Mrs. Torrance - it's big but it still ain't nothing but a kitchen... a lot of the stuff you'll never have to touch.
+WENDY: Yeah. This whole place is such an enormous maze, I feel I'll have to leave a trail of breadcrumbs every time I come in.
+HALLORAN: Don't let it get you down Mrs. Torrance - it's big but it still ain't nothing but a kitchen. a lot of the stuff you'll never have to touch.
 WENDY: I wouldn't know what to do with it if I did.
-HALLORAN: Well one thing for sure, you don't have to worry about food because you folks could eat up here a whole year and never have the same menu twice.
-HALLORAN: Now right here is our walk-in freezer.
-HALLORAN: Now this is where we keep all of out meat.  You got fifteen rib roasts - thirty ten pound bags of hamburgers.  You got twelve- turkeys, two dozen pork roasts and twenty legs of lamb. (to Danny) Do you like lamb, Doc?
-DANNY: No.
-HALLORAN: You don't?  Well what's your favorite food then?
+HALLORAN: Well one thing for sure, you don't have to worry about food because you folks could eat up here a whole year and never have the same menu
+HALLORAN: Now right here is our walk-in
+HALLORAN: Now this is where we keep all of out meat. You got fifteen rib roasts - thirty ten pound bags of hamburgers. You got twelve- turkeys, two dozen pork roasts and twenty legs of lamb. Do you like lamb, Doc?
+DANNY: You don't? Well what's your favorite food then?
+HALLORAN: You don't? Well what's your favorite food then?
 DANNY: French Fries and Ketchup.
-HALLORAN: Well I think we can manage that too, Doc.  Come along now.  Watch your step.
+HALLORAN: Well I think we can manage that too, Doc. Come along now. Watch your step.
 WENDY: Mr. Halloran,
-WENDY (CONT'D): how did you know we called him 'Doc'?
 HALLORAN: Beg pardon?
-WENDY: Doc.  You called Danny 'Doc' twice just now.
+WENDY: Doc. You called Danny 'Doc' twice just now.
 HALLORAN: I did?
-WENDY: Yeah.  We call him Doc sometimes, you know, like in the Bugs Bunny cartoons.  But how did you know that?
+WENDY: Yeah. We call him Doc sometimes, you know, like in the Bugs Bunny cartoons. But how did you know that?
 HALLORAN: Well I guess I probably heard you call him that.
 WENDY: Well, it's possible, but I honestly don't remember calling him that since we've been with you.
 HALLORAN: Well anyway, he looks like a Doc, doesn't he?
-HALLORAN: (clicks his tongue) Me ah - what's up, Doc?
+HALLORAN: ( clicks his tongue ) Me ah - what's up, Doc?
 HALLORAN: Now this is the storeroom.
-HALLORAN: In here, Mrs. Torrance, is where we keep all the dried goods and the canned goods.  We got canned fruits and vegetables; canned fish and meats; hot and cold cereals.
+HALLORAN: In here, Mrs. Torrance, is where we keep all the dried goods and the canned goods. We got canned fruits and vegetables; canned fish and meats; hot and cold cereals.
 HALLORAN: Post Toasties, Cornflakes, Sugar Puffs, Rice Krispies, Oatmeal, Wheatina and Cream of Wheat.
-HALLORAN (OFF): We got a dozen jugs of black molasses, we got sixty boxes of dried milk, thirty twelve pound bags of sugar.
-HALLORAN: (thought transfer) How'd you like some ice cream, Doc?
-HALLORAN (OFF): sociables, finger rolls and seven kinds of what-have-you.
-HALLORAN: Now we got dried peaches, dried apricots, dried raisins and dried prunes.
-HALLORAN: You know, Mrs. Torrance, you gotta keep regular, if you want to be happy.
-ULLMAN: Hi.
-WENDY: Hi.
+HALLORAN: ( thought transfer ) How'd you like some ice cream, Doc?
+HALLORAN: Now we got dried peaches, dried apricots, dried raisins and dried You know, Mrs. Torrance, you gotta keep regular, if you want to be
+HALLORAN: You know, Mrs. Torrance, you gotta keep regular, if you want to be
 ULLMAN: How're you getting on?
-HALLORAN & WENDY: Just fine.
-ULLMAN: Dick, can we borrow Mrs. Torrance for a few minutes?  We're on our way through to the basement - I promise we won't keep her very long.
-HALLORAN: No problem, Mr. Ullman.  I was just getting to the ice cream.
+WENDY: How're you getting on?
+ULLMAN: How're you getting on?
+ULLMAN: Dick, can we borrow Mrs. Torrance for a few minutes? We're on our way through to the basement - I promise we won't keep her very long.
+HALLORAN: No problem, Mr. Ullman. I was just getting to the ice cream.
 HALLORAN: Do you like ice cream, Doc?
-DANNY: Yeah.
+DANNY: HALLORAN laughs.
 HALLORAN: I thought you did.
 HALLORAN: You folks don't mind if I give Danny some ice cream, while we're waiting for you?
 JACK: Not at all.
 WENDY: No, we don't mind.
-HALLORAN: Good.
+HALLORAN: Sound good to you, Danny?
 WENDY: Sound good to you, Danny?
-DANNY: Yeah.
-WENDY: Okay.  You behave yourself.
+DANNY: Okay. You behave yourself.
+WENDY: Okay. You behave yourself.
 HALLORAN: Now what kind of ice cream do you like Doc?
-DANNY: Chocolate.
-HALLORAN: Chocolate it shall be.  Come on son.
+DANNY: Chocolate it shall be. Come on son.
+HALLORAN: Chocolate it shall be. Come on son.
 WENDY: It's amazing how much activity is going on today.
 ULLMAN: Yes, well the guests and some of the staff left yesterday, but the last day is always very hectic - everybody wants to be on their way as early as possible.
 ULLMAN: By five o'clock tonight, you'll never know anybody was ever here.
 WENDY: Just like a ghost ship, huh?
-ULLMAN: Yes.
+ULLMAN: DISSOLVE TO:
 HALLORAN: Do you know how I knew your name was Doc?
+M.C.S. HALLORAN: You know what I'm talking about, don't you?
 HALLORAN: You know what I'm talking about, don't you?
-HALLORAN: I can remember when I was a little boy, my grandmother and I could hold conversations entirely without ever opening our mouths.  She called it shining,
-HALLORAN (OFF)(CONT'D): and for a long time I thought it was just the two of us that had the shine to us.
-HALLORAN: Just like you probably thought you was the only one.  But there are other folks, though mostly they don't know it, or don't believe it.
+M.C.S. HALLORAN: I can remember when I was a little boy, my grandmother and I could hold conversations entirely without ever opening our mouths. She called it shining,
+HALLORAN: I can remember when I was a little boy, my grandmother and I could hold conversations entirely without ever opening our mouths. She called it shining,
+M.C.S. DANNY: HALLORAN ( OFF )( CONT'D )
+HALLORAN: Just like you probably thought you was the only one. But there are other folks, though mostly they don't know it, or don't believe it.
+M.C.S. DANNY: CUT TO:
+M.C.S. HALLORAN: How long have you been able to do it?
 HALLORAN: How long have you been able to do it?
 HALLORAN: Why don't you want to talk about it?
+M.C.S. DANNY: I'm not supposed to.
 DANNY: I'm not supposed to.
+M.C.S. HALLORAN: Who says you ain't supposed to?
 HALLORAN: Who says you ain't supposed to?
-DANNY: Tony.
+M.C.S. DANNY: CUT TO:
+DANNY: CUT TO:
+M.C.S. HALLORAN: Who's Tony?
 HALLORAN: Who's Tony?
+M.C.S. DANNY: Tony's the little boy who lives in my mouth.
 DANNY: Tony's the little boy who lives in my mouth.
-HALLORAN: Is Tony the one that tells you things?
-DANNY: Yes.
+M.C.S. HALLORAN: Is Tony the one that tells you How does he tell you things?
+HALLORAN: Is Tony the one that tells you How does he tell you things?
+M.C.S. DANNY: CUT TO:
+DANNY: CUT TO:
+M.C.S. HALLORAN: How does he tell you things?
 HALLORAN: How does he tell you things?
 DANNY: It's like I go to sleep, and he shows me things but when I wake up, I can't remember everything.
-HALLORAN: Does your Mum and Dad know about Tony?
-DANNY: Yes.
+M.C.S. HALLORAN: Does your Mum and Dad know about Do they know he tell you things?
+HALLORAN: Does your Mum and Dad know about Do they know he tell you things?
+DANNY: CUT TO:
+M.C.S. HALLORAN: Do they know he tell you things?
 HALLORAN: Do they know he tell you things?
-HALLORAN: Has Tony ever told you anything about this place?  About the Overlook Hotel?
+M.C.S. HALLORAN: Has Tony ever told you anything about this place? About the Overlook Hotel?
+HALLORAN: Has Tony ever told you anything about this place? About the Overlook Hotel?
 DANNY: I don't know.
-HALLORAN: Now think real hard, Doc.  Think.
+HALLORAN: Now think real hard, Doc. Think.
 DANNY: Maybe he showed me something.
 HALLORAN: Try to think what it was.
 DANNY: Mr. Halloran, are you scared of this place?
-HALLORAN: No, I'm scared of nothing here. It's just that you know some places are like people, some shine and some don't.  I guess you could say the Overlook Hotel here has something about it that's like shining.
+HALLORAN: No, I'm scared of nothing here. It's just that you know some places are like people, some shine and some don't. I guess you could say the Overlook Hotel here has something about it that's like Is there something bad here?
 DANNY: Is there something bad here?
-HALLORAN: Well, you know Doc, when something happens it can leave a trace of itself behind... say like is someone burns toast.
-HALLORAN (OFF): Well, maybe things that happened... leave other kinds of traces behind.
-HALLORAN: Not things that anyone can notice, but things that people who shine can see.  Just like they can see things that haven't happened yet. Well, sometimes they can see things that happened a long time ago... I think a lot of things happened right here in this particular hotel - over the years, and not all of them was good.
+HALLORAN: Well, you know Doc, when something happens it can leave a trace of itself behind. say like is someone burns toast.
+M.C.S. DANNY: HALLORAN ( OFF )
+M.C.S. HALLORAN: Not things that anyone can notice, but things that people who shine can see. Just like they can see things that haven't happened yet. Well, sometimes they can see things that happened a long time ago. I think a lot of things happened right here in this particular hotel - over the years, and not all of them was good.
+HALLORAN: Not things that anyone can notice, but things that people who shine can see. Just like they can see things that haven't happened yet. Well, sometimes they can see things that happened a long time ago. I think a lot of things happened right here in this particular hotel - over the years, and not all of them was good.
+M.C.S. DANNY: What about Room 237?
 DANNY: What about Room 237?
+M.C.S. HALLORAN: Room 237?
 HALLORAN: Room 237?
+M.C.S. DANNY: You're scared of Room 237, ain'tcha?
 DANNY: You're scared of Room 237, ain'tcha?
+M.C.S. HALLORAN: No I ain't.
 HALLORAN: No I ain't.
+M.C.S. DANNY: Mr. Halloran, what is in Room 237?
 DANNY: Mr. Halloran, what is in Room 237?
-HALLORAN: Nothing.  There ain't nothing in Room 237, but you ain't got no business going in there anyway, so stay out!  You understand, stay out!
-WENDY: Good Morning, hon.  Your breakfast is ready.
+M.C.S. HALLORAN: Nothing. There ain't nothing in Room 237, but you ain't got no business going in there anyway, so stay out! You understand, stay out!
+HALLORAN: Nothing. There ain't nothing in Room 237, but you ain't got no business going in there anyway, so stay out! You understand, stay out!
+WENDY: Good Morning, hon. Your breakfast is ready.
 JACK: What time is it?
 WENDY: It's about eleven thirty.
 JACK: Eleven thirty - Jesus!
-WENDY: I guess we've been staying up too late.
+WENDY: I guess we've been staying up too I know it.
 JACK: I know it.
 WENDY: I made 'em just the way you like 'em, sunny side up.
 JACK: Hmm, nice.
-WENDY: It's really pretty outside.  How about taking me for a walk after you've finished your breakfast?
+WENDY: It's really pretty outside. How about taking me for a walk after you've finished your breakfast?
 JACK: Oh I suppose I oughta try to do some writing first.
 WENDY: Any ideas yet?
-JACK: Lots of ideas.  No good ones.
-WENDY: Well, something'll come.  It's just a matter of settling back into the habit of writing every day.
-JACK: Yeah... that's all it is.
+JACK: Lots of ideas. No good ones.
+WENDY: Well, something'll come. It's just a matter of settling back into the habit of writing every day.
+JACK: Yeah. that's all it is.
 WENDY: It's really nice up here, isn't it?
-JACK: I love it.  I really do.  I've never been this happy, or comfortable anywhere.
-WENDY: Yeah.  It's amazing how fast you get used to such a big place.  I tell you, when we first came up here, I thought it was kinda scarey.
-JACK: I fell in love with it right away. When I came up here from my interview, it was as though I had been here before.  We...we all have moments of deja vu, but this was ridiculous.  It was almost as though I knew what was going to be around every corner.  Ooohhhhh...
+JACK: I love it. I really do. I've never been this happy, or comfortable anywhere.
+M.C.S. WENDY: Yeah. It's amazing how fast you get used to such a big place. I tell you, when we first came up here, I thought it was kinda scarey.
+WENDY: Yeah. It's amazing how fast you get used to such a big place. I tell you, when we first came up here, I thought it was kinda scarey.
+JACK: I fell in love with it right away. When I came up here from my interview, it was as though I had been here before. We.we all have moments of deja vu, but this was ridiculous. It was almost as though I knew what was going to be around every corner. Ooohhhhh.
 WENDY: The loser has to keep American clean, how's that?
 DANNY: All right.
-WENDY: And you're gonna lose.  And I'm gonna get you - you betta run fast! Look out - I'm coming in close. All right?
-DANNY (OFF): You'll have to keep America clean.
-WENDY: Okay Danny, you win.  Let's take the rest of this walking, huh?
-DANNY: Okay...oh!
-WENDY: Give me your hand.  Oh, isn't it beautiful.
-DANNY: Yeah.
+WENDY: And you're gonna lose. And I'm gonna get you - you betta run fast! Look out - I'm coming in close. All right?
+WENDY: Okay Danny, you win. Let's take the rest of this walking, huh?
+DANNY: Give me your hand. Oh, isn't it
+WENDY: Give me your hand. Oh, isn't it
+DANNY: CUT TO:
 WENDY: Here's a dead end.
-WENDY: Oh what a Maze.  Isn't it beautiful.
-DANNY: Yeah.
+WENDY: Oh what a Maze. Isn't it beautiful.
+DANNY: CUT TO:
 WENDY: It's so pretty.
-DANNY: Yeah.
+DANNY: I didn't think it was going to be this big, did you?
 WENDY: I didn't think it was going to be this big, did you?
-DANNY: No.
-WOMAN ANNOUNCER (OFF): Rutherford was serving a life sentence for his conviction in the 1968 shooting and the search continues in the mountains near Uray today for that missing Aspen woman,
-WOMAN ANNOUNCER (CONT'D): twenty-four year old Susan Robertson has been missing ten days.  She disappeared while on a hunting trip with her husband.  They have good weather right now, but they may have to call off the search if the predicted snowstorm moves in tomorrow.
+DANNY: CUT TO:
 WOMAN ANNOUNCER: But it's so beautiful here in Denver today, it's hard to believe a snowstorm could be that close.
-MAN ANNOUNCER: I know.  I want to go outside and lie in the sun.  Yet to our north, to our west, it is snowing and cold, and it's moving
-MAN ANNOUNCER (CONT'D): right here towards Colorado, right now as we talk.  It's incredible.
+MAN ANNOUNCER: I know. I want to go outside and lie in the sun. Yet to our north, to our west, it is snowing and cold, and it's moving
 WOMAN ANNOUNCER: I know.
-WENDY: Hi, hon.  How's it going?
-JACK: Fine.
+WENDY: Hi, hon. How's it going?
+JACK: WENDY kisses him.
 WENDY: Get a lot written today?
-JACK: Yes.
+JACK: CUT TO:
+M.C.S. WENDY: Hey, the weather forecast said it's going to snow tonight.
 WENDY: Hey, the weather forecast said it's going to snow tonight.
 JACK: What do you want me to do about it?
-WENDY: Ah, come on hon.  Don't be so grouchy.
-JACK: I'm not being grouchy.  I just want to finish my work.
-WENDY: Okay.  I understand.  I'll come back later on with a couple of sandwiches for you and... maybe you'll let me read something then.
-JACK: Wendy, (clears throat) let me explain something to you. Whenever you come in here and interrupt me, you're breaking my concentration.
-JACK (CONT'D): you're distracting me,
-JACK (CONT'D): and it will then take me time to get back to where I was, understand?
-WENDY: Yes.
-JACK: Fine.  Now we're going to make a new rule.  Whenever I am in here and you hear me typing,
-JACK (CONT'D): or whether you don't hear me typing, whatever the fuck you hear me doing in here, when I am in here that means that I am working - that means don't come in.  Now do you think you can handle that?
-WENDY: Yes.
-JACK: Fine.  Why don't you start right now and get the fuck out of here, hmm?
-WENDY: Okay.
+M.C.S. WENDY: Ah, come on hon. Don't be so
+WENDY: Ah, come on hon. Don't be so
+JACK: I'm not being grouchy. I just want to finish my work.
+M.C.S. WENDY: Okay. I understand. I'll come back later on with a couple of sandwiches for you and. maybe you'll let me read something then.
+WENDY: Okay. I understand. I'll come back later on with a couple of sandwiches for you and. maybe you'll let me read something then.
+JACK: ( clears throat ) let me explain something to you. Whenever you come in here and interrupt me, you're breaking my
+WENDY: CUT TO:
+M.C.S. JACK: Fine. Now we're going to make a new rule. Whenever I am in here and you hear me typing,
+JACK: Fine. Now we're going to make a new rule. Whenever I am in here and you hear me typing,
+M.C.S. WENDY: CUT TO: CUT TO: CUT TO:
+WENDY: CUT TO: CUT TO: CUT TO:
+M.C.S. JACK: Fine. Why don't you start right now and get the fuck out of here,
+JACK: Fine. Why don't you start right now and get the fuck out of here,
+WENDY: CUT TO:
 WENDY: I know you've got some.
+SATURDAY: CUT TO:
 WENDY: Oh no!
 WENDY: I knew it!
-WENDY: (into mike) This is KDK 12 calling KDK 1.
-WENDY (OFF): (over radio) KDK 12 to KDK 1.
-RANGER: (into mike) This is KDK 1.  We're receiving you. Over.
-WENDY: (into mike) Hi.  This is Wendy Torrance at the Overlook Hotel.
-RANGER: (into mike) Hi.  How are you folks getting on up there?  Over.
-WENDY: (into mike) Oh we're just fine, but our telephones don't seem to be doing too well.  Are the lines down by any chance?  Over.
-RANGER: (into mike) Yes.  Quite a few of them are down, due to the storm.  Over.
-WENDY: (over radio) Any chance of them being repaired soon?  Over.
-RANGER: (into mike) Well, I wouldn't like to say.  Most winters they stay that way until spring.  Over.
-WENDY: (into mike) Boy, this storm is really something, isn't it?  Over.
-RANGER: (into mike) Oh yes.  It's one of the worst we've had for years.  Is there anything else we can do for you, Mrs. Torrance?  Over.
-WENDY: (into mike) I suppose not.  Over.
-RANGER: (into mike) Well, if you folks have any problems up there just give us a call, and Mrs. Torrance.
-RANGER: (over radio) I think it might be a good idea if you leave your radio on all the time now.  Over.
-WENDY: (into mike) Okay.  We'll do that.  It was real nice talking to you.  Bye.  Over and Out.
+WENDY: ( into mike ) This is KDK 12 calling KDK 1.
+RANGER: ( into mike ) This is KDK 1. We're receiving you.
+WENDY: ( into mike ) Hi. This is Wendy Torrance at the Overlook Hotel.
+RANGER: ( into mike ) Hi. How are you folks getting on up there? Over.
+WENDY: ( into mike ) Oh we're just fine, but our telephones don't seem to be doing too well. Are the lines down by any chance? Over.
+RANGER: ( into mike ) Yes. Quite a few of them are down, due to the storm. Over.
+WENDY: ( over radio ) Any chance of them being repaired soon? Over.
+RANGER: ( into mike ) Well, I wouldn't like to say. Most winters they stay that way until spring. Over.
+WENDY: ( into mike ) Boy, this storm is really something, isn't it? Over.
+RANGER: ( into mike ) Oh yes. It's one of the worst we've had for years. Is there anything else we can do for you, Mrs. Torrance? Over.
+WENDY: ( into mike ) I suppose not. Over.
+RANGER: ( into mike ) Well, if you folks have any problems up there just give us a call, and Mrs. Torrance.
+RANGER: ( over radio ) I think it might be a good idea if you leave your radio on all the time now. Over.
+WENDY: ( into mike ) Okay. We'll do that. It was real nice talking to you. Bye. Over and Out.
 GRADY GIRLS: Hullo, Danny.
-GRADY GIRLS (OFF): Come and play with us.
+M.C.S. DANNY: GRADY GIRLS ( OFF )
 GRADY GIRLS: Come and play with us, Danny.
-GRADY GIRLS: For ever...
-GRADY GIRLS: ... and ever...
-GRADY GIRLS: ...and ever.
-DANNY: Tony, I'm scared.
-TONY: Remember what Mr. Halloran said. It's just like pictures in a book, Danny.  It isn't real.
-DOROTHY: (on T.V.) Please let me give you some money.
-HERMIE: (on T.V.) Oh I wouldn't think of it.
-DOROTHY: (on T.V.) Well how can I repay you?
-HERMIE: (on T.V.) It's okay, really.
-DOROTHY: (on T.V.) Well I'm going to have some coffee. Would you like some?
-HERMIE: (on T.V.) Sure.
-DOROTHY: (on T.V.) Great.  Sit down.  Oh these marvellous doughnuts, help yourself. Coffee will be ready in a few minutes.
-DANNY: Mom?
-WENDY: Yes?
-DANNY: Can I go to my room and get my fire-engine?
+GRADY GIRLS: For ever.
+GRADY GIRLS: . and ever.
+GRADY GIRLS: .and ever.
+DANNY: Tony, I'm scared. Remember what Mr. Halloran said. It's just like pictures in a book, Danny. It isn't real.
+TONY: Remember what Mr. Halloran said. It's just like pictures in a book, Danny. It isn't real.
+DOROTHY: ( on T.V. ) Please let me give you some money.
+HERMIE: ( on T.V. ) Oh I wouldn't think of it.
+DOROTHY: ( on T.V. ) Well how can I repay you?
+HERMIE: ( on T.V. ) It's okay, really.
+DOROTHY: ( on T.V. ) Well I'm going to have some coffee. Would you like some?
+HERMIE: ( on T.V. ) ( on T.V. ) Great. Sit down. Oh these marvellous doughnuts, help yourself. Coffee will be ready in a few
+DOROTHY: ( on T.V. ) Great. Sit down. Oh these marvellous doughnuts, help yourself. Coffee will be ready in a few
+DANNY: Can I go to my room and get my Not right now, Daddy's asleep.
+WENDY: Can I go to my room and get my Not right now, Daddy's asleep.
+DANNY: Can I go to my room and get my Not right now, Daddy's asleep.
 WENDY: Not right now, Daddy's asleep.
 DANNY: I won't make any noise.
-WENDY: Come on, Doc.  He only went to bed a few hours ago.  Can't you wait till later?
+WENDY: Come on, Doc. He only went to bed a few hours ago. Can't you wait till later?
 DANNY: I won't make a sound, I promise. I'll tip-toe.
-WENDY: Well all right.  But really don't make a sound.
+WENDY: Well all right. But really don't make a sound.
 DANNY: I won't, Mom.
-WENDY: Make sure you come right back, 'cause I'm going to make lunch soon. Okay?
-DANNY (OFF): Okay, Mom.
-DANNY: Can I go to my room and get my fire-engine?
+WENDY: Make sure you come right back, 'cause I'm going to make lunch soon. Okay, Mom.
+DANNY: Can I go to my room and get my Come here for a minute, first.
 JACK: Come here for a minute, first.
 JACK: How's it going, Doc?
-DANNY: Okay.
+DANNY: CUT TO:
 JACK: Are you having a good time?
 DANNY: Yes, Dad.
-JACK: Good.  I want you to have a good time.
-DANNY: I am, Dad.  Dad?
-JACK: Yes.
+JACK: Good. I want you to have a good I am, Dad. Dad?
+DANNY: I am, Dad. Dad?
+JACK: Do you feel bad?
 DANNY: Do you feel bad?
-JACK: No.  I'm just a little tired.
+JACK: No. I'm just a little tired.
 DANNY: Then why don't you go to sleep?
-JACK: I can't.  I have too much to do.
-DANNY: Dad?
-JACK: Yes?
+JACK: I can't. I have too much to do.
 DANNY: Do you like this hotel?
-JACK: Yes I do.  I love it.  Don't you?
+JACK: Do you like this hotel?
+DANNY: Do you like this hotel?
+JACK: Yes I do. I love it. Don't you?
 DANNY: I guess so.
-JACK: Good.  I want you to like it here. I wish we could stay here for ever, and ever... ever.
-DANNY: Dad?
-JACK: What?
+JACK: Good. I want you to like it here. I wish we could stay here for ever, and ever. ever.
+DANNY: You wouldn't ever hurt Mummy and me, would you?
+JACK: You wouldn't ever hurt Mummy and me, would you?
 DANNY: You wouldn't ever hurt Mummy and me, would you?
 JACK: What do you mean?
 JACK: Did your mother ever say that to you - that I would hurt you?
 DANNY: No, Dad.
 JACK: Are you sure?
 DANNY: Yes, Dad.
-JACK: I love you, Danny.  I love you more than anything else in the whole world, and I'd never do anything to hurt you, never... You know that, don't you, huh?
+JACK: I love you, Danny. I love you more than anything else in the whole world, and I'd never do anything to hurt you, never. You know that, don't you, huh?
 DANNY: Yes, Dad.
-JACK: Good.
-DANNY: Mom?
-DANNY: Mom?
-DANNY (OFF): Mom, are you in there?
-WENDY: Jack...
-WENDY: Jack... Jack...
+JACK: CUT TO:
+BLACK FRAMES: Superimposition over:
+WEDNESDAY: CUT TO:
+DANNY: CUT TO:
+DANNY: CUT TO:
+WENDY: WENDY turns corner to entrance to Lounge.
+WENDY: Jack. Jack.
 WENDY: Jack, honey, what's wrong?
-WENDY: What happened, honey?  Hon?  What's wrong?  Jack!
-JACK: I had... I had the most terrible nightmare I ever had.  It's the most horrible dream I ever had.
-WENDY: It's okay.  It's okay, now.  Really.
-JACK: I dreamed that I... that I killed you and Danny.
+WENDY: What happened, honey? Hon? What's wrong? Jack!
+JACK: I had. I had the most terrible nightmare I ever had. It's the most horrible dream I ever had.
+WENDY: It's okay. It's okay, now. Really.
+JACK: I dreamed that I. that I killed you and Danny.
 JACK: But I didn't just kill you, I cut you up into little pieces.
-JACK: Oh...
+JACK: CUT TO:
 JACK: My God, I must be losing my mind!
-WENDY: Every...everything is just going to be all right.  Come on.  Here let's get up off the floor.
-WENDY: Danny!  Everything's okay... Just go play in your room for a while. Your Dad's just got a headache. Danny - mind what I say.  Go play in your room!
-WENDY: Hon, let me just go and get him out of here.  I'll be right back.
-WENDY: Danny, why don't you mind me - huh? Danny.
-WENDY: Oh my God!  Danny what happened to your neck?  Danny...
-WENDY (CONT'D): what happened to your neck, huh?
+WENDY: Every.everything is just going to be all right. Come on. Here let's get up off the floor.
+WENDY: Danny! Everything's okay. Just go play in your room for a while. Your Dad's just got a headache. Danny - mind what I say. Go play in your room!
+WENDY: Hon, let me just go and get him out of here. I'll be right back. Danny, why don't you mind me - huh?
+WENDY: Danny, why don't you mind me - huh?
+WENDY: Oh my God! Danny what happened to your neck? Danny.
 WENDY: You did this to him, didn't you?
-WENDY (OFF): You son of a bitch!  You did this to him,
-WENDY (OFF)(CONT'D): didn't you?
-WENDY: How could you?  How could you?
-JACK: (to himself) God, I'd give anything for a drink?
+WENDY: How could you? How could you?
+JACK: ( to himself ) God, I'd give anything for a drink?
 JACK: My goddam soul, just a glass of beer.
 JACK: Hi Lloyd.
 JACK: A little slow tonight, isn't it?
 LLOYD: Yes, it is, Mr. Torrance.
 LLOYD: What'll it be?
-JACK: Now I'm awfully glad you asked me that, Lloyd, because I just happen to have two twenties and two tens right here in my wallet.  I was afraid they were going to be there until next April.  So here's what: you slip me a bottle of Bourbon, a glass and some ice.  You can do that, can't you, Lloyd?  You're not to busy, are you?
-LLOYD: No, sir.  I'm not busy at all.
-JACK (OFF): Good man.
-JACK (OFF): You set them up, and I'll knock them back, Lloyd, one by one.
+M.C.S. JACK: Now I'm awfully glad you asked me that, Lloyd, because I just happen to have two twenties and two tens right here in my wallet. I was afraid they were going to be there until next April. So here's what: you slip me a bottle of Bourbon, a glass and some ice. You can do that, can't you, Lloyd? You're not to busy, are you?
+JACK: Now I'm awfully glad you asked me that, Lloyd, because I just happen to have two twenties and two tens right here in my wallet. I was afraid they were going to be there until next April. So here's what: you slip me a bottle of Bourbon, a glass and some ice. You can do that, can't you, Lloyd? You're not to busy, are you?
+M.S. LLOYD: No, sir. I'm not busy at all.
+LLOYD: No, sir. I'm not busy at all.
 JACK: White man's burden, Lloyd my man. White man's burden.
-JACK: Say, Lloyd, it seems I'm temporarily light.
+JACK: Say, Lloyd, it seems I'm temporarily
 JACK: How's my credit in this joint anyway?
+M.C.S. LLOYD: Your credit's fine, Mr. Torrance.
 LLOYD: Your credit's fine, Mr. Torrance.
-JACK: That's swell.  I like you, Lloyd. I always liked you.  You were always the best of them.
-JACK (CONT'D): Best goddamned bartender from Timbuctoo to Portland Maine - Portland Oregon for that matter.
+M.C.S. JACK: That's swell. I like you, Lloyd. I always liked you. You were always the best of them.
+JACK: That's swell. I like you, Lloyd. I always liked you. You were always the best of them.
+M.C.S. LLOYD: Thank you for saying so.
 LLOYD: Thank you for saying so.
 JACK: Here's to five miserable months on the wagon and all the irreparable harm that it's caused me.
 LLOYD: How are things going, Mr. Torrance?
 JACK: Things could be better, Lloyd. Things could be a whole lot better.
 LLOYD: I hope it's nothing serious.
 JACK: No, nothing serious.
-JACK: Just a little problem with the... old sperm bank upstairs.
-JACK: Nothing that I can't handle though, Lloyd.  Thanks.
-LLOYD: Women!  Can't live with 'em.  Can't live without 'em!
-JACK: Words of wisdom, Lloyd.  Words of wisdom.
-JACK: I haven't laid a hand on him. Goddam it, I didn't.  I wouldn't touch one hair of his goddam little head.  I love the little son-of-a- bitch.
-JACK: I'd do anything for him.  Any fucking thing for him.
-JACK (OFF): That damn bitch.
-JACK: As long as I live she'll never let me forget what happened!
-JACK: I did hurt him once, okay?  It was an accident, complete unintentional. It could have happened to anybody.
-JACK: And it was three goddam years ago. The little fucker had thrown all my papers all over the floor.  All I tried to do was to pull him up.  A momentary loss of muscular coordination.  I mean... A few extra foot pounds of energy, per second... per second.
-WENDY (OFF): Jack...
-WENDY: Oh Jack! (sobs) Thank God you're here.
-WENDY: Jack,
-(IN SHOT): Jack, there's someone else in the hotel with us.  There's a crazy woman in one of the rooms.  She tried to strangle Danny.
+M.C.S. JACK: Just a little problem with the. old sperm bank upstairs.
+JACK: Just a little problem with the. old sperm bank upstairs.
+JACK: Nothing that I can't handle though, Lloyd. Thanks.
+M.C.S. LLOYD: Women! Can't live with 'em. Can't live without 'em!
+LLOYD: Women! Can't live with 'em. Can't live without 'em!
+JACK: Words of wisdom, Lloyd. Words of
+JACK: I haven't laid a hand on him. Goddam it, I didn't. I wouldn't touch one hair of his goddam little head. I love the little son-of-a-
+JACK: I'd do anything for him. Any fucking thing for him.
+M.C.S. LLOYD: JACK ( OFF )
+M.C.S. JACK: As long as I live she'll never let me forget what happened! I did hurt him once, okay? It was an accident, complete unintentional. It could have happened to anybody.
+JACK: As long as I live she'll never let me forget what happened! I did hurt him once, okay? It was an accident, complete unintentional. It could have happened to anybody.
+JACK: I did hurt him once, okay? It was an accident, complete unintentional. It could have happened to anybody.
+JACK: And it was three goddam years ago. The little fucker had thrown all my papers all over the floor. All I tried to do was to pull him up. A momentary loss of muscular coordination. I mean. A few extra foot pounds of energy, per second. per second.
+WENDY: Oh Jack! Thank God you're here.
+WENDY: ( OFF ) ( IN SHOT ) Jack, there's someone else in the hotel with us. There's a crazy woman in one of the rooms. She tried to strangle Danny.
+M.C.S. JACK: Are you out of your fucking mind?
 JACK: Are you out of your fucking mind?
-WENDY: No.  It's the truth, really.  I swear it.  Danny told me.  He went up into one of the bedrooms, the door was open, and he saw this crazy woman in the bath-tub.  She tried to strangle him.
+WENDY: No. It's the truth, really. I swear it. Danny told me. He went up into one of the bedrooms, the door was open, and he saw this crazy woman in the bath-tub. She tried to strangle him.
 JACK: Which room was it?
-DISC JOCKEY (OFF): (on T.V.) From Channel 10 in Miami, this is Newswatch - with Glen Rinker and Bishop, and the award winning Newswatch team.
-GLEN RINKER: (on T.V.) Good evening.  I'm Glen Rinker Newswatch 10.  While Miami continues to swelter in a record winter heatwave bringing temperatures to the mid and upper nineties, the Central and Rocky Mountain States are buried in snow.
-GLEN RINKER (CONT'D): In Colorado ten inches of snow has fallen in just a few hours tonight. Travel in the Rockies is almost impossible.
-GLEN RINKER (OFF): (on T.V.) Airports are shut down stranding thousands of passengers.  Highways are blocked by snowdrifts.  Railroad tracks are frozen.  Officials in Colorado tell Newswatch at least three people have been killed by exposure to freezing winds.  The Governor of Colorado is expected tomorrow to declare a weather emergency.  The National Guard might be called out to clear streets and roads.  Weather forecasters predict more snow and heavy winds tonight and tomorrow, with temperatures dropping well below zero.
-GLEN RINKER: (on T.V.) Back here in South Florida, we've got just the opposite problem; the heat and humidity are supposed to climb.
-GLEN RINKER (OFF): (on T.V.) Local beaches should be jammed. Our weather expert Walter Cronice will have the local forecast later on.
-OPERATOR: (over phone) We are sorry your call cannot be completed as dialed.  If you need assistance, please call the operator.
-WENDY: Jack?
-JACK (OFF): Yes, it's me.
-WENDY: Oh, thank God!
+GLEN RINKER: ( on T.V. ) Good evening. I'm Glen Rinker Newswatch 10. While Miami continues to swelter in a record winter heatwave bringing temperatures to the mid and upper nineties, the Central and Rocky Mountain States are buried in snow.
+GLEN RINKER: ( on T.V. ) Back here in South Florida, we've got just the opposite problem; the heat and humidity are supposed to
+M.C.S. JACK: CUT TO:
+M.C.S. JACK: CUT TO:
+OPERATOR: ( over phone ) We are sorry your call cannot be completed as dialed. If you need assistance, please call the operator.
+WENDY: JACK ( OFF )
+WENDY: Oh, thank God! Did you find anything?
 WENDY: Did you find anything?
 JACK: No, nothing at all.
 JACK: I didn't see one goddam thing.
 WENDY: You went into the room Danny said - to 237?
 JACK: Yes, I did.
 WENDY: And you didn't see anything at all?
-JACK: Absolutely nothing.  How is he?
+JACK: Absolutely nothing. How is he?
 WENDY: He's still asleep.
-JACK: Good.
+JACK: JACK closes bedroom door and turns to WENDY.
 JACK: I'm sure he'll be himself again in the morning.
-WENDY: Well, are you sure it was the right room?  I mean, maybe Danny made a mistake?
+WENDY: Well, are you sure it was the right room? I mean, maybe Danny made a
 JACK: He must have gone into that room - the door was open and the lights were on.
 WENDY: Oh, I just don't understand.
 WENDY: Well what about those bruises on his neck?
 WENDY: Somebody did that to him.
 JACK: I think he did it to himself.
-WENDY: No!  No, that's not possible.
+WENDY: No! No, that's not possible.
 JACK: Wendy, once you rule out his version of what happened, there is no other explanation - is there? It wouldn't be that different from the episode that he had before we came up here, would it?
-WENDY (OFF): Jack, whatever the explanation is,
-WENDY (OFF): I think we have to get Danny out of here.
 JACK: Get him out of here?
-WENDY: Yes.
+WENDY: You mean just leave the hotel?
 JACK: You mean just leave the hotel?
-WENDY: Yes.
-JACK: It is so fucking typical of you to create a problem like this when I finally have a chance to accomplish something.  When I'm really into my work.  I could really write my own ticket if I went back to Boulder now, couldn't I?
-JACK: Shovellings out driveways, work in a car wash - any of that appeal to you?
-WENDY: Jack...
+WENDY: CUT TO:
+JACK: It is so fucking typical of you to create a problem like this when I finally have a chance to accomplish something. When I'm really into my work. I could really write my own ticket if I went back to Boulder now, couldn't I?
+JACK: Shovellings out driveways, work in a car wash - any of that appeal to Wendy, I have let you fuck up my life so far, but I'm not going to let you fuck this up!
+WENDY: Wendy, I have let you fuck up my life so far, but I'm not going to let you fuck this up!
 JACK: Wendy, I have let you fuck up my life so far, but I'm not going to let you fuck this up!
-RANGER: (over phone) Good evening.  Forest Service.
-HALLORAN: (into phone) Hallo.  My name's Dick Halloran. I'm the Head Chef up at the Overlook Hotel.
-RANGER: (over phone) Good evening, Mr. Halloran.  What can I do for you?
-HALLORAN: (into phone) Sir, I've been trying to make an urgent phone call up there,
-HALLORAN (CONT'D): (into phone) but the operator said that the phone lines are down.
-RANGER: (into phone) Yes, I'm afraid a lot of lines around here are down, due to the storm.
-HALLORAN: (into phone) Well, look sir, I hate to put you to any trouble, but there's a family up there all by themselves with a young kid, and with this storm and everything.
-HALLORAN: (into phone) I'd sure appreciate it if you'd give them a call on your radio just to see if everything is okay.
-RANGER: (into phone) I'd be glad to do that, sir.  Oh why don't you call me back in about eh twenty minutes?
-HALLORAN: (over phone) Thank you very much.  I'll do that.
-RANGER: (into phone) All right, sir.
+RANGER: ( over phone ) Good evening. Forest Service.
+HALLORAN: ( into phone ) Hallo. My name's Dick Halloran. I'm the Head Chef up at the Overlook ( over phone ) Good evening, Mr. Halloran. What can I do for you?
+RANGER: ( over phone ) Good evening, Mr. Halloran. What can I do for you?
+HALLORAN: ( into phone ) Sir, I've been trying to make an urgent phone call up there, ( into phone ) but the operator said that the phone lines are down.
+RANGER: ( into phone ) Yes, I'm afraid a lot of lines around here are down, due to the
+HALLORAN: ( into phone ) Well, look sir, I hate to put you to any trouble, but there's a family up there all by themselves with a young kid, and with this storm and everything.
+HALLORAN: ( into phone ) I'd sure appreciate it if you'd give them a call on your radio just to see if everything is okay.
+RANGER: ( into phone ) I'd be glad to do that, sir. Oh why don't you call me back in about eh twenty minutes?
+HALLORAN: ( over phone ) Thank you very much. I'll do that.
+RANGER: ( into phone ) All right, sir.
 MAITRE D: Good evening, Mr. Torrance.
 JACK: Good evening.
-JACK: Hi Lloyd.  I've been away.  Now I'm back.
+JACK: Hi Lloyd. I've been away. Now I'm Good evening Mr. Torrance.
 LLOYD: Good evening Mr. Torrance.
 LLOYD: It's good to see you.
 JACK: It's good to be back, Lloyd.
+M.C.S. LLOYD: What'll it be, sir?
 LLOYD: What'll it be, sir?
 JACK: Hair of the dog that big me.
+M.C.S. LLOYD: Bourbon on the rocks.
 LLOYD: Bourbon on the rocks.
 JACK: That'll do her.
 LLOYD: No charge to you, Mr. Torrance.
 JACK: No charge?
+M.C.S. LLOYD: Your money's no good here.
 LLOYD: Your money's no good here.
+M.C.S. LLOYD: Orders from the house.
 LLOYD: Orders from the house.
 JACK: Orders from the house.
+M.L.S. LLOYD: Drink up, Mr. Torrance.
 LLOYD: Drink up, Mr. Torrance.
 JACK: I'm the kind of man likes to know who's buying their drinks, Lloyd.
+M.C.S. LLOYD: It's not a matter that concerns you, Mr. Torrance - at least not at this point.
 LLOYD: It's not a matter that concerns you, Mr. Torrance - at least not at this point.
-JACK: Anything you say, Lloyd.  Anything you say.
-GRADY: Oh!
-GRADY: Oh dear, oh dear.  I'm so sorry, sir.  Oh!
-GRADY: Oh dear oh dear... I've made an awful mess of your jacket, sir.
-JACK: Oh eh that's all right.  I've got plenty of jackets.
-GRADY: I'm afraid it's advocaat sir.  It tends to stain.
+JACK: Anything you say, Lloyd. Anything you say.
+GRADY: GRADY staggers forward, colliding with JACK and spilling drinks down front of JACK's jacket.
+GRADY: Oh dear, oh dear. I'm so sorry, sir. Oh!
+GRADY: Oh dear oh dear. I've made an awful mess of your jacket, sir.
+JACK: Oh eh that's all right. I've got plenty of jackets.
+GRADY: I'm afraid it's advocaat sir. It tends to stain.
 JACK: Advocaat is it?
-GRADY: Yes sir.  Look um... I think the best thing is to come along to the gentlemen's room, sir, and eh...
+GRADY: Yes sir. Look um. I think the best thing is to come along to the gentlemen's room, sir, and eh.
 GRADY: we'll get some water to it, sir.
 JACK: Looks as though you might have got a spot of it on yourself there, Jeevesy old boy.
-GRADY: That doesn't matter, sir.  You're the important one.
-JACK: Awfully nice of you to say.  Of course I intend to change my jacket this evening before the fish and goose soiree.
-GRADY: Very wise, sir.  Very wise.
-JACK (OFF): Here, I'll just, eh...
+GRADY: That doesn't matter, sir. You're the important one.
+JACK: Awfully nice of you to say. Of course I intend to change my jacket this evening before the fish and goose soiree.
+GRADY: Very wise, sir. Very wise.
 JACK: hold this for you there, Jeevesy.
-GRADY: Thank you, sir.  Thank you.
+GRADY: Thank you, sir. Thank you.
 GRADY: Now let's see if we can improve this with a little water, sir.
 JACK: Right, I'll just set my bourbon and advocaat down right there.
 GRADY: Won't keep you a moment, sir.
-JACK: Fine.
-JACK: What do they call you around here, Jeevesy?
-GRADY: Grady, sir.  Delbert Grady.
-JACK: Grady?
+JACK: GRADY sponges JACK.
+JACK: What do they call you around here, Grady, sir. Delbert Grady.
+GRADY: Grady, sir. Delbert Grady.
+JACK: Yes, sir.
 GRADY: Yes, sir.
 JACK: Delbert Grady.
 GRADY: That's right, sir.
-JACK: Eh, Mr. Grady...
-JACK (CONT'D): haven't I seen you somewhere before?
-GRADY: Why no, sir.  I don't believe so.
+JACK: Eh, Mr. Grady.
+GRADY: Why no, sir. I don't believe so.
 GRADY: Ah ha, it's coming off now, sir.
-JACK: Eh... Mr. Grady... weren't you once the caretaker here?
-GRADY: Why no, sir.  I don't believe so.
-JACK: You er a married man, are you, Mr. Grady?
-GRADY: Yes, sir.  I have a wife and eh two daughters, sir.
-JACK: And, er... where are they now?
-GRADY: Oh, they're somewhere around.  I'm not quite sure at the moment, sir.
-JACK: Mr. Grady, you were the caretaker here.  I recognize you.  I saw your picture in the newspapers.  You eh... chopped your wife and daughters up into little bits, and eh... and you blew your brains out.
-GRADY: That's strange, sir.  I don't have any recollection of that at all. Mr. Grady, you were the caretaker here.
-GRADY: I'm sorry to differ with you, sir, but you are the caretaker.  You have always been the caretaker, I should know, sir.  I've always been here.
-GRADY: Did you know, Mr. Torrance, that your son... is attempting to bring an outside party into this situation? Did you know that?
-JACK: No.
+JACK: Eh. Mr. Grady. weren't you once the caretaker here?
+GRADY: Why no, sir. I don't believe so.
+JACK: You er a married man, are you, Mr.
+GRADY: Yes, sir. I have a wife and eh two daughters, sir.
+JACK: And, er. where are they now?
+GRADY: Oh, they're somewhere around. I'm not quite sure at the moment, sir. Mr. Grady, you were the caretaker here. I recognize you. I saw your picture in the newspapers. You eh. chopped your wife and daughters up into little bits, and eh. and you blew your brains out.
+JACK: Mr. Grady, you were the caretaker here. I recognize you. I saw your picture in the newspapers. You eh. chopped your wife and daughters up into little bits, and eh. and you blew your brains out.
+GRADY: That's strange, sir. I don't have any recollection of that at all. Mr. Grady, you were the caretaker
+GRADY: I'm sorry to differ with you, sir, but you are the caretaker. You have always been the caretaker, I should know, sir. I've always been
+M.C.S. GRADY: Did you know, Mr. Torrance, that your son. is attempting to bring an outside party into this situation? Did you know that?
+GRADY: Did you know, Mr. Torrance, that your son. is attempting to bring an outside party into this situation? Did you know that?
+JACK: CUT TO:
+M.C.S. GRADY: He is, Mr. Torrance.
 GRADY: He is, Mr. Torrance.
-JACK: Who?
+M.C.S. JACK: CUT TO:
+JACK: CUT TO:
+M.C.S. GRADY: A nigger.
 GRADY: A nigger.
+M.C.S. JACK: A nigger!
 JACK: A nigger!
+M.C.S. GRADY: A nigger cook.
 GRADY: A nigger cook.
-JACK: How?
+JACK: CUT TO:
+JACK: CUT TO:
+M.C.S. GRADY: Your son has a very great talent. I don't think you are aware how great it is, but he is attempting to use that very talent against your will.
 GRADY: Your son has a very great talent. I don't think you are aware how great it is, but he is attempting to use that very talent against your will.
+M.C.S. JACK: Well, he is a very willful boy.
 JACK: Well, he is a very willful boy.
-GRADY: Indeed, he is, Mr. Torrance.  A very willful boy.  A rather naughty boy, if I may be so bold, sir.
+GRADY: Indeed, he is, Mr. Torrance. A very willful boy. A rather naughty boy, if I may be so bold, sir.
 JACK: It's his mother.
-JACK: She eh... interferes.
+JACK: She eh. interferes.
 GRADY: Perhaps they need a good talking to, if you don't mind my saying so. Perhaps a bit more.
-GRADY (OFF): My girls, sir, they didn't care for the Overlook at first.  One of them actually stole a packet of matches
-GRADY (CONT'D): and tried to burn it down.  But I corrected them, sir.  And when my wife tried to prevent me from doing my duty I corrected her.
-WENDY: (to herself) We have the Snowcat.  If the weather breaks, we might just be able to get down the mountain in that.
-WENDY: (to herself) I could call the Forest Rangers first and then tell them that we're coming so that they could start searching for us, in case we didn't make it.
-WENDY: (to herself) If Jack won't come with us, we'll just have to tell him that we are going by ourselves.  That's all there is to it.
-DANNY (OFF): Red Rum.  Red Rum.
-DANNY (OFF): Red Rum.  Red Rum.
-WENDY: Danny?
-DANNY (OFF): Red Rum.  Red Rum.  Red Rum.
+M.C.S. GRADY: GRADY ( CONT'D )
+WENDY: ( to herself ) We have the Snowcat. If the weather breaks, we might just be able to get down the mountain in
+WENDY: ( to herself ) I could call the Forest Rangers first and then tell them that we're coming so that they could start searching for us, in case we didn't make it.
+WENDY: ( to herself ) If Jack won't come with us, we'll just have to tell him that we are going by ourselves. That's all there is to it.
+WENDY: DANNY ( OFF )
 DANNY: Red Rum.
-WENDY: Danny... what's the matter, hon?
+WENDY: Danny. what's the matter, hon?
 DANNY: Red Rum.
 WENDY: Are you having a bad dream?
-WENDY: Danny?  Hon?
+WENDY: Danny? Hon?
 TONY: Danny's not here, Mrs. Torrance.
-WENDY: Come on, hon, wake up.  You just had a bad dream.  Everything's okay.
+WENDY: Come on, hon, wake up. You just had a bad dream. Everything's okay.
 TONY: Danny can't wake up, Mrs. Torrance.
-WENDY: Danny, wake up!  Come on, right now,
+WENDY: Danny, wake up! Come on, right now,
 WENDY: Wake up.
 TONY: Danny's gone away, Mrs. Torrance.
-WENDY: Danny...
-RANGER: (over radio) This is KDK 1 calling KDK 12.  KDK 1 calling KDK 12.  Are you receiving me?  This is KDK 1 calling KDK 12. KDK 1 calling KDK 12.  Do you read me?
-RANGER: (over radio) This is KDK 1 calling KDK 12.  KDK 1  calling KDK 12.  Are you receiving me?
-RANGER: (over radio) KDK 1 calling KDK 12.  KDK 1 calling KDK 12.  Do you read me?
-RANGER: (over radio) This is KDK 1 calling KDK 12.  KDK 1 calling KDK 12.
-RANGER: (over radio) Are you recei...
-RANGER: (over phone) Good evening.  Forest Service.
-HALLORAN: (into phone) Hallo, this is Dick Halloran again. I called a while ago about the folks at the Overlook Hotel.
-RANGER: (into phone) Oh yeah.  We tried to contract them several times by radio, but they didn't answer.
-RANGER: (into phone) Now, maybe they've got their radio turned off or they're in a place where they can't hear it.  If you like me to, I'd be glad to try them again later on.
-HALLORAN: (into phone) Oh, that's very nice of you.  I'll call you back later.  Bye.
-HALLORAN: Pardon me, miss.  What time will we get to Denver?
+WENDY: She leans forward and puts her arm round him. She strokes his hair.
+RANGER: ( over radio ) This is KDK 1 calling KDK 12. KDK 1 calling KDK 12. Are you receiving me? This is KDK 1 calling KDK 12. KDK 1 calling KDK 12. Do you read
+RANGER: ( over radio ) This is KDK 1 calling KDK 12. KDK 1 calling KDK 12. Are you receiving me?
+RANGER: ( over radio ) KDK 1 calling KDK 12. KDK 1 calling KDK 12. Do you read me?
+RANGER: ( over radio ) This is KDK 1 calling KDK 12. KDK 1 calling KDK 12.
+RANGER: ( over radio ) Are you recei.
+RANGER: ( over phone ) Good evening. Forest Service.
+HALLORAN: ( into phone ) Hallo, this is Dick Halloran again. I called a while ago about the folks at the Overlook Hotel.
+RANGER: ( into phone ) Oh yeah. We tried to contract them several times by radio, but they didn't answer.
+RANGER: ( into phone ) Now, maybe they've got their radio turned off or they're in a place where they can't hear it. If you like me to, I'd be glad to try them again later on.
+HALLORAN: ( into phone ) Oh, that's very nice of you. I'll call you back later. Bye.
+HALLORAN: Pardon me, miss. What time will we get to Denver?
 STEWARDESS: We're due to arrive at 8:20, sir.
 HALLORAN: Thank you very much.
-DURKIN: (into phone) Durkin's garage.
-HALLORAN: (over phone) Hello, can I speak to Larry?
-DURKIN: (into phone) Speaking.
-HALLORAN: (into phone) Hello Larry.  This is Dick, Dick Halloran.
-DURKIN: (into phone) Dick, how are you doing?  How's the weather down there?
-HALLORAN: (into phone) I'm not in Florida, Larry.  I'm calling from Stapleton Airport.
-DURKIN: (into phone) What the hell are you doing down there?
-HALLORAN: (into phone) Well, I just got in from Miami, and I've got to get up to the Overlook today.  What's the weather like up there?
-DURKIN: (into phone) Well, the snow ploughs are keeping things moving in town, but the mountain roads are completely blocked.
-HALLORAN: (into phone) That means I'm going to need a snowcat to get up there, Larry. Can you fix me up with one?
-DURKIN: (into phone) What's the big deal about getting up there today, especially in this kind of weather?
-HALLORAN: (into phone) Larry, just between you and me, we've got a very serious problem with the people who are taking care of the place.  They've turned out to be completely unreliable assholes. Ullman phoned me last night, and I'm supposed to go up there and find out if they have to be replaced.
-DURKIN: (into phone) How long is it going to take you to get up here?
-HALLORAN: (into phone) Oh about five hours.  I'm gonna rent a car here at the airport.
-DURKIN: (into phone) Okay, Dick - I'll take care of it.
-HALLORAN: (into phone) Oh thanks a lot, Larry.  I really appreciate that.
-DURKIN: (into phone) That's all right.  Drive carefully.
-VOICE OVER RADIO: Well, good morning to you, Hal and Charlie on Radio 63, KHOW Denver
-VOICE OVER RADIO (CONT'D): and, Charlie, we have what you call your bad day out there.  What you call your heavy snow, snowing hard throughout the eh Denver metro area. Many of the mountain passes - Wolf Creek, and Red Mountain passes are already closed...
-VOICE OVER RADIO (CONT'D): and the chain law is in effect right now at the Eisenhower Tunnel. I guess as we've just heard from the news forecast, Charlie, a few of the flights are still landing out at Stapleton International Airport, and, with these early storms like this, I guess the entire airport will probably be closed within the hour.  Yeah, they're just not prepared.  The storm will continue throughout the day, and the national weather service... has declared a stopmans and travelers advisory... for all areas outlying the Denver metro region - get the cows in the barn. There you go.  Many businesses...
-WENDY: Hon,
-WENDY (CONT'D): ...listen to me for a minute, will you, hon?
-WENDY: I'm just going to go and talk to Daddy for a few minutes and I'll be right back.  I want you to just stay here and watch your cartoons, okay?
+DURKIN: ( into phone ) Durkin's garage.
+HALLORAN: ( over phone ) Hello, can I speak to Larry?
+DURKIN: ( into phone )
+HALLORAN: ( into phone ) Hello Larry. This is Dick, Dick
+DURKIN: ( into phone ) Dick, how are you doing? How's the weather down there?
+HALLORAN: ( into phone ) I'm not in Florida, Larry. I'm calling from Stapleton Airport.
+DURKIN: ( into phone ) What the hell are you doing down
+HALLORAN: ( into phone ) Well, I just got in from Miami, and I've got to get up to the Overlook today. What's the weather like up
+DURKIN: ( into phone ) Well, the snow ploughs are keeping things moving in town, but the mountain roads are completely
+HALLORAN: ( into phone ) That means I'm going to need a snowcat to get up there, Larry. Can you fix me up with one?
+DURKIN: ( into phone ) What's the big deal about getting up there today, especially in this kind of weather?
+HALLORAN: ( into phone ) Larry, just between you and me, we've got a very serious problem with the people who are taking care of the place. They've turned out to be completely unreliable assholes. Ullman phoned me last night, and I'm supposed to go up there and find out if they have to be replaced.
+DURKIN: ( into phone ) How long is it going to take you to get up here?
+HALLORAN: ( into phone ) Oh about five hours. I'm gonna rent a car here at the airport.
+DURKIN: ( into phone ) Okay, Dick - I'll take care of it.
+HALLORAN: ( into phone ) Oh thanks a lot, Larry. I really appreciate that.
+DURKIN: ( into phone ) That's all right. Drive carefully.
+WENDY: WENDY strokes his hair, then takes hold of his chin and turns his face to her.
+WENDY: I'm just going to go and talk to Daddy for a few minutes and I'll be right back. I want you to just stay here and watch your cartoons,
 WENDY: Okay, hon?
 TONY: Yes, Mrs. Torrance.
-WENDY: All right.  Now I'll be back in just about five minutes.  I'm gonna lock the door behind me.
-WENDY: Jack...?
-WENDY: Jack...?
+WENDY: All right. Now I'll be back in just about five minutes. I'm gonna lock the door behind me.
+WENDY: She looks about and then moves L-R past table, with his typewriter on it. She walks L-R behind pillar and appears again on the other side. CAMERA TRACKS with her.
+WENDY: WENDY stops and looks about.
 JACK: How do you like it?
-WENDY: Jack!
+WENDY: How do you like it?
 JACK: How do you like it?
 JACK: What are you doing down here?
-WENDY: I just eh... wanted...
-WENDY (OFF): ...to talk to you.
-JACK: Okay.  Let's talk.
+WENDY: I just eh. wanted.
+JACK: Okay. Let's talk.
 JACK: What do you want to talk about?
-WENDY (OFF): I can't really remember.
+WENDY: CUT TO:
+M.S. JACK: WENDY ( OFF )
 JACK: You can't remember.
-WENDY (OFF): No, I can't.
-JACK (OFF): Maybe it was about Danny.  Maybe it was about him.
-JACK (OFF): I think we should discuss Danny.
-JACK (OFF): I think... we should discuss what should be done with him.
 JACK: What should be done with him?
-WENDY (OFF): I don't know.
-JACK: I don't think that's true.  I think you have some very definite ideas about what should be done with Danny... and I'd like to know what they are.
-WENDY: Well I... I think maybe he should be taken to a doctor.
+JACK: I don't think that's true. I think you have some very definite ideas about what should be done with Danny. and I'd like to know what they are.
+WENDY: Well I. I think maybe he should be taken to a doctor.
+M.S. JACK: You think maybe he should be taken to a doctor?
 JACK: You think maybe he should be taken to a doctor?
-WENDY: Yes...
+M.S. WENDY: CUT TO:
+WENDY: CUT TO:
+M.S. JACK: When do you think maybe he should be taken to a doctor?
 JACK: When do you think maybe he should be taken to a doctor?
 WENDY: As soon as possible?
+M.S. JACK: As soon as possible.
 JACK: As soon as possible.
-WENDY (OFF): Jack...
-WENDY: ...please...
-JACK: You believe his health might be at stake?
-WENDY: Ye...yes.
+WENDY: CUT TO:
+JACK: You believe his health might be at
+WENDY: CUT TO:
 JACK: And you are concerned about him?
-WENDY: Yes.
+WENDY: CUT TO:
 JACK: And are you concerned about me?
 WENDY: Of course I am.
-JACK (OFF): Of course you are.
-JACK: Have you ever thought about my responsibilities?
-WENDY (OFF): Oh Jack, what are you talking about?
+JACK: Have you ever thought about my Oh Jack, what are you talking about?
 JACK: Have you ever had a single moment's thought about my responsibilities? Have you ever thought for a single solitary moment about my responsibilities to my employers?
 JACK: Has it ever occurred to you that I have agreed to look after the Overlook Hotel until May the first? Does it matter to you at all that the owners have placed their complete confidence and trust in me, and that I have signed a letter of agreement, a contract, in which I have accepted that responsibility?
-JACK (OFF): Do you have the slightest idea what a moral and ethical principal is? Do you?
-JACK: Has it ever occurred to you what would happen to my future, if I were to fail to live up to my responsibilities?
-JACK (OFF): Has it ever occurred to you?
+JACK: Has it ever occurred to you what would happen to my future, if I were to fail to live up to my
 JACK: Has it?
 WENDY: Stay away from me!
-JACK: Why?
+JACK: I just want to go back to my room.
 WENDY: I just want to go back to my room.
-JACK: Why?
-WENDY: Well... I'm very confused, and I just need a chance to think things over.
-JACK: You've had your whole fucking life to think things over - what's good a few minutes more going to do you now?
-WENDY: Jack... stay away from me... please.
-WENDY: Don't hurt me!  Don't hurt me!
+JACK: WENDY sobs.
+WENDY: Well. I'm very confused, and I just need a chance to think things
+JACK: You've had your whole fucking life to think things over - what's good a few minutes more going to do you Jack. stay away from me. please.
+WENDY: Jack. stay away from me. please.
+WENDY: Don't hurt me! Don't hurt me!
 JACK: I'm not going to hurt you.
 WENDY: Stay away from me,
-JACK: Wendy!
-WENDY: Stay away...!
-JACK: Darling, light of my life, I'm not going to hurt you.  You didn't let me finish my sentence.  I said 'I'm not going to hurt you... I'm just going to bash your brains in!'  I'm going to bash them right the fuck in.
+JACK: Stay away.!
+WENDY: Stay away.!
+JACK: Darling, light of my life, I'm not going to hurt you. You didn't let me finish my sentence. I said 'I'm not going to hurt you. I'm just going to bash your brains in!' I'm going to bash them right the fuck in.
 WENDY: Stay away from me!
 WENDY: Stay away from me!
 JACK: I'm not going to hurt you.
 WENDY: Stay away from me!
-WENDY: Stay away from me!  Please...
+WENDY: Stay away from me! Please.
 JACK: Stop swinging the bat.
 WENDY: Stay away from me.
 JACK: Put the bat down, Wendy.
 WENDY: Stop it!
 JACK: Wendy give me the bat.
-WENDY: Stay... stay away!
+WENDY: Stay. stay away!
 JACK: Give me the bat.
 WENDY: Stay away from me.
 JACK: Give me the bat.
@@ -793,122 +806,95 @@ JACK: Stop swinging the bat.
 WENDY: Get down.
 JACK: Give me the bat.
 WENDY: Go away from me.
-JACK: Wendy...
+JACK: Go away.
 WENDY: Go away.
 JACK: Give me the bat.
 WENDY: Go away.
 JACK: Give me the bat.
-JACK: Goddamn!
-WENDY: Oh...oh!
-JACK: Hey... what are you doing?
-JACK: Ohhh... what are you doing?
-JACK: Hey, wait a minute... What are you doing?
+JACK: WENDY hits JACK on head with bat.
+WENDY: DISSOLVE TO:
+JACK: Hey. what are you doing?
+JACK: Ohhh. what are you doing?
+JACK: Hey, wait a minute. What are you
 JACK: What are you doing?
-JACK (OFF): Hey, wait a minute!
-JACK (OFF): What are you doing?
-JACK (OFF): Open the door.
-JACK (OFF): Goddamit!  Let me out of here! Open the goddam door.
-JACK: Wendy, listen.  Let me out of here and I'll forget the whole goddam thing.  It'll be just like nothing ever happened.
-JACK: Wendy, baby...
+JACK: Wendy, listen. Let me out of here and I'll forget the whole goddam thing. It'll be just like nothing ever happened.
+JACK: Wendy, baby.
 JACK: I think you hurt my head real bad.
-JACK: I'm dizzy.  I need a doctor.
-JACK (OFF): Honey... don't leave me in here.
-WENDY: I'm gonna go now -
-WENDY: I'm going to try and get... get Danny down to the Sidewinder... in the Snowcat today.
+JACK: I'm dizzy. I need a doctor.
+WENDY: I'm gonna go now - I'm going to try and get. get Danny down to the Sidewinder. in the Snowcat today.
+WENDY: I'm going to try and get. get Danny down to the Sidewinder. in the Snowcat today.
 WENDY: I'll bring back a doctor.
-JACK: Wendy...
-WENDY (OFF): I'm gonna go now.
-JACK: Wendy...
-WENDY: Yes?
-JACK: You've got a big surprise coming to you.
+JACK: WENDY ( OFF )
+JACK: WENDY ( OFF )
+JACK: CUT TO:
+WENDY: CUT TO:
+JACK: You've got a big surprise coming to
 JACK: You're not going anywhere.
-JACK (OFF): Go check out the Snowcat and the radio and see what I mean.
-JACK (OFF): Go check it out!
 JACK: Go check it out!
 JACK: Go check it out!
-JACK: Wendy?
-GRADY (OFF): It's Grady, Mr. Torrance.  Delbert Grady.
-JACK: Grady... oh.
-JACK: Oh Grady... right.  Grady... er...
+JACK: CAMERA TRACKS BACK as JACK feels his R. ankle.
+JACK: Grady. oh.
+JACK: Oh Grady. right. Grady. er.
 JACK: Hullo Grady.
-GRADY (OFF): Mr. Torrance, I see you can hardly have taken care of the...
-GRADY (OFF): business we discussed.
 JACK: No need to rub it in, Mr. Grady. I'll deal with that situation as soon as I get out of here.
-GRADY (OFF): Will you indeed, Mr. Torrance.
-GRADY (OFF): I wonder.  I have my doubts.
-GRADY (OFF): I and others have come to believe... that your heart is not in this, that you haven't the belly for it.
-JACK: Just give me one more chance to prove it, Mr. Grady.  That's all I ask.
-GRADY (OFF): Your wife appears to be stronger than we imagined, Mr. Torrance. Somewhat more resourceful, she seems to have got the better of you.
-JACK: For the moment, Mr. Grady.  Only for the moment.
-GRADY (OFF): I fear that you will have to deal with this matter in the harshest possible way, Mr. Torrance.  I fear that is the only thing to do.
+JACK: Just give me one more chance to prove it, Mr. Grady. That's all I Your wife appears to be stronger than we imagined, Mr. Torrance. Somewhat more resourceful, she seems to have got the better of you.
+JACK: For the moment, Mr. Grady. Only for the moment.
 JACK: There's nothing I look forward to with the greater pleasure, Mr. Grady.
-GRADY (OFF): You give your word on that do you, Mr. Torrance?
 JACK: I give you my word.
-TONY'S VOICE: Red Rum.  Red Rum.  Red Rum.  Red Rum.
+TONY'S VOICE: Red Rum. Red Rum. Red Rum. Red
 TONY'S VOICE: Red Rum.
 TONY'S VOICE: Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.
+TONY'S VOICE: Red Rum. Red Rum.
+TONY'S VOICE: Red Rum. Red Rum.
 TONY'S VOICE: Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.  Red Rum.  Red Rum.  Red Rum.
+TONY'S VOICE: Red Rum. Red Rum. Red Rum. Red Rum. Red Rum.
 TONY'S VOICE: Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.
+TONY'S VOICE: Red Rum. Red Rum.
 TONY'S VOICE: Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.  Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.  Red Rum.  Red Rum.  Red Rum.  Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.
-TONY'S VOICE: Red Rum.  Red Rum.  Red Rum.
-DANNY: Red Rum.  Red Rum.  Red Rum.
-WENDY: Danny.  Danny, stop it.  Danny!
-DANNY: Red Rum.  Red Rum.  Red Rum.  Red Rum.
-WENDY: Eh...
+TONY'S VOICE: Red Rum. Red Rum. Red Rum.
+TONY'S VOICE: Red Rum. Red Rum.
+TONY'S VOICE: Red Rum. Red Rum. Red Rum. Red Rum. Red Rum. Red Rum.
+TONY'S VOICE: Red Rum. Red Rum.
+TONY'S VOICE: Red Rum. Red Rum. Red Rum.
+DANNY: Red Rum. Red Rum. Red Rum.
+WENDY: Danny. Danny, stop it. Danny!
+DANNY: Red Rum. Red Rum. Red Rum. Red
+WENDY: She reacts - CAMERA ZOOMS IN on her face.
 JACK: Wendy, I'm home.
 JACK: Come out, come out, wherever you are!
 WENDY: Danny, I can't get out!
-WENDY: Run, run and hide.  Run, quick!
+WENDY: Run, run and hide. Run, quick!
 JACK: Little pigs, little pigs, let me come in!
-JACK: Not by the hair on your chiny, chin, chin.  Then I'll huff, and I'll puff
-JACK (CONT'D): and I'll blow your house in.
-WENDY: Jack.  Please.  Don't... Don't...
-WENDY: Don't!  Oh!  Please
-WENDY: Stop!
-WENDY (OFF): Jack!
-WENDY (OFF): Stop it!  Stop it!
-WENDY (OFF): Stop it!
+JACK: Not by the hair on your chiny, chin, chin. Then I'll huff, and I'll puff
+WENDY: Jack. Please. Don't. Don't.
+WENDY: Don't! Oh! Please
+WENDY: CUT TO:
 JACK: Here's Johnny!
-HALLORAN (OFF): Hallo!
-HALLORAN (OFF): Anybody here?
-HALLORAN (OFF): Hallo!  Anybody here?
-HALLORAN: Hallo!
-HALLORAN: Anybody here?
-HALLORAN: Hallo!  Hallo!  Anybody here?
-JACK: Danny!  Danny boy!
-JACK: Danny!
-JACK: Danny!  Danny!
-WENDY: Danny!
-JACK: Danny!
-JACK: Danny!
-JACK: Danny!
-JACK: Danny!  I'm coming.  I'm coming Dan!
-WENDY: Danny!
-WENDY: Oh!
+HALLORAN: HALLORAN moves R-L to entrance to Lobby.
+HALLORAN: Anybody here? Hallo! Hallo! Anybody here?
+HALLORAN: Hallo! Hallo! Anybody here?
+JACK: Danny! Danny boy!
+JACK: CUT TO:
+JACK: Danny! Danny!
+WENDY: CAMERA TRACKS BACK before WENDY as she goes up next flight of stairs. She stops at top of stairs and looks along M.L.S. WENDY'S P.O.V. Shooting along landing into open doorway of bedroom.
+JACK: CUT TO:
+JACK: CUT TO:
+JACK: CUT TO:
+JACK: Danny! I'm coming. I'm coming Dan!
+WENDY: WENDY stumbles forward through coffee pots and rings on floor. CAMERA TRACKS BACK before her.
+WENDY: WENDY turns R-L. CAMERA TRACKS with her. She moves away along corridor. CAMERA TRACKS after her. She stops at corner. CAMERA CONTINUES PAST her revealing HALLORAN lying dead on floor of lobby.
 INJURED GUEST: Great party, isn't it?
-JACK (OFF): Danny!  Danny!  I'm coming!
-JACK: You can't get away.  I'm right behind you.
-WENDY: Danny!
-JACK: Danny!
-JACK: Danny!
-JACK (OFF): Danny!
-JACK: Danny!
-WENDY: Danny!  Danny!
-DANNY: Mommy...
-WENDY (OFF): Danny, come here!
-DANNY: Mommy... Mommy...!
-WENDY (OFF): Danny!
-DANNY: Mommy!
-WENDY: Oh!
+JACK: You can't get away. I'm right behind you.
+WENDY: WENDY runs forward and then moves R-L. CAMERA PANS with her - she stops cam.R.f.g. and SCREAMS.
+JACK: CUT TO:
+JACK: He looks cam.L.
+JACK: CUT TO:
+WENDY: Danny! Danny!
+DANNY: WENDY ( OFF )
+DANNY: Mommy. Mommy.!
+DANNY: WENDY hugs and kisses DANNY.
+WENDY: WENDY hugs and kisses DANNY.
 WENDY: Oh Danny!
-JACK: Danny!  Where...
-JACK: Danny!
+JACK: Danny! Where.
+JACK: He stumbles and lies in snow. He struggles up to his feet.
 OVERLOOK HOTEL: JULY 4th BALL

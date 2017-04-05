@@ -1,712 +1,799 @@
-WATSON (V.O.): The year was 1891. London was the capital of the world -- the height of modernity, with the hiss of steam and smell of coal in the air. It was also the great cesspool into which all the sinners and criminals of the empire drained.
-WATSON (V.O.): I had come to London, ten years prior, to find a life after the Afghan war. I had hoped to start a medical practice and settle into a nice, steady existence. The life I found was anything but nice and steady.
-WATSON (V.O.): And that had everything to do with one man. My friend, my partner, my burden...
-WATSON (V.O.): ... Sherlock Holmes.
-MAN: Sherlock Holmes?!
+SHERLOCK HOLMES: Written by Michael Robert Johnson, Sir Arthur Conan Doyle
+MAN: Sherlock Holmes?! My apologies. Send the bill to John Watson, 221B Baker Street.
 HOLMES: My apologies. Send the bill to John Watson, 221B Baker Street.
-HOLMES (V.O.): Head cocked to the left, partial deafness in right ear. First point of attack.
-HOLMES (V.O.): Then throat, paralyze vocal chords, stop screaming.
-HOLMES (V.O.): Stink of alcohol, heavy drinker -- knuckles to liver.
+ANOTHER ANGLE: Holmes bursts out of an alley, sprints round a corner and runs across a courtyard to a side door. WE PULL BACK to see the FACADE OF ST. PAUL'S CATHEDRAL.
 THUG: What's goin' on, John?
 HOLMES: Hhhmm, good cigar. Who do you work for?
-HOLMES: Watson.    Perfect timing.
+OMITTED: 7 INT. CATHEDRAL CRYPTS - BALCONY - NIGHT 7
+ANOTHER ANGLE: Holmes surveys the scene AT A DISTANCE, out of sight. Eyes alive with intelligence, processing angles when A HEAVY HAND falls on his shoulder. PULL BACK to ( The following exchange in whispers. )
+HOLMES: Watson. Perfect timing.
 WATSON: Nice hat.
-HOLMES: Just got it.    Where's Lestrade?
+HOLMES: Just got it. Where's Lestrade?
 WATSON: Getting his troops in formation. Is that your blood or theirs?
-HOLMES: I don't know.    It's an old shirt.
+HOLMES: I don't know. It's an old shirt.
 WATSON: You left this behind.
 HOLMES: Knew I'd forgotten something. Thought I'd left the stove on.
 WATSON: You did.
-HOLMES: Right.    Shall we?
-MAN #1: Des?
+HOLMES: Right. Shall we?
+ANOTHER ANGLE: The two HARD MEN on guard turn fast and gather together as they hear footsteps approaching.
+MAN #1: ( CONTINUED )
 WATSON: Yeah, s'me.
 WATSON: The girl.
 WATSON: Lord Blackwood?!
-BLACKWOOD: Well done, Holmes. And Watson as well.
-WATSON: Stay right there.
-BLACKWOOD: Tell me, doctor, as a medical man, how did you like my work? (beat) The fifth one was so scrawny, it was over before I'd finished the first incision.
-HOLMES: No.
-HOLMES: Look.
-HOLMES: Look.
-BLACKWOOD: What a shame.    That would've been fun.
+BLACKWOOD: Well done, Holmes. And Watson as
+WATSON: Stay right there. Tell me, doctor, as a medical man, how did you like my work? The fifth one was so scrawny, it was over before I'd finished the first incision.
+BLACKWOOD: Tell me, doctor, as a medical man, how did you like my work? The fifth one was so scrawny, it was over before I'd finished the first incision.
+HOLMES: Watson struggles forward against Holmes' grip.
+HOLMES: ( CONTINUED )
+HOLMES: Watson looks, and sees it and his eyes flare wide. INCHES FROM WATSON'S RIGHT EYE is the needle-pointed end of a QUIVERING PIECE OF HIGH-TENSILE WIRE, almost the other end held between Blackwood's hands. A really nasty concealed weapon. One more step and Watson gets impaled in the eye.
+BLACKWOOD: What a shame. That would've been
 HOLMES: Impeccable timing, Lestrade.
-LESTRADE: (vis Blackwood) Is that -- ?
+LESTRADE: ( vis Blackwood ) Is that ?
 WATSON: It is.
-HOLMES: (re: girl) We've gone for the doctor... (re: Blackwood) And one for the rope.
+HOLMES: ( re: girl ) We've gone for the doctor. ( re: Blackwood ) And one for the rope.
 LESTRADE: You should've waited for my help.
-HOLMES: If I had, you'd be cleaning up a corpse and chasing a rumor. Besides, the girl's parents hired me, not the Yard. (a wry smile) I can't imagine why they thought you'd need any assistance.
+HOLMES: If I had, you'd be cleaning up a corpse and chasing a rumor. Besides, the girl's parents hired me, not the Yard. I can't imagine why they thought you'd need any assistance.
 LESTRADE: What do you make of that?
-HOLMES: Some kind of ceremony. Five girls killed beneath cathedrals at the height of the full moon. (indicating) The double circle's for his own protection.
-LESTRADE: London will breathe a sigh of relief --
-WATSON: -- at the excellent work of Scotland Yard. As usual.
+HOLMES: Some kind of ceremony. Five girls killed beneath cathedrals at the height of the full moon. The double circle's for his own London will breathe a sigh of Scotland Yard. As usual.
+LESTRADE: London will breathe a sigh of Scotland Yard. As usual.
+WATSON: at the excellent work of Scotland Yard. As usual.
 HOLMES: Bravo, Lestrade. Have a cigar.
-WATSON: 71 over 104... very good, Captain.
+OMITTED: 10A INT. LAB 10A
+WATSON: 71 over 104. very good, Captain.
 CAPTAIN PHILIPS: Me nerves are the best they been in years, thanks to you.
-CAPTAIN PHILIPS: Tell me something -- your new offices. There won't be so many stairs, I hope?
-WATSON: No -- ground floor. And there'll be a woman's touch, too.
-WATSON: Let's give it a little longer, just to be safe. (beat) I'll be right back.
-MRS. HUDSON: (panting) I won't go in there by myself, not while he's in this state.
+CAPTAIN PHILIPS: Tell me something your new offices. There won't be so many stairs, I hope?
+WATSON: No ground floor. And there'll be a woman's touch, too.
+WATSON: Let's give it a little longer, just to be safe. I'll be right back.
+MRS. HUDSON: ( panting ) I won't go in there by myself, not while he's in this state.
 WATSON: You're not going in at all.
 MRS. HUDSON: What will I do when you leave? He'll burn the house down around me. What will he do? Couldn't you have a longer engagement?
-WATSON: He just needs a new case, that's all.
+WATSON: He just needs a new case, that's
 WATSON: I smell burning.
 WATSON: Why don't you take Captain Philips and give him a nice cup of tea.
 MRS. HUDSON: Come on, Captain, let's go down. It'll be quieter.
-WATSON: (as they leave) And perhaps some tea and bread up here when you can.
+WATSON: ( as they leave ) And perhaps some tea and bread up here when you can.
 WATSON: May I join you in the armory?
-HOLMES: Please... Watson, I've been working on a device which will suppress the sound of a gunshot.
-HOLMES: Please... Don't, don't, don't...
-WATSON: It needs work.     May I see?...
-HOLMES: Gently, gently, Watson...
-HOLMES: I can't but agree. My mind rebels at stagnation. Give me problems, give me work. The sooner the better.
-WATSON: Paper?
-WATSON: Let's see, we have a letter here from Mrs. Ramsey in Queen's Park -- her husband has gone missing.
+HOLMES: Please. Watson, I've been working on a device which will suppress the sound of a gunshot.
+HOLMES: Please. Don't, don't, don't. It needs work. May I see?.
+WATSON: It needs work. May I see?.
+HOLMES: Gently, gently, Watson. It's been three months since the last case. About time you found another one.
+WATSON: It's been three months since the last case. About time you found another one.
+HOLMES: I can't but agree. My mind rebels at stagnation. Give me problems, give me work. The sooner the
+WATSON: Watson hands Holmes the newspaper.
+WATSON: Let's see, we have a letter here from Mrs. Ramsey in Queen's Park her husband has gone missing.
 HOLMES: He's in Belgium with the scullery maid. Is it December?
 WATSON: Yes, Holmes. Lady Radford reports a missing emerald bracelet.
 HOLMES: Insurance swindle. Lord Radford likes fast women and slow ponies. I see you're the attending physician at Blackwood's hanging.
 WATSON: Yes, it's our last case together and I wanted to see it through to the end.
-WATSON: Mr. Lewis is seeking...
-HOLMES: (to Watson) There is only one case that intrigues me at present... the curious case of Mrs. Hudson, the absentee landlady.
-(MORE): I have been studying her comings and goings and they appear most sinister.
-MRS. HUDSON: Tea, Mr. Holmes.
+WATSON: Mr. Lewis is seeking.
+HOLMES: ( to Watson ) There is only one case that intrigues me at present. the curious case of Mrs. Hudson, the absentee landlady.
+MRS. HUDSON: Tea, Mr. Holmes. Is it poisoned, nanny?
 HOLMES: Is it poisoned, nanny?
-MRS. HUDSON: There's enough of that in you already.
+MRS. HUDSON: There's enough of that in you
 HOLMES: Don't touch that. Everything is in its proper place, as per usual.
-MRS. HUDSON: He's killed the dog... again.
+MRS. HUDSON: He's killed the dog. again.
 WATSON: What have you done to Gladstone this time?
 HOLMES: I was simply testing a new anesthetic. He doesn't mind.
-WATSON: Holmes!   As your doctor...
-HOLMES: He'll be right as a trivet in no time.
+WATSON: Holmes! As your doctor.
+HOLMES: He'll be right as a trivet in no
+WATSON: . and your friend, you've been in this room for two weeks. I insist you get out of here.
 HOLMES: There's nothing of interest to me out there, on earth, at all.
+WATSON: So, you have nothing to do?
+HOLMES: Then you're free this evening.
 WATSON: Then you're free this evening.
-HOLMES: Absolutely.
+HOLMES: For dinner.
 WATSON: For dinner.
-HOLMES: Wonderful.
+HOLMES: The Royale.
 WATSON: The Royale.
 HOLMES: My favorite.
 WATSON: Mary's coming.
 HOLMES: Not available.
 WATSON: You're meeting her, Holmes.
 HOLMES: Have you proposed yet?
-WATSON: I'm still looking for the right ring.
+WATSON: I'm still looking for the right
 HOLMES: Then it's not official.
+WATSON: It's happening, like it or not. Half past eight. The Royale.
 WATSON: And wear a jacket.
-WATSON: Holmes!   You're early.
-HOLMES: Fashionably.
+WATSON: Holmes! You're early.
+HOLMES: May I present Miss Mary Morstan.
 WATSON: May I present Miss Mary Morstan.
-HOLMES: My pleasure. For the life of me I don't know why it's taken him so long to get us properly introduced.
+HOLMES: My pleasure. For the life of me I don't know why it's taken him so long to get us properly
 MARY: The pleasure's mine. It really is a thrill to meet you, Mr. Holmes.
-(MORE): I've a whole stack of detective novels at home. Poe, Wilkie Collins...
-WATSON: (proudly) It's true.
-HOLMES: (livening up) Oh, no no. The little details are by far the most important. Take Watson...
+WATSON: ( proudly ) It's true.
+MARY: They can seem a bit far-fetched sometimes, though. Making these grand assumptions out of tiny Oh, no no. The little details are by far the most important. Take I intend to.
+HOLMES: ( livening up ) Oh, no no. The little details are by far the most important. Take I intend to.
 MARY: I intend to.
-HOLMES: ... see that walking-stick? A rare African snakewood hiding a blade of high-tensile steel. A few were awarded to veterans of the Afghan war, so I can assume he's a decorated soldier. Strong, brave, born to be a man of action. And neat, like all military men. Then I check his pockets... ah. A stub from a boxing match. Now I can infer he's a bit of a gambler. (a wink) I'd keep an eye on that, by the way.
+HOLMES: . see that walking-stick? A rare African snakewood hiding a blade of high-tensile steel. A few were awarded to veterans of the Afghan war, so I can assume he's a decorated soldier. Strong, brave, born to be a man of action. And neat, like all military men. Then I check his pockets. ah. A stub from a boxing match. Now I can infer he's a bit of a gambler. I'd keep an eye on that, by the Those days are behind me.
 WATSON: Those days are behind me.
-HOLMES: Yes, right behind you. (leaning in to Mary) He's cost us the rent more than once.
+HOLMES: Yes, right behind you. He's cost us the rent more than
 MARY: With all due respect, Mr. Holmes, you know him. But what about a perfect stranger? What can you tell about me?
-WATSON: I don't think that's necessary --
-MARY: No, it'd be wonderful.   I insist.
-HOLMES: You insist? (at Watson) She insisted. (instantly) You're a governess.
+WATSON: I don't think that's necessary
+HOLMES: Yes, I doubt
+MARY: No, it'd be wonderful. I insist.
+HOLMES: You insist? She insisted. You're a governess.
 MARY: Well done.
-WATSON: Yes, well done. So shall we --
+WATSON: Yes, well done. So shall we
 HOLMES: Your student's a boy of 8.
 MARY: Charlie's 7, actually.
-HOLMES: It's breathing. (back to Mary) Then he's tall for his age.
+HOLMES: It's breathing. Then he's tall for his age.
+HOLMES: He flicked ink at you today.
 MARY: Is there ink on my face?
-WATSON: There's nothing wrong with your face.
-WAITER: The gentleman has already ordered for himself. (to Watson) What would madam care for this evening?
+WATSON: There's nothing wrong with your The gentleman has already ordered for himself. What would madam care for this
+WAITER: The gentleman has already ordered for himself. What would madam care for this
 WATSON: Give us a few minutes, please.
-HOLMES: There are two drops on your ear... India blue's nearly impossible to wash off, anyway. A very impetuous act by the boy, but you're too experienced to react rashly -- which is why the lady you work for lent you that necklace. It's from Asprey's, flawless, not the gems of a governess. (beat) However, the jewels you're not wearing tell us rather more.
+HOLMES: There are two drops on your ear. India blue's nearly impossible to wash off, anyway. A very impetuous act by the boy, but you're too experienced to react rashly which is why the lady you work for lent you that necklace. It's from Asprey's, flawless, not the gems of a However, the jewels you're not wearing tell us rather more.
+WATSON: Both Watson and Mary scorch Holmes with their eyes. Holmes pauses. pauses, then:
 HOLMES: You were engaged.
-HOLMES: The ring is gone. But the lighter skin where it sat suggests you spent some time abroad wearing it proudly.
+HOLMES: The ring is gone. But the lighter skin where it sat suggests you spent some time abroad wearing it
 HOLMES: Or at least until someone informed you of its true and rather modest worth, at which point you broke off the engagement and returned to England for better prospects. A doctor perhaps.
-MARY: (low) Right on all counts but one. I didn't leave my fiance... he died.
+MARY: ( low ) Right on all counts but one. I didn't leave my fiance. he died.
+WATSON: Well done, old man.
 HOLMES: She's lovely.
-HOLMES: Well done.   Thank you. McMURDO Oi!   We ain't done here.
-HOLMES: (walking away) Not done. Finished. And as I said, thank you, it was most pleasurable.
-HOLMES: Hm.   Plymouth gin.
+HOLMES' POV: Happy couples eating, laughing, talking. Suddenly, Holmes hears no words. He just sees their mouths moving. The sound of silverware clinking and scraping on fine china rises to an ORCHESTRAL ROAR which becomes the ROAR of a BLOOD-THIRSTY MOB as a fist smashes into a face with a MEATY THUD.
+NIGHT: Holmes staggers back from the blow. He tastes his own blood from a split lip. It interests him. He is stripped to the waist, all sinew and gristle. His opponent, McMURDO huge but flabby bangs his fists together and moves in. Bets rage back and forth through the pressing CROWD.
+HOLMES' POV: The room and the fight are calm the sounds muffled and indistinct a complete sensory reversal of his experience in the restaurant. This is soothing to him, the ring is the only place where his mind stops racing.
+HOLMES: Well done. Thank you. Oi! We ain't done here.
+HOLMES: ( walking away ) Not done. Finished. And as I said, thank you, it was most Hm. Plymouth gin.
+HOLMES: Hm. Plymouth gin.
 GUARD CAPTAIN: Charlie, what the hell's going on down here?
-GUARD CAPTAIN: (to the prisoners in the cell next to Blackwood) You lot shut it! (to the guards) Charlie, get, down here and get him to the infirmary.
+CHARLIE: It's Jack, he tried to stop Blackwood from doing his spells. And now he's in some kind of fit.
+GUARD CAPTAIN: ( to the prisoners in You lot shut it! ( to the guards ) Charlie, get, down here and get him to the infirmary.
 GUARD CAPTAIN: All right, Blackwood, what's this all about?
 BLACKWOOD: I've a request.
-GUARD CAPTAIN: You don't get nothin' `til you stop this devil nonsense. That's a holy book --
-GUARD CAPTAIN: (louder) -- and you will respect it!
-GUARD CAPTAIN: Boy, you want me to muzzle you --
+GUARD CAPTAIN: You don't get nothin' `til you stop this devil nonsense. That's a holy book
+GUARD CAPTAIN: ( louder ) and you will respect it!
+GUARD CAPTAIN: Boy, you want me to muzzle you
+GUARD #2: Get him to the infirmary, now!
 BLACKWOOD: I've a request.
 WATSON: You know this is for eye surgery?
 HOLMES: I find that it lifts my spirits.
-WATSON: It's a pathological amorbic process, it increases tissue change and weakness. And you know what a black reaction comes on you afterwards.
-WATSON: (faking interest) Really? What about when you -- oops --
+WATSON: It's a pathological amorbic process, it increases tissue change and weakness. And you know what a black reaction comes on you
+HOLMES: Look at this. If you play a chromatic scale, they move clockwise. As soon as you switch to a pentatonic scale
+WATSON: ( faking interest ) Really? What about when you
+WATSON: Let's go. Lestrade wants you at Pentonville Prison.
 HOLMES: That's your job, not mine.
 WATSON: You're Blackwood's last request. Says he has information he'll give only to you.
-HOLMES: Look at that structure. What has it been? Five years' work already? Are you aware that is the first combination of bascule and suspension bridge. Very innovative.
-HOLMES: Oh, I have your cut from last night, by the way. You weren't there so I laid your customary bet --
-HOLMES: You're right... I'll keep it with your check book, locked safely away in my drawer.
-HOLMES: The opera house is featuring Don Giovanni and I could easily procure two tickets if you had some cultural inclination this evening.
+HOLMES: Look at that structure. What has it been? Five years' work already? Are you aware that is the first combination of bascule and suspension bridge. Very
+HOLMES: Oh, I have your cut from last night, by the way. You weren't there so I laid your customary
+HOLMES: You're right. I'll keep it with your check book, locked safely away in my drawer.
+HOLMES: The opera house is featuring Don Giovanni and I could easily procure two tickets if you had some cultural inclination this You have the grand gift of silence, Watson. It makes you quite invaluable as a companion.
 HOLMES: You have the grand gift of silence, Watson. It makes you quite invaluable as a companion.
 WATSON: And your grand gift is the uncanny ability to demoralize people. I was aware she'd been engaged. She told me.
-HOLMES: So that's a `no' to the opera then?
+HOLMES: So that's a `no' to the opera
 WATSON: That's my waistcoat.
 HOLMES: It's too small for you.
 WATSON: Well, it's my property and I want it back.
 WATSON: You go ahead. I've no business with him while he's alive.
 HOLMES: Where are all the other prisoners?
-GUARD: We had to move `em, sir, otherwise we were going to have a riot on our hands. There's something about him... it's like he can get inside your head.
+GUARD: We had to move `em, sir, otherwise we were going to have a riot on our hands. There's something about him. it's like he can get inside your head.
 HOLMES: I'm sure I can find my own way from here, if you have other duties to attend to.
 GUARD: Much obliged, sir. Thank you, thank you.
-BLACKWOOD: QUOTE from Revelations tbd...
-HOLMES: Love what you've done with the place.
+BLACKWOOD: QUOTE from Revelations tbd. Love what you've done with the Thank you for joining me.
+HOLMES: Love what you've done with the Thank you for joining me.
 BLACKWOOD: Thank you for joining me.
+HOLMES: A small point of concern.
 BLACKWOOD: How can I help?
-HOLMES: I'd already followed the murders with some interest and while my heart went out to the families of the victims, I couldn't but notice a criminal mastery in the stroke of your brush --
+HOLMES: I'd already followed the murders with some interest and while my heart went out to the families of the victims, I couldn't but notice a criminal mastery in the stroke of your brush
 BLACKWOOD: You're too kind.
-HOLMES: However, by comparison, your work in the crypt was akin to a finger painting.
+HOLMES: However, by comparison, your work in the crypt was akin to a finger So now you're curious as to whether there's a larger game afoot, and that's why you're really here.
 BLACKWOOD: So now you're curious as to whether there's a larger game afoot, and that's why you're really here.
 HOLMES: Actually, my friend will pronounce you dead shortly and I thought I might keep him company.
-BLACKWOOD: Allow me to enlighten you. Your mistake is to imagine that anything earthly has led to this moment. Your error in judgement is to assume I've been holding the brush at all -- I am merely the channel.
+BLACKWOOD: Allow me to enlighten you. Your mistake is to imagine that anything earthly has led to this moment. Your error in judgement is to assume I've been holding the brush at all I am merely the
+HOLMES: My only wish is that I'd caught you earlier. I might have spared five lives.
 BLACKWOOD: Those lives were a necessity, a sacrifice. Five otherwise meaningless creatures called to serve a greater purpose.
-HOLMES: I wonder if they'd let Watson and I dissect your brain -- after you're hanged, of course. I'd wager there's some deformity that would be scientifically significant. Then you would serve a greater purpose, too.
-BLACKWOOD: Mr. Holmes, you must widen your gaze. I'm concerned you underestimate the gravity of coming events. (beat) For you and I are bound on a journey that will twist the very fabric of nature. (beat) I sense fragility beneath your mask of logic, and it worries me. Steel your mind, Holmes, I need you.
+HOLMES: I wonder if they'd let Watson and I dissect your brain after you're hanged, of course. I'd wager there's some deformity that would be scientifically significant. Then you would serve a greater purpose, too.
+BLACKWOOD: Mr. Holmes, you must widen your gaze. I'm concerned you underestimate the gravity of coming events. For you and I are bound on a journey that will twist the very fabric of nature. I sense fragility beneath your mask of logic, and it worries me. Steel your mind, Holmes, I need
 HOLMES: I must say, you've come a long way down from the House of Lords.
 BLACKWOOD: But I will rise again.
 HOLMES: Bon voyage, Blackwood.
 BLACKWOOD: Pay attention! Three more shall die, and there is nothing you can do to save them.
 LESTRADE: What did he want?
-HOLMES: Nothing.
+HOLMES: Holmes looks at the priest.
 HOLMES: Don't think you're needed, Father. Not for this one.
 BLACKWOOD: Death is only the beginning.
-IRENE (O.S.): London's so bleak this time of year.
-IRENE: Not that I'm pining for New Jersey.
+IRENE: Not that I'm pining for New
 IRENE: I prefer to travel in the winter.
 IRENE: I brought a few souvenirs. Dates from Jordan, tea from Ceylon and olives from Cyclades. I thought we'd have a little tea party to cheer us up.
 IRENE: I came across this as I was setting up.
-IRENE: Theft of Velasquez portrait from the King of Spain... Missing naval documents lead to resignation of Bulgarian Prime Minister... Scandalous affair ends engagement of Hapsburg Prince to Romanov Princess.
+IRENE: Theft of Velasquez portrait from the King of Spain. Missing naval documents lead to resignation of Bulgarian Prime Minister. Scandalous affair ends engagement of Hapsburg Prince to Romanov
+HOLMES: Simply studying your methodology for when the authorities ask me to hunt you down.
 IRENE: I don't see my name anywhere.
 HOLMES: But your signature is clear.
 HOLMES: Ah, the Maharajah's missing diamond. Another souvenir?
 IRENE: He has a palace full of them. Let's not dwell on the past.
 IRENE: By the looks of things you're between cases at the moment.
 HOLMES: And you, husbands. No ring?
-IRENE: He snored. I'm Irene Adler again and I need your help to find someone. There's nobody more brilliant or who knows London better than you. Plus, it's a wonderful opportunity to see you again.
+IRENE: He snored. I'm Irene Adler again and I need your help to find someone. There's nobody more brilliant or who knows London better than you. Plus, it's a wonderful opportunity to see you
 IRENE: Why are you so suspicious?
-HOLMES: Should I answer chronologically or alphabetically?
+HOLMES: Should I answer chronologically or
+IRENE: This is all the information you
 HOLMES: Who are you working for?
 IRENE: I'm my own man.
 HOLMES: Keep your money. I didn't say I'd take the case.
 IRENE: They gave me our old room.
 IRENE: Hello, John.
+IRENE: emerges from the alley holding a lovely bunch of roses. She sniffs them appreciatively, walks on.
+IRENE: approaches a waiting carriage, looks around her, gets in.
 MORIARTY: I assume he'll do it?
-IRENE: Not for money, but for me.   I wager he'll find our man within twenty-four hours.
+IRENE: Not for money, but for me. I wager he'll find our man within twenty-four hours.
 MORIARTY: You wager?
-MORIARTY: A better word.     I sincerely hope it's accurate.
+IRENE: I'm certain.
+MORIARTY: A better word. I sincerely hope it's accurate.
+IRENE: Suddenly, the coach comes to a halt, they lurch forward.
+I: Suddenly, the coach comes to a halt, they lurch forward.
 BEGGAR: Ow, me leg!
+COACH DRIVER: Get out of it!
 BEGGAR: You run me over, sir, yes you did!
-COACH DRIVER: You fell right into the carriage!
+COACH DRIVER: You fell right into the carriage! A little charity would go a long way, yes it would, sir.
 BEGGAR: A little charity would go a long way, yes it would, sir.
 WATSON: Look at you, I can't believe you ran after her like a schoolboy again. Leaping about, all aflutter. Are you a masochist?
 HOLMES: Allow me to explain.
-WATSON: Don't you remember what she did to you? She turned you inside out, she made a proper idiot of you. I'm sorry, you were going to explain something...
-HOLMES: Thank you, I --
-WATSON: I know, instead of just being tricked into being a witness at her wedding like last time --
-HOLMES: I don't believe --
+WATSON: Don't you remember what she did to you? She turned you inside out, she made a proper idiot of you. I'm sorry, you were going to explain something.
+HOLMES: Thank you, I
+WATSON: I know, instead of just being tricked into being a witness at her wedding like last time
+HOLMES: I don't believe
 WATSON: You dress up as clergyman and actually perform the ceremony. She'd love that.
 HOLMES: You've had your fun.
 WATSON: What's she after, anyway?
 HOLMES: Now it's time to press on.
-WATSON: Go on.    I won't interrupt.
-HOLMES: It doesn't matter --
-WATSON: What could she possibly need? An alibi, a beard, a human canoe. She can sit on your back and paddle you up the Thames...
-HOLMES: Regrettably, we've had our last case together. Those are my dates.
+HOLMES: Now it's time to press on.
+WATSON: Go on. I won't interrupt.
+HOLMES: It doesn't matter
+WATSON: What could she possibly need? An alibi, a beard, a human canoe. She can sit on your back and paddle you up the Thames.
+HOLMES: Regrettably, we've had our last case together. Those are my I've already read it. Luke Reordon, four foot ten, red hair, missing two front teeth.
 WATSON: I've already read it. Luke Reordon, four foot ten, red hair, missing two front teeth.
-WATSON: Case solved! You're just not her type, Holmes. She likes ginger dwarfs.
-HOLMES: Midget!
+WATSON: Case solved! You're just not her type, Holmes. She likes ginger So you agree?
+HOLMES: So you agree?
 WATSON: So you agree?
 HOLMES: No, I don't agree. It's more than a technicality. You're misrepresenting the dimensions of foreshortened people.
-WATSON: I've upset you, I can tell.    I've said too much.
-WATSON: Alright.   What were you just doing?
+WATSON: I've upset you, I can tell. I've said too much.
+HOLMES: No, I'm just saying, one has disproportionate limbs the other does not.
+WATSON: Alright. What were you just Will you allow me to explain.
 HOLMES: Will you allow me to explain.
-WATSON: That's what I've been trying to do.
+WATSON: That's what I've been trying to
 IRENE: Why don't I see myself out.
-MAN WITH ROSES: Got some roses for you, sweetheart. Cut you a deal `cos you're so pretty.
 IRENE: Oh, how nice of you.
+IRENE: Oh, look, a wallet. Doesn't look like yours, does it? And naughty boy here's another one. I'll return them, shall I?
 IRENE: These are lovely, thank you.
 HOLMES: Now, that's the Irene I know.
 HOLMES: This man intrigues me, Watson. He's got Adler on edge.
 WATSON: Which is no mean feat.
-HOLMES: She's intimidated, scared...
+HOLMES: She's intimidated, scared.
 WATSON: And yet she works for him. That's bad money. It's nothing to do with me, but leave this case.
 HOLMES: Well, I may not have a choice. A man has to make a living. After all, I'll be paying the rent entirely on my own.
-WATSON: You know what, I've had just about enough --
-HOLMES: Clarky!
-VOICE (O.S.): Mister Holmes, sir...?
+WATSON: You know what, I've had just about Mister Holmes, sir.?
+HOLMES: VOICE ( O.S. )
 CONSTABLE CLARK: Inspector Lestrade asks that you come with me, at once.
+HOLMES: ( mumbles ) What's he done now, lost his way to Scotland Yard? Watson, grab a compass. You means us.
 WATSON: Us means you.
-CONSTABLE CLARK: It's Lord Blackwood, sir. It appears he's come back from the dead.
+CONSTABLE CLARK: It's Lord Blackwood, sir. It appears he's come back from the Well that's clever seeing as how I pronounced him dead myself.
 WATSON: Well that's clever seeing as how I pronounced him dead myself.
+CONSTABLE CLARK: A groundsman saw him walking through the graves, just this I'll leave this one in your capable hands. I have tea with Mary and her parents this evening.
 WATSON: I'll leave this one in your capable hands. I have tea with Mary and her parents this evening.
-HOLMES: It is not my reputation at stake here.
+HOLMES: It is not my reputation at stake Are you taking this seriously?
 WATSON: Are you taking this seriously?
 HOLMES: Like it or not, it's a matter of professional integrity. No girl wants to marry a doctor who can't tell if a man's dead or not.
 HOLMES: Watson, you'd do well to hide your medical certificates in case they're revoked.
 WATSON: Look at this mess. Nothing but standard-issue police bootprints. Any possible evidence there might have been has been trampled.
-LESTRADE: Look at those slabs of marble -- they're half a ton each if they're a pound -- smashed outward like they were nothing.
+HOLMES: Scotland Yard at their finest, once again.
+LESTRADE: Look at those slabs of marble they're half a ton each if they're a pound smashed outward like they were nothing. Explain it if you can, Holmes.
 LESTRADE: Explain it if you can, Holmes.
 HOLMES: And the coffin?
-LESTRADE: We're digging it up now. The witness is over there. You can question him if you like -- but you won't get much.
-LESTRADE: (low, angry) If you lot don't stop behaving like a bunch of superstitious milk maids, you're on double-time! You're an embarrassment! Also, you're forbidden to talk about this to anyone, not a word. Are we bloody clear on that?
-WATSON: He's in shock.     We should give him a few moments.
-LESTRADE: The witness stated that he saw Lord Blackwood rise from the grave. (at Watson, accusingly) Well? You pronounced the man dead.
-WATSON: (stung) He had no pulse.
-HOLMES: Inspector, do you know if this is a spruce or a sycamore?
+LESTRADE: We're digging it up now. The witness is over there. You can question him if you like but you won't get much.
+LESTRADE: ( low, angry ) If you lot don't stop behaving like a bunch of superstitious milk maids, you're on double-time! You're an embarrassment! Also, you're forbidden to talk about this to anyone, not a word. Are we bloody clear on that?
+THE GROUNDSKEEPER: mumbles the Lord's Prayer under his breath. Watson immediately goes into doctor mode checking his pulse, looking in his eyes. The Groundskeeper just keeps praying. Watson takes a boiled sweet from his pocket, pops it in the man's mouth and gently sits him down. Holmes walks over holding a small branch from a tree.
+WATSON: He's in shock. We should give him a few moments.
+LESTRADE: The witness stated that he saw Lord Blackwood rise from the Well? You pronounced the man He had no pulse.
+WATSON: ( stung ) He had no pulse.
+HOLMES: Inspector, do you know if this is a spruce or a sycamore? OPEN IT!!
+LESTRADE: OPEN IT!!
+OPEN IT!!: ( CONTINUED )
 LESTRADE: That's not Blackwood.
-HOLMES: Now that we have a firm grasp of the obvious...
-WATSON: Lividity is late stage. Diptera deposits are approximately -- (measuring) -- three quarters of an inch, putting the time of death at ten to twelve hours ago.
+HOLMES: Now that we have a firm grasp of the obvious.
+WATSON: Lividity is late stage. Diptera deposits are approximately three quarters of an inch, putting the time of death at ten to twelve hours ago.
 HOLMES: Inspector, may I see your pen?
-WATSON: Missing two incisors in the upper jaw... (a look at Holmes) Adler's midget.
+WATSON: Missing two incisors in the upper Adler's midget.
 HOLMES: All yours, Inspector.
-HOLMES: Scratches around the keyhole where the watch is wound. Most drunks are the same, and pawnbrokers scratch the ticket number and their initials inside the lid. This one has five, so the owner --
-GROUNDSKEEPER (O.S.): He was walking.
-GROUNDSKEEPER: (quivering voice) He was walking but his feet didn't touch the ground. And I'm not daft, I know what I saw and I know Lord Blackwood. He was as alive as you or me. It's not right. It's not natural. (turns, leaves) Our Father Who art in heaven... (etc.)
+HOLMES: Scratches around the keyhole where the watch is wound. Most drunks are the same, and pawnbrokers scratch the ticket number and their initials inside the lid. This one has five, so the owner
+GROUNDSKEEPER: ( quivering voice ) He was walking but his feet didn't touch the ground. And I'm not daft, I know what I saw and I know Lord Blackwood. He was as alive as you or me. It's not right. It's not natural. ( turns, leaves ) Our Father Who art in heaven. ( etc. )
 HOLMES: Now the game is afoot, Watson.
-WATSON: I fail to see how these fish and chips are different from the three other places we passed along the way.
+WATSON: I fail to see how these fish and chips are different from the three other places we passed along the Trust me.
 HOLMES: Trust me.
+WATSON: Just eat.
 WATSON: You know, I've seen things in war that I couldn't explain. I once heard a man predict his death, down to the number and placement of the bullet holes that killed him. You have to admit that a supernatural explanation is at least theoretically possible.
-HOLMES: Hmm... scratches around the keyhole, what does that tell you?
-WATSON: The owner was most likely a drunk. Each time he wound the watch his hand would slip, hence the scratches.
+HOLMES: ( mouth full, near Never theorize before you have data. Invariably, you end up twisting facts to suit theories, instead of theories to suit facts. Adler's midget is the key to this. Hmm. scratches around the keyhole, what does that tell you?
+HOLMES: Hmm. scratches around the keyhole, what does that tell you?
+WATSON: The owner was most likely a drunk. Each time he wound the watch his hand would slip, hence the Very good, Watson! You've developed considerable powers of your own.
 HOLMES: Very good, Watson! You've developed considerable powers of your own.
-HOLMES: Let's see now, there are several sets of initials scored into the lid.
+HOLMES: Let's see now, there are several sets of initials scored into the Pawnbroker's marks.
 WATSON: Pawnbroker's marks.
-HOLMES: Excellent.
-HOLMES: The most recent is M.H...
+HOLMES: Watson looks extremely pleased with himself until they turn a corner into a street where EVERY SECOND SHOP IS A PAWN SHOP. His face falls.
+HOLMES: The most recent is M.H.
 WATSON: Maddison and Haig.
+HOLMES: Oh my Lord, here we are. They should give us an address.
 WATSON: There's one thing you've missed. On the watch.
 HOLMES: I think not.
-WATSON: The time. Which leads me to deduce that I'm already late for my appointment with Mary. You remember, the one I was leaving for before you talked me into coming to dig up dead bodies with you.
+WATSON: The time. Which leads me to deduce that I'm already late for my appointment with Mary. You remember, the one I was leaving for before you talked me into coming to dig up dead bodies with Reckon your future, sir?
 PALM READER: Reckon your future, sir?
 HOLMES: Perhaps we do need a little help from the beyond.
 WATSON: No, thank you.
 PALM READER: You need to hear what I have to tell you.
-PALM READER: I see two men, brothers. Not in blood but in bond. I see the letters S and an L, no... wait, a
-PALM READER: I see a letter... the letter M... another M... Mary? You will be married... I see... I see... (horrified) Patterned table clothes, china figurines, lace doilies...
-WATSON: You think you are clever don't you?
-PALM READER: She turns to fat...
-WATSON: Enough.
-HOLMES: (to Watson) Do you have any changes?
-WATSON: This is a new low -- even for you.
-WATSON: Do you still have my cut from the fight?
-HOLMES: Why, do you --
-PALM READER: I seen something in his hand. Darkness and great pain. Mortal peril. Warn your friend, he's not safe.
+PALM READER: I see two men, brothers. Not in blood but in bond. I see the letters S and an L, no. wait, a
+PALM READER: ( wincing ) I see madness. A man driven out of his mind by a malign force.
+PALM READER: I see a letter. the letter M. another M. Mary? You will be married. I see. I see. Patterned table clothes, china figurines, lace doilies.
+WATSON: You think you are clever don't
+PALM READER: She turns to fat.
+WATSON: The Palm Reader looks at Holmes.
+HOLMES: ( to Watson ) Do you have any changes?
+WATSON: This is a new low even for you.
+HOLMES: It's the most honest prediction old Flora has made in years. And you know it yourself, Watson. That is precisely the reason you can't find a suitable ring. You're terrified of a life without the thrill of the macabre, as well you should be.
+WATSON: Do you still have my cut from the
+HOLMES: Why, do you
+PALM READER: I seen something in his hand. Darkness and great pain. Mortal peril. Warn your friend, he's not
 WATSON: Not bad, eh?
-HOLMES: Reordon's lodgings should be right around this bend. Here we are...
+HOLMES: Reordon's lodgings should be right around this bend. Here we are.
 HOLMES: Looks promising. And possibly dangerous. Oh, well, give my regards to Mary.
 WATSON: I can spare ten minutes.
 HOLMES: He clearly felt something was coming to get him.
 WATSON: Something did.
-WATSON: (reeling) Bloody hell...
-HOLMES: (inhaling deeply, loving it) Ammonium sulfate.
-HOLMES: (mumbles) Phosphorous... Formaldehyde... Hemlock...
+WATSON: ( reeling ) Bloody hell.
+HOLMES: ( inhaling deeply, Ammonium sulfate.
+HOLMES: ( mumbles ) Phosphorous. Formaldehyde. Appears he was attempting to follow occult formula with scientific practice.
 WATSON: Appears he was attempting to follow occult formula with scientific practice.
 WATSON: Has he any hydrochloric acid?
-HOLMES: Irene was here.
-WATSON: Why would she hire you to find him, if she planned to do the job herself?
+HOLMES: Irene was here. Why would she hire you to find him, if she planned to do the job Maybe it's not the man she's after, but something else. Something he was working on?
+WATSON: Why would she hire you to find him, if she planned to do the job Maybe it's not the man she's after, but something else. Something he was working on?
 HOLMES: Maybe it's not the man she's after, but something else. Something he was working on?
-WATSON: Ferrocyanide. Sucks the iron right out of the ink. Long as it's not too burnt...
+WATSON: Ferrocyanide. Sucks the iron right out of the ink. Long as it's not too burnt.
 WATSON: He worked for Blackwood.
-HOLMES: There's one odor I can't put my finger on. Sweet, almost like perfume... or sugar.... (stops, sniffs) Barley sugar.
+HOLMES: There's one odor I can't put my finger on. Sweet, almost like perfume. or sugar.. Barley sugar.
 HOLMES: Hello, gentlemen.
 DREDGER: Sherlock Holmes.
-HOLMES: Let me guess -- you're here to extinguish any connection between the man who lived here and the man you work for? Curious you'd still be running errands for a dead man.
-DREDGER: (smiles) You do like to talk.
+HOLMES: Let me guess you're here to extinguish any connection between the man who lived here and the man you work for? Curious you'd still be running errands for a dead man.
+DREDGER: ( smiles ) You do like to talk.
 HOLMES: You take them, I'll handle Mr. Sweet tooth.
 WATSON: Seems about fair.
-WATSON: Holmes!
-WATSON: I haven't slept all night. I deserve this... I clearly deserve it. How could I ever be so deluded as to believe I could meet Mary's parents for tea once I let myself be talked into going with you. Now of course I'm in jail.
-HOLMES: (theatrically indignant) You're not implying that I am responsible for our current situation are you, Watson? We were set upon, man, it was self- defense.
-WATSON: I've used the time to review my notes on our exploits of the last seven months... and I've come to the conclusion that I must be suffering from to some profound psychological aberration.
+OMITTED: 61 EXT. TOOLEY IRONWORKS - GATE 61
+WATSON: 65 EXT. SECOND SLIPWAY - CONTINUOUS ACTION 65
+EXPLODE BACKWARDS: the PROPELLERS on the stern of the ship start sliding down towards them.
+WATSON: I haven't slept all night. I deserve this. I clearly deserve it. How could I ever be so deluded as to believe I could meet Mary's parents for tea once I let myself be talked into going with you. Now of course I'm in jail. You're not implying that I am responsible for our current situation are you, Watson? We were set upon, man, it was self-
+HOLMES: ( theatrically You're not implying that I am responsible for our current situation are you, Watson? We were set upon, man, it was self-
+WATSON: I've used the time to review my notes on our exploits of the last seven months. and I've come to the conclusion that I must be suffering from to some profound psychological aberration.
 HOLMES: You've never complained about my methods before.
-WATSON: I'm not complaining... I never complain... I never complain about your violin playing at three in the morning, your mess, your lack of hygiene, your stealing my clothes, your setting our home on fire!
-HOLMES: That was an accident...
-HOLMES: The first time WAS an accident...
-BIG MAN (O.S.): Remember me, boys? Put me away for robbery a few years back?
+WATSON: I'm not complaining. I never complain. I never complain about your violin playing at three in the morning, your mess, your lack of hygiene, your stealing my clothes, your setting our home on That was an accident.
+HOLMES: That was an accident.
+HOLMES: The first time WAS an accident.
 HOLMES: Ah, Mr. Brownlee. The fifteenth most dangerous man in London.
 WATSON: Who could forget that face? I told you, a little nitrate of silver and the warts will be gone in two weeks. Now, if you'll excuse us!
-HOLMES: Gladstone's my dog as well.   It's in the interest of science.
+WATSON: ( to Holmes ) Nor am I complaining about the fact that you terrorize my patients and perform outlandish experiments on my dog.
+HOLMES: Gladstone's my dog as well. It's in the interest of science.
 WATSON: What I do take issue with is your ruthless campaign to sabotage my relationship with Mary.
 HOLMES: Watson, I completely understand now. You're overtired and feeling a bit sensitive.
 HOLMES: What you need is a rest. You and I could go out to the countryside. My brother Mycroft has a small estate near Chichester. It has marvelous grounds and a beautiful folly. We could throw a lamb on the spit.
-WATSON: If I were going to the country, I would be going with my future wife --
+WATSON: If I were going to the country, I would be going with my future Certainly. We should have her along. Let's get Gladstone out of the house as well.
 HOLMES: Certainly. We should have her along. Let's get Gladstone out of the house as well.
-WATSON: No, Holmes. Not you.   Me and her. You're not --
+WATSON: No, Holmes. Not you. Me and her. You're not
 HOLMES: Invited? Now you're not making any sense, Watson. Why would I not be invited to my own brother's country home?
-PRISON GUARD: John Watson?   You made bail.
+WATSON: You're not human. You don't get it, do you? You are this. . without this. John Watson? You made bail.
+PRISON GUARD: John Watson? You made bail.
 PRISON GUARD: Just Watson.
-HOLMES: Lestrade -- your usual impeccable timing.
+HOLMES: Lestrade your usual impeccable You know, in another life, you'd have made an excellent criminal.
 LESTRADE: You know, in another life, you'd have made an excellent criminal.
-HOLMES: And you, sir, an excellent policeman.
+HOLMES: And you, sir, an excellent
+RESURRECTED!": Tell me you have answers.
 LESTRADE: Tell me you have answers.
 HOLMES: All in good time.
-LESTRADE: We don't have time. I've an office full of policemen hanging crosses over their desks. A public that's working itself into a frenzy...
+LESTRADE: We don't have time. I've an office full of policemen hanging crosses over their desks. A public that's working itself into a frenzy.
 HOLMES: Who's this?
-LESTRADE: Try to behave yourself. They just paid a small fortune to bail you out.
+LESTRADE: Try to behave yourself. They just paid a small fortune to bail you
+ANONYMOUS MAN: I'm afraid you'll have to put this
 SIR THOMAS: Mr. Holmes, apologies for summoning you like this. I'm sure it's quite a mystery as to where you are, and who I am.
-HOLMES: As to where I am -- I was, admittedly, lost for a moment between Charing Cross and Holborn. But I was saved by the bread shop on Saffron Hill, the only bakers to use a certain French glaze on their loaves. After that, the carriage forked left, then right, a bump over the Fleet conduit -- need I go on?
-HOLMES: As to who you are -- that took every ounce of my not- inconsiderable experience and skill... the letters on your desk are addressed to Sir Thomas Rotheram, Lord Chief Justice. That would be your official title. Who you realy are is another matter entirely.
+HOLMES: As to where I am I was, admittedly, lost for a moment between Charing Cross and Holborn. But I was saved by the bread shop on Saffron Hill, the only bakers to use a certain French glaze on their loaves. After that, the carriage forked left, then right, a bump over the Fleet conduit need I go on?
+HOLMES: As to who you are that took every ounce of my not- inconsiderable experience and skill. the letters on your desk are addressed to Sir Thomas Rotheram, Lord Chief Justice. That would be your official title. Who you realy are is another matter entirely.
+HOLMES: Judging by the sacred Ox on your ring, you're also the secret head of the Temple of the Four Orders in whose headquarters we now stand, on the northwest corner of St. James Square. And as to the mystery the mystery is why you bothered to blindfold me in the first place.
 SIR THOMAS: Yes, well, it's standard procedure, I suppose.
-STANDISH (O.S.): I think we have the right man.
-LORD COWARD: I suppose you already have some notion as to the -- practices of our Order?
-HOLMES: Yes.   They're almost interesting.
-SIR THOMAS: Be as skeptical as you like -- but our secret systems have steered the world towards the greater good for centuries. The danger is that they can also be exploited for more nefarious purposes.
+SIR THOMAS: Sherlock Holmes, Ambassador Standish from America and Lord Coward, the Home Secretary.
+LORD COWARD: I suppose you already have some notion as to the practices of our Order?
+HOLMES: Yes. They're almost interesting.
+SIR THOMAS: Be as skeptical as you like but our secret systems have steered the world towards the greater good for centuries. The danger is that they can also be exploited for more nefarious purposes.
 LORD COWARD: What some call the dark arts, or practical magic.
 STANDISH: We know you're are a rationalist. We don't ask you to share our faith, only our fears.
-HOLMES: Fear is the more infectious condition. (at Sir Thomas) In this case, fear of your own child.
-HOLMES: Blackwood is your son, yes? You have the same colored irises -- a rare dark green, with diamond- shaped hazel flecks --
+HOLMES: Fear is the more infectious In this case, fear of your own
+HOLMES: Blackwood is your son, yes? You have the same colored irises a rare dark green, with diamond- shaped hazel flecks
 SIR THOMAS: Very few people are privy to that information, and we want to keep it that way.
 SIR THOMAS: He was conceived during one of our rituals. His mother wasn't my wife, but she shared our beliefs. She was a powerful practitioner. Though not enough to survive giving birth to him.
 SIR THOMAS: We were young. It was before we fully understood the powers we were dealing with.
-HOLMES: Evidently.
-SIR THOMAS: Death followed him wherever he went, from his birth to arms he made and sold. What family he had tended to... not survive. No one could prove anything of course, but we all knew --
-SIR THOMAS: The boy was a curse. I didn't have the courage either to take him in or to --
+HOLMES: SIR THOMAS
+SIR THOMAS: Death followed him wherever he went, from his birth to arms he made and sold. What family he had tended to. not survive. No one could prove anything of course, but we all knew
+SIR THOMAS: The boy was a curse. I didn't have the courage either to take him in or to
+STANDISH: All this is history. The present and future are worse.
 SIR THOMAS: We've done our best to stop him ourselves, but it's not enough.
-LORD COWARD: His power grows daily and exponentially. His resurrection is evidence of that. What he does next will be far more dangerous --
-SIR THOMAS: -- he's going to raise a force that will alter the very course of our world. We need you to find him and stop him before he does.
-LORD COWARD: We'll give you any assistance we can. As Home Secretary, I have considerable influence over the police. (beat) Name your price.
+LORD COWARD: His power grows daily and exponentially. His resurrection is evidence of that. What he does next will be far more dangerous
+SIR THOMAS: he's going to raise a force that will alter the very course of our world. We need you to find him and stop him before he does.
+LORD COWARD: We'll give you any assistance we can. As Home Secretary, I have considerable influence over the Name your price.
 HOLMES: One of the great benefits of my work is that I can pick and choose my clients. I'll get him, but not for you.
-HOLMES: I have one last question, Sir Thomas.
+HOLMES: I have one last question, Sir What is it?
 SIR THOMAS: What is it?
 HOLMES: If the rest of his family's dead, why are you still alive?
+OMITTED: 74 EXT. THE GRAND HOTEL 74
 IRENE: If you're going to watch me take my clothes off, Sherlock, the least you can do is help me with the buttons.
-IRENE: To watch a lady undress without her permission is a criminal offense, Sherlock, and could get you into a lot of trouble...
+IRENE: To watch a lady undress without her permission is a criminal offense, Sherlock, and could get you into a lot of trouble.
 IRENE: So why don't you come over here and help me instead.
 IRENE: That's better.
 HOLMES: You can stop looking for Reardon.
 IRENE: I knew I could count on you.
-IRENE: Wonderful. Case closed then. Your services are no longer required.
+HOLMES: He was buried in Blackwood's tomb.
+IRENE: Wonderful. Case closed then. Your services are no longer
 HOLMES: I can't help wondering if your employer will be as content with these results? You were uncharacteristically ill at ease in his presence. Your hand was trembling, your gaze was averted. I couldn't see his face, but I spotted chalk on his lapel. A professor perhaps?
-IRENE: (behind screen) The eye patch was a nice touch.
+IRENE: ( behind screen ) The eye patch was a nice touch.
 HOLMES: But I've never known a professor to carry a gun, and on such a clever contraption.
-IRENE (O.S.): Let's not argue.
 HOLMES: We're not.
 HOLMES: Tell me who you're working for and what he's after.
-IRENE: That's nobody's business but my own.
+IRENE: That's nobody's business but my I disagree.
+HOLMES: I disagree.
 IRENE: You see, we are arguing.
 HOLMES: When a man you ask me to find ends up dead in the coffin of the most notorious murderer since Jack the Ripper and that murderer manages to return from the dead, not only is it my business, it's the business of Scotland Yard and the highest levels of the British government. They will certainly consider your reticence to be an obstruction of justice. Which in relation to a crime of this magnitude would certainly mean prison time.
-IRENE: This wine is excellent.    You should really try some.
+IRENE: This wine is excellent. You should really try some.
 HOLMES: So what's it to be?
 IRENE: Do we really have to decide now?
 HOLMES: You're in over your head this time, Irene.
+IRENE: That's better.
+CLICK!: Holmes' eyes flare with surprise.
+CLICK!: Much better.
 IRENE: Much better.
-IRENE: This is the only way it could ever work between us, Sherlock -- one in shackles, the other with the key.
+IRENE: This is the only way it could ever work between us, Sherlock one in shackles, the other with the
 IRENE: I've NEVER been in over my head.
-HOLMES: How can you live like this -- always a fugitive.
-IRENE: But free. And on my own terms. Just like you -- well, not you at this exact moment --
-IRENE: -- but generally speaking.
-IRENE: If anyone asks, please let them know that Mr. O'Neil didn't have time to check out. (beat) I hope you don't mind settling the bill.
-IRENE: What were you doing consorting with a married business traveller in his hotel room is something you'll have to explain for yourself.
+HOLMES: How can you live like this always a fugitive.
+IRENE: But free. And on my own terms. Just like you well, not you at this exact moment
+IRENE: but generally speaking.
+IRENE: If anyone asks, please let them know that Mr. O'Neil didn't have time to check out. I hope you don't mind settling the What were you doing consorting with a married business traveller in his hotel room is something you'll have to explain for
+IRENE: What were you doing consorting with a married business traveller in his hotel room is something you'll have to explain for
 IRENE: Where's Watson when you need him?
+OMITTED: 76 INT. SIR THOMAS' HOUSE - NIGHT 76
 PERIGRINE: Good evening, sir. Some figs and honey with a nice glass of port? I've prepared a tray.
-SIR THOMAS: No thank you, Perigrine, I'm going to bed. (as he heads upstairs) You won't let those figs go to waste, will you?
+SIR THOMAS: No thank you, Perigrine, I'm going to bed. You won't let those figs go to waste, will you?
+PERIGRINE: Nor the port, sir.
 BLACKWOOD: You can't fight it. It comes from a power greater than yours. You can only surrender.
-BLACKWOOD: I've been imagining this moment for a long time...
-BLACKWOOD: ... I must admit, it's better than I thought it would be.
+BLACKWOOD: I've been imagining this moment for a long time.
+BLACKWOOD: . I must admit, it's better than I thought it would be.
 HOLMES: Don't take this the wrong way, but might I borrow your hand?
-HOLMES: Chambermaids were once such a liberal breed. Besides, she misinterpreted my intention entirely.
+HOLMES: Chambermaids were once such a liberal breed. Besides, she misinterpreted my intention
 HOLMES: Faith runs riot over reason.
 CONSTABLE CLARK: Well, it's a good thing she was offended or we'd never have found you. The inspector's been over to Baker Street himself this morning.
-CONSTABLE CLARK: We've checked everything. No sign of a break-in. The Butler didn't hear anything. The body was in the tub, eyes wide open --
-CONSTABLE CLARK: (realizing Holmes isn't there) -- only his ring was missing.
+CONSTABLE CLARK: We've checked everything. No sign of a break-in. The Butler didn't hear anything. The body was in the tub, eyes wide open
+CONSTABLE CLARK: ( realizing Holmes only his ring was missing.
+HOLMES: Why did you drain the water?
 POLICE OFFICER: Out of common decency.
-HOLMES: (incensed) Crime is common, logic is rare. The decent thing to do is catch the killer, not provide comfort to the corpse.
-HOLMES: Hmm...
+HOLMES: ( incensed ) Crime is common, logic is rare. The decent thing to do is catch the killer, not provide comfort to the corpse.
+HOLMES: Holmes thrusts the open jar under the Officer's nose.
 HOLMES: What is that?
-POLICE OFFICER: (smelling) Uhhhh... jasmine?
+POLICE OFFICER: ( smelling ) Uhhhh. jasmine?
 HOLMES: Superb. I suspect this comes from a larger cannister. It'll either be in the pantry, high up where it's warm and dry, or in a linen closet with a vent. And, Constable, you could check the ground under the rear windows for any footprints not your own.
 HOLMES: Data, data, data! I cannot make bricks without clay!
-HOLMES: (vis   the secret room) I have no    idea what to make of that. (vis   the bath salts) Excellent    work.
+HOLMES: ( vis the secret room ) I have no idea what to make of ( vis the bath salts ) Excellent work.
+HOLMES: Don't forget the wallpaper.
 WATSON: There isn't any.
 HOLMES: Figure of speech.
 HOLMES: Since this room is no longer in use, do you mind if I employ it?
 WATSON: Be my guest.
 HOLMES: Bring him in, boys.
-HOLMES: My new roommate. He's an inspiring conversationalist. (alt: He has more humor than you.)
-WATSON: Really.
+WATSON: Who was he?
+HOLMES: My new roommate. He's an inspiring conversationalist. ( alt: He has more humor than you. )
+WATSON: No, he's your friend from Reordon's. He didn't survive Dredger landing on him. Poor fellow. But there is some consolation in the knowledge that he can still be of service to his fellow men.
 HOLMES: No, he's your friend from Reordon's. He didn't survive Dredger landing on him. Poor fellow. But there is some consolation in the knowledge that he can still be of service to his fellow men.
+HOLMES: Elbows and arms stained with blood, but older than his own injuries. Plenty of it, layer on
 HOLMES: Though none of it human.
-HOLMES: A butcher perhaps...?   What else?
-HOLMES: Hm -- predominantly yellow flame, but with distinct green bursts. Sulfurous. He spent lots of time around industrial work and very little around a wash basin.
-HOLMES: Coal... river silt...
-HOLMES: That plus the river silt and industrial slag on his trousers puts him squarely in...
+HOLMES: A butcher perhaps.? What else?
+HOLMES: Hm predominantly yellow flame, but with distinct green bursts. Sulfurous. He spent lots of time around industrial work and very little around a wash basin.
+HOLMES: Coal. river silt.
+HOLMES: That plus the river silt and industrial slag on his trousers puts him squarely in.
 WATSON: Nine Elms.
 HOLMES: Well done. Now, you didn't happen to pack the Lord's Register of members' interests, did you?
+HOLMES: See what Blackwood admits to
 WATSON: It's endless, he's had a hand in just about everything that's not good for you.
-WATSON: Woolwich Arsenal... Limehouse Chemical... Queenshithe Slaughterhouse, Nine Elms!
+HOLMES: Something brutal by the river.
+WATSON: Woolwich Arsenal. Limehouse Chemical. Queenshithe Slaughterhouse, Nine Elms!
 HOLMES: That's it, Watson! This should lead us right to Blackwood.
-HOLMES: Right. Well uh... best of luck with everything, then.
+WATSON: Not us, you.
+HOLMES: Right. Well uh. best of luck with everything, then.
 WATSON: Same to you.
-WATSON: Not again.
+WATSON: Not again. Yes, I know. Don't give me that look, Gladstone.
 WATSON: Yes, I know. Don't give me that look, Gladstone.
-STANDISH: What's the meaning of this?   Why did you call us here?
+OMITTED: 82A EXT. COURTYARD - NIGHT 82A
+STANDISH: What's the meaning of this? Why did you call us here?
 LORD COWARD: Sir Thomas is dead. Effective immediately, I nominate Lord Blackwood as head of the Order.
 STANDISH: Are you mad, Coward? Have you any idea what he's capable of?
-BLACKWOOD (O.S.): Of course he does. It's why he's here.
-BLACKWOOD: I am humbled. I am honored. (beat) My powers and my assets -- munitions, shipping, industry -- they were given to me for a purpose.
-BLACKWOOD: You've made policy in secret for centuries. Now, you'll make it openly.
-BLACKWOOD: The first act is a necessary one, for without death there can be no rebirth... (beat) ... at noon tomorrow, we will take the first step towards a new chapter in history. (beat) England will know our power. Then, the whole world will. Across the Atlantic lies a colony that was once ours, and will be again. Their civil war weakened them; their government is as corrupt and ineffective as ours. We'll take it from them. (beat) With their resources and our power, we'll remake the world, we'll create the future. (beat) Are you with me?
-STANDISH: No, sir, we are not! (turning to the others) The powers he's playing with are beyond any man's control.
-BLACKWOOD: They're limitless -- even death holds no sway.
-STANDISH: Help me stop him before it's too late.
+BLACKWOOD: I am humbled. I am honored. My powers and my assets munitions, shipping, industry they were given to me for a A magnificent and simple purpose. A different future. a future ruled by us.
+BLACKWOOD: You've made policy in secret for centuries. Now, you'll make it
+BLACKWOOD: The first act is a necessary one, for without death there can be no . at noon tomorrow, we will take the first step towards a new chapter in history. England will know our power. Then, the whole world will. Across the Atlantic lies a colony that was once ours, and will be again. Their civil war weakened them; their government is as corrupt and ineffective as ours. We'll take it from them. With their resources and our power, we'll remake the world, we'll create the future. Are you with me?
+STANDISH: No, sir, we are not! The powers he's playing with are beyond any man's control.
+BLACKWOOD: They're limitless even death holds no sway.
+STANDISH: Help me stop him before it's too
 BLACKWOOD: I wouldn't do that.
 BLACKWOOD: Come, drink your allegiance here.
-HOLMES: Everything all right, Captain Tanner?
+BLACKWOOD: You control the police. Use them.
+HOLMES: Everything all right, Captain
 TANNER: Just a little leak, nothing to worry about.
 TANNER: Not a great one for the water, are you, doctor? Army type, aren't you? You wouldn't have lasted long in the Navy.
 TANNER: That's as far as we can go.
 WATSON: There must be fifty yards of mud out there.
+HOLMES: Pull in at Vauxhall. Send for the police when you get there.
 WATSON: I know precisely how much money is in there.
-TANNER: (taking the piss) I am sure you do, doctor.
+TANNER: ( taking the piss ) I am sure you do, doctor.
+OMITTED: 86 EXT. QUEENSHITHE SLAUGHTERHOUSE 86
+HOLMES: What are you doing with my gun?
 WATSON: Oh, please.
-HOLMES: It was an honest mistake --
-WATSON: There was nothing honest about it.
+HOLMES: It was an honest mistake
+WATSON: There was nothing honest about it. Come on, let's get this over with.
 WATSON: Come on, let's get this over with.
-HOLMES: The one on the left seems more attentive, might prove easily distracted. The big one's been drinking -- whether for courage or from habit... Watson?
-HOLMES: They cleared something out of here, not minutes ago...
-WATSON (O.S.): Holmes.   You need to see this.
-WATSON: One-eighteen.    It's a date, a time?
+HOLMES: The one on the left seems more attentive, might prove easily distracted. The big one's been drinking whether for courage or from habit. Watson?
+OMITTED: 88 INT. QUEENSHITHE SLAUGHTERHOUSE - TUNNEL 88
+HOLMES: They cleared something out of here, not minutes ago.
+WATSON: One-eighteen. It's a date, a
 HOLMES: It's chapter and verse. Revelation 1:18. `I am He that liveth, and was dead.'
-BLACKWOOD (O.S.): `And behold, I am alive forevermore, and have the keys of hell and of death. Amen.'
 BLACKWOOD: I cautioned you to accept that this is beyond your control. Now you see the truth for yourself.
 BLACKWOOD: I want you to bear witness. At noon tomorrow, the world as you know it ends.
-BLACKWOOD: (voice moving away) She followed you. You led your little lamb straight to slaughter.
-HOLMES: It's your turn in shackles this time.
-HOLMES: I've been meaning to ask you something --
+BLACKWOOD: And because I appreciate your help, Holmes, I have a gift for
+BLACKWOOD: ( voice moving away ) She followed you. You led your little lamb straight to slaughter.
+HOLMES: It's your turn in shackles this
+IRENE: But this time no key,
+HOLMES: I've been meaning to ask you Well, I'm a captive audience.
 IRENE: Well, I'm a captive audience.
-IRENE: (trying her best not to show the strain) You had a question.
-HOLMES: (same) Ah. Yes. Do you still maintain you're not in over your head?
-IRENE: (panting) In some countries steam is considered excellent therapy for the skin.
-IRENE: (weakly) I have to say -- it's overrated.
-IRENE: Sherlock?
+IRENE: ( trying her best not You had a question.
+HOLMES: ( same ) Ah. Yes. Do you still maintain you're not in over your head?
+IRENE: ( panting ) In some countries steam is considered excellent therapy for the skin.
+IRENE: ( weakly ) I have to say it's overrated.
+IRENE: Now, she's showing nerves. So is Sherlock. He braces himself on the belt, swings the cleaver with all his smashes the shackle lock. Irene swings sideways violently, still shackled by her right hand. The bandsaw whines viciously. Irene swings aside, just misses it.
 IRENE: Thank you so much. I owe you.
-HOLMES: You owe me information. (angry) No more games, Irene.
-IRENE: Blackwood's manufactured large- scale weapons for years. Lately there've been rumors of something new. More powerful than anything else. And... magical. My job is to find out if the rumors are true.
-HOLMES: Watson!
-WATSON: Holmes...
-CONSTABLE CLARK: There's an order for your arrest all the way from the top, sir -- so you'll have to hit me now.
+HOLMES: You owe me information. No more games, Irene.
+IRENE: Blackwood's manufactured large- scale weapons for years. Lately there've been rumors of something new. More powerful than anything else. And. magical. My job is to find out if the rumors are I would say they are.
+HOLMES: Watson continues down the dock, tripping a wire connected to the steel drums, he turns realizing he has set off a trap and turns back to warn the others
+WATSON: A metallic conductor SPARKS. Time slows. BOOM! The drums of chemicals all EXPLODE! A blinding conflagration engulfing Watson. For a moment, it lights up all of London.
+HOLMES: Holmes is pushed back by the explosion as the rest of the barrels that line the dock begin exploding arond them it looks as it Watson hasn't survived. BOOM! Irene is knocked to the ground by the blasts and flying debris. Holmes races towards her as more explosions, flames and debris fly all around him in slow motion, occasionally knocking him to the ground. He reaches Irene, picks her up and grabs part of an exploded barrel to shield the two as they run for cover BOOM! The barrel splinters as a final blast knocks them down, but to safety. As he opens his eyes
+WAATTTSSSSSONNN!!!!: Holmes is pushed back by the explosion as the rest of the barrels that line the dock begin exploding arond them it looks as it Watson hasn't survived. BOOM! Irene is knocked to the ground by the blasts and flying debris. Holmes races towards her as more explosions, flames and debris fly all around him in slow motion, occasionally knocking him to the ground. He reaches Irene, picks her up and grabs part of an exploded barrel to shield the two as they run for cover BOOM! The barrel splinters as a final blast knocks them down, but to safety. As he opens his eyes
+CONSTABLE CLARK: There's an order for your arrest all the way from the top, sir so you'll have to hit me now.
 HOLMES: From Lord Coward?
 CONSTABLE CLARK: Yes, sir, so make it look good.
 HOLMES: Thank you, Clarky.
+BURNED ALIVE!": ( CONTINUED )
 WATSON: What are you administering?
 DOCTOR: Morphia. A sixth of a grain, for the pain.
-DOCTOR: There are four pieces of shrapnel. The surgeon should be along shortly.
+DOCTOR: There are four pieces of shrapnel. The surgeon should be along
 WATSON: Are they subcutaneous, or deeper?
 DOCTOR: They're near the carotid artery.
-WATSON: Get a mirror, I'll extract them myself.
+WATSON: Get a mirror, I'll extract them I can't authorize that, Doctor. We must first manage the pain and combat the infection.
 DOCTOR: I can't authorize that, Doctor. We must first manage the pain and combat the infection.
-WATSON: I haven't time for that.   My friend is in dire --
-DOCTOR: Your friend? What kind of friend takes a retired soldier, who's served his country and deserves a peaceful, private life, and puts him so directly in harm's --
-DOCTOR: But evidently not wise enough to value your life over his misadventures.
-WATSON: (succumbing to the morphine) It was worth a wound, worth many wounds...
-MARY: Excuse me --
-DOCTOR: (leaving) I have other... patients.
-MARY: Do you really?     Doctor.
-MARY: You have nothing more to say to me?
-DOCTOR: Um... I'll check in on him again shortly.
+WATSON: I haven't time for that. My friend is in dire
+DOCTOR: Your friend? What kind of friend takes a retired soldier, who's served his country and deserves a peaceful, private life, and puts him so directly in harm's
+WATSON: The best and wisest man I've ever But evidently not wise enough to value your life over his
+DOCTOR: But evidently not wise enough to value your life over his
+ON MARY: As she takes a closer, sharper look at the Doctor.
+WATSON: ( succumbing to the It was worth a wound, worth many
+MARY: Excuse me
+DOCTOR: ( leaving ) I have other. patients.
+MARY: Do you really? Doctor.
+MARY: You have nothing more to say to Um. I'll check in on him again Is that the best you can do? I'm disappointed, but not surprised.
+DOCTOR: Um. I'll check in on him again Is that the best you can do? I'm disappointed, but not surprised.
 MARY: Is that the best you can do? I'm disappointed, but not surprised.
-MARY: If anything happens to him, both our lives are lost. Do you understand that? Can you? --
-MARY: -- or are you so selfish that's just not possible.
-BLACKWOOD (O.S.): And now it dawns on you, you begin to recognize your part in his play.
+MARY: If anything happens to him, both our lives are lost. Do you understand that? Can you?
+MARY: or are you so selfish that's just not possible.
 BLACKWOOD: You see the path he chose for you.
-BLACKWOOD: Unless I simply wanted to be caught by the great Sherlock Holmes...
-BLACKWOOD: ... so I could die on the biggest stage of all. You made me what I am.
-HOLMES: (confused) Watson...?
-WATSON: Interesting artwork.   You look bloody awful.
-HOLMES: What about the shrapnel in your arm?
+BLACKWOOD: Didn't you wonder why it was so easy to catch me? I told you I needed five lives for my resurrection. Why would I take a sixth under St. Paul's?
+BLACKWOOD: Unless I simply wanted to be caught by the great Sherlock
+BLACKWOOD: . so I could die on the biggest stage of all. You made me what I
+HOLMES' POV: as Blackwood swings the sacrificial sword at Holmes' head. It looks as if Holmes has no time to react WHOOSH the sword WIPES the FRAME
+HOLMES: Writing and sweating on the bed in the attic. Holmes sees a hazy image of Irene. She leans over him smiling sweetly then wraps her hands around his neck and starts to strangle him.
+HOLMES!!!!: FADE OUT.
+HOLMES: ( confused )
+WATSON: Interesting artwork. You look bloody awful.
+HOLMES: What about the shrapnel in your
 WATSON: Took it out myself. Mary said I had a lousy doctor.
-HOLMES: (quietly, between them) She brought you here?
-WATSON: Yes, oddly, it seems she might understand the power of partnership.
+HOLMES: ( quietly, between She brought you here?
+WATSON: Yes, oddly, it seems she might understand the power of The fair sex was always your department, Watson.
+HOLMES: The fair sex was always your department, Watson.
 HOLMES: Thank you. You know, I dreamt that you were strangling me.
-IRENE: I was... I had to get you to pass out to settle down.
+IRENE: I was. I had to get you to pass out to settle down. What time is it?
 HOLMES: What time is it?
 WATSON: It's half past nine.
-HOLMES: Excellent brew, but I believe my head requires something a bit stronger to clear the --
-WATSON: I brought you this...
-HOLMES: Exactly.
+HOLMES: Excellent brew, but I believe my head requires something a bit stronger to clear the
+WATSON: I brought you this.
+HOLMES: ( CONTINUED )
 IRENE: Oh, I poisoned that one.
 WATSON: With your own venom no doubt.
 IRENE: Better a snake than a lap dog.
-WATSON: There's a new field in the treatment of abnormal personalities -- it's called psychology. It appears you're what's considered a para-neurotic deviant with anti-social proclivities. Quite severe. And untreatable.
-IRENE: No, doctor, I'm simply a woman. (beat)
-IRENE: (alternate dialogue) Not quite, doctor. Let me make it simple for you, with a lot fewer words -- I'm what's called a woman. (beat) Understand that, and you'll have a happy marriage.
+WATSON: There's a new field in the treatment of abnormal personalities it's called psychology. It appears you're what's considered a para-neurotic deviant with anti-social proclivities. Quite severe. And No, doctor, I'm simply a woman.
+IRENE: No, doctor, I'm simply a woman.
+IRENE: ( alternate dialogue ) Not quite, doctor. Let me make it simple for you, with a lot fewer words I'm what's called a ( beat ) Understand that, and you'll have a happy marriage.
 HOLMES: I need a map of London.
-HOLMES: Now that you're sitting comfortably, I shall begin. My initial approach was far too narrow. When Blackwood invited me to Pentonville prison, he suggested I widen my gaze and, at minimum, I have done just that. In fact, I may well have reconciled thousands of years of theological disparity. But that's for another time. Blackwood's method is based on a ritualistic mystical system that has been employed by The Temple of the Four Orders for centuries. To fully understand this system, to get inside it, I re-enacted the ceremony we interrupted in the crypt... with a few enhancements of my own.
+HOLMES: Now that you're sitting comfortably, I shall begin. My initial approach was far too narrow. When Blackwood invited me to Pentonville prison, he suggested I widen my gaze and, at minimum, I have done just that. In fact, I may well have reconciled thousands of years of theological disparity. But that's for another time. Blackwood's method is based on a ritualistic mystical system that has been employed by The Temple of the Four Orders for centuries. To fully understand this system, to get inside it, I re-enacted the ceremony we interrupted in the crypt. with a few enhancements of my own.
 WATSON: At minimum.
 HOLMES: My journey took me somewhat further down the rabbit hole than I had intended.
 IRENE: Yes, your little white tail got rather dirty.
-HOLMES: But I have emerged enlightened... The fraternity who silently control the Empire, share the belief with the Kings, Pharoahs, and Emperors of old that the Sphinx was a door to another dimension, a gateway to immeasurable power --
-HOLMES: It is made up of four parts: The Ox, the Lion, the Eagle, and Man --
-HOLMES: In Sir Thomas' secret chamber I found the bone of an ox, the tooth of a lion, the feather of an eagle, the hair of a man. Map!
-HOLMES: Now, it is a widely held belief that within the architecture of the great cities are coded references to this system.
-HOLMES: Since he rose from the grave, Blackwood has killed three men. Each murder was committed at a location that has a direct connection with the Temple, therefore the System. (beat) Reordon, the ginger midget, represents Man. We found his body here...
-HOLMES: Then Sir Thomas, Master of the Temple, wore the ox ring... he died here...
-HOLMES: The headquarters of Temple of the Four Orders where he died is here...
-WATSON: Man, Ox, Eagle...
-WATSON: And last on the list:    the Lion.
+HOLMES: But I have emerged enlightened. The fraternity who silently control the Empire, share the belief with the Kings, Pharoahs, and Emperors of old that the Sphinx was a door to another dimension, a gateway to immeasurable power
+HOLMES: It is made up of four parts: The Ox, the Lion, the Eagle, and Man
+HOLMES: In Sir Thomas' secret chamber I found the bone of an ox, the tooth of a lion, the feather of an eagle, the hair of a man. Map! Now, it is a widely held belief that within the architecture of the great cities are coded references to this system. Since he rose from the grave, Blackwood has killed three men. Each murder was committed at a location that has a direct connection with the Temple, therefore the System. Reordon, the ginger midget, represents Man. We found his body
+HOLMES: Now, it is a widely held belief that within the architecture of the great cities are coded references to this system. Since he rose from the grave, Blackwood has killed three men. Each murder was committed at a location that has a direct connection with the Temple, therefore the System. Reordon, the ginger midget, represents Man. We found his body
+HOLMES: Since he rose from the grave, Blackwood has killed three men. Each murder was committed at a location that has a direct connection with the Temple, therefore the System. Reordon, the ginger midget, represents Man. We found his body
+HOLMES: Then Sir Thomas, Master of the Temple, wore the ox ring. he died here.
+HOLMES: Standish was Ambassador to America, where the Eagle has been the national emblem for over a hundred years and not by
+HOLMES: The headquarters of Temple of the Four Orders where he died is Man, Ox, Eagle.
+WATSON: Man, Ox, Eagle.
+WATSON: And last on the list: the Lion. Correspondingly, the map will tell us the location of Blackwood's final act. Right here.
 HOLMES: Correspondingly, the map will tell us the location of Blackwood's final act. Right here.
-WATSON: Parliament.
-IRENE: What is the meaning of this circle?
-HOLMES: It is the fifth element -- the ethereal. That which can't yet be known.
-IRENE: Police.
+WATSON: What is the meaning of this
+IRENE: What is the meaning of this
+HOLMES: It is the fifth element the ethereal. That which can't yet be BOOM! They hear doors slamming outside, boots echoing. Irene looks out the window, sees POLICE OFFICERS flooding the pub.
+WATSON: It's right in the middle of the River Thames.
+IRENE: Holmes folds up his piece of paper, hands it to Watson. He quickly moves to a hatch in the floor. Flings it Irene jumps down. Watson is about to follow her down.
 HOLMES: Ladies first.
 HOLMES: Follow these plans.
-LORD COWARD: Lestrade?
+LORD COWARD: Begging your pardon, m'lord, I know it's unorthodox, but Mr. Holmes has been making serious accusations about you and the order, sir.
 LESTRADE: Begging your pardon, m'lord, I know it's unorthodox, but Mr. Holmes has been making serious accusations about you and the order, sir.
 HOLMES: Oh, that solves the great mystery as to how you became inspector.
-LORD COWARD: I have five minutes before my next engagement, why don't you regale me with your stories of conspiracies. Thank you, Lestrade, if you could wait outside.
-HOLMES: Nonetheless, I confess to being completely out-matched. I could deduce very little from my investigation.
-HOLMES: Fortunately, there is nothing more stimulating than a case where everything goes against you. How many members of parliament do you intend to murder at noon today? (beat) Man, ox, eagle, lion -- the lion is parliament, isn't it?
+LORD COWARD: I have five minutes before my next engagement, why don't you regale me with your stories of conspiracies. Thank you, Lestrade, if you could wait
+HOLMES: I'm curious, Coward, did you assist Blackwood in all the murders or just the one I prevented? Very distinctive those hand-made shoes of yours, but the price of quality is the unique imprint they leave.
+HOLMES: Nonetheless, I confess to being completely out-matched. I could deduce very little from my
+HOLMES: Fortunately, there is nothing more stimulating than a case where everything goes against you. How many members of parliament do you intend to murder at noon today? Man, ox, eagle, lion the lion is parliament, isn't it?
 LORD COWARD: Very clever. But it's not murder, Mr. Holmes. It's mercy. We are giving the weak masses a strong shepherd. Don't you see it's for their own good?
 HOLMES: No, but I don't care much what you think. I simply wanted to know the location of Blackwood's final ceremony, and now you have given it to me.
 LORD COWARD: I have told you nothing.
-HOLMES: But your clothes say infinitely more than you ever hope. The mud smeared on your boots from where you've been walking...
-HOLMES (V.O.): A touch of red stock brick dust on your knee, from where you've been kneeling...
-HOLMES (V.O.): A small bandage on your thumb from where you've been vowing...
-HOLMES (V.O.): A faint aroma of excrement, from where you have been standing.
-LORD COWARD (V.O.): It's a shame you made an enemy out of Blackwood, Holmes, you would have made a valuable ally. The powers at our disposal are far greater than you can imagine.
-HOLMES (V.O.): You and Blackwood laid the final touches to your ceremony in the sewers beneath parliament less than an hour ago.
-(MORE): Both Houses met today. The entire government will be present.
-LORD COWARD: How terrible is wisdom, Holmes, when it brings no profit to the wise. (turning to Holmes) We take power at noon.
+HOLMES: But your clothes say infinitely more than you ever hope. The mud smeared on your boots from where you've been walking.
+LORD COWARD: How terrible is wisdom, Holmes, when it brings no profit to the We take power at noon.
 HOLMES: Well there's no time to waste then, is there?
-TANNER: (to Watson) I told you he'd be coming out the top window, soldier boy. No way he'd be coming over the terrace.
+TANNER: ( to Watson ) I told you he'd be coming out the top window, soldier boy. No way he'd be coming over the terrace.
 WATSON: How was Lestrade?
-HOLMES: Performed his role perfectly.   A little too perfectly, come to think of it.
-WATSON: Well, your instructions were fairly precise... about everything except the window.
+HOLMES: Performed his role perfectly. A little too perfectly, come to think of it.
+WATSON: Well, your instructions were fairly precise. about everything except the window.
 IRENE: Where to, Sherlock?
 HOLMES: Port side, Captain Tanner, into the sewers.
 HOLMES: Watson, did you bring my clothes?
 IRENE: Starting early, aren't we?
 HOLMES: Trust me, have a drink.
 WATSON: What are we doing in the sewers?
-HOLMES: Patience, Doctor. I am about to show you...
+HOLMES: Patience, Doctor. I am about to show you.
 TANNER: Far as I can go.
 HOLMES: Behold, Blackwood's magic.
 HOLMES: A chemical weapon. The first of its kind. Cyanide, to be precise.
 WATSON: You can tell that from here?
-HOLMES: No.   I can tell it from here.
+HOLMES: No. I can tell it from here.
 HOLMES: I snipped this off a rather recumbent rat at the slaughterhouse. Note the blue discoloration, the faint smell of bitter almonds. Tell-tale signs of cyanide.
 HOLMES: That shaft leads directly to Parliament. When activated, those electrodes on either side will send a charge converting the cyanide powder into a gas.
-IRENE: All of the people inside that building --
-WATSON: Will be dead at the strike of noon.
-HOLMES: Seven minutes to twelve...
+IRENE: All of the people inside that Will be dead at the strike of The CAMERA MOVES THROUGH the shattered ceiling, UP a channel, DOWN a bend, all the way through a GRATE TO
+WATSON: Will be dead at the strike of The CAMERA MOVES THROUGH the shattered ceiling, UP a channel, DOWN a bend, all the way through a GRATE TO
+HOLMES: As if by magic. There will be no one left to stop Blackwood and his followers from assuming control.
+OMITTED: 112 INT. SEWERS - DAY 112
+HOLMES: Seven minutes to twelve.
 HOLMES: I wouldn't.
 WATSON: I'll keep these under wraps.
+HOLMES: Take this.
 WATSON: Over there.
 IRENE: I've never seen anything like it.
-HOLMES: There's never been anything like it. A totally wire-free weapon. He must have some kind of remote device sending a signal to the receiver. Really quite --
-HOLMES: (to Irene) Keep at it.
-LORD COWARD: Look.
+HOLMES: There's never been anything like it. A totally wire-free weapon. He must have some kind of remote device sending a signal to the receiver. Really quite
+HOLMES: ( to Irene ) Keep at it.
+LORD COWARD: All eyes rise to see: BLACKWOOD, up in the Lords' Gallery. The hall goes silent, staring at a ghost. Blackwood is calm, commanding. Voices rise; Blackwood's followers move to block the doors as BONG! The first CHIME OF NOON from Big Ben.
+BONG!: The second chime resounds. Dredger grabs Holmes, thrusts him upwards against the sewer roof, simultaneously strangling him and hammering him against the bricks hard enough to dislodge some. Holmes lashes out with his feet at Dredger who doesn't even bother to block anything. Holmes' kicks lose steam as he loses air.
+BONG!: ( CONTINUED )
+IRENE: ( without looking up ) Nine strokes left.
 WATSON: You owe me for the ring.
+BONG!: As Watson parries Dredger's massive slashes and thrusts all around them, only just keeping Dredger at bay Holmes sees that the cylinder is welded onto the cradle by two RODS. His eyes narrow, a plan forming.
 HOLMES: Give me your gun. The bullets, I need the bullets.
-HOLMES: We need a light, a match --
-IRENE: Got it...
-IRENE: (breath crushing out of her) Three.
-WATSON (O.S.): Hey!
-IRENE: Two!
+BONG!: Watson ducks a whooshing cut, lunges with his little sword, sticks it into the meat of Dredger's bicep. Dredger grunts angrily, flexes his bicep, rips the sword out of Watson's grasp with his muscle, then he pulls it out, snaps the blade against the wall like a twig, and moves in to cut Watson in two with the ceremonial sword from head to toe. Watson dives desperately, gets a haircut from the sword
+BONG!: 114A OMITTED 114A 115 INT. HOUSE OF LORDS 115
+HOLMES: We need a light, a match
+IRENE: Got it.
+BONG!: ( breath crushing out
+IRENE: ( breath crushing out
+BONG!: Holmes and Irene stagger for the device. Fizzling, boiling inside, the dying giant falls like a Watson is face-down on the stones, still. The gun falls out of his limp hand. Irene swipes her hand down into the cradle, just barely avoiding the sparks and coils, snatching her blade, ZAP! A spark hits the blade, and she angles the blade, redirecting the spark toward Holmes' pipe, which BLOWS WITH A VICIOUS CRACK! The shaped charge shears the steel rods. Holmes and Irene reach for the cylinders.
+IRENE: Holmes and Irene stagger for the device. Fizzling, boiling inside, the dying giant falls like a Watson is face-down on the stones, still. The gun falls out of his limp hand. Irene swipes her hand down into the cradle, just barely avoiding the sparks and coils, snatching her blade, ZAP! A spark hits the blade, and she angles the blade, redirecting the spark toward Holmes' pipe, which BLOWS WITH A VICIOUS CRACK! The shaped charge shears the steel rods. Holmes and Irene reach for the cylinders.
+BONG!: 116A 116A 117 INT. HOUSE OF LORDS - DAY 117 117 CONTINUED: 117
+OMITTED: 117 INT. HOUSE OF LORDS - DAY 117 117 CONTINUED: 117
+BLACKWOOD: You seem surprised. Did you really take me for a man who could be dispatched like a truculent servant? I see before me a conspiracy of arrogant old men puffed up by the illusion of their own vainglory. In your hands this once great parliament has become nothing more than a drunken satyr, stumbling about the world's stage seeking nothing more than to satiate your own lust and gluttony; your britches stained by the incontinence of your hypocrisy. I will not sit idly by and watch you violate the innocence of the public trust as you drag this great Empire into the quagmire that your pride has dug and filled with the excrement of your corruption. I am here to change all this.
 BLACKWOOD: I am the fourth horseman.
 BLACKWOOD: I am the pale rider.
 BLACKWOOD: And my name to you is death.
+OMITTED: 118 INT. SEWER JUNCTION - DAY 118
 IRENE: That was something new for us.
-HOLMES: Yes... it was.
-IRENE: Watson --
-WATSON: I'm pretty sure I heard the last chime.
+HOLMES: Yes. it was.
+IRENE: ( CONTINUED )
+WATSON: I'm pretty sure I heard the last
 HOLMES: Yes, we made it. Just.
 HOLMES: Come on, you've got to admit, you're going to miss this.
-WATSON: Which part? The stench of the sewers or the broken bones? (beat) My ankle's done.
+WATSON: Which part? The stench of the sewers or the broken bones? My ankle's done.
 WATSON: Where's Irene?
-WATSON: Holmes, I'm sorry...
-HOLMES: Make sure Lestrade keeps it intact.
-SHERLOCK: Woman!
+WATSON: Holmes, I'm sorry.
+HOLMES: Make sure Lestrade keeps it
+DAY: OF IRENE at the top of TOWER BRIDGE. She's climbed up the inside of the Tower. She's 250 feet above the We've gone straight from maximum claustrophobia to maximum knee-buckling exposure. PULL BACK and SWEEP INTO a massive, NEAR 360-DEGREE HELICOPTER SHOT that starts with Irene at the ( unfinished ) window then shows the skeletal bridge spanned tenuously with then the glory of London, the center of the world, laid out for us in breathtaking, spectacular beauty and returns to Irene as, recovered somewhat she darts onto the walkway scaffolding that crosses above the 119-119G OMITTED 119-119G 119H EXT. TOWER BRIDGE - WALKWAY - DAY 119H Irene works her way through the construction debris on the bridge. She makes it to the end, no further to go.
+SHERLOCK: Sherlock appears behind her, winded.
 SHERLOCK: It's bad manners to leave without at least saying `goodbye.'
-IRENE: Goodbye!
+IRENE: He start to move towards her. She whips out her gun.
 IRENE: You of all people know I will pull this trigger.
+IRENE: I'd tell you I'm sorry, that I wish things could be different but you wouldn't believe me anyway.
 HOLMES: Why hurry off, give it a try.
-BLACKWOOD: You're better off without her, Holmes!
-BLACKWOOD: I planned to kill a handful of senile old men to make this empire strong... but now because of you thousands are going to die.
+BLACKWOOD: You're better off without her,
+BLACKWOOD: I planned to kill a handful of senile old men to make this empire strong. but now because of you thousands are going to die.
 BLACKWOOD: All I have to do is break this cylinder. The wind will do the rest. And you'll be the first.
-HOLMES: There was never any magic.   Only conjuring tricks.
-HOLMES: The simplest involved paying people off, like the prison guard...
-HOLMES: (guard choking/ payoff) Who pretended to be possessed outside your cell. Your reputation and your jailers' fear did the rest. (burial ground/ licking rocks) Others required more elaborate preparation, like the sandstone slab that covered your tomb. You had it broken before your burial then put back together using a mild adhesive. An ancient Egyptian recipe I believe -- a mixture of egg and honey. Designed to be washed away by the rain or eaten by animals. (bath/Reordon flashback) Arranging for your father to drown in his own bathtub required more modern science. Very clever of Reordon to find a paralytic that was activated by the combination of copper and water and was therefore undetectable once the bath water was drained.
-(MORE): That might have been quite challenging had he not also tested it on some unfortunate amphibians. (Standish in rain/ pulling the trigger/ wharf explosion) The death of Standish was a real mystery, until you used the same compound to blow up the wharf. An odorless, tasteless, flammable liquid -- yet it burned with an unusual pinkish hue. Did Standish mistake it for rain as he entered your Temple? All it took was a spark. A simple rigged bullet in his gun. Ingenious. (Parliament/flask/ ceremony, dev ice) Like all great performers you saved your piece de resistance for the end. Had it worked, your followers in Parliament would have watched unharmed as their colleagues were dying around them. They didn't know that you had given them the antidote -- at one of your ceremonies I suspect. Instead, they would have believed it was magic and that you harnessed the ultimate power.
+HOLMES: There was never any magic. Only conjuring tricks.
+HOLMES: The simplest involved paying people off, like the prison
+HOLMES: ( guard choking/ Who pretended to be possessed outside your cell. Your reputation and your jailers' fear did the rest. ( burial ground/ Others required more elaborate preparation, like the sandstone slab that covered your tomb. You had it broken before your burial then put back together using a mild adhesive. An ancient Egyptian recipe I believe a mixture of egg and honey. Designed to be washed away by the rain or eaten by animals. ( bath/Reordon Arranging for your father to drown in his own bathtub required more modern science. Very clever of Reordon to find a paralytic that was activated by the combination of copper and water and was therefore undetectable once the bath water was drained.
 HOLMES: You hated your father and the other members of the Temple of the Four Orders for what they did to you. How satisfying it must have been to use their own system against them.
 BLACKWOOD: Cut me loose, Holmes!
-HOLMES: You better hope that it's nothing more than superstition as you performed all the rituals perfectly.
+HOLMES: You better hope that it's nothing more than superstition as you performed all the rituals
+HOLMES: First, the world will see you for what you are. Then you will hang. properly this time.
 BLACKWOOD: We'll see about that shall we. It's a long journey from here to the rope.
 HOLMES: We'll see about that shall we.
-HOLMES: Oh, Irene...
+HOLMES: Oh, Irene.
 IRENE: It looks like rain.
 HOLMES: We've still got a moment.
-IRENE: You were right, he is a professor. Moriarty. Key's in the watch pocket.
+IRENE: You were right, he is a professor. Moriarty. Key's in the watch
 IRENE: You'll miss me, Sherlock.
 HOLMES: Sadly, yes.
-LESTRADE: It'll be a hell of a trick if Blackwood comes back from this one.
+LESTRADE: It'll be a hell of a trick if Blackwood comes back from this Thank you, Lestrade.
 HOLMES: Thank you, Lestrade.
-LESTRADE: Now you're going to be even more arrogant and insufferable than ever.
-LESTRADE: You're welcome, detective. (beat) Is the woman up there?
+LESTRADE: Now you're going to be even more arrogant and insufferable than
+LESTRADE: You're welcome, detective. Is the woman up there?
 HOLMES: She won't be by the time your boys get there.
 WATSON: One moment.
 WATSON: Please make sure this one is put on the desk in the front room.
 MARY: What's in all those notebooks?
-WATSON: Nothing really... Just a few scribbles... cases we've worked on over the years.
-MARY: All your adventures... I'd love to read them sometime.
+WATSON: Nothing really. Just a few scribbles. cases we've worked on over the years.
+MARY: All your adventures. I'd love to read them sometime.
 WATSON: I still can't believe he's given us that ring.
 MARY: Do you think he's finally come to terms with you leaving?
-WATSON: Of course.    No question about it --
+WATSON: Of course. No question about it
+WATSON: Don't panic, dear.
 WATSON: Suicide is not in his repetoire, he's far too fond of himself.
 HOLMES: Good afternoon. I was trying to deduce the manner in which Blackwood survived his execution. Clearing your good name, as it were. But it had a surprisingly soporific effect and I was carried off in the arms of Morpheus, like a caterpillar in a cocoon.
 WATSON: Get on with it, Holmes.
-HOLMES: Cleverly concealed in the hangman's knot was a hook -- I believe my legs have fallen asleep. I should probably come down.
+HOLMES: Cleverly concealed in the hangman's knot was a hook I believe my legs have fallen asleep. I should probably come Shouldn't you help him, John?
 MARY: Shouldn't you help him, John?
 WATSON: I hate to stop when he's on a roll. Do carry on, Holmes.
-HOLMES: The executioner attached it to a harness, thus allowing the weight to be distributed around the waist and the neck to remain intact. My lord, I can't feel my cheeks. Might we continue this at ground level?
+HOLMES: The executioner attached it to a harness, thus allowing the weight to be distributed around the waist and the neck to remain intact. My lord, I can't feel my cheeks. Might we continue this at ground How did you manage it, Holmes?
 WATSON: How did you manage it, Holmes?
+HOLMES: I managed it with braces, belts and a coat hook. Please, Watson, my tongue is going next. I'll be of no use to you at all.
 WATSON: Worse things could happen.
-MARY: John.
+MARY: Watson draws his sword.
 WATSON: But none of this explains the lack of a pulse.
-HOLMES: There is a toxin refined from the nectar of the rhododendron ponticum. It is quite infamous in the region of Turkey bordering the Black Sea for its ability to induce an apparently mortal paralysis. Enough to mislead a medical mind even as tenacious and well-trained as your own. It is known locally as --
+HOLMES: There is a toxin refined from the nectar of the rhododendron ponticum. It is quite infamous in the region of Turkey bordering the Black Sea for its ability to induce an apparently mortal paralysis. Enough to mislead a medical mind even as tenacious and well-trained as your own. It is known locally as
 MARY: What's wrong with Gladstone?
-HOLMES: -- mad honey disease.
+HOLMES: mad honey disease.
 HOLMES: He is demonstrating the very effect I've just described. He doesn't mind.
-WATSON: His heart should be ticking in no time.
-CONSTABLE CLARK: Mr. Holmes... Inspector Lestrade asks that you come with me, right away.
+WATSON: His heart should be ticking in no
+CONSTABLE CLARK: Mr. Holmes. Inspector Lestrade asks that you come with me, right What is it this time, Clarky?
 HOLMES: What is it this time, Clarky?
-CONSTABLE CLARK: It's one of our sergeants, sir. He went missing in the sewers, the day you stopped Lord Blackwood... Well, a maintenance man found his body this morning. We believe the sergeant was our first man on the scene. Shot in the head.
-HOLMES: Were there powder burns on his eyebrows?
-CONSTABLE CLARK: Yes.
+CONSTABLE CLARK: It's one of our sergeants, sir. He went missing in the sewers, the day you stopped Lord Blackwood. Well, a maintenance man found his body this morning. We believe the sergeant was our first man on the scene. Shot in the head.
+HOLMES: Were there powder burns on his
+CONSTABLE CLARK: Point blank range.
 WATSON: Point blank range.
 HOLMES: With small caliber bullet.
-CONSTABLE CLARK: Indeed.
-HOLMES: Moriarty.
-MARY: There's a brave boy... There, there, everything's going to be all right.
+CONSTABLE CLARK: Holmes and Watson look at each other complete change of demeanor mind racing, looking concerned. The dog has regained its vital signs.
+HOLMES: Holmes and Watson look at each other complete change of demeanor mind racing, looking concerned. The dog has regained its vital signs.
+MARY: There's a brave boy. There, there, everything's going to be all right.
 WATSON: Where is Blackwood's device now?
+CONSTABLE CLARK: The secret service has it, sir. They've taken over the case.
 HOLMES: I'd wager there's a piece missing.
 WATSON: So you're saying Moriarty was after a part of the machine and not the poison.
-HOLMES: The wire-free invention was the game all along. Imagine being able to control any device simply by sending a command via radio waves.
+HOLMES: The wire-free invention was the game all along. Imagine being able to control any device simply by sending a command via radio Adler was just a diversion.
 WATSON: Adler was just a diversion.
-DRIVER: (to Watson) I've loaded the last of your boxes, sir.
-WATSON: Well...
-HOLMES: I'll leave with you.   Clarky, case reopened.
-CONSTABLE CLARK (V.O.): We believe Sergeant Smith was the first officer there.
+DRIVER: ( to Watson ) I've loaded the last of your boxes, sir.
+WATSON: I'll leave with you. Clarky, case
+HOLMES: I'll leave with you. Clarky, case
+OMITTED: 125 FLASHBACK - INT. SEWER JUNCTION 125
 SERGEANT: Oi, what you doing?
-CONSTABLE CLARK (V.O.): Shot in the head.
-HOLMES: Were there powder burns on his eyebrows?
+BANG!: 126 INT. 221 BAKER ST. ( PRESENT ) 126
+HOLMES: Were there powder burns on his
 CONSTABLE CLARK: He was shot at point-blank range.
-WATSON: There's a brave boy... There, there, everything's going to be all right.
+WATSON: There's a brave boy. There, there, everything's going to be all right.
 HOLMES: Where is Blackwood's device now?
 CONSTABLE CLARK: The secret service has it, sir. They've taken over the case.
 WATSON: I'd wager there's a piece missing.
-HOLMES: Wager, Watson... I thought those days were behind you. Excellent deduction, however.
-HOLMES: Blackwood's wire-free invention was the game all along. It is undoubtedly the more dangerous and the more valuable of the two... (wistful) Irene was just a diversion.
-MAN: (to Watson) I've loaded the last of your boxes, sir.
-WATSON: Well...
-HOLMES: I'll walk out with you...
+HOLMES: Wager, Watson. I thought those days were behind you. Excellent deduction, however.
+WATSON: Moriarty was after the machine not the poison.
+HOLMES: Blackwood's wire-free invention was the game all along. It is undoubtedly the more dangerous and the more valuable of the two. Irene was just a diversion.
+MAN: ( to Watson ) I've loaded the last of your boxes, sir.
+WATSON: I'll walk out with you.
+HOLMES: I'll walk out with you.
 HOLMES: An honor working with you, Doctor.
 WATSON: Take care of yourself, Holmes.
-MARY: Try not to be too late for dinner with my parents and... be careful.
-HOLMES: Magnificent woman, Watson. Magnificent!
+MARY: Try not to be too late for dinner with my parents and. be careful.
+HOLMES: Magnificent woman, Watson.
+THE END: Writers : Michael Robert Johnson Anthony Peckham Simon Kinberg

@@ -1,44 +1,51 @@
-ROBY: Oh... God... am I cold...
+SYNOPSIS: En route back to Earth from a far part of the galaxy, the crew of the starship SNARK intercepts a transmission in an alien language, originating from a nearby storm-shrouded planet. Mankind has waited centuries to contact another form of intelligent life in the universe they decide to land and investigate. Their search takes them to a wrecked alien spacecraft whose doors gape open it is dead and abandoned. Inside they find, among other strange things, the skeleton of one of the unearthly space travellers. Certain clues in the wrecked ship lead them across the hostile surface of the planet to a primitive stone pyramid, the only remnant of a vanished civilization. Beneath this pyramid they find an ancient tomb full of fantastic artifacts. Lying dormant in the tomb are centuries- old spores, which are triggered into life by the men's presence. A parasite emerges and fastens itself to one of the men's faces and cannot be removed. An examination by the ship's medical computer reveals that the creature has inserted a tube down his throat, which is depositing something inside him. Then it is discovered that the parasite's blood is a horribly corrosive acid which eats through metal they dare not kill it on the ship. Ultimately it is dislodged from its victim and ejected from the ship, and they blast off from the Hell-planet. However, before they can seal themselves into suspended animation for the long voyage home, a horrible little monster emerges from the victim's body it has been growing in him, deposited there by the parasite. and now it is loose on the ship. A series of ghastly adventures follow. They trap it in an air shaft and a man has to crawl down the shaft with a flamethrower it tears a man's head off and runs away with his body a man is crushed in the air lock door and the ship loses most of its air in a terrific windstorm another man is burned to death and then eaten by the creature and another is woven into a cocoon as part of the alien's bizarre life cycle. Finally there is only one man left alive, alone on the ship with the creature, and only six hours till his air runs out; which leads to a climax of horrifying, explosive jeopardy, the outcome of which determines who will reach Earth alive man or alien.
+CHAZ STANDARD,: Captain.......A leader and a politician. Believes that
+MARTIN ROBY,: Executive Officer...Cautious but intelligent a survivor.
+DELL BROUSSARD,: Navigator.....Adventurer; brash glory-hound.
+SANDY MELKONIS,: Communications....Tech Intellectual; a romantic.
+CLEAVE HUNTER,: Mining Engineer...High-strung; came along to make his JAY FAUST, Engine Tech.....A worker. Unimaginative. The crew is unisex and all parts are interchangeable for men or women. FADE IN: EXTREME CLOSEUPS OF FLICKERING INSTRUMENT PANELS. Readouts and digital displays pulse eerily with the technology of the distant future. Wherever we are, it seems to be chill, dark, and sterile. Electronic machinery chuckles softly to itself. Abruptly we hear a BEEPING SIGNAL, and the machinery begins to awaken. Circuits close, lights blink on. CAMERA ANGLES GRADUALLY WIDEN, revealing more and more of the machinery, banks of panels, fluttering gauges, until we reveal: INTERIOR - HYPERSLEEP VAULT A stainless steel room with no windows, the walls packed with instrumentation. The lights are dim and the air is frigid. Occupying most of the floor space are rows of horizontal FREEZER COMPARTMENTS, looking for all the world like meat lockers. FOOM! FOOM! FOOM! With explosions of escaping gas, the lids on the freezers pop open. Slowly, groggily, six nude men sit up.
+JAY FAUST,: Engine Tech.....A worker. Unimaginative. The crew is unisex and all parts are interchangeable for men or women. FADE IN: EXTREME CLOSEUPS OF FLICKERING INSTRUMENT PANELS. Readouts and digital displays pulse eerily with the technology of the distant future. Wherever we are, it seems to be chill, dark, and sterile. Electronic machinery chuckles softly to itself. Abruptly we hear a BEEPING SIGNAL, and the machinery begins to awaken. Circuits close, lights blink on. CAMERA ANGLES GRADUALLY WIDEN, revealing more and more of the machinery, banks of panels, fluttering gauges, until we reveal: INTERIOR - HYPERSLEEP VAULT A stainless steel room with no windows, the walls packed with instrumentation. The lights are dim and the air is frigid. Occupying most of the floor space are rows of horizontal FREEZER COMPARTMENTS, looking for all the world like meat lockers. FOOM! FOOM! FOOM! With explosions of escaping gas, the lids on the freezers pop open. Slowly, groggily, six nude men sit up.
+ROBY: Oh. God. am I cold.
 BROUSSARD: Is that you, Roby?
-ROBY: I feel like shit...
+ROBY: I feel like shit.
 BROUSSARD: Yeah, it's you all right.
-FAUST: (groans) Ohh... I must be alive, I feel dead.
+FAUST: ( groans ) Ohh. I must be alive, I feel dead.
 BROUSSARD: You look dead.
 MELKONIS: The vampires rise from their graves.
-BROUSSARD: (shakes his fist in the air triumphantly) We made it!
-HUNTER: (not fully awake) Is it over?
+BROUSSARD: ( shakes his fist in the We made it!
+HUNTER: ( not fully awake ) Is it over?
 STANDARD: It's over, Hunter.
-HUNTER: (yawning) Boy, that's terrific.
-STANDARD: (looking around with a grin) Well, how does it feel to be rich men?
-FAUST: Cold!
-STANDARD: Okay!  Everybody topside!  Let's get our pants on and get to our posts!
-MELKONIS: Somebody get the cat.
+HUNTER: ( yawning ) Boy, that's terrific.
+STANDARD: ( looking around with a grin ) Well, how does it feel to be rich
+FAUST: This draws a LAUGH.
+STANDARD: Okay! Everybody topside! Let's get our pants on and get to our posts!
+MELKONIS: Somebody get the cat. I'm going to buy a cattle ranch.
 BROUSSARD: I'm going to buy a cattle ranch.
-ROBY: (putting down the cat) Cattle ranch!
-BROUSSARD: I'm not kidding.  You can get one if you have the credit.  Look just like real cows, too.
+ROBY: ( putting down the cat ) Cattle ranch!
+BROUSSARD: I'm not kidding. You can get one if you have the credit. Look just like real cows, too.
 STANDARD: All right, tycoons, let's stop spending our credit and start worrying about the job at hand.
-ROBY: Right.  Fire up all systems.
-STANDARD: Sandy, you want to give us some vision?
+ROBY: Right. Fire up all systems.
+STANDARD: Sandy, you want to give us some Feast your eyes.
 MELKONIS: Feast your eyes.
-BROUSSARD: (after a pause) Where's Irth?
+BROUSSARD: ( after a pause ) Where's Irth?
 STANDARD: Sandy, scan the whole sky.
 ROBY: Where are we?
 STANDARD: Sandy, contact traffic control.
-MELKONIS: This is deep space commercial vessel SNARK, registration number E180246, calling Antarctica air traffic control.  Do you read me?  Over.
-BROUSSARD: (staring at a screen) I don't recognize that constellation.
-STANDARD: Dell, plot our location.
-BROUSSARD: I got it.  Oh boy.
+MELKONIS: This is deep space commercial vessel SNARK, registration number E180246, calling Antarctica air traffic control. Do you read me? Over.
+BROUSSARD: ( staring at a screen ) I don't recognize that constellation.
+STANDARD: Dell, plot our location. I got it. Oh boy.
+BROUSSARD: I got it. Oh boy.
 STANDARD: Where the hell are we?
-BROUSSARD: Just short of Zeta II Reticuli.  We haven't even reached the outer rim yet.
+BROUSSARD: Just short of Zeta II Reticuli. We haven't even reached the outer rim What the hell?
 ROBY: What the hell?
-STANDARD: This is Chaz speaking.  Sorry, but we are not home.  Our present location seems to be only halfway to Irth. Remain at your posts and stand by. That is all.
-ROBY: Chaz, I've got something here on my security alert.  A high priority from the computer...
+STANDARD: This is Chaz speaking. Sorry, but we are not home. Our present location seems to be only halfway to Irth. Remain at your posts and stand by. That is all.
+ROBY: Chaz, I've got something here on my security alert. A high priority from the computer.
 STANDARD: Let's hear it.
-ROBY: (punches buttons) Computer, you have signalled a priority three message.  What is the message?
-COMPUTER: (a mechanical voice) I have interrupted the course of the voyage.
-ROBY: What?
+ROBY: ( punches buttons ) Computer, you have signalled a priority three message. What is the ( a mechanical voice ) I have interrupted the course of the I am programmed to do so if certain conditions arise.
+COMPUTER: ( a mechanical voice ) I have interrupted the course of the I am programmed to do so if certain conditions arise.
+ROBY: I am programmed to do so if certain conditions arise.
 COMPUTER: I am programmed to do so if certain conditions arise.
-STANDARD: Computer, this is Captain Standard. What conditions are you talking about?
+STANDARD: Computer, this is Captain Standard. What conditions are you talking I have intercepted a transmission of unknown origin.
 COMPUTER: I have intercepted a transmission of unknown origin.
 STANDARD: A transmission?
 COMPUTER: A voice transmission.
@@ -46,826 +53,765 @@ MELKONIS: Out here?
 COMPUTER: I have recorded the transmission.
 STANDARD: Play it for us, please.
 STANDARD: Computer, what language was that?
-COMPUTER: Unknown.
-ROBY: Unknown!  What do you mean?
+COMPUTER: Unknown! What do you mean?
+ROBY: Unknown! What do you mean?
 COMPUTER: It is none of the 678 dialects spoken by technological man.
-STANDARD: (silencing them) Just hold it, hold it! (glares around the room) Computer: have you attempted to analyze the transmission?
-COMPUTER: Yes.  There are two points of salient interest.  Number one: it is highly systematized, indicating intelligent origin.  Number two: certain sounds are inconsistent with the human palate.
+STANDARD: ( silencing them ) Just hold it, hold it! ( glares around the room ) Computer: have you attempted to analyze the transmission?
+COMPUTER: Yes. There are two points of salient interest. Number one: it is highly systematized, indicating intelligent origin. Number two: certain sounds are inconsistent with the human Oh my God.
 ROBY: Oh my God.
 STANDARD: Well, it's finally happened.
-MELKONIS: First contact...
+MELKONIS: First contact.
 STANDARD: Sandy, can you home in on that beam?
 MELKONIS: What's the frequency?
 STANDARD: Computer, what's the frequency of the transmission?
 COMPUTER: 65330 dash 99.
-MELKONIS: I've got it.  It's coming from ascension 6 minutes 32 seconds, declination -39 degrees 2 seconds.
-STANDARD: Dell -- show me that on a screen.
+MELKONIS: I've got it. It's coming from ascension 6 minutes 32 seconds, declination -39 degrees 2 seconds.
+STANDARD: Dell show me that on a screen.
 BROUSSARD: I'll give it to you on number four.
-BROUSSARD (CONT'D): That's it.  Let me straighten it out.
 STANDARD: Can you get it a little closer?
 BROUSSARD: That's what I'm going to do.
-BROUSSARD (CONT'D): Planetoid.  Diameter, 120 kilometers.
 MELKONIS: It's tiny!
 STANDARD: Any rotation?
-BROUSSARD: Yeah.  Two hours.
-STANDARD: Gravity?
-BROUSSARD: Point eight six.  We can walk on it.
-STANDARD: Martin, get the others up to the lounge.
+BROUSSARD: Yeah. Two hours.
+STANDARD: Point eight six. We can walk on it.
+BROUSSARD: Point eight six. We can walk on it.
+STANDARD: Martin, get the others up to the
 MELKONIS: If it's an S.O.S., we're morally obligated to investigate.
-BROUSSARD: Right.
-HUNTER: I don't know.  Seems to me we came on this trip to make some credit, not to go off on some kind of side trip.
-BROUSSARD: (excited) Forget the credit; what we have here is a chance to be the first men to contact a nonhuman intelligence.
+BROUSSARD: I don't know. Seems to me we came on this trip to make some credit, not to go off on some kind of side trip.
+HUNTER: I don't know. Seems to me we came on this trip to make some credit, not to go off on some kind of side trip.
+BROUSSARD: ( excited ) Forget the credit; what we have here is a chance to be the first men to contact a nonhuman intelligence.
 ROBY: If there is some kind of alien intelligence down on that planetoid, it'd be a serious mistake for us to blunder in unequipped.
-BROUSSARD: Hell, we're equipped --
-ROBY: Hell, no!  We don't know what's down there on that piece of rock!  It might be dangerous!  What we should do is get on the radio to the exploration authorities... and let them deal with it.
-STANDARD: Except it will take 75 years to get a reply back.  Don't forget how far we are from the Colonies, Martin.
-BROUSSARD: There are no commercial lanes out here.  Face it, we're out of range.
-MELKONIS: Men have waited centuries to contact another form of intelligent life in the universe.  This is an opportunity which may never come again.
-ROBY: Look --
-STANDARD: You're overruled, Martin.  Gentlemen -- let's go.
-STANDARD: Dell, I want greater magnification. More surface detail.  I want to see what this place looks like.
+BROUSSARD: Hell, we're equipped
+ROBY: Hell, no! We don't know what's down there on that piece of rock! It might be dangerous! What we should do is get on the radio to the exploration authorities. and let them deal with it.
+STANDARD: Except it will take 75 years to get a reply back. Don't forget how far we are from the Colonies, Martin.
+BROUSSARD: There are no commercial lanes out here. Face it, we're out of range.
+MELKONIS: Men have waited centuries to contact another form of intelligent life in the universe. This is an opportunity which may never come again.
+ROBY: You're overruled, Martin. Gentlemen let's go.
+STANDARD: You're overruled, Martin. Gentlemen let's go.
+STANDARD: Dell, I want greater magnification. More surface detail. I want to see what this place looks like.
 BROUSSARD: I'll see what I can do.
 STANDARD: It's out of focus.
-ROBY: No -- that's atmosphere.  Cloud layer.
+ROBY: No that's atmosphere. Cloud My God, it's stormy for a piece of rock that size!
 MELKONIS: My God, it's stormy for a piece of rock that size!
-ROBY: Just a second. (punches buttons) Those aren't water vapor clouds; they have no moisture content.
+ROBY: Just a second. Those aren't water vapor clouds; they have no moisture content.
 STANDARD: Put ship in atmospheric mode.
 STANDARD: Dell, set a course and bring us in on that beam.
 STANDARD: Activate lifter quads.
-BROUSSARD: Activated.  Vertical drop checked. Correcting course.  On tangential course now, orbiting. (brief pause as he studies his instruments) Crossing the terminator.  Entering night side.
-ROBY: Atmospheric turbulence.  Dust storm.
+BROUSSARD: Activated. Vertical drop checked. Correcting course. On tangential course now, orbiting. Crossing the terminator. Entering night side.
+ROBY: Atmospheric turbulence. Dust storm.
 STANDARD: Turn on navigation lights.
-BROUSSARD: Approaching point of origin.  Closing at 20 kilometers, 15 and slowing. Ten.  Five.  Gentlemen, we are directly above the source of the transmission.
+BROUSSARD: Approaching point of origin. Closing at 20 kilometers, 15 and slowing. Ten. Five. Gentlemen, we are directly above the source of the What's the terrain down there?
 STANDARD: What's the terrain down there?
-BROUSSARD: Well, line of sight is impossible due to dust.  Radar gives me noise. Sonar gives me noise.  Infrared -- noise.  Let's try ultraviolet.  There. Flat.  It's totally flat.  A plain.
+BROUSSARD: Well, line of sight is impossible due to dust. Radar gives me noise. Sonar gives me noise. Infrared noise. Let's try ultraviolet. There. Flat. It's totally flat. A plain.
 STANDARD: Is it solid?
-BROUSSARD: It's... basalt.  Rock.
+BROUSSARD: It's. basalt. Rock.
 STANDARD: Then take her down.
-BROUSSARD: Drop begins... now!  Fifteen kilometers and dropping... twelve... ten... eight and slowing.  Five. Three.  Two.  One kilometer and slowing.  Lock tractor beams.
-ROBY: Locked.
+BROUSSARD: Drop begins. now! Fifteen kilometers and dropping. twelve. ten. eight and slowing. Five. Three. Two. One kilometer and slowing. Lock tractor beams.
+ROBY: Kill drive engines.
 BROUSSARD: Kill drive engines.
 ROBY: Engines off.
-BROUSSARD: Nine hundred meters and dropping. 800.  700.  Hang on gentlemen.
-BROUSSARD: And we're... down.
+BROUSSARD: Nine hundred meters and dropping. 800. 700. Hang on gentlemen.
+BROUSSARD: And we're. down.
 BROUSSARD: Jesus Christ!
 STANDARD: What the hell happened?
-ROBY: (hits a switch) Engine room, what happened?
-FAUST: (over, filtered) Just a minute, hold it, I'm checking.
+ROBY: ( hits a switch ) Engine room, what happened?
+FAUST: ( over, filtered ) Just a minute, hold it, I'm Has the hull been breached?
 ROBY: Has the hull been breached?
-BROUSSARD: Uh... (scans his gauges) No, I don't see anything.  We've still got pressure.
-FAUST: (over, filtered) Martin, this is Jay.  The intakes are clogged with dust.  We overheated and burned out a whole cell.
-STANDARD: (strikes his panel) Damn it!  How long to fix?
-ROBY: (into microphone) How long to fix?
-FAUST: (over, filtered) Hard to say.
+BROUSSARD: ( scans his gauges ) No, I don't see anything. We've still got pressure.
+FAUST: ( over, filtered ) Martin, this is Jay. The intakes are clogged with dust. We overheated and burned out a whole cell.
+STANDARD: ( strikes his panel ) Damn it! How long to fix?
+ROBY: ( into microphone ) How long to fix?
+FAUST: ( over, filtered ) Hard to say.
 ROBY: Well, get started.
-FAUST: (over, filtered) Right.  Talk to you.
-STANDARD: Let's take a look outside.  Turn the screens back on.
+FAUST: ( over, filtered ) Right. Talk to you.
+STANDARD: Let's take a look outside. Turn the screens back on.
 BROUSSARD: Can't see a blessed thing.
 STANDARD: Kick on the floods.
 ROBY: Not much help.
-STANDARD: Well, we can't go anywhere in this darkness.  How long till dawn?
-MELKONIS: (consults his instruments) Well... this rock rotates every two hours.  The sun should be coming up in about 20 minutes.
-BROUSSARD: Good!  Maybe we'll be able to see something then.
+STANDARD: Well, we can't go anywhere in this darkness. How long till dawn?
+MELKONIS: ( consults his instruments ) Well. this rock rotates every two hours. The sun should be coming up in about 20 minutes.
+BROUSSARD: Good! Maybe we'll be able to see something then.
 ROBY: Or something will be able to see us.
 ROBY: There could be a whole city out there and we'd never see it.
 BROUSSARD: Not sitting on our butts in here, that's for sure.
-STANDARD: Just settle down.  Sandy, you get any response yet?
-MELKONIS: (pulls off his earphones) Sorry.  Nothing but that same damn transmission, every 32 seconds.  I've tried every frequency on the spectrum.
+STANDARD: Just settle down. Sandy, you get any response yet?
+MELKONIS: ( pulls off his earphones ) Sorry. Nothing but that same damn transmission, every 32 seconds. I've tried every frequency on the Are we just going to sit around and wait for an invitation?
 BROUSSARD: Are we just going to sit around and wait for an invitation?
-ROBY: (into mike) Hello, Faust!
-FAUST: (over, filtered) Yeah!
+ROBY: ( into mike ) Hello, Faust!
+FAUST: ( over, filtered ) How's it coming on the engines?
 ROBY: How's it coming on the engines?
-FAUST: I never saw anything as fine as this dust... these cells are all pitted on a microscopic level.  I have to polish these things smooth again, so it's going to take a while.  Okay?
-ROBY: Yeah, okay. (puts down the mike)
-STANDARD: Sandy... how far are we from the source of the transmission?
-MELKONIS: Source of transmission is to the northeast... about 300 meters.
-ROBY: Close...
+FAUST: I never saw anything as fine as this dust. these cells are all pitted on a microscopic level. I have to polish these things smooth again, so it's going to take a while. Okay?
+ROBY: Yeah, okay.
+STANDARD: Sandy. how far are we from the source of the transmission?
+MELKONIS: Source of transmission is to the northeast. about 300 meters.
+ROBY: Close enough to walk to!
 BROUSSARD: Close enough to walk to!
-STANDARD: Martin, would you run me an atmospheric?
-ROBY: (punches buttons and consults his panels) 10% argon, 85% nitrogen, 5% neon... and some trace elements.
-STANDARD: Nontoxic... but unbreathable. Pressure?
-ROBY: Ten to the fourth dynes per square centimeter.
-STANDARD: Good!  Moisture content?
-ROBY: Zero.  Dry as a bone.
+STANDARD: Martin, would you run me an 10% argon, 85% nitrogen, 5% neon. and some trace elements.
+ROBY: ( punches buttons and 10% argon, 85% nitrogen, 5% neon. and some trace elements.
+STANDARD: Nontoxic. but unbreathable. Ten to the fourth dynes per square Good! Moisture content?
+ROBY: Ten to the fourth dynes per square Good! Moisture content?
+STANDARD: Good! Moisture content?
+ROBY: Zero. Dry as a bone.
 STANDARD: Any microorganisms?
-ROBY: Not a one.  It's dead.
+ROBY: Not a one. It's dead.
 STANDARD: Anything else?
-ROBY: Yeah, rock particles.  Dust.
-STANDARD: Well, we won't need pressure suits, but breathing masks are called for. Sandy -- can you rig up some kind of portable unit that we can use to follow that transmission to its source?
+ROBY: Yeah, rock particles. Dust.
+STANDARD: Well, we won't need pressure suits, but breathing masks are called for. Sandy can you rig up some kind of portable unit that we can use to follow that transmission to its No problem.
 MELKONIS: No problem.
-BROUSSARD: I volunteer for the exploration party.
-STANDARD: I heard you.  You want to break out the side arms?
-STANDARD: (adjusting the radio on his mask) I'm sending.  Do you hear me?
-BROUSSARD: Receiving.
-MELKONIS: Receiving.
-STANDARD: All right.  Now just remember: keep away from those weapons unless I say otherwise.  Martin, do you read me?
+BROUSSARD: I volunteer for the exploration I heard you. You want to break out the side arms?
+STANDARD: I heard you. You want to break out the side arms?
+STANDARD: ( adjusting the radio on his I'm sending. Do you hear me?
+BROUSSARD: All right. Now just remember: keep away from those weapons unless I say otherwise. Martin, do you read me?
+MELKONIS: All right. Now just remember: keep away from those weapons unless I say otherwise. Martin, do you read me?
+STANDARD: All right. Now just remember: keep away from those weapons unless I say otherwise. Martin, do you read me?
 ROBY: Read you, Chaz.
 STANDARD: Open the outer door.
 STANDARD: Which way, Sandy?
-MELKONIS: (pointing) That way.
-STANDARD: You lead.
-STANDARD: Okay, Martin.  We're on our way.
-ROBY: Okay, Chaz, I hear you.  I've got you on my board.
-STANDARD: (over, filtered) Good.  I'm getting you clear too. Let's just keep the line open.
-STANDARD (CONT'D): Can't see more than three meters in any direction out here.  We're walking blind, on instruments.
-STANDARD (CONT'D): What's wrong?
+MELKONIS: ( pointing ) That way.
+STANDARD: You lead. Okay, Martin. We're on our way. Okay, Chaz, I hear you. I've got you on my board.
+STANDARD: Okay, Martin. We're on our way. Okay, Chaz, I hear you. I've got you on my board.
+ROBY: Okay, Chaz, I hear you. I've got you on my board.
+STANDARD: ( over, filtered ) Good. I'm getting you clear too. Let's just keep the line open. Can't see more than three meters in any direction out here. We're walking blind, on instruments.
 MELKONIS: My signal's fading.
-MELKONIS (CONT'D): (over, filtered) It's the dust, it's interfering...
-MELKONIS (CONT'D): (over, filtered) ... Hold it, I've got it again.  It's over that way.
 HUNTER: What's happening?
-ROBY: (startled silly) Hell!
+ROBY: ( startled silly )
 MELKONIS: It's close, real close.
 STANDARD: How far?
-MELKONIS: We should be almost on top of it.  I just can't quite...
+MELKONIS: We should be almost on top of it. I just can't quite.
 STANDARD: Martin, uh, we've found it.
-ROBY: (sharply -- over, filtered) Found what?
-STANDARD: It appears to be some sort of spacecraft.  We're going to approach it.
-STANDARD (CONT'D): (over, filtered) There are no signs of life.  No lights... no movement...
-STANDARD (CONT'D): (over, filtered) We're, uh, approaching the base.
-STANDARD (CONT'D): Appears to be a door hanging open, the entrance is clogged with debris.
+ROBY: ( sharply over, filtered ) Found what?
+STANDARD: It appears to be some sort of spacecraft. We're going to approach
 BROUSSARD: Looks like a derelict.
-STANDARD: Martin, we're going in.  I'm going to hold the conversation to a minimum from here on.
+STANDARD: Martin, we're going in. I'm going to hold the conversation to a minimum from here on. Air lock?
 MELKONIS: Air lock?
 STANDARD: Who knows?
 BROUSSARD: Let's try and find the control room.
-MELKONIS: Look at these holes.  This place looks like Swiss cheese.
-BROUSSARD: This hole goes up several decks -- looks like somebody was firing a military disintegrator in here.
+MELKONIS: Look at these holes. This place looks like Swiss cheese.
+BROUSSARD: This hole goes up several decks looks like somebody was firing a military disintegrator in here.
 STANDARD: Climbing gear.
 BROUSSARD: I'll go first.
 STANDARD: No, you'll follow me.
-MELKONIS: Holy Christ...
-STANDARD: Look at this...
-STANDARD (CONT'D): Something has been scratched here... into the veneer.  See?
+MELKONIS: Holy Christ.
+STANDARD: Look at this.
+MELKONIS: Standard knocks his hand down.
 STANDARD: Keep away from that gun!
-STANDARD (CONT'D): Just machinery.
 BROUSSARD: But functioning.
 MELKONIS: That's where the transmission is coming from.
-BROUSSARD: A recording.  A damned automatic recording.
-STANDARD: ... This is the control room...
-STANDARD (CONT'D): ... Some details of the control room...
-STANDARD (CONT'D): ... This is the skeleton... another view of the skeleton... the transmitting device...
-STANDARD (CONT'D): ... This is a closeup of the triangle we found scrawled on the console in front of the skeleton...
-STANDARD (CONT'D): ... And that's it.
-HUNTER: Phenomenal.  Staggering.
-BROUSSARD: We've got to go back and take a lot more pictures, holograph everything.
-MELKONIS: And bring back as much physical evidence as possible, too.  The rest of the skeleton.  Some of the machinery.  Written records, if there are any.
-STANDARD: Martin?
-ROBY: I agree.  This is the single most important discovery in history.
-STANDARD: But?
+BROUSSARD: A recording. A damned automatic
+STANDARD: . This is the control room.
+HUNTER: Phenomenal. Staggering.
+BROUSSARD: We've got to go back and take a lot more pictures, holograph And bring back as much physical evidence as possible, too. The rest of the skeleton. Some of the machinery. Written records, if there are any.
+MELKONIS: And bring back as much physical evidence as possible, too. The rest of the skeleton. Some of the machinery. Written records, if there are any.
+STANDARD: I agree. This is the single most important discovery in history.
+ROBY: I agree. This is the single most important discovery in history.
+STANDARD: What killed it?
 ROBY: What killed it?
-BROUSSARD: Hell, that thing's been dead for years.  Maybe hundreds of years.  The whole planet's dead.
-FAUST: The way I figure it, they landed here for repairs or something, then they couldn't take off again.  Maybe the dust ruined their engines.  They set up an S.O.S. beacon, but nobody came.  So they died.
-FAUST: What?
-ROBY: Not
-ROBY (CONT'D): ... There was only one skeleton.
-STANDARD: Jay... how's it coming on the repairs?
-FAUST: Well... I'm going to have to blow the engines out...
-STANDARD: And when will you be ready to do that?
-FAUST: Oh -- I'm not near ready yet.
+BROUSSARD: Hell, that thing's been dead for years. Maybe hundreds of years. The whole planet's dead.
+FAUST: The way I figure it, they landed here for repairs or something, then they couldn't take off again. Maybe the dust ruined their engines. They set up an S.O.S. beacon, but nobody came. So they died.
+ROBY: They all turn to look in the direction of Roby's nod. CAMERA MOVES
+FAUST: They all turn to look in the direction of Roby's nod. CAMERA MOVES
+ROBY: They all turn to look in the direction of Roby's nod. CAMERA MOVES
+STANDARD: Jay. how's it coming on the Well. I'm going to have to blow the engines out.
+FAUST: Well. I'm going to have to blow the engines out.
+STANDARD: And when will you be ready to do Oh I'm not near ready yet.
+FAUST: Oh I'm not near ready yet.
 STANDARD: Then why the hell are you sitting around here?
-FAUST: Right.
-MELKONIS: And there sits man's first contact with intelligent life in the universe.
+FAUST: The men rise and begin to disperse, but Roby remains seated, deep in thought, staring at the skull. Melkonis lingers in the room with him.
+MELKONIS: And there sits man's first contact with intelligent life in the
 FAUST: You ready up there?
 BROUSSARD: Sure, we're ready.
-FAUST: Okay.  I'm going to start the extraction procedure now.
+FAUST: Okay. I'm going to start the extraction procedure now.
 STANDARD: Alas, poor Yorick.
-STANDARD (CONT'D): (nodding at the screen) Find anything we missed?
-ROBY: (shrugs) I don't even know what I'm looking for.
+ROBY: ( shrugs ) I don't even know what I'm looking Still worried?
 STANDARD: Still worried?
-ROBY: Oh well... you know me.
-STANDARD: I've always respected your opinion, Martin.  If something worries you, it worries me.
+ROBY: Oh well. you know me.
+STANDARD: I've always respected your opinion, Martin. If something worries you, it worries me.
 ROBY: What would you say that was supposed to mean?
-STANDARD: Well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...
+STANDARD: Well. it's obviously intentional. some kind of attempt at communication. maybe it's a symbol that means something to them.
 ROBY: But why draw it on the wall?
-ROBY (CONT'D): (picking a hair out of the coffeepot) This ship is full of cat hair.
-STANDARD: Tell you what, Martin.  As soon as the engine's fixed --
-STANDARD (CONT'D): This is Chaz.
-BROUSSARD: (over, filtered) Chaz, this is Dell.  Can you come topside for a minute?
+STANDARD: Tell you what, Martin. As soon as the engine's fixed
+BROUSSARD: ( over, filtered ) Chaz, this is Dell. Can you come topside for a minute?
 STANDARD: What's up?
-BROUSSARD: (over, filtered) Well, the sun just came up again, and it seems the wind's died down. It's as clear as a bell outside. There's something I think you ought to see.
+BROUSSARD: ( over, filtered ) Well, the sun just came up again, and it seems the wind's died down. It's as clear as a bell outside. There's something I think you ought to see.
 STANDARD: I'm on my way.
 STANDARD: What is it?
 BROUSSARD: Take a look.
-BROUSSARD: I was scanning the horizon to see what I could pick up.  Look there, on that screen.
-STANDARD: What is it, I can't --
-STANDARD: This is Chaz.  All hands topside. Now.
+BROUSSARD: I was scanning the horizon to see what I could pick up. Look there, on that screen.
+STANDARD: What is it, I can't
+STANDARD: This is Chaz. All hands topside. Doesn't seem much doubt about it, does there?
 STANDARD: Doesn't seem much doubt about it, does there?
-MELKONIS: That creature sure must have considered it important... using his last strength to draw it...
+MELKONIS: That creature sure must have considered it important. using his last strength to draw it.
 BROUSSARD: Maybe they built it.
 FAUST: As what?
 BROUSSARD: A marker for buried instrumentation?
 HUNTER: Or a mass grave.
-BROUSSARD: Maybe the rest of the crew is in there -- in some kind of suspended animation, waiting to be rescued.
+BROUSSARD: Maybe the rest of the crew is in there in some kind of suspended animation, waiting to be rescued.
 MELKONIS: It wasn't necessarily built by them.
 ROBY: Here comes the dust again.
-STANDARD: Well, does anyone else agree with Martin that we should not explore it?
-STANDARD (CONT'D): Then the sooner we get moving, the better.
-STANDARD: We can't make out any details or features yet... but it's definitely too regular for a natural formation...
-STANDARD (CONT'D): (over, filtered) ... There's one thing I can say for sure though...
+STANDARD: Well, does anyone else agree with Martin that we should not explore
+STANDARD: We can't make out any details or features yet. but it's definitely too regular for a natural
 ROBY: Now what's wrong?
 HUNTER: I've completely lost their signal.
 ROBY: Can you get them back?
-HUNTER: I'm trying.
+HUNTER: I'm trying. This looks ancient.
 MELKONIS: This looks ancient.
-STANDARD: Can't tell -- these weather conditions could erode anything, fast.
+STANDARD: Can't tell these weather conditions could erode anything,
 BROUSSARD: There's no entrance.
-MELKONIS: Maybe the entrance is buried.  Could be under our feet.
+MELKONIS: Maybe the entrance is buried. Could be under our feet.
 STANDARD: Maybe there thing may be solid.
-ROBY: Well, there ought to be some way we can get through to them --
-FAUST: (over, filtered) Sorry to interrupt, but I'm gonna charge up the engines for a minute, okay?
-ROBY: Yeah, okay.  Go ahead.
-ROBY (CONT'D): Yes!
-COMPUTER: I have a temporary sequence on the monitor --
+ROBY: Well, there ought to be some way we can get through to them
+FAUST: ( over, filtered ) Sorry to interrupt, but I'm gonna charge up the engines for a minute, Yeah, okay. Go ahead.
+ROBY: Yeah, okay. Go ahead.
+COMPUTER: I have a temporary sequence on the Hold it, I can't hear a damn thing!
 ROBY: Hold it, I can't hear a damn thing!
-ROBY (CONT'D): Go ahead!
-ROBY (CONT'D): You mean... you've translated it?
-ROBY (CONT'D): Well come on, come on!  What does it say?
-HUNTER: (looking over at Roby) What?  What was that?
-ROBY: The computer just translated the goddamn message.  It's not an S.O.S. It was a warning.
+HUNTER: ( looking over at Roby ) What? What was that?
+ROBY: The computer just translated the goddamn message. It's not an S.O.S. It was a warning.
 BROUSSARD: Maybe we can get in by the top.
 STANDARD: You want to try?
-BROUSSARD: Sure.
-BROUSSARD (CONT'D): You guys just wait down here till I say it's okay to come up.
+BROUSSARD: Broussard takes out the graplon-gun, and fires the hook up toward the top of the pyramid. It catches. He clips himself to the wire.
 BROUSSARD: There's a hole at the top.
 STANDARD: Can we come up?
-BROUSSARD: (over, filtered) No, it's too small, only room enough for one person.
+BROUSSARD: ( over, filtered ) No, it's too small, only room enough for one person.
 STANDARD: Can you see anything in the hole?
-BROUSSARD: I can see... partway down.  It just goes down like a stovepipe.  Smooth walls.  I can't see the bottom -- light won't reach.
-FAUST: Yes?  What is it?
-ROBY: Jay, we've got a problem.  I was wondering if there was any way you could shortcut the repairs and give us immediate takeoff capability.
-FAUST: (quickly) Why, what's wrong?
+BROUSSARD: I can see. partway down. It just goes down like a stovepipe. Smooth walls. I can't see the bottom light won't reach.
+FAUST: Yes? What is it?
+ROBY: Jay, we've got a problem. I was wondering if there was any way you could shortcut the repairs and give us immediate takeoff capability.
+FAUST: ( quickly ) Why, what's wrong?
 ROBY: The computer's translated the alien signal, and it's kind of alarming.
 FAUST: What do you mean?
-ROBY: It couldn't translate the whole thing, only three phrases.  I'll just read it to you the way I got it: (reads from a strip of paper)
-"... HOSTILE... SURVIVAL... ADVISE DO: (looks up at the others) And that's all it could translate.
-STANDARD: (over, filtered) Dell, you want to come down, we can figure out where to go from here.
+ROBY: It couldn't translate the whole thing, only three phrases. I'll just read it to you the way I got it:
+STANDARD: ( over, filtered ) Dell, you want to come down, we can figure out where to go from here.
 BROUSSARD: No, I want to go in.
-STANDARD: Okay, Dell, but just for a preliminary look-around.  Don't unhook yourself from your cable.  And be out in less than ten minutes.
-BROUSSARD: Right.
-BROUSSARD (CONT'D): Okay, I'm in the mouth of the chimney now, and I'm starting down.
-STANDARD: (over, filtered) Take care.
-BROUSSARD: It's noticeably warmer in here.  Warm air rising from below.
-STANDARD: (over, filtered) Are you okay in there?
-BROUSSARD: (gasping for breath) Yeah, I'm okay.  Haven't hit bottom yet.  Definitely a column of warm air rising; it keeps the shaft clear of dust.
-STANDARD: (over, filtered) What was that Dell, I lost you, do you read me?
-BROUSSARD: Yeah, but this is hard work.  Can't talk now.
-BROUSSARD (CONT'D): I'm way below ground level.
+STANDARD: Okay, Dell, but just for a preliminary look-around. Don't unhook yourself from your cable. And be out in less than ten minutes.
+BROUSSARD: Broussard has rigged a tripod across the mouth of the hole. He unspools a couple feet of wire from the device, and attaches the end of it to his chest unit. He climbs over the lip and drops into the hole. He is now hanging by the wire, with his head and shoulders out of the hole.
+STANDARD: ( over, filtered ) Take care.
+BROUSSARD: It's noticeably warmer in here. Warm air rising from below.
+STANDARD: ( over, filtered ) Are you okay in there?
+BROUSSARD: ( gasping for breath ) Yeah, I'm okay. Haven't hit bottom yet. Definitely a column of warm air rising; it keeps the shaft clear of ( over, filtered ) What was that Dell, I lost you, do you read me?
+STANDARD: ( over, filtered ) What was that Dell, I lost you, do you read me?
+BROUSSARD: Yeah, but this is hard work. Can't talk now. I'm way below ground level.
 STANDARD: What'd he say?
-MELKONIS: I couldn't make it out -- too much interference.
-HUNTER: I'm getting nowhere.  The whole area around the pyramid is dead to transmission.  I think we should go after them.
-ROBY: No.
+MELKONIS: I couldn't make it out too much
+HUNTER: I'm getting nowhere. The whole area around the pyramid is dead to transmission. I think we should go after them.
+ROBY: What do you mean, no?
 HUNTER: What do you mean, no?
 ROBY: We're not going anywhere.
-HUNTER: But they don't know about the translation!  They could be in danger right now.
-ROBY: We can't spare the personnel.  We've got minimum takeoff capability right now.  That's why Chaz left us on board.
-HUNTER: Why, you chickenshit bastard --
-ROBY: Just can that crap!  I'm in command here till Chaz returns!  And nobody's leaving this ship!
-BROUSSARD: (huffing and puffing) Tunnel's gone -- cave or something below me -- feels like the tropics in here; air is warm and humid... (consults his instruments) ... high oxygen content, no dust, it's completely breathable --
-BROUSSARD: It's unbelievable!  It's like some kind of tomb... some primitive religion!  Hey, is anybody there?  Do you read me?  Standard!
+HUNTER: But they don't know about the translation! They could be in danger right now.
+ROBY: We can't spare the personnel. We've got minimum takeoff capability right now. That's why Chaz left us on Why, you chickenshit bastard
+HUNTER: Why, you chickenshit bastard
+ROBY: Just can that crap! I'm in command here till Chaz returns! And nobody's leaving this ship!
+BROUSSARD: ( huffing and puffing ) Tunnel's gone cave or something below me feels like the tropics in here; air is warm and humid. ( consults his instruments ) . high oxygen content, no dust, it's completely breathable
+BROUSSARD: It's unbelievable! It's like some kind of tomb. some primitive religion! Hey, is anybody there? Do you read me? Standard!
 STANDARD: If we don't hear from him soon, I think we better go in after him.
 MELKONIS: Sun will be down in a minute.
-BROUSSARD: I don't know if you can hear me, but the place is full of large bottles or jars, just like the one we found on the other ship -- except these are all sealed.  Also they're soft to the touch.
-BROUSSARD (CONT'D): Another funny thing -- I just put my hand on it, and now there are these raised areas appearing where my fingertips were.
+BROUSSARD: I don't know if you can hear me, but the place is full of large bottles or jars, just like the one we found on the other ship except these are all sealed. Also they're soft to the touch.
 STANDARD: Let's go.
-STANDARD: (puffing with exertion) Here's his line.  We can haul him out of there if we have to.
-MELKONIS: It'll yank him right off his feet if he's not expecting it.  The line could get tangled in something.
-STANDARD: But what can we do?  He's out of radio contact.
-MELKONIS: Maybe we should just wait a few more minutes.
-STANDARD: (making up his mind) No, I told him to be out in ten minutes.  It's been much longer. Let's get him out of there.
-STANDARD (CONT'D): The line's slack.  Christ, do you think the idiot unhooked himself?
-STANDARD (CONT'D): There, it caught!
+STANDARD: ( puffing with exertion ) Here's his line. We can haul him out of there if we have to.
+MELKONIS: It'll yank him right off his feet if he's not expecting it. The line could get tangled in something.
+STANDARD: But what can we do? He's out of radio contact.
+MELKONIS: Maybe we should just wait a few more
+STANDARD: ( making up his mind ) No, I told him to be out in ten minutes. It's been much longer. Let's get him out of there.
 MELKONIS: Is it still coming up, or is it hooked on something?
 STANDARD: No, it's coming.
 MELKONIS: Can you see anything?
-STANDARD: No, I can't see far enough.  The line's moving, though.
-STANDARD (CONT'D): I can see him!  Here he comes!
-STANDARD (CONT'D): Get ready to grab him!
-STANDARD (CONT'D): his face!
+STANDARD: No, I can't see far enough. The line's moving, though.
+MELKONIS: In their panic and confusion, the men teeter momentarily, finally regain their balance. They shine their lights on Broussard. He appears to be completely unconscious AND THE OCTOPUS THING IS
+STANDARD: In their panic and confusion, the men teeter momentarily, finally regain their balance. They shine their lights on Broussard. He appears to be completely unconscious AND THE OCTOPUS THING IS
 MELKONIS: Oh God, oh God no.
-STANDARD: Help me -- I'm going to try to get it off.
-STANDARD (CONT'D): It won't come -- it's stuck.
+STANDARD: Help me I'm going to try to get it off.
 MELKONIS: What is it?
-STANDARD: How the hell should I know?  Come on, give me a hand, let's get him out of there!
-HUNTER: I've got 'em!  They're back on my screens!
-ROBY: (leaps to his feet) How many?
-HUNTER: Three blips!  They're coming this way!
-ROBY: (into mike) Hey, can you guys hear me?
-STANDARD: (over, filtered) Yeah, we hear you!  We're coming back!
-ROBY: Thank Christ!  We lost you!  Listen, there's been a new development --
-STANDARD: (over, filtered) Can't talk now; Broussard's injured. We'll need some help getting him into the ship.
-ROBY: (to himself) Oh no.
-HUNTER: (into intercom) Jay, this is Cleave!  Meet me at the main air lock!
-HUNTER: (into intercom) Martin, I'm by the inner lock door! I'll wait here for you to let them in!
-ROBY: (strangely quiet) Right.
+STANDARD: How the hell should I know? Come on, give me a hand, let's get him out of
+HUNTER: I've got 'em! They're back on my How many?
+ROBY: ( leaps to his feet ) How many?
+HUNTER: Three blips! They're coming this
+ROBY: ( into mike ) Hey, can you guys hear me?
+STANDARD: ( over, filtered ) Yeah, we hear you! We're coming Thank Christ! We lost you! Listen, there's been a new development
+ROBY: Thank Christ! We lost you! Listen, there's been a new development
+STANDARD: ( over, filtered ) Can't talk now; Broussard's injured. We'll need some help getting him into the ship.
+ROBY: ( to himself ) Oh no.
+HUNTER: ( into intercom ) Jay, this is Cleave! Meet me at the main air lock!
+HUNTER: ( into intercom ) Martin, I'm by the inner lock door! I'll wait here for you to let them
+ROBY: ( strangely quiet )
 FAUST: What the hell's going on?
-HUNTER: Don't know -- Broussard got hurt somehow.
-FAUST: Hurt!  How?
-HUNTER: Don't know -- maybe we'll be real lucky and he just broke his neck. (a beat) I knew we shouldn't of come down here.
-STANDARD: (over, filtered) Martin, are you there?
+HUNTER: Don't know Broussard got hurt Hurt! How?
+FAUST: Hurt! How?
+HUNTER: Don't know maybe we'll be real lucky and he just broke his neck. I knew we shouldn't of come down
+STANDARD: ( over, filtered ) Martin, are you there?
 ROBY: Here, Chaz.
-STANDARD: (over, filtered) We're coming up now, open the outer lock door.
-ROBY: Chaz -- what happened to Broussard?
-STANDARD: (over, filtered) It's some kind of organism, it's attached itself to him.  Let us in.
-STANDARD (CONT'D): (over, filtered) You hear me, Martin?  Open the outer door.
-ROBY: Chaz, if it's an organism, and we let it in, the ship will be infected.
-STANDARD: (over, filtered) We can't leave him out here, open the door.
-ROBY: (urgently) Chaz, listen to me -- we've broken every rule of quarantine.  If we bring an organism on board, we won't have a single layer of defense left.
-STANDARD: (over, filtered) Martin, this is an order!  Open the door!
+STANDARD: ( over, filtered ) We're coming up now, open the outer lock door.
+ROBY: Chaz what happened to Broussard?
+STANDARD: ( over, filtered ) It's some kind of organism, it's attached itself to him. Let us in.
+ROBY: Chaz, if it's an organism, and we let it in, the ship will be We can't leave him out here, open the door.
+STANDARD: ( over, filtered ) We can't leave him out here, open the door.
+ROBY: ( urgently ) Chaz, listen to me we've broken every rule of quarantine. If we bring an organism on board, we won't have a single layer of defense left.
+STANDARD: ( over, filtered ) Martin, this is an order! Open the
 HUNTER: Outer door's open.
-STANDARD: (pulling off his mask) You men stay clear, there's a parasite on him.
-HUNTER: Oh -- God -- oh --
+STANDARD: ( pulling off his mask ) You men stay clear, there's a parasite on him.
+HUNTER: Oh God oh
 FAUST: Is it alive?
 STANDARD: I don't know but don't touch it. Give us a hand here, let's get him up to the Autodoc.
-STANDARD: Help me, come on, let's get him up here.
+STANDARD: Help me, come on, let's get him up
 HUNTER: That thing, God almighty, didn't you try to get it off him?
 STANDARD: It wouldn't come.
-STANDARD (CONT'D): Medical gloves.
-STANDARD (CONT'D): It's really on there tight.
-FAUST: Here, let me try.
-STANDARD: (grabbing Faust's hands) Stop it, you're tearing his face.
-MELKONIS: It's not coming off -- not without his whole face coming off too.
+FAUST: Here, let me try. Stop it, you're tearing his face.
+STANDARD: ( grabbing Faust's hands ) Stop it, you're tearing his face.
+MELKONIS: It's not coming off not without his whole face coming off too.
 STANDARD: Let's let the machine work on him.
 HUNTER: Hey now, what is this?
 STANDARD: Ask him.
-ROBY: (slowly puts his hand to his cheek) I understand why you did that.
-STANDARD: Good.
+ROBY: ( slowly puts his hand I understand why you did that.
+STANDARD: He wouldn't open the lock; he was going to leave us out there.
 MELKONIS: He wouldn't open the lock; he was going to leave us out there.
-HUNTER: Yeah... well, maybe he should have.  I mean, you brought the goddamn thing in here.  Maybe you deserve to get slapped.
-FAUST: (embarrassed) Excuse me, I've got work to do.
+HUNTER: Yeah. well, maybe he should have. I mean, you brought the goddamn thing in here. Maybe you deserve to get Excuse me, I've got work to do.
+FAUST: ( embarrassed ) Excuse me, I've got work to do.
 HUNTER: I keep my mouth pretty much shut, but I don't like hitting.
-ROBY: (to Standard) I guess I had it coming.  Let's call it settled.
-ROBY (CONT'D): (slowly) Would somebody fill me in?
-STANDARD: He went into the pyramid alone.  We lost radio contact with him.  When we pulled him out, it was on his face. It won't come off, not without injuring him.
+ROBY: ( to Standard ) I guess I had it coming. Let's call it settled.
+STANDARD: He went into the pyramid alone. We lost radio contact with him. When we pulled him out, it was on his face. It won't come off, not without injuring him.
 HUNTER: Where did it come from?
+MELKONIS: How does he breathe?
 HUNTER: How does he breathe?
 MELKONIS: Blood's thoroughly oxygenated.
-HUNTER: Yeah, but how?  His nose and mouth are blocked.
+HUNTER: Yeah, but how? His nose and mouth are blocked.
 STANDARD: Let's look inside his head.
 ROBY: Look at that.
-HUNTER: What is it -- I can't tell anything --
-ROBY: It's some kind of organ -- it's inserted some kind of tube or something down his throat.
-HUNTER: (turning sick) Oh... God...
+HUNTER: What is it I can't tell It's some kind of organ it's inserted some kind of tube or something down his throat.
+ROBY: It's some kind of organ it's inserted some kind of tube or something down his throat.
+HUNTER: ( turning sick ) Oh. God.
 ROBY: I think that's how it's getting oxygen to him.
-HUNTER: It doesn't make any sense.  It paralyzes him... puts him into a coma... then keeps him alive.
-MELKONIS: We can't expect to understand a life form like this.  We're out of our back yard.  Things are different here.
-HUNTER: Well, can't we kill it?  I mean, we can't leave the damn thing on him.
-MELKONIS: We don't know what might happen if we tried to kill it.  At least right now it's keeping him alive.
-HUNTER: How about cutting it off?  We can't pull it loose, but we can cut off everything but the bottom layer, where it's stuck to his face.
-STANDARD: You're right... we can't stand here and do nothing.
-STANDARD (CONT'D): (muffled in his mask) Somebody give me a scalpel.
-STANDARD (CONT'D): (muffled) I've made an incision... it's not reacting... but some kind of yellowish fluid is leaking out of the wound...
-STANDARD (CONT'D): (muffled) Hold it, this stuff's smoking!
+HUNTER: It doesn't make any sense. It paralyzes him. puts him into a coma. then keeps him alive.
+MELKONIS: We can't expect to understand a life form like this. We're out of our back yard. Things are different Well, can't we kill it? I mean, we can't leave the damn thing on him.
+HUNTER: Well, can't we kill it? I mean, we can't leave the damn thing on him.
+MELKONIS: We don't know what might happen if we tried to kill it. At least right now it's keeping him alive.
+HUNTER: How about cutting it off? We can't pull it loose, but we can cut off everything but the bottom layer, where it's stuck to his face.
+STANDARD: You're right. we can't stand here and do nothing.
 MELKONIS: God, that smoke's poisonous!
-HUNTER: (pointing) It's eating a hole in the floor!
-STANDARD: That stuff's eating right through the metal!  It's going to eat through the decks and right out through the hull!
-STANDARD: There!  Look!
+HUNTER: ( pointing ) It's eating a hole in the floor!
+STANDARD: That stuff's eating right through the metal! It's going to eat through the decks and right out through the
+STANDARD: There! Look!
 MELKONIS: Jesus, what can we put under it?
-STANDARD: (pointing) There.  Should be coming through about there.
-HUNTER: Careful, don't get under it!
-MELKONIS: Christ, that stinks.
+STANDARD: ( pointing ) There. Should be coming through about there.
+HUNTER: Careful, don't get under it! Christ, that stinks. Seems to have stopped penetrating.
+MELKONIS: Christ, that stinks. Seems to have stopped penetrating.
 ROBY: Seems to have stopped penetrating.
 HUNTER: What's happening up here?
 ROBY: I think it's fizzled out.
-MELKONIS: I never saw anything like that in my life... except molecular acid.
+MELKONIS: I never saw anything like that in my life. except molecular acid.
 HUNTER: But this thing uses it for
-MELKONIS: Hell of a defense mechanism.  You don't dare kill it.
+MELKONIS: Hell of a defense mechanism. You don't dare kill it.
 STANDARD: It's stopped?
 MELKONIS: Yes, thank heaven.
-STANDARD: We're just plain lucky.  That could have gone right through the hull -- taken weeks to patch it.
-MELKONIS: Reminded me of when I was a kid and the roof leaked -- everybody running for the pots and pans.
+STANDARD: We're just plain lucky. That could have gone right through the hull taken weeks to patch it.
+MELKONIS: Reminded me of when I was a kid and the roof leaked everybody running for the pots and pans.
 ROBY: My God, what about Broussard?
 ROBY: Did it get on him?
-STANDARD: No, thank God... just missed him.
+STANDARD: No, thank God. just missed him.
 MELKONIS: Is it still dripping?
-STANDARD: (examining it) It appears to have healed itself.
-HUNTER: It makes me sick to see him like that.
+STANDARD: ( examining it ) It appears to have healed itself.
+HUNTER: It makes me sick to see him like Isn't there some way we can get it off him?
 MELKONIS: Isn't there some way we can get it off him?
-STANDARD: I don't see how.  But let's do what we can for him.
-STANDARD (CONT'D): I think we'd better get some intravenous feeding started.  God knows what that thing is leaching out of him.
-ROBY: (studying the screens) Look there, what's that stain on his lungs?
-MELKONIS: It appears to be a heavy fluid of some sort... it blocks the X-rays...
-ROBY: That tube must be depositing it in him.
-MELKONIS: Could be some kind of venom, or poison...
+STANDARD: I don't see how. But let's do what we can for him.
+ROBY: ( studying the screens ) Look there, what's that stain on his
+MELKONIS: It appears to be a heavy fluid of some sort. it blocks the X-rays.
+ROBY: That tube must be depositing it in Could be some kind of venom, or This is horrible.
+MELKONIS: Could be some kind of venom, or This is horrible.
 HUNTER: This is horrible.
-ROBY: Hey!  what about the film?
+ROBY: Hey! what about the film?
 STANDARD: What film?
-ROBY: Broussard had film in his datastick, didn't he?  We can see what happened to him.
+ROBY: Broussard had film in his datastick, didn't he? We can see what happened to him.
 HUNTER: That must have been when he got it.
-ROBY: The same thing must've happened to the creatures on the other ship... except they took one of those jars on board, and opened it there.
-MELKONIS: (clicks back through the slides to a picture of one of the "urns") At first I thought they were jars too, or artifacts anyway.  But they're not.  They're eggs, or spore casings.  Let's go back to the heiroglyphics.
-STANDARD: I personally can't make any sense out of it...
-MELKONIS: It's a crude symbolic language -- looks primitive.
-HUNTER: You can't tell -- that kind of stuff could represent printed circuits...
-STANDARD: That sounds a little fanciful...
-MELKONIS: Primitive pictorial languages are based on common objects in the environment, and this can be used as a starting point for translation...
+ROBY: The same thing must've happened to the creatures on the other ship. except they took one of those jars on board, and opened it there.
+MELKONIS: ( clicks back through the At first I thought they were jars too, or artifacts anyway. But they're not. They're eggs, or spore casings. Let's go back to the
+STANDARD: I personally can't make any sense out of it.
+MELKONIS: It's a crude symbolic language looks primitive.
+HUNTER: You can't tell that kind of stuff could represent printed circuits.
+STANDARD: That sounds a little fanciful.
+MELKONIS: Primitive pictorial languages are based on common objects in the environment, and this can be used as a starting point for translation.
 ROBY: What common objects?
 HUNTER: Listen, hadn't somebody better check on Broussard?
-STANDARD: (rising) I'll do it.  The rest of you continue.
-HUNTER: (rising) I'll come with you.
-STANDARD: You know, it's fantastic -- the human race has gone this long without ever encountering another advanced life form, and now we run into a veritable zoo.
+STANDARD: ( rising ) I'll do it. The rest of you ( rising ) I'll come with you.
+HUNTER: ( rising ) I'll come with you.
+STANDARD: You know, it's fantastic the human race has gone this long without ever encountering another advanced life form, and now we run into a veritable zoo.
 HUNTER: What do you mean?
-STANDARD: Well, those things out there aren't the same, you know -- the spaceship and the pyramid.  They're from different cultures and different races.  That ship just landed here -- crashed like we did.  The pyramid and the thing from it are indigenous.
-HUNTER: How could anything be indigenous to this asteroid?  It's dead.
+STANDARD: Well, those things out there aren't the same, you know the spaceship and the pyramid. They're from different cultures and different races. That ship just landed here crashed like we did. The pyramid and the thing from it are indigenous.
+HUNTER: How could anything be indigenous to this asteroid? It's dead.
 STANDARD: Maybe it wasn't always dead.
 HUNTER: It's gone.
 HUNTER: Now we're in for it.
-STANDARD: The door was closed.  It must still be in here.
-STANDARD (CONT'D): No, don't open the door.  We don't want it escaping.
-HUNTER: (very nervous) Well, what the hell good can we do in here?  We can't grab it -- it might jump on us --
+STANDARD: The door was closed. It must still be in here.
+HUNTER: ( very nervous ) Well, what the hell good can we do in here? We can't grab it it might jump on us
 STANDARD: Maybe we can catch it.
-STANDARD (CONT'D): As long as we're careful not to damage it...
-STANDARD: (leaping back) Shit!
-STANDARD (CONT'D): I think it's dead.
-STANDARD: Look at these suckers -- no wonder we couldn't get it off him.
+STANDARD: ( leaping back ) I think it's dead.
+STANDARD: Look at these suckers no wonder we couldn't get it off him.
 ROBY: Is that its mouth?
-MELKONIS: More likely that organ -- the tube- like thing -- fits up in there.
-ROBY: Ugh.
-STANDARD: Quick -- it's decomposing -- gimme something to grab it with!
-STANDARD (CONT'D): Christ!  Let's get it out of here!
-ROBY: (shouts into intercom) For Chrissake, open the main lock!
-ROBY: (slumping against the wall) My God, it's lethal even when it's dead!
-HUNTER: (over intercom, filtered) Yes?
+MELKONIS: More likely that organ the tube- like thing fits up in there.
+ROBY: Suddenly, it starts to FALL APART IN THE PLIERS.
+STANDARD: Quick it's decomposing gimme something to grab it with!
+ROBY: ( shouts into intercom ) For Chrissake, open the main lock!
+ROBY: ( slumping against the My God, it's lethal even when it's
+HUNTER: ( over intercom, How's Broussard?
 STANDARD: How's Broussard?
-HUNTER: (over, filtered) He's running a fever.
+HUNTER: ( over, filtered ) He's running a fever.
 STANDARD: Still unconscious?
-HUNTER: (over, filtered) Yes.
+HUNTER: ( over, filtered ) Can you do anything for him?
 STANDARD: Can you do anything for him?
-HUNTER: (over, filtered) The machine will bring his temperature down.  His vital functions are strong.
-STANDARD: Good.
-STANDARD (CONT'D): (suddenly exhausted) I need some coffee.
-MELKONIS: These day and night cycles are totally disorienting.  I feel like we've been here for days, but it's only been how long?
-ROBY: (stroking the cat) About four hours.
-STANDARD: (staring into his coffee cup) I'm sorry to say it looks like you were right in the first place, Martin.  We never should have landed here.
-ROBY: Look, I'm not trying to rub anybody's nose in anything.  The important thing is just to get away from here as fast as possible.
-STANDARD: I can't lean on Faust any harder -- he's been working non-stop on the engines.
-ROBY: If we knew exactly what happened to the beings on the other ship --
+HUNTER: ( over, filtered ) The machine will bring his temperature down. His vital functions are strong.
+STANDARD: He switches off the intercom.
+MELKONIS: These day and night cycles are totally disorienting. I feel like we've been here for days, but it's only been how long?
+ROBY: ( stroking the cat ) About four hours.
+STANDARD: ( staring into his coffee I'm sorry to say it looks like you were right in the first place, Martin. We never should have landed Look, I'm not trying to rub anybody's nose in anything. The important thing is just to get away from here as fast as possible.
+ROBY: Look, I'm not trying to rub anybody's nose in anything. The important thing is just to get away from here as fast as possible.
+STANDARD: I can't lean on Faust any harder he's been working non-stop on the If we knew exactly what happened to the beings on the other ship
+ROBY: If we knew exactly what happened to the beings on the other ship
 MELKONIS: We do know that.
-ROBY: Yeah?
+ROBY: They never made it off the planet. The parasites won.
 MELKONIS: They never made it off the planet. The parasites won.
 ROBY: Where did the parasites come from?
-STANDARD: They seem native to the planet.  It's got an atmosphere and a dense gravity.  It's dead now, but once it must have been fertile.
-MELKONIS: No.  It's just too small to support fauna as big as the parasites.  If there were a native ecology, it would have to be microscopic.
+STANDARD: They seem native to the planet. It's got an atmosphere and a dense gravity. It's dead now, but once it must have been fertile.
+MELKONIS: No. It's just too small to support fauna as big as the parasites. If there were a native ecology, it would have to be microscopic.
 ROBY: Couldn't the pyramid have been built here by space travellers?
-STANDARD: Too primitive.  It's a pre- technological construction.  That slab was engineered by an Iron-Age culture at best.
-MELKONIS: They're from a dead civilization; they're spores from a tomb.  God knows how long they've been here.
+STANDARD: Too primitive. It's a pre- technological construction. That slab was engineered by an Iron-Age culture at best.
+MELKONIS: They're from a dead civilization; they're spores from a tomb. God knows how long they've been here.
 ROBY: I think we better take another look at those heiroglyphs.
 FAUST: Hey, guess what?
-STANDARD: What?
+STANDARD: The engines are fixed.
 FAUST: The engines are fixed.
 STANDARD: Switch on tractor beams.
-STANDARD (CONT'D): Lock tractor beams.
-STANDARD (CONT'D): Retract landing struts.
 STANDARD: Take us up.
-ROBY: (into intercom) Up one kilometer, Jay.
+ROBY: ( into intercom ) Up one kilometer, Jay.
 STANDARD: Switch on lifter quads.
 STANDARD: Engage artificial gravity.
-ROBY: Engaged.
+ROBY: Let's take her into an escape orbit.
 STANDARD: Let's take her into an escape orbit.
-ROBY: I'm altering our vector now; should give us an easy escape velocity --
-ROBY & MELKONIS: (in concert) What was that?
-FAUST: (over, filtered) This dust is getting clogged in the intakes again!
+ROBY: I'm altering our vector now; should give us an easy escape velocity
+FAUST: ( over, filtered ) This dust is getting clogged in the intakes again!
 STANDARD: Just hold us together till we're in space, that's all!
-ROBY: (pounds his panel) We made it!  Damn, we made it!
-STANDARD: You bet we made it.  Martin, set course for Irth and accelerate us into stardrive.
+ROBY: ( pounds his panel ) We made it! Damn, we made it!
+STANDARD: You bet we made it. Martin, set course for Irth and accelerate us into stardrive.
 ROBY: With great pleasure.
 MELKONIS: I feel like an escapee from Hell.
-ROBY: That's the part that always makes me feel like I'm gonna puke -- when we accelerate into light speed.
+ROBY: That's the part that always makes me feel like I'm gonna puke when we accelerate into light speed.
 STANDARD: Quit complaining; we're in space.
-STANDARD: I think the best thing to do with Broussard is to just freeze him as he is.  It'll arrest the progress of his disease, and he can get complete medical attention when we get back to the Colonies.
+STANDARD: I think the best thing to do with Broussard is to just freeze him as he is. It'll arrest the progress of his disease, and he can get complete medical attention when we get back to the Colonies.
 ROBY: We'll have to go into quarantine, maybe for quite a while.
 STANDARD: That's okay, he can remain in hypersleep until they're ready to treat him.
-BROUSSARD: (hoarsely) ... Mouth's so dry... can I have some water...
-BROUSSARD (CONT'D): More.
-STANDARD: (softly) How do you feel, Dell?
-BROUSSARD: (weakly) Wretched.  What happened to me?
+BROUSSARD: ( hoarsely ) . Mouth's so dry. can I have some
+STANDARD: ( softly ) How do you feel, Dell?
+BROUSSARD: ( weakly ) Wretched. What happened to me?
 STANDARD: Don't you remember?
-BROUSSARD: Don't remember nothing.  Can't hardly remember my name.
+BROUSSARD: Don't remember nothing. Can't hardly remember my name.
 ROBY: Are you in pain?
 BROUSSARD: Not exactly, just feel like somebody's been beating me with rubber hoses for about six years.
 STANDARD: Hell, you're in great shape, you've got your sense of humor back!
 BROUSSARD: God I'm hungry.
-ROBY: Dell, what's the last thing you can remember?
-BROUSSARD: ... I don't know...
+ROBY: Dell, what's the last thing you can . I don't know.
+BROUSSARD: . I don't know.
 ROBY: Do you remember the pyramid?
-BROUSSARD: No.  Just some horrible dreams about smothering.  Where are we?
-STANDARD: We're going home.  We're in hyperspace.
+BROUSSARD: No. Just some horrible dreams about smothering. Where are we?
+STANDARD: We're going home. We're in We're going into the freezers now.
 MELKONIS: We're going into the freezers now.
 BROUSSARD: I'm really starving; can we get some food before we go into the freezers?
-STANDARD: (laughs) I think that's a pretty reasonable request.
-HUNTER: Boy do I feel a lot better.  It's a straight shot back to the Colonies, and then we can start taking bids on the paydirt.  Any bets on the top bid?
-FAUST: (chewing) Well, we should at least be able to each buy our own planet.
-MELKONIS: I'm going to write a book about this expedition.  I'm going to call it "The Snark Log."
-STANDARD: (stiffly) The commander normally has first publication rights.
+STANDARD: ( laughs ) I think that's a pretty reasonable
+HUNTER: Boy do I feel a lot better. It's a straight shot back to the Colonies, and then we can start taking bids on the paydirt. Any bets on the top Well, we should at least be able to each buy our own planet.
+FAUST: ( chewing ) Well, we should at least be able to each buy our own planet.
+MELKONIS: I'm going to write a book about this expedition. I'm going to call it "The Snark Log."
+STANDARD: ( stiffly ) The commander normally has first publication rights.
 MELKONIS: Maybe we could write it together.
-ROBY: First thing I'm going to do when we get back is eat some biological food.
+ROBY: First thing I'm going to do when we get back is eat some biological What's the matter, you don't like this stuff?
 MELKONIS: What's the matter, you don't like this stuff?
 ROBY: Tastes like something you'd feed a chicken to make it lay more eggs.
-STANDARD: Oh it's okay.  I've had better cag than this, but I've had worse too, if you know what I mean.
+STANDARD: Oh it's okay. I've had better cag than this, but I've had worse too, if you know what I mean.
 FAUST: I kind of like it.
 ROBY: You like this shit?
 FAUST: It grows on you.
 ROBY: You know what they make this stuff out of?
-FAUST: (annoyed) Yes, I know what they make it out of, so what?  It's food now.  You're eating it.
-ROBY: I didn't say it was bad for you, it's just kind of sickening, that's all.
+FAUST: ( annoyed ) Yes, I know what they make it out of, so what? It's food now. You're eating it.
+ROBY: I didn't say it was bad for you, it's just kind of sickening, that's Do we have to talk about this kind of crap at the dinner table?
 HUNTER: Do we have to talk about this kind of crap at the dinner table?
 STANDARD: What's wrong?
-BROUSSARD: (his voice straining) I don't know... I'm getting these CRAMPS!
+BROUSSARD: ( his voice straining ) I don't know. I'm getting these Breathe deeply.
 STANDARD: Breathe deeply.
-BROUSSARD: (screaming) OH GOD IT HURTS SO BAD!
-BROUSSARD: (incoherent shriek) OhmygooaaAAAHHHHH!!!
-HUNTER: Oh, no.  Oh, no.
-FAUST: What was that?  What the Christ was that?
+BROUSSARD: ( screaming ) OH GOD IT HURTS SO BAD!
+ROBY: Broussard's face is screwed up into a mask of agony, and he is trembling violently from head to foot.
+BROUSSARD: ( incoherent shriek )
+HUNTER: Oh, no. Oh, no.
+FAUST: What was that? What the Christ was It was growing in him the whole time and he didn't even know it!
 MELKONIS: It was growing in him the whole time and he didn't even know it!
-ROBY: That thing used him for an incubator!
+ROBY: That thing used him for an
 MELKONIS: We can't go into hypersleep with that thing running around loose.
-HUNTER: We'd be sitting ducks in the freezers.
-ROBY: But we can't kill it.  If we kill it, it will spill all its body acids right through our hull and out into space.
-FAUST: Shit...
+HUNTER: We'd be sitting ducks in the But we can't kill it. If we kill it, it will spill all its body acids right through our hull and out into We'll have to catch it and eject it from the ship.
+ROBY: But we can't kill it. If we kill it, it will spill all its body acids right through our hull and out into We'll have to catch it and eject it from the ship.
+FAUST: We'll have to catch it and eject it from the ship.
 STANDARD: We'll have to catch it and eject it from the ship.
-MELKONIS: (sighs) Well, I kind of hate to point it out, but all our supplies are based on us spending a strictly limited amount of time out of suspended animation... and as you know, we used up most of that time in harvesting.
+MELKONIS: ( sighs ) Well, I kind of hate to point it out, but all our supplies are based on us spending a strictly limited amount of time out of suspended animation. and as you know, we used up most of that time in harvesting.
 STANDARD: We've got about a week left, right?
-HUNTER: And then we run out of food and oxygen.
+HUNTER: And then we run out of food and The water will still recycle.
 FAUST: The water will still recycle.
 ROBY: We won't need it then.
-STANDARD: All right, so that's what we've got. A week.  It's plenty of time.
+STANDARD: All right, so that's what we've got. A week. It's plenty of time.
 ROBY: But if we week, then we have to go into the freezers anyway.
-STANDARD: So does anybody have any suggestions?
-FAUST: We could put on our pressure suits and blow all the air out of the ship.  That would kill it.
-STANDARD: No, we can't afford to lose that much oxygen.  We're going to have to flush it out.
-MELKONIS: How?
+STANDARD: So does anybody have any We could put on our pressure suits and blow all the air out of the ship. That would kill it.
+FAUST: We could put on our pressure suits and blow all the air out of the ship. That would kill it.
+STANDARD: No, we can't afford to lose that much oxygen. We're going to have to flush it out.
+MELKONIS: Room by room, corridor by corridor.
 STANDARD: Room by room, corridor by corridor.
 MELKONIS: And what do we do when we find it?
-STANDARD: We'll have to trap it somehow.  If we had a really strong piece of net, we could bag it.
-FAUST: We could cut a section out of that metallite netting.  It won't hold up to that acid, but aside from that it's pretty strong.
-ROBY: We have to avoid injuring it.  What we really need is some electric animal prods.
-HUNTER: I think I could cobble something together.  A long metal rod with a battery in it.  Give it a hell of a shock.
-STANDARD: Good.  Get on it.  But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets.  Let's get down to the locker and change.
+STANDARD: We'll have to trap it somehow. If we had a really strong piece of net, we could bag it.
+FAUST: We could cut a section out of that metallite netting. It won't hold up to that acid, but aside from that it's pretty strong.
+ROBY: We have to avoid injuring it. What we really need is some electric animal prods.
+HUNTER: I think I could cobble something together. A long metal rod with a battery in it. Give it a hell of a Good. Get on it. But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets. Let's get down to the locker and change.
+STANDARD: Good. Get on it. But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets. Let's get down to the locker and change.
 STANDARD: I thought I'd find you here.
-MELKONIS: I was thinking of a line from an old poem: "Water, water everywhere, but not a drop to drink."  All that space out there, and we're trapped in this ship.
-STANDARD: That's the one about the albatross, right?
-MELKONIS: We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust.  We are utterly, absolutely alone.  Can anybody really visualize such a scale of distances?  Halfway across Creation...
-STANDARD: We came out there, we'll go back.  A long time by the clock, but a short time to us.
-MELKONIS: Time and space have no meaning out here.  We're living in Einsteinian equation.
-STANDARD: I can see you're putting your spare time to good use. (leans forward and taps him on the knee) Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall.  I've seen it happen.
-MELKONIS: (smiles at him) We're the new pioneers, Chaz.  We even have our own special diseases.
-STANDARD: Come on -- let's go above and see how they're coming with the gear.
-HUNTER: These have portable generators in them.  They're insulated down to here -- just be careful not to touch the end.
-FAUST: Might even incinerate the damn thing.
-STANDARD: (sharply) I hope not.
-HUNTER: Don't worry, it won't damage it, it'll just give it a little incentive.
+MELKONIS: I was thinking of a line from an old poem: "Water, water everywhere, but not a drop to drink." All that space out there, and we're trapped in this That's the one about the albatross, We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust. We are utterly, absolutely alone. Can anybody really visualize such a scale of distances? Halfway across We came out there, we'll go back. A long time by the clock, but a short time to us.
+STANDARD: That's the one about the albatross, We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust. We are utterly, absolutely alone. Can anybody really visualize such a scale of distances? Halfway across We came out there, we'll go back. A long time by the clock, but a short time to us.
+MELKONIS: We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust. We are utterly, absolutely alone. Can anybody really visualize such a scale of distances? Halfway across We came out there, we'll go back. A long time by the clock, but a short time to us.
+STANDARD: We came out there, we'll go back. A long time by the clock, but a short time to us.
+MELKONIS: Time and space have no meaning out here. We're living in Einsteinian I can see you're putting your spare time to good use. Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall. I've seen it happen.
+STANDARD: I can see you're putting your spare time to good use. Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall. I've seen it happen.
+MELKONIS: ( smiles at him ) We're the new pioneers, Chaz. We even have our own special diseases.
+STANDARD: Come on let's go above and see how they're coming with the gear.
+HUNTER: These have portable generators in them. They're insulated down to here just be careful not to touch the
+FAUST: Might even incinerate the damn I hope not.
+STANDARD: ( sharply ) I hope not.
+HUNTER: Don't worry, it won't damage it, it'll just give it a little How do we locate the creature?
 STANDARD: How do we locate the creature?
 FAUST: With these.
-FAUST (CONT'D): Tracking device.  You set it to search for a moving object... It hasn't got much range, but when you get within a certain distance, it starts beeping.
-STANDARD: These will be very useful.  At least we won't have to go digging around in closets with our bare hands.  All right, here's the battle plan: we're going to break into two teams and start systematically covering the ship.  Whoever finds it first, catches it in the net and ejects it from the nearest airlock.  Clear?
+STANDARD: These will be very useful. At least we won't have to go digging around in closets with our bare hands. All right, here's the battle plan: we're going to break into two teams and start systematically covering the ship. Whoever finds it first, catches it in the net and ejects it from the nearest airlock. Clear?
 ROBY: Even simple.
 STANDARD: For starters, let's make sure the bridge is safe.
 FAUST: It's clear.
-STANDARD: All right -- Roby and Melkonis will go with Faust.  Hunter and I will make up the second team.
-STANDARD (CONT'D): We'll all carry communicators.  We want to keep in constant touch.
-FAUST: Nothing yet... nothing... we can move pretty fast as long as there's nothing on the tracker.
+STANDARD: All right Roby and Melkonis will go with Faust. Hunter and I will make up the second team.
+FAUST: Nothing yet. nothing. we can move pretty fast as long as there's nothing on the tracker.
 FAUST: Hold it.
-FAUST (CONT'D): I've got something.
 ROBY: Where's it coming from?
-FAUST: (peers closely at tracker and frowns) Machine's screwed up, I can't tell. Needle's spinning all over the dial.
+FAUST: ( peers closely at tracker Machine's screwed up, I can't tell. Needle's spinning all over the dial.
 MELKONIS: Is it malfunctioning?
-FAUST: No, just confused.  It's coming from below us.
-ROBY: Okay.
-FAUST: (looking at tracker and nodding down the passageway) That way.
+FAUST: No, just confused. It's coming from below us.
+ROBY: ( looking at tracker and That way.
+FAUST: ( looking at tracker and That way.
 ROBY: What happened to the lights?
 FAUST: Bulbs burned out, nobody bothered to replace 'em.
-FAUST (CONT'D): Hold it.
-FAUST (CONT'D): (whispering) It's within 4 meters.
-ROBY: (very annoyed) Oh, hold it!
+ROBY: ( very annoyed ) Oh, hold it!
 MELKONIS: We're making fools of ourselves!
-ROBY: (into communicator) Yes!
-STANDARD: (over, filtered) We've got it up here!  It's trapped! Get up here fast!
+ROBY: ( into communicator ) ( over, filtered ) We've got it up here! It's trapped! Get up here fast!
+STANDARD: ( over, filtered ) We've got it up here! It's trapped! Get up here fast!
 ROBY: Where are you?
-STANDARD: (over, filtered) Food-storage room!
+STANDARD: ( over, filtered ) Food-storage room!
 ROBY: We're coming!
-HUNTER: We saw it inside and slammed the door on it!  It's in there now!
+HUNTER: We saw it inside and slammed the door on it! It's in there now!
 ROBY: What's it doing, having a seizure?
 STANDARD: It started crashing around right after we locked it in.
 ROBY: Now what?
 STANDARD: I guess we open the door and net it.
 HUNTER: I hate to open that door.
-STANDARD: It looks completely different from the first one -- it's more like a worm with legs... and tentacles.
+STANDARD: It looks completely different from the first one it's more like a worm with legs. and tentacles.
 FAUST: Well we better do something.
-HUNTER: Maybe we don't have to.  It's trapped in there.  We could just leave it in there all the way back to Irth.
-STANDARD: (snaps) Don't be an idiot.
-FAUST: I know what we can do.  We can pump poison gas into the room and kill it.  Through those ventilator slots there.
-ROBY: Hey, wait a minute!  That's all our food supplies in there!  We can't pump poison gas all over them!
-STANDARD: Once we kill the thing we won't need the food any more -- we can go straight into hypersleep.  Also, it sounds like that thing is already doing a pretty good job on our supplies; it may be fouling them all.
+HUNTER: Maybe we don't have to. It's trapped in there. We could just leave it in there all the way back to Irth.
+STANDARD: ( snaps ) Don't be an idiot.
+FAUST: I know what we can do. We can pump poison gas into the room and kill it. Through those ventilator slots
+ROBY: Hey, wait a minute! That's all our food supplies in there! We can't pump poison gas all over them!
+STANDARD: Once we kill the thing we won't need the food any more we can go straight into hypersleep. Also, it sounds like that thing is already doing a pretty good job on our supplies; it may be fouling them You win.
 ROBY: You win.
-FAUST: Somebody gimme a hand, I'll get the stuff.
+FAUST: Somebody gimme a hand, I'll get the
 STANDARD: Get those masks on.
-ROBY: This stuff's deadly -- I hope we know what we're doing.
+ROBY: This stuff's deadly I hope we know what we're doing.
 STANDARD: Go ahead, Jay.
-STANDARD (CONT'D): Shut it off.
 ROBY: Now what?
-STANDARD: What do you think?  Now we go in.
+STANDARD: What do you think? Now we go in.
 FAUST: Looks like he helped himself.
 HUNTER: God damn it.
-HUNTER (CONT'D): It escaped.
 ROBY: Where does that go?
 FAUST: All over the ship; we'll have to check the charts to know for sure.
 STANDARD: Then let's go and do it.
 HUNTER: Have we got any food at all left in the ship?
-FAUST: That one section of the ventilator shaft has only two outlets -- you notice?  The food storage room on one end --
-HUNTER: -- And the cooling unit on the other.
-STANDARD: So it's trapped in between -- now we have to drive it out.
-FAUST: Poison gas...
-HUNTER: We can't pump poison gas down into the cooling unit!  It'll flood the whole ship!
+FAUST: That one section of the ventilator shaft has only two outlets you notice? The food storage room on one So it's trapped in between now we have to drive it out.
+HUNTER: And the cooling unit on the So it's trapped in between now we have to drive it out.
+STANDARD: So it's trapped in between now we have to drive it out.
+FAUST: Poison gas.
+HUNTER: We can't pump poison gas down into the cooling unit! It'll flood the whole ship!
 STANDARD: The only other thing I can think of is for somebody to crawl in there and flush it out.
 ROBY: Are you
-STANDARD: The man would need protection, obviously -- as well as some way to drive the thing before him.
-FAUST: How about a flamethrower?  That wouldn't poison the air.
-MELKONIS: So one of us goes into the airshaft and drives the thing along --
+STANDARD: The man would need protection, obviously as well as some way to drive the thing before him.
+FAUST: How about a flamethrower? That wouldn't poison the air.
+MELKONIS: So one of us goes into the airshaft and drives the thing along
 STANDARD: While the rest of us wait down in the cooling unit with the net.
 HUNTER: Sounds like a rough one.
 STANDARD: Got a better idea?
 ROBY: So the only question left is: who gets to crawl down the airshaft?
 STANDARD: Let's be democratic.
-STANDARD (CONT'D): Martin, take one.
-STANDARD (CONT'D): Open it up, Cleave.
-FAUST: Well, uh... good luck.  I hope you won't need me, but if you do, I'm here.
-HUNTER: (grimly) Right.
+FAUST: Well, uh. good luck. I hope you won't need me, but if you do, I'm
+HUNTER: ( grimly )
 HUNTER: Hey, do you guys read me down there?
 STANDARD: Yeah, we're getting into position.
 HUNTER: Okay, I'm starting now.
-ROBY: (pointing) There.  That's where it's got to come out.
-ROBY (CONT'D): That's a flip-flop gate to channel the air, but we can use it to trap the thing.
+ROBY: ( pointing ) There. That's where it's got to come That's a flip-flop gate to channel the air, but we can use it to trap the thing.
 STANDARD: Right now let's keep it closed.
-MELKONIS: I've got Hunter... and something else as well, in front of him.
+MELKONIS: I've got Hunter. and something else as well, in front of him.
 STANDARD: Are they close?
 MELKONIS: They're on the next level up.
 STANDARD: Let's get moving with this net.
 MELKONIS: They're getting pretty close now.
-STANDARD: All right, then -- when it gets to the other side of the door, you sing out, then drop the door.  Okay?
-MELKONIS: Okay.
-STANDARD: (to Roby) And you and I will bag it, and then we'll take it to the ventral air lock, got it?
-ROBY: (tensely) Uh-huh.
-HUNTER: (whispers) Hey, you guys.
-STANDARD: (into communicator) Yes!
-HUNTER: (whispering) I don't think this shaft goes on too much farther... anyway it's getting pretty hot in here...
-STANDARD: (into communicator) Okay, our screens show you as being near to the opening.  We'll open it up, then we'll cue you and you can start blasting.  That'll drive it right out.  You don't have to go any farther.
-HUNTER: Good.
-STANDARD: Okay, get ready.
-STANDARD (CONT'D): Open the vent, Sandy.
-HUNTER: What happened?  Where is it?
-STANDARD: (awed) How did it get so big?
+STANDARD: All right, then when it gets to the other side of the door, you sing out, then drop the door. Okay?
+MELKONIS: ( to Roby ) And you and I will bag it, and then we'll take it to the ventral air lock, got it?
+STANDARD: ( to Roby ) And you and I will bag it, and then we'll take it to the ventral air lock, got it?
+ROBY: ( tensely ) ( whispers ) Hey, you guys.
+HUNTER: ( whispers ) Hey, you guys.
+STANDARD: ( into communicator )
+HUNTER: ( whispering ) I don't think this shaft goes on too much farther. anyway it's getting pretty hot in here.
+STANDARD: ( into communicator ) Okay, our screens show you as being near to the opening. We'll open it up, then we'll cue you and you can start blasting. That'll drive it right out. You don't have to go any
+HUNTER: He readies the flamethrower. INTERIOR - CLIMATE CONTROL ROOM
+STANDARD: Okay, get ready. Open the vent, Sandy.
+HUNTER: What happened? Where is it? How did it get so big?
+STANDARD: ( awed ) How did it get so big?
 ROBY: By eating our food supplies.
 HUNTER: Where's Melkonis?
-FAUST: (into his communicator) Hey, are you guys still there? What's going on?
-STANDARD: (over, filtered) Meet us on the bridge.  Be careful -- it's huge now.
-FAUST: Right.
+FAUST: ( into his communicator ) Hey, are you guys still there? What's going on?
+STANDARD: ( over, filtered ) Meet us on the bridge. Be careful it's huge now.
+FAUST: Faust lets himself out of the food storage room and carefully locks the door behind him. INTERIOR - CORRIDORS Standard, Roby and Hunter are rapidly ascending toward the bridge.
 HUNTER: You mean his body was still kicking when it ran off with him?
-ROBY: It was horrible -- horrible.  Like a chicken.
-FAUST: What happened?  Where's Sandy?
-ROBY: Dead.
-FAUST: Dead!
-ROBY: It's monstrous -- it grew, like some horrible tapeworm.  We were completely unprepared.
+ROBY: It was horrible horrible. Like a
+FAUST: What happened? Where's Sandy?
+ROBY: It's monstrous it grew, like some horrible tapeworm. We were completely unprepared.
+FAUST: It's monstrous it grew, like some horrible tapeworm. We were completely unprepared.
+ROBY: It's monstrous it grew, like some horrible tapeworm. We were completely unprepared.
 FAUST: It's still in the ship?
-STANDARD: We'd better seal off the lower maintenance level; at least trap it there. (throws a switch; circuitry lights up)
+STANDARD: We'd better seal off the lower maintenance level; at least trap it
 HUNTER: At least it can't get up here now.
 ROBY: Two down, four to go.
-STANDARD: (angrily) What's that supposed to mean?
-ROBY: Nothing.
-HUNTER: Listen, it sure didn't like this flamethrower.
-STANDARD: That's right -- we can't kill it on the ship, but we can at least keep it at bay -- and maybe drive it into the air lock.
+STANDARD: ( angrily ) What's that supposed to mean?
+ROBY: Listen, it sure didn't like this That's right we can't kill it on the ship, but we can at least keep it at bay and maybe drive it into the air lock.
+HUNTER: Listen, it sure didn't like this That's right we can't kill it on the ship, but we can at least keep it at bay and maybe drive it into the air lock.
+STANDARD: That's right we can't kill it on the ship, but we can at least keep it at bay and maybe drive it into the air lock.
 HUNTER: Thing is, I'm about out of fuel.
-FAUST: There's some more combustible fuel down in the storage lockers next to the lounge. (rises) I'll go get it.
+FAUST: There's some more combustible fuel down in the storage lockers next to the lounge. I'll go get it.
 STANDARD: No, I don't want us separated.
 FAUST: You just sealed it off; it can't get to that section.
 ROBY: Don't count on it.
 HUNTER: We sure need this flamethrower.
-STANDARD: All right... but do decks.
-FAUST: Right. (heads for the door)
+STANDARD: All right. but do
+FAUST: ( heads for the door )
 STANDARD: And be right back.
 ROBY: I think it's time we took a hard look at those heiroglyphs.
-ROBY (CONT'D): Can you make out any pattern in all that?
-STANDARD: (baffled) Well... yes... there's a pattern... but it's meaningless to me.
+STANDARD: ( baffled ) Well. yes. there's a pattern. but it's meaningless to me.
 ROBY: I know it looks like a senseless jumble, but if you look closely, there are recognizable forms.
-HUNTER: Recognizable!  In that?
-ROBY: In symbolic form... very stylized... but if you stare at it, you can see some of the different creatures we've been dealing with.
-HUNTER: Well... I suppose that star-shaped thing could be the parasite that got on Broussard.  Is that what you mean?
-ROBY: And right next to it, that oval design with the markings -- it's a dead ringer for the spore casings.
-STANDARD: That next thing there -- six legs, tentacles -- that's the thing we saw in the food locker.
-ROBY: So the next step should be --
-HUNTER: -- The big one.  And there it is.
-ROBY: This is all the same creature.  We're seeing the different stages in its life-cycle.
-STANDARD: Then that tomb... must have been some kind of fertility temple... where they stored their eggs, and maybe held mating rituals...
-HUNTER: ... And Broussard got caught in their reproductive cycle.
-ROBY: You will notice, though, that there are no more phases.  Only four forms are shown.  After that the pattern repeats.
-STANDARD: Which presumably means...
-ROBY: ... More spores coming.
-FAUST: (whispering) It's in the lock -- blow the main lock.
-STANDARD: (into intercom) What?
-FAUST: (whispering) It's in the main air lock.  Blow the lock.
+HUNTER: Recognizable! In that?
+ROBY: In symbolic form. very stylized. but if you stare at it, you can see some of the different creatures we've been dealing with.
+HUNTER: Well. I suppose that star-shaped thing could be the parasite that got on Broussard. Is that what you mean?
+ROBY: And right next to it, that oval design with the markings it's a dead ringer for the spore casings.
+STANDARD: That next thing there six legs, tentacles that's the thing we saw in the food locker.
+ROBY: So the next step should be
+HUNTER: The big one. And there it is.
+ROBY: This is all the same creature. We're seeing the different stages in its Then that tomb. must have been some kind of fertility temple. where they stored their eggs, and maybe held mating rituals.
+STANDARD: Then that tomb. must have been some kind of fertility temple. where they stored their eggs, and maybe held mating rituals.
+HUNTER: . And Broussard got caught in their reproductive cycle.
+ROBY: You will notice, though, that there are no more phases. Only four forms are shown. After that the pattern Which presumably means.
+STANDARD: Which presumably means.
+ROBY: . More spores coming.
+FAUST: ( whispering ) It's in the lock blow the main
+STANDARD: ( into intercom )
+FAUST: ( whispering ) It's in the main air lock. Blow the
+"CRITICAL DEPRESSURIZATION": After a moment of panic and confusion, Roby bolts out of the control INTERIOR - CORRIDORS Loose papers and articles of furniture hurtle through the passageways, as Roby hurries toward the rock, partly running, partly sucked along by the air current. EXTERIOR - SHIP - OUTER SPACE A huge plume of steam grows from the side of the ship, with all kinds of tiny loose particles tumbling out in it. INTERIOR - CORRIDORS Whipped by the hurricane wind, Roby crashes to a momentary halt against a wall. As he hesitates there, trying to regain his balance,
 ROBY: How much oxygen did we lose?
 STANDARD: We've got six hours left.
-HUNTER: (groans) Oh my God.
+HUNTER: ( groans ) Oh my God.
 STANDARD: Does anybody know what happened?
-ROBY: I saw it.  Faust got himself jammed in the air lock door.  His body held it open.
+ROBY: I saw it. Faust got himself jammed in the air lock door. His body held it open.
 STANDARD: Can we get to him?
-ROBY: No, I had to seal off a whole section.  We'd lose too much of our remaining air if we opened the connecting door.
-ROBY: (picking up the cat) Poor kitty; puss puss puss.
-STANDARD: At least we're rid of the damn monster.  It must have been the first thing sucked out of the ship.
-ROBY: No such luck.  I saw it running down one of the corridors.
-HUNTER: (groans) Oh no!  We can't fight this thing! There's only six hours of air left -- we're dead men!
-STANDARD: I don't buy that.  There's still time to destroy it and get ourselves in the freezers.
+ROBY: No, I had to seal off a whole section. We'd lose too much of our remaining air if we opened the connecting door.
+ROBY: ( picking up the cat ) Poor kitty; puss puss puss.
+STANDARD: At least we're rid of the damn monster. It must have been the first thing sucked out of the ship.
+ROBY: No such luck. I saw it running down one of the corridors.
+HUNTER: ( groans ) Oh no! We can't fight this thing! There's only six hours of air left we're dead men!
+STANDARD: I don't buy that. There's still time to destroy it and get ourselves in the freezers.
+HUNTER: It's time for drastic remedies.
 STANDARD: It's time for drastic remedies.
-ROBY: It was time for that a couple days ago.
-STANDARD: That kind of remark is pointless. Now come on -- I want to hear every suggestion you can come up with, no matter how wild.
-HUNTER: We can't kill it on board.  It's huge now and must have tremendous amounts of that acid in its body.
+ROBY: It was time for that a couple days That kind of remark is pointless. Now come on I want to hear every suggestion you can come up with, no matter how wild.
+STANDARD: That kind of remark is pointless. Now come on I want to hear every suggestion you can come up with, no matter how wild.
+HUNTER: We can't kill it on board. It's huge now and must have tremendous amounts of that acid in its body.
 ROBY: I've got an idea, but you're not going to like it.
 STANDARD: Let's hear it.
-ROBY: Okay.  First we shut down all the cooling systems on the stardrive engines.
+ROBY: Okay. First we shut down all the cooling systems on the stardrive That'll blow the ship up.
 STANDARD: That'll blow the ship up.
-ROBY: Right... but it'll take a few minutes for the engines to overheat and melt down the core.  In the meantime, we get in the lifeboat and leave the ship.
+ROBY: Right. but it'll take a few minutes for the engines to overheat and melt down the core. In the meantime, we get in the lifeboat and leave the Blow the ship up?
 HUNTER: Blow the ship up?
-ROBY: And the creature with it.  We can make it back to Irth in the lifeboat.
+ROBY: And the creature with it. We can make it back to Irth in the But the lifeboat can't accelerate to light speed.
 STANDARD: But the lifeboat can't accelerate to light speed.
-ROBY: Doesn't matter -- we're already at light speed.  And when we get back to the Colonies, they'll pick us up in the network.
-HUNTER: What about all the minerals and elements in the cargo hold?  That's the only reason we came out here. We'd have to abandon them all.  We'd be broke.
+ROBY: Doesn't matter we're already at light speed. And when we get back to the Colonies, they'll pick us up in the network.
+HUNTER: What about all the minerals and elements in the cargo hold? That's the only reason we came out here. We'd have to abandon them all. We'd be broke.
 ROBY: Our lives are more important. Anyway, we can take a small amount of the most valuable stuff with us on the lifeboat.
-STANDARD: No, it won't work and I just realized why.  There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
-ROBY: Yeah... I forgot.
+STANDARD: No, it won't work and I just realized why. There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
+ROBY: Yeah. I forgot.
 STANDARD: But the idea's good, if we could just turn it around somehow.
-STANDARD (CONT'D): If we could just get the into the lifeboat, we could launch it into space and blow it up.
-HUNTER: Good!  That's good!
-STANDARD: We can load the lifeboat up with explosives and trigger them remotely, once the lifeboat is in space.
-ROBY: I think it's going to be almost impossible to drive it up into the lifeboat.
+HUNTER: Good! That's good!
+STANDARD: We can load the lifeboat up with explosives and trigger them remotely, once the lifeboat is in I think it's going to be almost impossible to drive it up into the We can use the flamethrower.
+ROBY: I think it's going to be almost impossible to drive it up into the We can use the flamethrower.
 HUNTER: We can use the flamethrower.
 ROBY: It's not going to work.
 STANDARD: You can't say that; I think it's a good plan.
 HUNTER: The flamethrower needs more fuel.
-STANDARD: Right.  We've got a lot to accomplish.  Let's get moving.
+STANDARD: Right. We've got a lot to accomplish. Let's get moving.
 HUNTER: Which explosive should we use?
-STANDARD: I'd suggest the N-13 sticks.  They're portable, and they can be radio detonated.
-ROBY: You know, it's funny -- this stuff we went to so much trouble to dig up -- this treasure, the paydirt -- it'll make it back to Irth just fine -- even if we're not with it.
+STANDARD: I'd suggest the N-13 sticks. They're portable, and they can be radio
+ROBY: You know, it's funny this stuff we went to so much trouble to dig up this treasure, the paydirt it'll make it back to Irth just fine even if we're not with it.
 STANDARD: Here, carry these.
-ROBY: (grabbing at him) Hey watch it!
-STANDARD: (grinning) It's stable; it doesn't hurt to drop it.
+ROBY: ( grabbing at him ) Hey watch it!
+STANDARD: ( grinning ) It's stable; it doesn't hurt to drop
 HUNTER: Hold it!
-HUNTER (CONT'D): (nodding up some steps) Up there.
-ROBY: So what do we do?  Do we ignore it and finish loading the explosives into the boat -- or do we flush it out now?
-STANDARD: Now.  If we can get it into the boat, we won't have to blow it up -- we can just eject it into space.
-STANDARD: (shouts) You can come up!  It's safe!
-ROBY: (spying the corpse) Oh -- Jesus --
+ROBY: So what do we do? Do we ignore it and finish loading the explosives into the boat or do we flush it out now?
+STANDARD: Now. If we can get it into the boat, we won't have to blow it up we can just eject it into space. You can come up! It's safe!
+STANDARD: ( shouts ) You can come up! It's safe!
+ROBY: ( spying the corpse ) Oh Jesus
 STANDARD: The ship's gravitational attraction must have drawn him back.
-HUNTER: (horrified) Should we go outside and bring him in?
-STANDARD: No... the risk is too great.  Perhaps after we've destroyed the thing.
-STANDARD: (pointing) Along the base of the walls there.
+HUNTER: ( horrified ) Should we go outside and bring him No. the risk is too great. Perhaps after we've destroyed the thing.
+STANDARD: No. the risk is too great. Perhaps after we've destroyed the thing.
+STANDARD: ( pointing ) Along the base of the walls there.
 HUNTER: This should do it.
-ROBY: I should hope so!  And we'd better make sure it's pretty far from the ship when we blow it.
+ROBY: I should hope so! And we'd better make sure it's pretty far from the ship when we blow it.
 STANDARD: It will be.
-HUNTER: (surveys the craft uneasily) What we really need is some red meat in here for bait.
+HUNTER: ( surveys the craft uneasily ) What we really need is some red meat in here for bait.
 ROBY: Well, if we had some, I'd eat it. I'm starting to get hungry.
-STANDARD: Well... now we have to herd that thing up here.
-HUNTER: (nervously) Whoever's doing the herding is gonna have their hands pretty full.  I think somebody should stay by the lifeboat to slam the door on the thing once it's inside, and to serve as... as... (searches for a word)
+STANDARD: Well. now we have to herd that thing up here.
+HUNTER: ( nervously ) Whoever's doing the herding is gonna have their hands pretty full. I think somebody should stay by the lifeboat to slam the door on the thing once it's inside, and to serve as. as. ( searches for a word )
 ROBY: Isn't "bait" the word you used?
 HUNTER: Hey look, somebody has to have his hands free to lock the creature in the lifeboat!
-STANDARD: Yes, and maybe launch the boat and blow it too... if the others are injured.
+STANDARD: Yes, and maybe launch the boat and blow it too. if the others are Who gets the privilege?
 ROBY: Who gets the privilege?
 HUNTER: Just keep your finger off the button till she's way away from the ship, that's all.
 ROBY: Is it armed?
 HUNTER: If you press the button right now, it will blow the whole nose of the ship off.
-ROBY: Thanks for the thought. (puts detonator in his breast pocket)
+ROBY: Thanks for the thought.
 STANDARD: All right, Martin, we'll be in touch with you on the communicator.
-ROBY: And you'll let me know when you've got it coming this way...
-STANDARD: And you stand aside while we drive it in, then shut the hatch, launch the boat, and --
-ROBY: Kablooey.
+ROBY: And you'll let me know when you've got it coming this way.
+STANDARD: And you stand aside while we drive it in, then shut the hatch, launch the boat, and
+ROBY: Hunter's face twitches nervously at this.
 STANDARD: Come on; we haven't much time, air is a factor.
-STANDARD: (over, filtered) We've got something on the tracker... got to be it, it's too big for the cat.
-HUNTER: (over, filtered) It's coming from down there.
-HUNTER: It must have stopped moving.  I'm not getting anything.
+STANDARD: ( over, filtered ) We've got something on the tracker. got to be it, it's too big for the cat.
+HUNTER: ( over, filtered ) It's coming from down there.
+HUNTER: It must have stopped moving. I'm not getting anything.
 STANDARD: Let me go first; you stay behind me.
 HUNTER: The flamethrower!
 STANDARD: I can't, the acid will pour out!
-ROBY: Hello?  Standard?  Hunter?
-STANDARD: (a feeble whisper) Kill me...
-ROBY: (sickened) What did it do to you?
-STANDARD: (moves his head slightly) Look...
-STANDARD (CONT'D): (whispering) That was Melkonis... it ate Hunter...
-ROBY: (looking around for a tool) I'll get you out of there.
-STANDARD: No... don't...
-ROBY: But I can save you -- get you to the Autodoc!
-STANDARD: No good... it's eaten too much of me...
-ROBY: (in horror) What can I do?
-STANDARD: Kill me...
-ROBY: Kitty go bye-bye.
-ROBY: (reading from labels) What'll it be, Kitty?  Here -- how about some Tacitum-35, ten kilos of it.  This'll buy us an island on some nice planet.
-COMPUTER: Attention!  The cooling units for the stardrive engines are not functioning!  Engines will overload in 4 minutes, 50 seconds!  Attention!
-COMPUTER: Attention!  Engines will overheat and main core will melt in 4 minutes, 30 seconds!
-COMPUTER: Attention!  Engines will overload in 4 minutes!
-COMPUTER: Attention!  Engines will overload in 3 minutes, 30 seconds!
-COMPUTER: Attention!  Engines will overload in 3 minutes!
-ROBY: Computer!  I've turned all the cooling units back on!  What's wrong?
-COMPUTER: The reaction has proceeded too far. The core has begun to melt.  Engines will overload in 2 minutes, 35 seconds.
-COMPUTER: Attention!  Engines will overload in 2 minutes!
-COMPUTER: Attention!  Engines will explode in 90 seconds!
-COMPUTER: Attention!  Engines will explode in 60 seconds!
-ROBY: Try a little of this, you fucking bastard.
-ROBY: (dictating) ... So it looks like I'll make it back to the Colonies on schedule after all.  I should be to the frontier in another 250 years or so, and then with a little luck the network will pick me up.  I'm not as rich as I was a couple days ago -- but I'm not exactly broke either. Incidentally, I did manage to salvage one souvenir out of this whole mess.
-ROBY (CONT'D): Poor Yorick here should go at least partway toward proving I'm not a crank.  I wish it was him we'd met in the first place -- things might have turned out different.
-ROBY (CONT'D): This is Martin Roby, executive officer, last survivor of the commercial vessel SNARK, signing off. Come on, cat, let's go to sleep.
+ROBY: Hello? Standard? Hunter?
+STANDARD: ( a feeble whisper ) Kill me.
+ROBY: ( sickened ) What did it do to you?
+STANDARD: ( moves his head slightly )
+ROBY: ( looking around for a tool ) I'll get you out of there.
+STANDARD: No. don't.
+ROBY: But I can save you get you to the No good. it's eaten too much of What can I do?
+STANDARD: No good. it's eaten too much of What can I do?
+ROBY: ( in horror ) What can I do?
+STANDARD: Kill me.
+ROBY: Kitty go bye-bye. What'll it be, Kitty? Here how about some Tacitum-35, ten kilos of it. This'll buy us an island on some nice planet.
+ROBY: ( reading from labels ) What'll it be, Kitty? Here how about some Tacitum-35, ten kilos of it. This'll buy us an island on some nice planet.
+COMPUTER: Attention! The cooling units for the stardrive engines are not functioning! Engines will overload in 4 minutes, 50 seconds! Attention!
+COMPUTER: Attention! Engines will overheat and main core will melt in 4 minutes, 30
+COMPUTER: Attention! Engines will overload in 4 minutes!
+COMPUTER: Attention! Engines will overload in 3 minutes, 30 seconds!
+COMPUTER: Attention! Engines will overload in 3 minutes!
+ROBY: Computer! I've turned all the cooling units back on! What's wrong?
+COMPUTER: The reaction has proceeded too far. The core has begun to melt. Engines will overload in 2 minutes, 35
+COMPUTER: Attention! Engines will overload in 2 minutes!
+COMPUTER: Attention! Engines will explode in 90 seconds!
+COMPUTER: Attention! Engines will explode in 60 seconds!
+ROBY: Try a little of this, you fucking
+"RAM JETS": EXTERIOR - LIFEBOAT - OUTER SPACE The jet exhausts are located at the rear of the craft, right where the creature is wriggling. THE ENGINES BELCH FLAME FOR A FEW SECONDS, THEN
+ROBY: ( dictating ) . So it looks like I'll make it back to the Colonies on schedule after all. I should be to the frontier in another 250 years or so, and then with a little luck the network will pick me up. I'm not as rich as I was a couple days ago but I'm not exactly broke either. Incidentally, I did manage to salvage one souvenir out of this whole mess.

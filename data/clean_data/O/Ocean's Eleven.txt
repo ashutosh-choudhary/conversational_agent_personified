@@ -1,96 +1,87 @@
-OCEAN'S 11: screenplay by Ted Griffin based on a screenplay by Harry Brown and Charles Lederer and a story by
-LATE PRODUCTION DRAFT: Rev. 05/31/01 (Buff)
-VOICE (O.S.): Good morning.
+OCEAN'S 11: screenplay by based on a screenplay by a story by
 DANNY: Good morning.
-VOICE (O.S.): Please state your name for the record.
 DANNY: Daniel Ocean.
-VOICE (O.S.): Thank you. Mr. Ocean, the purpose of this meeting is to determine whether, if released, you are likely to break the law again. While this was your first conviction, you have been implicated, though never charged, in over a dozen other confidence schemes and frauds. What can you tell us about this?
-DANNY: As you say, ma'am, I was never charged.
-BOARD MEMBER #2: Mr. Ocean, what we're trying to find out is: was there a reason you chose to commit this crime, or was there a reason why you simply got caught this time?
-DANNY: My wife left me. I was upset.    I got into a self-destructive pattern.
-BOARD MEMBER #3: If released, is it likely you would fall back into a similar pattern?
-DANNY: She already left me once. I don't think she'll do it again just for kicks.
-BOARD MEMBER #1: Mr. Ocean, what do you think you would do if released?
-DANNY: (deadpan) I don't know. How much do you guys make a year?
+DANNY: As you say, ma'am, I was never Mr. Ocean, what we're trying to find out is: was there a reason you chose to commit this crime, or was there a reason why you simply got caught this time?
+DANNY: My wife left me. I was upset. I got into a self-destructive
+DANNY: She already left me once. I don't think she'll do it again just for
+DANNY: ( deadpan ) I don't know. How much do you guys make a year?
 GUARD #2: Ocean, Daniel.
-GUARD #2: Sign. (adding a piece of mail to the pile) This came today for you. Rest'll be forwarded to your parole officer.
-GUARD #1: (reading its return address over Danny's shoulder) Those your lawyers?
+GUARD #2: ( adding a piece of This came today for you. Rest'll be forwarded to your parole ( reading its return Those your lawyers?
+GUARD #1: ( reading its return Those your lawyers?
 DANNY: My wife's.
 GUARD #1: What's it say?
 DANNY: I'm a free man.
 DANNY: Hello, Frank.
 FRANK: I beg your pardon, sir. You must have me confused with someone else. My name is Ramon. See?
-DANNY: My mistake... (collecting his chips, doubled) Table's cold anyway.
-FRANK: You might try the lounge at the Grand, sir. It gets busy around one.
-DANNY: (as he goes) Thanks.
-FRANK (O.S.): Catching up on current events?
-DANNY: Ramon?
-FRANK: Glad to meet you. Frank Catton wouldn't get by the gaming board. (beat) You just out?
+DANNY: My mistake. Table's cold anyway.
+FRANK: You might try the lounge at the Grand, sir. It gets busy around
+DANNY: ( as he goes )
+DANNY: Glad to meet you. Frank Catton wouldn't get by the gaming board. You just out?
+FRANK: Glad to meet you. Frank Catton wouldn't get by the gaming board. You just out?
 DANNY: This afternoon.
-FRANK: (re: Danny's drink and whereabouts) And already turning over a new leaf.
-DANNY: (directly, this is why he's here) You seen him?
-FRANK: Last I heard he was in L.A. Teaching movie stars how to play cards. (beat) Why? You don't have something planned already?
+FRANK: ( re: Danny's drink And already turning over a new
+DANNY: ( directly, this is You seen him?
+FRANK: Last I heard he was in L.A. Teaching movie stars how to play cards. Why? You don't have something planned already?
 DANNY: You kidding? I just became a citizen again.
-FRANK: Jesus...
-FRANK: It's tough now, our line of work. Everybody so serious. Too many guns, too many computers. Whadda you gonna do? Steal from ordinary people?
+FRANK: 9 INT. SUB SHOP - NIGHT 9
+FRANK: It's tough now, our line of work. Everybody so serious. Too many guns, too many computers. Whadda you gonna do? Steal from ordinary That would be criminal.
 DANNY: That would be criminal.
-FRANK: So what's left? Banks? Hah. Banks got no money. It's all electronic. Only place that still takes cash is...
-DANNY: Casinos.
-FRANK: (realizing) Oh, no...
-DANNY: Oh, yes...
-FRANK: When?
-DANNY: Soon.   Interested?
-DANNY: Yes, Officer Brooks? My name is Danny Ocean. I'm just out, I'm supposed to check in with you within twenty-four hours. (listens) No, sir, I haven't gotten into any trouble. No drinking, no sir. (listens, finishes his bourbon) No, sir, I wouldn't even think of leaving the state.
-TOPHER (O.S.): Hey!   Hey, Rusty!
-TOPHER: Hey, I don't know if you're, uh, you know, incorporated or anything, like Rusty Ryan. And, I don't know, incorporated, but you should think about it, really, 'cause I was talking to my manager yesterday --
-RUSTY: Bernie?
-TOPHER: No, not Bernie, I mean not, not that Bernie, my business manager, he's also Bernie, he was telling me that since this, what we do, could be considered research for, you know, a future gig, that I should be able to write it off as a business expense. So he suggested that it'd be better if I wrote you a check, and thereby --
+FRANK: So what's left? Banks? Hah. Banks got no money. It's all electronic. Only place that still takes cash is.
+DANNY: ( realizing ) Oh, no.
+FRANK: ( realizing ) Oh, no.
+DANNY: Oh, yes.
+FRANK: Soon. Interested?
+DANNY: Soon. Interested?
+DANNY: Yes, Officer Brooks? My name is Danny Ocean. I'm just out, I'm supposed to check in with you within twenty-four hours. No, sir, I haven't gotten into any trouble. No drinking, no sir. No, sir, I wouldn't even think of leaving the state.
+ANOTHER ANGLE: MOVING WITH him and Topher Grace, the actor, as they push down a back alley.
+TOPHER: Hey, I don't know if you're, uh, you know, incorporated or anything, like Rusty Ryan. And, I don't know, incorporated, but you should think about it, really, 'cause I was talking to my manager yesterday
+RUSTY: ( CONTINUED )
+TOPHER: No, not Bernie, I mean not, not that Bernie, my business manager, he's also Bernie, he was telling me that since this, what we do, could be considered research for, you know, a future gig, that I should be able to write it off as a business expense. So he suggested that it'd be better if I wrote you a check, and thereby
 TOPHER: Or, or we could keep it cash.
-RUSTY: Alright.   Who's here?
+RUSTY: Alright. Who's here?
 TOPHER: Josh is here. Seth is here. David couldn't make it. He's got two weeks of reshoots on Lusitania because somebody just figured out forty percent of the budget is coming from Germany.
 RUSTY: That's a problem.
 TOPHER: Barry is here.
 RUSTY: I thought they let him out to do that H.B.O. thing in Vancouver.
 TOPHER: Couldn't work the dates. Oh, and he brought his girlfriend.
-RUSTY: Not the one from --
-TOPHER: Uh-huh.
-RUSTY: (beat) I quit watching when Kate left Don after his accident.
-RUSTY: Good evening, guys. Let's play some cards...
-RUSTY: ... and let's play some cards.
-TOPHER: A hundred bucks to me... (mulling it over) Ah, what the hell. Pocket change. Call.
+RUSTY: Not the one from
+TOPHER: ( beat ) I quit watching when Kate left Don after his accident.
+RUSTY: ( beat ) I quit watching when Kate left Don after his accident.
+RUSTY: Good evening, guys. Let's play some cards. . and let's play some cards.
+RUSTY: . and let's play some cards.
+TOPHER: A hundred bucks to me. Ah, what the hell. Pocket change. Call.
 RUSTY: Why you bet a certain way is your business. But you have to make them think you're betting for a reason. Understand?
 RUSTY: Seth. You know what you have. Looking at them doesn't change them. Leave 'em where they are and make your bet.
-RUSTY: You're showing. Yeah, I know she's your girlfriend, Barry, but you can't... Thank you.
-RUSTY: Josh.   Deal to your left.
+RUSTY: You're showing. Yeah, I know she's your girlfriend, Barry, but you can't. Thank you.
+RUSTY: Josh. Deal to your left.
 WAITRESS: One McCallum neat. And four bottled waters.
-SETH: (triumphantly) Two pair -- nines and twos.
-RUSTY: (folding) You got me. (as Seth rakes in his winnings) Let's take a little break.
-BARTENDER: (shouting over music) How's the game going?!!
+SETH: ( triumphantly ) Two pair nines and twos.
+RUSTY: ( folding ) You got me. ( as Seth rakes in Let's take a little break.
+BARTENDER: ( shouting over music ) How's the game going?!!
 RUSTY: It's been the longest hour of my life.
-BARTENDER: What?!
-RUSTY: (at the same volume) I'm running away with your wife.
+BARTENDER: ( at the same volume ) I'm running away with your wife.
+RUSTY: ( at the same volume ) I'm running away with your wife.
 BARTENDER: Cool, man!
 TOPHER: Hey, Rusty, we got another player, if that's alright.
 RUSTY: What's this?
 DANNY: The bouncer mentioned there was a game in progress. I hope I'm not intruding.
-TOPHER: No intrusion at all --
+TOPHER: No intrusion at all
 RUSTY: What was his name, the bouncer's?
 DANNY: I don't remember.
-RUSTY: A card player with amnesia.    This should be fun.
+RUSTY: A card player with amnesia. This should be fun.
 TOPHER: What do you do for a living, Mr. Ocean? If you don't mind my asking.
-DANNY: Why should I mind? Two cards, please... (long beat) I just got out of prison.
-TOPHER: Really? (a glance among the other players) Really...
-RUSTY: (half to divert attention) Barry, you're showing again.
-BARRY (O.S.): Sorry.
+DANNY: Why should I mind? Two cards, I just got out of prison.
+TOPHER: ( a glance among the ( half to divert Barry, you're showing again.
+RUSTY: ( half to divert Barry, you're showing again.
 JOSH: What'd you, uh, go to prison for?
 DANNY: I stole things.
 JOSH: What, like jewels? Diamonds?
 RUSTY: Incan matrimonial headmasks.
 JOSH: From a museum?
-DANNY: Gallery.
-SETH: There a lot of money in those? Incan matrimonial...
-DANNY: Headmasks.   Some.
-RUSTY: Don't let him fool you, Seth. There's boatloads. If you can move the things... (finishing his deal) One card to me. (to Danny, pointedly) ... but you can't.
+DANNY: There a lot of money in those? Incan matrimonial.
+SETH: There a lot of money in those? Incan matrimonial.
+DANNY: Headmasks. Some.
+RUSTY: Don't let him fool you, Seth. There's boatloads. If you can move the things. One card to me. . but you can't.
 DANNY: My fence seemed confident enough.
 RUSTY: If you're dealing with cash, you don't need a fence.
 DANNY: Some people just lack vision.
@@ -99,79 +90,75 @@ DANNY: Well, that's all behind us now.
 RUSTY: I should hope so.
 DANNY: I raise you five hundred dollars.
 RUSTY: Guys: Day One: what's the first rule of poker?
-RUSTY: That's right. My friend here just raised me out of pique. (beat) Today's lesson. How to draw out a bluff. This early in the game, that much money, I'm thinking he's holding nothing better than a pair of face cards. (beat) Seth, raise him.
-SETH: Okay. Uh, your five hundred and... another two?
-RUSTY: Tophe...
-TOPHER: Seven to me.   Plus three.   What the hell.
+RUSTY: That's right. My friend here just raised me out of pique. Today's lesson. How to draw out a bluff. This early in the game, that much money, I'm thinking he's holding nothing better than a pair of face cards. Seth, raise him.
+SETH: Okay. Uh, your five hundred and. another two?
+RUSTY: Seven to me. Plus three. What the hell.
+TOPHER: Seven to me. Plus three. What the hell.
 RUSTY: Indeed. But be careful you don't push him too high too fast. Want to keep him on the leash. I call.
 JOSH: What's that to me? A thousand?
 RUSTY: All you have to do is call.
-DANNY: (off Josh's further hesitation) What? Your girlfriend holding your purse?
-DANNY: Contrary to what Mr. Ryan may say, Seth, I always check my cards before I make a bet. But be cafeful. I could tell from your face you're holding three of a kind or better. (digging his wallet out) Five hundred to call. And two grand more.
+DANNY: ( off Josh's further What? Your girlfriend holding your purse?
+DANNY: Contrary to what Mr. Ryan may say, Seth, I always check my cards before I make a bet. But be cafeful. I could tell from your face you're holding three of a kind or better. Five hundred to call. And two grand more.
 RUSTY: Guys, you're free to do what you like. It's a lot of money. But I'm staying in. He's trying to buy his way out of his bluff.
 RUSTY: We call.
-RUSTY: Shit. Sorry, guys. I -- I was sure he was bluffing.
-DANNY: Thanks for the game, fellas. (then) Hey, I hate to ask this, but could you sign something for me? It's for the guys in the joint. They just love all your shows.
-RUSTY: That was, that was just...
-DANNY: Unprofessional.
+RUSTY: Shit. Sorry, guys. I I was sure he was bluffing.
+DANNY: Thanks for the game, fellas. Hey, I hate to ask this, but could you sign something for me? It's for the guys in the joint. They just love all your shows.
+RUSTY: That was, that was just.
+DANNY: Rusty agrees.
 RUSTY: How was the clink? You get the cookies I sent you?
-DANNY: Why do you think I came to see you first?
-DANNY: Ten grand.   Half of it's yours.
-RUSTY: You barge into my new workplace, ruin my professional reputation, least you could do is tell me you've got something better for me.
-DANNY: I've got something better for you.
+DANNY: Why do you think I came to see you
+DANNY: Ten grand. Half of it's yours.
+RUSTY: You barge into my new workplace, ruin my professional reputation, least you could do is tell me you've got something better for I've got something better for
+DANNY: I've got something better for
 RUSTY: How's Tess?
-RUSTY: Alright.   Tell me.
+RUSTY: Alright. Tell me.
 DANNY: It's tricky. No one's ever done it before. Needs planning, a large crew.
-RUSTY: Guns?
-DANNY: Not loaded ones. It has to be very precise. There's a lot of security. But the take...
+RUSTY: Not loaded ones. It has to be very precise. There's a lot of security. But the take.
+DANNY: Not loaded ones. It has to be very precise. There's a lot of security. But the take.
 RUSTY: What's the target?
 DANNY: Eight figures each.
-RUSTY: What's.    The.    Target.
-DANNY: (deep breath, then) When's the last time you were in Vegas?
-RUSTY: What? You wanna knock over a casino?
+RUSTY: What's. The. Target.
+DANNY: ( deep breath, then ) When's the last time you were in What? You wanna knock over a
+RUSTY: What? You wanna knock over a
 DANNY: The vault at the Bellagio.
-RUSTY: If I'm reading these right -- and I think that I am -- this is probably the least accessible vault ever designed. (beat) Oops. Actually, you know what, I'm wrong. It's definitely the least accessible vault ever designed.
-DANNY: Yep.
-RUSTY: You said three casinos...
-DANNY: (flips to next blueprint) These feed into the cages at both the Mirage and the M.G.M. Grand. (tapping vault) But every dime ends up here.
-RUSTY: The Bellagio, Mirage, and... These are Terry Benedict's places.
-DANNY: Yes, they are.     Think he'll mind?
+RUSTY: If I'm reading these right and I think that I am this is probably the least accessible vault ever designed. Oops. Actually, you know what, I'm wrong. It's definitely the least accessible vault ever
+DANNY: Rusty's brow furrows just a little.
+RUSTY: You said three casinos.
+DANNY: ( flips to next These feed into the cages at both the Mirage and the M.G.M. Grand. ( tapping vault ) But every dime ends up here.
+RUSTY: The Bellagio, Mirage, and. These are Terry Benedict's places.
+DANNY: Yes, they are. Think he'll mind?
 RUSTY: More than somewhat.
 RUSTY: You'd need at least a dozen guys, doing a combination of cons.
 DANNY: Like what, you think?
-RUSTY: Well, off the top of my head, I'd say you're looking at a Boesky, a Jim Brown, a Miss Daisy, two Jethros, and a Leon Spinks. Oh, and the biggest Ella Fitzgerald ever. (beat) Where do you think you're gonna get the money to back this?
+RUSTY: Well, off the top of my head, I'd say you're looking at a Boesky, a Jim Brown, a Miss Daisy, two Jethros, and a Leon Spinks. Oh, and the biggest Ella Fitzgerald Where do you think you're gonna get the money to back this?
 DANNY: As long as we're hitting these three casinos, we'll get our bankroll. Terry Benedict has a list of enemies.
-RUSTY: But does he have enemies with loose cash and nothing to lose... (smiles, realizing) Aha.
-DANNY: (smiles, too) Aha.
-RUSTY: Reuben.
-DANNY: So...
-RUSTY: So, here's what I think: You should take this plan, kick it around for a week or two. Sleep on it. Turn it over in your head. Then: never bring it up to me again.
-DANNY: Uh-huh.    So what are you saying?
+RUSTY: But does he have enemies with loose cash and nothing to lose.
+DANNY: ( smiles, too )
+RUSTY: 22 MOVING WITH SECURITY GUARD 22
+DANNY: So, here's what I think: You should take this plan, kick it around for a week or two. Sleep on it. Turn it over in your head. Then: never bring it up to me Uh-huh. So what are you saying?
+RUSTY: So, here's what I think: You should take this plan, kick it around for a week or two. Sleep on it. Turn it over in your head. Then: never bring it up to me Uh-huh. So what are you saying?
+DANNY: Uh-huh. So what are you saying?
 RUSTY: I'm saying: this is like trying to build a house of cards on the deck of a speeding boat.
-DANNY: Really? I thought it was much harder than that --
+DANNY: Really? I thought it was much harder than that
 DANNY: Jesus, Oscar, lower it a little, will ya?
-SECURITY GUARD: Sorry. (lowers beam) You two done up here?    Find what you wanted?
+SECURITY GUARD: ( lowers beam ) You two done up here? Find what you wanted?
 DANNY: Yeah, thanks. You mind if we borrow a couple drawings for the night? Make some copies.
 SECURITY GUARD: Whatever you need.
 DANNY: 'Preciate it.
-RUSTY: I need a reason. And don't say money. (beat) Why do this?
+RUSTY: I need a reason. And don't say Why do this?
 DANNY: Why not do it?
-DANNY: Because yesterday I walked out of the joint wearing my entire wardrobe and you're colddecking TeenBeat coverboys. (beat) Because the house always wins. You play long enough, never changing stakes, the house takes you. Unless, when that special hand comes around, you bet big. And then you take the house.
+DANNY: Because yesterday I walked out of the joint wearing my entire wardrobe and you're colddecking TeenBeat coverboys. Because the house always wins. You play long enough, never changing stakes, the house takes you. Unless, when that special hand comes around, you bet big. And then you take the house.
 RUSTY: You're been practicing that speech, haven't you?
-DANNY: A little. Did I rush it?   It felt like I rushed it.
+DANNY: A little. Did I rush it? It felt like I rushed it.
 RUSTY: No, it was good.
 RUSTY: I wonder what Reuben will say?
-TISHKOFF (V.O.): You're out of your goddamn minds.
-TISHKOFF: Are you listening to me? You are, both of you, nuts. I know more about casino security than any man alive. I invented it, and it cannot be beaten. They got cameras, they got watchers, they got locks, they got timers, they got vaults. They got enough armed personnel to occupy Paris. Okay, bad example...
+TISHKOFF: Are you listening to me? You are, both of you, nuts. I know more about casino security than any man alive. I invented it, and it cannot be beaten. They got cameras, they got watchers, they got locks, they got timers, they got vaults. They got enough armed personnel to occupy Paris. Okay, bad example.
 DANNY: It's never been tried.
 TISHKOFF: Oh, it's been tried. A few guys even came close. You know the three most successful robberies in Vegas history?
-TISHKOFF (V.O.): Number three. The bronze medal. Pencilneck grabs a lockbox at the Sands. He got two steps closer to the door than any living soul before him.
-TISHKOFF (V.O.): Second most successful robbery. The Flamingo '71. This guy actually smelled fresh oxygen before they got him.
-TISHKOFF (V.O.): Course, he was breathing out of a hose the next three weeks, goddamn hippie.
-TISHKOFF: And the closest any man has gotten to robbing a Las Vegas casino...
-TISHKOFF: Outside of Caesar's in '87.   He came, he grabbed, he got conquered.
-TISHKOFF: But what am I saying? You guys are pros, the best. I'm sure you can make it out of the casino. Of course, lest we forget, once you're out the front door, you're still in the middle of the fucking desert!
-RUSTY: You're right. (to Danny) He's right.
+TISHKOFF: And the closest any man has gotten to robbing a Las Vegas casino.
+TISHKOFF: Outside of Caesar's in '87. He came, he grabbed, he got
+TISHKOFF: But what am I saying? You guys are pros, the best. I'm sure you can make it out of the casino. Of course, lest we forget, once you're out the front door, you're still in the middle of the fucking
+RUSTY: You're right. He's right.
 DANNY: Reuben, you're right. Our eyes are bigger than our stomachs.
 RUSTY: That's exactly it. Pure ego.
 TISHKOFF: Yeah yeah blah blah.
@@ -180,111 +167,94 @@ TISHKOFF: Look, we all go way back. I owe you from that thing with the guy in th
 DANNY: It was our pleasure.
 RUSTY: I'd never been to Belize.
 TISHKOFF: Give Dominic your addresses, I got some remaindered furniture I wanna send you.
-TISHKOFF: Just out of curiosity, which casinos did you geniuses pick to rob?
+TISHKOFF: Just out of curiosity, which casinos did you geniuses pick to
 DANNY: The Bellagio, Mirage, and the M.G.M. Grand.
-TISHKOFF: (nostrils flared, smelling a rat) Those are Terry Benedict's casinos.
-RUSTY: Say, you know, he's right.
-TISHKOFF: You guys... Whadda you got against Terry Benedict?
+TISHKOFF: ( nostrils flared, Those are Terry Benedict's Say, you know, he's right. You guys. Whadda you got against Terry Benedict?
+RUSTY: Say, you know, he's right. You guys. Whadda you got against Terry Benedict?
+TISHKOFF: You guys. Whadda you got against Terry Benedict?
 DANNY: What do you have against him? That's the real question.
 TISHKOFF: He torpedoed my casino, muscled me out, now he's gonna blow it up next month to make way for another fuckin' eyesore. Don't think I don't see what you're doin'.
 RUSTY: What are we doing, Reuben?
-TISHKOFF: You gonna steal from Terry Benedict, you better goddamn know. This sorta thing used to be civilized. You'd hit a guy, he'd whack you. Done. But Benedict... (bristles) At the end of this he better not know you're involved, not know your names, or think you're dead. Because he'll kill you, and then he'll go to work on you.
+TISHKOFF: You gonna steal from Terry Benedict, you better goddamn know. This sorta thing used to be civilized. You'd hit a guy, he'd whack you. Done. But Benedict. At the end of this he better not know you're involved, not know your names, or think you're dead. Because he'll kill you, and then he'll go to work on you.
 DANNY: That's why we've got to be very careful. We have to be precise. We have to be well-funded.
-TISHKOFF: Yeah, you gotta be nuts, too. And you're gonna need a crew as nuts as you are. (pregnant silence) Who do you have in mind?
-RUSTY (V.O.): Alright.   Who's in?
-DANNY (V.O.): Frank C. is in.
-DANNY (V.O.): Frank C. has developed a bad case of bronchitis and is putting in for a transfer to warmer climates.
-DANNY (V.O.): What about drivers?
-RUSTY (V.O.): I talked to the Malloys yesterday.
-DANNY (V.O.): The Mormon twins?
-RUSTY (V.O.): They're both in Salt Lake City, six months off the job. I got the sense they're having trouble filling the hours.
-DANNY (V.O.): Electronics?
-RUSTY (V.O.): Livingston Dell.
-RUSTY (V.O.): Livingston's been doing freelance surveillance work of late for the F.B.I. Mob Squad.
-DANNY (V.O.): How are his nerves?
-RUSTY (V.O.): Okay. (beat) Not so bad you'd notice.
-LIVINGSTON: D-don't, don't-don't... touch... it.
-FBI MAN #1: What?
+TISHKOFF: Yeah, you gotta be nuts, too. And you're gonna need a crew as nuts as you are. Who do you have in mind?
+LIVINGSTON: D-don't, don't-don't. touch. it.
 LIVINGSTON: Do you see me pulling the gun out of your holster and firing it?
-FBI MAN #2: Hey, Radio Shack: relax.
-RUSTY: (next item on his list) Munitions.
+RUSTY: ( next item on his Phil Turentine.
 DANNY: Phil Turentine.
-RUSTY: Dead.
-DANNY: No shit?   On the job?
+RUSTY: ( CONTINUED )
+DANNY: No shit? On the job?
 RUSTY: Sun cancer.
 DANNY: You send flowers?
 RUSTY: Dated his wife a while.
-DANNY: (onto next candidate) Basher...
-RUSTY: (checks his watch) We may be too late.
-BASHER: Sweet...
-BASHER: (to the rest of his gang, his temper flaring) You know, you guys had one job to do.
+DANNY: ( onto next candidate )
+RUSTY: ( checks his watch ) We may be too late.
+BASHER: BANG! Wood shards and SPLINTERS of GLASS fly all around; Basher merely ducks his head and whistles. As the dust settles, three men move quickly past Basher and into ( what the settling fog now reveals to be ) a dynamited bank vault. ALARMS begin to sound: this is bad news.
+BASHER: ( to the rest of his You know, you guys had one job to
 COP: And that's all you used during the event? Nothing else?
-BASHER: Are you accusing me of booby- trapping?
+BASHER: Are you accusing me of booby- Well, how 'bout it?
 COP: Well, how 'bout it?
-VOICE (O.S.): Booby traps aren't Mr. Tarr's style.
 RUSTY: Isn't that right, Basher?
 BASHER: That's right.
-RUSTY: (flashing badge, briefly) Peck, A.T.F. Let me venture a guess. A simple G4 mainliner, double-coil, backwound, quick fuse with a drag under 20 feet. (off Cop's reaction) That's our man. Tell me something else. Have you checked him for booby traps on his person? I mean really checked, not just for weapons...
+RUSTY: ( flashing badge, Peck, A.T.F. Let me venture a guess. A simple G4 mainliner, double-coil, backwound, quick fuse with a drag under 20 feet. ( off Cop's reaction ) That's our man. Tell me something else. Have you checked him for booby traps on his person? I mean really checked, not just for
 RUSTY: Will you go find Griggs and tell him I need to see him?
-COP: Who?
-RUSTY: (loud) Just go find him, will you? (as Cop stalks off; under his breath) How fast can you put something together with what I passed you?
-BASHER: Done.   Thirty seconds all right?
+COP: ( CONTINUED )
+RUSTY: ( loud ) Just go find him, will you? ( as Cop stalks off; How fast can you put something together with what I passed you?
+BASHER: Done. Thirty seconds all right?
 RUSTY: From when?
-BASHER: (as we hear something SNAP from behind his back) Now.
+BASHER: ( as we hear something
 RUSTY: Ten seconds?
-BASHER: Not quite.   Is Danny here?
+BASHER: Not quite. Is Danny here?
 RUSTY: Around the corner.
-BASHER: Be good working with professionals again. (beat) Okay: go.
-RUSTY: Everyone down! Get down!      There's a bomb in the...
-ANNOUNCER (V.O.): (in Chinese, then English) Ladies and gentlemen: the amazing Yen.
+BASHER: Be good working with professionals Okay: go.
+RUSTY: Everyone down! Get down! There's a bomb in the.
 DANNY: So he can walk on a rope.
 RUSTY: More than that.
 DANNY: So he can juggle. We need a grease man, not an acrobat. Who else is on the list?
 RUSTY: He is the list.
 DANNY: Who else?
-RUSTY: Watch.
+RUSTY: Halfway across the wire, the funambulist sits. And very slowly, but without hesitation, he contorts himself into a ball, never losing his balance. Even Danny is
 RUSTY: There's your grease man.
 DANNY: We need Saul.
 RUSTY: He won't come. He swore off the game a year ago.
 DANNY: He get religion?
-RUSTY: Ulcers.
+RUSTY: You can ask him.
 DANNY: You can ask him.
 RUSTY: I can ask.
-SAUL: I saw you in the paddock before the second race, outside the men's room, when I placed my bet. I saw you before you even got up this morning.
+SAUL: I saw you in the paddock before the second race, outside the men's room, when I placed my bet. I saw you before you even got up this How ya been, Saul?
 RUSTY: How ya been, Saul?
 SAUL: Never better.
 RUSTY: What's with the orange?
 SAUL: My doctor says I need vitamins.
 RUSTY: So why don't you take vitamins?
-SAUL: You come here to give me a physical?
+SAUL: You come here to give me a I got a box seat. Come on.
 RUSTY: I got a box seat. Come on.
 RUSTY: I thought you drank bloody Mary's at the track, Saul.
 SAUL: A man shouldn't drink on the job.
-RUSTY: (re: race) Who we rooting for here?
+RUSTY: ( re: race ) Who we rooting for here?
 SAUL: Number four.
 SAUL: You gonna ask me? Or should I just say no and get it over with?
 RUSTY: Saul, you're the best there is. You're in Cooperstown. What do you want?
 SAUL: Nothin'. I got a duplex now, I got wall-to-wall and a goldfish, I'm seeing a nice lady, she works the unmentionables counter at Macy's. I've changed.
 RUSTY: Guys like us don't change, Saul. We stay sharp or we get sloppy, but we don't change.
 SAUL: Quit connin' me.
-RUSTY: That your hound way in the back there?
-SAUL: He breaks late. Everyone knows this.
-SAUL: You gonna treat me like a grownup at least? Tell me what the scam is?
-DANNY (V.O.): And Saul makes ten.
-DANNY: Ten should do it, don't you think? (as Rusty shrugs) You think we need one more? (as Rusty shrugs) You think we need one more. (as Rusty shrugs) Okay. We'll get one more.
+RUSTY: That your hound way in the back He breaks late. Everyone knows
+SAUL: He breaks late. Everyone knows
+SAUL: You gonna treat me like a grownup at least? Tell me what the scam
+DANNY: Ten should do it, don't you think? You think we need one more? You think we need one more. Okay. We'll get one more.
 LINUS: Sorry 'bout that.
 STOCKBROKER: No problem, guy.
-DANNY: Hi, Linus.   Sit down.
+DANNY: Hi, Linus. Sit down.
 LINUS: Who are you?
-DANNY: A friend of Bobby Caldwell's.   Sit down.
+DANNY: A friend of Bobby Caldwell's. Sit Bobby told me about you. Said you were the best set of hands he ever saw. Didn't expect to find you working wallets on the subway.
 DANNY: Bobby told me about you. Said you were the best set of hands he ever saw. Didn't expect to find you working wallets on the subway.
-LINUS: That wasn't work, that was practice.
-DANNY: You're either in or out, right now.
+LINUS: That wasn't work, that was
+DANNY: You're either in or out, right What is it?
 LINUS: What is it?
 DANNY: A plane ticket. A job offer.
-LINUS: You're pretty trusting pretty fast.
+LINUS: You're pretty trusting pretty Bobby has every faith in you.
 DANNY: Bobby has every faith in you.
-LINUS: Fathers are like that. (off Danny's reaction) He didn't tell you? (as Danny shakes his head) He doesn't like me trading on his name.
+LINUS: Fathers are like that. He didn't tell you? He doesn't like me trading on his You do this job, he'll be trading on yours.
 DANNY: You do this job, he'll be trading on yours.
 LINUS: What if I say no?
 DANNY: We'll get someone else who won't be quite as good. You can go back to feeling up stockbrokers.
@@ -292,563 +262,521 @@ DANNY: That's the best lift I've seen you make yet.
 LINUS: Las Vegas, huh?
 DANNY: America's playground.
 LIVINGSTON: Trick or treat.
-TISHKOFF: What, you guys get a group rate or something?
-TURK: You make it out to Utah much, Saul?
-SAUL: (last man you'd see in the Tabernacle) Not as much as I'd like.
-TURK: You should.   You'd like it.   You'd like Provo.
-VIRGIL: (scarfing a jumbo shrimp) Anybody see the salsa goes with this?
-DANNY (O.S.): Gentlemen:    welcome to Las Vegas.
+TISHKOFF: What, you guys get a group rate or
+TURK: You make it out to Utah much,
+SAUL: ( last man you'd see Not as much as I'd like.
+TURK: You should. You'd like it. You'd like Provo.
+VIRGIL: ( scarfing a jumbo Anybody see the salsa goes with
 DANNY: Everybody eaten? Good. Everybody sober? Close enough. Most of you know each other already. You probably haven't met Linus Caldwell before, he's Bobby's kid outta Chicago.
-DANNY: Okay. Before we start, nobody's on the line here yet. What I'm about to propose to you happens to be both highly lucrative and highly dangerous. If that doesn't sound like your particular brand of vodka, help yourself to as much food as you like and safe journey. No hard feelings. (pauses, soberly) Otherwise, come with me.
+DANNY: Okay. Before we start, nobody's on the line here yet. What I'm about to propose to you happens to be both highly lucrative and highly dangerous. If that doesn't sound like your particular brand of vodka, help yourself to as much food as you like and safe journey. No hard feelings. Otherwise, come with me.
 BASHER: What the hell.
-LINUS: Hi.
+LINUS: You're Bobby Caldwell's kid, huh?
 TISHKOFF: You're Bobby Caldwell's kid, huh?
-LINUS: Yeah.
+LINUS: From Chicago?
 TISHKOFF: From Chicago?
-LINUS: Yeah.
+LINUS: It's nice there. You like it?
 TISHKOFF: It's nice there. You like it?
-LINUS: Yeah.
+LINUS: That's wonderful. Get in the goddamn room.
 TISHKOFF: That's wonderful. Get in the goddamn room.
-DANNY: Gentlemen: the 14000 block of Las Vegas Boulevard. Otherwise known as the Bellagio, the Mirage, the M.G.M. Grand. Together, they're the three most profitable casinos in Las Vegas...
-DANNY: Gentlemen: the Bellagio vault. Located below the Strip, beneath two hundred feet of solid earth. It safeguards every dime that comes through each of the three casinos above it. (beat) And we're going to rob it.
+DANNY: Gentlemen: the 14000 block of Las Vegas Boulevard. Otherwise known as the Bellagio, the Mirage, the M.G.M. Grand. Together, they're the three most profitable casinos in Las Vegas.
+DANNY: Gentlemen: the Bellagio vault. Located below the Strip, beneath two hundred feet of solid earth. It safeguards every dime that comes through each of the three casinos above it. And we're going to rob it.
 LINUS: Smash-and-grab job, huh?
-RUSTY: It's a little more complicated than that.
-DANNY: Courtesy of Frank Catton, new blackjack dealer at the Bellagio, security tapes from the three casinos.
-DANNY: Okay.    Bad news first. This place houses   a security system which rivals   most nuclear missile silos. First:    we have to get within the casino   cages --
-RUSTY: (indicating) -- here, here, and here --
-DANNY: -- which anyone knows takes more than a smile. Next: through these doors, each of which requires a different six-digit code changed every twelve hours. Past those lies the elevator, and this is where it gets tricky: the elevator won't move without authorized fingerprint identifications --
-RUSTY: -- which we can't fake --
-DANNY: -- and vocal confirmations from both the security center within the Bellagio and the vault below - -
-RUSTY: -- which we won't get.
-DANNY: Furthermore, the elevator shaft is rigged with motion detectors --
-RUSTY: -- meaning if we manually override the lift, the shaft's exit will lock down automatically and we'll be trapped.
+RUSTY: It's a little more complicated than that. Courtesy of Frank Catton, new blackjack dealer at the Bellagio, security tapes from the three
+DANNY: Courtesy of Frank Catton, new blackjack dealer at the Bellagio, security tapes from the three
+DANNY: Okay. Bad news first. This place houses a security system which rivals most nuclear missile silos. First: we have to get within the casino cages
+RUSTY: ( indicating ) here, here, and here
+DANNY: which anyone knows takes more than a smile. Next: through these doors, each of which requires a different six-digit code changed every twelve hours. Past those lies the elevator, and this is where it gets tricky: the elevator won't move without authorized fingerprint which we can't fake
+RUSTY: which we can't fake
+DANNY: and vocal confirmations from both the security center within the Bellagio and the vault below - -
+RUSTY: which we won't get.
+DANNY: Furthermore, the elevator shaft is rigged with motion detectors
+RUSTY: meaning if we manually override the lift, the shaft's exit will lock down automatically and we'll be trapped.
 DANNY: Once we've gotten down the shaft, though, then it's a walk in the park: just three more guards with Uzis and predilections toward not being robbed, and the most elaborate vault door conceived by man. Any questions?
-RUSTY: (in response) No. Tunneling is out. There are Richter scales monitoring the ground for one hundred yards in every direction. If a groundhog tried to nest there, they'd know about it. Anyone else?
-TURK: You said something about good news...
-DANNY: (smiles, happy someone asked) The Nevada Gaming Commission stipulates: a casino must hold in reserve enough cash to cover every chip at play on its floor. As I mentioned, this vault services each of the three casinos above it. That means: during the week, by law, it must hold anywhere from sixty to seventy million dollars in cash and coin. On a weekend, between eighty and ninety million. On a fight night, like the one two weeks from tonight, the night we're going to rob it, at least a hundred and fifty million. Without breaking a sweat. (gazing about room) Now there are eleven of us. Each with an equal share. You do the math.
+RUSTY: ( in response ) No. Tunneling is out. There are Richter scales monitoring the ground for one hundred yards in every direction. If a groundhog tried to nest there, they'd know about it. Anyone else?
+TURK: You said something about good The Nevada Gaming Commission stipulates: a casino must hold in reserve enough cash to cover every chip at play on its floor. As I mentioned, this vault services each of the three casinos above it. That means: during the week, by law, it must hold anywhere from sixty to seventy million dollars in cash and coin. On a weekend, between eighty and ninety million. On a fight night, like the one two weeks from tonight, the night we're going to rob it, at least a hundred and fifty million. Without breaking a sweat. Now there are eleven of us. Each with an equal share. You do the
+DANNY: ( smiles, happy The Nevada Gaming Commission stipulates: a casino must hold in reserve enough cash to cover every chip at play on its floor. As I mentioned, this vault services each of the three casinos above it. That means: during the week, by law, it must hold anywhere from sixty to seventy million dollars in cash and coin. On a weekend, between eighty and ninety million. On a fight night, like the one two weeks from tonight, the night we're going to rob it, at least a hundred and fifty million. Without breaking a sweat. ( gazing about room ) Now there are eleven of us. Each with an equal share. You do the
 RUSTY: That's what I said.
-SAUL: I have a question. (as Danny turns to him) Say we do get into the cage, and through the security doors there, and down the elevator we can't move, and past the guards with guns, and into the vault we can't open...
+SAUL: I have a question. Say we do get into the cage, and through the security doors there, and down the elevator we can't move, and past the guards with guns, and into the vault we can't Without being seen by the cameras.
 RUSTY: Without being seen by the cameras.
-DANNY: (off everyone's astonishment) Oh, right. Sorry. I forgot to mention that.
+DANNY: ( off everyone's Oh, right. Sorry. I forgot to mention that.
 SAUL: Say we do all that. We're just supposed to walk outta there with a hundred million dollars in cash on us without getting stopped?
-DANNY: Yeah.
-DANNY: Alright.   Here's how we'll begin.
-DANNY (V.O.): First task: reconnaissance. I want to know everything that's going on in all three casinos. From the rotation of the dealers to the path of every cash cart...
-DANNY (V.O.): I wanna know everything about every guard, every watcher, anyone with a security pass. I wanna know where they're from, what their nicknames are, how they take their coffee...
-DANNY (V.O.): Most of all, I want you guys to know these casinos. They were built as labyrinths, to keep people in. I want you guys to know the quick routes out.
-DANNY (V.O.): Second task: power. On the night of the fight, we're gonna throw the switch on sin city. Basher, it's your show.
-DANNY (V.O.): Third task: surveillance. Casino security has an eye and ear on everything, so we'll want an eye and ear on them. Livingston...
+DANNY: Saul looks panic-stricken; like that, his ulcer has flared up, and he pops a Rolaid in his mouth.
+DANNY: Alright. Here's how we'll begin.
+BETTER VIEW: REVEALS: On his crossword, Frank has scribbled a transcript of the Technicians' conversation. As he glances up at an electronic keycard clipped to one Technician's belt.
+WIDER: Well, it's not the least accessible system I've seen, but it's close. I don't suppose they have a closed-circuit feed I could tap into?
 LIVINGSTON: Well, it's not the least accessible system I've seen, but it's close. I don't suppose they have a closed-circuit feed I could tap into?
 LIVINGSTON: Then this is definitely a black bag job. Do they employ an in- house technician?
-RUSTY: Two.   And one of them is lonely.
-DANCER: I'll be right back, honey.    Don't move a muscle.
-TECHNICIAN: (drunk and in love) Depends on the muscle.
-RUSTY: Thanks, Charmaine. I'll have it back within the hour. (as he goes) Say hello to your mom for me.
+RUSTY: Two. And one of them is lonely.
+DANCER: I'll be right back, honey. Don't move a muscle.
+TECHNICIAN: ( drunk and in Depends on the muscle.
+RUSTY: Thanks, Charmaine. I'll have it back within the hour. Say hello to your mom for me.
 DANCER: Say it yourself. She'll be onstage in five minutes.
-TOURIST: Hey, watch it, bud...
+TOURIST: Hey, watch it, bud.
 SLIM: 433, we have visual impairment on the east door camera.
 SENTRY: Excuse me, sir: You're going to have to move your balloons.
 VIRGIL: Who you calling 'bud,' pal?
-TURK (TOURIST): Who you calling 'pal,' friend?
-VIRGIL: Who you calling 'friend'... (can't think of another) ... bud...
-VIRGIL: You hear about this new medical discovery they made? It's called a 'sense of direction.' Apparently we're all supposed to have one...
-TURK: Yeah yeah yeah, whatever, balloon boy.
-SENTRY: Gentlemen, gentlemen...
-DANNY: Why do they paint hallways that color?
+VIRGIL: Who you calling 'friend'. . bud.
+VIRGIL: You hear about this new medical discovery they made? It's called a 'sense of direction.' Apparently we're all supposed to have one.
+TURK: Yeah yeah yeah, whatever, balloon Gentlemen, gentlemen.
+SENTRY: Gentlemen, gentlemen.
+DANNY: Why do they paint hallways that They say taupe is very soothing.
 RUSTY: They say taupe is very soothing.
-DANNY: Uh-oh.
-FAT: Hiya.
+DANNY: 81 INT. CAGE - HALLWAY 81
+FAT: Fine, thanks.
 LIVINGSTON: Fine, thanks.
-FAT: Hey...
-VIRGIL: Hey... get your own balloons.
-FAT: (on his tail) Hey...
+FAT: 82 INT. BELLAGIO CASINO - BY CAGE DOOR - NIGHT 82
+VIRGIL: Hey. get your own balloons.
+FAT: ( on his tail )
 FAT: You dropped this.
-LIVINGSTON: Thanks.
-DANNY: Well...
-RUSTY: Yeah...
-DANNY: Fourth task:    construction...
-DANNY (V.O.): We need to build an exact, working replica of the Bellagio vault.
-RUSTY (V.O.): For practice.
-DANNY (V.O.): Something like that.
+LIVINGSTON: And he's out.
+DANNY: Fourth task: construction.
+RUSTY: Fourth task: construction.
+DANNY: Fourth task: construction.
 DANNY: Fifth task: intelligence. We need those codes, Linus. From the only man who has all three.
-LINUS: Benedict.
-DANNY: Learn to love his shadow. (back to the team) Sixth task: transport...
-LINUS: (young and eager) Wait, wait, wait. All I get to do is watch him?
+LINUS: Learn to love his shadow. Sixth task: transport.
+DANNY: Learn to love his shadow. Sixth task: transport.
+LINUS: ( young and eager ) Wait, wait, wait. All I get to do is watch him?
 DANNY: For now. You gotta walk before you crawl.
-RUSTY: (to Linus, correcting Danny) Reverse that.
-DANNY: (toward the Malloys) Sixth task: transport...
+RUSTY: ( to Linus, correcting Danny ) Reverse that.
+DANNY: ( toward the Malloys ) Sixth task: transport.
 BILLY TIM: I'm sorry: eighteen-five each is the best offer I can make you.
-FRANK: (playing a bit of a dandy) Oh, I understand perfectly. They are beautiful vans. Well, I thank you for your time, Mister...?
-BILLY TIM: Denham.   Billy Tim Denham.
-FRANK: Yes, Denham, like a jean. (they shake) You know: you have lovely hands -- do you moisturize?
+FRANK: ( playing a bit of Oh, I understand perfectly. They are beautiful vans. Well, I thank you for your time, Mister.?
+BILLY TIM: Denham. Billy Tim Denham.
+FRANK: Yes, Denham, like a jean. You know: you have lovely hands do you moisturize?
 BILLY TIM: I'm sorry?
-FRANK: I swear by it. I try all sorts of lotions. I went through a fragrance-free period last year, but now I'm liking this new brand fortified with rose hip. My sister, you know, she uses the aloe vera with the sun screen built in...
-BILLY TIM: (just can't get his hand back) Uh-huh. You said you'd be willing to pay in cash?
-FRANK: I did. You know: they say cinnamon is wonderful for your pores. Read that on the internet. And that ideally you should be wearing gloves to bed, but I find that would interfere with my social agenda. Problem is: I get a reaction to camphor so I can't use traditional remedies...
-BILLY TIM: If you could pay cash, I could probably drop the price a little. To, say, seventeen... (as Frank squeezes a little) ... sixteen each.
-FRANK: (big smile) That would be lovely.
-DANNY: ... Power, surveillance, transport...
-TISHKOFF: Anything I can do?
+FRANK: I swear by it. I try all sorts of lotions. I went through a fragrance-free period last year, but now I'm liking this new brand fortified with rose hip. My sister, you know, she uses the aloe vera with the sun screen built in.
+BILLY TIM: ( just can't get Uh-huh. You said you'd be willing to pay in cash?
+FRANK: I did. You know: they say cinnamon is wonderful for your pores. Read that on the internet. And that ideally you should be wearing gloves to bed, but I find that would interfere with my social agenda. Problem is: I get a reaction to camphor so I can't use traditional remedies.
+BILLY TIM: If you could pay cash, I could probably drop the price a little. To, say, seventeen. . sixteen each.
+FRANK: ( big smile ) That would be lovely.
+DANNY: . Power, surveillance, Anything I can do? Get your wallet.
+TISHKOFF: Anything I can do? Get your wallet.
 DANNY: Get your wallet.
 SAUL: This is nice material.
 DANNY: It's Armani, Saul.
-SAUL: It's very nice.
-DANNY: Saul, you sure you're ready to do this?
-SAUL: If you ever question me again, Daniel, you won't wake up the following morning.
+SAUL: It's very nice. Saul, you sure you're ready to do If you ever question me again, Daniel, you won't wake up the following morning. You're ready.
+DANNY: Saul, you sure you're ready to do If you ever question me again, Daniel, you won't wake up the following morning. You're ready.
+SAUL: If you ever question me again, Daniel, you won't wake up the following morning. You're ready.
 DANNY: You're ready.
-SAUL: Hello.  My name is Lyman Zerga... (this time a little deeper) My name is Lyman Zerga...
-SAUL: My name is Lyman Zerga... My name is Lyman Zerga...
+SAUL: Hello. My name is Lyman Zerga. My name is Lyman Zerga.
+SAUL: My name is Lyman Zerga. My name is Lyman Zerga.
 DANNY: There's a little over twenty grand there, Saul. Try to make it last.
-SAUL: You seen my...
-DANNY: (handing him Rolaids) Bought you a fresh roll.
+SAUL: You seen my.
+DANNY: ( handing him Rolaids ) Bought you a fresh roll. Mr. Zerga, we're here.
 VIRGIL: Mr. Zerga, we're here.
 DANNY: Good luck, Lyman.
-SAUL: (hesitates, then gets out) Luck is for losers.
+SAUL: ( hesitates, then gets Luck is for losers.
 V.I.P. CONCIERGE: Good afternoon, sir. How can I be of service?
-SAUL: My name is Lyman Zerga.   I'd like a suite, please.
+SAUL: My name is Lyman Zerga. I'd like a suite, please.
 V.I.P. CONCIERGE: Do you have a reservation with us?
-SAUL: (long glare at him) I don't make reservations.
-RUSTY: Okay.   Tell me about Benedict.
+SAUL: ( long glare at him ) I don't make reservations.
+RUSTY: Okay. Tell me about Benedict.
 LINUS: The guy is a machine.
-LINUS (V.O.): He arrives at the Bellagio every day at two p.m. Same Town Car, same driver. Remembers every valet's name on the way in. Not bad for a guy worth three-quarters of a billion.
-LINUS (V.O.): Offices are upstairs. He works hard, hits the lobby floor at seven on the nose.
-LINUS (V.O.): Spends three minutes on the floor with his casino manager.
-RUSTY (V.O.): What do they talk about?
-LINUS (V.O.): All business. Benedict likes to know what's going on in his casinos. There's rarely an incident he doesn't know about or handle personally.
-LINUS (V.O.): He spends a few minutes gladhanding the high rollers. He's fluent in Spanish, German and Italian, and he's taking Japanese lessons, getting pretty good at it. He's out by seven-thirty, when an assistant hands him a black portfolio. Contents: the day's take and new security codes. Then he heads to the restaurant.
-LINUS: Give him another ten seconds.
-LINUS: As I said:   a machine.
+LINUS: Give him another ten seconds. As I said: a machine.
+LINUS: As I said: a machine.
 RUSTY: And that portfolio contains the codes to all the cage doors?
-LINUS: Two minutes after they've been changed, he's got 'em in hand. (beat) I'll tell you: you guys picked a helluva target. He is as smart and ruthless as they come. The last guy caught cheating here, Benedict not only sent him up for ten years, he got the bank to seize the guy's home and bankrupted --
-RUSTY: -- his brother-in-law's tractor dealership, I heard.
+LINUS: Two minutes after they've been changed, he's got 'em in hand. I'll tell you: you guys picked a helluva target. He is as smart and ruthless as they come. The last guy caught cheating here, Benedict not only sent him up for ten years, he got the bank to seize the guy's home and dealership, I heard.
+RUSTY: his brother-in-law's tractor dealership, I heard.
 LINUS: He doesn't just go after your knees, he goes after your livelihood. And everyone-you- ever-met's livelihood.
 RUSTY: You scared?
 LINUS: You suicidal?
-RUSTY: Only in the morning. (beat) Now what?
-LINUS: Now comes the girl... if she comes in after he does, that means they're in a snit.
+RUSTY: Only in the morning. Now what?
+LINUS: Now comes the girl. if she comes in after he does, that means they're in a snit.
 RUSTY: Where's she come from?
-LINUS: The museum downstairs. She's the curator there. Wait... here she is. You'll like this.
-LINUS: I don't know if we can use her yet. I haven't even caught her name.
-RUSTY: Tess.
-LINUS: What?
-RUSTY: (looks very certain about this, very certain and very upset) Her name is Tess.
+LINUS: The museum downstairs. She's the curator there. Wait. here she is. You'll like this.
+LINUS: I don't know if we can use her yet. I haven't even caught her Her name is Tess.
+RUSTY: ( looks very certain Her name is Tess.
+LINUS: ( looks very certain Her name is Tess.
+RUSTY: ( looks very certain Her name is Tess.
 TISHKOFF: This looks familiar. Where'd you get this?
 VIRGIL: Off your Rolls.
-TISHKOFF: Danny!   Tell 'em not to touch the Rolls!
-DANNY: 29:47.   Everything okay in there?
+TISHKOFF: Danny! Tell 'em not to touch the 29:47. Everything okay in there?
+DANNY: 29:47. Everything okay in there?
 RUSTY: But what doesn't beat the shit out of being a circus performer?
 DANNY: What is it?
-RUSTY: Tell me this isn't about her. Or I'll walk off the job right now. (off Danny's reaction) Tess. She's with Terry Benedict now. Tell me this isn't about screwing the guy who's screwing your wife.
-DANNY: Ex-wife.
+RUSTY: Tell me this isn't about her. Or I'll walk off the job right now. Tess. She's with Terry Benedict now. Tell me this isn't about screwing the guy who's screwing your wife.
+DANNY: Tell me.
 RUSTY: Tell me.
-DANNY: It's not.   About that.   Entirely.
-DANNY: You said you needed a reason. Well, this is mine. (beat) When we started in this business, we had three rules. We weren't gonna hurt anybody. We weren't gonna steal from anybody didn't have it coming. And we were gonna play the game like we had nothing to lose. Well, I lost something. Someone. That's why I'm here.
+DANNY: It's not. About that. Entirely.
+DANNY: You said you needed a reason. Well, this is mine. When we started in this business, we had three rules. We weren't gonna hurt anybody. We weren't gonna steal from anybody didn't have it coming. And we were gonna play the game like we had nothing to lose. Well, I lost something. Someone. That's why I'm here.
 RUSTY: Here's the problem: we're stealing two things now. And when push comes to shove, if you can't have both, which are you gonna choose? And remember: Tess doesn't divide eleven ways.
-DANNY: If things go to plan, I won't be the one who has to make that choice.
-DANNY: How'd she look by the way? Tess...
+DANNY: If things go to plan, I won't be the one who has to make that
+DANNY: How'd she look by the way? I've seen her happier.
 RUSTY: I've seen her happier.
-TESS (V.O.): 'Radiant' is the word. Absolutely radiant.
 TESS: He painted it in the summer of 1912, after the break-up with Fernande Olivier.
-SELLER: She must have put him through hell.
-TESS: You can see the conflict. He makes her both erotic and grotesque. He's hopelessly drawn to her, and yet she drives him crazy.
-AIDE-DE-CAMP: (checking his watch) Mr. Santaniello has an early flight. Do you think Mr. Benedict will be late?
+SELLER: She must have put him through You can see the conflict. He makes her both erotic and grotesque. He's hopelessly drawn to her, and yet she drives him Mr. Santaniello has an early flight. Do you think Mr. Benedict will be late?
+TESS: You can see the conflict. He makes her both erotic and grotesque. He's hopelessly drawn to her, and yet she drives him Mr. Santaniello has an early flight. Do you think Mr. Benedict will be late?
 TESS: Mr. Benedict is never late.
 BENEDICT: Am I late?
-TESS: Not at all, Mr. Benedict. (greeting him) Allow me to introduce to you Mr. Jean Santaniello.
-BENEDICT: (to Seller) Mr. Santaniello, I apologize if I kept you. I had to iron out a few issues with my fight promoter. I gave him an unlimited budget, and he exceeded it.
+TESS: Not at all, Mr. Benedict. Allow me to introduce to you Mr. Jean Santaniello.
+BENEDICT: ( to Seller ) Mr. Santaniello, I apologize if I kept you. I had to iron out a few issues with my fight promoter. I gave him an unlimited budget, and he exceeded it.
 SELLER: I understand it's going to be a hell of a fight.
 BENEDICT: We hope.
 TESS: Here it is.
-BENEDICT: Magnificent! I've been following her for fifteen years now. At last I've made her a home. (to Tess) All the arrangements and so forth...
-SELLER: Done.   She's yours.
+BENEDICT: Magnificent! I've been following her for fifteen years now. At last I've made her a home. All the arrangements and so Done. She's yours.
+SELLER: Done. She's yours.
 BENEDICT: Not mine. She belongs to everyone who comes into my hotel. Isn't that right, Ms. Ocean?
 TESS: Yes, Mr. Benedict.
-BENEDICT: She's lovely, isn't she? (as the Seller is confused; Benedict specifies painting) I can't be the only one who was after her.
-SELLER: You're the only one who met my price.
-BENEDICT: Ah, but this... You can't put a price on beauty. But I shouldn't philosophize. I own casinos, after all.
-AIDE-DE-CAMP: Can we get a quick shot? Mr. Santaniello has a plane to catch.
-BENEDICT: Of course, of course.
+BENEDICT: She's lovely, isn't she? I can't be the only one who was after her.
+SELLER: You're the only one who met my Ah, but this. You can't put a price on beauty. But I shouldn't philosophize. I own casinos, after all.
+BENEDICT: Ah, but this. You can't put a price on beauty. But I shouldn't philosophize. I own casinos, after all.
+BENEDICT: Of course, of course. You like it?
 TESS: You like it?
-BENEDICT: I like that you like it. (beat) I have some bad news from the world of high fashion. It seems Mike Tyson will be wearing red on Saturday night. Red trunks with a white stripe.
-TESS: Oh?
-BENEDICT: And you, as I recall, will be wearing a red Donna Karan? And when the TV cameras pick us up in the front row, that red dress...
+BENEDICT: I like that you like it. I have some bad news from the world of high fashion. It seems Mike Tyson will be wearing red on Saturday night. Red trunks with a white stripe.
+TESS: ( CONTINUED )
+BENEDICT: And you, as I recall, will be wearing a red Donna Karan? And when the TV cameras pick us up in the front row, that red dress.
 TESS: I see.
 BENEDICT: He's a charming man, but no one's going to be watching him when they can make a study of you. I've asked Paolo to find three or four things for you to try. I hope you're not too disappointed.
 BENEDICT: Are you sure?
 BENEDICT: I'll see you tonight.
-TESS: What?    We're alone.
+TESS: What? We're alone.
 BENEDICT: In my hotels, there's always someone watching.
 TESS: I'll see you tonight.
 BENEDICT: Actually, I do like it.
-HIGH ROLLER #1: Weak stomach, Mr. Zerga?
 SAUL: I don't believe in weakness. It costs too much. I don't believe in questions, either.
-BENEDICT: Eddie.    Anything for me?
+BENEDICT: Eddie. Anything for me?
 PIT BOSS: Mr. Zerga, sir. Lyman Zerga. In the third position. Wishes to speak with you privately.
 BENEDICT: Who is he?
 PIT BOSS: Businessman of some kind, working mostly in Europe. He's very vague, but I asked around. Word is he deals primarily in arms. One of the biggest.
-BENEDICT: Zerga?    Never heard of him.
-PIT BOSS: Yessir.    That's why I don't doubt it.
+BENEDICT: Zerga? Never heard of him.
+PIT BOSS: Yessir. That's why I don't doubt He's staying here?
 BENEDICT: He's staying here?
 PIT BOSS: Checked in two nights ago, sir. He's in the Mirador suite.
 BENEDICT: How's he doing?
-PIT BOSS: Up.   Almost forty grand.
-BENEDICT: (knowing he can't duck this) Good for him...
-TESS: (without looking at him) You're thirty seconds late. I was about to send out a search party... (recognizing the hands, she turns, stunned) Danny...
-DANNY: (standing over her, grinning) Hello, Tess.
-TESS: (thrilled and petrified and stunned to see him, but outraged mostly) What are you doing here?
+PIT BOSS: Up. Almost forty grand.
+BENEDICT: ( knowing he can't Good for him.
+TESS: ( without looking You're thirty seconds late. I was about to send out a search ( recognizing the hands, ( standing over her, Hello, Tess.
+DANNY: ( standing over her, Hello, Tess.
+TESS: ( thrilled and petrified What are you doing here?
 DANNY: I'm out.
 TESS: You're out.
 DANNY: Of prison. You remember. The day I went for cigarettes and never came back. You must have noticed.
-TESS: I don't smoke. (as he sits) Don't sit --
-DANNY: (but he does) They said I'd paid my debt to society.
+TESS: I don't smoke. Don't sit
+DANNY: ( but he does ) They said I'd paid my debt to Funny, I never got a check.
 TESS: Funny, I never got a check.
 DANNY: You're not wearing your ring.
-TESS: I sold it. And I don't have a husband. Or didn't you get the papers?
+TESS: I sold it. And I don't have a husband. Or didn't you get the My last day inside.
 DANNY: My last day inside.
 TESS: I told you I'd write.
-TESS: Danny.   Go.   Now. Before...
-DANNY: Benedict?
-DANNY: (his fingers two inches apart) Whiskey and -- (then one inch apart) -- whiskey.
-TESS: Danny...
+TESS: Danny. Go. Now. Before.
+DANNY: She freezes: Danny knows. He smiles: it's okay. Then, to a passing waiter:
+DANNY: ( his fingers two Whiskey and ( then one inch You're doing a great job curating the museum.
+TESS: You're doing a great job curating the museum.
 DANNY: You're doing a great job curating the museum.
-DANNY: The Vermeer is quite good. Simple but vibrant. Although his work definitely fell off as he got older.
+DANNY: The Vermeer is quite good. Simple but vibrant. Although his work definitely fell off as he got Remind you of anyone?
 TESS: Remind you of anyone?
-DANNY: And I still get Monet and Manet confused. Which one married his mistress?
-TESS: Monet.
-DANNY: Right.   Manet had syphilis.
+DANNY: And I still get Monet and Manet confused. Which one married his Right. Manet had syphilis.
+TESS: Right. Manet had syphilis.
+DANNY: Right. Manet had syphilis.
 TESS: They also painted occasionally.
 DANNY: You don't know how many times I played this conversation out in my head the last two years.
 TESS: Did it always go this poorly?
-DANNY: Yes.
+DANNY: Sounds frustrating.
 TESS: Sounds frustrating.
-DANNY: You were never easy. (as she shrugs) Okay. I'll make this quick. I came here for you. I'm gonna get on with my life, and I want you with me.
+DANNY: You were never easy. Okay. I'll make this quick. I came here for you. I'm gonna get on with my life, and I want you with me.
 TESS: You're a thief and a liar.
 DANNY: I only lied about being a thief. But I don't do that anymore.
-TESS: Steal?
-DANNY: Lie.
-TESS: I'm with someone now who doesn't have to make that kind of distinction.
+TESS: I'm with someone now who doesn't have to make that kind of
+DANNY: I'm with someone now who doesn't have to make that kind of
+TESS: I'm with someone now who doesn't have to make that kind of
 DANNY: No, he's very clear on both.
-TESS: Nice.   Work on that for two years, too?
+TESS: Nice. Work on that for two years, too?
 DANNY: Year and a half.
 TESS: Do you know what your problem is?
 DANNY: I only have one?
-TESS: You've met too many people like you. (then) I'm with Terry now.
+TESS: You've met too many people like you. I'm with Terry now.
 DANNY: Does he make you laugh?
 TESS: He doesn't make me cry.
-HIGH ROLLER: (to Saul, noticing his heavy bet) You don't want to get in the hole too heavy to this Benedict. A friend of mine once borrowed a hundred g's from the guy. Two months went by, Benedict hadn't heard from him, he calls my friend up, asks 'Where's my money?' I'll get to it when I get to it,' my friend says. Half hour later Benedict's in my friend's hotel room, dangling him off his 10th floor balcony by his feet. 'You gonna get to it now?'
-FRANK: Bank wins -- natural nine.
+HIGH ROLLER: ( to Saul, noticing his You don't want to get in the hole too heavy to this Benedict. A friend of mine once borrowed a hundred g's from the guy. Two months went by, Benedict hadn't heard from him, he calls my friend up, asks 'Where's my money?' I'll get to it when I get to it,' my friend says. Half hour later Benedict's in my friend's hotel room, dangling him off his 10th floor balcony by his feet. 'You gonna get to it now?'
+FRANK: Bank wins natural nine.
 HIGH ROLLER: Hiya, Terry.
-BENEDICT: Mr. Weintraub.     How's everything?
+BENEDICT: Mr. Weintraub. How's everything?
 HIGH ROLLER: Eh. They put too much grenadine in my Shirley Temple.
-BENEDICT: And here I thought you were drinking vodka. (turning attention to Saul) Mr. Zerga.
+BENEDICT: And here I thought you were drinking vodka. Mr. Zerga.
 SAUL: Mr. Benedict. I recognize you from the TV. You know, nine casinos out of ten, owner comes up in the middle of the hand to ask me what I want. I respect your waiting.
 BENEDICT: You're the guest, sir.
-SAUL: And I have to impose on your hospitality. Can you sit in for a hand?
+SAUL: And I have to impose on your hospitality. Can you sit in for a I'd love to, Mr. Zerga, but the gaming board would feed me to my white tigers.
 BENEDICT: I'd love to, Mr. Zerga, but the gaming board would feed me to my white tigers.
 SAUL: That's a shame. You're the king of Vegas and you have to play craps in the alley.
-BENEDICT: No shame at all. Reminds me of my youth.
+BENEDICT: No shame at all. Reminds me of my
 SAUL: The fight is Saturday, is it not?
-BENEDICT: Yes.   I can get you seats...
+BENEDICT: Yes. I can get you seats.
 SAUL: No, no. Hand-to-hand combat doesn't interest me. I have a package arriving here Saturday evening. A black briefcase, standard size, the contents of which are very valuable to me.
 BENEDICT: I'd be happy to put it in the house safe for you.
 SAUL: The house safe is for brandy and grandmother's pearls. I'm afraid I need something more secure.
-BENEDICT: I can assure you, the house safe is utterly...
-SAUL: (his looks stops Benedict) I can assure you, Mr. Benedict, your generosity in this matter will not go overlooked. Now: what can you offer me besides the safe?
+BENEDICT: I can assure you, the house safe is utterly.
+SAUL: ( his looks stops I can assure you, Mr. Benedict, your generosity in this matter will not go overlooked. Now: what can you offer me besides the
 TESS: See, the kind of people you steal things from, they have insurance to compensate them. They get made whole again. I had to leave New York to get away from what happened. How do I get my five years back, Danny?
 DANNY: You can't. But what you can do is not throw away another five years.
-TESS: You don't know anything about --
-DANNY: (leaning in) Listen, you don't love me anymore, you want to make a life with someone else? Fine, I'll have to live with that. But not him.
+TESS: You don't know anything about
+DANNY: ( leaning in ) Listen, you don't love me anymore, you want to make a life with someone else? Fine, I'll have to live with that. But not him.
 TESS: Spoken like a true ex-husband.
 DANNY: I'm not joking, Tess.
-TESS: I'm not laughing. (beat) You have to admit there's a conflict of interest when you give me advice about my love life.
-DANNY: Yes. But that doesn't mean I'm wrong.
+TESS: I'm not laughing. You have to admit there's a conflict of interest when you give me advice about my love life.
+DANNY: Yes. But that doesn't mean I'm
 TESS: Do you remember what I said to you when we first met?
 DANNY: You said: you better know what you're doing.
-TESS: Do you? Now? Because -- truly -- you should walk out the door if you don't.
+TESS: Do you? Now? Because truly you should walk out the door if you don't.
 DANNY: I know what I'm doing.
 BENEDICT: What are you doing?
 DANNY: Catching up.
-TESS: Terry, meet my ex-husband...
-DANNY: (extending his hand) Danny Ocean.
-BENEDICT: (taking it) Mr. Ocean. (to Tess) Forgive me for being late. A guest required my attention.
+TESS: Terry, meet my ex-husband.
+DANNY: ( extending his hand ) Danny Ocean.
+BENEDICT: ( taking it ) Mr. Ocean. ( to Tess ) Forgive me for being late. A guest required my attention.
 TESS: Danny was just walking through the restaurant and spotted me.
 BENEDICT: Is that right?
-DANNY: I was shocked myself.   Imagine the odds.
-BENEDICT: 'Of all the gin joints in all the world...' (beat) You've been in prison until recently, isn't that right? How does it feel to be out?
+DANNY: I was shocked myself. Imagine the odds.
+BENEDICT: 'Of all the gin joints in all the You've been in prison until recently, isn't that right? How does it feel to be out?
 DANNY: About the same. Everything you want is still on the other side.
-BENEDICT: There's the human condition for you.
-TESS: Terry, Danny was just about to...
-DANNY: I just wanted to say hello.   For old time's sake.
+BENEDICT: There's the human condition for Terry, Danny was just about to.
+TESS: Terry, Danny was just about to.
+DANNY: I just wanted to say hello. For old time's sake.
 BENEDICT: Stay for a drink, if you like.
-TESS: He can't --
-DANNY: (simultaneously) -- I can't.
+TESS: He can't
+DANNY: ( simultaneously ) I can't.
 BENEDICT: Well, then I don't imagine we'll be seeing you again, Mr. Ocean.
 DANNY: You never know.
 BENEDICT: I know everything that happens in my hotels.
 DANNY: So I should put those towels back.
 BENEDICT: The towels you can keep.
-DANNY: (smiles, rises) Good seeing you, Tess.
+DANNY: ( smiles, rises ) Good seeing you, Tess.
 TESS: Take care, Danny.
-TESS: I'm sorry --
-BENEDICT: (like lightning) Don't be.
-MAID (O.S.): House cleaning.
-BASHER: (eyes never leave his work) Just jumping into the shower, can you come back later?
-REPORTER (V.O.): We're here at the historic Paradiso Hotel and Casino, once the prize resort of Las Vegas, now seconds away from demolition...
-REPORTER: ... and here's Reuben Tishkoff, former owner of the Paradiso, come to bid farewell to his fabled resort and wish Terry Benedict all the best with his future plans for the property...
+TESS: I'm sorry
+BENEDICT: ( like lightning ) Don't be.
+BASHER: ( eyes never leave Just jumping into the shower, can you come back later?
+REPORTER: . and here's Reuben Tishkoff, former owner of the Paradiso, come to bid farewell to his fabled resort and wish Terry Benedict all the best with his future plans for the property.
 BENEDICT: Good to see you.
 REUBEN: Go shit in your mouth.
 BENEDICT: I hope there's as much dynamite in the Paradiso as there will be in this Saturday's fight.
-REUBEN: G'bye, honey...
-BASHER: Shit.
-RUSTY (V.O.): Saturday day is yours. Do whatever you like with it.
+REUBEN: G'bye, honey.
+BASHER: As he scrambles out the door, making sure to post a "Do Not Disturb" sign.
 RUSTY: Call is at five-thirty. Makeup and costume. Saul's package arrives at seven-fifteen, and Linus grabs our codes. All goes well there and we're a go. Seven- thirty Virgil and Turk deliver Yen and we're committed. From that point, we have thirty minutes to blow the power or he suffocates.
-RUSTY (V.O.): Once the electricity goes, all entry points to the vault and its elevator will automatically lock down for two minutes. That's when we make our move...
 RUSTY: Okay: they've put you in the middle of the room, far from everything. You have to get from here to the door without touching the floor. What do you do?
 FRANK: Fin says he shorts it.
 LIVINGSTON: Make it a sawbuck.
-BASHER: (and he's not happy) We're in deep shit.
-BASHER: The damn demo crew didn't use a coaxial lynch to back the mainline! Onioned the mainframe couplet!
+BASHER: ( and he's not happy ) We're in deep shit.
+BASHER: The damn demo crew didn't use a coaxial lynch to back the mainline! Onioned the mainframe
 REUBEN: You understand any of this?
 LIVINGSTON: I'll explain later.
 BASHER: Blew the backup grid one by one! Like dominoes!
-DANNY: (as he hardly understands this either) Basher. What happened?
-BASHER (V.O.): They did exactly what I planned to do. Only they did it by accident. Now they know their weakness. And they're fixing it.
-DANNY: So...
+DANNY: ( as he hardly Basher. What happened?
+DANNY: So unless we decide to do this job in Reno, we're screwed.
 BASHER: So unless we decide to do this job in Reno, we're screwed.
-RUSTY: We could --
+RUSTY: We could
 DANNY: By tomorrow?
-BASHER: (an idea occurs to him) We could use a pinch.
-DANNY: What -- is a pinch?
-BASHER (V.O.): A pinch is the equivalent of a cardiac arrest for any broad-band electrical circuitry. Or better yet: A pinch is a bomb... but without the bomb. Every time a nuclear weapon detonates, it unleashes an electromagnetic pulse which shuts down any power source within its vicinity. That tends not to matter in most cases because the nuclear weapon destroys everything you might need power for anyway. Now a pinch creates a similar electromagnetic pulse, but without the headache of mass destruction and death. So instead of Hiroshima, you get the Seventeenth Century.
+BASHER: ( an idea occurs We could use a pinch.
+DANNY: What is a pinch?
 RUSTY: For how long?
 BASHER: About ten seconds.
-DANNY: Could a pinch take out the power of an entire city? Like, I don't...
-BASHER: Las Vegas? (beat) But there's only one pinch in the world big enough to handle it.
-DANNY: Where?
-BASHER: (a beat, then balefully) Pasadena.
-DANNY: (to Basher and Yen) You two ready?
+DANNY: Could a pinch take out the power of an entire city? Like, I Las Vegas? But there's only one pinch in the world big enough to handle it.
+BASHER: Las Vegas? But there's only one pinch in the world big enough to handle it.
+DANNY: ( a beat, then balefully )
+BASHER: ( a beat, then balefully )
+DANNY: ( to Basher and Yen ) You two ready?
 DANNY: What are you doing?
 LINUS: Coming with you.
-LINUS: (furious) But...
+LINUS: ( furious )
 VIRGIL: Are you a man?
-TURK: Yes.    Nineteen.
+TURK: Yes. Nineteen.
 VIRGIL: Are you alive?
-TURK: Yes.    Eighteen.
+TURK: Yes. Eighteen.
 VIRGIL: Evel Knievel.
-TURK: Shit!   Okay, your turn...
+TURK: Shit! Okay, your turn.
 VIRGIL: Co-sign squared over .0455.
-TURK: No.    Co-sign squared over .0415.
-VIRGIL: .04-five-five.
-TURK: One-five.
+TURK: No. Co-sign squared over .0415.
 VIRGIL: You're so wrong.
-TURK: You don't know your string theory, bitch.
+TURK: You're so wrong.
+VIRGIL: You're so wrong.
+TURK: You don't know your string theory,
 VIRGIL: Mom told me she loves me more.
 TURK: She told me she was going to tell you that.
-TURK (O.S.): Stop it.
-VIRGIL (O.S.): Make me.
-TURK (O.S.): Stop it.
-VIRGIL (O.S.): Make me.
-DANNY: We got it.   Let's go.
+ON LINUS: TURK ( O.S. )
+DANNY: We got it. Let's go.
 DANNY: Wait a minute.
 DANNY: Where's Linus?
 DANNY: There he is.
-VIRGIL (O.S.): One of us should help him.
-BASHER: (who speaks Danny's mind) Then there'll be two of us who need saving.
+DANNY'S POV: of the lab, and its beveled-glass stairwell. Linus scrambles up its steps, a flight ahead of a duo of chasing guards. As he ascends out of sight. Danny shifts his focus to -
+DANNY'S POV: The other side of the building, and two more guards arriving on the roof and moving toward the staircase: Linus will be trapped.
+BASHER: ( who speaks Danny's mind ) Then there'll be two of us who need saving.
 DANNY: He knows where we are.
-TURK (O.S.): Where'd he go?
-TURK: (off Danny's look) What? (then, realizing their goof, to his brother, remonstratively) Would you -- shouldn't someone be behind the wheel?
+DANNY'S POV: Both sets of guards appear on the rooftop, and find no Linus between them he's disappeared.
+TURK: ( off Danny's look ) ( then, realizing their goof, to his brother, remonstratively ) Would you shouldn't someone be behind the wheel?
+CRASH!: 127 OMITTED 127 & & 128 128 129 EXT. LABORATORY - NIGHT 129
 DANNY: Alright, back it up, back it up!
-DANNY: (appearing from the rear doors) C'mon, c'mon...
-YEN: Ahhh!
+DANNY: ( appearing from C'mon, c'mon.
+YEN: 131 INT. WHITE VAN 131
 DANNY: I say stay in the van, you stay in the van, got it? 'Cause you lose focus for one second in this game, and someone gets hurt.
-LINUS: (he's had just about enough of Danny's shit) I got it.
-JIM LAMPLEY (V.O.): It's fight night in Las Vegas...
-JIM LAMPLEY (V.O.): ...   people are flooding in from all   over the country to see what has   been dubbed the 'Fight to End All   Fights'...
-JIM LAMPLEY: ... and even though it's still five hours 'til the opening bell, the energy here is fever-pitched.
+LINUS: ( he's had just I got it.
+JIM LAMPLEY: . and even though it's still five hours 'til the opening bell, the energy here is fever-pitched.
 MANAGER: How we doing?
-WATCHER (V.O.): (over Livingston's headset) Cotton couldn't be taller.
 TISHKOFF: Where are they? That's what I want to know. Where are they?
-SAUL: (as Lyman) They'll be here.
-TISHKOFF: (to himself, mocking "Lyman") 'They'll be here.' Thanks a lot, Fidel.
-LIVINGSTON: Yikes.
+SAUL: ( as Lyman ) They'll be here.
+TISHKOFF: ( to himself, mocking 'They'll be here.' Thanks a lot,
+LIVINGSTON: 139 INT. BELLAGIO CASINO - LOBBY - DAY 139
 RUSTY: You boys have a nice trip?
 LIVINGSTON: We have a problem.
-LIVINGSTON: You've been red-flagged. It means the moment you step on the casino floor, they'll be watching you. Like hawks. Hawks with video cameras.
+LIVINGSTON: You've been red-flagged. It means the moment you step on the casino floor, they'll be watching you. Like hawks. Hawks with video This is a problem.
 DANNY: This is a problem.
-RUSTY: Saul:   time to get out.
-SAUL (O.S.): (as Lyman) It's time when I say it is.
-RUSTY: Now!
-SAUL (O.S.): (himself again) I'm out.
-RUSTY: (back to Danny) You have any idea how this happened?
-LINUS: I do. He's been chasing Benedict's woman. Got into a real snarl with him two nights ago. (off Danny's look) I was tailing you.
+RUSTY: Saul: time to get out.
+RUSTY: We hear HIM JUMP-TO-IT out of the tub.
+RUSTY: ( back to Danny ) You have any idea how this
+LINUS: I do. He's been chasing Benedict's woman. Got into a real snarl with him two nights ago. I was tailing you.
 DANNY: Who told you to do that?
-RUSTY: I did. (he and Danny hold a stare) I knew you couldn't leave Tess alone.
+RUSTY: I did. I knew you couldn't leave Tess Who's Tess?
 TISHKOFF: Who's Tess?
 DANNY: My wife.
-RUSTY: Ex-wife.
-SAUL: (appearing in a bathrobe) Tess is here?
-RUSTY: (eyes still on Danny) I'm sorry. I didn't know if it would sting you, but it did. (the most difficult words he's ever had to say) You're out, Danny.
+RUSTY: ( appearing in a Tess is here?
+SAUL: ( appearing in a Tess is here?
+RUSTY: ( eyes still on I'm sorry. I didn't know if it would sting you, but it did. ( the most difficult You're out, Danny.
 TISHKOFF: He's out?!
 RUSTY: It's that or we shut down right now. His involvement puts us all at risk.
 DANNY: This isn't your call.
 RUSTY: You made it my call. When you put her ahead of us. You made it mine.
 DANNY: This is my job.
-RUSTY: Not anymore.
-TISHKOFF: But, but... he can't just be out. Who's gonna take his place?
-RUSTY: Kid, you up for it?
-RUSTY: (to Livingston) Find everyone else. Let 'em know the change in plan. Curtain goes up at seven.
-SAUL: Tess is with Benedict now? (as nobody responds) She's too tall for him.
-BENEDICT: (on phone) Yes. Yes. No. Very much no. (beat) Then inform Mr. Levin he'll find a better view of the fight in front of his television. Surely he must have H.B.O.
+RUSTY: Not anymore. But, but. he can't just be out. Who's gonna take his place?
+TISHKOFF: But, but. he can't just be out. Who's gonna take his place?
+RUSTY: Kid, you up for it? Find everyone else. Let 'em know the change in plan. Curtain goes up at seven.
+RUSTY: ( to Livingston ) Find everyone else. Let 'em know the change in plan. Curtain goes up at seven.
+SAUL: Tess is with Benedict now? She's too tall for him.
+BENEDICT: ( on phone ) Yes. Yes. No. Very much no. ( beat ) Then inform Mr. Levin he'll find a better view of the fight in front of his television. Surely he must have H.B.O.
 BENEDICT: What are you thinking about?
-TESS: You.
+TESS: She smiles at him in the mirror. His glance in it, turns from her to himself.
 BENEDICT: Any sign of Ocean?
-MANAGER (WALSH): Not   in a couple hours. You want him   out? I can bounce him from the   state for parole violation if you   like.
-BENEDICT: (shakes his head) Put a guy on him. He's here for a reason. I'd like to know what it is. But if he comes anywhere near Tess, take it to the next level.
-MANAGER: Bruiser?
+BENEDICT: ( shakes his head ) Put a guy on him. He's here for a reason. I'd like to know what it is. But if he comes anywhere near Tess, take it to the next level.
+MANAGER: Benedict nods, goes on his way.
 SAUL: Mr. Benedict.
 BENEDICT: Mr. Zerga. It's a very busy night for me. Are we on schedule?
 SAUL: I have no reason to suspect otherwise. My couriers should be here momentarily.
 BENEDICT: It's a nice evening. Shall we wait outside?
-TURK (V.O.): They're in position.
-LIVINGSTON (V.O.): (over STATIC) Okay.   We're a go.
-TURK: Mr. Zerga.   A gift from Mr. Hesse.
+TURK: Mr. Zerga. A gift from Mr. Hesse.
 SAUL: Thank you, Friedrich, Gunther.
-FRANK: (as he busts) Lookin' like a bad night for the house.
+FRANK: ( as he busts ) Lookin' like a bad night for the Find Mr. Walsh. Tell him Mr. Ocean's in the west slots.
 BENEDICT: Find Mr. Walsh. Tell him Mr. Ocean's in the west slots.
-BENEDICT: I'm afraid I can't allow my private security personnel inside the casino cages. I hope you don't mind...
+BENEDICT: I'm afraid I can't allow my private security personnel inside the casino cages. I hope you don't mind.
 SAUL: Of course not.
-RACETRACK DENIZEN: Saul?   Saul Bloom, is that you?
+RACETRACK DENIZEN: Saul? Saul Bloom, is that you?
 RACETRACK DENIZEN: Saul, it's me. Bucky Buchanan, remember? From Saratoga.
 SAUL: Friedrich, Gunther.
-SAUL: Mr. Benedict... (gesturing to the cage; re: his briefcase-cuff) Please: I have never enjoyed the touch of steel to my skin.
+SAUL: Mr. Benedict. Please: I have never enjoyed the touch of steel to my skin.
 DANNY: Pops, you won.
 RUSTY: Where you gonna put your hands?
-RUSTY: No...
-RUSTY: Not the pockets, either. And don't touch your tie. Look at me...
+RUSTY: Linus goes for his pockets.
+RUSTY: Not the pockets, either. And don't touch your tie. Look at
 RUSTY: That how you gonna stand?
 RUSTY: Wrong again. I ask you a question, you have to think of the answer, where you gonna look?
-RUSTY: Death. You look down, they know you're lying --
-RUSTY: -- and up they know you don't know the truth. Don't use three words when one will do, don't shift your eyes, look always at your mark but don't stare, be specific but not memorable, funny but don't make him laugh, he's gotta like you then forget you the moment you've left his sight, and for God's sakes whatever you do, don't under any circumstances --
-LIVINGSTON (O.S.): Rust, can you come here a sec?
-RUSTY: (wandering off) Sure thing.
-BENEDICT: They're very beautiful.   A gift.
+RUSTY: Death. You look down, they know you're lying
+RUSTY: and up they know you don't know the truth. Don't use three words when one will do, don't shift your eyes, look always at your mark but don't stare, be specific but not memorable, funny but don't make him laugh, he's gotta like you then forget you the moment you've left his sight, and for God's sakes whatever you do, don't under any circumstances
+RUSTY: ( wandering off ) Sure thing.
+BENEDICT: They're very beautiful. A gift.
 BENEDICT: Can you lift them out, please?
-BENEDICT: Alright, Mr. Zerga. I acknowledge that the case does not contain any dangerous or illicit material. I further agree to take custody of your case for a twenty-four hour period to store in our secured vault. While I cannot permit you to accompany the case to the vault...
+BENEDICT: Alright, Mr. Zerga. I acknowledge that the case does not contain any dangerous or illicit material. I further agree to take custody of your case for a twenty-four hour period to store in our secured vault. While I cannot permit you to accompany the case to the Why not?
 SAUL: Why not?
 BENEDICT: Insurance, for one. Security, another. And I don't trust you.
-WALSH (MANAGER): I put two plainclothes on Ocean. He's at the keno bar now.
-BENEDICT: Mr. Zerga, this is Mr. Walsh, my casino manager. If you will allow, he will arrange for your briefcase to be stored inside our vault while you watch on a security monitor. (beat) Those are my terms. Yes or no?
+BENEDICT: Mr. Zerga, this is Mr. Walsh, my casino manager. If you will allow, he will arrange for your briefcase to be stored inside our vault while you watch on a security monitor. Those are my terms. Yes or no?
 SAUL: You leave me no choice.
-LIVINGSTON (V.O.): Deep breaths.     You'll do fine.
-LINUS: (breathes deep) Thanks.
-LIVINGSTON (V.O.): No sweat, kid. You're a rock. (as Linus smiles, feeling good about himself) Now don't fuck up.
-VOICE (O.S.): Room service.
+LINUS: ( breathes deep ) ( as Linus smiles, feeling good about himself )
 TURK: Who ordered the penne?
 RUSTY: You ready?
 WALSH: This is our security center, where we oversee all gaming in the casino as well as our vault. You'll be able to monitor your briefcase from here.
 SAUL: Don't let me keep you.
-BENEDICT: Mr. Zerga...
-RUSTY: Linus... you're up.
+BENEDICT: Mr. Zerga.
+RUSTY: Linus. you're up.
 LINUS: Deep breaths, deep breaths.
-LINUS: Mr. Benedict...
-BENEDICT: Yes?
-LINUS: (presents proper identification) Sheldon Wills. Nevada Gaming Commission. Could I have two minutes of your time?
-BENEDICT: Of course.   Anything for the
-RUSTY: Okay: when do you make the deposit?
+LINUS: Mr. Benedict.
+BENEDICT: ( presents proper Sheldon Wills. Nevada Gaming Commission. Could I have two minutes of your time?
+LINUS: ( presents proper Sheldon Wills. Nevada Gaming Commission. Could I have two minutes of your time?
+BENEDICT: Of course. Anything for the
+RUSTY: Okay: when do you make the
 TURK: Not until we get your signal.
-VIRGIL: Hey. What do we look like: a couple of peckerwood jackasses or something?
-RUSTY: (turning his attention to Yen, squeezed into the cart) Amazing: how's it feel? You alright? (as Yen nods) Want something to read? Magazine?
-RUSTY: Okay. I'm counting down.    Thirty minutes of breathing time starts... now.
+VIRGIL: Hey. What do we look like: a couple of peckerwood jackasses or
+RUSTY: ( turning his attention Amazing: how's it feel? You ( as Yen nods ) Want something to read? Magazine?
+RUSTY: Okay. I'm counting down. Thirty minutes of breathing time starts. now.
 LIVINGSTON: You get no tip.
-LINUS: It only came to our attention this morning, Mr. Benedict. Apparently he has a record longer than my arm.
-BENEDICT: If he is who you say he is. (hailing a PIT BOSS) Charlie. Call over Ramon Escalante.
+LINUS: It only came to our attention this morning, Mr. Benedict. Apparently he has a record longer than my
+BENEDICT: If he is who you say he is. Charlie. Call over Ramon Certainly, Mr. Benedict.
 PIT BOSS: Certainly, Mr. Benedict.
 RUSTY: Did you make it out?
-LIVINGSTON: His head blocked the last two numbers. (into his microphone) We missed it, Linus. You gotta grab the combination yourself.
+LIVINGSTON: His head blocked the last two We missed it, Linus. You gotta grab the combination yourself.
 BENEDICT: You new at the commission?
 LINUS: Been there about two years.
 BENEDICT: I know Hal Lindley over there. You work with him at all?
-LINUS: (a pause; will he pass?) Not since he died last year.
+LINUS: ( a pause; will he Not since he died last year.
 BENEDICT: Mr. Escalante. Would you come with us, please?
 FRANK: What's this about?
 BENEDICT: I think it's better if we talked off the floor.
 MAITRE D': Good evening, Mr. Tishkoff.
 TISHKOFF: Good evening, Marcel. My nieces and I would like a table. Something quiet before the fight.
 MAITRE D': I can put you at 19 in just a couple minutes.
-TISHKOFF: Quick as you can. (re: the girls) The meter's running here.
-MAITRE D': Good evening, Miss Ocean.    Right this way...
-VOICE (O.S.): Hey...
-DANNY: Try to keep your tongue in your mouth.
-TISHKOFF: (shocked to see Danny; thinks he's off the job, but covering) Yeah, pal, well only if you take your thumb out of your...
-TISHKOFF: (outraged) Hey: you have any idea who I think I am?
-TESS: Danny:    No.
+TISHKOFF: Quick as you can. The meter's running here.
+MAITRE D': Good evening, Miss Ocean. Right this way.
+DANNY: Try to keep your tongue in your Yeah, pal, well only if you take your thumb out of your.
+TISHKOFF: ( shocked to see Danny; Yeah, pal, well only if you take your thumb out of your.
+TISHKOFF: ( outraged ) Hey: you have any idea who I think I am?
+TESS: Danny: No.
 DANNY: I'll just be a moment.
-TESS: I'm having you thrown out of here.
+TESS: I'm having you thrown out of
 TESS: You're up to something, Danny. What? And don't say you came here for me. You're pulling a job, aren't you?
-DANNY: Tess...
+DANNY: Well, know this: no matter what it is, you won't win me back. I can't afford it.
 TESS: Well, know this: no matter what it is, you won't win me back. I can't afford it.
 DANNY: I just came to say good-bye.
-TESS: Oh... then... good-bye.
-DANNY: Good-bye.
+TESS: Oh. then. good-bye.
+DANNY: Danny starts for her cheek, stops to see if it's alright with her she, sad-eyed, does not recoil and then gently kisses it.
 DANNY: Be good.
-TESS: (already missing him) Good-bye, Danny.
-PLAINCLOTHES GOON #1: Mr. Ocean. Mr. Benedict would like to see you.
-DANNY: (resignedly, these men are much too big to tangle with) I thought he might.
-LINUS: Thank you for your cooperation, Mr. Escalante. (as Frank nods, not at all) Or should I call you Mr. Catton?
-LINUS: You are Frank Catton? Formerly of the Tropicana, the Desert Inn and the New York State penitentiary system?
-LINUS (CONT'D): (as Frank remains quiet) Your silence suggests you don't refute that. (to Benedict) Mr. Benedict, I'm afraid you've been employing an ex-convict. As you know, the N.G.C. strictly forbids...
-FRANK: (under his breath) Goddamn cracker...
-LINUS: (a pause; he can't believe he just heard that) Pardon me.
-FRANK: (leering at Linus, simmering) You heard me. Just 'cause a black man tries to earn a decent wage in this state...
-LINUS: That has nothing to do with...
-FRANK: (over him, ranting) ... some cracker cowboy like you's gotta kick him out on the street. Want me to jump down, turn around, pick a bale of cotton, won't let me deal cards, might as well call it whitejack.
-LINUS: (a beat, then) I resent your implication that race has anything to do with this. (to Benedict) Now, as I was saying, the Nevada Gaming Commission strictly forbids the employment of the colored... (whoops) ... I mean...
+TESS: ( already missing him ) Good-bye, Danny.
+DANNY: ( resignedly, these men I thought he might.
+LINUS: Thank you for your cooperation, Mr. Escalante. Or should I call you Mr. Catton?
+LINUS: You are Frank Catton? Formerly of the Tropicana, the Desert Inn and the New York State penitentiary Your silence suggests you don't refute that. Mr. Benedict, I'm afraid you've been employing an ex-convict. As you know, the N.G.C. strictly Goddamn cracker.
+FRANK: ( under his breath ) Goddamn cracker.
+LINUS: ( a pause; he can't Pardon me.
+FRANK: ( leering at Linus, You heard me. Just 'cause a black man tries to earn a decent wage in this state.
+LINUS: That has nothing to do with.
+FRANK: ( over him, ranting ) . some cracker cowboy like you's gotta kick him out on the street. Want me to jump down, turn around, pick a bale of cotton, won't let me deal cards, might as well call it whitejack.
+LINUS: ( a beat, then ) I resent your implication that race has anything to do with this. ( to Benedict ) Now, as I was saying, the Nevada Gaming Commission strictly forbids the employment of the colored. ( whoops ) . I mean.
 FRANK: Okay, okay, I'm cool.
-BENEDICT: (to Linus) You alright?
-LINUS: (a beat, then) Yeah.
-RUSTY: (hearing this) He's got it. (into his mike) Virgil, Turk: deliver your package.
-VIRGIL: Aw, I think... Jesus.    I lost my card.
+BENEDICT: ( to Linus ) You alright?
+LINUS: ( a beat, then ) ( hearing this ) He's got it. ( into his mike ) Virgil, Turk: deliver your
+RUSTY: ( hearing this ) He's got it. ( into his mike ) Virgil, Turk: deliver your
+VIRGIL: Aw, I think. Jesus. I lost my
 SECURITY OFFICER: What's going on here?
-VIRGIL: I think... Jesus! I lost my keycard.
-SECURITY OFFICER: (and this, he knows, will get this guard fired) Okay.   Leave the cart. Go find it. (to one of the sentries) Take this cart inside.
+VIRGIL: I think. Jesus! I lost my Okay. Leave the cart. Go find Take this cart inside.
+SECURITY OFFICER: ( and this, he knows, will Okay. Leave the cart. Go find ( to one of the sentries ) Take this cart inside.
 WALSH: There it is now.
-SAUL: (beginning to sweat this a bit, nerves overtaking him) Wonderful.
-RUSTY: That's my cue. (as he exits) Give Basher the go.
-LIVINGSTON: (into mike) Bash, what's your status?
-LIVINGSTON (V.O.): Bash!
-BASHER: (turning Bronte down) No need to yell.
-LIVINGSTON (V.O.): What's your status?
+SAUL: ( beginning to sweat
+ON MONITORS: The yen-filled cash cart joins Saul's briefcase on the elevator. PULL OUT to.
+RUSTY: That's my cue. Give Basher the go.
+LIVINGSTON: ( into mike ) Bash, what's your status?
+BASHER: ( turning Bronte down ) No need to yell.
 BASHER: I'm there.
-BENEDICT: Please show this man off the premises. (to Frank) Don't step foot in my casino again.
-FRANK: (as he's led away, over his shoulder, to Linus) Cracker.
-BENEDICT: Mr. Wills, if you don't mind... (as Linus forgets to respond) Mr. Wills?
+BENEDICT: Please show this man off the Don't step foot in my casino Mr. Wills, if you don't mind. Mr. Wills?
+FRANK: ( as he's led away, Mr. Wills, if you don't mind. ( as Linus forgets Mr. Wills?
+BENEDICT: Mr. Wills, if you don't mind. Mr. Wills?
 LINUS: Of course.
-LINUS: My beeper.   I'm sorry.   I forgot it.
+LINUS: My beeper. I'm sorry. I forgot
 BENEDICT: You know how to get back out?
-LINUS: Of course.   Enjoy the fight.
-BENEDICT: (shaking his hand, then hurrying away) Thank you.
+LINUS: Of course. Enjoy the fight.
+BENEDICT: ( shaking his hand, Thank you.
 FRANK: Thanks, fellas.
 DANNY: How much longer do you think Mr. Benedict will be?
 GOON #1: Just a few minutes more.
 DANNY: No cameras in this room, huh? Don't want anyone seeing what happens here?
-DANNY: He's not coming, is he?
+DANNY: He's not coming, is he? Who is?
 DANNY: Who is?
 DANNY: I guess Mr. Benedict didn't like me talking to his girl.
-GOON #1: We're gonna step outside now. Leave you two alone to talk things over.
+GOON #1: We're gonna step outside now. Leave you two alone to talk things
 DANNY: Jesus, Bruiser, not 'til later.
-BRUISER: Sorry, Danny.    I -- I forgot.
-DANNY: S'okay. (shaking it off) How's the wife?
+BRUISER: Sorry, Danny. I I forgot.
+DANNY: ( shaking it off ) How's the wife?
 BRUISER: Pregnant again.
 DANNY: Then we better get to work.
-LIVINGSTON: Oh shit...
+LIVINGSTON: Oh shit.
 WALSH: Does that satisfy you, Mr. Zerga?
 SAUL: Yes, I'm very satisfied.
-WALSH: (to Slim) Close it up.
+WALSH: ( to Slim ) Close it up.
 FAT: You alright, sir?
 LIVINGSTON: Almost there, kid.
 FAT: Who's that?
 LIVINGSTON: Going to video now.
-WALSH: (as Saul passes out) Call for a doctor.
+WALSH: ( as Saul passes out ) Call for a doctor.
 DANNY: You didn't really think I was gonna sit this one out, did you?
 LINUS: What, didn't you trust me?
 DANNY: I do now.
@@ -856,227 +784,192 @@ RING ANNOUNCER: Ladies and gentlemen!!
 RUSTY: Someone called for a doctor?
 LINUS: How'd you get here?
 DANNY: Crawlspace. And I had to give away a couple mil.
-LINUS: But what about -- I mean, that whole thing with Rusty...
+LINUS: But what about I mean, that whole thing with Rusty.
 DANNY: You think the kid bought it?
-RUSTY: Hell, I think Reuben bought it, and he knew we were screwing around. (beat) You sure about this?
-DANNY: (nods) Bobby Caldwell threw me into the pool first time. Least I could do is give his kid a push.
+RUSTY: Hell, I think Reuben bought it, and he knew we were screwing You sure about this?
+DANNY: ( nods ) Bobby Caldwell threw me into the pool first time. Least I could do is give his kid a push.
 LINUS: Why'd you make me go through all this? Why not just tell me?
-DANNY: Well, where's the fun in that? (starting toward elevator shaft ladder) C'mon: Yen's got about three minutes of air left.
+DANNY: Well, where's the fun in that? C'mon: Yen's got about three minutes of air left.
 RUSTY: He's gone.
-WALSH: You're too late, guys.   He's dead.
-VIRGIL: (to Turk) I told you to hurry.
+WALSH: You're too late, guys. He's dead. I told you to hurry.
+VIRGIL: ( to Turk ) I told you to hurry.
 DANNY: Who do you like tonight?
-LINUS: Huh?
+LINUS: Tyson or Lewis.
 DANNY: Tyson or Lewis.
-LINUS: The fight...? (as Danny nods) Lewis. (as Danny shoots him a look) You like Tyson? (as Danny nods) How strongly do you feel about it?
+LINUS: The fight.? You like Tyson? How strongly do you feel about it?
 DANNY: You looking for action?
-LINUS: (shrugs) I'd go in for a buck.
-DANNY: A buck it is.
-DANNY: (into his mike) Livingston, we're set.
-RUSTY: (into his mike) Livingston, we're set.
-LIVINGSTON: (hearing this, into his mike) Basher, we're set.
-BASHER: (fixing the pinch atop his van) Just give me a minute.
-LIVINGSTON (V.O.): We don't have a minute. Yen's gonna pass out in thirteen seconds.
+LINUS: ( shrugs ) I'd go in for a buck.
+DANNY: A buck it is. Livingston, we're set.
+DANNY: ( into his mike ) Livingston, we're set.
+RUSTY: ( into his mike ) Livingston, we're set.
+LIVINGSTON: ( hearing this, into Basher, we're set.
+BASHER: ( fixing the pinch atop Just give me a minute.
 BASHER: Then give me thirteen seconds.
 LINUS: You ever rappelled before?
-DANNY: Never.   You?
-LINUS: Nope.
-BASHER: (into his mike) Ready.
-LIVINGSTON (V.O.): (over earpiece) Then hit it.
-BASHER: ... One...
-BASHER (V.O.): ... two, three...
-BASHER (V.O.): ... four, five...
-DANNY: Now!
-BASHER (V.O.): ... six, seven.....
-BASHER: ... eight, nine...
-LINUS: Aaaaahhhhh!
-BASHER: ... ten...
-REF: ... One, two, three...
+DANNY: Never. You?
+LINUS: 198 EXT. BELLAGIO PARKING LOT - TOP LEVEL - 00:01 198
+BASHER: ( into his mike ) ( over earpiece ) Then hit it.
+BASHER: . One.
+FLAMINGO: Every pink light vanishes.
+BELLAGIO: The fountain goes flaccid.
+DANNY: And he and Linus lean forward and fall.
+BASHER: . eight, nine.
+LINUS: 204 EXT. BELLAGIO PARKING LOT - TOP LEVEL - NIGHT 204
+BASHER: . ten.
+REF: . One, two, three.
 BENEDICT: What the hell was that?
-BENEDICT: (to himself) The first goddamn round.
+BENEDICT: ( to himself ) The first goddamn round.
 BASHER: Viva Las Vegas.
 LINUS: You alright?
 DANNY: No, but you're sweet to ask.
 FRANK: Are they in?
-LIVINGSTON: One second. (a look at him) I thought you got kicked out?
-LIVINGSTON: This tape's from last night.   Same guards, same...
-LIVINGSTON: ... shift.
-UZI-CARRYING GUARD #1: (sniffing something) Jesus, Ron, was that you?
-DANNY: Not yet. (a beat; another beat; then) Okay.
+LIVINGSTON: One second. I thought you got kicked out?
+LIVINGSTON: This tape's from last night. Same guards, same.
+LIVINGSTON: This tape's from last night. Same guards, same.
+LIVINGSTON: . shift.
+DANNY: Not yet.
 LINUS: You think Yen made it out okay?
 DANNY: I'm sure he's fine.
-LINUS: (jaw dropping) Jesus...
-DANNY: There's a Chinese man with a hundred sixty million dollars behind that door. Let's get him out.
+LINUS: ( jaw dropping ) There's a Chinese man with a hundred sixty million dollars behind that door. Let's get him
+DANNY: There's a Chinese man with a hundred sixty million dollars behind that door. Let's get him
 FRANK: Fin says he shorts it.
 LIVINGSTON: No bet.
-LIVINGSTON: (wishing he had bet) Shit.
-DANNY: Okay.
+LIVINGSTON: ( wishing he had bet ) That's it?
+DANNY: 222 INT. MIRADOR SUITE - NIGHT 222
 FRANK: That's it?
-LIVINGSTON: There's still the five pins and the floor sensor. Not much we can do about that from this side of the door. But from this side...
-BASHER: ... a little bit of Semtex should do the trick.
-DANNY: Counting down from twenty -- (checking watch) -- now.
-DANNY: -- seventeen, sixteen, fifteen --
-DANNY: -- eleven, ten, nine --
-LIVINGSTON: (into his mike) Linus, can you read me? Linus, do not blow the door, you're about to kill Yen.
-LINUS: -- five, four, three --
-DANNY: -- one --
+LIVINGSTON: There's still the five pins and the floor sensor. Not much we can do about that from this side of the door. But from this side.
+BASHER: . a little bit of Semtex should do the trick.
+DANNY: Counting down from twenty
+DANNY: seventeen, sixteen, fifteen
+DANNY: eleven, ten, nine
+LIVINGSTON: ( into his mike ) Linus, can you read me? Linus, do not blow the door, you're about to kill Yen.
+LINUS: five, four, three
+DANNY: He presses his detonator. J224 INT. VAULT J224 Yen, still on the door, remains frozen. Trembling. A beat. Then, he starts to creep back, leaping onto a money shelf, then another, as far from the explosives as he can get.
 LINUS: What's wrong?
 DANNY: I don't know.
 LINUS: You check the batteries?
 SAUL: Everything going okay?
-LINUS: You know, you lose focus for one second in this game --
-DANNY: -- and someone gets hurt, yeah yeah. I don't hear Yen complaining.
+LINUS: You know, you lose focus for one second in this game
+DANNY: and someone gets hurt, yeah yeah. I don't hear Yen complaining.
 DANNY: Do it.
-DANNY: Amazing?
-YEN: (his only English) Where the fuck you been?
+DANNY: Linus goes to one of the racks and tentatively opens Yen pops up from within, his hair on end, looking like he just dropped out of a cyclone.
+YEN: ( his only English ) Where the fuck you been?
 SAUL: Ever been in love?
-FRANK: (considers it for a moment) No, I guess not. Not really.
+FRANK: ( considers it for No, I guess not. Not really.
 SAUL: This is better.
 BENEDICT: You gonna answer it?
 TESS: I don't have a cell phone.
 TESS: It isn't mine.
 BENEDICT: See who's on the other end.
-TESS: Hello?
-RUSTY (V.O.): May I have a word with Mr. Benedict, please?
+TESS: RUSTY ( V.O. )
 TESS: It's for you.
 BENEDICT: Who the hell is this?
+ON RUSTY: in the distance, at the arena's exit, unseen by Benedict or Tess, on the phone.
 RUSTY: The man who's robbing you.
 BENEDICT: What the hell is going on down there in the vault?
-FAT: Nothing, sir.    All normal.
+FAT: Nothing, sir. All normal.
 BENEDICT: Show me.
 FAT: All quiet.
-BENEDICT: (on phone, venomously) I'm afraid you're mistaken.
-RUSTY (V.O.): You're watching your monitor? Okay, keep watching.
-BENEDICT: Jesus Christ...
-RUSTY (V.O.): In this town, your luck can change just that quickly.
-BENEDICT: (close to apoplectic, takes a breath and cups the phone, then barks at Walsh) Find out how much money we have down there.
-DANNY: Good-bye.
-BENEDICT: (on phone) Alright. You've proved your point. You've broken into my vault. Congratulations: you're a dead man.
-RUSTY (V.O.): Maybe.
+BENEDICT: ( on phone, I'm afraid you're mistaken.
+BENEDICT: Jesus Christ.
+BENEDICT: ( close to apoplectic, Find out how much money we have down there.
+DANNY: Danny starts for her cheek, stops to see if it's alright with her she, sad-eyed, does not recoil and then gently kisses it. . as he slips the cell phone into her handbag, Tess leaves.
+BENEDICT: ( on phone ) Alright. You've proved your point. You've broken into my vault. Congratulations: you're a dead man.
 BENEDICT: May I ask: how do you expect to leave here, hmm?
-RUSTY: No.   You're gonna carry it out for us.
-BENEDICT: (has to laugh) And why would I do that?
-RUSTY: Take a closer look at your monitor...
-RUSTY (V.O.): As your manager's probably reporting to you by now, you have a little over a hundred sixty million in your vault tonight.
-RUSTY (V.O.): You may notice: we're only packing up about half that. The other half we're leaving in your vault, booby-trapped, as a hostage.
+BENEDICT: Do you believe I'll simply allow you to parade bags full of my money out my casino doors?
+RUSTY: No. You're gonna carry it out for And why would I do that?
+BENEDICT: ( has to laugh ) And why would I do that?
+RUSTY: Take a closer look at your OCEAN'S 11 - Rev. 10/24/00 128A.
 RUSTY: You let our eighty million go, and you get to keep your eighty. That's the deal. You try and stop us, we'll blow both cash loads.
-RUSTY: (holding her glance) Mr. Benedict: you can lose eighty million dollars secretly tonight or you can lose a hundred sixty million dollars publicly. It's your decision.
-RUSTY: Hi.
-BENEDICT: (to Walsh) Make the call.
-VOICE (V.O.): 911.    Emergency response...
-WALSH (V.O.): Hello, this is Mr. Walsh at the Bellagio.
-WALSH: We have an incident here...
-BENEDICT: (uncupping his phone) Okay.   You have a deal.
+RUSTY: ( holding her glance ) Mr. Benedict: you can lose eighty million dollars secretly tonight or you can lose a hundred sixty million dollars publicly. It's your decision.
+RUSTY: 238 INT. SECURITY CENTER 238
+BENEDICT: ( to Walsh ) Make the call.
+WALSH: We have an incident here.
+BENEDICT: ( uncupping his Okay. You have a deal.
 TESS: Where's Danny?
 RUSTY: He's fine. He wants you to go upstairs, and watch TV.
-TESS: (a little pissed) He does?
-BENEDICT (V.O.): You have a deal.
-RUSTY: It's alright, Tess. I promise. (back on phone) Good. Here's what you do. Five minutes from now, the men in the vault are going to deposit six bags in the vault elevator.
-RUSTY (V.O.): If they meet anyone, we'll blow the money in the bags and the money in the vault.
-RUSTY (V.O.): One minute after that, the elevator will rise to your cages. Six of your guards will pick up the bags and carry them out into the casino.
+TESS: ( a little pissed ) He does?
+RUSTY: It's alright, Tess. I promise. Good. Here's what you do. Five minutes from now, the men in the vault are going to deposit six bags in the vault elevator.
 RUSTY: If they take more than twenty seconds to reach the casino floor or if there's any indication a switch has been made, we'll blow the money in the vault and the money in the bags.
-BENEDICT: (to Walsh) He's in the casino right now.
-RUSTY (V.O.): Of course, I'm in the casino. In fact, I'm staying in your hotel. And I have two words for you: mini-bar. (back to business) Now as soon as your guards hit the casino floor...
-RUSTY (V.O.): ... a white unmarked van is going to pull up in your valet station.
-RUSTY (V.O.): Your guards will load the bags into the van's rear. If anyone so much as approaches the driver's door, we blow everything.
-BENEDICT (V.O.): Now what?
-RUSTY (V.O.): Now, when I get word that the van hasn't been followed, that the money is secure, my men will exit the building, and once their safety is confirmed, you'll get your vault back.
+BENEDICT: ( to Walsh ) He's in the casino right now.
 BENEDICT: Sir, I have complied with your every request, would you agree?
-RUSTY (V.O.): I would.
-BENEDICT: Good.   Now I have one of my own.
-RUSTY (V.O.): Yes?
-BENEDICT: (at last, his venom released) Run and hide. If you get picked up next week buying a $100,000 sports car in Newport Beach, I'll be supremely disappointed. Because I want my people to find you. And rest assured: when they do, they won't hand you over to the police. (beat) Run and hide. That's all I ask.
+BENEDICT: Good. Now I have one of my own.
+BENEDICT: ( at last, his venom Run and hide. If you get picked up next week buying a $100,000 sports car in Newport Beach, I'll be supremely disappointed. Because I want my people to find you. And rest assured: when they do, they won't hand you over to the police. ( beat ) Run and hide. That's all I ask.
 WALSH: Our guys say the van is headed toward McCarren Airport.
 BENEDICT: Get everyone in position. I want my vault back before that van hits the tarmac.
-BENEDICT: (on second inspection) Where's Zerga? (off Walsh's sheepish look) Mr. Zerga? With the briefcase?
-WALSH: He's -- he died.
-SWAT LEADER (V.O.): (over radio, on monitor) Night goggles on. Prepare to cut power.
-FAT: Ready when you are.
+BENEDICT: ( on second Where's Zerga? ( off Walsh's sheepish Mr. Zerga? With the briefcase?
+WALSH: He's he died.
+FAT: Ready when you are. Do it.
 BENEDICT: Do it.
-SWAT LEADER (V.O.): (over radio) Cut it.
-SWAT FREQUENCY (V.O.): (Leader's voice) First wave, in! Second wave, now! (there is RUNNING, PANTING, then Linus's voice, distant and panicked) Guys, someone's here! (Leader's voice) Take him down! Now!
-SWAT FREQUENCY (V.O.): (Leader's voice) Lights! We need power now!
-BENEDICT: (into intercom) What's the situation down there?
-SWAT LEADER (V.O.): They blew it. They blew the... Oh, Jesus... If there was anyone in there, they're not in one piece anymore.
-BENEDICT: (to Walsh, soberly) Tell them to take the van. I'm going down there. (as an afterthought, to Slim) Find out how they fiddled with our cameras.
-HEAD GOON: Get out of the van, now!   Now!
-SWAT LEADER: Mr. Benedict...
-BENEDICT: Yes.
+BENEDICT: ( into intercom ) What's the situation down there?
+BENEDICT: ( to Walsh, soberly ) Tell them to take the van. I'm going down there. ( as an afterthought, Find out how they fiddled with our
+HEAD GOON: Get out of the van, now! Now!
+SWAT LEADER: Mr. Benedict.
+BENEDICT: SWAT LEADER
 SWAT LEADER: We couldn't find any survivors. Or, I'm afraid, any of your money. I'm sorry, sir.
-BENEDICT: (doesn't want to hear anymore; the SWAT team failed him) Take your men out now.
+BENEDICT: ( doesn't want to hear Take your men out now. Okay, guys, grab your gear and clear out.
 SWAT LEADER: Okay, guys, grab your gear and clear out.
-BENEDICT: (into walkie-talkie he has with him) Walsh: How are we with the van?
+BENEDICT: ( into walkie-talkie he Walsh: How are we with the van?
 HEAD GOON: Out of the van now! Hands up!
-EMPLOYEE: (innocently) Hey, what's going on here?
+EMPLOYEE: ( innocently ) Hey, what's going on here?
 TISHKOFF: Enough monkey business.
-WALSH (V.O.): (over walkie-talkie) Mr. Benedict...
-BENEDICT: Yes?
-WALSH (V.O.): They took the van.
-BENEDICT: And?
-WALSH (V.O.): (hesitantly, this is bad news) And they blew up the bags, sir.
-BENEDICT: (dropping his walkie- talkie to his side) Shit.
-WALSH (V.O.): Sir... sir...
+BENEDICT: WALSH ( V.O. )
+BENEDICT: WALSH ( V.O. ) ( hesitantly, this is bad news )
+BENEDICT: ( dropping his walkie- Sir. sir.
 BENEDICT: What, Walsh?
-WALSH (V.O.): They say it doesn't look like there was any money in the bags, sir.
-BENEDICT: What?!
-WALSH (V.O.): They say the bags were filled with fliers. For hookers.
+BENEDICT: WALSH ( V.O. )
 BENEDICT: What do you mean there was no money in the bags?
-WALSH (V.O.): That's what they said, sir. I don't understand it: we both saw them putting money inside those bags.
-BENEDICT: Walsh, cue up the tape of the robbery.
-BENEDICT (V.O.): Does it say 'Bellagio' on the south wall of the vault?
-WALSH: (on walkie-talkie) No, sir. It doesn't. I -- I don't understand...
+BENEDICT: Walsh, cue up the tape of the Does it say 'Bellagio' on the south wall of the vault?
+WALSH: ( on walkie-talkie ) No, sir. It doesn't. I I don't understand.
 BENEDICT: We had that installed on Tuesday. The image we saw of the men robbing us was a tape.
-WALSH (V.O.): What?
 BENEDICT: Someone built a double of my vault, then made a tape of them robbing it. When we saw them putting money in those bags, that wasn't actually happening.
-WALSH: Then, sir...
-WALSH (V.O.): ... what happened to all the money?
-LIVINGSTON: 9-1-1.   Emergency response.
-RUSTY: (hiding his voice) Prepare to cut power!
+WALSH: Then, sir.
+LIVINGSTON: 9-1-1. Emergency response.
+RUSTY: ( hiding his voice ) Prepare to cut power!
 LINUS: Guys, someone's here!
-RUSTY: Las Vegas P.D. This is Officer Brooks, New Jersey Probation Division. I have a violator in your jurisdiction... (cupping phone) Hit it.
-BENEDICT: (and it finally occurs to him) Ocean...
+RUSTY: Las Vegas P.D. This is Officer Brooks, New Jersey Probation Division. I have a violator in your jurisdiction. Hit it.
+BENEDICT: ( and it finally occurs
 BENEDICT: Where's Ocean?
-PLAINCLOTHES GOON #1: Still inside, sir. With Bruiser.
 BENEDICT: Open that door.
 BENEDICT: Wake him up.
-DANNY: (a little punchy) Heya, Benedict... How's the other fight going?
-BENEDICT: Did you have a hand in this? (beat) Did you?
+DANNY: ( a little punchy ) Heya, Benedict. How's the other fight going?
+BENEDICT: Did you have a hand in this? Did you?
 DANNY: Did I have a hand in what?
 BENEDICT: Get him out of here.
-TESS: Hello?
-VOICE (V.O.): (if you must know, it's Livingston's) Turn to Channel 88.
+TESS: ( CONTINUED )
 DANNY: You get robbed or something, Benedict? Geez, that's a shame.
 BENEDICT: Stop there.
-BENEDICT: Where.   Is.   My. Money.
-DANNY: What would you say if I told you you could get your money back... (beat) ... if you gave up Tess? (beat) What would you say?
+BENEDICT: Where. Is. My. Money.
+DANNY: What would you say if I told you you could get your money back. . if you gave up Tess? What would you say?
 BENEDICT: I would say yes.
-DANNY: Well, that's very interesting... (beat) ... but I didn't have anything to do with it.
-BENEDICT: (to his Goons) Escort Mr. Ocean to the exit. And contact the police. I would imagine Mr. Ocean is in violation of his parole.
+DANNY: Well, that's very interesting. . but I didn't have anything to do with it.
+BENEDICT: ( to his Goons ) Escort Mr. Ocean to the exit. And contact the police. I would imagine Mr. Ocean is in violation of his parole.
 WALSH: Maybe we should have held him.
-BENEDICT: No.   Follow him. Everywhere.
-BENEDICT: Tess... (as she doesn't stop) Tess?
+BENEDICT: No. Follow him. Everywhere.
+BENEDICT: ( as she doesn't
 TESS: You of all people should know, Terry: in your hotel, there's always someone watching.
-TESS: Wait!
-TESS: Danny... (beat) I'm sorry.
+TESS: They do. As Danny is handcuffed and prepared for loading in the back, he and Tess hold each other's glance.
+TESS: ( beat ) I'm sorry.
 DANNY: I knew what I was doing.
 TESS: I didn't.
 TESS: How long will you be?
-DANNY: (shrug) Three to six months, I should think.
+DANNY: ( shrug ) Three to six months, I should
 RUSTY: Looking for someone?
 DANNY: Thirteen million and you drive that piece of shit cross country to pick me up?
 RUSTY: Hello to you, too.
 RUSTY: Your hair's grayer.
-DANNY: Your eyes got closer together. (beat) How's life?
-RUSTY: Life... is a roomful of pillows. (beat) C'mon...
+DANNY: Your eyes got closer together. How's life?
+RUSTY: Life. is a roomful of pillows. Where do you want to go first?
 RUSTY: Where do you want to go first?
 DANNY: To a phone.
 RUSTY: I stopped and picked up your personal effects, put them in the back seat.
 DANNY: My what?
-DANNY: (smiling back, then) I'm not sure these belong to me.
+DANNY: ( smiling back, I'm not sure these belong to me.
 TESS: Sure they do.
 DANNY: We need to find Rusty a girl.
-RUSTY: There's a women's prison just down the road...
+RUSTY: There's a women's prison just down the road.
 DANNY: You said you sold this.
 TESS: That's what I said.
-DANNY: Liar.
-TESS: Thief.
+DANNY: As they drive away. . another car STARTS its ENGINE begins to follow. At the wheel: Benedict's goons.
+TESS: As they drive away. . another car STARTS its ENGINE begins to follow. At the wheel: Benedict's goons.
+THE END: Writers : Ted Griffin George Clayton Johnson Jack Golden Russell Harry Brown Charles Lederer
