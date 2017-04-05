@@ -55,7 +55,7 @@ tf.app.flags.DEFINE_integer("num_layers", 1, "Number of layers in the model.")
 tf.app.flags.DEFINE_integer("from_vocab_size", 8, "English vocabulary size.")
 tf.app.flags.DEFINE_integer("to_vocab_size", 8, "French vocabulary size.")
 tf.app.flags.DEFINE_string("data_dir", "../data/test_data/", "Data directory")
-tf.app.flags.DEFINE_string("train_dir", "../data/test_data/", "Training directory.")
+tf.app.flags.DEFINE_string("train_dir", "../models/", "Training directory.")
 tf.app.flags.DEFINE_string("from_train_data", '../data/test_data/ques.txt', "Training data.")
 tf.app.flags.DEFINE_string("to_train_data", '../data/test_data/ans.txt', "Training data.")
 tf.app.flags.DEFINE_string("from_dev_data", None, "Training data.")
@@ -64,7 +64,7 @@ tf.app.flags.DEFINE_integer("max_train_data_size", 0,
                             "Limit on the size of training data (0: no limit).")
 tf.app.flags.DEFINE_integer("steps_per_checkpoint", 200,
                             "How many training steps to do per checkpoint.")
-tf.app.flags.DEFINE_boolean("decode", True,
+tf.app.flags.DEFINE_boolean("decode", False,
                             "Set to True for interactive decoding.")
 tf.app.flags.DEFINE_boolean("self_test", False,
                             "Run a self-test if this is set to True.")

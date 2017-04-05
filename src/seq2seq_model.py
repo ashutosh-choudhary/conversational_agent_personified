@@ -22,7 +22,8 @@ import numpy as np
 import tensorflow as tf
 
 import data_utils
-
+import legacy_seq2seq
+from tensorflow.python.ops import variable_scope
 
 class Seq2SeqModel(object):
   """Sequence-to-sequence model with attention and for multiple buckets.
@@ -124,9 +125,18 @@ class Seq2SeqModel(object):
     if num_layers > 1:
       cell = tf.contrib.rnn.MultiRNNCell([single_cell() for _ in range(num_layers)])
 
+    embeddings_matrix = np.random.rand(source_vocab_size, 400)
+    # Create a scope wrapper for embedding weight matrix
+    with variable_scope.variable_scope("embedding_attention_seq2seq") as scope: 
+      embedding = variable_scope.get_variable("embedding",
+                                            [source_vocab_size, 400],
+                                            initializer=tf.constant_initializer(np.array(embeddings_matrix)),
+                                            trainable=False)
+      scope.reuse_variables()
+
     # The seq2seq function: we use embedding for the input and attention.
     def seq2seq_f(encoder_inputs, decoder_inputs, do_decode):
-      return tf.contrib.legacy_seq2seq.embedding_attention_seq2seq(
+      return legacy_seq2seq.embedding_attention_seq2seq(
           encoder_inputs,
           decoder_inputs,
           cell,
@@ -134,7 +144,7 @@ class Seq2SeqModel(object):
           num_decoder_symbols=target_vocab_size,
           embedding_size=size,
           output_projection=output_projection,
-          feed_previous=do_decode,
+          feed_previous=do_decode, #If feed_previos = False, training mode
           dtype=dtype)
 
     # Feeds for inputs.
@@ -154,9 +164,10 @@ class Seq2SeqModel(object):
     targets = [self.decoder_inputs[i + 1]
                for i in xrange(len(self.decoder_inputs) - 1)]
 
-    # Training outputs and losses.
+
     if forward_only:
-      self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
+      # Testing mode of the code
+      self.outputs, self.losses = legacy_seq2seq.model_with_buckets(
           self.encoder_inputs, self.decoder_inputs, targets,
           self.target_weights, buckets, lambda x, y: seq2seq_f(x, y, True),
           softmax_loss_function=softmax_loss_function)
@@ -168,7 +179,8 @@ class Seq2SeqModel(object):
               for output in self.outputs[b]
           ]
     else:
-      self.outputs, self.losses = tf.contrib.legacy_seq2seq.model_with_buckets(
+      # Training mode of the code
+      self.outputs, self.losses = legacy_seq2seq.model_with_buckets(
           self.encoder_inputs, self.decoder_inputs, targets,
           self.target_weights, buckets,
           lambda x, y: seq2seq_f(x, y, False),
