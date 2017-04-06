@@ -1,577 +1,721 @@
-PETER (OS): How we doing?
-SUSAN: We'll see...
-ANCHORMAN (VO): Strickler's Disease crept into Manhattan like a thief in the night, claiming its first hundred victims before it was even classified.
-ANCHORMAN (VO): Most were children under ten.
-ANCHORMAN: Only after the numbers had reached into the thousands were officials able to identify the carrier of the deadly infection...
+THE SCREEN: Stygean darkness. Wet CLICKING SOUNDS. A BEAM of purplish ULTRA-VIOLET LIGHT reveals a mosaic of moving forms. COCKROACHES. They skitter restlessly under the beam's intensity. SERIES OF SHOTS the UV Beam passing over various parts of the space. Pipe webs, walls, girders all covered with the insects. Thousands of PULL BACK TO REVEAL INT. SEWER SYSTEM Innards of steel. A vast maze of tunnels. A GROUP OF FIGURES advances through the tunnels with handheld UV lamps. The figures are dressed in gray air-tight NEOPRENE SUITS, their faces hidden by skin tight MASKS and bug-like NIGHT VISION GOGGLES. In the dense silence, respirator valves HISS- CLICK at the corner of their lips in mechanical rhythm. The scene has a dream-like, choreographed quality.
+CASE: TCHK!! A dozen of the Judas roaches are released. They slide through into the area.
+LATER: A MANHOLE has been opened above. CHAINS are dropped down and attached by a Team Member to A 100-GALLON DISPOSAL DRUM. REVEAL the floor of the tunnel, carpeted with the still forms of the roaches, now all DEAD. The Team Members quietly shovel the tiny corpses into other disposal drums. At their feet skitter the only survivors of the massacre: the bar-coded Judas Roaches. In a crunch of machinery, the first disposal drum is lifted by the chains through the manhole to
+SUSAN: We'll see.
+ANCHORMAN: Only after the numbers had reached into the thousands were officials able to identify the carrier of the deadly Cut to three.
 DIRECTOR: Cut to three.
-ANCHORMAN: Blattida Germanica.  The common cockroach.
-DIRECTOR: (To a RUNNER) Tell them we're ready for a live feed.
-REPORTER 1: ...an insect that has proven virtually immune to chemical control...
-REPORTER 2: ...the announcement by the Health Department that an end to the nightmare has finally...
-REPORTER 3: ...an ex-colleague of Doctor Susan Wyeth...
-PROTESTER: ...Susan has always been opposed to biological tampering. A real advocate for ecological causes, it's not...
-PETER: (wrapping up) ...in Nature, evolution is a long, leisurely conversation between an organism and its environment. We, however, did not have the luxury of time...
-SUSAN: With the aid of genetic labs throughout the country, we recombined cockroach DNA with genetic information from termites and mantids. We were able to create a biological counter-agent.  A new ally, if you will...
+ANCHORMAN: Blattida Germanica. The common Tell them we're ready for a live feed.
+DIRECTOR: ( To a RUNNER ) Tell them we're ready for a live feed.
+REPORTER 1: .an insect that has proven virtually immune to chemical control.
+REPORTER 2: .the announcement by the Health Department that an end to the nightmare has finally.
+REPORTER 3: .an ex-colleague of Doctor Susan .Susan has always been opposed to biological tampering. A real advocate for ecological causes, it's not.
+PROTESTER: .Susan has always been opposed to biological tampering. A real advocate for ecological causes, it's not.
+PETER: ( wrapping up ) .in Nature, evolution is a long, leisurely conversation between an organism and its environment. We, however, did not have the luxury of
+SUSAN: With the aid of genetic labs throughout the country, we recombined cockroach DNA with genetic information from termites and mantids. We were able to create a biological counter-agent. A new ally, if you will.
 SUSAN: Blattida Traditor.
-SUSAN (OS): The "Judas Roach".
+CU CONTAINER: One of the Judas roaches skitters about in the container.
 SUSAN: The Judas is a non-carrier of Stricklers, with a short life-span and heightened pheromone emission.
 SUSAN: The female is basically a sexual magnet; common males travelled miles and fought for the right to mate with them.
-SUSAN: When they did, they took away something else we added -- a hormone, passed through sexual congress that causes their metabolism to go into overdrive.  No matter what their food intake, they starved to death in a matter of hours.
-PETER: We've achieved almost total eradication of the roach population.  As of today, the disease has been officially contained.
-PETER (OS): Sus, come on.  You're missing it.
-PETER: Fucking thing! I hope someone's taping this. (Out.) Susan, come on.  It's really good this time. I got most of the lines out. (No response.) Sus?
-PETER: Life's a bitch. Our 15 minutes came and went and all we got was bad cable...
+SUSAN: When they did, they took away something else we added a hormone, passed through sexual congress that causes their metabolism to go into overdrive. No matter what their food intake, they starved to death in a matter of hours.
+PETER: We've achieved almost total eradication of the roach population. As of today, the disease has been officially
+PETER: Fucking thing! I hope someone's taping Susan, come on. It's really good this time. I got most of the lines out.
+PETER: Life's a bitch. Our 15 minutes came and went and all we got was bad
 PETER: Hiding from the hard glare of publicity?
-PETER: A shame.  You looked great tonight.
-SUSAN: Please.
+PETER: A shame. You looked great tonight.
+SUSAN: You did!
 PETER: You did!
 SUSAN: Do you think we did the right thing?
 PETER: Taking a cab instead of hiring a limo?
-SUSAN: You know what I mean...
-SUSAN: We did no impact evaluation.  The consequences of...
-PETER: (sighs) Is this a Catholic guilt thing...?
-NEWSREADER (TV): ...a flawless strategy which has stopped a potential epidemic in its tracks...
-PETER: You hear that?  Flawless.
+SUSAN: You know what I mean.
+SUSAN: We did no impact evaluation. The consequences of.
+PETER: ( sighs ) Is this a Catholic guilt thing.?
+PETER: You hear that? Flawless.
 SUSAN: We just don't know.
 PETER: We know we saved lives.
 PETER: There're gonna be a lot of kids running around next year because of you.
-PETER: Who know?  We get lucky, maybe a couple of 'em'll be ours.
-SUSAN: (smiling now) We're down to a "couple" now, huh?
-PETER: Oh, I don't know. People are beginning to talk about us...
+PETER: Who know? We get lucky, maybe a couple of 'em'll be ours.
+SUSAN: ( smiling now ) We're down to a "couple" now, huh?
+PETER: Oh, I don't know. People are beginning to talk about us.
 SUSAN: Don't worry, I'll save your honor. Maybe I'll even marry you.
-CHINESE PREACHER: No.  Please, God, no!
-CHUY: (a whisper) Oxfords, 8 1/2. Black...
-CHUY: (very low) Funny, funny shoes...
-PETER: Excuse me, ladies...
-SUSAN: ...no, guys, these have to fit perfectly.  No spaces in between. Let me tell you why. Insects have no hands. All they have is this set of mandibles.
-SUSAN: See?  This little piggy will grab the prey.
-SUSAN: Then this little piggy will tear it in half...
-SUSAN: ...and this little one will grind it to a pulp and push it in... all the way into the mouth.  These are precision tools here. Can you remember that?
-SUSAN: Good.  Then get it right.
-PETER: (teasing) "Baby in a bottle..."
+BELOW: Cans bounce off the pavement. White pain blasts all over.
+CU HANDS: The man's hands slip on the planks, tiring.
+FEET: The Chinese Preacher's FEET bicycle in the air, unable to find a purchase on the wet brick wall-
+CHINESE PREACHER: No. Please, God, no!
+HANDS: The Chinese Preacher's fingernails dig in, then slip on the wet wood. His hands paw the air.
+WIDER: For a moment his body, silhouetted in the rain, seems suspended in a void. Then he falls backwards.
+THE GROUND: Impact. His body cracks the pavement. Small pools of rain form on his dead, open eyes. We CRANE to reveal
+APARTMENT: It's a small one-bedroom apartment. An old man sleeps peacefully on a cot: Chuy's grandfather. MANNY GAVIOLA, mid 60's, white hair haloes his handsome, benign face. All around him: SHOES, shoes everywhere you look, on the table, on the chairs, on the kitchen counter, on the floor. A small altar is illuminated by votive candles. Next to it, standing by the window is
+CHUY: HIS P.O.V. We see a blurry vision of The Chinese Preacher's splayed figure in a swirl of color. Chuy's attention focuses on the Preacher's shoes.
+CHUY: ( a whisper ) Oxfords, 8 1/2. Black.
+CHUY: ( a whisper ) Oxfords, 8 1/2. Black.
+CHUY: hears a strange sound, a rhythmic clicking. His head lifts and what he sees causes his expression to changethere is an uncharacteristic flicker of excitement in his eyes.
+CHUY: His eyes follow the figure down to the pavement in a slow Chuy puts down the wire miniature and opens the window to get a better view.
+GROUND LEVEL: The Chinese Preacher's body is now being dragged toward the rear of the alley, leaving colored paint smears in its wake.
+CHUY: We isolate the boy's face and, on the soundtrack, every other noise FADES AWAY. Chuy reaches for a pair of SPOONS nearby. He begins to click them together. Imitating the strange clicking sound heard a moment ago.
+CHUY: watches, still clicking with his spoons.
+CHUY: His spoons stop. His jaw tightens a little as we hear terrible cracking and scraping sounds.
+THE WINDOW: The Chinese Preacher's head and hands disappear into the hole. Bits of clothing, paint and blood stick to the edges of the opening.
+CHUY: watches, still fascinated.
+CHUY: ( very low ) Funny, funny shoes.
+PETER: Excuse me, ladies.
+GRAFFITI: A talismanic figure of raw, archetypal power. A few jagged lines form the shape of a MAN IN AN OVERCOAT. His face is little more than a malignant blotch.
+SUSAN: .no, guys, these have to fit perfectly. No spaces in between. Let me tell you why. Insects have no hands. All they have is this set of
+SUSAN: See? This little piggy will grab the
+SUSAN: Then this little piggy will tear it in half.
+SUSAN: .and this little one will grind it to a pulp and push it in. all the way into the mouth. These are precision tools here. Can you remember that?
+SUSAN: Good. Then get it right.
+EXHIBITS: Peter and Susan walk through. Peter pulls something from a KNAPSACK. A bottle of medicine marked: METALLININ.
+PETER: ( teasing ) "Baby in a bottle."
 SUSAN: Don't tease.
-PETER: You know where they get this fertility stuff?  They extract it from the urine of menopausal Italian nuns.
-SUSAN: (laughs) Monks bottle their own wine. Don't they?
-SUSAN: Trust me. I've never been this late. Never.
-SUSAN: If nun's pee is what it takes...
-SUSAN: You were the one who ran around with ice in his underwear, don't forget that.
-PETER: Don't get kinky here...
-PETER: Okay, meet me out front. (to Susan) I gotta go. Josh's picking me up in five. see you tonight.
+PETER: You know where they get this fertility stuff? They extract it from the urine of menopausal Italian Monks bottle their own wine. Don't
+SUSAN: ( laughs ) Monks bottle their own wine. Don't
+SUSAN: Trust me. I've never been this late.
+SUSAN: If nun's pee is what it takes.
+SUSAN: You were the one who ran around with ice in his underwear, don't forget Don't get kinky here.
+PETER: Don't get kinky here.
+PETER: Okay, meet me out front. I gotta go. Josh's picking me up in five. see you tonight.
 SUSAN: I'll be late.
-SUSAN: Siri, sandblast that thing. It looks like Trump Tower.  Those mounds are supposed to be made of dirt and excretions...
-SIRI: (a wicked smile) Just like Trump Tower, then.
-JOSH: ...So I say "buddy, you have every violation in the book.  Gimme one good reason not to close you down." You know what the Kraut says to me?
-JOSH: The blintzes!  "Try the blintzes..."
-PETER: (distractedly) Selling your sould for a fistful of carbohydrates...
-JOSH: Not just any carbohydrates, mind you. It was like being on the receiving end of some kind of transcendent oral sex. (honks furiously) We should get a strobe on this thing. Maybe even a siren.
+SUSAN: Siri, sandblast that thing. It looks like Trump Tower. Those mounds are supposed to be made of dirt and Just like Trump Tower, then.
+SIRI: ( a wicked smile ) Just like Trump Tower, then.
+JOSH: .So I say "buddy, you have every violation in the book. Gimme one good reason not to close you down." You know what the Kraut says to me?
+JOSH: The blintzes! "Try the blintzes."
+PETER: ( distractedly ) Selling your sould for a fistful of Not just any carbohydrates, mind you. It was like being on the receiving end of some kind of transcendent oral ( honks furiously ) We should get a strobe on this thing. Maybe even a siren.
+JOSH: Not just any carbohydrates, mind you. It was like being on the receiving end of some kind of transcendent oral We should get a strobe on this thing. Maybe even a siren.
 PETER: Yeah, and a loudspeaker so you can yell "Epidemic! Epidemic! You're all going to die!"
-JOSH: Health Department...
+JOSH: Health Department.
 PETER: You really love flashing that thing, don't you?
 JOSH: Hey. I'm a short guy. Waddaya want?
 PETER: Peter Tyler, DOH. You gentlemen were the first on the scene?
-WOYCHEK: (gestures to Rice) We were both on patrol, saw this paint mess. Then I looked through that cellar window. We both did...
+WOYCHEK: ( gestures to Rice ) We were both on patrol, saw this paint mess. Then I looked through that cellar window. We both did.
 PETER: You gone in?
 WOYCHEK: No. We waited.
-PETER: Good.
-PETER: (to Josh) Get the EMT's in there, now.
-MANNY: C'mon Chuy, we're gonna be late. (discreetly crossing himself) Cops are bad news. Don't look at them.
-PETER: Jesus.
-WOYCHEK: (from the outside) They look real sick, don't they?
-SUSAN: ...as long as they're ready for the opening I don't care, just tell them that.
-SIRI: I'm on it.  Don't worry. (Beat) Look, Susan...I don't mean to pry, but... I kinda overheard you and Peter.
-SUSAN: (Smiles ironically) Watch your step, Siri.  Your grant could be on the line here.
-SIRI: I just...well, I had this cousin in Delhi.  She was having problems, too. She, ah...
-SUSAN: What?
+PETER: Peter peeks through a narrow cellar window on the floor. Through the oily, smeared window, a ghostly array of PALE FACE AND HANDS appears, startling him.
+PETER: ( to Josh ) Get the EMT's in there, now.
+LATER: PARAMEDIC AMBULANCES rush in. Sirens at full blast. Stepping out of the building across, Manny walks next to Chuy, who holds his hand. The old man carries a box full of Chuy looks back at the cop circus, amused.
+MANNY: C'mon Chuy, we're gonna be late. Cops are bad news. Don't look at them.
+JOSH: uses an iron bar, and breaks a padlocked cellar door. A heavy stench emanates from inside. The cops cover their noses.
+PETER: His light hits a group of quivering, skeletal CHINESE IMMIGRANTS, standing in a tight group against a wall.
+WOYCHEK: ( from the outside ) They look real sick, don't they?
+SUSAN: .as long as they're ready for the opening I don't care, just tell them I'm on it. Don't worry. Look, Susan.I don't mean to pry, but. I kinda overheard you and Watch your step, Siri. Your grant could be on the line here.
+SIRI: I'm on it. Don't worry. Look, Susan.I don't mean to pry, but. I kinda overheard you and Watch your step, Siri. Your grant could be on the line here.
+SUSAN: ( Smiles ironically ) Watch your step, Siri. Your grant could be on the line here.
+SIRI: I just.well, I had this cousin in Delhi. She was having problems, too. She, ah.
+SUSAN: She used a baster.
 SIRI: She used a baster.
-SIRI: Not a big one.  I mean, it was like a turkey baster.
+SIRI: Not a big one. I mean, it was like a turkey baster.
 SUSAN: Oh, Jesus.
-SUSAN: Come on, darlin'...
-SIRI: (continues) She kept it under her bed. Thing is, it kinda worked.  I mean, she had to hide it from her husband, but...
+SUSAN: Come on, darlin'.
+SIRI: ( continues ) She kept it under her bed. Thing is, it kinda worked. I mean, she had to hide it from her husband, but.
 SUSAN: What's this?
-SIRI: Oh, right... They been here since noon. I told them you're real busy.
-SUSAN: Hello.
+SIRI: Oh, right. They been here since noon. I told them you're real busy.
+SUSAN: You the bug lady, right?
 RICKY: You the bug lady, right?
-SUSAN: (smiles) I suppose so.
+SUSAN: ( smiles ) I suppose so.
 RICKY: We're here to deal.
-SUSAN: Metaxonycha Godmani, Trigonopelastes Delta.  Field Butterflies.  Have you been upstate?
+SUSAN: Metaxonycha Godmani, Trigonopelastes Delta. Field Butterflies. Have you been
 DAVIS: Avenue B.
-SUSAN: (sadly) I guess they got lost in this city.
+SUSAN: ( sadly ) I guess they got lost in this city.
 RICKY: So, you wanna buy em?
 DAVIS: There's extra wings in the bag.
-SUSAN: You guys have done a nice job.  How bout five dollars?
-RICKY: (dismayed) That's it?
-DAVIS: (to Ricky) Show her the weirdbug.
+SUSAN: You guys have done a nice job. How bout five dollars?
+RICKY: ( dismayed ) That's it?
+DAVIS: ( to Ricky ) Show her the weirdbug.
 RICKY: Cost a dollar just to look.
-DAVIS: It's a great bug.  We kinda broke it a little...
-SUSAN: Fellas, I'll tell you what...ten dollars for everything.  Plus a killing jar, some tweezers and mounts so the next bunch you catch will be in better shape.
-DAVIS: Deal!
+DAVIS: It's a great bug. We kinda broke it a
+SUSAN: Fellas, I'll tell you what.ten dollars for everything. Plus a killing jar, some tweezers and mounts so the next bunch you catch will be in better shape.
+DAVIS: You crazy! That's the best!!
 RICKY: You crazy! That's the best!!
 DAVIS: Bug's almost dead anyway.
 DAVIS: Thanks, lady.
 SIRI: Ten dollars?
 SUSAN: Alphabet City kids- there's much worse things they could be selling.
-SIRI: I hate this fucking window...
-PETER: (to Josh) There's plenty of systemic infection already, so as soon as we get a preliminary reading, start them on anti-biotics. You saw this?
-PETER: Internal hemorrage. 2 our of 5 have it.  No definite signs of TB, but we'll quarantine them a week just to make sure.
+SIRI: I hate this fucking window.
+PETER: ( to Josh ) There's plenty of systemic infection already, so as soon as we get a preliminary reading, start them on anti-biotics. You saw this?
+PETER: Internal hemorrage. 2 our of 5 have it. No definite signs of TB, but we'll quarantine them a week just to make sure.
 JOSH: Immigration's gonna love you for that.
 PETER: Tell them to send flowers to the usual address.
-JOSH: Two shifts, people rotating from bed to work.  One toilet. We're in Wal-Mart hell, here.
-PETER: Did they get the sleazebag who owns this place?
-JOSH: Triad, Chinese Mafia. They bring people from Yunan. Slave labor... (eyes his notebook) Reverend Harry Wong, a preacher had the flophouse fronting for them. No sign of him.
+BASEMENT SHOWERS: A tiled nightmare. Concentration camp-cozy. A pile of old, rusting sewing machines clutter the floor, spilling oxide to a central grate.
+JOSH: Two shifts, people rotating from bed to work. One toilet. We're in Wal-Mart hell, here.
+PETER: Did they get the sleazebag who owns this Triad, Chinese Mafia. They bring people from Yunan. Slave labor. Reverend Harry Wong, a preacher had the flophouse fronting for them. No sign of
+JOSH: Triad, Chinese Mafia. They bring people from Yunan. Slave labor. Reverend Harry Wong, a preacher had the flophouse fronting for them. No sign of
 PETER: Tell her she's going to be alright. We'll take care of her.
-YANG: She's delirious.  Keeps saying the "Dark Angels" are coming for her. She says they took some of her people away.
+YANG: She's delirious. Keeps saying the "Dark Angels" are coming for her. She says they took some of her people away.
 PETER: Dark Angels?
-YANG: (Shrugs.) Probably a gang.  Chinese people, man. They come up with some wacky stuff.
-SUSAN: Siri? (louder) Siri?!
-SIRI: ...the fuck?
-SUSAN: (To Siri) Can you...?
-SUSAN: (a scared whisper) Could you...help me...?
+YANG: ( Shrugs. ) Probably a gang. Chinese people, man. They come up with some wacky stuff.
+ALLEY: The stretcher is rolled into a waiting vehicle, its lights flashing. Unseen by them, on a brick wall, nearly buried by graffiti, is a crude DRAWING. It is of the same, odd figure Peter saw drawn earlier. The
+SUSAN: ( louder )
+SIRI: .the fuck?
+SUSAN: ( To Siri ) Can you.?
+SUSAN: ( a scared whisper ) Could you.help me.?
+LATER: Siri comes over as Susan grabs steel tongs and a cork dissecting board.
 SUSAN: I'm gonna pull it out and I want you to pin it down, okay?
 SIRI: What is it?
-SUSAN: I have no idea.  Are you ready?
-SIRI: Oh my God...
-SIRI: Shit!! Get it!  Get it!
-SUSAN: (Noticing Siri's hand) It bit you.
+SUSAN: I have no idea. Are you ready?
+SIRI: Oh my God.
+SIRI: Shit!! Get it! Get it!
+SUSAN: ( Noticing Siri's hand ) It bit you.
 SIRI: No shit.
-SUSAN: This wing configuration. I've never...
-SIRI: (looking at her injury) Fuck! It broke the skin...
-SUSAN: And they're not fully developed.  This thing's not even an adult.
+SUSAN: leans to get a closer look at the NYMPH: Deep dark brown, flat as a pancake, one rear leg broken, lower tail smashed. It squirms helplessly now, looking pitiful under the harsh overhead light.
+SUSAN: This wing configuration. I've Fuck! It broke the skin.
+SIRI: ( looking at her injury ) Fuck! It broke the skin.
+SUSAN: And they're not fully developed. This thing's not even an adult.
 SUSAN: My God.
-SIRI: What?
-SUSAN (OS): It's breathing.
-SIRI: That's impossible.  Insects don't...
-SUSAN: I know. (Picks up a SCALPEL) Help me get a sample.
-SUSAN: Hold on, big guy, hold on...
-SUSAN: Hold on a second...
-SIRI: What?
-SIRI (O.S.): Susan?
+SIRI: Susan gestures to look. Siri stares down at
+SIRI: shakes her head.
+SIRI: That's impossible. Insects don't.
+SUSAN: I know. Help me get a sample.
+SUSAN: Hold on, big guy, hold on.
+MONITOR: Susan attaches the insect's leg to a samll holder. It is frozen in a swirl of dry ice. The brittle leg is then mounted in a LASER MICROTOME. Bit by bit, the machine executes MICROSCOPIC WAFER CUTS. Siri is making slides out of each section. A series of MICROPHOTOGRAPHIC IMAGES flash onto the screen. In the background we hear the high-pitched BUZZ- We see the lights from the mounting room through a glass brick wall.
+SUSAN: prepares a blue solution and places two drops on each smear Reflected in the glass brick behind her we see the man moving across the room.
+SUSAN: watches the smear slide. The blue droplets begin to CHANGE COLOR once in contact with the leg section.
+SUSAN: Hold on a second.
+SIRI: Then, THREE LARGE BEETLES fly into the room. Siri looks at Susan. Susan gets up, hesitant, signals for Siri to stay. We FOLLOW Susan into the mounting room.
+SUSAN'S POV: She walks in, barely able to see her hand in front of her The window facing the street is wide open, rain blowing in. Something CRUNCHES under her feet. She bends down, looks. She's stepped on the broken glass of the lightbulb. The floor is alive with various INSECTS crawling, hopping, flying away from their displays, which have been opened. The nymph is gone from the board! She looks under the work table the nymph was on. We LOWER as we TRACK BACK with her. Something is folded up in the corner of the ceiling behind her, camouflaged in the shadows, clinging impossibly to the wall.
 SUSAN: Call security.
 MANNY: Not too little, not too much. You rub it in, around and around like this. Let the leather take it.
-MANNY: You watching? You should learn to work the shoes. You're good with your hands...
-MANNY: Chuy...you gonna get all wet.
+MANNY: You watching? You should learn to work the shoes. You're good with your
+MANNY: Chuy.you gonna get all wet.
 MANNY: Did you look at the story book I got you?
-MANNY: Our Animal Friends.  Can you say that, Chico?  "Friends"?
-MANNY (OS): A friend is the one you can trust.  When you are with a friend, no matter where in the world, you are at home.
-MANNY: In this city. A friend is a hard thing to find...
-CHUY: Funny Shoes...
-CHUY: Alli.  Mr. Funny Shoes.
+MANNY: Our Animal Friends. Can you say that, Chico? "Friends"?
+MANNY: In this city. A friend is a hard thing to
+CHUY: His face shows a bit of animation.
+CHUY: Funny Shoes.
+CHUY: Alli. Mr. Funny Shoes.
+THEIR POV: The figure has disappeared into the dark front of the boarded-up building.
 MANNY: No one is there. Is empty.
-MANNY: Chuy, listen to me.  They have Jesus on the cross, but that is not a holy place. You understand?
-MANNY: Ah, Nino.  God only knows what goes on in your head, eh?
-CHUY: Mr. Funny Shoes...
-PETER: Josh, what was Immigration's countdown?
+MANNY: Chuy, listen to me. They have Jesus on the cross, but that is not a holy place. You understand?
+MANNY: Ah, Nino. God only knows what goes on in your head, eh?
+CHUY: Mr. Funny Shoes.
+PETER: Josh, what was Immigration's
 JOSH: Thirty-three workers.
-PETER: There are thirty five listed in the reverend Wong's roster...
-JOSH: Shit.
+PETER: There are thirty five listed in the reverend Wong's roster.
+JOSH: Peter walks up the front steps.
 PETER: Remember what that woman said, about people being taken? Check with the copsin the area.
-PETER: Sus?
-PETER: (Looks around once again) Susan?
-PETER: (Regarding the laundry.) Thought it was my week for that.
-SUSAN: (Shrugs.) I needed to think. It was either this or the weather channel.
+PETER: No answer. He notices the dining room table is filled with yellowed FILES, all marked JUDAS TRADITOR.
+PETER: ( Looks around once again )
+PETER: ( Regarding the laundry. ) Thought it was my week for that.
+SUSAN: ( Shrugs. ) I needed to think. It was either this or the weather channel.
 SUSAN: This thing was the size of my fist, Peter!! That's off the charts!
 PETER: Okay. So you lost a great specimen-
-SUSAN: Don't you get it? It's more than that.
+SUSAN: Don't you get it? It's more than
 SUSAN: You know why insects don't grow larger? Because they don't have a complex respiratory system. What I saw did. It had lungs.
 SUSAN: Evolution doesn't work that fast. Something pushed that thing to take the leap. We need to find another specimen.
-PETER: We?
+PETER: As they fold the sheet, they move closer together.
 SUSAN: I did a PH test on its tarsal pads.
-SUSAN: There's only two species who match the enzymes I found.  One's a leaf-cutter ant in the Amazon...
+SUSAN: There's only two species who match the enzymes I found. One's a leaf-cutter ant in the Amazon.
 SUSAN: The other we released here two years ago.
-ARMENIAN DRIVER: Avenue B... again! Maybe you got wrong letter, uh?
-SUSAN: Keep going. We'll tell you when to stop...
+ARMENIAN DRIVER: Avenue B. again! Maybe you got wrong letter, uh?
+SUSAN: Keep going. We'll tell you when to Maybe they lied to you.
 PETER: Maybe they lied to you.
-SUSAN: Even if they did... that's all we have, isn't it?
-ARMENIAN: No... Oh, shit. Get away, you Turk!
+SUSAN: Even if they did. that's all we have, isn't it?
+ARMENIAN: No. Oh, shit. Get away, you Turk!
 SUSAN: Pull over!
-ARMENIAN DRIVER: What...?
+ARMENIAN DRIVER: Susan motions excitedly. The Driver pulls over. Susan gets out.
 SUSAN: Metaxonycha Godmani.
-PETER: So?
-RICKY (OS): If you want your money back, forget it!
-DAVIS (OS): We already spent it!
+PETER: Susan looks around. Just ahead is an empty LOT surrounded by a wooden fence plastered with flyers for rock bands and performance artists. An identical BUTTERFLY perches on the edge of a board.
 SUSAN: We're here to deal.
-PETER: Here, let me...
+PETER: Here, let me.
 SUSAN: You sure you didn't see one of these?
 RICKY: Gross. What is it?
 SUSAN: An "Ootheca". An eggcase. It probably had more, uh "weirdbugs" inside.
-RICKY: (shakes his head) No way. I see one of those, I'd puke.
+RICKY: ( shakes his head ) No way. I see one of those, I'd puke.
 DAVIS: It was in that corner over there.
-RICKY: Sucker was fast, man. (Picks up a pipe.) Had to take it out with one a these.
-PETER: Okay, guys.  We'll take it from here.
+RICKY: Sucker was fast, man. Had to take it out with one a these.
+PETER: Okay, guys. We'll take it from here. Make it ten an' we won't tell the cops you're here.
 RICKY: Make it ten an' we won't tell the cops you're here.
 PETER: Let's keep it at five and I won't condemn your clubhouse.
-PETER: (quietly) Look, a broken tooth...
-SUSAN (OS): You okay?
+PETER: inspects the floor. It's littered with cheap objects: chipped combs, used rubbers, soggy newspapers, smeared heroin syringes. Something shiny catches his eye. He picks it up.
+PETER: ( quietly ) Look, a broken tooth.
+SUSAN: kneeling, pushes aside a dented trash bin. Behind it, there is a cabinet with rusty sliding doors. A SUBWAY TRAIN RUMBLES by outside, the sound echoes off the tile walls. Susan forces the door back. She peeks through the opening. Her face stares back at her from a dirty pocket mirror. She starts pulling something out.
+PETER: at the oddly texture wall. He shines the penlight at it. .and is met with a FLUTTER OF WINGS. MOTHS, perfectly camouflaged against the poster on the wall, whiz past him. Peter recoils.
+SUSAN: turns back to her locker. She withdraws a cheap PLASTIC NECKLACE from it. As she removes it, it breaks. A coulpe of beads fall away. .rolls under the locker. .and BOUNCE once, twice, thrice each time going deeper till they comes to a stop. Susan peers where the beads fell.
 SUSAN: There's something under here.
-PETER: Shit.
-SUSAN: Let me try.  My hands are smaller.
+PETER: Peter tries to get his hand in
+PETER: Peter tries to get his hand in
+DEEPER: But he cannot reach the light. It is literally inches from his fingers.
+SUSAN: Let me try. My hands are smaller.
+SUSAN: Let me try. My hands are smaller.
+SUSAN'S: face squinches with the effort.
 PETER: Honey, just leave it.
-SUSAN: No, there's...
-LEONARD: (Wearily) Now don't tell me.
-LEONARD (OS): You lost a token, right?
-PETER: Look, I showed you my badge...
-LEONARD: Yeah, and you gonna have to show me a lot bigger one you wanna go down there. That's the old maintenance grid, Doc. Swiss cheese: tunnels, tracks...
-PETER: The Department of Public Health...
-LEONARD: ...should know better'n to go sneakin' around my turf...
-PETER: Fine.  You want me to call your supervisor?
-LEONARD: Please do.  He's a lonely guy.
-CHUY (OS): Gucci.  Flat pump.
+SUSAN: No, there's.
+SUSAN: reaches further. And suddenly A BEAM OF LIGHT cuts through the darkness. Their vision resolves. The figures of two MTA COPS stand before them: ERNEST, 50, burly and bull-necked; and LEONARD African American, 45, more formidable than fat.
+LEONARD: ( Wearily ) Now don't tell me.
+PETER: Look, I showed you my badge.
+LEONARD: Yeah, and you gonna have to show me a lot bigger one you wanna go down there. That's the old maintenance grid, Doc. Swiss cheese: tunnels, tracks.
+PETER: The Department of Public Health.
+LEONARD: .should know better'n to go sneakin' around my turf.
+PETER: Fine. You want me to call your Please do. He's a lonely guy.
+LEONARD: Please do. He's a lonely guy.
 ERNEST: Your shoes.
-SUSAN: (Laughs.  To Chuy.) That's wonderful!  What grade are you in?
+SUSAN: ( Laughs. To Chuy. ) That's wonderful! What grade are you in?
 ERNEST: No school. Shoes're all Chuy knows about.
-MANNY: (immediately) He's special.
-LEONARD: He can imitate anything, you just watch him.
-PETER: (Irritably, to Leonard) Excuse me, I'm talking to you.
+MANNY: ( immediately ) He's special.
+LEONARD: He can imitate anything, you just watch Excuse me, I'm talking to you.
+PETER: ( Irritably, to Leonard ) Excuse me, I'm talking to you.
 LEONARD: No, you talkin' at me.
-ERNEST: (discreetly, to Susan) Is there some reward for this?
+ERNEST: ( discreetly, to Susan ) Is there some reward for this?
 SUSAN: I guess that could be arranged.
-PETER: For Chrissakes.  You gonna lay a two- bit bureaucratic, territorial number on me?
+PETER: For Chrissakes. You gonna lay a two- bit bureaucratic, territorial number on me?
 LEONARD: You wanna keep up the conversation, you best come back with the proper permits and the right attitude.
-PETER: You give someone a fucking uniform and... Did you hear how he talked to us?
+PETER: You give someone a fucking uniform and. Did you hear how he talked to us?
 SUSAN: I heard how you talked to him.
 PETER: Oh, so I'm the bad guy now?
 SUSAN: He was just doing his job.
-PETER: Fine, then I'm the bad guy. Jesus!
-PETER: He wants a permit, I'll get him a permit.
-ERNEST: Chrissakes...
+PETER: Fine, then I'm the bad guy. Jesus! He wants a permit, I'll get him a
+PETER: He wants a permit, I'll get him a
+ERNEST: He grabs the surface of the lump, and pulls it. We see that it was just a SHINY BROWN TARP. Underneath, a group of THREE HOMELESS PEOPLE emaciated, toothless sleeping intertwined for warmth. In the dim light, they almost seem like a single organism.
 ERNEST: Guys, c'mon.
-ERNEST: I told you to stick by the maintenance area.
-BAG LADY: Nah... It's private property now.
+ERNEST: I told you to stick by the maintenance Nah. It's private property now.
+BAG LADY: Nah. It's private property now.
 SKELETAL BUM: He eats down there.
-ERNEST: Who?
+ERNEST: HOMELESS MAN
 HOMELESS MAN: The Stickman.
 BAG LADY: Long John.
-ERNEST: Graffiti artist, uh? (To Homeless People) Look guys, just get off my beat, you hear?  Get moving.
+ERNEST: Graffiti artist, uh? Look guys, just get off my beat, you hear? Get moving.
+CU ERNEST: Squinting to see over his flashlight beam.
 ERNEST: Hey, buddy!
-ERNEST: Get off my track...
-ERNEST: Sweet Jesus...
-PETER: Heya. (Kisses her on the cheek.) Where's the boss?
+ERNEST: Get off my track.
+ERNEST: Sweet Jesus.
+PAST!: CRACK! Ernest's body is twisted and crunched by powerful Through the strobing windows we see Ernest enveloped by the dark figure, then raised above, taken away.
+TRACK: The can of mace rolls next to the track as the TRAIN CLEARS. The track is empty again.
+PETER: ( Kisses her on the cheek. ) Where's the boss?
 SIRI: Ant mound.
 PETER: You okay?
-SIRI: It's just a headache.  We were sandblasting Trump Tower here since four this morning.
-PETER: Maybe you should sit...
-SIRI: I'm fine. Go talk to Susan.  She could use a good word right now.
+SIRI: It's just a headache. We were sandblasting Trump Tower here since four this morning.
+PETER: Maybe you should sit.
+SIRI: I'm fine. Go talk to Susan. She could use a good word right now.
+PETER: approaches Susan. She's staring through thr glass panes of the exhibit at the crowd of patrons. In the refraction, their black tuxedoes and evening gowns seem to blend into one another.
 PETER: Great crowd.
 SUSAN: No such thing, baby.
 SUSAN: I get the feeling they came more for the potroast than the apterids.
-PETER: Fuck 'em.  They don't know what they're missing.
-SUSAN: (Distantly) Right.
+PETER: Fuck 'em. They don't know what they're missing.
+SUSAN: ( Distantly )
 PETER: What's wrong?
-SUSAN: Oh...nothing that a little menopausal's pee daikiri couldn't cure. Least that's what I thought.
-PETER: (genuinely moved) Oh, no, you were-
-SUSAN: I was just late.
-SUSAN: Ironic, don't you think?  These guys can hatch hundreds of offspring in a single clutch of eggs, right? And here we are...
+SUSAN: Oh.nothing that a little menopausal's pee daikiri couldn't cure. Least that's what I thought.
+PETER: ( genuinely moved ) Oh, no, you were-
+SUSAN: I was just late. Ironic, don't you think? These guys can hatch hundreds of offspring in a single clutch of eggs, right? And here we are.
+SUSAN: Ironic, don't you think? These guys can hatch hundreds of offspring in a single clutch of eggs, right? And here we are.
 PETER: Susan, we're not b-
-SIRI (OS): Susan?
-SIRI: (Weakly.) I'm sorry.  I think...I need...
-SUSAN: Siri...
-SUSAN: Siri!
-PETER: ...I think it's some kind of systemic infection, Chris.  I saw a few cases like it yesterday. A sweatshop in Canal.
-RAYMOND: (to Peter.) Okay, look.  You better come in with me.  Help me through.
-RAYMOND: (To Peter) All hands on deck, Pete. Remember the dril?
+SIRI: ( Weakly. ) I'm sorry. I think.I need.
+SUSAN: Siri collapses. The exhibit tips over. Peter pulls Susan out of the way just as the exhibit
+SUSAN: The room erupts into COMMOTION. Susan and Peter run to Siri, who lies unconscious on the Peter gently turns her over. Siri's BLEEDING from the corner of her mouth. Just like the Chinese workers in the sweatshop. Tuxedoed people encircle her next to the insect mounds.
+PETER: .I think it's some kind of systemic infection, Chris. I saw a few cases like it yesterday. A sweatshop in Okay, look. You better come in with me. Help me through.
+RAYMOND: ( to Peter. ) Okay, look. You better come in with me. Help me through.
+RAYMOND: ( To Peter ) All hands on deck, Pete. Remember the It'll come back to me.
 PETER: It'll come back to me.
 PETER: Looks like a Lyme disease rash.
 RAYMOND: It's not consistent with the internal bleeding. Any idea what bit her?
 RAYMOND: I think we're gonna need to have that specimen here.
+OVERHEAD VIEW: The barefoot little boy crosses the street, steps through the center of the huge PAINT STAIN on the sidewalk. The CLICKING sound comes again.
+STREET LEVEL: The CLICKING comes again from inside the flophouse. It continues a little bit, then stops. Chuy CLICKS his spoons together, mimicking the sound. Beat. A CLICKING from within again; almost an answer. Chuy ducks under the yellow DOH tape, walks toward the front of the building. He comes to the boarded entrance. There is a hole, narrow, and low in the doorway. Chuy squats, begins to wriggle through it.
+CHAPEL: Bits of STREETLIGHT slant in. Chuy walks slowly, listening. He steps into the SHADOW of a LOOMING FIGURE. He turns.
+CHUY: stares without emotion at the plaster figure. MOVEMENT to his side. He turns again. A dimly-lit FIGURE stands before him. Shapes fold and regroup in the darkness, resolving into the tall figure of the OVERCOAT MAN. The Man begins to emit the CLICKING NOISE from under his chin, his whole head VIBRATING. Chuy smiles. He has a beautiful smile.
 CHUY: Mr. Funny Shoes.
-SUSAN: ...you don't even know what you're looking for.
-PETER: You said that thing was big as your hand.  I don't think I'm going to miss...
-SUSAN: Why take the chance?  Just let me go down there with you...
-PETER: No.
-PETER: Susan, listen to me:  you handled that insect almost as much as Siri...
+SUSAN: .you don't even know what you're looking for.
+PETER: You said that thing was big as your hand. I don't think I'm going to Why take the chance? Just let me go down there with you.
+SUSAN: Why take the chance? Just let me go down there with you.
+PETER: Susan glares at him. Peter sits down by her.
+PETER: Susan, listen to me: you handled that insect almost as much as Siri.
 SUSAN: It didn't bite me.
-PETER: I know.  But if it was carrying something...there's a chance you could have been exposed.
-PETER: Chris is going to run some blood tests on you.  I want you to stay here till he's absolutely sure you're clean.  Okay? Then you'll call me... You'll catch up with us...
-PETER: We'll be all right, Sus.  I promise.
+PETER: I know. But if it was carrying something.there's a chance you could have been exposed.
+PETER: Chris is going to run some blood tests on you. I want you to stay here till he's absolutely sure you're clean. Okay? Then you'll call me. You'll catch up with us.
+PETER: We'll be all right, Sus. I promise.
 MANNY: My father saw me stay in bed, he'd go get a pitcher. Cold water, whoosh, I tell you that's some alarm clock, brrrrr!
-MANNY: Ah! There you go! The way you like 'em, Chu-chu... (He pours a glass of milk.) We're low on milk, you remind Grampa to pick some up tonight, okay?
-WORKMAN: Hold up!  We gotta block on filter D.
-WORKMAN: Oh, God...
+MANNY: Ah! There you go! The way you like 'em, We're low on milk, you remind Grampa to pick some up tonight, okay?
+WORKMAN: Hold up! We gotta block on filter D.
+UNDERWATER SHOT: Spooky, silent. The grappling hook moves like a scythe to the .past long, soft filaments of RAGGED TISSUE. .and connects with a LARGER FORM.
+ABOVE WATER: The Workman feels the grappling hook connecting. He gives a YANK, hooking whatever it is. He begins pulling it up. A PALE FORM bubbles to the surface. The Workman's face goes pale.
+WORKMAN: Oh, God.
 CONTROL BOOTH: What's the problem?
+VOICE: What's the problem?
 WORKMAN: I think it's a baby!
 RAYMOND: How you feeling?
 SUSAN: You tell me.
 RAYMOND: Your blood tests were all negative. You checked out.
 SUSAN: What about Siri?
-RAYMOND: She's stable.  I don't think there's any immediate danger, but we'll have to keep her under observation...
+RAYMOND: She's stable. I don't think there's any immediate danger, but we'll have to keep her under observation.
 SUSAN: You think it's some form of Strickler's, don't you?
-RAYMOND: Pathology's still working on the tissue samples.  If it is...it must be an errant strain.  Shorter incubation period. (Beat.) I'm sorry, Sue.  We just don't know yet.
-JEREMY (OS): ...how many times I gotta tell you, man: we can't accept this!
-EMT (OS): Well, what the hell else am I suppose to do with it?
+RAYMOND: Pathology's still working on the tissue samples. If it is.it must be an errant strain. Shorter incubation period. I'm sorry, Sue. We just don't know
 JEREMY: Take it out back and throw it in the friggin' dumpster!
 EMT: Not unless somebody signs for it.
 SUSAN: Oh, my God.
-JEREMY: Hey, you can't...
+JEREMY: Hey, you can't.
 SUSAN: What's your name?
-JEREMY: Jeremy...
-SUSAN: Okay, Jeremy...go get Dr. Chris Raymond, will you?
-JEREMY: Lady...
-SUSAN: Did you hear me?  Get Dr. Raymond!
-JEREMY: Okay.
-SUSAN: (To EMT) Where'd you find it?
-EMT: Washed up at the filtration plant on Bank street. Some asshole there thought it was a baby. They called us.
+JEREMY: Okay, Jeremy.go get Dr. Chris Raymond, will you?
+SUSAN: Okay, Jeremy.go get Dr. Chris Raymond, will you?
+JEREMY: Did you hear me? Get Dr. Raymond!
+SUSAN: Did you hear me? Get Dr. Raymond!
+NOW!!: Jeremy hesitates. But if her tone wasn't enough, the stare she gives him certainly is.
+JEREMY: Jeremy backs away, takes off down the hall. Susan approaches the stretcher.
+SUSAN: ( To EMT ) Where'd you find it?
+EMT: Washed up at the filtration plant on Bank street. Some asshole there thought it was a baby. They called
 EMT: It's a lobster, right?
 LEONARD: Better hurry it up, Doc. My shift's almost over.
-PETER: Guess someone requested you for overtime...buddy.
-SUSAN: Posterior sternites are gone...half the protonum rotted off.
-RAYMOND: Maggots...
-SUSAN: Near hatching.  Thing must've died about three weeks ago.
+PETER: Guess someone requested you for
+SUSAN: Posterior sternites are gone.half the protonum rotted off.
+RAYMOND: Near hatching. Thing must've died about three weeks ago.
+SUSAN: Near hatching. Thing must've died about three weeks ago.
 SUSAN: Do you have a polaroid?
-LEONARD: You all watch your step.  We got some burrows goin' down seven stories here.  You fall, I don't wanna have to come pick you up.
-JOSH: (Whisper to Peter) New York's finest.
+LEONARD: You all watch your step. We got some burrows goin' down seven stories here. You fall, I don't wanna have to come pick you up.
+JOSH: ( Whisper to Peter ) New York's finest.
 JOSH: There's really people living down here?
-LEONARD: Mole people. This section was pretty popular, all the way to Fulton Street...
-LEONARD: Substance abusers, mental cases... Then about a year ago, Poof! All gone. Rumors got started... Someone found a couple of stiffs...
-LEONARD: Down here's the land of talk, see? So the wildest version goes the farthest. They mark that area with a sign or a drawing, and its as good as closed. (chuckles) We had one fella... for years said he was Bela Lugosi. Got him on Geraldo.
+LEONARD: Mole people. This section was pretty popular, all the way to Fulton Street. Substance abusers, mental cases. Then about a year ago, Poof! All gone. Rumors got started. Someone found a couple of Down here's the land of talk, see? So the wildest version goes the farthest. They mark that area with a sign or a drawing, and its as good as closed. We had one fella. for years said he was Bela Lugosi. Got him on Geraldo.
+LEONARD: Substance abusers, mental cases. Then about a year ago, Poof! All gone. Rumors got started. Someone found a couple of Down here's the land of talk, see? So the wildest version goes the farthest. They mark that area with a sign or a drawing, and its as good as closed. We had one fella. for years said he was Bela Lugosi. Got him on Geraldo.
+LEONARD: Down here's the land of talk, see? So the wildest version goes the farthest. They mark that area with a sign or a drawing, and its as good as closed. We had one fella. for years said he was Bela Lugosi. Got him on Geraldo.
+MORGUE: Susan's got the phone up on her shoulder, clamped against her ear. Raymond's cranking out a bunch of Polaroids. Color shots of the insect, from every angle.
 SUSAN: It's me. Can you hear me?
-PETER: (phone, barely audible) Yeah, barely. We haven't found anything down here. Nothing...
-SUSAN: I have.
-SUSAN: I'm on my way. I've got something for you to look at...
-PETER: We'll be back at the platform in...
-LEONARD: 20 minutes. If you don't go sight-seeing anymore.
-PETER: (To phone.) 20 minutes. (Beat.) Susan?
-LEONARD: Funny.  Shoulda seen some track bunnies by now.
-JOSH: What?
-LEONARD: Track bunnies.  Rats.  They're usually around.
-MANNY: No, no, please understand... I can't wait that long.
-MANNY: Please. I write it down. (he writes) 2... 8... 7... 3. What does this mean "case number"? Okay. So, now what?  When can you...?
-MANNY: No, I can't wait...no, listen...
+PETER: ( phone, barely audible ) Yeah, barely. We haven't found anything down here. Nothing.
+SUSAN: I have. I'm on my way. I've got something for you to look at. We'll be back at the platform in.
+SUSAN: I'm on my way. I've got something for you to look at. We'll be back at the platform in.
+PETER: We'll be back at the platform in.
+LEONARD: 20 minutes. If you don't go sight-seeing 20 minutes.
+PETER: ( To phone. ) 20 minutes. ( Beat. )
+LEONARD: Funny. Shoulda seen some track bunnies by now.
+JOSH: Track bunnies. Rats. They're usually around.
+LEONARD: Track bunnies. Rats. They're usually around.
+MANNY: No, no, please understand. I can't wait that long.
+MANNY: Please. I write it down. 2. 8. 7. 3. What does this mean "case number"? Okay. So, now what? When can you.?
+MANNY: No, I can't wait.no, listen.
 MANNY: Hijos de puta.
+FIGURE, CLOSER: Another human-looking figure, long and thin, but with something slightly off about it. It has six limbs instead of four!
+MANNY: frowns, looks down at the dark flophouse across the street.
 MANNY: Mr. Funny Shoes.
-JOSH: (Sniffing) Smells like acid.
-PETER: Ammonia.
-JOSH: Peter...
-PETER: Yeah...?
+BATHROOM CABINET: Manny takes a STRAIGHT RAZOR from the bathroom cabinet, opens the blade.
+JOSH: ( Sniffing ) Smells like acid.
+PETER: Josh walks to the right, where the smell seems to emanate from. At last they come to
 JOSH: There's some weird shit here.
-PETER: Weird shit...?
-JOSH: Take a look.
-JOSH: Fecal matter, unknown origin: weird shit. (Beat) Whatever it is, it's not human.
+PETER: There's some weird shit here.
+JOSH: There's some weird shit here.
+PETER: Weird shit.?
+JOSH: Take a look. Fecal matter, unknown origin: weird Whatever it is, it's not human.
+JOSH: Fecal matter, unknown origin: weird Whatever it is, it's not human.
 LEONARD: And it needs some metamucil.
-MANNY: Chuy...
-MANNY: Chuy...
+MANNY: He kicks experimentally at the planks, but they're far too Manny explores the opposite face of the building, looking for a way in. A DOG is BARKING incessantly. Manny turns. Something moves in the shadows! Something long and thin, haloed by the rain. It moves again, the streetlight touching it for a fleeting moment as it totters around to the rear of the building. It's The Overcoat Man! The man hurries past. Manny sprints after him.
+ALLEY: Manny explores the opposite face of the building, looking for a way in. A DOG is BARKING incessantly. Manny turns. Something moves in the shadows! Something long and thin, haloed by the rain. It moves again, the streetlight touching it for a fleeting moment as it totters around to the rear of the building. It's The Overcoat Man! The man hurries past. Manny sprints after him.
+ALLEYS: Manny comes running around a pile of grocery crates. There is the OVERCOAT MAN. CARGO WORKERS mill around a group of vegetable trucks, unloading produce. The OVERCOAT MAN attracts no attention. Keeping his head down, staying near the shadowed buildings. Jumping and hopping, he skitters into an alley.
+FOLLOWING: Manny has to trot to keep up with the mysterious figure. He pauses to take a pill and place it under his tongue. Once it takes effect he moves on. The OVERCOAT MAN has moved past a chainlink fence. How?? It's too high!!! The old man squeezes through a jagged opening. The metal fabric cuts his shirt. On the other side: a dead end. Nowhere to go except A SEWAGE GRATE Manny lifts it.
+SEWAGE PIPE: Manny lands on his feet with considerable difficulty. He flicks his lighter flame and opens the straight razor. This pipe is carpeted with trash and a thick crust of dirt. Something moves under a wet newspaper: a thick mass of long- legged spiders dissolve onto the walls and floor. Suddenly.the distant sound of spoons playing.
+MANNY: Manny pulls a rosary from his pocket, wraps it around his wrist and crosses himself with the razor. .then begins to move down the pipe.
 REPAIRMAN: Hey, Lady, all power will be down in five minutes, okay?
-SUSAN: Okay....
-SUSAN: Peter?
-LEONARD: I've never been this deep. This area here is the Old Armory station. They built it in the 40's. Ran out of money half-way through...
+SUSAN: She munches on the bar. She stops: one snapshot has caught her attention. The fridge light illuminated this photograph. Susan turns it around. and around. Trying to find something different in the lines. A train roars by. Then she notices it:
+THE POLAROID: The closed jaws. They look like A HUMAN FACE.
+SUSAN: Gets up nervously and heads for the dor to the locker room. A whole row of lamps goes off. The rest flickers in and Then we see, now standing on her platform: THE OVERCOAT MAN!! He looks at her between a row of columns under the dead neon Susan tries the locker room door. It's unlocked.
+SUSAN: OVERCOAT MAN The man's face TIPS BACK. .raising the complex, glittering INSECT HEAD FROM BEHIND
+OVERCOAT MAN: The man's face TIPS BACK. .raising the complex, glittering INSECT HEAD FROM BEHIND
+LEONARD: I've never been this deep. This area here is the Old Armory station. They built it in the 40's. Ran out of money half-way through. Okay, the fat lady's singing. Time to go.
 LEONARD: Okay, the fat lady's singing. Time to go.
-PETER (O.S.): (To Josh) I want a team in here by six tonight, hands and knees with toothpicks...
-PETER: Don't!!
+PETER: putting the last sample boxes into the back-pack, looks up and sees
+LEONARD: step onto the scaffolding, raising the rock to crush the SMASH! Leonard tosses the rock at the insect, crushing it. Peter rushes to the insect's corpse on the scaffolding.
+PETER: SMASH! Leonard tosses the rock at the insect, crushing it. Peter rushes to the insect's corpse on the scaffolding.
 LEONARD: Did you see the size of that thing?!
 PETER: Look what you did! You stupid sonofa-
-JOSH: Peter!
-PETER: It's okay.  I'm all right.
+CREEEEAAAAAK!: THE ENTIRE SCAFFOLDING GIVES WAY! Buckling diagonally. .taking Peter and Leonard with it. CRASH! Both Peter and Leonard are thrown to the ground of the station below. The scaffolding falls around them.
+JOSH: rushes forward.
+JOSH: PETER AND LEONARD stir in the wreckage. Peter rises shakily. He puts his glasses on. One of the lenses is badly smashed.
+PETER: It's okay. I'm all right.
 LEONARD: Get the hell away from me!
-PETER: (Deadpan) He's all right, too.
+PETER: ( Deadpan ) He's all right, too.
 LEONARD: Oh, that's gonna work.
 PETER: You got a better way up?
-LEONARD: (To Josh.) Show that to the station manager.  Tell him Leonard's gonna have his bubble-butt he don't have someone down here in ten.
-JOSH: H-how do I get...?
-LEONARD: Way we came.  Take the first tunnel to your right...
-LEONARD (OS): Go left.  Go left again till you hit the fork... Then right again. You got that?
-JOSH: I think so. One right, two lefts...
+LEONARD: ( To Josh. ) Show that to the station manager. Tell him Leonard's gonna have his bubble-butt he don't have someone down here in ten.
+JOSH: H-how do I get.?
+LEONARD: Way we came. Take the first tunnel to your right.
+JOSH: I think so. One right, two lefts.
 LEONARD: And a right.
-JOSH: Right.
+JOSH: Go Josh. Now.
 PETER: Go Josh. Now.
+SUSAN'S HAND: Her fingers close around a three-foot piece of RUSTY PIPE. Something dark drips on her hand.
+SUSAN: looks up. Above her, a badly decomposing HUMAN FOOT, or what is left of it. All part of the excarnated corpse of the Chinese Preacher. His gold cross shines boldly in the dark. Susan GASPS.
+THE MIMIC: hears the sound. It immediately SKITTERS back to her.
+SUSAN: jerks herself sideways. AND STABS THE PIPE into the Mimic's thorax with a wet CRRK! Susan heaves herself up, pushing the thing onto its back. The Mimic BUZZES furiously, milky WHITE FOAM pumping from the wound. Its legs slash the air as it tries to right itself. Susan runs for the tunnels, debris falling from her clothing.
+JOSH: comes to a t-junction. He checks his notepad for the appropriate direction. He turns, heads left.
+SUSAN: EXT. STREET ABOVE - NIGHT Life as usual on Delancey street. Pedestrians crisscross the metal grate, hunched under their umbrellas. Traffic noise, T.V. displays on street front stores, boom boxes, car horns. They drown out the tiny sound of Susan's voice.
+HELP!!!: EXT. STREET ABOVE - NIGHT Life as usual on Delancey street. Pedestrians crisscross the metal grate, hunched under their umbrellas. Traffic noise, T.V. displays on street front stores, boom boxes, car horns. They drown out the tiny sound of Susan's voice.
+SUSAN: hears distant FEET SCURRYING toward her, punctuated by a metallic CLANG! CLANG! CLANG!
+SIDE TUNNEL: CLANG! The metal pipe, still imbedded in the Mimic, BANGS the wall as the insect moves down the dripping narrow tunnel.
+SUSAN: looks around frantically. She crosses to a METAL LID on the floor, lifts it. A HOLE is below, dropping off into darkness. The Mimic's CLANGING grows louder. Susan sits herself on the edge of the hole, grasping the metal lid by handles on its underside. The Mimic rushes into the chamber, speeding toward her. Susan JUMPS into the hole, hanging onto the lid. WHANG! The lid SLAMS SHUT over the hole a fraction of a second before the creature reaches it. The Mimic touches the lid with its antennae, confused.
+PIPE GALLERY: Susan CRASHES onto a juncture between two large PIPES. She MOANS in pain.
+WET SECTION: Josh cautiously enters a vaulted area. Old pipes have been ripped from the walls. WATER gushes over the steel-plated walls. He looks around- this doesn't seem familiar. Josh freezes as he sees something behind a loose metal PLATE on the wall. He yanks at the plate- it gives a little bit. He yanks harder- the plate falls down on one side, hanging precariously from a loose bolt. It reveals A HOLE PACKED WITH DOZENS AND DOZENS OF OOTHECAS. He leans close to examine them- there is a NOISE in the tunnel behind him-
+JOSH: Holding his breath and tiptoeing sideways, never taking his eyes off the thing, Josh begins to move away. He sees a narrow OPENING in the wall- there seems to be dim LIGHT coming from something beyond it. He tries to squeeze through the opening-
+MIMIC: The creature is immobile behind the sheet of water, as if mesmerized by its flow-
+PIT: Josh puts the old sewing machine upright.
+OUTSIDE: Suddenly, the bolt hinging the plate gives way and. the steel plate hits the ground: KLANGG!!
+THE MIMIC: leaps into action!
 JOSH: Oh shit, oh shit, oh shit!
+JOSH: Oh shit, oh shit, oh shit!
+THE MIMIC: rushes through the opening without even slowing down.
+JOSH: pulls himself up, up- WHAM! The Mimic hits the lower part of his body, BLOOD spraying up through the hole. He SCREAMS, grasps the cord with both hands! He is brutally YANKED down into the hole, the sewing machine tipping, then dragged across the tiled floor till it wedges violently in the hole! We track over to reveal, one of Chuy's perfectly executed WIRE SCULPTURES. Sitting atop another sewing INT. REMAINS OF THE SUBWAY STATION A ring of FLARES burns in the darkness like an island. Peter lights another one, revealing a space buried in layers of dust and time. Cracked MANNEQUIN FACES stares out from an unopened TAILOR SHOP. A FLOWER PARLOR decorated with cobwebs. A yellowed NEWSPAPER on the floor, its headlines reading: GERMAN TROOPS
 PETER: Any luck?
-LEONARD: Well...there's an old service elevator half a mile down the tracks.  Ain't gonna be much use, though.  Lines are dead.
-PETER: You said those cables're still live. Can't we rewire...?
+LEONARD: Well.there's an old service elevator half a mile down the tracks. Ain't gonna be much use, though. Lines are dead.
+PETER: You said those cables're still live. Can't we rewire.?
 LEONARD: Oh, man, there you go again.
-PETER: What?
-LEONARD: Those things bring juice to the new stations.  You just can't rewire that shit...
+PETER: Those things bring juice to the new stations. You just can't rewire that
+LEONARD: Those things bring juice to the new stations. You just can't rewire that
 PETER: For Chrissakes, what's the problem? You need a memo every time you fart?
 LEONARD: All right, motherfucker, that's it.
 PETER: Shh! Shh!
-LEONARD: (tentative) Manny?!
-LEONARD: My God, what the hell are you...?
+LEONARD: ( tentative )
+LEONARD: My God, what the hell are you.?
 MANNY: Hurry, the woman needs help!
-PETER: Woman?
-SUSAN: (A whisper) Don't.
-PETER: Listen to me:  we're getting you out.
-PETER: (To Manny and Leonard) Give me your belts.
-LEONARD: (to Manny, as he ties them together) What are you doing down here?
-MANNY: Chuy. He was taken. He's down here somewhere... (to Peter) Oh, please, hurry. I saw what was after her.
-PETER: What's...?
+PETER: CUT TO:
+SUSAN: ( A whisper ) Listen to me: we're getting you out.
+PETER: Listen to me: we're getting you out.
+PETER: ( To Manny and Leonard ) Give me your belts.
+LEONARD: ( to Manny, as he ties them together ) What are you doing down here?
+MANNY: Chuy. He was taken. He's down here Oh, please, hurry. I saw what was after her.
+PETER: Just hurry.
 MANNY: Just hurry.
 PETER: I'm coming, Sus, I'm coming.
 SUSAN: No, Jesus, no.
-PETER: (To Leonard) Toss the flare down!
-LEONARD: I only got...
+PETER: ( To Leonard ) Toss the flare down!
+LEONARD: I only got.
 PETER: Just do it!
-PETER: Oh, Jesus...
-LEONARD: What the fuck is that?! What the fuck is that?!
-SUSAN: (A desperate appeal) Peter...
+THE MIMIC: pipe in its thorax, nimbly CLIMBING THE PIPES TOWARD SUSAN
+PETER'S: eyes grow huge.
+PETER: Oh, Jesus.
+LEONARD: just plain loses it.
+LEONARD: What the fuck is that?! What the fuck is
+SUSAN: knows all too well what's coming for her.
+SUSAN: ( A desperate appeal )
 PETER: Wrap it around your hand!
 PETER: Come on!
 PETER: Get on my shoulders!
 PETER: Let's go!
-PETER: Oh, shit...
-MANNY: There!
+PETER: Oh, shit.
+MANNY: He points to the open DOOR of an ancient SUBWAY CAR. They sprint for the car, get to the door. Manny, Peter, Leonard, then Susan.
 LEONARD: Get the goddam door!
 PETER: Push it! Push it! Don't let up!
+HALF!: The wings flap wildly, the abdomen shatters the safety window's outer panels. But the FRONT SECTION IS STILL ALIVE. It scrabbles in, spraying white blood. .drags itself up on the ceiling, then down onto the floor and under a row of shelves in a half-circle around the car till it finally comes to a halt. Silence. The only sound is a SKITTERING outside. Susan looks outside the window. The Mimic's REAR HALF IS STILL TRYING TO PUSH THROUGH THE DOOR, its feet blindly dragging along.
+LEONARD: What the fuck was that?
 LEONARD: What the fuck was that?
 LEONARD: You better tell me what the hell's going on here!
 MANNY: Hey, hey!! Take it easy!!
-PETER: (to Leonard) We don't know!! We don't know what it is!
+PETER: ( to Leonard ) We don't know!! We don't know what it
 PETER: Wait a minute-
 LEONARD: Fuck you, wait a minute. I'm going to-
+LEONARD: GET IT! GET IT OFF ME!
 PETER: Its muscles are locked.
-LEONARD: (Hoarse) Oh, Jesus!!
-MANNY: Wait...
+LEONARD: ( Hoarse ) Oh, Jesus!!
+MANNY: Manny removes a can of shoe polish from his coat, then starts smearing the stuff onto the Mimic's head and jaws.
 LEONARD: Oh, Jesus! It's hitting the bone man, get it off!!
-PETER: (Stopping him.) Hey hey hey...
+PETER: ( Stopping him. ) Hey hey hey.
 MANNY: Is how we make loose the ticks back home.
-PETER: Just keep holding it.  Can you do that for me? (No reponse.) Susan?
-MANNY (OS): Doctor Tyler?
+PETER: Just keep holding it. Can you do that for me?
 PETER: You feel anything?
-LEONARD: Yeah, I feel like ripping your fucking eyes out...
-PETER: Leonard, listen.  I need to see if there's any nerve damage before we carry you back. (No response.) Look, I'm trying to help you here...
-LEONARD: Oh, you helped me here, all right, white boy.  You and your goddam memo. You needed to prove your point, uh?
-PETER: I'm sorry.  But I don't think letting you bleed to death is the best apology.
+LEONARD: Yeah, I feel like ripping your fucking eyes out.
+PETER: Leonard, listen. I need to see if there's any nerve damage before we carry you back. Look, I'm trying to help you here.
+LEONARD: Oh, you helped me here, all right, white boy. You and your goddam memo. You needed to prove your point, uh?
+PETER: I'm sorry. But I don't think letting you bleed to death is the best apology.
 MANNY: Where the hell'd that thing come from?
-PETER: (Quietly) A mistake.
-LEONARD: "Mistake"?  What's that supposed to...?
-PETER: It doesn't matter, all right?  It's dead.
-LEONARD: How you know that?  Shit, it was runnin' around with its buttside gone and a fucking pipe through its heart...
-SUSAN: (Quietly) It doesn't have a heart.
-SUSAN: Just inner chambers...
-MANNY: But it look like a man. It... I saw it.
-SUSAN: No...
+PETER: ( Quietly ) A mistake.
+LEONARD: "Mistake"? What's that supposed to.?
+PETER: It doesn't matter, all right? It's dead.
+LEONARD: How you know that? Shit, it was runnin' around with its buttside gone and a fucking pipe through its heart.
+SUSAN: ( Quietly ) It doesn't have a heart.
+SUSAN: Just inner chambers.
+MANNY: But it look like a man. It. I saw it.
+SUSAN: She gets up, finally moving.
 SUSAN: That's what it wanted you to see.
-PETER: So, you're saying this is like those bugs that -- that look like twigs or leaves or...
-SUSAN: (shakes her head) That's camouflage...
-SUSAN: This is mimicry. They evolve to mimic their predators. A butterfly can look like the eyes of an owl.  A catterpillar can copy a snake...
-SUSAN: This has evolved to mimic the most dangerous predator it's ever had...
-SUSAN: Us.
-SUSAN: Mantids can mimic. We gave the Judas that code...
-MANNY: (quotes) "...and behold he will come that walks as a man, yet is not a man- ..."
+OUTSIDE CAR: The subway car sits at the end of the platform, windows dimly glowing in the dark. The door opens, and Manny and Peter snatch the lower half and wing pieces back into the car.
+PETER: So, you're saying this is like those bugs that that look like twigs or leaves That's camouflage.
+SUSAN: ( shakes her head ) That's camouflage.
+SUSAN: This is mimicry. They evolve to mimic their predators. A butterfly can look like the eyes of an owl. A catterpillar can copy a snake.
+SUSAN: This has evolved to mimic the most dangerous predator it's ever had.
+SUSAN: CAMERA cranes up and reveals that the thing now looks like
+SUSAN: Mantids can mimic. We gave the Judas that code.
+MANNY: ( quotes ) ".and behold he will come that walks as a man, yet is not a man- ."
 SUSAN: This, is our baby Peter. Yours and mine. Aren't you proud?
-SUSAN: All these...they're like tunnels of an insect colony. Once these things hit a certain population density, they'll have to move out, form new colonies.
-SUSAN: We have to get help down here.  Burn the tunnels before...
+SUSAN: All these.they're like tunnels of an insect colony. Once these things hit a certain population density, they'll have to move out, form new colonies.
+SUSAN: We have to get help down here. Burn the tunnels before.
 LEONARD: Get the doors!
 PETER: Is there a switch?
-LEONARD: Third rail is dead. (To Manny and Susan.) Get me up.  There must be a manual override in the booth.
-SUSAN: (Whispering to Peter) The lights!
-LEONARD: (Starts looking around) Where's the damn crank?!
-PETER: (hissing a whisper) They're coming!
-SUSAN: I got it!
+LEONARD: Third rail is dead. Get me up. There must be a manual override in the booth.
+SUSAN: ( Whispering to Peter ) The lights!
+OUTSIDE: where the silhouette of a MIMIC moves to the rear of the car.
+CONTROL BOOTH: Leonard opens a box on the side-wall marked MANUAL OVERRIDE. Inside, there is a large, HEXAGONAL SHAPED HOLE.
+LEONARD: ( Starts looking around ) Where's the damn crank?!
+OUTSIDE: The Mimic is only yards away. OTHER SHADOWS emerge from the distant dark.
+INSIDE: Manny leaves Leonard and Susan to look for the lever crank. He runs to help Peter try and shut the doors manually. But it's useless. Many of the doors won't budge.
+PETER: ( hissing a whisper ) They're coming!
+OUTSIDE: The shadows get nearer, their CLICKING louder.
+CONTROL BOOTH: Susan looks under the dashboard, finds a HEXAGONAL SHAPED ROD. The lever crank.
+SUSAN: I got it! Hurry! Please!
 SUSAN: Hurry! Please!
-LEONARD: Come on, you son-of-a...
-SUSAN: Oh, God. (Looks at Leonard.) The blood...
+CONTROL BOOTH: Leonard can't crank fast enough. Susan joins in, putting her hands over Leonard's. Both spin the thing as fast as SUBWAY CAR Peter and Manny each pulling on a door, trying to speed up the closing process. SHADOWS are seen approaching, now very close.
+SUBWAY CAR: Peter and Manny each pulling on a door, trying to speed up the closing process. SHADOWS are seen approaching, now very close.
+CONTROL BOOTH: Leonard and Susan put all their effort into turning the crank one more time.
+LEONARD: Come on, you son-of-a.
+SUBWAY CAR: A SOFT CLICK as the doors SHUT IN UNISON. All four are stock still, like a submarine crew awaiting the blast of depth charges. Their eyes dart to the
+WINDOWS: caked with soot, irradiated by the distant glow of one of the red flares. THUCK! Something BUMPS against the door. A machine-gun patter of FOOTSTEPS on the roof. The car SHAKES.
+OUTSIDE: The dark platform is alive with phantom shapes.
+INSIDE: SCREEECH!! Something sharp is drawn along the car roof like a nail over a chalkboard. THUMP! THUMP! Impacts on the sides. An obscene symphony of sounds as Mimics lay siege to the car.
+PETER: A BUZZ OF WINGS catches his attention. He turns. His face is reflected in a security window. CRACK! The window SPLINTERS, destroying Peter's reflection.
+ABOVE MANNY: Claws SCRATCH the ceiling. It begins to dent.
+SUSAN: Oh, God. The blood.
 SUSAN: His blood! It's driving them crazy! We have to mask the odor!
-PETER: How?!
+PETER: But there's not time enough to discuss possible solutions. Leonard pulls off his jacket. Susan begins wrapping it around his wound to mask it. Manny helps. Peter has upended one shelf, jamming it against a broken window as a barricade. Despite their efforts, the Mimics are not thrown off the
 PETER: It's no use! They know we're in here!
 SUSAN: They don't know anything Peter, they just sense. They're hardwired!
 PETER: Right. Hardwired to eat anything that's not like them!
-SUSAN: Exac...
-SUSAN: (To Manny) Give me your razor.
+SUSAN: She looks over at the severed Mimic corpse nearby. A Manny looks at her blankly. Susan just takes the blade. The whole car is now shaking and buckling. She runs to the Mimic's carcass. For a moment, she hesitates. But the pandemonium leaves her little choice. She SLICES into the Mimic's corpse with the razor.
+SUSAN: ( To Manny ) Give me your razor.
 PETER: What are you doing?
-LEONARD: (covers his nose) Shit!
+LEONARD: ( covers his nose ) Rub it on the windows!
 SUSAN: Rub it on the windows!
-PETER: What-
+PETER: Just do it!!
 SUSAN: Just do it!!
-LEONARD: What are you putting that crap on me for?
-SUSAN: Scent glands.  Insects use 'em to identify themselves to each other.
-LEONARD (O.S.): Okay. That's us.
-LEONARD: This track we're on? Goes down into the repair area. (Makes an "X" further down) The elevator's over here. Leads up to the active tunnels.
+MANNY: looks to the roof, listening. And remarkably, the SOUNDS of the Mimics START
+LEONARD: What are you putting that crap on me Scent glands. Insects use 'em to identify themselves to each other.
+SUSAN: Scent glands. Insects use 'em to identify themselves to each other.
+LEONARD: This track we're on? Goes down into the repair area. The elevator's over here. Leads up to the active tunnels.
 PETER: Can we get this car there?
-LEONARD: Someone'd have to go to the switchroom, pull the coupling lever, that'll send us left and to the elevator.
-SUSAN: But the power...
-LEONARD: Hell, I might be able to juice the whole area, if I can get to the power box. It's just a couple of cables...
-MANNY: Oh, how you gonna get there, Leonard? Hop?
-PETER: (To Leonard) Just talk me through it. I can go with Manny.
-LEONARD: It would take a minute or so. (beat) You won't last that long out there.
+LEONARD: Someone'd have to go to the switchroom, pull the coupling lever, that'll send us left and to the But the power.
+SUSAN: But the power.
+LEONARD: Hell, I might be able to juice the whole area, if I can get to the power box. It's just a couple of cables.
+MANNY: Oh, how you gonna get there, Leonard? Just talk me through it. I can go with It would take a minute or so. You won't last that long out there.
+PETER: ( To Leonard ) Just talk me through it. I can go with It would take a minute or so. ( beat ) You won't last that long out there.
+LEONARD: It would take a minute or so. You won't last that long out there.
 SUSAN: Peter, you couldn't even fix our TV!
-PETER: We'll cover ourselves with this. They can mimic us-  we Goddam mimic them!
-SUSAN: Peter-
-PETER: It worked before...
-SUSAN: (an edge in her voice) The scent won't last...
+PETER: We'll cover ourselves with this. They can mimic us- we Goddam mimic them!
+SUSAN: It worked before.
+PETER: It worked before.
+SUSAN: ( an edge in her voice ) The scent won't last.
 PETER: That's why we should do it now.
-LEONARD: It's just a regular old pump switch, okay? Right by the track signal board.
-LEONARD: The lights come up, you pull the switch.
+LATER: Susan is stuffing Leonard's old bloody bandages into the thorax of the dead Mimic. She ties a flare to its center.
+LEONARD: It's just a regular old pump switch, okay? Right by the track signal
+LEONARD: The lights come up, you pull the I pull.
 MANNY: I pull.
-LEONARD: You don't do that, we're on the wrong track. (turns to Peter) You...
-LEONARD: You gonna finally get to fuck around with the wires.  Think you can handle it?
-PETER: Depends.  You got a memo?
-LEONARD: All right then.  You gonna find two wires.  One's green.  The other's blue...
-MANNY: He's out there. I heard him. How can he be? This things...
-SUSAN: Manny...
-MANNY: I didn't protect him, lady. He trusted me. And I didn't protect him... His father...I lost his father to the streets and now, Chuy...
+LEONARD: You don't do that, we're on the wrong
+LEONARD: You gonna finally get to fuck around with the wires. Think you can handle it?
+PETER: Depends. You got a memo?
+LEONARD: All right then. You gonna find two wires. One's green. The other's
+SUSAN: approaches Manny, who looks distractedly out the window.
+MANNY: He's out there. I heard him. How can he be? This things.
+SUSAN: I didn't protect him, lady. He trusted me. And I didn't protect him. His father.I lost his father to the streets and now, Chuy.
+MANNY: I didn't protect him, lady. He trusted me. And I didn't protect him. His father.I lost his father to the streets and now, Chuy.
 SUSAN: We'll find him. We'll be back and find him.
-SUSAN: You're going to have to keep it really slow.  Their eyes react to sudden movements.
-SUSAN: Don't touch it.  And for Godsakes, try not to sweat.  They can sense chemical changes...
+SUSAN: You're going to have to keep it really slow. Their eyes react to sudden movements. Don't touch it. And for Godsakes, try not to sweat. They can sense chemical changes.
+SUSAN: Don't touch it. And for Godsakes, try not to sweat. They can sense chemical changes.
 PETER: Try not to sweat?
-LEONARD: Okay, people...
-LEONARD (OS): ...are we ready for this?
+LEONARD: Okay, people.
 LEONARD: Whatever you do, don't step on the third rail coming back. Six hundred volts'll blow your leg right off.
-PETER: I was just thinking how I could use a pair of pliers... and I remembered where they are...
-SUSAN: (overlapping) That's it. That's it. Breathe easy.
-PETER: In the tool box under the kitchen counter...
+PETER: I was just thinking how I could use a pair of pliers. and I remembered where they are.
+SUSAN: ( overlapping ) That's it. That's it. Breathe easy.
+PETER: In the tool box under the kitchen Open it.
 SUSAN: Open it.
+LEONARD: begins turning the lever crank slowly.
+SUBWAY DOORS: gradually begin to open, and stop half way. The darkness outside is alive with CLICKING.
+SUSAN: watches nervously for the reaction of the Mimics
+OUTSIDE: LARGE SHADOWS pass far and near of Peter and Manny; but none of the Mimics seem to care about them one way or the other. Peter and Manny exchange looks: a moment of relief. It's Peter slowly moves right along the track to the nearby POWER
+SUBWAY CAR: Susan moves away from the door, goes over the Mimic carcass, filled with the bloody bandages.
+SUBWAY CAR: Leonard has now fully opened the doors.
+SUSAN: pulls the tipcase of the FLARE tied to the dead Mimic's midsection. FSST! The flare SPARKS alive. The sudden light draws the attention of several Mimics Susan pushes the carcass toward an open door at the front of the car. .and with a HEAVE, throws it onto the front track.
+OUTSIDE: The other Mimics take instant notice.
+BY PETER: The Mimic before him suddenly turns. In a flash of speed, it's gone, heading toward
+SUBWAY CAR: Susan watches in disgust.
 SUSAN: Choke on it, motherfuckers.
-PETER: (to himself) Green...Blue...
-MANNY: Chuy...?
-MANNY: (Whispering) Nino...
-MANNY: Chuy...
-PETER: Dammit!
-SUSAN: (horrified) The scent's fading...
-LEONARD: (tense as hell) What's Manny doing? I can't see him anymore.
-MANNY: Nino, please...
-MANNY: Dios mio...
-MANNY: (barely audible) Chuy...
-CHUY: (whispers) Friends.
-CHUY: Friends.
-MANNY: God has closed his eyes. This, he cannot see...
+PETER: breathes a sigh of relief. He goes to the powerbox, opens it up. He shines his flashlight down on the back of his hand. The simple chart tells him what to wire: BLUE WIRES TO
+PETER: ( to himself )
+MANNY: Manny follows the sound.
+MANNY: ( Whispering )
+MANNY: BY THE POWERBOX Peter has made all the necessary connections. He turns now to the fuse-section. A red throw-switch is there, and two big slots for fuses. One is still occupied. The other one empty.
+PETER: CU - PETER'S FOREHEAD BEADS OF SWEAT begin to form.
+SUBWAY CAR: Susan watches the Mimics at their feast. All of a sudden, they begin to stop, as if losing interest.
+SUSAN: ( horrified ) The scent's fading.
+LEONARD: ( tense as hell ) What's Manny doing? I can't see him Nino, please. Dios mio.
+MANNY: Nino, please. Dios mio.
+MANNY: Dios mio.
+MANNY: ( barely audible ) ( whispers ) NO, NO, CHUY, NO.
+CHUY: ( whispers ) NO, NO, CHUY, NO.
+MANNY: NO, NO, CHUY, NO.
+CHUY: The Albino CLICKS his jaws, moving in toward Manny.
+CHUY: plays his SPOONS in perfect imitation.
+MANNY: stands under an archway in a swirl of dust. He raises his arms, like a prophet. He lets go of hsi razor and kneels.
+MANNY: God has closed his eyes. This, he cannot
+PLATFORM: Some Mimics advance toward Peter's direction.
+SUBWAY CAR: Susan desperately waves a flashlight and bangs the window, trying to attract their attention.
 SUSAN: Over here! Over here! Goddam you!!
-SUSAN: (to Leonard)
-PETER: Manny...
-SUSAN: Peter!!
-PETER: Come on, kid...
-PETER: (horrified) Jesus!
+PLATFORM: THUMP! The electricity COMES ON. The lamps on the columns BURST INTO FLAMES from the power surge. Fire illuminates the station like a Greek temple.
+THE MIMICS: clearly react, sensing the chemical change, like bees reacting to honey.
+SUBWAY CAR: ( to Leonard )
+SUSAN: ( to Leonard )
+LEONARD: looks at the now lit control panels, tries to decide which button to press. He begins to press each one in turn.
+PETER: hears the sound of spoons playing. He turns to see Chuy, standing by the outside of the switch room. The boy smiles. A flashlight shines behind him.
+PETER: But the thing holding the flashlight is anything but human: The ALBINO steps into view, moving eerily like an unstrung puppet. His claws and jaws are coated in blood. Chuy joyfully announces the arrival like a little drummer boy.
+THE MIMICS: climb over the roof, moving toward the rear of the-
+FSST!: THE SUBWAY CAR The doors open.
+SUSAN: Peter hesitates, takes a step toward Chuy.
+PETER: Come on, kid.
+PETER: ( horrified )
 SUSAN: Run!! Peter!!
-SUSAN: (Yelling to Leonard)
-LEONARD: The kid...
+THE MIMICS: jump and land
+SUBWAY CAR: just as Peter squeezes through one of the doors. BAM! THUD! The doors dent. Glass cracks.
+SUSAN: ( Yelling to Leonard )
+GO!!: Susan presses the button. The doors close again.
+LEONARD: The kid.
 PETER: The kid's with them!!
 LEONARD: What do you-?
 PETER: Go!! Just go!!
+CONTROL BOOTH: Leonard throws the dead man's switch by the control board.
+SUBWAY CAR: JOLTS into action.
+OUTSIDE: The train LURCHES forward. Wheels spark and kick into gear. The mimics scramble and re- assemble quickly, ready to attack.
+THE ALBINO: changes position and charges towards the car.
 LEONARD: He didn't do it!
-SUSAN: What?
+SUSAN: Manny never threw the coupling switch!! We're goin' the wrong way!!!
 LEONARD: Manny never threw the coupling switch!! We're goin' the wrong way!!!
+OUTSIDE CAR: It keeps bearing right. Further away from their destination. .towards an old STORAGE YARD in their path. Idle cars and repair equipment on the tracks. A crash seems inevitable.
+THE BRAKES: but they don't work at all. From below the car we see the wheels spinning freely, heading for collision.
+SUSAN: MOVE BACK!!!
+MOVE BACK!!!: They rush back against the opposite door.
 SUSAN: You all right?
-LEONARD: (Simply, re: his leg) Can't feel it.
+LEONARD: ( Simply, re: his leg ) Can't feel it.
 SUSAN: Which way?
 LEONARD: Across both tracks!!
-PETER: Shit.
-LEONARD: (Quietly) Lemme go.
+PETER: They head off over a concrete island in the direction of the correct track.
+FURTHER BACK: The Mimics and the Albino moving closer.
+LEONARD: ( Quietly ) Lemme go.
 SUSAN: We're no leaving you!
 LEONARD: No way we can outrun 'em together. Move it!
 LEONARD: NOW!! GO!! Get the hell off my beat!
-LEONARD: Come on.  Come to poppa.
-SUSAN: There.
-LEONARD: Come here, you mealy-mouthed...
-LEONARD: Multi-legged...
-LEONARD: Maggot-munchin' motherfu...
+LEONARD: Come on. Come to poppa.
+LEONARD: takes a stand by the third rail, baton in hand.
+SUSAN: An open CAGE ELEVATOR on a platform nearby. A sign overhead:
+LEONARD: Come here, you mealy-mouthed.
+LEONARD: Leonard raises his baton in top MTA form.
+LEONARD: Maggot-munchin' motherfu.
 SUSAN: I can't tell if it's working!
+SUSAN: looks up, into the shaft.
+THE ELEVATOR: coming down, but it's taking its own sweet time.
 SUSAN: Oh, come on, come on!
 PETER: Jump in.
 PETER: You go first. I'll be right below you.
-SUSAN: Your arm, you can't...
-PETER: I can.  We can do this...
+SUSAN: Your arm, you can't.
+PETER: I can. We can do this.
 SUSAN: We're gonna make it!
-PETER: Don't hold your breath!  Keep it going, even flow!
-PETER: C'mon...
-SUSAN: Ah...
+PETER: Don't hold your breath! Keep it going, even flow!
 PETER: Talk to me.
-SUSAN: Peter...
+SUSAN: Talk to me.
+PETER: Talk to me.
+SUSAN: Susan pulls herself up.
 SUSUAN: I'm really glad I'm not pregnant.
+REVERSE: We look down past them as they climb. Two of the Mimics and the Albino have gotten into the shaft! The Albino is so long it climbs by bracing its legs against opposite walls.
+MIMICS: rushing upward on the shaft wall, higher, higher.
 PETER: Hang onto me.
 PETER: Hang on tight!
 PETER: Come on!
 SUSAN: Don't look back!
-SUSAN: No...
+SUSAN'S POV: The Albino spills out onto the track behind them. Sleek, streamlined, light glancing beautifully off it.
+SUSAN: We can do it!
 PETER: We can do it!
-LITTLE GIRL: Mommy, there's people...
-PETER: (Adrenaline pumping) We-can-do-this!!!
-PETER: It'll be fine... it... They're still down there. We'll seal the whole system, go in with whatever it takes...
-PETER: It'll be fine... We nailed them before, we'll do it again...
-SUSAN: (barely audible) They've come up...
+ALBINO: runs, faster than any other Mimic.
+TRAIN: The express train BLOWS its HORN, RUSHING FORWARD.
+LITTLE GIRL: Mommy, there's people.
+PETER: ( Adrenaline pumping )
+MOTORMAN: The driver sees the battered couple. He reaches for the brake.
+THE ALBINO: directly ahead. The train, still flying, PLOWS INTO IT. .flattening, grinding, pulverizing. .until the windshield of the subway car is covered in white The motoran leans on the brake, his eyes screwed shut in primal horror. The train SQUEALS to a stop.
+PETER: It'll be fine. it. They're still down there. We'll seal the whole system, go in with whatever it
+PETER: It'll be fine. We nailed them before, we'll do it again.
+SUSAN'S POV: Commuters move to and fro, moving up and down and in and out of the illuminated areas of the station. In the crush of onlookers is one deadpan face- a MIMIC, hugging the shadows, waiting for its moment! We PAN 180 degrees to the other side of the platform- there, briefly glimpsed is ANOTHER, and ANOTHER. We TILT down to the throng below.
+SUSAN: ( barely audible ) They've come up.
 TRAIN ANNOUNCER: The 11:16 local to Poughkeepsie, boarding now, Track 32- the 7:20 Connecticut local, making connections to South Norwalk-
+DOWN ANGLE: -culminating in an OVERHEAD VIEW of the main terminal. The movement continues. But from here, the people are dots, their importanec no greater than that of a colony of ants.

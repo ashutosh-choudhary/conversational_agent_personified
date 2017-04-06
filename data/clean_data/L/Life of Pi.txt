@@ -1,182 +1,142 @@
-LIFE OF PI: Written by David Magee Based on the original novel by Yann Martel
-WRITER (V.O.): You were raised in a zoo?
-ADULT PI (V.O.): Born and raised in Pondicherry, in what was the French part of India. My father owned the zoo, and I was delivered on short notice by a herpetologist who was there to check on the Bengal Monitor Lizard.
-ADULT PI (V.O.): Mother and I were both healthy...
-ADULT PI (V.O.): but the poor lizard escaped and was trampled by a frightened cassowary...
 ADULT PI: The way of karma; the way of God.
-WRITER: I assumed your father was a mathematician - because of your name.
+WRITER: I assumed your father was a mathematician - because of your Oh, far from it. I was named after a swimming pool.
 ADULT PI: Oh, far from it. I was named after a swimming pool.
 WRITER: There's a swimming pool named 'Pi?'
-ADULT PI: (He chuckles.) You see, my uncle, Francis, was born with too much water in his lungs. They say the doctor swung Francis around by the ankles to clear the water out and that's what gave him the huge chest and skinny legs that made him such a great swimmer.
-WRITER: (Amused.) Is Francis actually your uncle? He said he was friends with your father.
+ADULT PI: ( He chuckles. ) You see, my uncle, Francis, was born with too much water in his lungs. They say the doctor swung Francis around by the ankles to clear the water out and that's what gave him the huge chest and skinny legs that made him such a great ( Amused. ) Is Francis actually your uncle? He said he was friends with your I call him 'Mamaji,' my 'honorary uncle' - my father's best friend, my swimming guru.
+WRITER: ( Amused. ) Is Francis actually your uncle? He said he was friends with your I call him 'Mamaji,' my 'honorary uncle' - my father's best friend, my swimming guru.
 PI: I call him 'Mamaji,' my 'honorary uncle' - my father's best friend, my swimming guru.
-ADULT PI (V.O.): I trained with him three times a week at the ashram. His lessons would save my life in the end...
 MAMAJI: A mouthful of water will not harm you - but panic will.
-MAMAJI (CONT'D): Remember to breathe. Don't hold your breath. Good boy.
-ADULT PI: (Regarding lunch:) I hope you don't mind vegetarian.
-WRITER: No, not at all... And your name?
-ADULT PI: Hmm?
+ADULT PI: ( Regarding lunch: ) I hope you don't mind vegetarian.
+WRITER: No, not at all. And your name?
+ADULT PI: You - you were going to tell me how you got your name, I think.
 WRITER: You - you were going to tell me how you got your name, I think.
 ADULT PI: I got it from something Mamaji once told my father. Most travelers collect postcards or teacups on their journeys - but not Mamaji. Mamaji collects swimming pools.
-ADULT PI (CONT'D): He swims in every pool he comes upon...
-ADULT PI (V.O.): One day Mamaji said to my father that of all the pools in the world, the most beautiful was a public pool in Paris. That the water there was so clear you could make your morning coffee with it, that a single swim there changed his life.
-ADULT PI (V.O.): Before I was born, he said to my father, "If you want your son to have a clean soul, you must take him one day to swim in the Piscine Molitor." I never understood why my father took this so much to heart...
-ADULT PI: ... but he did, and I was named "Piscine Molitor Patel."
-ADULT PI (V.O.): Imagine me trying to explain that name to my schoolmates. I barely made it to the age of eleven before...
+ADULT PI: . but he did, and I was named "Piscine Molitor Patel."
 BULLY #1: Hey PISCINE!
-BULLY #1 (CONT'D): Are you Pissing right now?
 ANOTHER BOY: Look at him he's Pissing!
-ADULT PI (VO): With one word my name went from an elegant French swimming pool to a stinking Indian latrine. I was Pissing everywhere.
 BULLY #2: No Pissing in the schoolyard!
-ADULT PI (V.O.): Even the teachers started doing it - not deliberately, of course...
 SCIENCE TEACHER: So then - what might occur if we release gas too quickly? Pissing?
 BOY: He said Pissing!
 SCIENCE TEACHER: That's enough - order!
-ADULT PI (V.O.): When we returned the next year for our first day of school, I was prepared.
 BOY: Present sir.
-HISTORY TEACHER: Piscine Patel...
-PI (AT 12): Good morning. I am Piscine Molitor Patel, known to all as... (He writes "PI" on the board.) ... "Pi," the sixteenth letter of the Greek alphabet...
-PI (CONT'D): ... which is also used in mathematics to represent the ratio of any circle's circumference to its diameter - an irrational number of infinite length, usually rounded to three digits, as... (He writes "3.14.")
+HISTORY TEACHER: Piscine Patel.
 HISTORY TEACHER: Very impressive, Pi. Now sit down.
-WRITER (V.O.): And from then on you were Pi?
-ADULT PI (V.O.): Well, no. Not quite ...
 BULLY #2: Nice try, Pissing.
-ADULT PI (V.O.): But I still had the whole day ahead of me. French Class was next...
-PI (12): Je m'appelle Piscine Molitor Patel - dit'Pi'...
-ADULT PI (V.O.): Then Geography...
-PI (12): These are the first twenty decimal places of Pi.
-ADULT PI (V.O.): My last class of the day was Mathematics....
 LIBRARIAN: Slowly, Slowly! Slowly, Slowly!
-LIBRARIAN: It is right... He's really doing this!
-ADULT PI (VO): By the end of that day, I was Pi Patel, school legend.
+LIBRARIAN: It is right. He's really doing
+ALL: 1! 4! 9! 3! 1! PI! PI! PI! By the end of that day, I was Pi Patel, school legend.
 WRITER: Mamaji tells me you're a legend among sailors, too. Out there all alone -
 ADULT PI: I don't even know how to sail. And I wasn't alone out there. Richard Parker was with me.
-WRITER: Richard Parker...? Mamaji didn't tell me everything. He just said I should look you up when I got back to Montreal.
-ADULT PI: So what were you doing in Pondicherry?
+WRITER: Richard Parker.? Mamaji didn't tell me everything. He just said I should look you up when I got back to Montreal.
+ADULT PI: So what were you doing in Writing a novel.
 WRITER: Writing a novel.
-ADULT PI: By the way, I enjoyed your first book. The new one, is it set in India?
+ADULT PI: By the way, I enjoyed your first book. The new one, is it set in No, Portugal, actually. But it's cheaper living in India.
 WRITER: No, Portugal, actually. But it's cheaper living in India.
-ADULT PI: Ah. Well, I look forward to reading it.
+ADULT PI: Ah. Well, I look forward to reading You can't. I threw it out. Two years trying to bring it to life, and then one day it sputtered, coughed, and died.
 WRITER: You can't. I threw it out. Two years trying to bring it to life, and then one day it sputtered, coughed, and died.
 ADULT PI: I'm sorry.
-ADULT PI (V.O.): Pondicherry is the "French Riviera of India." In the streets closest to the ocean, you might think you were in the South of France.
-ADULT PI (V.O.): A few blocks inland, there's a canal; just beyond that is Indian Pondicherry...
-ADULT PI (V.O.): And the Muslim Quarter is just to the West.
+WRITER: ( Shrugs, making light of I was in a coffee house in Pondicherry one afternoon, mourning my loss, when this old man at the next table struck up a book, he said: ( Imitating Mamaji: ) "So. a Canadian who's come to French India in search of a story. Well, my friend, I know an Indian in French Canada who has the most incredible story to tell. It must be fate that the two of you should Parker in so many years. What has Mamaji already told you?
+ADULT PI: book, he said: "So. a Canadian who's come to French India in search of a story. Well, my friend, I know an Indian in French Canada who has the most incredible story to tell. It must be fate that the two of you should Parker in so many years. What has Mamaji already told you?
+WRITER: book, he said: "So. a Canadian who's come to French India in search of a story. Well, my friend, I know an Indian in French Canada who has the most incredible story to tell. It must be fate that the two of you should Parker in so many years. What has Mamaji already told you?
+ADULT PI: Parker in so many years. What has Mamaji already told you?
+WRITER: make me believe in God.
+ADULT PI: ( Pi laughs. ) He would say that about a nice meal. As for God, I can only tell you my story; you will decide for yourself what you believe.
+WRITER: ADULT PI - The SHORELINE - Bicycles and pedestrians; policemen in round, flat-top French hats.
+ADULT PI: CUT TO: MONTAGE OF PONDICHERRY,
+OF PONDICHERRY,: 19 EXT. PONDICHERRY, SHORELINE 1954 - DAY 19
 ADULT PI: When the French handed Pondicherry back to us in 1954, the town decided that some sort of commemoration was in order.
-ADULT PI (V.O.): My father, who was a clever businessman, came up with one.
-ADULT PI (V.O.) (CONT'D): He ran a hotel, and he got the idea to open a zoo in the local Botanical Gardens instead.
-ADULT PI (V.O.): As it also happened, my mother was a botanist in the Gardens. They met, married, and a year later my brother Ravi was born. I came two years after that.
-WRITER: It sounds magical, growing up in-
+PONDICHERRY.": ADULT PI ( V.O. )
+WRITER: It sounds magical, growing up in- Amen. Let's eat.
 ADULT PI: Amen. Let's eat.
 WRITER: I didn't know Hindus said 'amen.'
-ADULT PI: (As he serves food:) Catholic Hindus do.
+ADULT PI: ( As he serves food: ) Catholic Hindus do.
 WRITER: Catholic Hindus?
-ADULT PI: We get to feel guilty before hundreds of gods instead of just one.
+ADULT PI: We get to feel guilty before hundreds of gods instead of just But you're a Hindu first?
 WRITER: But you're a Hindu first?
-PI: None of us knows God    until someone introduces us. I was    first introduced to God as    a Hindu. There are 330 million gods    in the Hindu religion - how can I    not come to know a few of them?
-PI (V.O.): I met Krishna first...
-MOTHER (V.O., IN TAMIL): Yashoda once accused baby Krishna of eating dirt: "Tut, tut, you naughty boy - you shouldn't do that..."
-PI: ...But he didn't!
-MOTHER: That's what he told her. "I didn't eat dirt!" "No? Well, then open your mouth." So Krishna opened his mouth.
-MOTHER (TAMIL) (CONT'D): And what do you think Yashoda saw?
-PI (TAMIL): What?
-MOTHER (TAMIL): She saw in Krishna's mouth the whole entire universe.
-ADULT PI (V.O.): The gods were my superheroes growing up. Hanuman, the monkey god, lifting an entire mountain to save his friend Lakshmana. Ganesh, the elephantheaded, risking his life to defend the honor of his mother Parvati. Vishnu, the Supreme Soul, the source of all things. Vishnu sleeps, floating on the shoreless cosmic ocean and we are the stuff of his dreaming.
-FATHER: (With quiet sincerity.) Spectacle. Don't let the stories and pretty lights fool you, boys. Religion is darkness.
-ADULT PI (V.O.): My dear 'Appa' believed himself part of the 'new India.' As a child, he'd had polio; he used to lie in bed, wracked with pain, wondering where God was. In the end, God didn't save him; Western medicine did.
-ADULT PI (V.O.): My 'Amma' went to college and thought her family was part of the 'new India' as well - until her parents cut her off because they thought she was marrying beneath her. Her religion was the only link she had to her past.
-ADULT PI (V.O.): I met Christ in the mountains when I was 12. We were visiting relatives, tea growers in Munnar. It was our third day there; Ravi and I were terribly bored.
-RAVI (14): Challenge. I'll give you two rupees. Run into that church and drink the Holy water.
+PI: None of us knows God until someone introduces us. I was first introduced to God as a Hindu. There are 330 million gods in the Hindu religion - how can I not come to know a few of them?
+PI: .But he didn't!
+MOTHER: That's what he told her. "I didn't eat dirt!" "No? Well, then open your mouth." So Krishna opened his
+FATHER: ( With quiet sincerity. ) Spectacle. Don't let the stories and pretty lights fool you, boys. Religion is darkness.
 PRIEST: You must be thirsty. Here, I brought you this.
 PI: Why would a god do that? Why would he send his own son to suffer for the sins of ordinary people?
 PRIEST: Because He loves us. God made Himself approachable to us - human - so we could understand Him.
-PRIEST (CONT'D): We can't understand God in all His perfection, but we can understand God's son and His suffering as we would a brother's.
-ADULT PI: That made no sense. Sacrificing the innocent to atone for the sins of the guilty? What kind of love is that?
-ADULT PI (V.O.): But this Son - I couldn't get Him out of my head.
+ADULT PI: That made no sense. Sacrificing the innocent to atone for the sins of the guilty? What kind of love is
 PI: If God is so perfect and we're not, why would He want to create all this? Why does He need us at all?
-PRIEST: All you have to know is that He loves us. "God so loved the world that He gave His only Son." This Son taught us to love one another...
-ADULT PI (V.O.): The more I listened to the priest, the more I came to like this Son of God.
+PRIEST: All you have to know is that He loves us. "God so loved the world that He gave His only Son." This Son taught us to love one
 PI: Thank you, Vishnu, for introducing me to Christ.
-ADULT PI (V.O.): I came to faith through Hinduism and I found God's love through Christ, but God wasn't finished with me yet.
-ADULT PI (V.O.): God works in mysterious ways - and so it was He introduced Himself again, this time by the name of Allah.
-FATHER: This lamb is exquisite - it's best dish on the table. You are all missing out...
+FATHER: This lamb is exquisite - it's best dish on the table. You are all missing out.
+RAVI: ( Laughing: ) Are you going to Mecca this year, Swami Jesus? Or to Rome, for your coronation as Pope Pi-us?
+MOTHER: you like cricket, Pi has his own cannot follow three different religions at the same time, the same time is the same as not believing in anything at all.
+FATHER: cannot follow three different religions at the same time, the same time is the same as not believing in anything at all.
+PI: the same time is the same as not believing in anything at all.
+FATHER: the same time is the same as not believing in anything at all.
+MOTHER: finding his way.
+FATHER: does not choose a path? Listen: instead of leaping from one religion to the next, why not start with reason? In a few hundred years, science has taken us farther in understanding the universe than religion has in ten thousand.
+MOTHER: Science can teach us more about what's out there - - but not what is in here. Art, music, literature - they all spring from our faith.
 FATHER: Some eat meat, some eat vegetable. I do not expect us all to agree about everything. But I would much rather have you believe in something I don't agree with than to accept everything blindly. And that begins with thinking rationally. Do you understand?
-FATHER (CONT'D): Good.
 PI: I would like to be baptized.
 WRITER: So you're a Christian and a Muslim?
 ADULT PI: And a Hindu, of course.
 WRITER: And a Jew, I suppose?
-ADULT PI: Oh, well, I do teach a course on the Kabbalah at the University. And why not? Faith is a house with many rooms.
+ADULT PI: Oh, well, I do teach a course on the Kabbalah at the University. And why not? Faith is a house with many But no room for doubt?
 WRITER: But no room for doubt?
 ADULT PI: Plenty. On every floor. Doubt is useful. It keeps faith a living thing. After all, you can't know the strength of your faith until it's been tested.
 RAVI: Where's Selvam? We shouldn't be in here without him.
 PI: Stop worrying. I have seen him do this a thousand times. I want to meet our new tiger.
-RAVI: Pi!...
+RAVI: Hello! Richard Parker!
 PI: Hello! Richard Parker!
-WRITER: A tiger? Richard Parker was a tiger?
+WRITER: A tiger? Richard Parker was a He got his name through a clerical error. A hunter caught him drinking from a stream when he was a cub and named him Thirsty. When Thirsty got too big, the hunter sold him to our zoo - but the names got switched on the paperwork. The hunter was listed as Thirsty and tiger was called Richard Parker. We laughed about it and the name stuck.
 ADULT PI: He got his name through a clerical error. A hunter caught him drinking from a stream when he was a cub and named him Thirsty. When Thirsty got too big, the hunter sold him to our zoo - but the names got switched on the paperwork. The hunter was listed as Thirsty and tiger was called Richard Parker. We laughed about it and the name stuck.
-RAVI: Let's go. Before we get into trouble.
+RAVI: Let's go. Before we get into I want to see him close up.
 PI: I want to see him close up.
-RAVI: You're not a zoo keeper. Come on!
-PI: (offering meat) That's it, Richard Parker. It's for you.
-FATHER: No!!!
-FATHER (CONT'D): What are you thinking?! Are you out of your mind? Who gave you permission to come back here? You have just ignored everything I have ever taught you!
-PI: I just wanted to say 'Hello' to him.
-FATHER: You think that tiger is your friend. He is an animal, not a playmate!
+RAVI: You're not a zoo keeper. Come on! That's it, Richard Parker. It's for
+PI: ( offering meat ) That's it, Richard Parker. It's for
+FATHER: Father yanks Pi violently away from the cage, wrenching Pi's hand through the bars. Richard Parker, startled, raises his head, hissing. He turns and bounds back out through the gate at the other end of the hallway, disappearing into the exhibit area. Father spins Pi around and shoves him against the wall.
+PI: I just wanted to say 'Hello' to You think that tiger is your friend. He is an animal, not a Animals have souls. I've seen it in their eyes.
+FATHER: You think that tiger is your friend. He is an animal, not a Animals have souls. I've seen it in their eyes.
 PI: Animals have souls. I've seen it in their eyes.
 FATHER: Find Selvam!
-SELVAM: (In Tamil:) You're sure, Mr. Patel? Pi's just a kid.
-FATHER: (In Tamil:) Do it. Go ahead.
-FATHER (CONT'D): (To the boys:) Animals don't think like we do; people who forget that get themselves killed. That tiger is not your friend. When you look into his eyes, you are seeing your own emotions reflected back at you - nothing else.
-RAVI: (Quietly, to Pi:) Don't be stupid! Say you're sorry.
+SELVAM: ( In Tamil: ) You're sure, Mr. Patel? Pi's just a ( In Tamil: ) Do it. Go ahead.
+FATHER: ( In Tamil: ) Do it. Go ahead.
+RAVI: ( Quietly, to Pi: ) Don't be stupid! Say you're sorry.
 MOTHER: What have you done, Piscine? You know what your father said about coming back here.
-PI: I'm sorry. I was...
+PI: I'm sorry. I was.
 MOTHER: What are you thinking?
-FATHER: This is between a father and his sons. (In Tamil:) Selvam, the gate.
+FATHER: This is between a father and his Selvam, the gate.
 MOTHER: He said he's sorry. You want to scar them for life?
-FATHER: Scar them? That boy almost lost his arm!
+FATHER: Scar them? That boy almost lost his But he's still a boy!
 MOTHER: But he's still a boy!
-FATHER: He will be a man sooner than you think, and this is a lesson I do not want them ever to forget. (Turning to Selvam:) Selvam.
-NEWS ANNOUNCER (ON RADIO): ... and so has placed the country in a State of Emergency.
-NEWS ANNOUNCER (ON RADIO) (CONT'D): Under the directive, the states of Gujarat and Tamil Nadu will be placed under the direct authority of the central government. Police will be granted powers to arrest and indefinitely detain citizens responsible for the uprising. Unauthorized...
-ADULT PI (V.O.): Things changed after the day of Appa's lesson. The world had lost some of its enchantment. School was a bore - nothing but facts, fractions and French. Words and patterns that went on and on. I grew restless, searching for something that would bring meaning into my life. And then I met Anandi...
-ADULT PI (V.O.): Mother made me study music, and one day my teacher came down with the flu; he asked if I could take his place one afternoon playing rhythms for a dance class.
+FATHER: He will be a man sooner than you think, and this is a lesson I do not want them ever to forget.
 DANCE MASTER: No. If you do not concentrate, you cannot express your love of God through dance. Feel the ground beneath your feet;
-DANCE MASTER (CONT'D): open your gaze out onto the horizon, let that spiritual energy pulse through you and out into the world through abinea. Anandi, come to the front; lead them.
 ANANDI: Why are you following me?
-PI: What?
+PI: You were following me.
 ANANDI: You were following me.
-PI: (After a beat, to cover his evident guilt:) What does this mean?
-PI (CONT'D): In the dance, you went from Pataka, which means the forest, and then you did-then you did Samputa, which means something that is hidden, and after that you did this... and then you did Chatura.
-PI (CONT'D): But at the very end you did this... (Repeating the gesture:) None of the other dancers did that. What did you mean? The God of love is hiding in the forest?
-ANANDI: No - that also means the lotus flower.
+PI: ( After a beat, to cover What does this mean?
+ANANDI: No - that also means the lotus The lotus flower is hiding in the forest? Why would a lotus flower hide in the forest?
 PI: The lotus flower is hiding in the forest? Why would a lotus flower hide in the forest?
-PI: And this is Richard Parker. He's the most magnificent creature we've ever had here. (Beat.) Look at the way he's turning his head. Showing off - like a dancer.
+PI: And this is Richard Parker. He's the most magnificent creature we've ever had here. Look at the way he's turning his head. Showing off - like a dancer.
 ANANDI: No, he heard something - he's listening. You see?
-FATHER: So...you see? We have talked about it for some time... Do you understand what I'm saying? Pi?
-PI: Sorry. You've been...
-FATHER: Worried. For my family. Our animals are worth far more abroad than here in India, and if the town council stops supporting us, I don't know where we'll be. So... it is what we have to do. Do you understand?
-PI: I'm sorry... what are we talking about?
+FATHER: So.you see? We have talked about it for some time. Do you understand what I'm saying? Pi?
+PI: Sorry. You've been.
+FATHER: Worried. For my family. Our animals are worth far more abroad than here in India, and if the town council stops supporting us, I don't know where we'll be. So. it is what we have to do. Do you understand?
+PI: I'm sorry. what are we talking We are leaving India.
 RAVI: We are leaving India.
-PI: What??
+PI: We are selling the zoo.
 MOTHER: We are selling the zoo.
 FATHER: The zoo itself was never ours to sell - the land belongs to the town. But the animals are ours, and if we sell them, we will have enough to start a new life.
 PI: But where would we go? Our life is here Appa!
 FATHER: Canada. I have some opportunities for work in Winnipeg. I'll be shipping most of the animals for sale in North America; we can get freighter passage for the whole family. So, it is settled. We will sail like Columbus!
 PI: But Columbus was looking for India!
-ADULT PI (V.O.): It takes a lot of work to sell a zoo; before we left Anandi and I had time enough to break each other's hearts. Of course, I promised I'd come back one day... It's funny... I remember everything else about our last day, but I don't remember saying goodbye...
-MOTHER: Pi, they're serving dinner below. (Beat.)
-MOTHER (CONT'D): (After a beat.) Piscine, You have a whole life ahead of you. We're doing this for you and Ravi. Come inside and have some dinner.
+MOTHER: Pi, they're serving dinner below.
 MOTHER: My sons and I are vegetarians. Do you have anything - ?
-MOTHER (CONT'D): No - no! Not more gravy.
-FRENCH COOK: (Thick French accent:) You don't want gravy?
-MOTHER: (Quickly switching to French:) No, I want something vegetarian. I-
+FRENCH COOK: ( Thick French accent: ) You don't want gravy?
+MOTHER: ( Quickly switching to No, I want something vegetarian. I-
 FRENCH COOK: There. No problems.
-FATHER: She asked if you have something vegetarian.
-FRENCH COOK: Vegetarian - the cow that produced this liver was vegetarian, the pigs that went into these sausages were vegetarian.
-FATHER: Very funny. But she doesn't eat liver.
-FRENCH COOK: (Getting irritated:) Then she can eat the sausages, the rice, the gravy. (To Mother:) Or you can go cook your own food.
-FATHER: How dare you talk to my wife like that?
+FATHER: She asked if you have something Vegetarian - the cow that produced this liver was vegetarian, the pigs that went into these sausages were Very funny. But she doesn't eat Then she can eat the sausages, the rice, the gravy. Or you can go cook your own food.
+FRENCH COOK: Vegetarian - the cow that produced this liver was vegetarian, the pigs that went into these sausages were Very funny. But she doesn't eat Then she can eat the sausages, the rice, the gravy. Or you can go cook your own food.
+FATHER: Very funny. But she doesn't eat Then she can eat the sausages, the rice, the gravy. Or you can go cook your own food.
+FRENCH COOK: ( Getting irritated: ) Then she can eat the sausages, the rice, the gravy. ( To Mother: ) Or you can go cook your own food.
+FATHER: How dare you talk to my wife like
 FRENCH COOK: Here's your rice. I cook for sailors, not curry eaters.
 FATHER: What did you call us??
 FRENCH COOK: Let go of me!
@@ -184,159 +144,118 @@ FATHER: Who do you think you are? You're nothing but a servant!
 FRENCH COOK: I feed people! You feed monkeys!
 FATHER: I'll teach you respect!
 TAIWANESE SAILOR: Hello, I am happy Buddhist, so I eat rice next to gravy. On ship, gravy is not meat. Is taste. Okay? You try?
-FATHER: (Noting Pi's banana:) Don't worry - we will have plenty of fresh supplies after we stop in Manila.
+FATHER: ( Noting Pi's banana: ) Don't worry - we will have plenty of fresh supplies after we stop in
 PI: Why give O.J. a tranquilizer? She's not going to cause any trouble.
 FATHER: The stress of traveling is not good for the animals.
-FATHER (CONT'D): And it helps with the seasickness. We don't want to be cleaning up after a seasick orangutan, do we?
-ADULT PI (V.O.): My father was a businessman - he had never handled the animals himself. I realized that leaving India must have been harder for him than it was for me.
-WRITER: ... So...
+WRITER: . So.
 ADULT PI: Have I forgotten anything?
 WRITER: I think you've set the stage. So far we have an Indian boy named after a French swimming pool on a Japanese ship full of animals heading to Canada.
 ADULT PI: Yes. Now we have to send our boy into the middle of the Pacific, and
 WRITER: And make me believe in God.
 ADULT PI: Yes. We'll get there.
-ADULT PI (V.O.): It was four days out of Manila - above the Mariana Trench, the deepest spot on earth...
-ADULT PI (V.O.): Our ship, the Tsimtsum, pushed on, bullishly indifferent to its surroundings. It moved with the slow, massive confidence of a continent.
-PI: Ravi? Did you hear that? (Pause) Ravi?
-RAVI: ... I'm sleeping.
-PI: It's a thunderstorm! Let's go watch!
-RAVI: Are you crazy? We'll get hit by lightning.
-PI: No, we won't. It'll hit the bridge first.
+PI: Ravi? Did you hear that? . I'm sleeping.
+RAVI: . I'm sleeping.
+PI: It's a thunderstorm! Let's go Are you crazy? We'll get hit by No, we won't. It'll hit the bridge Don't tempt a storm, Pi.
+RAVI: Are you crazy? We'll get hit by No, we won't. It'll hit the bridge Don't tempt a storm, Pi.
+PI: No, we won't. It'll hit the bridge Don't tempt a storm, Pi.
 RAVI: Don't tempt a storm, Pi.
-PI: More rain, lord of storms! Let it rage!
-PI (CONT'D): Please save my family!
+PI: More rain, lord of storms! Let it
+PI: AMMA! APPA! RAVI! GET OUT, GET OUT!
+PI: HELP!! SOMEBODY HELP ME!!
 JAPANESE CAPTAIN: Don't scare. Okay? Wait stay here.
-JAPANESE CAPTAIN (CONT'D): Here, put this on!
 PI: You have to help them, please! Oh no my family, please. You have to help them, my family is back there.
 JAPANESE CAPTAIN: We don't have time.
 TAIWANESE SAILOR: We help. You must go.
 PI: Who let all the animals out?
 SAILOR #1: You have to go now.
 PI: No wait! My father - he can't swim -
-JAPANESE CAPTAIN: This is your last chance--just go!
+JAPANESE CAPTAIN: This is your last chancejust go!
 PI: No please!
 SAILOR #1: Hey! You! What are you doing?!
 FRENCH COOK: Loosen the lines! Bring it down!
 SAILOR #1: Tie it down! Tie it down!
-FRENCH COOK: (to the sailors:) Jump! Jump!
-PI (CONT'D): Richard Parker?
-PI: Amma! Appa! Ravi! I'm sorry! I'm sorry...!
-PI: Hari?
-PI (CONT'D): Looks as though your drugs haven't worn off yet.
-PI (CONT'D): Orange Juice!! This way!
-PI (CONT'D): Welcome to Pi's ark!
-PI (CONT'D): (A sudden realization) Where is your boy, Orange Juice? (Pause) I'll bet Mother and Father found him. They'll all be here soon.
+FRENCH COOK: ( to the sailors: ) Jump! Jump!
+PI: HELP! HELP! SOMEBODY, HELP ME!
+PI: Amma! Appa! Ravi! I'm sorry! I'm
+PI: Hari, the hyena, with a sloping, bear-like forehead and the nervous manner of a beaten dog, reappears. Pi instantly dives across the tarp, scrambling for safety on the oar. The hyena staggers and stumbles listlessly. Pi turns to face the creature, struggling for calm.
+PI: HELLO.! HELLO.! ANYBODY?
 PI: No! Stop it! Stop it! No! Stop it! Stop it! NO!!! NO!!! NO!!!
 PI: I'm sorry, O.J.; I don't have any seasickness medicine for you -
-PI (CONT'D): Supplies! Ah, supplies!
-PI (CONT'D): Come on! Come on!! COME ON...!!!
-PI (WRITING V.O.): "My name is Pi Patel. I have been in a shipwreck. I am on a lifeboat alone - with a tiger. Please send help."
-PI (CONT'D): (In awe, shuddering:) God... I give myself to you. I am your vessel. Whatever comes... I want to know. Show me.
+PI: But the hyena gets up in an instant - it attacks again, this time going for O.J.'s throat.
+YES!: But the hyena gets up in an instant - it attacks again, this time going for O.J.'s throat.
 PI: There are no lines!
-PI (READING - V.O.): "Set your house in order and dig in for the battle to survive. Establish a strict schedule for eating, keeping watch and getting rest. Do not drink urine or sea water. Keep busy, but avoid unnecessary exertion. The mind can be kept occupied by playing card games, Twenty Questions, or I Spy. Community singing is another sure- fire way to lift the spirits. Telling stories is highly recommended. Above all, don't lose hope."
-PI (READING V.O.:): "Few things can sap the spirit faster than seasickness. Waves are more strongly felt when a boat turns sideways to the current. A sea anchor is used as a drag to keep the boat's head to the wind.
-PI (READING V.O.:) (CONT'D): Proper use of them can increase control and reduce seasickness during rough seas...
-PI (READING V.O.): For castaways who must share their lifeboats with large dangerous carnivores it's advisable to establish a territory as your own. The following course of action is recommended. Step one: choose a day when waves are moderate but regular. Step two: with the lifeboat facing into the waves, making the ride as comfortable as possible, blow your whistle soothingly. Step three: turn the lifeboat sideways to the waves, accompanied by harsh aggressive use of the whistle. With sufficient repetition, the animal will associate the sound of the whistle with the discomfort of seasickness. Similar methods have long been used by circus trainers, though they generally lack access to rough seas.
-PI (CONT'D): (A ringmaster's call:) Let the trumpets blare, let the drum rolls begin! Prepare to be amazed! Here it is, for your enjoyment and instruction, the show you've been waiting for all your life will soon begin!
-PI (CONT'D): Are you ready for the miracle of it? Well, then - I give to you...
-PI (CONT'D): ... the ASTOUNDING BENGAL TIGER!
-PI (CONT'D): (Rocking the boat:) Hello, Richard Parker. Sorry about the choppy ride.
-PI (CONT'D): (Pointing:)
-MINE! YOU UNDERSTAND? YOURS - MINE!: (He blows his whistle) You understand?
-PI (READING V.O.) (CONT'D): Step four: disregard steps one through three.
 PI: Here, Richard Parker. I've got some water for you.
-PI (VO): In the zoo, we fed our tigers an average of five kilos of meat a day. Richard Parker will be getting hungry soon.
-PI (V.O.): Tigers are powerful swimmers, and, if he gets hungry enough, I'm afraid the little bit of water between us won't be any protection. I need to find a way to feed him. God made tigers carnivores, so I must learn to catch fish. If I don't, I'm afraid his last meal will be a skinny vegetarian boy.
-PI: Patience!
-PI: What am I doing?
-PI (CONT'D): Wait - I'm thinking.
-PI (WRITING - V.O.): 93 cans of water...
-PI: I'm sorry.     I'm sorry.
-PI (CONT'D): Thank you, Lord Vishnu. Thank you for coming in the form of a fish and saving our lives. Thank you...
-PI (V.O.): Of course, I brought all the biscuits and water on the raft with me to keep them safe. Idiot.
-PI (V.O. - CONT'D): Hunger can change everything you ever thought you knew about yourself.
-PI (CONT'D): Here, it's yours.
-PI (V.O.): I can't risk my life every time I have to climb onto the boat for supplies. It's time to settle this. If we're going to live together, we have to learn to communicate.
-PI (V.O.): Maybe Richard Parker cannot be tamed, but with God's will, he can be trained.
-PI (CONT'D): Good.
-PI (CONT'D): Go Richard Parker. Go. Go on home; I'll leave you alone. I'll respect that. I promise. Go, c'mon.
-PI (CONT'D): Yes!
-PI (WRITING - V.O.): I never thought a small piece of shade could bring me so much happiness. That a pile of tools - a bucket, a knife, a pencil- might become my greatest treasures. Or that knowing Richard Parker was here might ever bring me peace. In times like these, I remember that he has as little experience of the real world as I do. We were both raised in a zoo by the same master. Now we've been orphaned, left to face our ultimate master together. Without Richard Parker, I would have died by now. My fear of him keeps me alert. Tending to his needs gives my life purpose.
+PI: EXT. THE LIFEBOAT/THE RAFT - DUSK Pi still fishes with no success. Richard Parker stares in the water at the dorado. He leans over the side of the boat, pawing hungrily at the surface as fish streak past - but the fish elude him. Richard Parker leans out further, striking with both paws - and finally jumps in altogether. Richard Parker strikes and splashes as fish streak past. Pi grins at the tiger's predicament - but the moment Richard Parker realizes he can't climb back aboard, he begins swimming toward the raft. Pi snaps to, recognizing the danger he's in. He reels the raft over to the lifeboat, practically leaping onto the bow. As he hauls the raft aboard, Richard Parker manages to catch the netting on the raft with one paw. Pi leans back against an oar with all his weight, trying to lever the raft aboard; the weight of the tiger tips the entire bow lower in the water. Pi is about to lose the struggle when the tiger's claw rips through the netting, and the lifeboat springs back up in the water; the momentum flips the raft up onto the boat. Pi turns, watching as Richard Parker swims up behind him alongside the bow. He digs into the supply box and rises with a hatchet in his hand, crossing to stand over the tiger and blowing the whistle threateningly. Standoff. Pi pumps the axe a few times, but cannot bring himself to kill the tiger. Richard Parker stares up at Pi a long moment, then paddles to the stern, trying once again to pull himself aboard at the other end of the boat.
+PI: What am I doing? As he removes one of the floorboard panels, imagining new uses for the wooden slats, he hears Richard Parker scratching at the hull of the boat.
+PI: I'm sorry. I'm sorry.
+AAAAHHHH!!!!: Boy and tiger face off for several seconds, both panting, neither blinking nor showing fear, as the rain of fish gradually slows around them. Richard Parker turns his focus from Pi and takes in the situation around him. Realizing that he stands up to his knees in a pile of flying fish, he turns his attention to a more convenient meal. Pi uses the gaff to snag the tuna, shoving it to the farthest edge of the bow. As he rises, late afternoon light casts golden flames across the surface of the water, throwing Pi into backlight.
+PI: Pi gives the tiger a stern glare. RP stops, stares back, then backs off.
+NO!: Pi gives the tiger a stern glare. RP stops, stares back, then backs off.
 PI: Dolphins, Richard Parker!
-PI (CONT'D): Hey! HEY!! WE'RE HERE!! OVER HERE!!
-PI (WRITING - V.O.): Above all, don't lose hope...
-PI: What are you looking at...? Tell me. What do you see?
-PI (WRITING - V.O.) (CONT'D): Words are all I have left to hang onto...
-PI (WRITING - V.O.): Everything mixed up, fragmented. Can't tell daydreams, night dreams from reality anym --
+PI: EXT. THE LIFEBOAT - NIGHT Richard Parker gazes into the distance; Pi stares intently at the tiger.
+PI: What are you looking at.? Tell me. What do you see?
 PI: Storm! Storm, Richard Parker!
-PI: No!
-PI: Praise be to God, Lord of All Worlds, the Compassionate, the Merciful!
-PI (CONT'D): It's beautiful... Where are you, Richard Parker? You have to see this!
-PI (CONT'D): Come out Richard Parker! Come see the hand of God!
-PI (CONT'D): Don't hide yourself! He's come to us! It's a miracle!
-PI (CONT'D): I'm sorry Richard Parker!
-PI: We're dying, Richard Parker. I'm sorry.
-PI (CONT'D): Amma, Appa, Ravi - I'm happy I'm going to see you soon. (Pause) Can you feel the rain?
-PI (CONT'D): God, thank you for giving me my life. I'm ready now.
+PI: The manual is gone. Pi ties himself to the lifeboat with a rope from the raft.
+PI: Praise be to God, Lord of All Worlds, the Compassionate, the
+PARKER!: The sky lights up all around them. The tiger begins roaring, pawing at the air, eyes wide, crazed with fear. Pi turns to face the storm.
+PI: We're dying, Richard Parker. I'm
 PI: Richard Parker?
-PI: Excuse me... Go on, move!
+PI: Excuse me. Go on, move!
 PI: Hey! Hey! Hey c'mon. Hey! Hey-get away. This is my bed!
+FLASH FORWARD: 170 INT. PI'S HOME, MONTREAL - LATE AFTERNOON 170
 WRITER: It was human tooth?
-ADULT PI: Don't you see, the island was carnivorous.
-WRITER: Carnivorous? Like... a Venus flytrap?
+ADULT PI: Don't you see, the island was Carnivorous? Like. a Venus Yes, the whole island - the plants, the water in those pools, the very ground itself. During the day, those pools held fresh water, but at night, some chemical process turned the water in those pools into acid - acid that dissolved those fish, that sent the meerkats scurrying into the trees and Richard Parker running to the boat.
+WRITER: Carnivorous? Like. a Venus Yes, the whole island - the plants, the water in those pools, the very ground itself. During the day, those pools held fresh water, but at night, some chemical process turned the water in those pools into acid - acid that dissolved those fish, that sent the meerkats scurrying into the trees and Richard Parker running to the boat.
 ADULT PI: Yes, the whole island - the plants, the water in those pools, the very ground itself. During the day, those pools held fresh water, but at night, some chemical process turned the water in those pools into acid - acid that dissolved those fish, that sent the meerkats scurrying into the trees and Richard Parker running to the boat.
 WRITER: But where did the tooth come from?
-ADULT PI: Years ago, some poor fellow just like me must have found himself stranded on that island.... And like me he thought he might stay there forever. But all that the island gave him by day, it took away again by night. To think - how many hours spent with only meerkats for company? How much loneliness taken on?
-ADULT PI (CONT'D): All I know is that eventually he died, and the island digested him, leaving behind only his teeth. I saw how my life would end if I stayed on that island. Alone and forgotten. I had to go back to the world, or die trying.
-ADULT PI (V.O.): I spent the next day preparing the boat. I filled my stores with fresh water, ate seaweed until my stomach could take no more, and brought as many meerkats as I could fit into the storage locker for Richard Parker. I couldn't leave without him, of course - it would mean killing him. And so I waited for his return. I knew he wouldn't be late.
-PI (V.O): No one has ever seen that floating island since; you won't read about those trees in any nature book. And yet if I hadn't found those shores, I would have died. And if I hadn't discovered that tooth, I would have been lost, alone forever.
-PI (V.O) (CONT'D): Even when God seemed to have abandoned me, He was watching. Even when He seemed indifferent to my suffering, He was watching. And when I was beyond all hope of saving, He gave me rest, then gave me a sign to continue my journey.
-ADULT PI (V.O.): By the time we reached the Mexican shore, I was afraid to let go of the boat. My strength was gone. I was so weak. I was afraid that in two feet of water, so close to deliverance, I would drown. I struggled to shore and fell upon the sand. It was warm and soft, like pressing my face against the cheek of God. And somewhere two eyes were smiling at having me there.
-ADULT PI (V.O.): I was so spent I couldn't move. And so Richard Parker went ahead of me.
-ADULT PI (V.O.): He stretched his legs and walked along the shore.
-ADULT PI (V.O.): At the edge of the jungle, he stopped. I was certain he was going to look back at me, flatten his ears to his head, growl - that he'd bring our relationship to an end in some way. But he just stared ahead into the jungle.
+ADULT PI: Years ago, some poor fellow just like me must have found himself stranded on that island.. And like me he thought he might stay there forever. But all that the island gave him by day, it took away again by night. To think - how many hours spent with only meerkats for company? How much loneliness taken on?
+PI: RICHARD PARKER!
+RICHARD PARKER!: 172 EXT. THE ISLAND/LIFEBOAT - SUNSET 172
 ADULT PI: And then Richard Parker, my fierce companion, the terrible one who kept me alive, disappeared forever from my life.
 ADULT PI: After a few hours, a member of my own species found me. He left and returned with a group who carried me away.
-ADULT PI (V.O.) (CONT'D): I wept like a child, not because I was overwhelmed at having survived, although I was. I was weeping because Richard Parker left me so... unceremoniously. It broke my heart.
-ADULT PI: You know, my father was right. Richard Parker never saw me as his friend. After all we'd been through, he didn't even look back. But I have to believe that there was more in his eyes than my own reflection staring back at me. I know I felt it - even if I can't prove it. I just wish... (Beat. He sighs.) You know, I've left so much behind. My family, the zoo, Anandi, India - I suppose in the end the whole of life becomes an act of letting go. But what always hurts the most is not taking the moment to say goodbye. I was never able to thank my father for all I learned from him, to tell him that without his lessons I would never have survived... And I know he's a tiger, but I wish I'd said: 'It's over. We've survived. Thank you for saving my life. I love you, Richard Parker. You will always be with me. May God be with you.'
+ADULT PI: You know, my father was right. Richard Parker never saw me as his friend. After all we'd been through, he didn't even look back. But I have to believe that there was more in his eyes than my own reflection staring back at me. I know I felt it - even if I can't prove it. I just wish. You know, I've left so much behind. My family, the zoo, Anandi, India - I suppose in the end the whole of life becomes an act of letting go. But what always hurts the most is not taking the moment to say goodbye. I was never able to thank my father for all I learned from him, to tell him that without his lessons I would never have And I know he's a tiger, but I wish I'd said: 'It's over. We've survived. Thank you for saving my life. I love you, Richard Parker. You will always be with me. May God be with you.'
 WRITER: I don't know what to say.
 ADULT PI: Hard to believe, isn't it?
 WRITER: It is a lot to take in, to figure out what it all means.
 ADULT PI: If it happened, it happened. Why should it have to mean anything?
-WRITER: Well, some of it is pretty incredible.
+WRITER: Well, some of it is pretty Pi takes a tattered notebook out of the bookcase.
 ADULT PI: I was the only one who survived the shipwreck, so the Japanese shipping company sent two men to talk to me in the Mexican hospital where I was recovering. I still have a copy of their report.
-ADULT PI (CONT'D): They had insurance claims to settle, and they wanted to find out why the ship sank. They didn't believe me either.
 OKAMOTO: Thousands of meerkats? On a floating carnivorous island? And no one has ever seen it?
 YOUNG PI: Yes. Just like I told you.
 CHIBA: Bananas don't float.
-OKAMOTO: (In Japanese:) Why are you talking about bananas?
+OKAMOTO: ( In Japanese: ) Why are you talking about bananas?
 CHIBA: You said the orangutan floated to you on a bundle of bananas. But bananas don't float.
-OKAMOTO: (In Japanese:) Are you sure about that?
-YOUNG PI: Of course they do. Try it for yourself.
-OKAMOTO: (In Japanese:) (In English:)
-OKAMOTO: (Chiba gives Pi a glass of water.)
+OKAMOTO: ( In Japanese: ) Are you sure about that?
+YOUNG PI: Of course they do. Try it for In any case, we are not here to talk about bananas or meerkats.
+OKAMOTO: In any case, we are not here to talk about bananas or meerkats.
+YOUNG PI: I've just told you a long story. I'm very tired.
+OKAMOTO: We're here because a Japanese cargo ship sank in the Pacific.
+YOUNG PI: Something I never forget. I lost my whole family. Get him some water. We don't mean to push you. And you have our deepest sympathies. But we've come a long way. And we're no closer to understanding why the ship sank.
+OKAMOTO: ( In Japanese: ) Get him some water. ( In English: ) We don't mean to push you. And you have our deepest sympathies. But we've come a long way. And we're no closer to understanding why the ship sank.
+YOUNG PI: Because I don't know. I was asleep. Something woke me up. It may have been an explosion; I can't be sure. And then the ship sank. What else do you want from me?
+OKAMOTO: We need a simpler story for our report. One our company can understand. A story we can all
+YOUNG PI: So.. a story without things you never seen before.
+OKAMOTO: That's right.
 YOUNG PI: Without surprises. Without animals or islands.
 OKAMOTO: Yes. The truth.
 WRITER: So what did you do?
-ADULT PI: I told him another story. Four of us survived...
-YOUNG PI (V.O. - OVERLAPPING): Four of us survived...
-YOUNG PI: ...The cook and the sailor were already onboard. The cook threw me a lifebuoy and pulled me aboard. Mother held onto some bananas and made it to the lifeboat. The cook, the cook was a disgusting man. He ate a rat. We had food enough for weeks, but he found the rat in the first few days - and he killed it, and dried it in the sun and ate it. He was such a brute, that man. But he was resourceful. It was his idea to build the raft to catch fish. We would have died in those first few days without him. The sailor was the same man who brought rice with gravy, the Buddhist. We didn't understand much of what he said, only that he was suffering. I can still hear him - the happy Buddhist who only ate rice with gravy. He had broken his leg horribly in the fall. We tried to set it as best we could, but the leg became infected and the cook told us we had to do something or he'd die. The cook said he'd do it, but mother and I had to hold the man down. And I believed him - we needed to do it.
-YOUNG PI (CONT'D): I have to live with that. I was alone in a lifeboat, drifting across the Pacific Ocean. And I survived.
+ADULT PI: I told him another story. Four of us survived.
+YOUNG PI: .The cook and the sailor were already onboard. The cook threw me a lifebuoy and pulled me aboard. Mother held onto some bananas and made it to the lifeboat. The cook, the cook was a disgusting man. He ate a rat. We had food enough for weeks, but he found the rat in the first few days - and he killed it, and dried it in the sun and ate it. He was such a brute, that man. But he was resourceful. It was his idea to build the raft to catch fish. We would have died in those first few days without him. The sailor was the same man who brought rice with gravy, the Buddhist. We didn't understand much of what he said, only that he was suffering. I can still hear him - the happy Buddhist who only ate rice with gravy. He had broken his leg horribly in the fall. We tried to set it as best we could, but the leg became infected and the cook told us we had to do something or he'd die. The cook said he'd do it, but mother and I had to hold the man down. And I believed him - we needed to do it.
 ADULT PI: After that, no more questions. The investigators didn't seem to like the story, exactly - but they thanked me, they wished me well, and they left.
-WRITER: So...  the stories... Both the zebra and the sailor broke their leg. And the hyena killed the zebra and the orangutan. So ... the hyena is the cook. And the sailor is the zebra, mother is the orangutan... and you're... the tiger.
+WRITER: So. the stories. Both the zebra and the sailor broke their leg. And the hyena killed the zebra and the orangutan. So . the hyena is the cook. And the sailor is the zebra, mother is the orangutan. and you're. the tiger.
 ADULT PI: Can I ask you something?
 WRITER: Of course.
-ADULT PI: I've told you two stories about what happened out on the ocean. Neither explains what caused the sinking of the ship, and no one can prove which story is true and which is not. In both stories, the ship sinks, my family dies, and I suffer.
-WRITER: True.
+ADULT PI: I've told you two stories about what happened out on the ocean. Neither explains what caused the sinking of the ship, and no one can prove which story is true and which is not. In both stories, the ship sinks, my family dies, and I So which story do you prefer?
+WRITER: ADULT PI
 ADULT PI: So which story do you prefer?
 WRITER: The story with the tiger. That's the better story.
-ADULT PI: (Heartfelt:) Thank you. And so it goes with God.
-WRITER: (Pause. He looks up.) Mamaji was right. It is an amazing story. Will you really let me write it?
-ADULT PI: Of course. Isn't that why Mamaji sent you here, after all?
-ADULT PI (CONT'D): My wife is here. Would you like to stay for dinner? She's an incredible cook.
+ADULT PI: ( Heartfelt: ) Thank you. And so it goes with God.
+WRITER: ( Pause. He looks up. ) Mamaji was right. It is an amazing story. Will you really let me write Of course. Isn't that why Mamaji sent you here, after all? My wife is here. Would you like to stay for dinner? She's an incredible cook.
+ADULT PI: Of course. Isn't that why Mamaji sent you here, after all? My wife is here. Would you like to stay for dinner? She's an incredible cook.
 WRITER: I didn't know you had a wife.
 ADULT PI: And a cat, and two children.
-WRITER: So your story does have a happy ending.
+WRITER: So your story does have a happy Well, that's up to you. The story's yours now.
 ADULT PI: Well, that's up to you. The story's yours now.
-WRITER: (Reading:) "Mr. Patel's is an astounding story of courage and endurance unparalleled in the history of shipwrecks. Very few castaways can claim to have survived so long at sea, and none in the company of... (He looks up at Pi) ...an adult Bengal tiger."
-PI: (Off:) We have a guest. Let me introduce you...
+WRITER: ( Reading: ) "Mr. Patel's is an astounding story of courage and endurance unparalleled in the history of shipwrecks. Very few castaways can claim to have survived so long at sea, and none in the company of. ( He looks up at Pi ) .an adult Bengal tiger."
+PI: ( Off: ) We have a guest. Let me introduce
+THE END: Writers : David Magee Yann Martel

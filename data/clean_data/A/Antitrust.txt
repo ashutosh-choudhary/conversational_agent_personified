@@ -1,0 +1,810 @@
+"ANTITRUST": Screenplay by Howard Franklin
+SHOOTING DRAFT: ON A BLACK SCREEN it says: "The coolest thing?"
+VOICE: Wow. That's hard. I'd have to say it's the day we launched Outpost
+DARYL: Gary always makes sure we've got the coolest stuff to drink.
+MITCH: Big companies are s'posed to be
+DONNY: It bums me out when the media say we're cultish, or whatever. Why? 'Cause we care about each other?
+MITCH: 'Love you too, bro.
+TERRY: How Gary gets this superbad rap.
+GARY: A kid working in his garage can create the next Outpost, the new IBM. All it takes is a great idea.
+GARY: That's why nobody can have a monopoly in a business built on ideas.
+STANFORD UNIVERSITY: We pick out MILO CONNOR, watching keenly. He's 21: clear- eyed, alive, innocent. He sits with his best friend, TEDDY CHIN, third-generation Chinese-American.
+LARRY: Can we go?
+LARRY: 'Starting to get nauseated.
+BRIAN: Do you mind?
+ALICE: Is it over?
+LARRY: They still have to give 'em refreshments laced with mind-altering You are a fanatic.
+ALICE: You are a fanatic.
+LARRY: 'Gonna wait outside.
+ALICE: "Make" him?
+LARRY: ( thoughtfully ) You know what I mean.
+LARRY: I'm just screwed.
+ALICE: ( that's not true ) You know what he's like. He just wants to work on stuff that's cool.
+LARRY: You don't wanna move, do you?
+ALICE: I can paint anywhere.
+ALICE: I'd like to stay here, yeah. And I kind of think he should be with Teddy.
+ALICE: Maybe you shouldn't push it so hard. About Outpost. No offense, you sound I can't help it. I feel like they'd do anything to keep their
+LARRY: I can't help it. I feel like they'd do anything to keep their
+ALICE: Anything? That's not even credible. If he wants to go up there? To check it out? I think you should encourage It's his life. But everybody's treating him like this valuable object. You're hurting your own case.
+BRIAN: He's my god. I hear he actually calls recruits sometimes. Or is that an Urban Legend?
+REDMOND: Gary's running the biggest software company in the world, Brian. He's being harassed by the Justice Department, and he's got a new baby.
+DANNY: Milo? I'm Danny.
+MILO: Oh hi.
+DANNY: Gary would like to speak to you?
+MILO: GARY ( ON THE PHONE )
+MILO: You would? Wow. When would we come? 'Think he hung up.
+ALICE: But how does he know that's what you guys're working on?
+MILO: All the companies know. The faculties tell 'em. At the target schools.
+LARRY: In exchange for endowments. They should just drop the pretense and name the schools after 'em.
+BRIAN: ( to Teddy ) I can't believe you refused a ticket!
+TEDDY: My parents're already freaked-out I'm staying here. 50 miles from Well maybe if you told 'em how much money you'd be making You're going up there. Right?
+BRIAN: Well maybe if you told 'em how much money you'd be making You're going up there. Right?
+LARRY: I think you should go.
+MILO: ( amazed ) You do?
+LARRY: I mean, it's your life.
+MILO: I think I kind of lost it. I was just so thrilled to be talking to the richest, most powerful. 'Didn't know I even cared about that stuff.
+ALICE: C'mon, how often do you talk to somebody who's been on the cover of Time. Three of four times.
+MILO: A lot of what Larry says is true. They just clone stuff, or reverse engineer it, and everybody gets stuck with their inferior version cause Then you've gotta ask him about that.
+ALICE: Then you've gotta ask him about that.
+ALICE: It's important.
+MILO: If he's really a bully, he won't cop to it, anyway.
+ALICE: Bully? Are we talking about Gary Boyd? Or your dad.
+MILO: When I was a kid? And he was moving us all over the place? I spent all my time writing stuff on Outpost 1.0. I thought Gary Boyd was the But he's not quite the same guy anymore. Don't get your hopes too
+ALICE: But he's not quite the same guy anymore. Don't get your hopes too
+DANNY: 'Couldn't convince Teddy to come?
+MILO: He's pretty tight with his family.
+DANNY: We could move 'em up here.
+MILO: He just likes to write code. He's bummed there's so much secrecy and competition, everybody trying to own Who do you mean by "everybody."
+REDMOND: Who do you mean by "everybody."
+MILO: So how far are we from the campus?
+REDMOND: Oh we're not going to the campus.
+MILO: Who's that?
+DANNY: I think they call him the "Houseman." 'Cause "guard" sounds too weird.
+DANNY: Don't be nervous. The house is the weirdest thing about him.
+REDMOND: It's like he knows everybody expects him to be this worldly, colorful zillionaire. But he's just a guy who likes software.
+HOUSEMAN: Have a seat. He won't be long.
+PHIL: We tried the big vaporware number, Gary, it's no-sale.
+RANDY: Can we buy into their IPO? Or is that a Justice Dept. problem?
+PHIL: There is no public offering. The guy who wrote it joined some freakazoid cult in San Luis Obispo. 'Wrote this just to run their web site.
+GARY: Milo? Excuse the tie. I was on TV.
+MILO: .That's okay.
+GARY: The house knows the paintings I like, it knows my favorite music. Same for anybody else who's in the system.
+MILO: Would you like a Coke or something?
+GARY: Would you like a Coke or something?
+MILO: ( too shy, too nervous ) Oh. No thanks.
+GARY: When we started, I just hired my smart friends. That was great. We got a little bigger, I had to hire smart strangers. Much harder.
+GARY: Now I don't get to hire anybody. But I know you're the guy to write
+MILO: You know a lot about art, I guess.
+GARY: There's a rumor going around, maybe you've heard it.
+GARY: There's more to life than computers? I'm looking into it.
+GARY: 'Once I start looking into something.
+GARY: I've only shown this to three other people. I bought 200, we've launched 12 so far. I keep the coordinates in this room. It's left over from SDI. Reagan's Star Wars technology? They orbit 426 miles up.
+MILO: Low enough to relay internet traffic.
+GARY: ( he smiles: exactly ) Among other things. We know convergence is the real super-highway: all the PC's, TV's, phones, etc. linked together. Why cram it into a cable if you can use the whole sky?
+MILO: ( turning the sleek object )
+GARY: The content filer has t'be written into the media files so bits coming off the satellite can be read by multiplatforms. Really, omniplatforms. Including whatever new hardware It needs a more object-oriented language. This doesn't scale, does You'd have to start practically from scratch. But this is all you'd be working on. No marketing meetings, no product seminars. We can't waste the time. Half the Valley's working on convergence. So're media conglomerates, cable companies, phone companies. 'Can't finish second, Milo. There is no second. Now what would you like to ask me?
+MILO: It needs a more object-oriented language. This doesn't scale, does You'd have to start practically from scratch. But this is all you'd be working on. No marketing meetings, no product seminars. We can't waste the time. Half the Valley's working on convergence. So're media conglomerates, cable companies, phone companies. 'Can't finish second, Milo. There is no second. Now what would you like to ask me?
+GARY: You'd have to start practically from scratch. But this is all you'd be working on. No marketing meetings, no product seminars. We can't waste the time. Half the Valley's working on convergence. So're media conglomerates, cable companies, phone companies. 'Can't finish second, Milo. There is no second. Now what would you like to ask me?
+MILO: .Ask you?
+GARY: I know what people say, and not just the Justice Department. We clone ideas, inflict our second-rate versions on the world, we haven't done anything original since 1.0.
+GARY: Do I think that's fair? No. I'd put some of our apps up against anybody's. But is there some truth to it?
+GARY: When you get to a certain age, you start wondering. About your legacy. I doubt you even remember Outpost
+MILO: I do!
+GARY: ( pleased ) Yeah? I wanna feel like I did when I wrote that. But I'm 42, that's 100 in cyber-years. I look at you and see the things that got me here. ( the furrows deepen ) But somehow got away.
+MILO: If my dad'd leveled with me like that even once. The weird thing is, my fantasy he could somehow be like the old Gary? It's his fantasy, I think that's great, Milo. I do.
+ALICE: I think that's great, Milo. I do.
+MILO: Didn't you visit the campus?
+ALICE: Didn't you visit the campus?
+MILO: I forgot. That's why you have to help me decide.
+ALICE: No way. You have this destiny.
+MILO: C'mon, I wouldn't have a destiny without you. My destiny would be dying at 20. From eating
+ALICE: Don't bring that up. Like a different girlfriend would'd've let you die?
+MILO: ( shrugs ) You saved my life in alot of ways.
+ALICE: It's not just Gary that makes you wanna go there? 'Cause it's a big place. You might not even see him
+MILO: I know.
+MILO: When's Brian coming for the TV?
+ALICE: Prob'ly waiting by the phone for Outpost to call. We'll leave it for
+ALICE: 'Give you guys some time alone.
+MILO: .You got my E-mail?
+TEDDY: And your phone messages. You wanna do what you do, it's not a crime.
+MILO: Is that how Larry feels?
+TEDDY: Uh. Not exactly.
+MILO: Wanted to say goodbye to him.
+TEDDY: Hey, we got seed money for the startup! A million-five!
+TEDDY: We rented a loft in Sunnyvale. You know what's the bad part? We can't talk about work anymore. We're competitors! The venture capitalists made us sign like 100 confidentiality Outpost made me sign 1,000. 'Guess we'll find out what else we have to talk about. Life stuff.
+MILO: Outpost made me sign 1,000. 'Guess we'll find out what else we have to talk about. Life stuff.
+MILO: Guess what? They got their
+ALICE: Milo, this is Mr. Barton from the Justice Department. Sorry about the glass.
+BARTON: Don't worry, Milo. I'm here as a friend. Or maybe a supplicant.
+MILO: Right. What's that mean again?
+BARTON: Beggar. We're at a disadvantage with Outpost. Our experts aren't as smart as theirs. Sometimes we can't tell which technologies pose the threat of a monopoly. We need a really smart guy to help us pick our fights. I'm taking a shot in the dark, here. I can offer you 32,000 a year, a Buick. I'm hoping you've got a feeling it's the right thing to do.
+MILO: ( fiddling with the card ) It's just I kind of feel the need to do something with my ability. Create something.
+BARTON: Like I said: shot in the dark.
+BARTON: If you see something there that rubs you the wrong way? Do the right thing.
+MILO: That took some fun out of
+ALICE: We're not gonna let it.
+CNN VOICE: ingested the fatal mixture of sedatives crushed in apple sauce. According to the cult's eerily professional website, it was "time to move on."
+REDMOND: There're 20 buildings, I mean not counting the Gyms, the Day Care,
+REDMOND: Gary's put millions in there. And the people with kids? They're not hotshot geeks, they're just payroll clerks or whatever.
+REDMOND: You'll see alot of that: Department of Justice goons snooping around.
+REDMOND: So how'd you like the house?
+MILO: His Snapples were in alphabetical Well, he micro-managed the company till it got too big. 'Guess he needs to micro-manage
+REDMOND: ( he laughs ) Well, he micro-managed the company till it got too big. ( he opens the door ) 'Guess he needs to micro-manage
+RECEPTIONIST: Milo, I'm Judith. Welcome!
+REDMOND: Everybody has the same office, there's no dumbass corporate hierarchy.
+DESI: Get out while you can, dude!
+REDMOND: Desi, Milo.
+DESI: The guy who was at Gary's house?
+REDMOND: Best bomb shelters in America, accessible from every building. You gotta figure we're a major target,
+REDMOND: Whoa. Lisa actually looked at you.
+REDMOND: Every geek here's got a thing for Lisa. But that's about the biggest reaction she's had to anybody.
+MILO: ( shy, changing the emphasis ) She's a programmer?
+REDMOND: Heavy graphical background, doing design-interface for Skywire apps. You'll be working with her.
+MILO: I've got a girlfriend, remember?
+REDMOND: Right. That's rare around here. You know how nuns' re-married to Jesus? 'Posties are married to Outpost.
+REDMOND: Here's your world. Copy of Gary's book, also the audio version, narrated by Gary.
+SHROT: Unauthorized entries sound like this.
+SHROT: If you see a tailgater, report him.
+MILO: ( kills the alarm ) Somebody coming in on your swipe. ( gives Milo a photo
+SHROT: ( kills the alarm ) Somebody coming in on your swipe. ( gives Milo a photo
+ID ): You see somebody wandering around without ID, it's your duty to challenge him. I don't give a shit if you're a stock-option billionaire. If you don't challenge, I'll have your butt.
+MILO: He seems a little tense.
+REDMOND: Geeks pull his chain cause he's non- tech. Ex-cop or something. They moon cameras, or use ATM's as swipe cards. The cameras're our real security so he's a little demoralized.
+MILO: What're they building?
+REDMOND: #21. Way behind schedule. It's top- secret, but everybody knows it's a digital broadcast space. They see the dishes on top, the fiber optics going in.
+MILO: Gary's not into fiber optics. He's betting everything on the satellites.
+REDMOND: You wanna survive in the software business, you cover your bets. I gotta say, this is the weirdest car anybody ever requested.
+REDMOND: Oh, right. Your girlfriend's an
+REDMOND: I phoned her at your hotel, told her about our corporate housing options. She sounds neat.
+MILO: .She is. She is!
+REDMOND: 'Might be some friction on the domestic front. You're expected you to put in ridiculous hours. People've accused us of breaking up relationships to get their undivided
+REDMOND: Your counselor'll fill you in on everything else. That's who you'll be working with almost daily.
+VOICE: Milo looks up. It's Gary. Milo is thrilled.
+MILO: No! Just waiting for my counselor to come by and introduce himself.
+GARY: Okay. I'm Gary.
+GARY: 'Think I should buy some originals?
+MILO: .Do I?
+GARY: Somebody said I'm just another Philistine. With reproductions.
+MILO: That's insane. You're ahead of your That's what I told her. My wife.
+GARY: That's what I told her. My wife.
+GARY: 'Thinks I'll be less of a control freak if I have a hobby. 'Just gives me something else to obsess about.
+GARY: Anything we can salvage from the old code before you start fresh?
+MILO: Uh, might be one or two things.
+GEEK 1: He's been in there like an hour.
+GEEK 2: INT. MILO'S OFFICE - CONTINUOUS MILO SCROLLS THE SCREEN:
+MILO: Could work with a new switch. There may be a few more things hidden.
+GARY: Don't spend too much time searching. You ever vetted somebody's old code It's a different skill. Stay close to the surface. The best-hidden secrets are in plain sight. You know the best place to hide a leaf, right? In a tree.
+ALICE: .The corporate condos were as romantic as they sound.
+MILO: You know he's never been anybody's counselor before?
+ALICE: Milo! What about ?
+MILO: Oh, It's great. It's great! 'Think I should tell him I learned everything using 1.0? Maybe I could show him one of my early programs.
+DOJ AGENT: "Infotek's urgent need to license Outpost Office is such that we can use it as a tool in the current When you wrote the word "tool," what'd you mean by it?
+GARY: I don't remember.
+DOJ AGENT: What d'you think you meant by it?
+GARY: I'm confused. Am I supposed to speculate under oath?
+OTHER AGENT: Since you didn't have an answer to that question, Mr. Boyd
+GARY: ( "confused" again ) Didn't I? Have an answer? "I don't
+DOJ AGENT: Did you wanna take a break, Mr. Boyd?
+PHIL: Your protege's moving so fast we can barely keep up with him.
+GARY: This is good. Who did it?
+PHIL: 'Start-up not 50 miles from here. Kid's on Prozac.
+GARY: Maybe we should all get on it.
+GARY: How's it going?
+MILO: Maybe I'm going too fast.
+GARY: ( sharply; incredulous ) Too fast? At least four companies're on the verge of workable convergence systems, Milo, they
+GARY: Even when I had a hand in every aspect of the company I knew the one thing you can never control is somebody's creative process.
+MILO: It's okay. Really.
+GARY: ( reaching into his pocket ) Take a look at this. Slightly different approach.
+MILO: You did this overnight?
+GARY: You're making me young again.
+NEWS VOICE: .A graduate of MIT, he was on the antidepressant Prozac, and had been warned not to drink and drive. ( Etc. )
+LISA: He looks. He stands.
+MILO: You know my name.
+LISA: You know my name.
+MILO: You know mine.
+LISA: You're famous around here.
+MILO: ( winces ) I'm getting a teacher's pet rep.
+LISA: I wouldn't worry about it. You've gotta figure most people around here were their teachers' pets.
+MILO: .Were you?
+LISA: We moved around so much I barely knew my teachers.
+MILO: Me too! Were you an Army brat or .Something like that. Yeah.
+LISA: .Something like that. Yeah.
+MILO: Didn't mean to pry. I just have this theory. Some of us who got to good at this? We were escaping
+MILO: Did I say something?
+LISA: No, I know what you mean. I used to spend my life wishing people could be like computers. Least they make sense. Sometimes you think they've betrayed you. Like a person would. But then you see, no, you just missed a step. You can go back and make it all work.
+MILO: I used to wish that. All the time.
+MILO: ( re: the CD-ROM ) What've you got there?
+LISA: Graphical interfaces. For Skywire? I'm s'posed to coordinate with you.
+MILO: Show me.
+MILO: Yeah? I ran it for lots of platforms, ranging from the narrowest bandwidth
+LISA: Yeah? I ran it for lots of platforms, ranging from the narrowest bandwidth
+MILO: .Sh-Show me the next one.
+SECRETARY: Have a seat. He's with someone, but I know he wants to see you.
+LAWYER: Because we bundled it, the judge is threatening to enjoin the whole
+GARY: I'm confused, Ted.
+GARY: Didn't you tell me they'd be Chapter 12 by the time they could hope to enjoin? I'm very confused, because you said they'd be ready to settle.
+SECRETARY: Go on in. He's always happy to see you.
+GARY: Milo. What's up?
+MILO: Well you sent for me.
+GARY: Right. Right.
+MILO: You really wrote this just today?
+GARY: ( dark, unsmiling ) What're you implying.
+MILO: ( taken aback )
+GARY: Everything I do is under scrutiny. The questions they ask, trying to make anything strategic look sordid. I'm confused. Doesn't everybody in business try to get ahead?
+MILO: ( uncomfortable ) I'm sure.
+GARY: The purpose of this company isn't to destroy our competitors any more than the purpose of living is to breath. But the software business is binary: you're a zero or a one. Being obsessive isn't a crime. It's a character trait.
+GARY: It scales, don't you think?
+MILO: He smiles. For the first time it looks forced.
+ALICE: This feels fairly grown up, I'd say.
+MILO: To our new life. .What's wrong?
+ALICE: That's what I need to ask you. You know you can't keep anything from me.
+MILO: He gave me some new code-fixes this morning. I said, "Did you really do this just today?" Cause I was impressed. He said "What're you
+MILO: It's the way he said it. Just the way my dad did, when he was caught in a lie. That's how you knew you were onto something ugly.
+ALICE: ( just confused ) What would it mean, anyway? If he didn't write it?
+MILO: That's what I'm asking myself. Does he have some genius stowed away? Why not let him write Skywire. 'Not saying it makes sense.
+ALICE: He looks at Alice, looks at the roll, blanches.
+MILO: I'm so stupid.
+ALICE: He's your boss. He's not your
+MILO: ( he's nodding ) I know, I know.
+ALICE: If you can't deal with him on that basis, you better get a new counselor.
+MILO: ( the very idea hurts ) Isn't that extreme?
+ALICE: What's extreme is what that ER doctor said when he pumped your stomach. Eat another sesame seed and that's
+ALICE: I mean, if one little comment from Gary is gonna upset you this much
+MILO: You're right. It's a working relationship. Don't know what I was
+ALICE: C'mon. Let's do the toast?
+LISA: Did you wanna be alone?
+MILO: No. Please.
+LISA: They just pushed up the schedule on Skywire apps. How fast are you going?
+MILO: "There is no second place." Plus every time I get jammed-up, Gary has an inspiration. Is it like that with your counselor?
+LISA: Mine's not the CEO. He barely remembers to take a shower.
+MILO: Right, right. But does he ever just, like, hand you code?
+LISA: Maybe once. I re-wrote it, anyway.
+MILO: ( he smiles ) You're compulsive.
+LISA: Mmm-more like I have a little trouble. Trusting people.
+MILO: Why's that?
+LISA: Long story. Not that interesting.
+MILO: So, when you were talking about wishing people were more like computers. Was that then? Or now?
+LISA: Then and now. But not right now.
+VOICE: Milo turns, sees Brian ( Stanford classmate, Outpost zealot ) give an envelope to a Guard at the door of #20; he trots over to Milo, who is as flustered as another guy might be having been found in bed with a girl.
+BRIAN: Just dropped off a resume. Almost got in the front door. You're living here?
+MILO: You're living here?
+BRIAN: 'Thought if I relocated it could help my case. I'm writing programs for the local public access station. Where any whack-job with 100 bucks gets his own show? God, does it suck. Can you help me?
+MILO: Sure, I'll see what I can do.
+BRIAN: Well I parked illegally. See y'later?
+MILO: ( watching Brian go ) 'Forgot to introduce you. ( a beat ) I have a girlfriend.
+LISA: That's great. I didn't know.
+MILO: She saved my life.
+TEDDY: But these, like, White Supremacists trashed my office, last week.
+MILO: On the wall beyond Teddy the word GOOK ( in blood red ) has been covered over with paint but still bleeds through.
+TEDDY: They're in the neighborhood. They usually hassle Vietnamese grocers.
+MILO: Jesus, Teddy.
+TEDDY: I'm cool. They didn't touch the machine. Or my disks. Probably didn't know what they were. So, you a Moonie I met this girl.
+MILO: I met this girl.
+TEDDY: What? Come on. Is it serious?
+MILO: I don't know.
+TEDDY: Did you tell Alice?
+MILO: No! I keep thinking it'll go away. But there's this connection. She's been hacking since she was little, she had to move around a lot. Plus I see her every day, we're working on the same program. She's beautiful.
+TEDDY: A beautiful geek? I don't wanna sound paranoid, or like a pig, but what're the chances?
+MILO: What d'you mean?
+TEDDY: I dunno. I guess Larry's got me totally suspicious of that place.
+MILO: What does that mean?
+TEDDY: Milo, geeks don't have two girlfriends. Most don't have one.
+MILO: I didn't plan this.
+PHIL: There may be a little less trust after your outburst.
+PHIL: Hasn't affected his work, though.
+GARY: Nothing does. Still. I want him to like me.
+MILO: .What's wrong?
+MILO: Teddy was killed last night.
+ALICE: Teddy was killed last night.
+MILO: What're you what?
+ALICE: It was a hate crime.
+ALICE: I'm sorry. I'm so sorry.
+NELSON: They trashed his hard disk, all his back-ups. Nothing's left.
+MILO: They caught the guys?
+NELSON: It's an airtight case. They found the weapon with Teddy's blood on it and their fingerprints. They'd been arrested twice for beating-up Asians. How come they weren't in jail?
+MILO: He told me about the break-in. He didn't seem to take it that seriously.
+NELSON: You guys don't take anything seriously do you? That's not on a hard drive?
+ALICE: Nelson? Your mom wants you. It's time to go to scatter the ashes.
+MILO: I didn't know he was working with fiber optics.
+ALICE: We gotta go too, honey.
+MILO: I know you lost all his work. Maybe I could come down here and
+LARRY: You are naive. Look at your employment contract: you can't work anywhere else in this field for at least few Not that I don't miss you.
+MILO: Just thought his work should go on.
+LARRY: He was on the verge of something, too. He was gonna show us the next day. He said "The answer's not in the box, it's in the band." Know what it means?
+MILO: It's only meaningful when you've got 40,000 lines of code to back it up.
+LARRY: Man, could he write code. Totally elegant. He had his own style.
+MILO: Those really weird, short lines.
+LARRY: Take good care of this guy.
+LISA: You okay?
+GARY: I heard what happened.
+MILO: Were the flags for Teddy?
+GARY: Had you talked to him much lately?
+MILO: Just once. 'Guess I was worried we didn't have anything to talk about, since work was off-limits. Non- Did you?
+GARY: Did you?
+MILO: Talk about work? Never!
+GARY: I meant did you find other stuff to
+MILO: Oh. Yeah.
+GARY: You've been coming in early.
+MILO: It helps. Alice said it would help. To focus on something. 'Don't know what I'd do without her.
+ALICE: You okay? I miss him, too.
+GARY: He is unclasping a manila envelope; he takes pages out.
+MILO: Wow. You must have 20,000 lines of code there.
+GARY: 34,000. But they're real short lines. 'Just came out that way.
+GARY: Been thinking about the push mechanism in the handler. And it came over me: it's in the wrong place.
+MILO: ( an uncertain smile ) The wrong place?
+GARY: The answer's not in the box. It's in the band.
+MILO: Gotta go home. 'Think I ate something.
+MILO: Alice? Alice!
+ALICE: Are you saying you think they had something to do with his death? Nelson said it was an airtight case.
+MILO: I don't know what I'm saying. Maybe maybe they hired those guys.
+ALICE: I can't see Outpost putting its reputation in the hands of people like that.
+MILO: I don't know! I just know it was Teddy's code. All these ideas flying in from everywhere. You know how he says "Any kid working in his garage can put us out of business?" It's like they know what every kid's doing.
+ALICE: They hack into people's programs?
+MILO: Nobody does work like this on-line. It's in your PC, or in a mainframe. Self-contained. They'd have to be, like, watching people. Physically. Oh Jesus.
+MILO: ( almost silently ) It's a camera.
+MILO: It isn't a broadcast studio. It's a surveillance post or something. That's why they have the dishes on You're scaring me. I think we should just go.
+ALICE: You're scaring me. I think we should just go.
+MILO: Go where? You can't get away from people like this.
+ALICE: "Like this?" It's Gary you're talking You think I don't know that?
+MILO: ( it really hurts ) You think I don't know that?
+ALICE: Milo. Why would he
+MILO: How should I know? "Solving a problem," I guess. Or needing to control everything. I don't know. I've gotta get in there.
+ALICE: Even if all this were true. There're 20 other buildings. All of them filled with computers and
+MILO: It's the only one with dishes on the roof. The studio's a front. That's why they keep postponing its opening. .gotta get in there.
+ALICE: Milo, you told me those DOJ Agents are all over the place. How could they hope to hide a surveillance And how can you get in there, anyway? With the cameras and the swipe cards
+MILO: I can't just walk away!
+ALICE: You can't just walk in, either.
+MILO: They stop the construction work at six or seven. The parking lot's mostly clear by two or three in the morning. Even the early Geeks don't get there before five.
+ALICE: Is it two? Or is it three? Have you ever really noticed?
+MILO: No! I can't just keep my head in the sand. That's how I got into this
+MILO: I know how to get in there. But you've gotta help me.
+ALICE: ( scared, reluctant ) .Whaddo I do?
+MILO: So you believe me?
+ALICE: Just tell me what to do.
+MILO: Come on.
+GUARD: Sir, you gotta use your own Where's your ID?
+MILO: Do you know who I am?
+GUARD: It's my job, I gotta
+MILO: ( he's getting better ) The kind of stock options I'm sitting
+SHROT: Every geek has to try this once to show me how smart he is
+ANOTHER GUARD: There was an explosion in a Y-sector closet, we're evacuating the whole
+SHROT: Un-nh, can't wander around without ID now. Just park your ass in that
+RANDY: What is it?
+SHROT: Not much. Glorified cherry bomb. Right by the civil defense sign? Some geek's idea of irony. I been saying we need a camera in this hall.
+RANDY: There's nothing in this hall. Someone's pulling your chain, as Unless it's a diversion. Milo's in my office. He was tailgating, so I
+SHROT: ( thinking aloud ) Unless it's a diversion. Milo's in my office. He was tailgating, so I
+GARY: Milo? Try to have a clue. Try to
+RANDY: That kid's the great white hope.
+SHROT: I could get it out of him.
+RANDY: You're not listening.
+MILO: Everything okay?
+A MONITOR: that shows us where Milo stands, minus Milo. Widen:
+DELBERT: How's it goin'?
+GUARD: ( shaking out his cup ) Big night. Switched from tea to coffee. Brought new meaning to my Yeah? Maybe I'll start my rounds with #21 tonight.
+DELBERT: Yeah? Maybe I'll start my rounds with #21 tonight.
+GUARD: You are a wild man.
+RANDY: Maybe he'll get back to work.
+PHIL: Speaking of which.
+RANDY: Yeah, yeah.
+MILO: ( muttering ) .in a tree.
+COMPUTER ROOM: 20 screens glow. They hang suspended over a wide, ringed table, a chair at each keyboard. Indeed, Gary has spared no expense for the toddlers: they're flat, sleek, digital screens. At the moment, they show colorful, childish contour drawings that say WHERE I WANNA WORK ( e.g.: a spaceship ). There are a dozen more screens on tables at the perimeter of the room showing screensavers ( eg: angelfish swimming ). Milo moves slowly around the table, studying the screens. Not surprisingly, most of the WHERE I WANNA WORK drawings are of desks or tables with computers. Tracking just ahead of Milo, we get to a screen that shows a workstation with a red pennant on the wall, a rubber plant at each end of a desk. Even in contour form it's familiar. Milo passes it. And comes back to it. Staring at it, he sits. He begins typing. [The drawing still occupies the screen, but in a window he's brought up at the bottom, there is dense, DOS-looking code.] He types furiously numbers, symbols, backslashes. Whatever he's trying to do is a challenge even to him. He deletes lines, begins anew, his frustration evident. As he works through the layers of code, the pixels on the screen start to fill in. The contour lines slowly dissolve into a live broadcast image of Teddy's workstation in Sunnyvale ( eerily empty, now ). When all the pixels have fallen into place, Milo hears CLICK CLICK CLICK CLICK CLICK from every direction, as all the screens in the room fill in with live broadcast images. All of them show variations on a theme: A workstation seen by a camera over-the-shoulder of a programmer ( if he were present ). The stations are of various shapes and sizes, but in each case we have an unobstructed view of screen & keyboard. At this hour, few programmers are present. One guy has fallen asleep, his head on a desk. A Japanese Geek is hard at work: it's day there.
+PHIL: Did you download Corey? In San Jose?
+RANDY: Damn. 'Have to go back over there. Be so much easier if we could walk in the front door.
+PHIL: You don't look anything like a three-
+MULTIMEDIA NARRATOR: run this methamphetamine lab known to Federal Authorities, per ND 47, from which we removed the implement, fingerprints intact.
+MULTIMEDIA NARRATOR: FBI footage, procured by ND 47, shows the aftermath of an Aryan Nations' killing in Denver. Note the evidence of torture, which is typical.
+MULTIMEDIA NARRATOR: complete immersion in code-writing renders him both unobservant and suggestible [click]. On two occasions he went truant from classes to attend Comix Conventions.
+MULTIMEDIA NARRATOR: Rebecca P, a Connecticut art stu- dent facing Federal drug charges, whose records were supplied to us by
+MULTIMEDIA NARRATOR: .she planted the sesame seed both to test the extent of his proclivity and to provide a bonding experience, since she would quote "save his life." is the ideal
+MULTIMEDIA NARRATOR: should it be needed Milo's allergy is the ideal
+MULTIMEDIA NARRATOR: Note that the cult members are found reclining after swallowing the [click] Syringe marks best hidden at base of scrotum [click] mimics high blood alcohol [click] indistinguishable from kidney failure.
+MILO: Please don't be one of them.
+MULTIMEDIA NARRATOR: .needs to be watched, due to her heightened level of suspicion
+MULTIMEDIA NARRATOR: and to her possible contagion of key employees.
+MULTIMEDIA NARRATOR: In August '86 Lisa informed her mother of the sexual molestation by her stepfather, and of his threat to kill her should she tell anyone.
+DOJ RECEPTIONIST: He's not in yet.
+MILO: Can I wait in his office?
+DOJ RECEPTIONIST: It's locked, dear.
+MILO: DOJ RECEPTIONIST
+DOJ RECEPTIONIST: Wait in his outer office.
+MILO: Mr. Barton, do you remember me?
+BARTON: .It's Milo, isn't it?
+MILO: Yes sir. I need to talk to you.
+BARTON: Give me two seconds with Lacy here? Go on in, I won't be a moment.
+BARTON: Yeah. Hi. Thank you for seeing me.
+MILO: Yeah. Hi. Thank you for seeing me.
+BARTON: Have a seat.
+BARTON: What seems to be the problem? You look a little upset.
+MILO: I am. I am, sir.
+BARTON: My friend, my best friend, Teddy, was killed in Silicon Valley.
+MILO: My friend, my best friend, Teddy, was killed in Silicon Valley.
+BARTON: My goodness.
+MILO: It was racially motivated. He's Chinese. He was. And. I know sometimes the FBI gets involved with that. Don't they?
+BARTON: If there's a Civil Rights violation. But generally we let the local police and DA do their work first.
+MILO: I just wanna help bring these guys to justice. They're neo-Nazis.
+BARTON: Let me look into it, see what's being done. Frankly, it's not my area.
+MILO: ( he gets up ) 'Just didn't know who else to talk ( circles an arm over Milo ) And Outpost? You're happy there?
+BARTON: ( circles an arm over Milo ) And Outpost? You're happy there?
+MILO: Yes sir.
+ALICE: INTERCUT WITH: INT. PHIL'S OFFICE - CONTINUOUS
+PHIL: Not like him, is it? To do a thing like that without telling you. You're not losing your hold on him, are He'll tell me when he gets home.
+ALICE: He'll tell me when he gets home.
+PHIL: That'll be a test, won't it?
+ALICE: Instead of busting my chops you should do something about that girl. Fire her. Or something.
+PHIL: Lisa's an extremely valuable member of the Skywire team. We've got our eyes on her. You keep yours on Milo.
+ALICE: ( as she hangs up )
+ALICE: It's almost nine, I've been so What did you see in there?
+MILO: She watches him as he collapses onto the couch.
+ALICE: She watches him as he collapses onto the couch.
+MILO: It's what they said it is. An unfinished broadcast studio. You were right. I just drove to Seattle and back.
+ALICE: Remember Lyle Barton?
+MILO: Remember Lyle Barton?
+MILO: The Justice Department guy who came to the apartment when
+ALICE: I remember.
+MILO: After I broke into 21 which was insane, thank God they didn't catch me! I just drove around. Trying to figure out what possessed me. You know what? I've been putting my own guilt on Gary.
+ALICE: ( quietly ) If I'd stayed down there, maybe this wouldn't've happened.
+MILO: ( quietly ) If I'd stayed down there, maybe this wouldn't've happened.
+ALICE: Poor baby. You know that's not true.
+MILO: I thought, instead of indulging all these paranoid delusions, risking my job, alienating Gary, scaring you, I should do something useful with my grief. Help them find Teddy's killers.
+ALICE: I was so worried about you.
+MILO: ( through their kisses ) .been such a long night.
+ALICE: That was different.
+MILO: Shit. She knows.
+ALICE: You didn't feel it? So intense.
+LISA: So you're not avoiding me.
+LISA: What's wrong?
+MILO: I snuck into #21.
+LISA: Why would you do a thing like
+MILO: You thought about it too. You've been suspicious for a while. But it's not happening in there. It's happening in the Day Care.
+LISA: The Day Care?
+MILO: Can we go someplace else?
+MILO: It's easy to know who the smart geeks are, the schools tell 'em. They upload medical files, school records, pharmacy files. They'd be happy just to steal code forever. But when a program gets close to fruition. Like Teddy. He was almost there.
+LISA: But why would they ?
+MILO: You know. There is no second place. And what's the risk? The killings're undetectable, they're hand-tailored, they make "sense." I mean, they're in the information business. They have scenarios for all of us, too. In case we find out too much.
+MILO: I'm not one of them. Not trying to "suss you out."
+MILO: They killed my best friend! I'm living with somebody they pay to go to bed with me. Can't you trust somebody just once? I don't wanna be alone
+LISA: I'm sorry, Milo. I'm sorry.
+MILO: ( forcefully ) I know why you're so secretive. Why you won't let anybody near you. ( quieter ) I know what he did to you.
+LISA: Oh yeah?
+LISA: So that's in my file?
+LISA: Is that my scenario? Tell me.
+MILO: They'd frame him.
+LISA: ( horrified ) He's out of prison?
+MILO: ( he nods ) They're already watching you. If they had to, they'd give him this drug that mimics an alcoholic blackout. He'd wake up not even remembering his "act of revenge."
+LISA: But he holds on.
+MILO: Nobody's gonna hurt you.
+LISA: I always felt if a boy I liked ever found out he'd run. He'd think I was unclean.
+MILO: I always felt if a boy I liked ever found out he'd run. He'd think I was unclean.
+LISA: I always felt if a boy I liked ever found out he'd run. He'd think I was unclean.
+MILO: No, no. Never.
+VOICE: You're sure.
+ALICE: He said it made sense that Gary's code was like Teddy's, that that cliché about great minds was true. Said it was all about his own guilt. Plus, he has a tendency to get Gary mixed-up with his dad once in a while. It always passes.
+PHIL: He wasn't acting?
+ALICE: I don't think he knows how.
+LISA: What about the FBI?
+MILO: They've got this guy in the DOJ, maybe others. We tell the wrong person, it's over.
+LISA: Who can we trust?
+MILO: There's always a logical answer you just have to define the question.
+LISA: How do you let go of a secret without telling the wrong person.
+MILO: We don't tell anybody. We tell everybody. At once. So there's no secret left to protect. When everybody knows, they don't dare touch us.
+SHROT: ( into the phone ) No, Tony can't fill in for you, he's not at your authorization level.
+LEN: Bob? You better look at this.
+MILO: Do we post it on the Net?
+LISA: There're so many disinformation sites about Gary already. Where he has devil's horns or they crop him in with Saddam Hussein.
+SHROT: Could it be a glitch? Something the construction workers caused?
+LEN: Unlikely. All 14 cameras are frozen. Do we call Randy and Phil? Tell 'em there may have been a break-in?
+SHROT: Not yet. 'Love to bust my ass cause I'm not in frigging Mensa. I swear to God, it's that kid Milo, I told 'em so in the first place, but they didn't even wanna hear about Let's run a printout on card entries.
+LISA: The mainstream media. TV, or a Right. But Gary's tied-in to a lot of media conglomerates. Have to be careful who we pick.
+MILO: Right. But Gary's tied-in to a lot of media conglomerates. Have to be careful who we pick.
+LISA: We could cross-reference a data base on media ownership. But not on our own computers. Not even at home.
+MILO: Certainly not at my happy home.
+MILO: Gary, hi.
+GARY: You look a little tired.
+MILO: I'm okay. It's going well!
+GARY: 'Have a look?
+MILO: Gary takes the page. As he reads it over:
+GARY: Why did you move around so much? When you were a kid.
+MILO: .My dad was a compulsive gambler. Only he didn't think he was. That applied to guys who didn't have a "system." "Losers," who played games of chance. He could "read" people, so chance had nothing to do with it. No matter how deep a hole he dug himself, he'd give you the whole speech. And you'd better not point out the obvious. His creditors would catch up to him. Loan sharks or whatever. He'd wake us in the middle of the night. Off we'd go, again.
+GARY: What would you tell the kids? At your new school? You had to come up with a good story, right?
+MILO: No. I just went deeper into the machine. Preferred being the geek to having to explain. Lying would've been worse.
+GARY: Cause he was a liar. And I hated "Get your head out of that machine, wise up to the real world." The more he mocked me the deeper I went. Cause if being savvy meant being like him Guess that's why I'm kind of clueless, even now. Didn't cultivate my conniving side. 'Not sure I even have one.
+MILO: Cause he was a liar. And I hated "Get your head out of that machine, wise up to the real world." The more he mocked me the deeper I went. Cause if being savvy meant being like him Guess that's why I'm kind of clueless, even now. Didn't cultivate my conniving side. 'Not sure I even have one.
+GARY: Don't be so hard on yourself. With a brain like yours, you could connive with the best of 'em I bet.
+MILO: He's buying up pretty much everything: cable companies, baby bells, picture libraries, museum rights, film archives. Getting ready for Skywire.
+LISA: ( she's thinking ) What about "60 Minutes."
+MILO: Yeah, they dig stuff like this. "CBS News has partnered with Outpost Information Systems in a cable news network due to launch Fall of 2001."
+LISA: But still, you can't say CBS wouldn't love to break something like
+MILO: ( he's shaking his head ) Say there's just one "mole" working there, like Barton at the DOJ. How do we know he's not the guy we've contacted? Or she? Or the guy she works for?
+LISA: ( types, reads ) Time-Warner has a 40 per cent stake in Gary's set-top device. That also takes out CNN. ( scrolling & scrolling ) "GE joins Outpost in new venture," which means NBC is out. "Disney joins Outpost," ABC is out. "Outpost and Newscorp in new deal," Fox is out. Any of these places could have a mole. Or all of 'em. ( still scrolling ) It's like a a continuous loop. We can go to some alternative press place that 1,000 people read, get them and us killed. But anything big enough for this is a parent of or a subsidiary to something Gary's got a finger in!
+MILO: ( types, reads ) Time-Warner has a 40 per cent stake in Gary's set-top device. That also takes out CNN. ( scrolling & scrolling ) "GE joins Outpost in new venture," which means NBC is out. "Disney joins Outpost," ABC is out. "Outpost and Newscorp in new deal," Fox is out. Any of these places could have a mole. Or all of 'em. ( still scrolling ) It's like a a continuous loop. We can go to some alternative press place that 1,000 people read, get them and us killed. But anything big enough for this is a parent of or a subsidiary to something Gary's got a finger in!
+HOMEWORK KID: She's thought of something. He's watching the nerdy Kid, smiling sadly, perhaps identifying with him.
+MILO: She's thought of something. He's watching the nerdy Kid, smiling sadly, perhaps identifying with him.
+LISA: She's thought of something. He's watching the nerdy Kid, smiling sadly, perhaps identifying with him.
+LISA: How close are you?
+MILO: He's got 12 satellites up. He's got dishes on top of 21. He's building mega-network for Skywire. Let's use
+LISA: He's got 12 satellites up. He's got dishes on top of 21. He's building mega-network for Skywire. Let's use
+MILO: We can't just assume they're standing by to receive Skywire 12 months from launch. I'd have to write in an aglet.
+LISA: A what?
+MILO: It's how on-line services push logos they wanna sell you. You don't ask for 'em, they just appear. 'Have to work on it somewhere besides my office or my house. And then the quality of the broadcast wouldn't exactly be digital, that's 12 months away.
+LISA: But they'd still get the idea, right?
+MILO: You'd have to design a graphic interface to make the data pop. Maybe some audio, too. To tie it all in to Gary. How long would that take you?
+LISA: It's a standard GUI. Once I've got a concept, it's maybe three day's work.
+MILO: Gary knows I'm close on Skywire. We have to do this fast.
+LISA: Before they kill somebody else, too.
+MILO: ( a new wrinkle ) Oh, man. I'd have to get into Gary's house. To get the satellite positions.
+LISA: You mean break in?
+MILO: I don't know
+LISA: And what if the broadcast dishes on top of 21 aren't hot yet? You said the place isn't finished.
+LISA: I'll go look. They'll just have a few more pictures of me snooping around.
+MILO: ( looks at her ) Why were you so careless?
+LISA: I thought the worst they would do is fire me. Who knew they took termination so literally?
+MILO: Why were you snooping in my office?
+LISA: ( she gets bashful ) I liked you. I was checking you out.
+MILO: I told Teddy about you.
+LISA: What'd he say?
+MILO: "A beautiful geek? What're the
+MILO: I felt guilty. 'Cause I "owed so much" to Alice. But even then I was starting to wonder. Is it so great to be so consumed by this one thing that you let another person do your thinking for you? If you have a lucrative skill, it's all anybody wants from you. You grow older but you don't grow up. You turn into
+LISA: It's painful for him: losing a second father.
+MILO: Larry used to say how the guys who wrote the first cool operating systems, like the UNIX guys at Berkeley? They just gave it away. They figured it was human knowledge, it belonged to the world, like Shakespeare or aspirin. 'Know what I'm gonna do after we broadcast the incriminating stuff? Air the Skywire code. Then nobody can have a monopoly.
+ALICE: Where were you? You know you can't keep anything from me.
+MILO: Okay, yeah. I did something naughty. There's this amazing Comix store in To tell you the truth, I did it once or twice at Stanford. 'Guess I can't keep anything from you.
+ALICE: ( she smiles ) I won't turn you in.
+LEN: Every entry was authorized.
+SHROT: Keep looking.
+LEN: What're we looking for?
+SHROT: Any irregularity in the pattern.
+TV VOICE: Last years' party-goers pledged over $2 million to the Museum; this year's event promises to raise even more. Lured in part by the chance to see the stunning Boyd house.
+MILO: Look at this.
+ALICE: Why doesn't he ask us to his party. He's never even met you.
+MILO: Why doesn't he ask us to his party. He's never even met you.
+ALICE: He has thousands of employees, Milo
+MILO: It's for the Museum. He knows you're a painter. If anybody should be I know you think I'm too attached to him, but still. I am close to Gary. And you're the most meaningful person in my life. I'm going back to the Comix place, why should I be killing myself.
+ALICE: I know you think I'm too attached to him, but still. I am close to Gary. And you're the most meaningful person in my life. I'm going back to the Comix place, why should I be killing myself.
+MILO: I know you think I'm too attached to him, but still. I am close to Gary. And you're the most meaningful person in my life. I'm going back to the Comix place, why should I be killing myself.
+ALICE: Milo, you
+GUARD: Hey! Get down here!
+MILO: This is a lifesaver. My PC crashed just before finals.
+SISTER BEATRICE: None of us knows how to use it. I'm thinking of taking a course. May I?
+MILO: With her, we see the complex lines of code.
+SISTER BEATRICE: Forget it.
+LISA: I needed t'see it up close for a graphic. The outpost with a dish on top? I climbed up there to get it
+SHROT: ( hands back the drawing ) Next time you ask.
+LEN: 'Might of found something.
+LEN: Delbert seems to enter #21 twice. Without leaving the first time.
+SHROT: Let's get him in here.
+MILO: Great. I knocked off the aglet, as soon as I get a passable version of Skywire we're there.
+LISA: The dishes are juiced up, too.
+MILO: Thank God.
+LISA: Milo? Shrot suspects somebody broke into #21. I was in his office when he was reviewing the card readouts.
+MILO: ( confused ) They know I broke in. Alice helped ( figuring it out ) Shrot's not one of them. He's blundering into this on his own.
+LISA: He doesn't know about the Day Care.
+MILO: Hardly anybody does, that's the beauty part. No cameras, the DOJ doesn't bother with it, it's accessed by a tunnel they boast about. You know the best place to hide a leaf?
+LISA: Yeah, that's old, in a tree.
+MILO: Milo? What if Shrot notices somebody entered the Day Care at four A.M.? And tells them about it?
+LISA: Milo? What if Shrot notices somebody entered the Day Care at four A.M.? And tells them about it?
+GARY: Milo stands. Gary hands him a heavy vellum invitation.
+GARY: I'm giving a benefit for the art museum Thursday night. Thought you'd like to bring Alice.
+MILO: That's great! Thanks.
+GARY: ( as he goes ) 'Sorry about the late notice.
+DESI: "Sorry about the late notice?"
+SHROT: Why did you enter #21 twice?
+DELBERT: Shrot hands Delbert the printout. Delbert looks at it: dense with coded entries. He stares at it.
+DELBERT: This thing's screwed-up. Look here. 'Shows me going into the Day Care that night. I never been in the Day
+LISA: One window'll be obits I downloaded, based on the scenarios you described. The other windows'll accommodate the surveillance stuff you told me about. The idea is, this works with anything, since we can't edit.
+LISA: Same with the excerpts I'm choosing: they'll play against any of the images you described.
+MILO: ( something preys on his mind ) How am I gonna get away from the party long enough to
+LISA: You could always say you have to go the bathroom.
+MILO: That's lame, isn't it?
+LISA: You'll come up with something.
+ALICE: They called the house to ask who's your favorite painter.
+HOUSEMAN: Sorry, Sir, this part of the residence is restricted.
+GARY: Alice, I'm Gary. This is my wife, Milo, this is Barry Linder, who's visiting from Hollywood.
+LINDER: I hate being the Hollywood guy. It's so limiting. Meet my friend, Ricky.
+RICKY: Hi, guys.
+GARY: Barry's studio's gonna help fill the Skywire pipeline, thought you guys should meet.
+MILO: ( his mind elsewhere )
+SOCIETY WOMAN: He's a sweetheart. He gave 10,000 PC's to the Library Association.
+SOCIETY MAN: All 10,000 of which will be signed onto his browser, no doubt.
+SOCIETY WOMAN: And so what?!
+ANOTHER MAN: Wait'll all the books are on-line.
+SOCIETY WOMAN: And so what?
+LINDER: The merchandising implications are epic. A kid's watching the movie, he points and clicks at the laser blaster before the reel's even over he's ordered the toy.
+ALICE: But, I mean Devil's Advocate won't that influence the content? Won't the artists complain? The directors or writers or whoever?
+LINDER: Artists? Darling, the only art left in America is business. You're in Picasso's house!
+MILO: Where's the bathroom?
+LINDER: The irreverence!
+ENTRANCE HALL: speaks to the Houseman who guards the residential rooms.
+HOUSEMAN: You'll have to use one over there.
+MILO: There's like eight women waiting in line. They take forever. Right here.
+HOUSEMAN: Right here.
+BATHROOM: He stands there a moment, breathes deeply. He cracks open the door. The Houseman is turning away another Guest; Milo makes his move.
+GARY: ( reading the screen ) "Dear Lisa. I've enjoyed working with you. I'd be lying if I didn't say I find you attractive. But in my heart I know that Alice." ( he looks up ) You left my party to send E-mail?
+MILO: I couldn't do it at work cause of security or at home for obvious
+GARY: You could've handwritten it.
+MILO: I'm not much good at handwriting. Or Oh, that's right. You're "clueless."
+GARY: Oh, that's right. You're "clueless."
+MILO: Gary, I'm sorry if I was rude
+HOUSEMAN: Everything OK, Mr. Boyd?
+GARY: No problem. Is there?
+MILO: Gary, I
+GARY: You see what's hanging on the wall?
+GARY: I hope you know what you mean to me. Not just because of what you're doing. Because of who you are.
+MILO: I do know, Gary. I feel the same way. I thought I was coming here for a job. But it's meant a lot more.
+GARY: When will you have a Beta version?
+MILO: I'm pretty close. But when I wrote the last contact switches, it wiped out a piece of the content filer. You know what it's like, writing I do know. You focus on the big problem. But somewhere down the chain, something breaks down. Something gets destroyed. At first it's upsetting. You feel you've lost
+GARY: I do know. You focus on the big problem. But somewhere down the chain, something breaks down. Something gets destroyed. At first it's upsetting. You feel you've lost
+GARY: So you have to remind yourself: it's just the process. Something's always lost along the way to anything worthwhile. Some little bug, some glitch. 'Can't get bogged down in that, you're doing something other people could never do. They lack the imagination, the brain, the nerve. Let them fret about every unforeseen consequence. You have to solve the problem. That's who you are.
+ALICE: Are you gonna tell me where you went?
+MILO: I went to see the Skywire model in Gary's office. You know. Just to hold it again.
+ALICE: Are you having an affair, Milo?
+MILO: No. No. I sent an E-mail to somebody, just now. To tell her how I feel about you. You know I'm clueless, without you. You know I
+ALICE: ( fighting tears ) Just shut up?
+LEN: Get the backslash, the colon, keys kids don't use but geeks do. What would Milo want in here, anyway?
+SHROT: They know. 'Just they don't trust me with it. So we'll get the evidence, first, ask questions later.
+LISA: Does he know you know?
+MILO: He suspects I know something. I think he was sort of explaining himself to me, in case I do. We have to go in tonight. I'm two hours from a Beta version. But I've gotta go home for an hour.
+LISA: She called to apologize. I said I was pulling an all-nighter. She said then come home just to say Hi. Which I always do when we fight, it's suspicious if I don't.
+MILO: She called to apologize. I said I was pulling an all-nighter. She said then come home just to say Hi. Which I always do when we fight, it's suspicious if I don't.
+LISA: Please don't go.
+MILO: At this point the worst thing I could do is anything out of the ordinary. Here's the interface.
+LISA: Here's the interface.
+ALICE: I'm a mess! I got this Hunan cookbook, since we're always afraid for you to eat in Chinese restaurants. I've been mincing things into teeny-tiny pieces all afternoon.
+MILO: Look at me! I'm gonna change.
+ALICE: Look at me! I'm gonna change.
+BEDROOM: Alice pulls her hair back with a ribbon.
+KITCHEN: Milo churns the garbage in the wastebasket, reads the label on a jar, the label on a can.
+BEDROOM: Alice applies blush-on.
+KITCHEN: Milo goes through the spice cabinet.
+MILO: ( he smiles ) You look beautiful.
+ALICE: Yeah? Give me a goodbye kiss.
+MILO: I know you. You're gonna run back to work right after dinner. I want my kiss now.
+ALICE: I know you. You're gonna run back to work right after dinner. I want my kiss now.
+ALICE: Be right back.
+ALICE: His mind churns furiously.
+ALICE: Don't we have any chopsticks?
+MILO: Don't we have any chopsticks?
+ALICE: Oh, right. Hold on.
+MILO: ( under his breath ) One more minute.
+ALICE: Here we go.
+MILO: He unwraps the chopsticks rather slowly.
+MILO: .wanna savor this.
+ALICE: It's gonna get cold.
+MILO: Right. Wait. A toast.
+ALICE: You're just afraid to eat it.
+MILO: To the artist.
+MILO: ( his voice cracks ) It's great. It's great.
+SECRETARY: Milo, hi! How was the party?
+MILO: Great! Great! Thanks for asking!
+LEN: You calling Phil and Randy?
+SHROT: I'm calling Gary.
+SHROT: He's left his office, we think he's gone back to the Day Care for some reason. Can you tell me why, Gary? Whatever you say. Wants to consult with Phil. Was it Phil's idea to run the fingerprints?
+SHROT: Come with me.
+LEN: ( trying to catch up ) Where we going?
+PHIL: He's in the Day Care.
+LEN: Bob, I'm a programmer, not a cop.
+SHROT: What are you doing?
+MILO: You're better off not knowing.
+SHROT: What're you doing?!
+MILO: They're surveilling programmers from in here. They steal their code. Sometimes I know this sounds insane sometimes they kill one.
+MILO: They let me break into 21. 'Cause there's nothing in there. You know they've been keeping things from you. 'Getting in the way when you try t'do your job. That's why you never told 'em your suspicions about me. Right?
+MILO: If you had I'd be dead now.
+MILO: You've been following your gut all along. Please don't stop now?
+RANDY: What's going on here?
+SHROT: Who're these guys?
+RANDY: Where is he?
+SHROT: We're too late. Take a look.
+SHROT: What's in here worth taking, anyway?
+RANDY: He must be out there still
+SHROT: ( calling after ) Forget about it. His car's not in the lot, he's gone!
+VOICE: Milo turns. It's Desi, again.
+DESI: Wanna get a cheeseburger or something?
+MILO: Maybe another time.
+RANDY: ( to Shrot Fellas, I'm gonna have to ask you to leave here now.
+SHROT: Wait a second. I'm the one who found out he was mucking around in here in the first place.
+RANDY: We're all grateful for that. Really. Go out the way you came in?
+MILO: Meet me at the other location.
+LISA: But you said the other
+PHIL: Yeah, alright. He's off campus, he's taken some surveillance data with him.
+PHIL: She's bringing her laptop, it's wired. Second she boots up, we're on 'em.
+MILO: Brian here? Brian Bissel?
+RANDY: ( into the phone ) Nothing. They haven't booted-up yet.
+MILO: This is the biggest Beta demo in like the history of software. You'd be my partner.
+BRIAN: You can't pre-empt Yoga, that's our biggest show.
+MILO: Brian! You wanna be a big deal, don't you? That's your dream in life.
+BRIAN: Will I get to work for Outpost?
+MILO: No. But you can write your own ticket in the Valley after this. We're gonna bring down Outpost.
+BRIAN: What'd they ever do for you?
+MILO: What'd they ever do for you?
+BRIAN: Great. Great! We need to drag a lot of heavy stuff in front of the door
+MILO: Great. Great! We need to drag a lot of heavy stuff in front of the door
+BRIAN: ( to the Rent-a-Guard ) Wanna be a part of history?
+MILO: ( to the Rent-a-Guard ) Wanna be a part of history?
+MILO: ( digging in his pocket ) Well would you like to pick up an extra 232 dollars?
+PHIL: ( on the phone ) Nothing yet, Gary.
+RANDY: ( into the phone ) We've got a fix on 'em. ( typing ) 218 North Jericho Road.
+RANDY: Public access TV station. KNQR.
+PHIL: He's taken it to the public access
+GARY: That's what he was doing in here.
+PHIL: Gary throws a printed spiral notebook at him.
+GARY: Help me change the Skywire settings. Add five degrees to each satellite Gary, don't worry, we
+PHIL: Gary, don't worry, we
+GARY: Just do what I'm asking!
+BRIAN: You're interfaced with our dish.
+MILO: ( to Lisa ) Gimme the coordinates?
+LISA: Longitude 77 degrees, 03 minutes, 58 seconds East.
+LISA: Latitude 38 degrees, 55 minutes, 14 seconds South.
+PHIL: 19 seconds South. Altitude 431 Miles.
+BRIAN: Is it your software?
+MILO: Is it your dish?
+LISA: Maybe it's the satellite.
+MILO: ( he thinks ) Let's try #2.
+GARY: Okay, #2.
+PHIL: Longitude 48 degrees 06 minutes
+LISA: They're already here. My laptop must be wired!
+BRIAN: ( anxiously ) ( typing ) We're there.
+MILO: ( typing ) We're there.
+MILO: EXT./INT. KNQR - ENTRANCE - CONTINUOUS Gunther and Riman tear through the barricade the Rent-A-Cop has erected with ruthless precision.
+LISA: ( to Brian ) You checked your connections?
+BRIAN: ( to Milo ) Yes! Should you reboot?
+MILO: .He knows.
+LISA: He's been altering the coordinates since we logged on. He's a step ahead. Let's jump to #12.
+MILO: He's been altering the coordinates since we logged on. He's a step ahead. Let's jump to #12.
+PHIL: Ready for number three?
+GARY: Let's go.
+PHIL: Longitude 109
+GARY: Wait. He knows.
+PHIL: 'Knows I'm altering the coordinates. Let's jump to #12.
+GARY: 'Knows I'm altering the coordinates. Let's jump to #12.
+PHIL: Just do it.
+GARY: Just do it.
+GUNTHER: Step aside. We won't hurt you.
+LISA: Latitude 47 degrees.
+MILO: Wait a second. He knows I know.
+BRIAN: He's working backwards, too. Let's do number five?
+MILO: He's working backwards, too. Let's do number five?
+LISA: Longitude 66.
+LISA: Come now. They've got guns!
+BRIAN: ( to Milo ) You there yet?
+MILO: ( typing ) One more second. Hey, hey, relax, relax!
+BRIAN: Hey, hey, relax, relax!
+LISA: Oh my God.
+BRIAN: ( to Gunther ) Should I call Phil? Or do you?
+BRIAN: Milo? Wake up. Our regular programming will not be preempted tonight.
+GUNTHER: ( staring at Milo )
+BRIAN: .When did you know?
+MILO: ( still watching the screens ) You should've called a few times to bug me about your job prospects.
+LISA: Milo? Who's got Skywire?
+PHIL: If Milo didn't launch Skywire, who
+SHROT: Now what are we doing? I don't get any of this shit!
+LEN: I launched Skywire. Just pray the last set of coordinates Milo sent me connected us to Gary's satellite.
+REVERSE ON: Gary watching.
+RIMAN: ( to Gunther ) You know the scenario for this.
+MILO: 'Last thing you wanna do is hurt us Who's seeing this?
+GUNTHER: ( to Brian ) Who's seeing this?
+BRIAN: ( with dread ) Who isn't?
+A MONTAGE: 1. MOVE PAST ROWS & ROWS OF PC's playing surveillance footage, a crash-scene upload, and an obituary, in a college computer lab. Students watch, agog.
+LAWYER: The "murder" stuff is all innuendo: bad PR, legally null. 'Could probably be spun as Urban Legend. There is a case for corporate espionage, but if you cop a plea, you'll get a slap
+GARY: Cop a plea? I'm confused, Ted. You think I knew about this?
+GARY: I'm running the company, fighting the DOJ, raising a family. Randy and Phil obviously overreacted. To this endless, antitrust witchhunt.
+LAWYER: ( get real ) The government's gonna offer 'em a helluva deal to tie you into this. Whether you knew about it or not.
+LAWYER 2: Randy, Phil and whoever else knew about it.
+GARY: That won't be a problem.
+GARY: The world's seen it now. They know it's gonna dominate the convergence market even beyond how Outpost '98 dominates the desktop.
+GARY: You threaten TV networks, phone companies, catalog outlets, publishing houses, movie studios, travel agents, airlines, stock brokerages you sabotage the whole economy. Talk about undermining innovation!
+LAWYER 2: ( he's writing on a legal pad ) Easy to spin, old as the hills: What's good for Outpost is good for America.
+MILO: Come on, Bob. Load in the other disk.
+GARY: "I had no knowledge of these activities, but I have to ask myself if the competitive environment I encouraged in some small way contributed "
+LAWYER: Gary looks up. The Lawyer nods soberly at the TV's. In one window, the Skywire code scrolls slowly past. In the other, it says: "Here's the code for the operating system that made this braodcast possible. Take it. Use it. Make the new convergence technologies as free as the Web." Under the windows, these words scroll continuously: HUMAN
+LARRY KING: That'd change with a criminal There's no hard evidence he knew about this. Anybody who could implicate him seems to've vanished.
+CYBER PUNDIT: There's no hard evidence he knew about this. Anybody who could implicate him seems to've vanished.
+MILO: Larry, Lisa.
+LARRY: Your app kind of blew mine out of the water.
+MILO: ( he shrugs ) We'll come up with the next big thing.
+LARRY: .You wanna work here?
+MILO: Got out of my other commitment.
+LARRY: May I? Hey, wait! Not giving everything away.
+MILO: Hey, wait! Not giving everything away.
+LARRY: C'mon. Bring your stuff. You guys'll be using Teddy's old space, is that okay?
+LARRY: You guys'll be using Teddy's old space, is that okay?
+MILO: FADE TO BLACK:
+THE END: Writers : Howard Franklin

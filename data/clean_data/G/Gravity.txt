@@ -1,78 +1,74 @@
 GRAVITY: Written by
-MISSION CONTROL: (On radio, faint) Explorer, please verify that the P1 ATA removal on replacement cap part 1 and 2 are complete.
-EXPLORER CAP: (On radio, faint) DMA M1, M2, M3 and M4 are complete.
-MISSION CONTROL: (On radio, faint) Copy that Explorer. Dr Stone-Houston, requesting status update... A fizz of static and then the voice continues with sudden, starling clarity.
+CARD 1: AT 600 KM ABOVE PLANET EARTH THE TEMPERATURE FLUCTUATES BETWEEN 120 AND -100 DEGREES CELSIUS. THERE IS NOTHING TO CARRY SOUND, NO OXYGEN, AND NO AIR PRESSURE. LIFE HERE IS IMPOSSIBLE. OUTER SPACE, 600 KILOMETERS ABOVE- PLANET EARTH. Like all images of Earth seen from space, this image of our planet is mythical and majestic. The globe seems almost tangible, slowly spinning, floating in the endless void of space. It is a blue planet, and bright white clouds twirl and stretch in capricious patterns across the deep blue of the oceans and the jigsaw of continents: green, yellow and brown. It is noon in Cape Town and early night in India. The sphere is almost a perfect orb except for the darkened sliver on its Eastern edge. It is beautiful! And so full of life. But not here. Here it is completely silent.
+CARD 2: THERE IS NOTHING TO CARRY SOUND, NO OXYGEN, AND NO AIR PRESSURE. LIFE HERE IS IMPOSSIBLE. OUTER SPACE, 600 KILOMETERS ABOVE- PLANET EARTH. Like all images of Earth seen from space, this image of our planet is mythical and majestic. The globe seems almost tangible, slowly spinning, floating in the endless void of space. It is a blue planet, and bright white clouds twirl and stretch in capricious patterns across the deep blue of the oceans and the jigsaw of continents: green, yellow and brown. It is noon in Cape Town and early night in India. The sphere is almost a perfect orb except for the darkened sliver on its Eastern edge. It is beautiful! And so full of life. But not here. Here it is completely silent.
+CARD 3: LIFE HERE IS IMPOSSIBLE. OUTER SPACE, 600 KILOMETERS ABOVE- PLANET EARTH. Like all images of Earth seen from space, this image of our planet is mythical and majestic. The globe seems almost tangible, slowly spinning, floating in the endless void of space. It is a blue planet, and bright white clouds twirl and stretch in capricious patterns across the deep blue of the oceans and the jigsaw of continents: green, yellow and brown. It is noon in Cape Town and early night in India. The sphere is almost a perfect orb except for the darkened sliver on its Eastern edge. It is beautiful! And so full of life. But not here. Here it is completely silent.
+GRAVITY: OUTER SPACE, 600 KILOMETERS ABOVE- PLANET EARTH. Like all images of Earth seen from space, this image of our planet is mythical and majestic. The globe seems almost tangible, slowly spinning, floating in the endless void of space. It is a blue planet, and bright white clouds twirl and stretch in capricious patterns across the deep blue of the oceans and the jigsaw of continents: green, yellow and brown. It is noon in Cape Town and early night in India. The sphere is almost a perfect orb except for the darkened sliver on its Eastern edge. It is beautiful! And so full of life. But not here. Here it is completely silent.
+MISSION CONTROL: ( On radio, faint ) Explorer, please verify that the P1 ATA removal on replacement cap part 1 and 2 are complete.
+EXPLORER CAP: ( On radio, faint ) DMA M1, M2, M3 and M4 are complete.
+MISSION CONTROL: ( On radio, faint ) Copy that Explorer. Dr Stone-Houston, requesting status update. A fizz of static and then the voice continues with sudden, starling clarity.
 RYAN: Installation ninety-five percent complete. Running level one diagnostics on circuits, sensors, and power. Standby.
-MISSION CONTROL: Standing by. Looks like we're on schedule. Dr. Stone, Medical is concerned about your ECG readings.
+MISSION CONTROL: ( ON RADIO )
 RYAN: I'm fine Houston.
-MISSION CONTROL: Well, medical doesn't agree doctor. Are you feeling nauseous?
+MISSION CONTROL: ( RADIO )
 RYAN: Not any more than usual, Houston. Diagnostics are green. Linking to communications card. Ready for data reception. If this works, when we touch down tomorrow, I'm buying all you guys a round of drinks.
-MISSION CONTROL: That's a date, doctor. Just remember, Houston is partial to Margaritas.
-RYAN: OK, here we go... Booting comm card now. Please confirm link.
-(BEAT): Houston, please confirm reception of data.
-MISSION CONTROL: Negative. We're not seeing any data.
+MISSION CONTROL: ( RADIO )
+RYAN: OK, here we go. Booting comm card now. Please confirm link.
+MISSION CONTROL: ( ON RADIO )
 RYAN: Stand by, Houston. I'm gonna reboot the comm card.
-MISSION CONTROL: Standing by. An ASTRONAUT - MATT KOWALSKI - floats thirty meters away from the Shuttle wearing a bulky white space suit and a full, bubble- like helmet.
+MISSION CONTROL: ( RADIO )
 ASTRONAUT: Houston, I have a bad feeling about this mission.
 MISSION CONTROL: Please expand.
-MATT: Okay, let me tell you a story. It was '96. I'd been up here 42 days. Every time I passed over Texas, I'd look down, knowing the second Mrs Kowalsky, was looking up, thinking of me. Six weeks I'm blowing kisses to that woman. Then we land at Edwards and I find out she'd run off with a lawyer before I was off the launch pad, so I packed my car and I headed to...
-MISSION CONTROL: Tijuana. You've told this story, Kowalsky. As Houston recalls, she took off in your '74 GTO. Engineering requests fuel status on the jet pack prototype. Matt smiles, checks the monitors of the sleek device strapped to his back.
+MATT: Okay, let me tell you a story. It was '96. I'd been up here 42 days. Every time I passed over Texas, I'd look down, knowing the second Mrs Kowalsky, was looking up, thinking of me. Six weeks I'm blowing kisses to that woman. Then we land at Edwards and I find out she'd run off with a lawyer before I was off the launch pad, so I packed my car and I headed to.
+MISSION CONTROL: Tijuana. You've told this story, Kowalsky. As Houston recalls, she took off in your '74 GTO. Engineering requests fuel status on the jet pack Matt smiles, checks the monitors of the sleek device strapped to his back.
 MATT: Five hours off the reservation and I show 30% drain. My compliments to Engineering. Except for a slight malfunction on the nulling of the roll axis, this jetpack is one prime piece of thrust.
-MISSION CONTROL: Engineering says thank you.
-MATT: Tell them I still prefer my '67 Corvette though. Speaking of which did I ever tell you the--
-MISSION CONTROL: We know the Corvette story, Matt.
+MISSION CONTROL: ( ON RADIO )
+MATT: Tell them I still prefer my '67 Corvette though. Speaking of which did I ever tell you the
+MISSION CONTROL: ( ON RADIO )
 MATT: Even Engineering?
 MISSION CONTROL: Especially engineering. We're going to miss you, Matt. Matt grins, fiddles with a control and propels himself away from the Shuttle. Stationed around the telescope are TWO ASTRONAUTS carrying out a repair mission. They are also wearing space suits but unlike Matt, they are not wearing Manned Maneuvering Units. SAFETY TETHERS are the only things stopping them from floating away into space.
 RYAN: Comm card reboot in progress.
-MISSION CONTROL: Thank you doctor. Shariff, what's your status?
+MISSION CONTROL: ( ON RADIO )
 SHARIFF: Nearly there. Replacing battery module A1 and C. SHARIFF DASARI is an Indian engineer in his mid-thirties. He is attached with tethers to a platform on one side of the Hubble. This is his second mission into outer space.
-MISSION CONTROL: Could you be more specific? Indeterminate estimates make Houston anxious.
-SHARIFF: No... no... no Houston, don't be anxious. Anxiety is not good for the heart... The system is ready to re- activate.
-MISSION CONTROL: Hubble Telescope engaged. Upgrade fully functional. That applause you hear is for you, Shariff. Congratulations. Kick back, take the rest of the day off. Shariff cheers and begins singing a pop tune in Hindi, bursting into a Zero-G Bollywood choreography that is repressed by the stiffness of his space suit.
-SHARIFF: Woohoo... Jaise Baadal Paani Ka, Yaarana Hai Oh Jaise Paani Ka, Yaarana Hai.
-MISSION CONTROL: Matt, please advise as to Mission Specialist Shariff's current activity.
-MATT: He appears to be doing the Macarena of some sort. Though that would merely be a best guess scenario on my part. Matt is now approaching the Explorer, skillfully maneuvering his thrusters. The other astronaut stands perched on a ROBOTIC ARM attached to the Shuttle. The arm is a crane-like moving platform remotely operated from inside the Shuttle. We TRACK In on the astronaut as she works intently alone.
+MISSION CONTROL: ( ON RADIO ) MISSION CONTROL ( ON RADIO )
+SHARIFF: No. no. no Houston, don't be anxious. Anxiety is not good for the heart. The system is ready to re- Hubble Telescope engaged. Upgrade fully functional. That applause you hear is for you, Shariff. Congratulations. Kick back, take the rest of the day off. Shariff cheers and begins singing a pop tune in Hindi, bursting into a Zero-G Bollywood choreography that is repressed by the stiffness of his space suit.
+MISSION CONTROL: ( ON RADIO )
+SHARIFF: ( SINGING )
+MISSION CONTROL: ( ON RADIO )
+MATT: He appears to be doing the Macarena of some sort. Though that would merely be a best guess scenario on my part. Matt is now approaching the Explorer, skillfully maneuvering his The other astronaut stands perched on a ROBOTIC ARM attached to the Shuttle. The arm is a crane-like moving platform remotely operated from inside the Shuttle. We TRACK In on the astronaut as she works intently alone.
 MISSION CONTROL: Dr. Stone. Houston. Medical now have you with a temperature drop to 35.9 and heart rate rise to 70. How are you doing?
-RYAN: Houston, I'm fine, it's just...
-(SHE SWALLOWS): ...Keeping your lunch down in zero G is harder than it looks.
+RYAN: Houston, I'm fine, it's just.
 MISSION CONTROL: Doctor Stone? Medical is asking if you want to return to Explorer? Ryan HUMS as she jiggles the CARD.
-RYAN: No, we've been here for a week Houston, let's just finish this. RYAN STONE is a medical engineer, specialized in hospital scanning systems. She's focused on her work as though she's all alone in the world. This is her first mission. Ryan eyes the Card, then...
-MISSION CONTROL: That's a negative. I'm afraid we're getting nothing on this end, doctor. Ryan eyes the Card, then...
+RYAN: No, we've been here for a week Houston, let's just finish this. RYAN STONE is a medical engineer, specialized in hospital scanning systems. She's focused on her work as though she's all alone in the world. This is her first mission. Ryan eyes the Card, then.
+MISSION CONTROL: ( ON RADIO )
 RYAN: Try again.
-MISSION CONTROL: (a beat, then...) Still nothing.
+MISSION CONTROL: ( a beat, then. ) Still nothing.
 RYAN: Houston, could you please turn that music off?
-MISSION CONTROL: Kowalsky?
+MISSION CONTROL: ( ON RADIO )
 MATT: Not a problem. Matt toggles a switch and the music stops.
 RYAN: Thank you, Kowalsky. Ryan moves the Card around.
-RYAN (CONT'D): Now, Houston?
-MISSION CONTROL: Negative.
-RYAN: Could Houston be misinterpreting the data--?
-MISSION CONTROL: We're not receiving any data. Engineering is recommending a vis- check for component damage. Again, as if to herself-
+MISSION CONTROL: Could Houston be misinterpreting the We're not receiving any data. Engineering is recommending a vis- check for component damage. Again, as if to herself-
+RYAN: Could Houston be misinterpreting the We're not receiving any data. Engineering is recommending a vis- check for component damage. Again, as if to herself-
+MISSION CONTROL: ( ON RADIO )
 RYAN: Mmmm. Let me see what's going on. She starts to disengage one of the panels.
-RYAN (CONT'D): What have you got here? Ryan takes out a card from under the plate and begins to examine it. Matt begins to approach her.
-RYAN (CONT'D): Visual examination doesn't reveal any damaged components. The problem must be originating in the comms panel.
-MISSION CONTROL: That seems to be the case. Engineering admits that you warned us that this could happen. That's as close to an apology as you're going to get from them. We should've listened to you doc. Without losing any time, Ryan puts the card back into the
+MISSION CONTROL: ( ON RADIO )
 RYAN: I'm on it.
-MISSION CONTROL: Copy that. How long do you think it'll take you? Matt begins a wide loop around the telescope.
+MISSION CONTROL: ( ON RADIO )
 RYAN: An hour.
-MISSION CONTROL: Outstanding. We appreciate your patience, Doctor. Installing your system in the Hubble is the main purpose of this mission. Ryan doesn't respond, continuing to work. Matt closes in as he circles the telescope.
+MISSION CONTROL: ( ON RADIO )
 MATT: Seventy-five minutes shy. Never crossed my mind.
-MISSION CONTROL: Matt, It's been a privilege. Matt hesitates ever-so-briefly, then...
+MISSION CONTROL: ( ON RADIO )
 MATT: Right back atcha, Houston.
-MISSION CONTROL: Enjoy your last walk...
+MISSION CONTROL: ( ON RADIO )
 MATT: Am I a go to assist Dr. Stone in removing the panel?
 RYAN: Assistance appreciated.
-MISSION CONTROL: Permission granted.
+MISSION CONTROL: ( ON RADIO )
 MATT: Thank you, Houston.
-(TO RYAN): Mind if I join the fun?
-RYAN: Certainly. Ryan begins unbolting. Matt lands right next to Ryan and grabs onto the telescope. She is frustrated, determined.
+RYAN: Ryan begins unbolting. Matt lands right next to Ryan and grabs onto the telescope. She is frustrated, determined.
 MATT: How are you feeling?
-RYAN: Like a Chihuahua that's being tumble dried. Matt takes out his pistol grip, and with fast precision puts its head to a bolt and begins unscrewing. Matt removes the bolt with confidence.
-MATT: It's been a rough week. If it makes you feel any better, I puked up everything but my kidneys on my first ride. Ryan is not as precise with her pistol grip, and when a bolt
-COMES OFF-: She DROPS IT.
-RYAN: Whoa...! AWOL! The bolt spins floating away. She tries to grab it but MISSES, barely touching it but brushing it just enough to give it a push that makes it change direction.... She turns and reaches out to grab it, but she is strapped to the Robotic Arm. The bolt spins out into the emptiness of space when- A hand GRABS it before it has gone too far. It is Matt's. Ryan looks at him, embarrassed.
-RYAN (CONT'D): Thanks. Sorry. In my basement lab things usually fall to the floor. Matt puts the bolt away. He begins to unscrew another bolt.
-MATT: Hey -- you're the genius up here. I just drive this bus.
+RYAN: Like a Chihuahua that's being tumble Matt takes out his pistol grip, and with fast precision puts its head to a bolt and begins unscrewing. Matt removes the bolt with confidence.
+MATT: It's been a rough week. If it makes you feel any better, I puked up everything but my kidneys on my first Ryan is not as precise with her pistol grip, and when a bolt
+RYAN: Whoa.! AWOL! The bolt spins floating away. She tries to grab it but MISSES, barely touching it but brushing it just enough to give it a push that makes it change direction.. She turns and reaches out to grab it, but she is strapped to the Robotic Arm. The bolt spins out into the emptiness of space when- A hand GRABS it before it has gone too far. It is Matt's. Ryan looks at him, embarrassed.
+MATT: Hey you're the genius up here. I just drive this bus.
 RYAN: Call me a genius if I can get this board initialized in the next hour.
 MISSION CONTROL: Explorer, this is Houston.
 EXPLORER CAP: Go ahead Houston.
@@ -80,9 +76,9 @@ MISSION CONTROL: NORAD reports a satellite has incurred a missile strike. The im
 RYAN: Should we be worried?
 MATT: Let the boys down there worry for us.
 RYAN: Explorer, engage arm and pivot to cargo bay.
-EXPLORER CAP: Standby for arm maneuver. The robotic arm moves very slowly, pulling Ryan along while Matt begins to unharness from the telescope to shift his position.
+EXPLORER CAP: ( ON RADIO )
 MATT: So doc, now that you work for NASA, how do you like it?
-SHARIFF: Kinda like winning the lottery, isn't it? She grins at the memory, glances at him. Confesses:
+SHARIFF: Kinda like winning the lottery, isn't She grins at the memory, glances at him. Confesses:
 RYAN: I was just happy that they didn't cut the funding to my research.
 MATT: How long was your training?
 RYAN: Six months.
@@ -91,434 +87,318 @@ MATT: So, what is this scanning system?
 SHARIFF: Nothing rad, it's just a new set of eyes to scan the universe.
 RYAN: Assuming it works, it's just for hospital use. This one is a prototype.
 EXPLORER CAP: Standby for marking.
-MATT: Listen, they don't bankroll prototypes, even for your pretty blue eyes. She gives him a look.
+MATT: Listen, they don't bankroll prototypes, even for your pretty blue She gives him a look.
 RYAN: My eyes are brown. Matt stares at her, a faint smile on his face.
-MATT: Right now your eyes are blood shut. She grins, looks away -- he got her. Then...
-SHARIFF: Kowalsky! Matt turns. Shariff raises his arms again.
-SHARIFF (CONT'D): Is this great or what?! Shariff JUMPS and FLOATS AWAY from the Shuttle, screaming and flapping his arms. A long SAFETY TETHER attached to his waist
-TENSES AND-: Brings Shariff to an ABRUPT STOP, snapping him back like a bungee cord.
-MATT: (for Ryan's benefit) And to think he went to Harvard. Ryan doesn't react to this, too consumed as she is with the panel. Matt looks out. A sad smile is on his face.
-MATT (CONT'D): You gotta admit one thing. You can't beat the view....
-RYAN: Mm-hm.
-MATT: "Mmm?" So what do you like about being up here? She hesitates -- trying sincerely to articulate her feelings as we GAZE down at the silent planet below.
+MATT: Right now your eyes are blood shut. She grins, looks away he got her. Then.
+SHARIFF: Matt turns. Shariff raises his arms again.
+MATT: ( for Ryan's benefit ) And to think he went to Harvard. Ryan doesn't react to this, too consumed as she is with the panel. Matt looks out. A sad smile is on his face.
+RYAN: "Mmm?" So what do you like about being up here? She hesitates trying sincerely to articulate her feelings as we GAZE down at the silent planet below.
+MATT: "Mmm?" So what do you like about being up here? She hesitates trying sincerely to articulate her feelings as we GAZE down at the silent planet below.
 RYAN: The silence.
-(BEAT): I could get used to it. Matt laughs softly. We arrive back on him as he turns back to look at Earth. Something flickers briefly in Matt's eyes-- something
+COMPLICATED: Hmmmm. Terrific. Ryan inspects a panel inside the telescope, studying it with a small mirror.
 MATT: Hmmmm. Terrific. Ryan inspects a panel inside the telescope, studying it with a small mirror.
 RYAN: Houston, from first inspection comms panel appears to be dead. Am I a go to cut link to auxiliary?
-MISSION CONTROL: You're the expert, doctor. It's your call. Ryan takes out the small mirror and Matt stretches his arm, offering assistance, but- She does not want any help and puts the mirror away in her toolbox, leaving Matt with his arm outstretched. Ryan starts looking for another tool, but Matt is one move ahead of her, offering her a pair of tweezers. Ryan hesitates and takes the tool. She starts working on the panel.
+MISSION CONTROL: You're the expert, doctor. It's your Ryan takes out the small mirror and Matt stretches his arm, offering assistance, but- She does not want any help and puts the mirror away in her toolbox, leaving Matt with his arm outstretched. Ryan starts looking for another tool, but Matt is one move ahead of her, offering her a pair of tweezers. Ryan hesitates and takes the tool. She starts working on the Houston, I have a bad feeling about this mission.
 MATT: Houston, I have a bad feeling about this mission.
 MISSION CONTROL: Please elaborate.
-MATT: It's the same feeling I had at Mardi Gras in 1987...? He waits, letting the moment hang knowingly. Then:
+MATT: It's the same feeling I had at Mardi Gras in 1987.? He waits, letting the moment hang knowingly. Then:
 MISSION CONTROL: That is affirmative. Surprisingly, control hasn't heard the Mardi Gras story. Please proceed.
-MATT: Well, it's day one and I'm bumping my way down Bourbon Street looking for the sister of a friend of mine. The streets are swimming with people, I'm thinking there's no way I'm finding this girl... Ryan rolls her eyes and mumbles to herself-
+MATT: Well, it's day one and I'm bumping my way down Bourbon Street looking for the sister of a friend of mine. The streets are swimming with people, I'm thinking there's no way I'm finding this girl. Ryan rolls her eyes and mumbles to herself-
 RYAN: Proceeding to over ride. Matt continues his story without missing a beat-
-MATT: Then all of a sudden I look up and -- there she is.
-(MORE): I am about to yell out when I notice she's holding hands with a short hairy guy in board shorts and a Margaritaville T-shirt. Then I realize, the guy's no guy. My sister's friend is holding hands with a-- Mission Control interrupts on the radio.
-MISSION CONTROL: ISS, this is Houston.
-MISSION CONTROL: Explorer, this is Houston.
-EXPLORER CAP: Go ahead Houston.
-MISSION CONTROL: Mission abort. Repeat: mission abort. Initiate emergency disconnect from Hubble. All the astronauts stop what they're doing and anxiously await further instructions, except for Ryan who keeps working.
-EXPLORER CAP: Copy all Houston, and in work. Matt, immediate return to Explorer. Repeat, immediate return to Explorer.
+MATT: Then all of a sudden I look up and there she is.
+MISSION CONTROL: ( ON RADIO )
+MISSION CONTROL: ( ON RADIO )
+EXPLORER CAP: ( ON RADIO )
+MISSION CONTROL: ( ON RADIO )
+EXPLORER CAP: ( ON RADIO )
 MATT: Roger. Explorer, prep airlock!
-EXPLORER CAP: Airlock engaged--ready to receive. Ryan is working on the panel.
+EXPLORER CAP: ( ON RADIO )
 MATT: Houston. Elaborate.
-MISSION CONTROL: Debris from the impact has caused a chain reaction, hitting other satellites in its path and creating new debris. Norad reports that orbital and ballistic effects are driving the cloud of debris up toward your altitude. How copy?
+MISSION CONTROL: ( ON RADIO )
 MATT: Copy all Houston.
-(TO RYAN): Put a bow on it Dr. Stone.
 RYAN: I can't. If I turn it off now we'll lose the whole system. She keeps on furiously tweaking.
 MATT: I'm not going to ask you again.
+RYAN: ONE SECOND
+ONE SECOND: Not one second. Now! Shut it down!
 MATT: Not one second. Now! Shut it down!
-RYAN: Sorry. I'm sorry. It's done. The ROBOTIC ARM slowly withdraws, carrying Ryan back towards the Shuttle. Matt watches her go, then:
-EXPLORER CAP: Kowalsky, initiate emergency disconnect from the Hubble.
+RYAN: Sorry. I'm sorry. It's done. The ROBOTIC ARM slowly withdraws, carrying Ryan back towards the Matt watches her go, then:
+EXPLORER CAP: ( ON RADIO )
 MATT: Alright Shariff, let's do this.
-SHARIFF: Roger. Shariff turns and heads toward the base of the telescope holding onto the hangar's handrails.
+SHARIFF: Shariff turns and heads toward the base of the telescope holding onto the hangar's handrails.
 MATT: Houston. Update. Matt PROPELS himself to the base of the Hubble using the propelling unit on his back.
-MISSION CONTROL: We have a full on chain reaction. It's been confirmed that it is the unintentional side effect of the Russians striking one of their own satellites. Shariff arrives to the base of the telescope.
+MISSION CONTROL: We have a full on chain reaction. It's been confirmed that it is the unintentional side effect of the Russians striking one of their own Shariff arrives to the base of the telescope.
 SHARIFF: They shot down their own satellite?
 MATT: Right of disposal. Most likely a spy sat gone bad. Now it's space junk. Matt grabs onto the base of the telescope-
-MATT (CONT'D): Explorer, ready to disengage HST.
-EXPLORER CAP: Locks releasing in three... two... one... The locks attaching the Hubble to the Explorer release. Matt and Shariff give the Hubble a push away from the hangar. Pushing the huge telescope is not a difficult task in zero gravity.
+EXPLORER CAP: ( ON RADIO )
 MISSION CONTROL: Explorer, new data coming through. As it floats away, Matt gives the telescope a small spin.
 MATT: What's the blowback, Houston?
 MISSION CONTROL: It's not good. Most of our systems are going down. Debris chain reaction is out of control and rapidly expanding. Multiple sats are now down and they keep on falling. Matt eyes the arm as it slowly retracts, carrying Ryan back.
 MATT: Define "multiple" sats.
 MISSION CONTROL: Most of them. Telecomunications systems are gone. Expect a communication blackout at any moment.
-RYAN: Kowalsky, visual of debris at nine o'clock. Matt's eyes shift, watching a LARGE OBJECT, a piece of a BSE SATELLITE, spiral toward them.
-MATT: Half of North America just lost their Facebook. The sat glides by at tremendous speed.
+RYAN: Kowalsky, visual of debris at nine Matt's eyes shift, watching a LARGE OBJECT, a piece of a BSE SATELLITE, spiral toward them.
+MATT: Half of North America just lost their The sat glides by at tremendous speed.
 MISSION CONTROL: You're a go for TH1138. Repeat You're a go for TH1138 procedure.
 EXPLORER CAP: Copy that Houston.
-MATT: Explorer, this is Kowalsky. Confirming visual contact with debris. Debris is from a BSE sat. To repeat--
+MATT: Explorer, this is Kowalsky. Confirming visual contact with debris. Debris is from a BSE sat. To repeat
 SHARIFF: Heads up!
 MATT: To repeat I have- ANOTHER OBJECT, part of a WEATHER SATELLITE, hurls by them, a little bit closer than the previous one.
-RYAN: Dr. Stone requesting faster, faster transport. It is followed by a SMALL PIECE OF DEBRIS. It zooms by faster than the previous ones and hits the BSE SATELLITE. The satellite EXPLODES into hundreds of pieces and- A CHAIN REACTION takes place.
+RYAN: Dr. Stone requesting faster, faster It is followed by a SMALL PIECE OF DEBRIS. It zooms by faster than the previous ones and hits the BSE SATELLITE. The satellite EXPLODES into hundreds of pieces and- A CHAIN REACTION takes place.
 MATT: We have to go. Go, go! Go! The DEBRIS from the BSE satellite hits the WEATHER SATELLITE, and it EXPLODES, sending debris in all directions.
-MISSION CONTROL: Attention. New data suggests immediate evacuation absolu... A high frequency of interference and-
+MISSION CONTROL: Attention. New data suggests immediate evacuation absolu. A high frequency of interference and-
 RYAN: Dr. Stone requesting faster transport to the bay area. Explorer get me down.
-MATT: Explorer permission to retrieve Dr. Stone.
-EXPLORER CAP: You are a go, Kowalsky. Matt thrusts himself over to Ryan.
+MATT: Explorer permission to retrieve Dr. You are a go, Kowalsky. Matt thrusts himself over to Ryan.
+EXPLORER CAP: ( ON RADIO )
 MATT: Unstrap! You can't tune out the world up here. She reaches for the last clip and begins to undo it.
-RYAN: I'm trying...
+RYAN: I'm trying.
 MATT: Try releasing the safety clip. Shariff makes his way back toward the airlock as- A PIECE of the debris HITS the Hubble's SOLAR PANELS, making a 12-inch HOLE in its golden surface. A piece of debris passes, nearly hitting them.
 SHARIFF: Need some help there Matt?
 MATT: No, don't wait for us. Get inside.
 RYAN: It's stuck! Further back, another piece of debris collides with a bigger one. The two chunks of debris explode into a million pieces of shrapnel, one of which- HITS Shariff's helmet, breaking through the glass and hitting his head like an expansive bullet.
 MATT: Man down! Man down! Matt PROPELS himself toward Shariff, who is floating away from the Shuttle unconscious.
-MATT (CONT'D): Disengage!!!
-MATT (CONT'D): Explorer has been hit. Explorer do you read? Explorer, over. Explorer-- Another IMPACT. A piece of debris HITS the robotic arm like a cannon ball and DETACHES it from the Shuttle. The broken piece of the arm SPINS AWAY from the Explorer at a great speed with Ryan attached to it. She passes next to- THE HUBBLE as a big piece of debris hits the telescope. The top of the cylinder explodes into more debris, which is expelled in all directions, barely missing Ryan as she spins away attached to the arm.
-MATT (CONT'D): Astronaut off structure! Dr. Stone is off structure! With every spin, the shuttle, being punished by debris, diminishes into a tiny dot in the distance.
-MATT (CONT'D): Dr. Stone, detach!
-RYAN: Nooooo!
-MATT: You must detach!
-RYAN: No.
+RYAN: ( ON RADIO )
+MATT: ( ON RADIO )
+RYAN: If you don't detach that arm is going to carry you too far!
 MATT: If you don't detach that arm is going to carry you too far!
-RYAN: I can't!
-MATT: (a brief beat, then) Listen to my voice. You need to focus. I'm losing visual of you. In a few seconds I won't be able to track you.
-RYAN: (She pulls herself together) Ok. Ok.
-MATT: You need to detach. I can't see you anymore. The robotic arm keeps on spinning and stars orbit wildly in her field of vision.
+RYAN: ( FROZEN )
+MATT: ( a brief beat, then ) Listen to my voice. You need to focus. I'm losing visual of you. In a few seconds I won't be able to track you.
+RYAN: ( She pulls herself together ) Ok. Ok.
+MATT: You need to detach. I can't see you The robotic arm keeps on spinning and stars orbit wildly in her field of vision.
 RYAN: I'm trying. I'm trying.
 MATT: Do it. Now!
 RYAN: Ok. I'm trying! I can't it's stuck, Hold on. Ryan's hands are trembling and she can't get a grip on the hook.
-MATT: Houston, I've lost visual of Dr. Stone... Houston, I've lost visual of Dr. Stone. As Matt's VOICE is LOST to STATIC, Ryan squeezes the hook and is... ...gone, kicking herself AWAY from the robotic arm and FLYING FREE of the rotating arm. She catches a brief glimpse of the arm as it helicopters away, then loses sight of it as she rotates end over end in endless free fall. A PRIMAL SCREAM of God forsaken fear erupts from her lungs. The RADIO CRACKLES and Matt's VOICE returns.
-MATT (CONT'D): Dr. Stone! Do you copy?! Repeat! Do you copy?
+MATT: Houston, I've lost visual of Dr. Stone. Houston, I've lost visual of Dr. Stone. As Matt's VOICE is LOST to STATIC, Ryan squeezes the hook and .gone, kicking herself AWAY from the robotic arm and FLYING FREE of the rotating arm. She catches a brief glimpse of the arm as it helicopters away, then loses sight of it as she rotates end over end in endless free fall. A PRIMAL SCREAM of God forsaken fear erupts from her lungs. The RADIO CRACKLES and Matt's VOICE returns.
 RYAN: Yes. Yes. I copy. I'm detached! Ryan slowly spins, drifting into the empty darkness of space.
-MATT: ...Give me your position!
+MATT: .Give me your position!
 RYAN: I don't know. I don't know! I'm spinning. I can't. I can't.
 MATT: Report your position. Tumbling end over end, Ryan fixes her gaze on her wrist. The effort makes her nauseous. She looks away.
-RYAN: GPS is...down. I can't, it's down, I can't.
+RYAN: GPS is.down. I can't, it's down, I Give me a visual. Matt's faint voice is heard on the transmission under a lot of static. Ryan is panicking and begins to hyperventilate. Her eyes rake the dark sameness of her surroundings.
 MATT: Give me a visual. Matt's faint voice is heard on the transmission under a lot of static. Ryan is panicking and begins to hyperventilate. Her eyes rake the dark sameness of her surroundings.
 RYAN: I told you! Nothing. I see nothing!
 MATT: Do you have a visual of Explorer?
+RYAN: Do you have a visual of ISS?
+NO: Do you have a visual of ISS?
 MATT: Do you have a visual of ISS?
-RYAN: As Matt's signal grows fainter her breathing becomes more labored.
-MATT: I need you to focus. Give me a visual... anything. Ryan's eyes flutter, then roll up into her sockets...
+RYAN: As Matt's signal grows fainter her breathing becomes more Ryan's eyes flutter, then roll up into her sockets.
+NO: As Matt's signal grows fainter her breathing becomes more Ryan's eyes flutter, then roll up into her sockets.
+MATT: I need you to focus. Give me a visual. anything. Ryan's eyes flutter, then roll up into her sockets.
 RYAN: It's too fast.
-RYAN (CONT'D): I can't breathe. I can't...breathe... She inhales and exhales with quick short breaths-
-RYAN (CONT'D): Houston, this is Dr. Ryan Stone.. I'm drifting but I have a visual of Explorer. Her eyes scan the enveloping darkness, trying to get a fix on the gleaming orb that is earth, her face alive with concentration as she makes calculations.
-RYAN (CONT'D): With North at 12 o'clock, the Shuttle is at the center of the dial. She frowns as she tumbles backward again, recalculating. The sun is slipping behind the Earth. She studies the rim of fire until it too slides from view.
-RYAN (CONT'D): I can see the Chinese station. No, no, no, it's the International Space Station. The sun's glow illuminates another object in the distance, a bright spec hovering over the horizon- the INTERNATIONAL SPACE
-RYAN (CONT'D): ISS is at 6, no, 7 o'clock. Just then, the sun's rays recede and the Station DIMS, becoming one with the darkness. Ryan blinks, mildly alarmed.
-RYAN (CONT'D): Lieutenant Kowalsky, do you copy? Silence.
-RYAN (CONT'D): Explorer, do you copy? Silence. Slowly, the sun recedes further behind the earth and the light bathing Ryan's face evaporates. As she is swallowed by the darkness, she speaks once again:
-RYAN (CONT'D): Houston, do you copy?
-RYAN (CONT'D): Houston, this is Mission Specialist Ryan Stone. I'm off structure and I'm drifting. There is only the silence, complete and absolute.
-RYAN (CONT'D): Do you copy? Nothing. She watches the earth slip from view yet again. When next she speaks, the words are as delicate as snowflakes, tripping off her tongue like a prayer...
-RYAN (CONT'D): Anybody...? Anyone...? Please copy. A soothing light hits Ryan's face. THE MOON is rising over the Pacific Ocean. It's almost full and its soft cool light pours over the globe, brightening the deep blue waters and-
-MATT: ... Stone. Do you copy?
-RYAN: (almost to herself) Lieutenant Kowalsky?... The flickering star begins to thicken...
-MATT: Repeat. Do you copy?
+AHHHH. OHHHH: AHHHH. OHHHH Ryan's eyes are wide open and desperate as her breathing AHH. OHH. AHH. OHH AHH. OHH. AHH. OHH Her limbs look fragile against the black and incalculable void.
+AHHHH. OHHHH: Ryan's eyes are wide open and desperate as her breathing AHH. OHH. AHH. OHH AHH. OHH. AHH. OHH Her limbs look fragile against the black and incalculable void.
+THE EARTH,: Very still and very distant. Night is creeping across the sphere as the sun sets, a sliver of light on the Western Hemisphere. A metallic object floating over the Earth is hit by a RAY of the sinking sun, and it gleams like a tiny star. Her eyes blink in recognition, gleaming with alertness. Her intellect engages and she gains a new sense of calm.
+MATT: ( ON RADIO )
+RYAN: ( almost to herself ) Lieutenant Kowalsky?. The flickering star begins to thicken.
+MATT: ( ON RADIO )
 RYAN: YES! YES! I copy! I'm here! As she watches the figure of an astronaut takes shape.
-MATT: Flash your light.
+MATT: ( ON RADIO )
 RYAN: My light?
-MATT: So I can see you.
+MATT: ( ON RADIO )
 RYAN: Here! Here! Ryan opens a pouch in her suit, fishes out a FLASHLIGHT. Hands trembling she shines it toward the approaching dot.
-MATT: There you are. Hang tight. Report your status.
-RYAN: I'm... I'm alright... I'm fine.
-MATT: Your status! Give me your readings?
+MATT: ( ON RADIO )
+RYAN: I'm. I'm alright. I'm fine.
+MATT: ( ON RADIO )
 RYAN: 3.6 psi, I think.
 MATT: Your O2. Give me your O2.
-RYAN: Steady at eight percent...no seven...
-MATT: You're breathing too fast. You're burning oxygen. We don't want to do that. We want to relax. Copy.
-RYAN: Copy.
+RYAN: Steady at eight percent.no seven.
+MATT: ( ON RADIO )
+RYAN: Nearly there.
 MATT: Nearly there.
 RYAN: Please hurry. Ryan can see Matt quickly growing in size. She continues to
-MATT: You can holster that torch, Dr. Stone.
+MATT: ( ON RADIO )
 RYAN: Oh. Sorry. She slips the light back into her side pouch just as Matt appears as if from nowhere and GRABS HER.
-MATT: Gotcha.
-RYAN: Arghh! Ryan holds on to Matt. Instantly, they begin to spin together. Matt takes out a tether.
+MATT: Ryan holds on to Matt. Instantly, they begin to spin together. Matt takes out a tether.
+RYAN: Ryan holds on to Matt. Instantly, they begin to spin together. Matt takes out a tether.
 MATT: Now, I'm going to tether you to me. Ryan is paralyzed, holding onto Matt tightly and looking at him in fright. He stares back.
-MATT (CONT'D): I know. You never realized how devastatingly good-looking I am. Matt grins.
-MATT (CONT'D): But I need you to stop staring and help me with the tether. Okay?
 RYAN: Okay. Okay. Okay. Okay, Ohh I got it. He runs the other end of the tether to the harness on Ryan's suit and attaches it.
-MATT: Ok. So far so good. Now listen. I'm going to give you a little push, just so you're clear of the jets--
+MATT: Ok. So far so good. Now listen. I'm going to give you a little push, just so you're clear of the jets
+RYAN: Sorry. Not a push, more like a nudge.
+NO: Sorry. Not a push, more like a nudge.
 MATT: Sorry. Not a push, more like a nudge.
-RYAN: No... No... No... Wait... Don't. Matt places his hand on her breastplate and gives her a gentle nudge. Drifting again she begins to freak.
-RYAN (CONT'D): Nooooooo!!!! Dammit!!! The tether tenses and she stops nine feet away from Matt. Matt ignites the thrusters, tugging Ryan behind him. But this proves a difficult endeavor as her momentum drags him, changing his direction.
+RYAN: No. No. No. Wait. Don't. Matt places his hand on her breastplate and gives her a gentle nudge. Drifting again she begins to freak.
 MATT: See? Where you go, I go. Matt ignites a new thrust to re-direct his position. As he does so Ryan's change of momentum makes him swing again.
-MATT (CONT'D): Better. Let's get out of here. Using his thrusters, Matt negotiates a new position and, igniting a long thrust, he jets away. Ryan cannot repress the anger boiling up, and SHE SCREAMS-
 RYAN: Ahh Dammit!
 MATT: I know what you mean.
 RYAN: Ahhh Dammit.
 MATT: You're burning oxygen, we're going to go back to the shuttle. How's that for a plan. Copy?
+RYAN: Right copy that. As Matt accelerates toward a lower orbit, his momentum takes over, steadying Ryan's swing.
+FUCK: Right copy that. As Matt accelerates toward a lower orbit, his momentum takes over, steadying Ryan's swing.
 MATT: Right copy that. As Matt accelerates toward a lower orbit, his momentum takes over, steadying Ryan's swing.
-MATT (CONT'D): Houston this is Kowalsky. How do you copy?
 RYAN: Why aren't they answering?
 MATT: It seems like communications are lost.
-RYAN: Can they hear us on an alternate frequency?
+RYAN: Can they hear us on an alternate We don't know. That's why we keep talking. If someone is listening they might just save your life. Set your watch for ninety minutes. Matt reaches for a digital watch strapped to his wrist and sets up the timer for- 90 MINUTES.
 MATT: We don't know. That's why we keep talking. If someone is listening they might just save your life. Set your watch for ninety minutes. Matt reaches for a digital watch strapped to his wrist and sets up the timer for- 90 MINUTES.
 RYAN: Why ninety?
-MATT: Houston clocked that debris at fifty thousand miles per hour. Factoring in our current orbit, I reckon we've got 90 minutes before we play duck and cover again. Ryan sets her watch, studies the counter as it begins to count down.
+MATT: Houston clocked that debris at fifty thousand miles per hour. Factoring in our current orbit, I reckon we've got 90 minutes before we play duck and cover again. Ryan sets her watch, studies the counter as it begins to count 02 down to six percent. As they travel, the Shuttle begins to take form.
 RYAN: 02 down to six percent. As they travel, the Shuttle begins to take form.
 MATT: Okay. Pretty scary shit being untethered up here, isn't it?
 RYAN: Yeah. Pretty scary shit.
-MATT: (after a beat) You did all right. Silence.
-MATT (CONT'D): (to the Shuttle) Houston, in the blind. This is Kowalsky. Our current location is approximately 900 meters out from the Explorer. Dr. Stone and I would like to retrieve the body of Mission Specialist Shariff and return it to Shuttle. Am I a go to retrieve? Silence.
-MATT (CONT'D): Roger that. Matt changes direction and approaches Shariff. He has to ignite several small thrusts to try and steady his direction, fighting against Ryan's momentum.
+MATT: ( after a beat ) You did all right. ( to the Shuttle ) Houston, in the blind. This is Kowalsky. Our current location is approximately 900 meters out from the Explorer. Dr. Stone and I would like to retrieve the body of Mission Specialist Shariff and return it to Shuttle. Am I a go to retrieve? Roger that. Matt changes direction and approaches Shariff. He has to ignite several small thrusts to try and steady his direction, fighting against Ryan's momentum.
 RYAN: Where is he? Where is he? Shariff's body is tethered to a PANEL that was ripped away from the Explorer. Matt approaches the panel and ignites the thrusters to slow down his course, and- He grabs onto it. Ryan, continuing her momentum, crashes against Shariff's body. The contact slows her trajectory, but it throws Shariff away, his tether tensing, pulling the panel with him.
-RYAN (CONT'D): Oh, my God. Oh, my God. Matt, holding on to the metal, spins with it. He detaches Shariff's tether from the panel and attaches it to himself. He lets the panel go and immediately ignites his thruster, pulling the two tethers behind him which, as they tense, bring Ryan and Shariff closer together.
 MATT: Grab him!
 RYAN: I'm trying. I'm trying.
 MATT: Quick. You're pulling me away.
 RYAN: I got him. I got him. Matt tries to ignite a very long thrust in the direction of the Shuttle, but this is difficult as the momentum of the other two bodies pulls him in all directions.
 MATT: Clutch him like he's your Valentine. I can't gauge my thrust with you two yo- yoing around. Tentatively Ryan extends her right hand to grab onto Shariff's body harness. And she sees- Shariff's broken helmet. A hole the size of a soft ball pierces through it and has left a tunnel of frozen dried bloody mess. Ryan's face is inscrutable. Finally she looks away, but this time something arrests her gaze: A LAMINATED PHOTOGRAPH floats next to Shariff, tethered to his suit via a small chain. In it, a YOUNG BOY LAUGHS with abandon, happy in the embrace of a man unseen save for his TWO STRONG ARMS. Transfixed, Ryan is unable to look away, something complicated confusing her eyes. The photograph floats in the empty space above Planet Earth.
-MATT: (under his breath) Jesus... The Shuttle has suffered devastating damage. The tail is beyond repair, one wing is completely destroyed, while the other waffles weakly, nearly sheared from the fuselage.
-MATT (CONT'D): Here's hoping you've got one monster insurance policy, Houston. Damages to Explorer are... it's totaled. Will commence search for survivors.
-RYAN: 02 down to five percent. Matt thrusts to slow down his trajectory and slowly bumps against the windshield of the COCKPIT. At the mercy of Matt's momentum, Ryan hits hard against the nose of the Shuttle, losing her grip on Shariff. As she caroms off, she grabs onto what is left of the cockpit's window.
-MATT: All right, here we go. Careful of the edges. Matt takes his flashlight and looks through the broken windows, lighting the cockpit. Ryan pulls herself up and looks-
-MATT (CONT'D): Houston, in the blind. To confirm. Mission Specialist Dr. Stone and myself, Mission Commander Matthew Kowalsky, are the sole survivors of
+MATT: ( under his breath ) The Shuttle has suffered devastating damage. The tail is beyond repair, one wing is completely destroyed, while the other waffles weakly, nearly sheared from the fuselage.
+RYAN: 02 down to five percent. Matt thrusts to slow down his trajectory and slowly bumps against the windshield of the COCKPIT. At the mercy of Matt's momentum, Ryan hits hard against the nose of the Shuttle, losing her grip on Shariff. As she caroms off, she grabs onto what is left of the cockpit's All right, here we go. Careful of the Matt takes his flashlight and looks through the broken windows, lighting the cockpit. Ryan pulls herself up and looks-
+MATT: All right, here we go. Careful of the Matt takes his flashlight and looks through the broken windows, lighting the cockpit. Ryan pulls herself up and looks-
 RYAN: I apologize for not complying. I should've stopped working as soon as you instructed me to.
 MATT: We were going to be hit no matter what. There was nothing you could've done to change that. He begins to reach out, hesitates briefly, then lightly touches her shoulder.
-MATT (CONT'D): Hey.
-RYAN: Yes? She turns, no elbows this time.
-MATT: Alright... We have to get ourselves to the Space Station. There. Matt gestures vaguely to a bright dot in distance.
-MATT (CONT'D): It's a bit of a hike, but it's our only...
-(CATCHING HIMSELF): It's our best option. Agreed? She stares at the dot.
-MATT (CONT'D): Dr. Stone... (as she turns) Agreed? She studies his face and then, finally, nods.
-RYAN: Agreed.
+RYAN: She turns, no elbows this time.
+MATT: Alright. We have to get ourselves to the Space Station. There. Matt gestures vaguely to a bright dot in distance.
+RYAN: Alright. After you. He gently pushes her into space. She slowly drifts away from the Explorer but is suddenly stopped by the safety tether. Matt ignites his propellers and, giving a couple of small thrusts, he combats Ryan's swing. And with a LONGER THRUST- He shoots forward, pulling Ryan behind him. The two astronauts push forward together, leaving behind the shell of the Shuttle and the remains of the Hubble.
 MATT: Alright. After you. He gently pushes her into space. She slowly drifts away from the Explorer but is suddenly stopped by the safety tether. Matt ignites his propellers and, giving a couple of small thrusts, he combats Ryan's swing. And with a LONGER THRUST- He shoots forward, pulling Ryan behind him. The two astronauts push forward together, leaving behind the shell of the Shuttle and the remains of the Hubble.
-MATT (CONT'D): Houston in the blind, this is Kowalsky. Dr. Stone and I have determined to proceed to ISS and use one of their Soyuz for re-entry. ISS if copy, please send rescue mission. Repeat please dispatch rescue mission. They are heading toward a small point in the distance, the Space Station, which is in a lower orbit.
 RYAN: 02 down to two percent.
 MATT: We're getting there.
-MATT (CONT'D): Beautiful, don't you think?
-RYAN: What?
+RYAN: The sunrise. That's what I'm going to miss the most. But Ryan is not into the view right now. She's stricken with fear. Her jaw is clenched and her eyes are almost closed. Matt looks at the dark emptiness that engulfs him and smiles.
 MATT: The sunrise. That's what I'm going to miss the most. But Ryan is not into the view right now. She's stricken with fear. Her jaw is clenched and her eyes are almost closed. Matt looks at the dark emptiness that engulfs him and smiles.
-MATT (CONT'D): So, where's home, Dr. Stone? Ryan keeps her eyes closed, doesn't answer. Matt, trying to
-MATT (CONT'D): Ryan. Where's home? Ryan opens her eyes, but still she doesn't dare to look out of the helmet.
-RYAN: Home?
+RYAN: Ah ha. Down there. Mother Earth. Where do you pitch your tent?
 MATT: Ah ha. Down there. Mother Earth. Where do you pitch your tent?
 RYAN: Lake Zurich.
 MATT: Where the hell is that?
-RYAN: Illinois.
-MATT: Illinois. Central time zone. That makes it roughly... 8pm right now. What are the good people of Lake Zurich doing at 8 o'clock in the evening? Ryan tries to overcome her fear and looks out. She frowns, terrified by the sight, and hides her face once more inside the helmet.
-RYAN: I don't know...
+RYAN: Illinois. Central time zone. That makes it roughly. 8pm right now. What are the good people of Lake Zurich doing at 8 o'clock in the Ryan tries to overcome her fear and looks out. She frowns, terrified by the sight, and hides her face once more inside the I don't know.
+MATT: Illinois. Central time zone. That makes it roughly. 8pm right now. What are the good people of Lake Zurich doing at 8 o'clock in the Ryan tries to overcome her fear and looks out. She frowns, terrified by the sight, and hides her face once more inside the I don't know.
+RYAN: I don't know.
 MATT: What would you be doing? She tries again. This time she forces herself and stares out at the Earth, which is over 500 kilometers below her.
-MATT (CONT'D): Come on. It's 8 o'clock. You've just clocked out of the hospital after putting in your customary 18-hour shift. You're driving home... Ryan's wide open eyes are transfixed on Earth, like a deer in headlights.
-RYAN: The radio. I listen to the radio...
-MATT: There we go. Let me guess. NPR? Classical. Top for--
-RYAN: Anything. Doesn't matter. As long as they don't talk. I just drive... Her glassy eyes reveal a strong emotion growing inside of her, taking over her body. It is not fear, it is something deeper and more painful. Matt studies her curiously.
+RYAN: The radio. I listen to the radio.
+MATT: There we go. Let me guess. NPR? Classical. Top for
+RYAN: Anything. Doesn't matter. As long as they don't talk. I just drive. Her glassy eyes reveal a strong emotion growing inside of her, taking over her body. It is not fear, it is something deeper and more painful. Matt studies her curiously.
 MATT: What do you miss down there? Ryan looks at the Earth. It never felt so far away. A long silence without an answer.
-MATT (CONT'D): Is there a Mr. Stone? She frowns, unable to comprehend this initially, as if it were a particularly complicated bit of math, then shakes her head.
-RYAN: No...
+RYAN: Nobody special? Someone down there, looking up, thinking of you? Ryan closes her eyes. She remains silent. A silence that can't hide an unspeakable pain.
 MATT: Nobody special? Someone down there, looking up, thinking of you? Ryan closes her eyes. She remains silent. A silence that can't hide an unspeakable pain.
-RYAN: I had a daughter. Her eyes flutter, then open. She is frozen in this moment, as if stunned. Her gaze shifts and finds- Matt, studying her in his MIRROR.
+RYAN: I had a daughter. Her eyes flutter, then open. She is frozen in this moment, as if Her gaze shifts and finds- Matt, studying her in his MIRROR.
 MATT: What was her name?
-RYAN: Sarah... She was four. Stupidest thing- a school trip to the swimming pool. She was playing tag- she slipped, hit her head, and that was it... She loved tag. I'm sure she was laughing. She looks away, toward Earth. It looks small. Remote.
-RYAN (CONT'D): When I received the call I was driving and ever since that's what I do. I wake up, I go to work and then I just drive. Matt finally averts his eyes. He rolls his wrist over, consults the timer, watching the numbers slowly count down.
-RYAN (CONT'D): 02 down to one percent.
+RYAN: Sarah. She was four. Stupidest thing- a school trip to the swimming pool. She was playing tag- she slipped, hit her head, and that was it. She loved tag. I'm sure she was laughing. She looks away, toward Earth. It looks small. Remote.
 MATT: Well, well, what d'you know. I have good news and bad news.
-RYAN: Uhuh?
-MATT: The good news is we're five minutes from the ISS and I know where the Russians stash their vodka... and that's a good thing cus I'm running out of fumes. Bad news is I'm gonna be ten minutes short of......breaking Anatoly's record.
-RYAN: Mmm...Mmmm.
-MATT: What?
-RYAN: I'm red lining... My O2 tank pressure is low...
+RYAN: The good news is we're five minutes from the ISS and I know where the Russians stash their vodka. and that's a good thing cus I'm running out of fumes. Bad news is I'm gonna be ten minutes short of..breaking Anatoly's record.
+MATT: The good news is we're five minutes from the ISS and I know where the Russians stash their vodka. and that's a good thing cus I'm running out of fumes. Bad news is I'm gonna be ten minutes short of..breaking Anatoly's record.
+RYAN: I'm red lining. My O2 tank pressure is low.
+MATT: I'm red lining. My O2 tank pressure is low.
+RYAN: I'm red lining. My O2 tank pressure is low.
 MATT: The tank may be empty but there's still oxygen in your suit, so sip, Ryan. Don't gulp. It's wine, not beer. Sip. We'll get you there. She nods.
-MATT (CONT'D): Let's go. Matt gives Ryan a gentle push, waiting until the tether goes taut, and- He gives a SMALL THRUST to position himself in the right direction. He holds this SINGLE THRUST for longer than all of the previous ones, immediately gaining speed, descending towards-
-MATT (CONT'D): Houston in the blind we have visual of the ISS. Station must have been evacuated because first Soyuz is missing. Second Soyuz exhibits surface damage and chute has deployed. It's use as escape pod for re-entry to Earth is impossible. The surface of a module is badly scratched and some solar panels have been ripped. THE SECOND SOYUZ becomes visible, attached to the Station's Docking Module. A piece of red and white fabric floats around the spherical capsule. Ryan's losing her breath.
 RYAN: Shouldn't we be turning? We're
-MATT: Sip, Ryan. Sip. Drifting is good. We want to drift. I wasn't kidding about those fumes. This can has one or two good thrusts left. If we're lucky.... They approach the Space Station, which is just ahead of them and a hundred meters below. She's sweating and starts to hyperventilate.
-MATT (CONT'D): Steady... She looks down, eyes the Station passing beneath them.
-MATT (CONT'D): Ready... aim... It looks as though the Station is going to slip away altogether.
-MATT (CONT'D): ...fire. Matt triggers his THRUSTER, turning sharply. Ryan's trajectory carries her in a straight line, until the tether tenses, breaking Matt's direction. He fires again to counter her momentum. A VERY LONG THRUST sends both of them in the right direction, straight down toward the Station, but at great speed. The Station is getting very close, and they're going very fast. Matt ignites the FRONTAL THRUSTER, which begins to slow him down, but the thrust stops. Ryan, following her own momentum, begins to pass Matt.
-RYAN: Break... You have to break.
+DRIFTING AGAIN: Sip, Ryan. Sip. Drifting is good. We want to drift. I wasn't kidding about those fumes. This can has one or two good thrusts left. If we're lucky.. They approach the Space Station, which is just ahead of them and a hundred meters below. She's sweating and starts to hyperventilate.
+MATT: Sip, Ryan. Sip. Drifting is good. We want to drift. I wasn't kidding about those fumes. This can has one or two good thrusts left. If we're lucky.. They approach the Space Station, which is just ahead of them and a hundred meters below. She's sweating and starts to hyperventilate.
+RYAN: Break. You have to break.
 MATT: I can't. Can's empty. We're coming in fast and we're going to hit hard. Grab onto anything you can and hold tight! Just then Ryan CRASHES against the SOLAR PANEL, but is unable to grab hold. As she tumbles past, the body of the Station looms. Matt misses the solar panels, and COLLIDES against the Station. As he begins to drift past, he reaches out and snares a railing. Ryan passes flying above him. The tether tenses, pulling Matt. The momentum is to great and he LETS GO of the railing. Ryan floats over the roof of the Space Station, trying to grab hold of the handles and rods that stick out of the modules, but she's floating too high. She's quickly reaching the end of the Station, there is only one handle left ahead, her last chance before floating away into the black void. She extends her arm and GRABS the handle tightly for dear life
 RYAN: I got it. I got it.
-RYAN (CONT'D): The tether broke. I'm detached. I'm I'm detached.
 MATT: Grab a hold. Grab anything. Ryan is drifting away from the Station. She sees the infinite black void ahead of her and-
-SEES-: Matt rolling, drifting in her direction. She stretches out her arm. Matt's arm is also outstretched.
-MATT (CONT'D): Give me... give me five here, Ryan. He's trying to make light of it, but he's really struggling to reach her. Ryan stretches farther. Matt's hand comes closer to hers. The tips of their fingers are almost touching.
-RYAN: I've got you. I've got you-- The very tips of their fingers touch --
-MATT: Shit... shit...
+RYAN: I've got you. I've got you The very tips of their fingers touch
+MATT: Shit. shit.
 RYAN: No. No. No. Don't you. No. Don't you. Don't. Don't. NO As the parachute tenses, she STOPS. The tether attached to Matt's suit passes two feet away from her
-AND-: Ryan grabs the tether. It slides through her closed fist, until- Her grip tightens and the tether STOPS.
-RYAN (CONT'D): Gotcha! Matt's momentum is now pulling Ryan, dragging her loose from the parachute.
 MATT: You have to let me go.
-RYAN: What? No--
+RYAN: What? No
 MATT: You have to.
-RYAN: No!
-MATT: Those ropes are too loose, I'm pulling you with me. You have to let me go or we both die--
-RYAN: I'm not letting you go! We're fine. Her leg slides through the loose rope and she floats further out, being snagged at the last minute by a tether around her foot. (We move from high-angle to low angle two shot). As this
-MATT: Ryan!
+RYAN: Those ropes are too loose, I'm pulling you with me. You have to let me go or we both die
+MATT: Those ropes are too loose, I'm pulling you with me. You have to let me go or we both die
+RYAN: I'm not letting you go! We're fine. Her leg slides through the loose rope and she floats further out, being snagged at the last minute by a tether around her foot. ( We move from high-angle to low angle two shot ). As this
+MATT: You're not going anywhere, you're not
 RYAN: You're not going anywhere, you're not
+GOING ANYWHERE: It's not up to you. Matt begins to unharness the tether.
 MATT: It's not up to you. Matt begins to unharness the tether.
 RYAN: Please don't do this. Matt has unhooked the tether and is holding it in his hand.
-RYAN (CONT'D): Please don't do this. Please don't do this.
 MATT: You're going to make it Ryan.
-RYAN (CONT'D): I had you! I had you. Matt drifts away from the Station into the empty space. Ryan bumps against the station, pulled by the parachute, and she twists and turns before finally grabbing hold of a rail.
-MATT: Ryan do you copy? Do you copy? An ALARM GOES OFF.
+MATT: ( ON RADIO )
 RYAN: My CO2 alarm went off. My CO2 alarm went off.
 MATT: You need to board the station. Can you see the airlock? She turns, looking for the Station's Airlock.
-MAT: Do you copy? (P.O.V shot - beginning to blur)
+MAT: Do you copy? ( P.O.V shot - beginning to blur )
 RYAN: Yes. Yes. I see it. I see it.
-MATT: Good. That's where you want to go. You're losing focus, right?
-RYAN: Yes.
-MATT: That's because you're breathing CO2 and you're losing consciousness. You need to board the Station. Her eyes flutter...
-MATT (CONT'D): Move! Ryan blinks, TURNS OFF the ALARM, and begins climbing over a module of the Station.
-RYAN: Ok. The transmission becomes weaker, filled with STATIC.
-MATT: Now listen to me. That second Soyuz is too damaged for re-entry, but it's perfectly fine for a little Sunday drive.
-RYAN: Sunday drive...?
-MATT: Look to the west... You see that dot in the distance? That is the Chinese Station. You're going to take the Soyuz and cruise over there. The Chinese lifeboat is a Shenzou.
-RYAN: I've never flown a Shenzhou--
-MATT: That doesn't matter. Its re-entry protocol is identical to the Soyuz's-- She nods, already looking.
-RYAN: Ok.
-MATT: You've never flown a Soyuz either.
+MATT: ( ON RADIO )
+RYAN: That's because you're breathing CO2 and you're losing consciousness. You need to board the Station. Her eyes flutter.
+MATT: That's because you're breathing CO2 and you're losing consciousness. You need to board the Station. Her eyes flutter.
+RYAN: The transmission becomes weaker, filled with STATIC.
+MATT: ( ON RADIO )
+RYAN: Sunday drive.?
+MATT: ( ON RADIO )
+RYAN: I've never flown a Shenzhou
+MATT: ( ON RADIO )
+RYAN: ( ON RADIO )
+MATT: ( ON RADIO )
 RYAN: Only on a simulator.
-MATT: So then you know.
-RYAN: I crashed it. I--
-MATT: It's a Simulator. That's what it's designed for.
+MATT: ( ON RADIO )
+RYAN: I crashed it. I
+MATT: ( ON RADIO )
 RYAN: Every time. I crashed the Simulator every time.
-MATT: It's not rocket science. Just point the damn thing at earth and by this time tomorrow you'll be back in Lake Zurich with one hell of a story to tell. You copy? Ryan. You copy?
+MATT: ( ON RADIO )
 RYAN: I'm going to take the Soyuz and come get you.
 MATT: No you're not. . I have too much of a head start. That ship already sailed.
 RYAN: No. I'm coming to get you.
 MATT: Ryan, you're going to have to learn to let go.
-RYAN: But... I...
-MATT: I want to hear you say you're going to make it. Ryan is struggling for breath.
-MATT (CONT'D): Ryan! Say it!
-RYAN: I'm... I'm going to make it.
+RYAN: But. I.
+MATT: ( ON RADIO )
+RYAN: I'm. I'm going to make it.
 MATT: Alright. Keep going Ryan stares at Matt's tiny figure in the distance.
-MATT (CONT'D): What kind of name is Ryan for a girl?
 RYAN: Dad wanted a boy.
 MATT: Are you close to the airlock?
 RYAN: Not yet.
 MATT: Keep going. Ryan continues to the Airlock.
-MATT (CONT'D): So, now that we have some distance between us- you're attracted to me, aren't you?
-RYAN: What?
-MATT: Well, people say I have beautiful blue eyes.
-RYAN: You... you have beautiful... you have beautiful blue eyes.
-MATT: I have brown eyes... that hurts. She looks at Matt's figure receding.
-MATT (CONT'D): You wanna know the good news?
-RYAN: What?
-MATT: I'm going to break Anatoly's record, and I think mine's going to stand for a long, long time.
-RYAN: No... I'm coming to get you.
-MATT: You know, Ryan is a nice name for a girl. Wow, you should see the sun on the Ganges. It's amazing. Ryan starts to respond, then falters, watching Matt's figure grow ever smaller. THE SAD CROONING of HANK WILLIAMS crackles through the dying radio.
-RYAN: (in a daze) Matt... Only static hisses...
-RYAN (CONT'D): Matt! Static again as Matt falls deeper into the distance, becoming lost in a sea of white specks and- The transmission ends.
-MATT-: Nothing more than a dot. She stretches her hand toward him, as if trying to touch him with the tips of her fingers. But the dot has already vanished into never-ending darkness.
-RYAN: Come on, come on. She finds what she's looking for: a BAG OF WATER with a straw at one end. She unscrews the top and begins to drink from it. She DRINKS in long gulps, squeezing the bottle, trying to quench her thirst. DROPS FLOAT out of her mouth as the water overflows. They float around her face like perfect pearls of different sizes. She takes a pause from drinking to catch her breath. The water is cooling her down, but she still takes another long, thirsty gulp and empties the bag. She checks the count on the STOPWATCH- 14 minutes and counting down. She takes a new bag of water from the drawer, and pushing herself off of a wall, she dives into the-
-RYAN (CONT'D): OK. Where are you? Where are you? Comms. Comms... There you are! Without stopping, she goes through one of the open hatches into
+RYAN: Well, people say I have beautiful blue You. you have beautiful. you have beautiful blue eyes.
+MATT: Well, people say I have beautiful blue You. you have beautiful. you have beautiful blue eyes.
+RYAN: You. you have beautiful. you have beautiful blue eyes.
+MATT: I have brown eyes. that hurts. She looks at Matt's figure receding.
+RYAN: ( ON RADIO )
+MATT: ( ON RADIO )
+RYAN: No. I'm coming to get you.
+MATT: You know, Ryan is a nice name for a girl. Wow, you should see the sun on the Ganges. It's amazing. Ryan starts to respond, then falters, watching Matt's figure grow ever smaller. THE SAD CROONING of HANK WILLIAMS crackles through the dying ( in a daze ) Only static hisses.
+RYAN: ( in a daze ) Only static hisses.
+SILENCE: INSIDE THE HELMET- Ryan is dizzy, sweating, and having trouble focusing. She sees
+RYAN: Come on, come on. She finds what she's looking for: a BAG OF WATER with a straw at one end. She unscrews the top and begins to drink from it. She DRINKS in long gulps, squeezing the bottle, trying to quench her thirst. DROPS FLOAT out of her mouth as the water overflows. They float around her face like perfect pearls of different She takes a pause from drinking to catch her breath. The water is cooling her down, but she still takes another long, thirsty gulp and empties the bag. She checks the count on the STOPWATCH- 14 minutes and counting She takes a new bag of water from the drawer, and pushing herself off of a wall, she dives into the-
 RYAN: Matt. This is Ryan. Copy? She waits.
-RYAN (CONT'D): Matt. This is Ryan. Copy? Nothing... only static.
-RYAN (CONT'D): Matt, I made it. I'm here. I'm inside the Station... Do you copy? She drifts along the module, listening intently through the headset.
-RYAN (CONT'D): Come on Matt. Talk to me.
-(NOTHING): Tell me where you are.
-(NOTHING): Give me your position... No voices. Just static.
-RYAN (CONT'D): Where are you? Give me a visual... tell me what you see. Nothing.
-RYAN (CONT'D): Oh, come on. You've been yammering nonstop since we left Cape Canaveral, and now you decide to shut up? She waits ONE SECOND, TWO SECONDS-
-RYAN (CONT'D): Come on Matt, talk to me! The signal cuts in and out, but remains indecipherable. There is something unnerving about it. She drops her head and continues drifting toward the porthole, listening as the STATIC SPUTTERS.
-RYAN (CONT'D): Say something... Anything.
-RYAN (CONT'D): Tell me about Mardi Gras. Tell me about the hairy guy. What happened? Waiting for him to respond, and in a softer voice, completely
-RYAN (CONT'D): Oh Matt. I'm not ready for this. She bumps against the PORTHOLE, and glances out- The Earth glimmers brightly. A third of the hemisphere is in complete darkness. Her FACE REFLECTED in the glass is SUPERIMPOSED over the EARTH. Her eyes glisten briefly, but she fights it back. Then she pulls herself together, and begins reporting-
-RYAN (CONT'D): Houston in the blind. The way Matt would have done it-
-RYAN (CONT'D): This is Mission Specialist Ryan Stone reporting from the ISS... All communication with Mission Commander Matthew Kowalsky has been lost. Radio transmission is absent. Visual is nonexistent.
-(A BEAT): To confirm, I--Ryan Stone--am the sole survivor of STS-157. Ryan hovers by the porthole, looking hopeless. All is silent save for the RADIO static and the hum of the Space Station. Outside the Aurora Borealis performs its ghostly dance over the Earth's Northern Hemisphere. SILENCE. Only the hum and the static, when- An ALARM CHIRPS, RED LIGHTS FLICKERING across the module. Ryan twists, swimming back to the control panel, studying a FLASHING grid of LEDS:
-RYAN (CONT'D): What now?
-AND THEN-: The Destiny Lab begins blinking.
-UNITY NODE-: Dashing straight into the-
-ZARYA MODULE-: She darts across the module, behind her- The expanding fire ball has swallowed the Unity Node and is making its way towards her, chasing her into the-
-DOCKING MODULE-: Just in time. Above her, the flames cross the Node as they spread into the rest of the Station. They quickly spread downward, into the Docking Module. Ryan, the flames caressing her feet, dives through a hatch into
-RYAN: OK... where was it?... where was it? She moves her finger across the different buttons, searching.
-RYAN (CONT'D): Where is the power?... Here you are. Her finger stops on a button, which is labeled- BKN She presses on it and the CONTROL PANEL turns ON. All the buttons light up and with a hum, the Soyuz's systems start to run.
-RYAN (CONT'D): Good... good... just like training... Ryan reaches to the right, where next to the panel, there are several binders, each a different color.
-RYAN (CONT'D): Undocking... undocking... Yes... red... And she takes out a RED BINDER. It's all written in Cyrillic. She turns the pages until she sees a GRAPHIC representing the UNDOCKING PROCEDURE.
-RYAN (CONT'D): Ok... Ok... I remember this... undocking... She uses the CURSORS on the panel and selects a function on the
-RYAN (CONT'D): We don't have four minutes to spare. We're going manual... She flips through the binder to another page. She looks at a diagram and uses the cursors on the panel to change the function on the screen-
-RYAN (CONT'D): Okay. Arming the system... She releases the SAFETY LOCK on a BUTTON. AN EXPLOSION in the Station makes everything shake. The vibration passes through her body, startling her, and-
-RYAN (CONT'D): Firing the pyros... SHE PRESSES the BUTTON.
-RYAN (CONT'D): Rezerv rasstyk! The SOUND of a mechanism releasing reverberates throughout the vessel.
+RYAN: OK. where was it?. where was it? She moves her finger across the different buttons, searching.
 RYAN: I engaged manual control- R O A K and RYD are activated. She grabs the joysticks with her hand, and-
-THE PERISCOPE-: The Station is drifting out of the scope's sight. She turns to-
-THE PORTHOLE-: And through the glass she sees that- The Station is coming straight at her and it looks as though-
 RYAN: Oh, no. No, no, no. She presses the joystick.
-WHEN-: The SOFT JETS ignite, launching the vessel upwards. The Soyuz skims just over the Docking Module and passes three inches away from the solar panels, barely avoiding a collision with the metal giant. And as the Soyuz drifts upwards, the Station passes under it.
-THE PORTHOLE-: The parachute is tangled with a solar panel and the ropes are tensing up, and-
-THE PORTHOLE-: The rope extends from the cabin to the parachute tangled with the Station.
 RYAN: Great. Fantastic. Perfect.
 SILENCE: The Station hovers below the Soyuz like a large whale swimming beneath a tiny lifeboat. The HATCH of the Soyuz OPENS. Ryan comes out of the craft into space. She's wearing the space suit she packed and she carries a large bag. She holds onto handles as she floats, SAFELY TETHERED to the inside of the cabin. She LOOKS around- The International Space Station is a looming presence floating ten meters below. It is pulling the Soyuz by its parachute. An ALARM on her STOPWATCH RINGS. It's been 85 MINUTES. She turns the alarm off and looks around.
 RYAN: Clear skies but with a chance of satellite debris. SHE HUMS A SONG, the tune is reminiscent of the Hank Williams Melody that Matt had played earlier. She begins to climb around the vessel. With plenty of oxygen in her pressurized suit, this is not a difficult task. She pulls herself from handle to handle, making her way around the Soyuz and reaching-
-RYAN (CONT'D): Okay. We detach this and we go home. Piece of cake. She harnesses the bag and RESUMES her HUMMING, louder this time. She unzips the bag and takes out the PISTOL GRIP tool, without noticing that behind her- DOZENS OF PIECES OF DEBRIS pass, zooming less than thirty meters away from the Station. A tiny piece of high-speed debris crashes against one of the Station's Solar panels, shattering it and causing the Station to tremble. She places the tool against the FIRST BOLT, stretching her arm into the parachute container. It is an awkward position. She pulls the trigger and the drill rotates, turning the bolt, but it slides out of the notch. She places the tool once more against the bolt and pulls the trigger. The drill rotates, SLOWER this time. She HUMS under her breath and SWEAT begins to drop down her forehead. She is very focused, unaware that behind her- DEBRIS HITS THE STATION'S SOLAR PANEL, piercing holes through it.
-RYAN (CONT'D): Oh shit. THE TIDE OF DEBRIS is floating STRAIGHT AT HER. She pulls herself back to the container.
-RYAN (CONT'D): Shit! The Soyuz is heading straight towards the Station's Solar Panels.
-RYAN (CONT'D): No... no... no.. The Soyuz' Solar Panel collides with the Station's, shattering into smaller pieces of debris that almost hit Ryan. The Soyuz spins away as-
-RYAN (CONT'D): I hate space.
 RYAN: Shut up! She presses different buttons, and with each a voice of the alarm symphony dies until they are completely silent.
-RYAN (CONT'D): Ok. She takes a breath and begins fastening the seat belt.
-RYAN (CONT'D): Alright. That's good. She puts on the communication headset and- Resets the STOPWATCH- 85 minutes and counting down. She checks the TEMPERATURE GAUGE- She exhales, the plume of her hot breath hanging briefly in the frigid cabin air before evaporating.
-RYAN (CONT'D): Okay, let's stabilise you. She takes the JOYSTICK. Ryan looks focused at-
-THE PERISCOPE-: Where the western horizon comes into frame and nears the center crosshair. A small dot GLIMMERS in the distance- THE CHINESE STATION.
-RYAN (CONT'D): Ok. Let's visit the Chinese station. Houston in the blind, Tiangong is approximately 100km... to the west and I am off it's course by about 3 degrees. I will correct trajectory. She moves the Joystick, and the crosshair readjusts.
-RYAN (CONT'D): Ok. She releases the safety lock and places her finger on the button.
-RYAN (CONT'D): Ok. I'll engage main thrust in five... four... three She releases the safety lock.
-RYAN (CONT'D): two... one... She pushes on the button.
-RYAN: One... Nothing. The thruster won't ignite.
-RYAN (CONT'D): One... one...
+RYAN: Nothing. The thruster won't ignite.
 RYAN: Come on. Come on!
 RYAN: You gotta be kidding me. She taps on the frozen dial once more, as if trying to get the needle to go back up, and once again-
-RYAN (CONT'D): Where's your backup? She taps even harder this time.
-RYAN (CONT'D): Where's your goddamn backup?! She bangs down on the control panel in frustration--
+FU: OUTER SPACE. 300 KM ABOVE EARTH. Inside the capsule, through the portal, Ryan hits and hits, bouncing around the confined space of the cabin and venting all her anger, until she herself is out of fuel. She grabs the radio and-
 RYAN: This is Dr Ryan Stone, can you hear me? Houston, this is Ryan Stone, can you hear me? Copy? Houston, this is Ryan Stone, can you hear me? Copy?
 RYAN: Houston, this is Ryan Stone, can you hear me? Copy? Houston, this is Ryan Stone, can you hear me? Copy? She turns her neck stiffly, looks at the- TEMPERATURE DIAL, -8 degrees and dropping. Through the PORTHOLE the SUN drops. DARKNESS descends. Finally, a SOUND SURFACES through the static:
-RYAN (CONT'D): Houston. Houston! This is Mission Specialist Ryan Stone. Do you copy! This glimmer of hope gives her a new burst of energy. She TURNS ON THE CABIN LIGHT and attempts to tune into the frequency, turning one of the control panel's dials. She frowns.
-RYAN (CONT'D): (into the mouthpiece) Houston, you're coming in over the AM frequency. Please confirm identity. Fragmented words emerge through the static.
-TRANSMISSION: Han... ni... ts... She turns the dial slowly, clinging desperately to the wavering thread of communication.
+TRANSMISSION: Han. ni. ts. She turns the dial slowly, clinging desperately to the wavering thread of communication.
 RYAN: Repeat. This is Mission Specialist Ryan Stone from STS-157. Do you copy? Words BURST FORTH, ringing clear as a bell for a moment.
-TRANSMISSION: Hannik ya itc... pini. Ryan blinks. The transmission is not in English.
+TRANSMISSION: Hannik ya itc. pini. Ryan blinks. The transmission is not in English.
 RYAN: Is this the Chinese Station? Is this Tiangong? Copy? As she tunes in a faint voice is distinguished. It doesn't appear to be in Chinese either.
-RYAN (CONT'D): Do you speak English?
 TRANSMISSION: Hannic ya itcitem pini!
 RYAN: S.O.S. Do you understand?
 TRANSMISSION: Uumaruq taigaa!
 RYAN: Mayday! Can you copy? Mayday! Mayday! The voice on the transmission appears to be a man in a very jovial mood. He keeps laughing.
-TRANSMISSION: Mayday!
+TRANSMISSION: Yes! Mayday! Mayday!
 RYAN: Yes! Mayday! Mayday!
 TRANSMISSION: Mayday! Aningang!
-RYAN: Aningang?
+RYAN: Mayday, Aningang! Aningang, Mayday! The HOARSE LAUGHING of an MAN rises through the STATIC.
 TRANSMISSION: Mayday, Aningang! Aningang, Mayday! The HOARSE LAUGHING of an MAN rises through the STATIC.
-RYAN: Aningang...? (then, realizing:) Is that your name? Aningang is your name?!
-TRANSMISSION: Aningang! Mayday! Suli, suli! She starts to speak again but the glimmer of hope fades from her face with the realization that this man does not understand her plea.
-RYAN: No, Mayday's not my name. I'm Stone, Dr. Ryan Stone-- I need help.
-TRANSMISSION: Mayday! Ieukpalliktuq uumaruq taigaa naabuqtuq. A noise in the background makes Ryan smile.
-RYAN: Dogs...
-(INTO HEADSET): Are those dogs? Those are dogs! Are you calling from Earth?! The barking of several dogs can be heard behind the man's voice. She GRINS. She listens to the man's laughing voice, shakes her head helplessly and sighs.
-RYAN (CONT'D): Where are you, Aningang? Is the sun out? Are there birds? Are there trees? Can you smell the ocean?
+RYAN: ( TO HERSELF )
+TRANSMISSION: Aningang! Mayday! Suli, suli! She starts to speak again but the glimmer of hope fades from her face with the realization that this man does not understand her No, Mayday's not my name. I'm Stone, Dr. Ryan Stone I need help.
+RYAN: No, Mayday's not my name. I'm Stone, Dr. Ryan Stone I need help.
+TRANSMISSION: Mayday! Ieukpalliktuq uumaruq taigaa A noise in the background makes Ryan smile.
+RYAN: ( SOFTLY ) ( INTO HEADSET )
 TRANSMISSION: Ieukpalliktuq naabuqtuq.
-RYAN: Is it beautiful where you are? Here it's colder than hell and lonelier than shit, but it's beautiful Aningang. Utterly, terrifyingly beautiful. Through THE PORTHOLE- Even under the darkness of night, it is possible to see the glaciers spreading over the green forests. It all looks so fresh and full of life.
-RYAN (CONT'D): Make your dogs bark again, Aningang. Will you? Please...
-TRANSMISSION: Suli aasrivak aatqatik niuruq...?
+RYAN: Is it beautiful where you are? Here it's colder than hell and lonelier than shit, but it's beautiful Aningang. Utterly, terrifyingly Through THE PORTHOLE- Even under the darkness of night, it is possible to see the glaciers spreading over the green forests. It all looks so fresh and full of life.
+TRANSMISSION: Suli aasrivak aatqatik niuruq.?
 RYAN: Dogs! Woof. Woof. Woof. She makes barking noises. The man begins to laugh and barks back at her.
-TRANSMISSION: Auuu. Auuu. Oipmiq. Oipmiq! Auuu. Auuu. Ryan and Aningang bark in unison.
+TRANSMISSION: Auuu. Auuu. Oipmiq. Oipmiq! Auuu. Ryan and Aningang bark in unison.
 RYAN: Woof. Woof.
-TRANSMISSION: Auuu... Auuu...
+TRANSMISSION: Auuu. Auuu.
 RYAN: I'm going to die, Aningang. The SIGNAL ebbs, losing its battle with the STATIC.
-RYAN (CONT'D): I mean, we're all going to die. Everyone knows that. But I'm going to die today... The STATIC waffles in and out.
-RYAN (CONT'D): Funny that. To know. The STATIC breaks and Aningang's HUSKY VOICE begins SINGING.
-RYAN (CONT'D): And you know what Aningang... I don't care. I don't care if I die. I don't have anything... not anymore. Ryan is floating now over her seat.
-RYAN (CONT'D): But the thing is... I'm still scared. I'm really scared... She rolls in space and stares upwards...
-RYAN (CONT'D): No one will mourn me. No one will pray for my soul. Will you mourn me, Aningang? Is it too late to say a prayer? I'd say one for myself, but I have never prayed in my life... no one ever taught me how... The tune is lyrical and soothing, tinged with a touch of melancholy.
-RYAN (CONT'D): No one ever taught me how... Ryan listens to Aningang's melody and smiles softly, closing her eyes. Ryan's face grows slack as she drifts toward unconsciousness, buoyed along on Aningang's sad soulful song. Then... ...a SPUTTERING CRY cuts through the static.
-RYAN (CONT'D): A baby. There's a baby with you. A beat. Aningang stops singing, speaking in a soft voice:
-TRANSMISSION: Ieukpalliktuq upatimi...
+TRANSMISSION: Ieukpalliktuq upatimi.
 RYAN: You are singing to your baby? Is that a lullaby? That's so sweet! Ryan is transfixed, listening to the gentle gurgle of the baby as Aningang coos to it, then begins to SING again.
-RYAN (CONT'D): I used to sing to my baby too. Painful memories flash before her, haunting her. Ryan's lump in her throat is washed away by a gentle sob.
-RYAN (CONT'D): I hope I see her soon. She reaches for a valve and opens it. A HIZZING sound is heard inside the vessel, and-
-RYAN (CONT'D): (growing ever drowsier) That's nice. Keep singing, Aningang, just like that. Sing me to sleep. I'll sleep and sleep and sleep. Sing to me, Aningang... sing...sing.... The transmission grows fainter... ...and fainter... ...and then is... ...gone. For a long beat Ryan merely sits there. She is gently humming a tune. It is a LULLABY.
-THE PORTHOLE-: THROUGH THE GLASS, the helmet of an astronaut is looking in.
-RYAN (CONT'D): No... no.. don't. But the latch continues to open. Ryan immediately straps herself to the commander chair. The latch keeps turning. Ryan covers her eyes and face with her hands when- THE LATCH RELEASES and
 MATT: Ahhhh! Alright, check your watch. 13 hours, 11 minutes. Call Anatoly, tell him he's been bumped. The figure glances around.
-MATT (CONT'D): Bit gloomy in here. How `bout a little light? He taps a few buttons on the console and a face blooms: Matt. Ryan stares, mouth agape.
 RYAN: How did you?
 MATT: Trust me, it's a hell of a story.
 RYAN: But how did you? He reaches out and effortlessly flicks a myriad array of switches. Instantly, the alarms go silent.
 MATT: That's better.
-RYAN: How? Ryan looks at him wide eyed, wanting to know how-
+RYAN: Ryan looks at him wide eyed, wanting to know how-
 MATT: I found a little extra battery power. I'm just happy you're still alive. To be honest, I thought your chances were slim to none. By the way, did you find the vodka?
-RYAN: You never told me where. Matt fishes a SMALL FLASK from under his seat, spins off the cap...
-MATT: Oh well... To Anatoly! Na zdorovje. ...and takes a big gulp. He offers the flask to Ryan, who appears to be dozing off. She blinks, shakes her head.
-RYAN: No. He studies her.
+RYAN: You never told me where. Matt fishes a SMALL FLASK from under his seat, spins off the Oh well. To Anatoly! Na zdorovje. .and takes a big gulp. He offers the flask to Ryan, who appears to be dozing off. She blinks, shakes her head.
+MATT: Oh well. To Anatoly! Na zdorovje. .and takes a big gulp. He offers the flask to Ryan, who appears to be dozing off. She blinks, shakes her head.
+RYAN: He studies her.
 MATT: No? Right, let's get out of here. He looks at the monitors, where the Chinese Station is seen.
-MATT (CONT'D): We're `bout a hundred miles to the Chinese Station. A little Sunday drive.
 RYAN: We can't.
 MATT: Course we can.
 RYAN: There's no fuel. I tried everything.
-MATT: Well, there's always something we can do.
+MATT: Well, there's always something we can I tried everything.
 RYAN: I tried everything.
 MATT: Did you try the soft landing jets?
 RYAN: They're for landing so.
@@ -526,84 +406,28 @@ MATT: Well landing is launching it's the same thing, didn't you learn about that
 RYAN: I never got to land the simulator, I told you.
 MATT: But you know about it.
 RYAN: And I crashed it every time. Ryan is falling asleep. Matt studies her as she dozes off.
-MATT: Listen you want to go back or do you want to stay here? I get it, it's nice up here, you can just shut down all the systems turn out all the lights, and just close your eyes and tune out everybody. Matt starts flipping through buttons on the console, turning the cabin lights off.
-MATT (CONT'D): There's nobody up here who can hurt you, it's safe. Then what's the point in going on, what's the point of living? When the cabin is in darkness, he turns and looks at Ryan.
-MATT (CONT'D): Your kid died, doesn't get any rougher than that, but still it's a matter of what you do now. If you decide to go that you've gotta just get on with it, sit back enjoy the ride. You have to start living life, Ryan. Ryan is having trouble keeping her eyes open.
+MATT: Listen you want to go back or do you want to stay here? I get it, it's nice up here, you can just shut down all the systems turn out all the lights, and just close your eyes and tune out Matt starts flipping through buttons on the console, turning the cabin lights off.
 RYAN: How did you get here?
-MATT: Ryan, you have to learn to let go ... Hey? Ryan is almost sound asleep.
-RYAN: What? Ryan is asleep.
+MATT: Ryan, you have to learn to let go . Ryan is almost sound asleep.
+RYAN: Ryan is asleep.
 MATT: It's time to go home. Her eyes snap open. Her gaze shifts. The flask is floating in front of her. But no Matt. She turns. THE CABIN IS EMPTY. She turns back.
-RYAN: Landing, landing. Landing is launching. With a new surge of determination she TURNS ON THE CABIN LIGHT. She pulls the HELMET floating above her and puts it on. She connects the umbilical to her suit, opens the Oxygen Valve, and begins to breath. As the Oxygen flows back into her brain a new surge of determination brightens her face. She opens the valves of the other two umbilicals, allowing Oxygen to flow, pressurizing the cabin. She grabs the MANUAL.
-RYAN (CONT'D): Okay, landing, landing, landing is green. She opens the green binder and browses through its index.
-RYAN (CONT'D): Okay, okay landing, alright. She stops, turns some pages and stares closely at the manual. Ryan notices the Energy Bar floating by her. She grabs it and as she opens the wrapper, she stares intently at one page of the MANUAL, where there is-
-A DIAGRAM-: An ILLUSTRATION of the Soyuz Capsule two meters before landing and hitting the ground. A thrust is shooting out from under its bottom, cushioning its fall: THE SOFT LANDING ENGINES.
-RYAN (CONT'D): Soft landing jets trigger automatically at three meters before landing. ... you're a clever son of a bitch Matt. So to land I need to get rid of the BO and Engine module, okay? She puts on the communication headset.
-RYAN (CONT'D): Listen to me Matt. You're going to see a girl with brown hair. She's Sarah, her hair is probably a mess. That's okay, she doesn't like to brush it. She looks out of the porthole, down at Earth.
-RYAN (CONT'D): Tell her mommy found her red shoe. She was so upset about that shoe Matt, but tell her it was right under the bed. She turns back to the console and places her finger over one of the buttons.
-RYAN (CONT'D): You give her a big hug and a kiss for me and tell her mamma misses her. Tell her she's my little angel and that she makes me so proud, so so so proud, and that I promise I'll try and make her proud too. You tell her that I'm not quitting, that I'm going to keep fighting. You tell her I love her Matt... I love her so much. Ryan smiles, remembering... and then-
-RYAN (CONT'D): Tri module separation, go... She presses the button.
+RYAN: Landing, landing. Landing is With a new surge of determination she TURNS ON THE CABIN LIGHT. She pulls the HELMET floating above her and puts it on. She connects the umbilical to her suit, opens the Oxygen Valve, and begins to breath. As the Oxygen flows back into her brain a new surge of determination brightens her face. She opens the valves of the other two umbilicals, allowing Oxygen to flow, pressurizing the cabin. She grabs the MANUAL.
 RYAN: Okay Houston, here comes the tricky part, the Soyuz has to think we're only three meters above the earth. A pause, and then-
-RYAN (CONT'D): Let's reset you then. Using the manual as a reference, Ryan uses the cursors to select the ALTITUDE DISPLAY on the computer screen. The current ALTITUDE is- 2600 M. She uses the cursors and presses a button. A WARNING on the computer screen comes on. She presses another button, and- ON THE SCREEN, the ALTITUDE goes blank. Ryan punches a new set of commands. The ALTITUDE now reads- 3 meters.
-RYAN (CONT'D): Okay. I only have one shot at this. One shot... She extends her finger...
-RYAN(CONT'D): What's the point if we don't try?
-THE PERISCOPE-: The Soyuz is approaching the Tiangong. The center of the crosshair is aiming three degrees above the Chinese Station.
-RYAN: Wow... you were right Matt... it's magnificent.... She then turns to-
-THE PERISCOPE-: The Chinese Station quickly grows in size as the Soyuz gets closer and closer. ALTITUDE DIAL- 155 km and dropping.
-RYAN (CONT'D): You're losing altitude, Tiangong. You keep dropping and you're going to kiss the atmosphere. But not before I get to you. You have my last ride home. A new sense of urgency comes up on Ryan's face. She unhooks the umbilical from her suit. She unstraps herself. She floats over and looks out of-
-THE PORTHOLE-: The Chinese Station is approaching, getting closer. She disarms the emergency exit and holds on to the LATCH. She pauses and turns to grab the fire extinguisher and holds it tightly against her chest with one arm. With the other arm- She reaches for the Latch. The Station is hovering right next to her and the cabin is going to pass it.
-RYAN (CONT'D): Okay, I'm done with just driving. Let's get go home. She turns the latch, and- PYROTECHNICS shoot the porthole into space. The brutal force of the infinite VACUUM of space SUCKS THE AIR out of the cabin, and- Ryan is LAUNCHED out of the cabin at a tremendous speed. SHE HITS HER SHOULDER as she goes through the hatch into-
-OUTSIDE-: Everything twirls. Earth and Heavens. An ALARM in her STOPWATCH RINGS. It's been EIGHTY-FIVE MINUTES. And she spins and sees- THE TIANGONG, one mile below her. And below it- A bright comet leaves behind a yellow scratch over the Earth. It
-IS-: THE SOYUZ BURNING upon contact with the atmosphere. Ryan drifts away. She holds tightly to the fire extinguisher with one hand, and with the other she checks her right shoulder.
-SPRAY-: It acts like a thrust that pushes her toward the Station. It helped, but she is still off target.
-ANOTHER SPRAY-: Propelling herself even closer to the Station.
-SEE THAT-: The LIFEBOAT, the SHENZHOU, a vessel very similar to the Soyuz, is docked on a module. It's now clear that she's not flying straight toward the Station. Ryan attempts to correct her trajectory by giving-
-ANOTHER SPRAY-: But only a very SMALL THRUST comes out of the extinguisher, not enough to push her on the right track. She PULLS the trigger again- But only a few dust particles come out. The extinguisher is empty. She lets go of it and it floats away. She drifts toward the Station, SLOWLY. She is less than twenty meters away, and getting closer.
-THE STATION-: She slowly drifts across the modules, the tips of her fingers almost touching the surface of the Tiangong. A handle passes under her, almost within reach, but she does not manage to hold onto it.
-THE STATION-: A solar panel, following the rotation of the Station, comes into view. She stretches out her arm as she gets closer to it. But the solar panel continues its rotation and she is approaching very slowly. The panel is rotating away. She STRETCHES, and- She GRABS onto a rod on the Solar Panel, STOPPING her momentum. Ryan hangs from the Station. She holds her right arm tightly to her chest.
-RYAN: Ahhhhhh! The pain is excruciating, but she grabs onto the panel's rod,
-AND-: SHE PULLS HERSELF UP, and clinging with her leg, she secures herself to the panel.
-ABOVE HER-: Clusters of DEBRIS pass by, flying at different distances and at great speeds. Pieces COLLIDE with each other, exploding into more debris. A BIG PIECE OF DEBRIS is flying downward, missing the Station by ten meters as it continues its descent. And- 250 meters below, it BURNS like a shooting star. The Station is rapidly approaching Earth's atmosphere. And over the Eastern horizon- A CLOUD OF DUST is quickly approaching.
-CONTROL PANEL-: The red, yellow, and green graph is bright red. Under it, TWO BUTTONS with Chinese ideograms on them.
+RYAN: Wow. you were right Matt. it's She then turns to-
+RYAN: The pain is excruciating, but she grabs onto the panel's rod,
 AND: Her finger hesitates as she takes a wild guess.
-SHE PRESSES-: A FAINT HISSING SOUND is heard.
 LOOP: She's in pain and more tired than ever now, and she's punchy.
-LOOP (CONT'D): She waits, floating.
 RYAN: Come on. Come on. And when the RED GLOW turns to ORANGE- Ryan UNLOCKS her helmet and, using only her left hand, struggles to take it off. As the helmet floats, bouncing off of the cabin walls, Ryan massages her injured shoulder. She does this gently, as even the smallest pressure inflicts pain. The orange light is turning green when- She feels the Station quake fiercely, reverberating through the handle she's holding onto.
 LOOP: She enters the hatch into the-
-BELOW-: A Docking Module, very similar to the one in the ISS. At the far end of it an open hatch leads into the SHENZHOU ESCAPE POD.
-RYAN: Seriously?
-THE PORTHOLE-: A thin bright yellow halo covers the whole window.
-RYAN: In the Soyuz the power button is erm....here! She passes her finger over the board, trying to make sense of the buttons.
-RYAN (CONT'D): Ah, ok ah undocking, undocking....eenie, meenie,...
-SHE PRESSES: An ALARM RINGS, and under the ongoing LOOP, a RECORDING, clearly warning.
-RYAN: Ok. That doesn't sound good.... She glances around frantically, turns it off. It's shaking very intensely but she's wide-eyed now, clearly close to being beside herself.
-RYAN (CONT'D): Miini... moh... She tries a BIG BUTTON that says- A NEW ALARM, followed by a NEW RECORDING, also a warning- And with a horrible accent-
-RYAN (CONT'D): No hablo chino. She keeps searching for the right button.
-RYAN (CONT'D): Mini... moh... And she presses a new one. The LIGHTS on the Control Panel GO ON. The cabin makes a humming sound as SYSTEMS BEGIN TO ACTIVATE. On the control panel lights go on in patterns reminiscent of the switchboard in the Soyuz.
-RYAN (CONT'D): Okay....okay... She begins going through the progressions she used on the Soyuz, only quicker this time, jabbing button after button.
-RYAN (CONT'D): Good...good...There. And this should be... She presses one more button and systems turn to green.
-RYAN (CONT'D): Okay... Houston in the blind... She raises her voice to be heard over the GROWING RUMBLE.
-RYAN (CONT'D): This is Mission Specialist Ryan Stone reporting from the Shenzhou. I'm about to undock from the Tiangong and I have a bad feeling about this mission. She presses a new button and the system goes to green. And on the MONITOR a COUNTDOWN appears.
-RYAN (CONT'D): Reminds me of a story, Houston-- She reacts to a bad shake of the cabin.
-RYAN (CONT'D): Okay, you know what, Houston? Never mind the story... She looks around as the cabin starts shaking even harder.
-RYAN (CONT'D): It's getting hotter in here. She watches the COUNTDOWN on the MONITOR- 3:59... 3:58...
-RYAN (CONT'D): The way I figure it, there's only two
-POSSIBLE OUTCOMES--: Ryan keeps her eyes fixed on the countdown. Raises her voice to compete with the rising chaos...
-RYAN (CONT'D): I either make it down in one piece and I'll have one hell of a story to tell... And now the noise and the shake are nearing their peak...
-RYAN (CONT'D): ...Or I burn up in the next ten minutes. Ryan smiles, flips the safety lid of a button open.
-RYAN (CONT'D): Whichever way it goes, no harm no foul. As the cabin RATTLES VIOLENTLY.
-RYAN (CONT'D): Because either way-- She closes her eyes, puts her finger over the button.
-RYAN (CONT'D): It'll be one hell of a ride. Ryan presses the button.
-RYAN (CONT'D): I'm ready.
-RYAN: Yeehaaa! GRAVITY is still minimal, but the force of the inertia is rough and it jerks her around. She sees- A RED LEVER above her, but she can only reach it with her bad hand.
-RYAN (CONT'D): Ahhhhhhhh!
-THE PORTHOLE-: A blinding light pours in from outside the window. The spinning is over, but the cabin vibrates with a loud rumble. As the G-Force restrains Ryan against her seat, she clenches her face and sweats. On the ceiling, condensation begins to form.
-LOOKS AT-: THE CEILING- where condensation is dripping.
-ITS SURFACE-: THE LANDING ENGINES IGNITE, giving the downward thrust meant to cushion the landing on a hard surface. The thrust parts the water, creating a curtain of steam, and the Shenzhou gently falls down-
+RYAN: THE PORTHOLE-
+RYAN: In the Soyuz the power button is She passes her finger over the board, trying to make sense of the buttons.
+SHE PRESSES: An ALARM RINGS, and under the ongoing LOOP, a RECORDING, clearly She glances around frantically, turns it off. It's shaking very intensely but she's wide-eyed now, clearly close to being beside herself.
+RECORDING: Ok. That doesn't sound good.. She glances around frantically, turns it off. It's shaking very intensely but she's wide-eyed now, clearly close to being beside herself.
+RYAN: Ok. That doesn't sound good.. She glances around frantically, turns it off. It's shaking very intensely but she's wide-eyed now, clearly close to being beside herself.
+POSSIBLE OUTCOMES: Ryan keeps her eyes fixed on the countdown. Raises her voice to compete with the rising chaos.
+RYAN: GRAVITY is still minimal, but the force of the inertia is rough and it jerks her around. She sees- A RED LEVER above her, but she can only reach it with her bad SHE GRABS THE LEVER- AND PULLS IT. OUTER SPACE. THE LOCKS DISENGAGE- THE CABIN separates from the rest of the vessel and from the Station. It spins away, plummeting toward the atmosphere. The two fragments of the Tiangong follow, spinning in a rage of sparks and fire.
+SHE STRETCHES: RYAN ( CONT'D )
 UNDERWATER: The metallic capsule, which weighs almost three tons, sinks quickly into the lake. As the ropes of the parachute tense, the long fabric follows the cabin down.
-ABOVE HER-: THE PARACHUTE IS GETTING CLOSER, a net about to trap her. She struggles out of the TOP PART of her suit. And squirming out from under it- She frees herself from the heavy garments and SWIMS UP as- THE SINKING PARACHUTE traps her foot and begins dragging her down. But with a kick- SHE SETS HERSELF FREE, and- SHE SWIMS UP, stroking with her good arm. She is completely out of breath, only the tiniest bubbles rise from her nose. She is about to lose consciousness, when she sees- THE FROG swimming ahead of her, sliding smoothly through the water toward the rays of sunlight diffracted by the surface. Ryan's eyes are closed as she floats up, her body limp. The surface is coming closer and closer. She reaches the thin boundary between water and air and she come out to the-
 RYAN: Almost primal, like the first breath of a newborn child, it burns her lungs but reclaims life. She only has enough strength to keep her face above water. She FLOATS, catching her breath and taking long gulps of air. She looks up at-
-THE SKY-: Where the clouds move, caressed by air and light. And beyond
-THEM-: OUTER SPACE, but-
+AAAHHHHHH!: Almost primal, like the first breath of a newborn child, it burns her lungs but reclaims life. She only has enough strength to keep her face above water. She FLOATS, catching her breath and taking long gulps of air. She looks up at-
 RYAN: Thank you. She PLANTS HER PALMS against the ground and- With an effort, she pushes herself up. SHE FEELS HER WEIGHT, and manages to rise to her hands and knees like a four-legged mammal. And she STANDS UP. ONE FOOT FALLS heavily on the ground. It sinks into the mud and
-RYAN (CONT'D): Ahhhhh!!! One foot moves forward and lands on more solid ground, unstable, coping with the weight. And then- The other foot follows as- SHE BEGINS TO WALK ON PLANET EARTH, laughing.

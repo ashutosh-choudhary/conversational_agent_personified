@@ -1268,8 +1268,7 @@
 <b>                         CLOSE 60
 </b>          sma:: SEALED BOX with a THUMBCODE LOCK.
 
-<b>          3A0!&lt; TO SCENE 61
-</b>           looks at it, frustrated. Finally makes his decision. He
+<b>          3A0!           looks at it, frustrated. Finally makes his decision. He
            picks it up, leaves the room.
 
 <b>                          CUT TO:
@@ -7253,7 +7252,7 @@
 <b>           THE END
 </b>
 
-</pre><br/>
+</b></pre><br/>
 <table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
 <tr>
 <td align="center"><img border="0" src="http://www.imsdb.com/posters/Judge-Dredd.jpg"/>

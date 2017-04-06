@@ -1,0 +1,686 @@
+BORG: Restrict search parameters to 1-9- 9-8 through 2-0-8-4.
+WOMAN'S VOICE: Stop search. Calculate temporal coordinates. J-Fourteen.
+PICARD: Signal the Endeavor to fall back. We'll cover them.
+TROI: Aye, sir.
+DATA: Dispersive armor is holding.
+PICARD: Bring us about. Target Borg ship alpha four, port side battery.
+WORF: Port battery, ready sir!
+PICARD: 13 EXT. SPACE - THE ENTERPRISE 13
+PICARD: Starboard battery fire.
+DATA: The Borg ship has modified its shields, Captain. Our phasers will no longer be effective.
+PICARD: Ready quantum torpedo.
+WORF: Aye, sir. Only three left.
+PICARD: Go ahead.
+GEORDI: Captain, I'm starting to worry about the hull integrity. We've been running the support field at full power for three hours straight. I don't know how much longer it's going to hold up.
+PICARD: Understood. Keep me informed.
+TROI: Incoming transmission from the On screen.
+PICARD: On screen.
+BORG: Your defense perimeter is useless. You will be assimilated.
+PICARD: ( to Borg ) Break off your attack. By now, you must realize you can't win.
+BORG: Your opinion is irrelevant. We are the Borg. Resistance is We'll see about that.
+PICARD: We'll see about that.
+DATA: Main power still on-line, Captain.
+RIKER: Casualties are light, Captain. Minor buckling on the port nacelle. Nothing serious.
+WORF: Incoming message from the Starship Intrepid. Admiral Hayes.
+PICARD: On screen. The new quantum torpedoes are doing the trick, Jean-Luc. We've destroyed forty-seven Borg ships so far. and only lost fifteen of our own. But one of the Borg ships has broken through our defenses, and it's heading directly for Earth. Can you handle it?
+ADMIRAL HAYES: The new quantum torpedoes are doing the trick, Jean-Luc. We've destroyed forty-seven Borg ships so far. and only lost fifteen of our own. But one of the Borg ships has broken through our defenses, and it's heading directly for Earth. Can you handle it?
+PICARD: ADMIRAL HAYES
+ADMIRAL HAYES: Good hunting. Hayes out.
+PICARD: Mister Data, set a pursuit course. Maximum warp.
+DATA: We are approaching the Terran System, Captain.
+PICARD: Go to impulse. Where's the Borg It has entered Earth orbit. Correction it is not in orbit. It is heading directly toward the
+DATA: It has entered Earth orbit. Correction it is not in orbit. It is heading directly toward the
+PICARD: Picard gets up, moves to Data's console.
+RIKER: ( incredulous ) Some sort of suicide tactic?
+DATA: Unknown, sir. Suicide tactics are not normally associated with the
+DATA: Sensors show a temporal signature emanating from the Sphere. High concentrations of tachyons.
+PICARD: And chronometric particles. it's as though they're trying to create a temporal vortex.
+PICARD: Time travel. they're attempting time travel. Full power, Mister Data. Worf, quantum torpedoes at my command!
+WORF: Aye, sir.
+WORF: Range fifty kilometers.
+DATA: A temporal vortex is forming directly ahead of the Sphere.
+RIKER: Main power off-line!
+DATA: Switching to emergency back-ups.
+RIKER: We're caught in some kind of energy wake from the vortex.
+PICARD: Worf. torpedo. now!
+DATA: I have helm control.
+PICARD: Where's the Sphere?
+WORF: They have traveled into the vortex. through time.
+DATA: The vortex is collapsing, sir.
+PICARD: Contact Starfleet Command.
+WORF: No response. I'm not reading any Starfleet com traffic in this entire sector.
+TROI: ( off console ) Captain, I've scanned the planet. The atmosphere contains a high concentration of methane, carbon monoxide and fluorine. The oceans have been chemically altered, as On screen.
+PICARD: On screen.
+PICARD: Life signs?
+TROI: Population. thirty-five All Borg.
+DATA: ( off console ) The planet's surface is covered with Borg technology. ( beat ) So is the moon. and three other planets in this solar system.
+TROI: But how?
+PICARD: They must've done it in the past. they went back and changed history.
+RIKER: ( stunned ) They did it. they assimilated But if they changed history. then why are we still here?
+WORF: But if they changed history. then why are we still here?
+DATA: We were caught in the temporal wake from the vortex. It must have protected us from any changes in the time-line.
+WORF: Captain, there are five Borg ships closing in on our position.
+PICARD: ( making a decision ) Data, set a course for that We have to follow them back. repair whatever damage they've done to that time-line.
+TROI: We have to follow them back. repair whatever damage they've done to that time-line.
+PICARD: We have to follow them back. repair whatever damage they've done to that time-line.
+DATA: ( working ) Course laid in. Engaging impulse
+WORF: Hull integrity down to thirty Steady as she goes.
+PICARD: Steady as she goes.
+WORF: Borg vessels are closing to two thousand meters.
+PICARD: Take us in!
+PICARD: We're still in Earth orbit.
+RIKER: We're still in Earth orbit.
+PICARD: On screen.
+PICARD: What year is it?
+DATA: ( working ) According to our astrometric readings. the year is 2063.
+WORF: Captain, I've found the Borg Sphere. It's on the far side of the planet.firing at the Intercept course, full impulse. Weapons status?
+PICARD: ( to Data ) Intercept course, full impulse. ( to Worf ) Weapons status?
+WORF: Phasers are off-line. we have two quantum torpedoes left. But the computer targeting system has been destroyed.
+PICARD: Go to manual.
+PICARD: ( over above action, to Track their weapons fire.
+TROI: ( off console ) Western hemisphere. North American continent.
+DATA: We are within torpedo range.
+RIKER: They've seen us. They're taking evasive action.
+PICARD: ( urgent ) Mister Worf?
+WORF: The crosshairs keep missing the image of the Borg Sphere, which is now twisting and turning to evade us. Troi reacts to her console.
+TROI: Captain, they're firing at a nuclear missile silo. in central
+WORF: ( struggling )
+PICARD: ( worried )
+WORF: Target locked!
+PICARD: 42 EXT. SPACE - THE BORG SPHERE 42
+PICARD: ( to Data ) Mister Data, I want to know the exact date and time. ( to Riker ) Give me a damage report on that missile silo.
+DATA: ( works ) Today is March second, 2063. The time in Montana is oh-eight-forty- ( works ) Looks like they damaged the Life signs?
+RIKER: ( works ) Looks like they damaged the Life signs?
+PICARD: Life signs?
+RIKER: Can't tell. Long-range bio- sensors are off-line.
+PICARD: Worf, have Doctor Crusher, Mister La Forge and a security team meet me in Transporter Room Three. Civilian clothes.
+WORF: Aye, sir.
+RIKER: In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test. from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his And if they succeed, humans won't make First Contact with the Vulcans tomorrow. As First Officer I should be the one beaming down.
+PICARD: In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test. from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his And if they succeed, humans won't make First Contact with the Vulcans tomorrow. As First Officer I should be the one beaming down.
+RIKER: ( nods in understanding ) And if they succeed, humans won't make First Contact with the Vulcans tomorrow. ( beat ) As First Officer I should be the one beaming down.
+PICARD: Normally, I would agree. But in this case, the mission requires a certain knowledge of 21st century history. You're many things, Number One, but you're not much of an historian.
+RIKER: Good luck, sir.
+PICARD: I'll keep in contact. You have the Bridge.
+BEVERLY: Will somebody please tell me where we're going?
+PICARD: ( to Chief ) Montana? Well, that answers everything. Why the hell are we
+BEVERLY: Montana? Well, that answers everything. Why the hell are we
+BEVERLY: ( continuing ) going to Montana?
+GEORDI: ( off tricorder ) I have the silo, sir. Bearing three one zero. distance, three hundred meters.
+PICARD: Let's go.
+BEVERLY: Go where? Hello? Is anyone going to tell me what we're doing here?
+PICARD: We're here to find Zephram Cochrane. He may be injured or Cochrane. the inventor of warp But he's been dead for three Oh God. we've gone back in time again, haven't we?
+BEVERLY: Cochrane. the inventor of warp But he's been dead for three Oh God. we've gone back in time again, haven't we?
+PICARD: But he's been dead for three Oh God. we've gone back in time again, haven't we?
+BEVERLY: But he's been dead for three Oh God. we've gone back in time again, haven't we?
+PICARD: I'm afraid so. If the Borg succeed in preventing First Contact with the Vulcans. Earth will remain in the Second Dark Age. an easy target when the Borg arrive in the 24th century.
+BEVERLY: Well, why didn't you just say so in the first place?
+TROI: Lieutenant Sandra Farrel.
+TROI: It appears death was caused by a plasma discharge. I'll note in her record that she never left her post.
+TROI: Did you know her?
+DATA: Not very well. We met shortly after the Enterprise-E was commissioned. I found her to be a most. promising officer.
+TROI: Data. are you sure you're all I am still having difficulty integrating certain emotions into my programming. Grief, loss, We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done.
+DATA: I am still having difficulty integrating certain emotions into my programming. Grief, loss, We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done.
+TROI: We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done.
+DATA: No. Human beings do not have that luxury, and neither should I.
+TROI: I will admit. there are times when I wish I had an emotion chip I could turn on and off.
+DATA: ( taps combadge ) Go ahead, Commander.
+RIKER: We're reading some kind of gas leak in the Environmental Control Room. Take a repair team down and check it out.
+DATA: On my way, Commander.
+DATA: ( to Porter ) One of the diathermic oxygen tanks has been damaged.
+PORTER: ( shocked ) Diathermic oxygen?
+DATA: It is a new subsystem of Nova Class ships. It regulates hydropressure and temperature Remain here. The gas is highly corrosive to organic material. It would liquefy your flesh on Be my guest, sir.
+PORTER: Be my guest, sir.
+DATA: ( to Porter ) Begin a diagnostic on the safety interlocks. There appears to have been some damage during the
+PORTER: Porter moves around a corner, behind some equipment, out of Data's vision.
+PORTER: What the hell.
+DATA: Ensign Porter?
+DATA: Ensign. are you all right?
+DATA: ( taps combadge ) Data to Bridge.
+DATA: Data to Security. This is Lieutenant Data to anyone who can hear my signal. I need assistance in the Environmental Control Room.
+GEORDI: This must be it.
+PICARD: How serious is the damage?
+GEORDI: ( off tricorder ) I'm having trouble scanning underground. There's a lot of radiation leaking from something.
+PICARD: Probably from the nuclear warhead. Cochrane was planning to use it to ignite the warp drive.
+BEVERLY: This will protect us from the I'm picking up faint life signs twenty meters below.
+GEORDI: I'm picking up faint life signs twenty meters below.
+PICARD: There should be an access hatch
+LANGE: Over here.
+GEORDI: Alphanumeric lock. We need a password to get in.
+PICARD: I have the password right here.
+PICARD: ( to others ) See if any of these men are
+GEORDI: Mitchell. DePaul.
+LANGE: This one's a woman. named Kirby.
+BEVERLY: There's a life sign behind this door. about ten meters below.
+GEORDI: Blast door. It's designed to protect the control room when the missile is launched.
+PICARD: There should be some kind of manual release. Get those fires out and then try to restore main power to the control room.
+PICARD: ( to Lange ) Get those fires out and then try to restore main power to the control room.
+LANGE: Aye, sir.
+GEORDI: Got it, Captain.
+BEVERLY: 59 NEW ANGLE 59
+BEVERLY: Severe radiation exposure. It's Cochrane.
+PICARD: It's Cochrane.
+BEVERLY: I've stabilized him for now. but he's in a coma and he's going to need radiometric therapy. I want to take him to the ship.
+PICARD: Picard to Enterprise. Enterprise, please respond.
+GEORDI: It could be the radiation, Captain. Try from the surface.
+PICARD: Mister La Forge, listen very carefully. If you remember your history. in less than twenty- four hours, a Vulcan ship will be passing through this system. When it does, this ship needs to be in space, flying at warp speed.
+GEORDI: I'd better get started.
+PICARD: It's not the radiation. and there's nothing wrong with the combadges. the Enterprise just isn't responding.
+BEVERLY: Jean-Luc, this man needs medical attention, now.
+PICARD: As I recall, the town of Resurrection is about two kilometers East of here. They might have a hospital.
+BEVERLY: What are we waiting for? Let's It may not be that simple. This is an extremely difficult and paranoid time in human history.
+PICARD: It may not be that simple. This is an extremely difficult and paranoid time in human history.
+BEVERLY: Are you saying they won't help us?
+PICARD: I'm saying they might shoot us on sight. You have to remember. these people have watched their entire way of life collapse around There must be some good people. even in this time.
+BEVERLY: There must be some good people. even in this time.
+PICARD: Let's hope so. Because if Cochrane dies. the future may die with him.
+WORF: I have assigned two damage control teams to locate the source of our communication problems. So far, they've had no success.
+RIKER: Assign another team if you need to. I want to re-establish communication with the Captain as soon as possible.
+TROI: Are we in any danger of being detected by Earth defense systems?
+WORF: There were no planetary defense systems in this era. Their weapons were designed to fight each other. not We have to start thinking about a way to get home. Analyze our readings from the temporal vortex. We're going to have to recreate whatever the Borg did to
+RIKER: We have to start thinking about a way to get home. Analyze our readings from the temporal vortex. We're going to have to recreate whatever the Borg did to
+RIKER: ( off console ) We just lost main power. and we've got Class-Three alerts all over the ship. I'm not sure
+TROI: ( off console ) We just lost main power. and we've got Class-Three alerts all over the ship. I'm not sure
+WORF: A ship-wide decompression has been We're venting our internal atmosphere directly into space!
+RIKER: We're venting our internal atmosphere directly into space!
+TROI: We're venting our internal atmosphere directly into space!
+RIKER: What the hell is happening, Worf?
+WORF: ( off console ) It appears that someone has taken over the Environmental Control ( realizing ) The Borg. Some of them must've beamed over before we destroyed their ship. ( to Worf ) Seal off that entire deck with emergency force fields.
+TROI: ( realizing ) The Borg. Some of them must've beamed over before we destroyed their ship. ( to Worf ) Seal off that entire deck with emergency force fields.
+RIKER: ( realizing ) The Borg. Some of them must've beamed over before we destroyed their ship. ( to Worf ) Seal off that entire deck with emergency force fields.
+TROI: Wil. Data was down there.
+RIKER: ( to Worf ) Mister Worf. find Data if you can, but your top priority is isolating the Borg.
+WORF: Worf heads for a Turbolift. OFF Riker's disturbed 65 CLOSE ON DATA'S FACE 65 His eyes are closed. There's a beat, then his eyes fly open and he looks around. We PULL BACK slightly, revealing Data is lying on some kind of tabletop with metallic clamps and restraints. He tenses his arm and tries to move, but he is unable to break the restraints. About two feet in front of his face is what appears to be a bulkhead. There is a cacophony of strange background NOISE scratching, hisses, gurgling liquids, odd alien hums. Suddenly, the table begins to MOVE. It ROTATES, and as it does so we realize that Data has been hanging upside down staring at the floor. It's a disorienting moment as our perspective changes and Data rotates upright.
+DATA: ( to Borg ) Your efforts to assimilate me will be unsuccessful.
+DATA: ( to Borg ) It would appear that resistance is not always futile.
+WOMAN'S VOICE: Brave words. I've heard them before from thousands of species across thousands of worlds. since long before you were
+WOMAN'S VOICE: But now. they are all one with the Borg.
+DATA: I am unlike any lifeform you have encountered before. As an android, I am in complete control of my neural net. The information contained there cannot be forcibly You are an imperfect being. created by an imperfect being. Finding your weakness is only a matter of time.
+WOMAN'S VOICE: You are an imperfect being. created by an imperfect being. Finding your weakness is only a matter of time.
+DOCTOR: How long has he been unconscious?
+BEVERLY: At least four hours.
+DOCTOR: It looks like he has a cranial fracture, but I'll need X-rays to be sure. Get Ruby in here.
+BEVERLY: ( off tricorder ) He has a severe fracture of the left occipital plate. He's not hemorrhaging. but the radiation has damaged his KNA and his APR cell count.
+DOCTOR: "APR cell count?" What the hell are you talking about?
+PICARD: ( quickly ) Doctor Crusher has been. studying some advanced medical ( re: tricorder ) What is that?
+NURSE: ( re: tricorder ) What is that?
+BEVERLY: It's a. new medical scanner. It's a little more precise than an X-ray machine.
+DOCTOR: Is it Japanese?
+BEVERLY: Um. yeah. Now he's going to need a respirator. Do you have one?
+DOCTOR: We have two. but we don't have the juice to run them.
+PICARD: Power. There hasn't been a lot of wind through here for the last couple of weeks. Most of the batteries are depleted.
+DOCTOR: Power. There hasn't been a lot of wind through here for the last couple of weeks. Most of the batteries are depleted.
+BEVERLY: Don't you have any generators, or other fuel sources?
+DOCTOR: Maybe you'd like to take your patient to the hospital in Bozemen. it's only two hundred miles away.
+BEVERLY: His automatic reflexes are fluctuating. We've got to get him on a respirator.
+DOCTOR: ( to Nurse ) Bag him.
+PICARD: Beverly your tricorder.
+PICARD: ( to Doctor ) Where's the battery room for the I told you, there's no
+DOCTOR: I told you, there's no
+PICARD: Outside, around back. Next to the water tank.
+DOCTOR: Outside, around back. Next to the water tank.
+BEVERLY: His heartbeat's irregular.
+BEVERLY: Adrenaline ten CC's!
+BEVERLY: ( pumping his chest ) One. two. three. compress!
+DOCTOR: What did you do to the batteries?
+PICARD: Oh. just a little tinkering. How is he?
+BEVERLY: He's stable. for now. But it would be better if we could contact. our friends.
+PICARD: Yes. But until then, you'll have to make do with what you've got.
+BEVERLY: That'll be interesting.
+RUBY'S VOICE: What happened to him?
+PICARD: There was some kind of explosion out at the missile silo.
+DOCTOR: Ruby, we're going to need a series of cranial X-rays tonight.
+RUBY: ( nods ) I have a fresh set of plates at home. I'll have them here by
+RUBY: ( quiet ) Take care of him. He's a very special man.
+PICARD: Yes, he is.
+RUBY: ( stopping ) I think there's someone in your Excuse me. I have a. telephone
+PICARD: Excuse me. I have a. telephone
+PICARD: Picard here.
+PICARD: I'm on my way. Picard out.
+PICARD: ( sotto ) I have to go back to the silo. Will you be all right?
+BEVERLY: I'll be fine. He's a different story.
+MAN'S VOICE: Picard turns just in time to catch a small, metal canister with a screw-top. The man who threw it steps into view. It's LIEUTENANT SCRIMM. Scrimm is the head of the town's militia. While not a physically threatening man, there is a quietly disturbing quality about him which conveys an intelligence laced with a tightly reined volatility. He's wearing futuristic combat fatigues and always carries a sidearm. Before the war, Scrimm was probably one of the "survivalists" who used to be dismissed as radicals until their predictions of Armageddon came true. At the moment, Scrimm is presenting his friendliest face to Picard.
+SCRIMM: ( pleasant ) Think you'll need that.
+SCRIMM: It's no zone solution. You know. "No ozone."
+PICARD: Oh. yes. ultraviolet protection. Thank you. Lieutenant, actually. Lieutenant Jonathan Scrimm. I'm the head of the Resurrection Protective Force. And you are?
+SCRIMM: Lieutenant, actually. Lieutenant Jonathan Scrimm. I'm the head of the Resurrection Protective Force. And you are?
+PICARD: Jean-Luc Picard.
+SCRIMM: Great name. French?
+PICARD: You don't sound French.
+SCRIMM: You don't sound French.
+PICARD: I was raised in England and here in the States. Thank you for the. no zone.
+SCRIMM: Where in the States?
+PICARD: Oh. here and there. You know how it is.
+SCRIMM: Not really. I was born and raised right here. Never had much use for travel.
+SCRIMM: Where are you from most recently?
+PICARD: ( thinking fast ) California. San Francisco.
+SCRIMM: Beautiful city. Used to be, anyway. I didn't think anyone still lived there.
+PICARD: There's a few of us left. That was a pretty clever trick you did with the hospital's batteries. How'd you do it?
+SCRIMM: That was a pretty clever trick you did with the hospital's batteries. How'd you do it?
+PICARD: It wasn't a trick. I used to be an electrical engineer.
+SCRIMM: He steps in front of Picard again, still pleasant but a little bit of a smile fading from his face. Picard realizes he isn't going to shake this man so easily.
+SCRIMM: And what were you doing out at the missile silo?
+PICARD: I'm an old friend of Cochrane's. I wanted to see how he was doing.
+SCRIMM: Lucky for him you came by when you did. He might be dead now.
+PICARD: Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this I think he was running a test on an old rocket engine. and one of the fuel cells burst.
+SCRIMM: Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this I think he was running a test on an old rocket engine. and one of the fuel cells burst.
+PICARD: I think he was running a test on an old rocket engine. and one of the fuel cells burst.
+SCRIMM: You seem to have an answer for Something wrong with that?
+PICARD: Something wrong with that?
+SCRIMM: Not yet.
+SCRIMM: ( re: balm ) Be sure you put that on. You need a lot of protection around here.
+PICARD: Thank you. But I've never had much trouble protecting myself.
+WORF: Worf to Bridge. We're in
+RIKER: This is the Bridge. I'm releasing the emergency force fields.
+WORF: ( hits combadge ) Worf to Bridge.
+WORF: There's a dampening field in place on this deck. Our tricorders are
+ENSIGN HAWK: What the hell is going on?
+WORF: Worf signals the team forward, and they slowly begin picking their way down the Borgified Corridor. It's not easy they have to choose their footing carefully as they walk through the maze of cables, circuits, and machinery. Ensign Hawk accidentally steps on some circuitry, which gives off a BEEP. The entire team suddenly whirls their lights and weapons on the unfortunate Ensign, who pales at their sudden attention. Worf looks irritated, then motions his team to continue their search. They continue making their way down the spooky corridor. and as they turn a corner.
+WORF: Worf to Bridge. We're about to enter the Environmental Control Any sign of Data, or the Borg
+WORF: ( continuing ) Negative. However, they've reconfigured the ODN network. and re-routed all power on this deck into Environmental Control.
+WORF: Stand by, Commander Where's Ensign Hawk?
+WORF: Something is very wrong, Commander. We're falling back. cybernetic nightmare. bodies, RIPPING into human flesh.
+WORF: Fire at will!
+WORF: ( throwing off a Borg ) Fall back!
+WORF: Go, go, GO!
+WORF: Worf to Bridge force fields!
+WORF: Commander. we have a problem.
+GEORDI: ( on the move ) Cochrane was going to use this solid rocket booster to lift the ship into orbit. Before the warp drive took over. everything would depend on these old chemical ( beat ) Now here's the problem.
+GEORDI: ( re: damage ) This used to be the throttle valve ( observing it ) It controls the thrust of the engines. It's been completely vaporized. and without it, there's no way to launch the ship.
+PICARD: Can you reconstruct the throttle Yeah. if I knew what it looked like. There's probably five hundred ways to design a valve like this.
+GEORDI: Yeah. if I knew what it looked like. There's probably five hundred ways to design a valve like this.
+PICARD: We need to launch this ship in under eighteen hours. There must be some design schematics. blueprints.
+GEORDI: We're tearing this place apart looking for them. but the computers are down, and the fires destroyed half the files.so far, nothing.
+GEORDI: If it was just part of the warp drive, I'd know what to do. But this. it's like trying to rebuild Orville Wright's airplane with canvass and sticks.
+PICARD: Wait a minute.
+GEORDI: Yeah, I looked at these already.
+GEORDI: You can almost see the throttle assembly in this one. but this guy walked in front of it when they took the picture.
+PICARD: Could you reconstruct the throttle from a photograph like this. if that man wasn't blocking the view?
+GEORDI: ( beat ) Sure. Yeah. As long as I could get a clear look at the intake configuration. But so far, we haven't found any other photos.
+PICARD: ( staring at photos ) If there are other photographs. I think I may know how to find
+WOMAN'S VOICE: Your resistance is. illogical. To us, your neural net is simply another piece of technology. We will learn its secrets.
+DATA: Who are you?
+WOMAN'S VOICE: I am the Borg.
+DATA: That is a contradiction. The Borg act as a collective consciousness. There are no individuals.
+WOMAN'S VOICE: I am the beginning. the end. I am the one who is many. I am the
+DATA: You are the guiding intelligence behind the Borg.?
+BORG QUEEN: Intelligence. ambition. desire. I bring order to
+BORG QUEEN: It's unfortunate we will have to destroy you to obtain the information we need. You are a. unique lifeform. Synthetic. and yet far more than a simple automaton. You have no idea how close to perfection you are.
+DATA: How do you define perfection? A blending of the organic and the synthetic. The highest form of life in the galaxy.
+BORG QUEEN: A blending of the organic and the synthetic. The highest form of life in the galaxy.
+DATA: An interesting definition. But it is not one that applies to me. I am completely artificial. I have no organic components.
+BORG QUEEN: Have you ever wondered what it's like to have flesh?
+DATA: It is impossible to imagine sensations for which I have no frame of reference.
+BORG QUEEN: That. can change.
+GUARD #1: Set phasers to rotating
+GUARD #1: That's it, they've adjusted fall back!
+RIKER: All right. we've lost control of eight decks. three Cargo Bays. one Shuttlebay.
+TROI: Do we have any idea how many Borg we're dealing with?
+WORF: We saw at least thirty.and there are twenty-two Enterprise crewmembers reported missing. including Commander Data.
+RIKER: We'll have to assume they've been assimilated into the Collective.
+TROI: Even Data?
+WORF: Data's positronic net contains classified information on the Enterprise. Command codes, security protocols.
+RIKER: If they control Data, they control the ship.
+RIKER: We can't worry about that right now. Let's concentrate on what we
+WORF: To control the Enterprise, they'll have to gain access to one of two locations. Main Engineering. or the Bridge.
+RIKER: We have to cover both We'll take care of the Bridge. Worf, take your men and seal off Main Engineering. Turn it into a fortress nothing gets in.
+RUBY'S VOICE: Shut that door!
+RUBY: What are you, an idiot? Didn't you see the red light was on?
+PICARD: Ah. yes. but, I didn't realize Thank God this plate was already
+RUBY: Thank God this plate was already
+PICARD: ( re: X-ray ) Yes. and I only had enough silver halide for one shot. So you're lucky you didn't screw it I'm very sorry.
+RUBY: Yes. and I only had enough silver halide for one shot. So you're lucky you didn't screw it I'm very sorry.
+PICARD: I'm very sorry.
+RUBY: Don't worry about it.
+RUBY: Did you need something?
+PICARD: Yes. I wanted to ask you about some photographs I saw out at the silo. There were three of them. printed on some kind of fabric.
+RUBY: Bed sheets. I used my last set of bed sheets to make those prints. Not the best material, but I haven't seen a clean piece of paper in five Did you take any other pictures of the rocket?
+PICARD: Did you take any other pictures of the rocket?
+RUBY: ( jokingly ) Why, did you want to buy them?
+PICARD: Yes. I don't have any money right now, but I may be able to get
+RUBY: "Money." So you can get dome I can try.
+PICARD: I can try.
+RUBY: You'd have to try real hard. No one's used currency in over ten years. What are you, from another
+PICARD: No. but sometimes I feel that What I meant was, I'd be willing to trade for the photographs.
+RUBY: Trade. Okay. The photographs. for a straight answer. Who are you? And how do you know I'm an old friend. I met him when he was doing his undergraduate work at Cornell back 'Fraid not.
+PICARD: I'm an old friend. I met him when he was doing his undergraduate work at Cornell back 'Fraid not.
+RUBY: ( cuts him off ) 'Fraid not.
+PICARD: ( casual ) You're lying.
+RUBY: ( casual ) You're lying.
+PICARD: What makes you say that?
+RUBY: You're not someone who lies very easily. so it's obvious when you do. at least to me.
+PICARD: Are you always sucha good judge of character?
+RUBY: Ruby turns and walks off. Picard follows her, doggedly determined to get those photos.
+BEVERLY: The occipital fracture is widening. we're going to have to fuse the bones.
+DOCTOR: I'm a little worried about some of these bone fragments. If they move any closer to the brain, we could be looking at a hemorrhage.
+PICARD: Were the two of you. involved?
+RUBY: No. not like you and Doctor Crusher used to be.
+PICARD: ( surprised ) How did you know about that?
+RUBY: I didn't. We can't take any more X-rays until I can mix up a new batch of the silver halide.
+RUBY: ( to Doctor ) We can't take any more X-rays until I can mix up a new batch of the silver halide.
+DOCTOR: Can you do it tonight? We may have to operate.
+RUBY: Sure. It'll be ready by morning. Ruby. I need to talk to you about those photographs. It's very important.
+PICARD: Ruby. I need to talk to you about those photographs. It's very important.
+RUBY: I'm sure it is. But it'll have to wait until tomorrow.
+PICARD: It can't wait until tomorrow.
+RUBY: Too bad. Besides, it'll give you all night to think up a new set of lies.
+WORF: ( to team ) Double check each assault phaser. make certain that the range setting is no more than thirty meters. We don't want to blast through the hull.
+SECURITY OFFICER: Are you sure you don't want something a little more. sophisticated, sir?
+WORF: Mind your post, Lieutenant.
+RIKER: ( to com ) Riker to Engineering. Mister Worf.the Borg are approaching your position.
+WORF: ( calls out ) Charge weapons!
+TROI: They're bypassing Engineering.
+RIKER: Where the hell are they going?
+BORG QUEEN: You've taken your first step toward perfection. How does it I do not know what you are referring to.
+DATA: I do not know what you are referring to.
+BORG QUEEN: That's because you haven't been properly. stimulated yet. Do you know what this is, Data?
+BORG QUEEN: ( re: flesh ) Do you know what this is, Data?
+DATA: It would appear that you are attempting to graft organic skin onto my endo-skeletal structure.
+BORG QUEEN: What a cold description. for such a beautiful gift.
+BORG QUEEN: Was that good for you?
+DATA: It was. interesting.
+DATA: Do it again. please.
+RUBY: You should pay closer attention to those little red lights.
+RUBY: You know, I'd be perfectly justified in shooting you right
+PICARD: I'd say you already have.
+RUBY: Don't flatter yourself. I take pictures of a lot of junk. Okay, let's hear it. I'm sure you have a great explanation for why those rocket photos are so important you broke into my house.
+RUBY: Okay, let's hear it. I'm sure you have a great explanation for why those rocket photos are so important you broke into my house.
+PICARD: We're trying to repair Doctor Cochrane's ship. It's been damaged and
+RUBY: Myself. and a few other friends of Zephram's.
+PICARD: Myself. and a few other friends of Zephram's.
+RUBY: Friends from Cornell.
+PICARD: Lie. That's one. Keep going.
+RUBY: Lie. That's one. Keep going.
+PICARD: A key piece of the ship has been destroyed. and our only hope to reconstruct it is if one of your photographs shows us what it looked like.
+RUBY: ( considers ) All right. Truth. I believe that one. Why is it so urgent you couldn't wait until morning?
+PICARD: We have to launch his ship by tomorrow afternoon.
+RUBY: Picard has to come up with something decides to throw her off with a high-tech explanation.
+PICARD: Or the shielding around the plutonium core will begin to deteriorate. Within a day, the entire silo will become so radioactive that no one will be able to come near it for a hundred
+RUBY: Lie. That's two. One more, and I pull the trigger.
+PICARD: Why are you being so difficult? All I'm asking for is to look at one of the photographs. It'll take five minutes.
+RUBY: And all I'm asking for is the truth. That would take five For all I know, you caused the explosions at the silo. and now you're trying to steal Zephram's I am not a thief.
+PICARD: I am not a thief.
+RUBY: No, you're a petty burglar and a You're no friend of Zephram's. He is a great man. He's not like you or me or any of the other zombies walking around this town.
+PICARD: No. He's a man with vision. He can see beyond the problems that surround us. He knows there's a better future out there for everyone. a future where crime, poverty and war are things of the past. a future where we reach out and seek our destiny in the I believe in that future, too, Ruby. I believe in it in every fiber of my being. And I'm telling you. if we don't launch that warp ship tomorrow, there's a very good chance that future will never happen.
+PICARD: You won't regret this.
+RIKER: What are they doing?
+WORF: They appear to be modifying the deflector dish.
+TROI: To do what? If they wanted a weapon, they could've taken over a phaser bank or torpedo bay.
+RIKER: Deflector dish. why the deflector dish.?
+WORF: It doesn't make sense. The deflector is only used for shielding and long range
+RIKER: Computer magnify grid twenty- one alpha. They're re-routing the deflector power conduits.
+WORF: They're re-routing the deflector power conduits.
+RIKER: Computer thermal enhancement.
+RIKER: They're connecting the conduits to subspace communications.
+WORF: ( realizing ) They're converting the deflector dish into an antennae.
+TROI: They may be trying to send a message to the other Borg.the Borg in this time period.
+WORF: What kind of message?
+RIKER: ( thinking ) If it was me. I'd say "attack Earth now. in the 21st century. they'll be too strong in the 24th."
+WORF: We have to stop them from sending that message.
+RIKER: Agreed. Options?
+WORF: Destroy the deflector dish.
+TROI: Can we aim our dorsal phasers at
+RIKER: We've lost control of all weapons systems. Transporters are down. we can't get to a Shuttlecraft. and it would take us too long to fight our way down to deflector control.
+WORF: There is another way, Commander. Do you remember your zero-G combat
+RIKER: I remember it made me sick.
+TROI: ( to Worf ) What are you suggesting?
+RIKER: I think Mister Worf is suggesting that we go outside for a little
+GEORDI'S VOICE: I'm almost afraid to say this, Captain. but I think it's going to work.
+PICARD: Where's you get the alloy for the throttle itself?
+GEORDI: They used copper pipes in their plumbing. so I melted it down. and fused it with some tritanium from one of our phaser casings. It's not the strongest alloy. but it's better than all this crude aluminum and steel.
+PICARD: Mister Lange have you brought the computer systems back on-line Aye, Captain. This trinary language is pretty archaic. but I think I understand it now.
+LANGE: Aye, Captain. This trinary language is pretty archaic. but I think I understand it now.
+PICARD: As they speak, CAMERA MOVES in on the metal canister of lotion Picard set on the desk earlier.
+PICARD'S VOICE: Are we on schedule? The Vulcan ship will be here in less than two It'll be tight, but we should make What about our warp signature? It has to be strong enough for them to detect.
+GEORDI'S VOICE: It'll be tight, but we should make What about our warp signature? It has to be strong enough for them to detect.
+PICARD'S VOICE: What about our warp signature? It has to be strong enough for them to detect.
+GEORDI'S VOICE: I've enhanced the plasma injectors don't worry, they'll see it.
+PICARD'S VOICE: Well, with any luck. the Vulcans will land outside Resurrection tomorrow morning. and Earth will never be the same again.
+PICARD: All right. I'd better start familiarizing myself with the flight controls.
+LANGE: Doctor Crusher's at the access hatch, Captain.
+PICARD: Let her in.
+COCHRANE: Let me get this straight. you're from the future. I'm about to change history. and all I have to do is sit here and let you fly my ship?
+PICARD: That's right.
+COCHRANE: And people say I'm crazy.
+PICARD: I assure you, Doctor, that after today. no one will ever call you that again.
+COCHRANE: Just do me a favor. bring my ship back in one piece.
+PICARD: That's a promise.
+GEORDI: Doctor. my name is Geordi La Forge. I'm an engineer. Can I shake your hand?
+COCHRANE: I wish I could go with you. Is there anything I can do to help?
+GEORDI: Not really. but I do have about a thousand questions I've always wanted to ask you.
+COCHRANE: Since time is short. why don't you pick the top ten and fire
+PICARD: ( surprised ) You actually performed surgery.?
+BEVERLY: It was an experience. Metal scalpels. needle and thread.
+BEVERLY: ( re: device ) But I had a little help. Surgical transporter. I used it to beam out most of the bone fragments from his brain.
+PICARD: How did Doctor Almack react to He was so confused by what I was doing, I don't think he even Any word from the Enterprise?
+BEVERLY: He was so confused by what I was doing, I don't think he even Any word from the Enterprise?
+PICARD: Not yet.
+BEVERLY: You think they're still up there?
+PICARD: ( wry ) If they're not. we'd better get used to living in Montana.
+BEVERLY: ( light ) That might not be so bad. at least for you.
+PICARD: What's that supposed to mean?
+BEVERLY: I saw the way you looker at her. and I know that look.
+PICARD: Regardless of how I may feel about Ruby. our fates lie along different paths. Nothing can change that.
+BEVERLY: You want some advice? Don't do this again. You know exactly what I mean.
+PICARD: Beverly, there were many reasons why you and I.
+BEVERLY: I'd call them excuses. And the first excuse on both our lists was our "sense of duty." We convinced ourselves that it was more important than anything else. And you know what? It's not.
+PICARD: ( neutral ) I have a ship to launch.
+BORG QUEEN: How do you feel?
+DATA: The Borg Queen descends closer. Data's arms are now free, but he is still restrained on the table. The rest of his body is still android, mechanical. Data touches his two hands together, feeling the sensations, flesh against machine. He touches his face and lips, discovering himself in a totally new way.
+DATA: My internal sensors tell me the ambient temperature in the room is ten point two degrees Celsius. But my skin tells me it is cold.
+DATA: My visual acuity has been reduced by seventy-eight percent. and I can no longer perceive light beyond the ultraviolet or the But I can see.
+BORG QUEEN: Until today. your emotions were trapped inside an artificial shell. You didn't know what it was to truly feel. And there's so much more for you to experience. I will guide you into a world of sensation unlike anything you can imagine. All you have to do. is give us access to your neural net.
+DATA: No. I will not betray my friends.
+BORG QUEEN: They're not your friends. they've held you back. kept you from your destiny.
+DATA: That is not true. They have tried to help me.
+BORG QUEEN: Have they given you what I have given you? Did they even try?
+DATA: I. do not want this.
+BORG QUEEN: You're becoming more human all the time, Data. Now you're learning how to lie.
+DATA: I wish to. go back to the way I More lies.
+BORG QUEEN: More lies.
+BORG QUEEN: Have you ever know a woman? Do you know what it's like to feel her breath on your face. her skin against yours. flesh against flesh?
+DATA: My creator did not intend for me to experience these things.
+BORG QUEEN: I'm your creator now.
+WORF: ( to Riker ) You will have to realign the targeting array of the quantum torpedo. and reprogram the warhead for the localized ( beat ) There's only one torpedo left.
+RIKER: I guess I'd better get it right the first time.
+WORF: ( to all ) The Borg will undoubtedly attack. Set phasers to rotating
+RIKER: Everyone nods. Riker goes to a wall panel and activates the control. The Airlock door seen earlier OPENS. Riker turns back to Troi.
+TROI: Good luck.
+RIKER: Worf hits a control and the room DEPRESSURIZES with a
+WORF: ( to others ) Activate magnetic constrictors.
+WORF: ( to Riker ) Are you alright?
+RIKER: Just a little queasy.
+WORF: Try not to look at the stars. keep your eyes on the ship.
+RIKER: And Commander, whatever you do. do not vomit in your exo-suit. It would be. unpleasant.
+WORF: And Commander, whatever you do. do not vomit in your exo-suit. It would be. unpleasant.
+RIKER: I'll keep that in mind.
+RIKER: ( to all ) Over and under!
+RIKER: Worf! I'm going to need at least five minutes!
+WORF: Worf and his team lie down on the hull and begin exchanging fire with the approaching mass of Borg. They pick off a few Borg, who also go FLYING into space. As Riker begins to work.
+GEORDI'S VOICE: ATR setting.
+PICARD'S VOICE: GEORDI'S VOICE
+GEORDI'S VOICE: Main bus.
+PICARD'S VOICE: GEORDI'S VOICE
+GEORDI'S VOICE: Initiate pre-ignition sequence. spewing nitrogen gas.
+LANGE: ( off console ) Acknowledged, Phoenix. You're on internal power and ready for lift- Final launch sequence checks. complete. Ready to begin final ( works ) Understood. Begin five minute countdown on your mark.
+LANGE: ( works ) Understood. Begin five minute countdown on your mark.
+PICARD: Ready to make a little history?
+GEORDI: Always am.
+PICARD: Phoenix to control. Initiating five minute countdown. mark.
+GEORDI: We can't let her in. she'll see Cochrane isn't making the flight.
+PICARD: We can't leave her out there. When the ship launches. she'll be killed.
+GEORDI: Tell her to go back to She's a very. determined woman. Phoenix to control. Mister Lange. let her in.
+PICARD: She's a very. determined woman. Phoenix to control. Mister Lange. let her in.
+LANGE: Ms. Sloane, if you'll have a seat, I'll let you talk to
+WORF: Commander, you're five minutes are
+COM OFFICER: The Borg are charging the subspace How long until they can send a About seven or eight minutes.
+TROI: How long until they can send a About seven or eight minutes.
+COM OFFICER: About seven or eight minutes.
+TROI: Computer this is Commander Deanna Troi. Initiate self- destruct in six minutes, thirty seconds. Authorization Troi, gamma six five. Enable.
+COMPUTER VOICE: Countdown underway. Self-destruct in six minutes, twenty-five
+SERGEANT: No good, sir. They're on internal power. We can't stop the launch from here.
+SCRIMM: ( re: blast doors ) What about these doors?
+PRIVATE: They're locked down tight from the And those doors were made to withstand a nuclear attack.
+SERGEANT: And those doors were made to withstand a nuclear attack.
+GEORDI: One minute to launch.
+SCRIMM: Say hello.
+RUBY: ( to com ) Jean-Luc. remember that future we talked about? It's all that ( beat ) Launch the ship.
+SCRIMM: Go ahead launch it. Ruby will be here when you get back. but she won't have a whole lot to say.
+GEORDI: ( to com ) This is Picard. I've suspended the launch sequence.
+PICARD: ( to com ) This is Picard. I've suspended the launch sequence.
+GEORDI: Captain. we've got less than ten minutes before that Vulcan ship leaves the system. We've got to go now.
+PICARD: It'll have to wait. Come on.
+PICARD: Geordi, can you see into the room?
+GEORDI: No. the door's too thick.
+PICARD: ( frustrated ) Then we'll just have to assume it's still there.
+GEORDI: What's still there?
+PICARD: Get a tricorder. You're going to have to track my exact position in that room.
+COMPUTER VOICE: Self-destruct in three minutes.
+PICARD: What do you want?
+SCRIMM: The invasion plans.
+PICARD: These people you're calling "Vulcans". who are they? Where do they come from? How many troops? What kind of weapons?
+SCRIMM: These people you're calling "Vulcans". who are they? Where do they come from? How many troops? What kind of weapons?
+ENSIGN: ( off console ) Tractor beam engaged. We've got 'em, Commander.
+TROI: Prismify the beam. Get rid of that Borg.
+RIKER: ( to himself ) Don't look at the stars. don't look at the stars.
+PICARD: ( firm ) There is no invasion.
+SCRIMM: Wrong answer, Mister Picard. Try
+PICARD: All right. You want the truth. The Vulcans. are highly intelligent aliens.
+PICARD: From another planet. Oh, I almost forgot. they have green blood and pointed ears.
+SCRIMM: ( skeptical ) And you know all this. because you're a space-man too.
+PICARD: I'm afraid you've caught me. I am a space-man.
+RUBY: ( quiet ) Truth. he's telling the truth.
+SCRIMM: You're an entertaining man, Mister Picard. But you're also full of
+PICARD: Now, Geordi!
+PICARD: Everyone is in the room stunned by what's happened. Picard takes charge before anyone can recover.
+PICARD: ( continuing ) Now, tell your men to drop their Weapons. down.
+SCRIMM: Weapons. down.
+PICARD: Are you all I think you have a plane to catch.
+RUBY: I think you have a plane to catch.
+COMPUTER VOICE: Self-destruct in fifeteen seconds. fourteen. thirteen. twelve.
+COMPUTER VOICE: Nine. eight. seven.
+GEORDI: Solid rocket fuel at twenty-five thousand kilograms.
+PICARD: Altitude fifty kilometers.
+GEORDI: Entering the upper ionospere.
+PICARD: There's a red light on the second intake valve.
+GEORDI: Ignore it. We'll be fine. Prepare for first stage shut-down and separation on my mark.
+GEORDI: Three. two. one. mark!
+BORG QUEEN: A Borg in all but name.
+DATA: ( weak ) I am. grateful for what you have given me. But I still do not wish to be assimilated.
+BORG QUEEN: A universe of sensation is waiting for you. don't you want to explore it. with me? Then take the final step. give me the Enterprise. and we can be together. always.
+DATA: BORG QUEEN
+BORG QUEEN: Then take the final step. give me the Enterprise. and we can be together. always.
+DATA: No. I cannot.
+BORG QUEEN: I've deactivated the sensory inputs. That flesh on your body is just meat, now.
+DATA: No. no, please. you cannot. You must give me what I want. now. Without the deflector dish, we can no longer send for an early invasion. We must assimilate Earth ourselves. I need this
+BORG QUEEN: You must give me what I want. now. Without the deflector dish, we can no longer send for an early invasion. We must assimilate Earth ourselves. I need this
+BORG QUEEN: Isn't it better like this.?
+DATA: Yes. but the Enterprise. my . is to yourself. Don't make me hurt you again.
+BORG QUEEN: . is to yourself. Don't make me hurt you again.
+DATA: No. no, it's so. empty. please. give it back. I need And I need to control this ship. Let me into your mind. In order to access my neural net. you will need to create a positronic interface. I will tell you how.
+BORG QUEEN: And I need to control this ship. Let me into your mind. In order to access my neural net. you will need to create a positronic interface. I will tell you how.
+DATA: In order to access my neural net. you will need to create a positronic interface. I will tell you how.
+GEORDI: Ready to deploy the warp nacelles.
+PICARD: As they used to say. all systems are go.
+GEORDI: The Vulcans should be out there right now. We need to break the warp barrier in the next five minutes if we're going to get their attention.
+PICARD: Bring the warp core on-line. I'll lay in a heading.
+GEORDI: The nacelles are charged. nuclear warhead standing by. We're ready to ignite the warp
+PICARD: 217 EXT. SPACE - THE PHOENIX 217
+GEORDI: Warp field looks good. structural integrity holding.
+PICARD: ( off monitor ) Speed. twenty thousand kilometers per second.
+TROI: I have to admit there was a moment there when
+RIKER: ( holds up a hand ) Hold that thought.
+WORF: Strong heart. Weak stomach.
+RIKER: We've lost Bridge control!
+WORF: We've lost Bridge control!
+RIKER: Emergency override!
+WORF: ( works )
+DATA: ( to Queen ) I am re-routing Bridge command functions to this location. Eliminate their remaining defenses. I will send Borg to assimilate the rest of the crew.
+BORG QUEEN: Eliminate their remaining defenses. I will send Borg to assimilate the rest of the crew.
+DATA: ( reacts ) There is a perimeter alert. A ship has entered sensor range.
+BORG QUEEN: Data tilts his head and
+DATA: Data tilts his head and
+BORG QUEEN: ( reacts, to Data ) Give me helm control.
+PICARD: Passing one-half light speed. The starboard nacelle's running a little hot.
+GEORDI: I'm on it.
+GEORDI: The inertial dampers are having trouble compensating. I don't think Cochrane built this thing for comfort.
+PICARD: Speed two hundred, seventy-five thousand kilometers per second.
+GEORDI: There's no temporal shielding in here! We're starting to pick up relativistic effects!
+PICARD: One minute to warp threshold.
+GEORDI: Captain, the Enterprise!
+PICARD: ( taps combadge ) Picard to Enterprise. ( beat ) Picard to Enterprise do you read me?
+PICARD: Their com system must still be Well, I feel a whole lot better with them out there. We may need some help.
+GEORDI: Well, I feel a whole lot better with them out there. We may need some help.
+DATA: I have repaired the weapons array. Phasers are on-line. The targeting lock isn't working.
+BORG QUEEN: The targeting lock isn't working.
+DATA: I do not understand. The optical data network has been repaired, and all systems are functioning.
+BORG QUEEN: Your diagnostics are in error. I need weapons.
+DATA: ( thinks ) The problem must lie in the interface between Starfleet and Borg technology. Your console may not be configured to handle the data flow.
+BORG QUEEN: Can you configure it?
+DATA: I believe so.
+BORG QUEEN: Do it.
+PICARD: Approaching light speed.
+GEORDI: They're getting awfully close. what the hell are they doing?
+PICARD: We're crossing the threshold!
+DATA: I believe I see the problem.
+BORG QUEEN: ( screams )
+PICARD: Bring us about.
+GEORDI: Dropping out of warp.
+PICARD: Let's begin the landing procedure.
+BORG QUEEN: ( fritzed )
+PICARD'S VOICE: Isn't anyone going to say welcome
+BEVERLY: Did it work?
+COCHRANE: Mister La Forge. now I'd like to shake your hand.
+PICARD: Doctor Cochrane. this is your
+COCHRANE: My God. they're really from another world?
+PICARD: That's right. And they're going to want to meet the man who flew that warp ship.
+COCHRANE: And that's supposed to be me.
+PICARD: Zephram, you had the vision to build that ship when no one else on this planet could see beyond their own problems. You flew that ship. all I did was push a few buttons. All right. And don't worry I'll keep your
+COCHRANE: All right. And don't worry I'll keep your
+VULCAN: Live Long and Prosper.
+COCHRANE: Um. thanks.
+RIKER: Riker to Enterprise. Five to beam
+RUBY: You're leaving, aren't you?
+PICARD: I have to.
+RUBY: Where? And don't tell me San No. It's a lot further than that.
+PICARD: No. It's a lot further than that.
+RUBY: It's the future, isn't it? Just like you told Scrimm. I knew you weren't from around No. I'm from France.
+PICARD: ( with humor ) No. I'm from France.
+RUBY: I don't care if you're from France or Venus. just take me with you.
+PICARD: That's impossible.
+RUBY: This may be hard for you to understand. but I'm duty-bound not to interfere with you, or anyone else here. any more than is absolutely necessary.
+PICARD: This may be hard for you to understand. but I'm duty-bound not to interfere with you, or anyone else here. any more than is absolutely necessary.
+RUBY: You've been interfering with my life ever since I met you. Don't stop now.
+PICARD: Ruby. I'm sorry. But our fates lie along different
+PICARD: Picard to Enterprise. One to.
+PICARD: To hell with fate.
+PICARD: Enterprise. Two to beam up.
+PICARD: How's Mister Data?
+RIKER: He's in Sickbay. Doctor Crusher says he can be repaired. but we have to wait until we.
+PICARD: Return to our own time?
+RIKER: Yes, sir.
+PICARD: Then make it so. Have you determined how to recreate the temporal vortex?
+RIKER: Yes, sir. But Captain. are we. all going back?
+PICARD: Unless you'd like to stay.
+RIKER: No, sir.
+RIKER: Bridge to Engineering. Mister La Forge. initiate the temporal
+WORF: Incoming transmission from Starfleet Command. Admiral Hayes.
+PICARD: 269 INCLUDE VIEWER 269
+PICARD: Admiral. what's the status of the Borg fleet?
+ADMIRAL HAYES: It's been destroyed. The Borg threat is over. Are you all right? The Enterprise disappeared from our sensors for a moment.
+PICARD: We're fine, sir. It will take some. time to explain.
+ADMIRAL HAYES: I look forward to reading your That makes two of us.
+RUBY: That makes two of us.
+GEORDI: ( to a couple of N.D.s ) No, no we'll have to rip out this entire bulkhead. We'll need new bracing members for the deck above and below.
+GEORDI: Geordi moves to him, puts a hand on his shoulder.
+GEORDI: You look good as new.
+DATA: You could say that I'm back to my old self.
+GEORDI: That's great. Her remains. are they still
+DATA: Her remains. are they still
+GEORDI: I'm sending them to the Daystrom Institute for analysis.
+DATA: I never realized how powerful an emotion temptation could be.
+GEORDI: Temptation? You said in your report it was all a ruse. you were manipulating her.
+DATA: She was. a unique lifeform. In her own way. nearly perfect.
+GEORDI: ( joking ) It almost sounds like you miss
+PICARD: Welcome home.
+ROLL CREDITS: THE END Writers : Ronald Moore Brannon Braga
+THE END: Writers : Ronald Moore Brannon Braga

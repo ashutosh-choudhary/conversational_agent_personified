@@ -1,95 +1,90 @@
+BLADE RUNNER: Screenplay by
+HAMPTON FANCHER: July 24, 1980 Brighton Productions Inc.
 LEON: Okay if I talk?
 LEON: I kinda get nervous when I take tests.
 HOLDEN: Don't move.
-LEON: Sorry.
-LEON: Already had I.Q. test this year -- but I don't think I never had a...
-HOLDEN: (cutting in) Reaction time is a factor in this, so please pay attention.  Answer quickly as you can.
-HOLDEN: You're in a desert, walking along in the sand when all of a sudden you look down and see a...
+LEON: He tries not to move but finally his lips can't help a sheepish smile.
+LEON: Already had I.Q. test this year but I don't think I never had a.
+HOLDEN: ( cutting in ) Reaction time is a factor in this, so please pay attention. Answer quickly as you can. You're in a desert, walking along in the sand when all of a sudden you look down and see a.
+HOLDEN: You're in a desert, walking along in the sand when all of a sudden you look down and see a.
 LEON: What one?
-HOLDEN: What?
+HOLDEN: What desert?
 LEON: What desert?
-HOLDEN: Doesn't make any difference what desert -- it's completely hypothetical.
+HOLDEN: Doesn't make any difference what desert it's completely But how come I'd be there?
 LEON: But how come I'd be there?
-HOLDEN: Maybe you're fed up, maybe you want to be by yourself -- who knows.  So you look down and see a tortoise.  It's crawling towards you...
-LEON: A tortoise.  What's that?
+HOLDEN: Maybe you're fed up, maybe you want to be by yourself who knows. So you look down and see a tortoise. It's crawling towards you.
+LEON: A tortoise. What's that?
 HOLDEN: Know what a turtle is?
 LEON: Of course.
 HOLDEN: Same thing.
 LEON: I never seen a turtle.
 LEON: But I understand what you mean.
-HOLDEN: You reach down and flip the tortoise over on its back, Leon.
+HOLDEN: You reach down and flip the tortoise over on its back, Leon. You make these questions, Mr. Holden, or they write 'em down for you?
 LEON: You make these questions, Mr. Holden, or they write 'em down for you?
-HOLDEN: The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over.  But it can't.  Not without your help.  But you're not helping.
+HOLDEN: The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over. But it can't. Not without your help. But you're not helping.
 LEON: Whatcha mean, I'm not helping?
 HOLDEN: I mean you're not helping! Why is that, Leon?
-DECKARD (V.O.): It was 97 degrees in the city and no hope of improvement.  Not bad if you're a lizard.  But two hours earlier I was drinking Acquavit with an Eskimo lady in North East Alaska.  That's a tough change to make.  It was so good, I didn't want to leave, so I left a day early.
-DECKARD: Contact.  This is Blade Runner One calling Com-fast 27.
+DECKARD: Contact. This is Blade Runner One calling Com-fast 27.
 VOICE: Blade Runner One, stand by please.
-VOICE: Deckard.
+VOICE: Yah, Gaff.
 DECKARD: Yah, Gaff.
-GAFF (VOICE): Where the hell you been?
-DECKARD: You know where I been.  I been on vacation.
+DECKARD: You know where I been. I been on Next time you go on vacation, do me a favor, let us know where it is.
 GAFF: Next time you go on vacation, do me a favor, let us know where it is.
 DECKARD: What's up?
 GAFF: Holden got hit.
-DECKARD: Bad?
-GAFF: Severed spine.  You'd better get in here.  Bryant's waiting for you.
+DECKARD: Severed spine. You'd better get in here. Bryant's waiting for you.
+GAFF: Severed spine. You'd better get in here. Bryant's waiting for you.
 DECKARD: I'll see you in a minute.
-DECKARD (V.O.): I-X-4-P-D referred to as a Nexus-6, The Tyrell Corporation's new pride and joy.  Holden was administering the Voight-Kampff test when one nailed him.
-DECKARD (V.O.): The Nexus-6 must be fast because Holden was as quick as they come. The report said there were six of them.  Three males and three female. Led by a combat model called Roy Batty.
-DECKARD (V.O.): They escaped from the colonies two weeks ago.  Killed twenty- three people and jumped a shuttle. An aerial patrol found the ship in the desert.  No crew.
-DECKARD (V.O.): Bryant's got a liver problem.  A couple years back he handed me a bottle and said have a drink for another man.  I been drinking for him ever since.
 DECKARD: Six, huh?
-BRYANT: Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field.
+BRYANT: Five. Three nights ago one of them managed to break into the Tyrell Corporation. Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- What was he after?
 DECKARD: What was he after?
-BRYANT: There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one.
+BRYANT: There wasn't much left of him, so we can't be sure. But bio- chemical data and morphology records of the Nexus-6 were reported missing. Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees. Guess he found himself one.
 DECKARD: You got a machine on it yet?
-BRYANT: We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city.
+BRYANT: We're using Esper a 231 that picked up Holden's alarm. Its guess is that all five are in the city.
 DECKARD: Where do we start?
-BRYANT: The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek.
+BRYANT: The Tyrell Corporation has a demo model. Check it out on the Voight-Kampff. There's a chance the Nexus-6 is beyond out ability to detect. If that's the case, everybody's up shit creek.
 DECKARD: What was the cover on the one that got Holden?
 BRYANT: Industrial refuse.
 DECKARD: Garbage man?
-DECKARD: Did personnel have an address on him?
+DECKARD: Did personnel have an address on
 DECKARD: I'll go take a look.
-DECKARD: Thanks.
-DECKARD (V.O.): The big incentive to emigrate was still free labor.  If the public found out that their door-prizes might kill them, they might not be so hot to go up there.  This was one of the worst one's we had and Bryant was worried.  He wanted to tell me to be discrete or something. But I didn't give him a chance.
-ANNOUNCER'S VOICE: Choose from a variety of seventy nine different personality types. Each and every one a loyal trouble- free companion given to you upon your arrival absolutely free...
-ANNOUNCER'S VOICE: To use as personal body servant to tireless field hand -- the custom tailored humanoid robot, designed especially for your needs.
+DECKARD: Like a sick boy looking out of the window, Bryant watches Deckard down the whiskey. Deckard puts down the glass and turns to leave.
+ANNOUNCER'S VOICE: Choose from a variety of seventy nine different personality types. Each and every one a loyal trouble- free companion given to you upon your arrival absolutely free. To use as personal body servant to tireless field hand the custom tailored humanoid robot, designed especially for your
+ANNOUNCER'S VOICE: To use as personal body servant to tireless field hand the custom tailored humanoid robot, designed especially for your
 BATTY: Did you get your precious 'things'?
 LEON: Somebody was already there.
-BATTY: Police.
+BATTY: Just a man.
 LEON: Just a man.
 BATTY: Police man.
 BATTY: Why don't you have a seat.
 BATTY: Enjoy the view.
-CHEW: Well, you're right.  This little honey has a couple of defective cones.
-CHEW: You're a regular perfectionist, Sebastian.
-SEBASTIAN: It's gotta be right for my customer.
+CHEW: Well, you're right. This little honey has a couple of defective cones.
+CHEW: You're a regular perfectionist,
+SEBASTIAN: It's gotta be right for my Your customer, eh?
 CHEW: Your customer, eh?
 CHEW: You got a pocket-charger, boy?
-CHEW: Is that good enough for your customer?
+CHEW: Is that good enough for your
 CHEW: How much is he paying you?
 CHEW: Well, when do you get paid?
 SEBASTIAN: Soon as I finish the job.
 CHEW: When might that be?
 SEBASTIAN: Day after tomorrow.
-CHEW: Oh!  Day after tomorrow.
-CHEW: The rich hate to pay, Sebastian. A guy like Tyrell keeps you waiting. Pay the little guy last.  You should charge twice as much.  It'll make him feel better.
+CHEW: Oh! Day after tomorrow.
+CHEW: The rich hate to pay, Sebastian. A guy like Tyrell keeps you waiting. Pay the little guy last. You should charge twice as much. It'll make him feel better.
 SEBASTIAN: Thanks, Mr. Chew.
-SEBASTIAN: Hey!  You forgot your...
+SEBASTIAN: Hey! You forgot your.
 SEBASTIAN: How come you were in my truck?
 PRIS: I was tired and didn't have any place to go.
-SEBASTIAN: You can get back in if you want...
+SEBASTIAN: You can get back in if you want.
 SEBASTIAN: Don't worry, I won't hurt you.
 SEBASTIAN: What's your name?
-PRIS: Pris.
+PRIS: Mine's J.F. Sebastian.
 SEBASTIAN: Mine's J.F. Sebastian.
-PRIS: Hi.
-SEBASTIAN: Oh!  Where do you want to go?
+PRIS: So pleased with the way that went, he forgets for a while what comes next.
+SEBASTIAN: Oh! Where do you want to go?
 SEBASTIAN: You want to go home?
 PRIS: I don't have one.
-SEBASTIAN: Oh.
+SEBASTIAN: What do you do with a teenage beauty who looks like she's lost out of some "Welcome to Sunny Arizona"
 SEBASTIAN: Where are your folks?
 PRIS: They left.
 SEBASTIAN: What about friends?
@@ -98,97 +93,95 @@ SEBASTIAN: Well, where should I take you?
 PRIS: We scared each other pretty good didn't we?
 SEBASTIAN: We sure did.
 PRIS: I'm hungry, J.F.
-SEBASTIAN: I've got stuff.  If you wanna go to my place?
+SEBASTIAN: I've got stuff. If you wanna go to my place?
 PRIS: I was hoping you'd say that.
-DECKARD (V.O.): Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot.
-ESPER: This is Esper and I'm ready.  Go ahead please.
+REQUEST: Deckard punches up. Letters flash across the screen:
+ESPER: Screen flashes back:
+CLEARANCE: Deckard punches up.
+ESPER: This is Esper and I'm ready. Go ahead please.
 DECKARD: You equipped for random questions?
 ESPER: Why, yes, of course.
 DECKARD: You start.
-ESPER: The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me?
+ESPER: The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program. Are you with me?
 DECKARD: How do I stop one?
-ESPER: Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,
-DECKARD: Okay, but...
-ESPER: I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement.
+ESPER: Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another. Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,
+DECKARD: Okay, but.
+ESPER: I'm coming to that. Vulnerable zone is the base of the skull, the occipital bone. A direct hit is a positive retirement.
 VOICE: You are in violation of traffic ordinance M-139 statutory freeway limit restricted by one-hundred and eighty kilometers.
-SEBASTIAN: Oh!
+SEBASTIAN: Pris is light on her feet. She's standing behind him with a half-eaten sandwich in her hand.
 PRIS: Whatcha doin'?
 SEBASTIAN: You scared me.
 SEBASTIAN: I'm working.
-SEBASTIAN: You look... better.
+SEBASTIAN: You look. better.
 PRIS: Just better.
-SEBASTIAN: Beautiful.
-PRIS: Thanks.
+SEBASTIAN: He watches her as she prowls around the room, looking at this and that, eating her sandwich.
+PRIS: He watches her as she prowls around the room, looking at this and that, eating her sandwich.
 PRIS: And you live in this building all by yourself?
-SEBASTIAN: Yeah, I live here pretty much alone right now...
-SEBASTIAN: No housing shortage around here... plenty of room for everybody.
+SEBASTIAN: Yeah, I live here pretty much alone right now.
+SEBASTIAN: No housing shortage around here. plenty of room for everybody.
 PRIS: How old are you?
-SEBASTIAN: Twenty.
+SEBASTIAN: What's your problem?
 PRIS: What's your problem?
 SEBASTIAN: Methuselah Syndrome.
 PRIS: What's that?
-SEBASTIAN: My glands.  They grow old too fast.
+SEBASTIAN: My glands. They grow old too fast.
 PRIS: Is that why you're still here?
-SEBASTIAN: Yes.  I couldn't pass the test.
+SEBASTIAN: Yes. I couldn't pass the test.
 PRIS: I like you just the way you are.
 SEBASTIAN: Ah, you get hold of your friends?
-PRIS: As a matter of fact I did.  They've got some work to do tonight, but they're gonna come tomorrow.
-SEBASTIAN: Good.
-SEBASTIAN: I can sleep on the couch.
+PRIS: As a matter of fact I did. They've got some work to do tonight, but they're gonna come tomorrow.
+SEBASTIAN: The implications catch up.
+SEBASTIAN: I can sleep on the couch. Don't let the bed bugs bite!
 MOUSE: Don't let the bed bugs bite!
-ESPER: Nexus designated Leon:  incept date April 10th, 2015 -- to be used in military experiments to determine how hyper metabolism functions in deep space. Nexus designated Batty incept data April 10th, 2015, combat model, level of self-sufficiency, optimum.
-ESPER: Here's something you might find interesting.  They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.
+ESPER: Nexus designated Leon: incept date April 10th, 2015 to be used in military experiments to determine how hyper metabolism functions in deep space. Nexus designated Batty incept data April 10th, 2015, combat model, level of self-sufficiency,
+ESPER: Here's something you might find interesting. They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.
 DECKARD: I know all that.
 ESPER: What about a summary then.
 DECKARD: I think we're through for the night.
-ESPER: Mr. Deckard.
-DECKARD: Yes?
-ESPER: Do you have something against science?
+ESPER: Mr. Deckard. Do you have something against Not if it works.
+DECKARD: Do you have something against Not if it works.
+ESPER: Do you have something against Not if it works.
 DECKARD: Not if it works.
 ESPER: And what in your estimation works?
 DECKARD: The umbrella.
-DECKARD (V.O.): Every government that could was racing to populate their colonial territory.  But emigrants needed incentive.  Over-population and the greenhouse factor didn't seem to be enough; but owning a human look-a-like had lots of appeal. It was big industry, the competition was stiff and Tyrell was top of the line.
-DECKARD (V.O.): His claim to fame was making a product more human than human and sometimes the 'more' turned out to be a problem.  This wasn't just an escaped andy who broke his owner's arm -- there were twenty-eight people dead and the pressure was on.
-DECKARD (V.O.): But so far they'd always managed to keep it quiet.  Not to say that once in a while there wasn't bad publicity.  Some fanatic bitching about equal rights for andies or an occasional trade union proclaiming it was aun-American for automatons to take jobs away from humans on the colony.
-DECKARD (V.O.): But what's more American than good old supply and demand?  The Government needed them, industry made them and the church backed them.  The big religious boys said that Androids, no matter how human, were objects; only God could make people. I'm not religious, but I was inclined to agree. Otherwise I'd be out of a job.
-RACHAEL: Hello, Mr. Deckard.  My name is Rachael.
+RACHAEL: Hello, Mr. Deckard. My name is
 RACHAEL: It seems your department doesn't believe out new unit is to the public benefit.
-DECKARD: A humanoid robot is like any other machine, it can be a benefit or a hazard.  If it's a benefit, it's not our problem.
-RACHAEL: But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem.  Correct, Mr. Deckard?
+DECKARD: A humanoid robot is like any other machine, it can be a benefit or a hazard. If it's a benefit, it's not our problem.
+RACHAEL: But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem. Correct, Mr.
 RACHAEL: You like our owl?
 DECKARD: It's artificial?
-RACHAEL: Of course not.
-RACHAEL: You're in a very unique position, Mr. Deckard.  You could affect the future of this entire organization according to how you work your little test.
+RACHAEL: Of course not. You're in a very unique position, Mr. Deckard. You could affect the future of this entire organization according to how you work your little test.
+RACHAEL: You're in a very unique position, Mr. Deckard. You could affect the future of this entire organization according to how you work your little test.
 RACHAEL: Are you apprehensive?
 DECKARD: Why should I be?
-RACHAEL: For the responsibility of your power.  Being a police bureaucrat, you've got more than your share.
-DECKARD: You got it wrong, girl.  I work with the bureau not for them.
-DECKARD: My job isn't to detect malfunctioning andies, it's to eliminate them.  The more the better.
-RACHAEL: Mr. Deckard.  Dr. Eldon Tyrell.
-TYRELL: How do you do, Mr. Deckard.  Please sit down.  Would you care for a cup of coffee?
-DECKARD: Thanks.
-TYRELL: Black?
-DECKARD: Please.
-TYRELL: Somehow, I didn't expect that the man who did the dirty work would be the man to do the technical work.  Here you are, Mr. Deckard.
+RACHAEL: For the responsibility of your power. Being a police bureaucrat, you've got more than your share.
+DECKARD: You got it wrong, girl. I work with the bureau not for them.
+DECKARD: My job isn't to detect malfunctioning andies, it's to eliminate them. The more the
+RACHAEL: Mr. Deckard. Dr. Eldon Tyrell.
+TYRELL: How do you do, Mr. Deckard. Please sit down. Would you care for a cup of coffee?
+DECKARD: Tyrell pours from an old time sylex into small china cups and hands one to Deckard. The congenial light in his eyes could almost pass for warmth dragon warmth.
+TYRELL: Tyrell pours from an old time sylex into small china cups and hands one to Deckard. The congenial light in his eyes could almost pass for warmth dragon warmth.
+DECKARD: Tyrell pours from an old time sylex into small china cups and hands one to Deckard. The congenial light in his eyes could almost pass for warmth dragon warmth.
+TYRELL: Somehow, I didn't expect that the man who did the dirty work would be the man to do the technical work. Here you are, Mr. Deckard.
 TYRELL: Is this to be an empathy test?
-DECKARD: Yes.
-TYRELL: Capillary dilation of the so-called blush response?  Plus fluctuation of the pupil, plus involuntary dilation of the iris?
+DECKARD: Capillary dilation of the so-called blush response? Plus fluctuation of the pupil, plus involuntary dilation of the iris?
+TYRELL: Capillary dilation of the so-called blush response? Plus fluctuation of the pupil, plus involuntary dilation of the iris?
 TYRELL: May I ask a personal question?
 DECKARD: Go ahead.
-TYRELL: Have you ever retired a human by mistake?
-DECKARD: No.
-TYRELL: But in your profession that is a risk.
-DECKARD: Nothing is infallible, but so far the Voight-Kampff scale bas been foolproof.
-TYRELL: Like you said, Mr. Deckard, a machine can be a hazard.  The Voight-Kampff scale is a machine, isn't it?
-DECKARD: One that relies on human interpretation.  Where's the subject?
+TYRELL: Have you ever retired a human by But in your profession that is a Nothing is infallible, but so far the Voight-Kampff scale bas been Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+DECKARD: But in your profession that is a Nothing is infallible, but so far the Voight-Kampff scale bas been Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+TYRELL: But in your profession that is a Nothing is infallible, but so far the Voight-Kampff scale bas been Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+DECKARD: Nothing is infallible, but so far the Voight-Kampff scale bas been Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+TYRELL: Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+DECKARD: One that relies on human interpretation. Where's the Sitting next to you.
 TYRELL: Sitting next to you.
-DECKARD'S VOICE: Ready.
-RACHAEL: Go ahead.
+DECKARD'S VOICE: Go ahead. You're given a calfskin wallet for your birthday.
+RACHAEL: Go ahead. You're given a calfskin wallet for your birthday.
 DECKARD: You're given a calfskin wallet for your birthday.
-RACHAEL: I wouldn't accept it.  Also, I'd report the person who gave it to me to the police.
-DECKARD: You have a little boy.  He shows you his butterfly collection, plus the killing jar.
+RACHAEL: I wouldn't accept it. Also, I'd report the person who gave it to me to the police.
+DECKARD: You have a little boy. He shows you his butterfly collection, plus the killing jar.
 RACHAEL: I'd take him to the doctor.
-DECKARD: You're watching T.V. and suddenly you notice a wasp crawling on your wrist.
+DECKARD: You're watching T.V. and suddenly you notice a wasp crawling on your I'd kill it.
 RACHAEL: I'd kill it.
 DECKARD: In a magazine you come across a full-page photo of a nude girl.
 RACHAEL: Is this testing whether I'm an android or a lesbian?
@@ -202,53 +195,53 @@ DECKARD: Why not?
 RACHAEL: That would be murder, Mr. Deckard.
 DECKARD: In your opinion.
 RACHAEL: It would be my child.
-DECKARD: Sounds like you speaks from experience.
-DECKARD: Last question.  You're watching an old movie.  It shows a banquet in progress, the guests are enjoying raw oysters.
-RACHAEL: Ugh.
+DECKARD: Sounds like you speaks from
+DECKARD: Last question. You're watching an old movie. It shows a banquet in progress, the guests are enjoying raw oysters.
+RACHAEL: Both needles swing swiftly.
 DECKARD: The entree consists of boiled dog stuffed with rice.
 DECKARD: The raw oysters are less acceptable to you than a dish of boiled dog.
 DECKARD: Lights please.
-TYRELL: Well?
+TYRELL: If she is, the machine works.
 DECKARD: If she is, the machine works.
-TYRELL: The machine works.  She is.
+TYRELL: The machine works. She is.
 TYRELL: How many questions did it take?
-DECKARD: Thirteen.
+DECKARD: Rachael sits rigidly in her chair, as the ground crumbles around her, her big mermaid eyes locked with Tyrell. His voice is quiet and strong, mesmerizing. She's hang- ing by a thread. Deckard watches with a bas taste in his mouth.
 DECKARD: She didn't know?
-TYRELL: Memory implant.  She was programmed. But I think she has transcended her conditioning.  I think she was beginning to suspect.
+TYRELL: Memory implant. She was programmed. But I think she has transcended her conditioning. I think she was beginning to suspect.
 TYRELL: How many questions does it usually take, Mr. Deckard?
 DECKARD: Five, maybe six.
 TYRELL: You're going to have to be on your toes, my friend.
 TYRELL: It's a complex problem and we wouldn't want anything to happen to you.
-TYRELL: For the good of all, I recommend you take Rachael with you. Considering her uniqueness, I'm sure she could prove quite helpful.
+TYRELL: For the good of all, I recommend you take Rachael with you. Considering her uniqueness, I'm sure she could prove quite helpful. No thanks.
 DECKARD: No thanks.
 TYRELL: And how is it one man will be able to cover so much ground?
-DECKARD: Discreetly.
-TYRELL: All pertinent information is being fed into your departmental computer, an Esper 231 -- I believe -- and a photo over-lay packet is being produced.
+DECKARD: All pertinent information is being fed into your departmental computer, an Esper 231 I believe and a photo over-lay packet is being produced.
+TYRELL: All pertinent information is being fed into your departmental computer, an Esper 231 I believe and a photo over-lay packet is being produced.
 TYRELL: Mr. Deckard, I think it would be wise to reconsider my offer.
 DECKARD: I work alone.
-VOICE: Let's keep our eyes on the road, Deckard.
-DECKARD'S VOICE: Sorry.
+VOICE: Let's keep our eyes on the road,
+DECKARD'S VOICE: Abruptly the VIEW FLASHES BACK TO:
 VOICE: Come on, stay with the machine.
-VOICE: We're going to have to start the sequence again if you don't stay with me, Deckard.  Concentrate.
+VOICE: We're going to have to start the sequence again if you don't stay with me, Deckard. Concentrate.
 DECKARD'S VOICE: How do you know I'm not?
-VOICE: You're not responding to the stimulus.  I can see right here, I'm not getting a reading.
+VOICE: You're not responding to the stimulus. I can see right here, I'm not getting a reading.
 DECKARD'S VOICE: I'm tired of this.
 VOICE: Almost through.
 DECKARD: So how did I do?
 WHEELER: Nerves of steel.
 DECKARD: No rust?
-WHEELER: I didn't say that.  Your motivity rate checked out a little slower than last time.
-DECKARD: Meaning?
+WHEELER: I didn't say that. Your motivity rate checked out a little slower than last time.
+DECKARD: Meaning you don't run as fast as you used to.
 WHEELER: Meaning you don't run as fast as you used to.
-WHEELER: During the road test...
-DECKARD: Yeah?
-WHEELER: Your mind kept wandering.  That bothered me.
+WHEELER: During the road test.
+DECKARD: Your mind kept wandering. That bothered me.
+WHEELER: Your mind kept wandering. That bothered me.
 DECKARD: Huh huh.
 WHEELER: Considering the nature of your work, that could be unhealthy.
-DECKARD: True.
+DECKARD: Wheeler studies his "desk" for a moment and his finger comes down on the section illuminating Deckard's simple Deckard bends over slipping on his shoes. Wheeler looks up, concerned.
 WHEELER: You got a birthday coming up.
-WHEELER: But you haven't put in for emigration.
-DECKARD: Nope.
+WHEELER: But you haven't put in for You're going to be over the limit.
+DECKARD: You're going to be over the limit.
 WHEELER: You're going to be over the limit.
 DECKARD: Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there.
 WHEELER: What if you change your mind?
@@ -260,159 +253,162 @@ WHEELER: Too old.
 DECKARD: But if you could?
 WHEELER: My job is here.
 DECKARD: Me too.
+NOON: Pris moving smoothly past the doors, some of them open and warped offering sights and shadow and decay.
+NOON: The gloom in here is like the light of the empty well. Her feet against the metal steps reverberate in the hollow silence.
+AFTERNOON: She's running now, down the hall, stops at the apart- ment directly above Sebastian's and opens the door.
+AFTERNOON: Mary turns her head as Pris comes in. She's sitting in a chair. The only piece of furniture in the room. It's broken and tilts at a funny angle. She nods and Pris nods back. Batty is lying on his back, rolling his head slightly from side to side like he's soothing a stiff neck.
 BATTY: What's going on down there?
 PRIS: He's not ready yet.
-BATTY: When?
+BATTY: Tomorrow, he says.
 PRIS: Tomorrow, he says.
 RACHAEL: Was that your dinner?
-RACHAEL: I'm sorry.  I called and found out you were on your way home.  These were already delivered to your department but I thought you should have copies as soon as possible.
-RACHAEL: It's the Nexus information you wanted.
-DECKARD: Thanks.
+RACHAEL: I'm sorry. I called and found out you were on your way home. These were already delivered to your department but I thought you should have copies as soon as It's the Nexus information you
+RACHAEL: It's the Nexus information you
+DECKARD: He realizes he's still got the gun aimed at her and sticks it back in his belt and they're left staring at each other. The situation makes awkward silence. At least for him. She's looking at him like she's got something to say but isn't saying it.
 DECKARD: Is there anything else?
 RACHAEL: I know you think it complicates your work, but I'm here to help.
 DECKARD: I've already got more help than I need.
 RACHAEL: I think you need more help than you've got.
-RACHAEL: There's two reasons a man rejects help.  Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it.
+RACHAEL: There's two reasons a man rejects help. Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it.
 DECKARD: Sounds like I'm an ass-hole either way, but the answer is still no.
 RACHAEL: Two of us might be more effective than one.
 DECKARD: I work alone.
 RACHAEL: No you don't.
 RACHAEL: You use your equipment, don't you?
-DECKARD: So?
+DECKARD: So, I'm a piece of equipment. Use me.
 RACHAEL: So, I'm a piece of equipment. Use me.
-DECKARD: That's okay, I'll get it...
+DECKARD: That's okay, I'll get it.
 RACHAEL: Do I make you nervous?
-DECKARD: Yeah.
+DECKARD: I'm sorry.
 RACHAEL: I'm sorry.
-RACHAEL: It's strange to suddenly realize that what you thought was your life is actually someone else's fabrication.
+RACHAEL: It's strange to suddenly realize that what you thought was your life is actually someone else's
 DECKARD: I can imagine.
-RACHAEL: Can you?  I couldn't.
-RACHAEL: A part of me is glad.  I think I feel more.  I don't like who I was before.
+RACHAEL: Can you? I couldn't.
+RACHAEL: A part of me is glad. I think I feel more. I don't like who I was So why do you think they were after their records.
 DECKARD: So why do you think they were after their records.
 RACHAEL: They probably want to find out when they were made.
-DECKARD: Right.
+DECKARD: He dumps his dinner in the garbage and comes back out. She's writing something on a card.
 RACHAEL: I guess the date of your birth is important if you know you're not made to last.
-RACHAEL: That's my number.  If you need me.
-RACHAEL: You better get better locks -- if you want to keep me out.
+RACHAEL: That's my number. If you need me.
+RACHAEL: You better get better locks if you want to keep me out.
 RACHAEL: Good night.
-DECKARD: Night.
-DECKARD (V.O.): The possibilities were infinite. They could change their appearances but not their future. Like she said, it was short. Longevity is what they were after. The garbage man even wanted a past. Poor fuck.  I'd check it out but I knew she was right.  The market worked on turn-over.  Built-in obsolescence was the name of the game.  That meant her too.  It was something I didn't want to think about.
-DECKARD: Yeah.
-BRYANT: Bryant here.  Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section.  You better get on it.
+DECKARD: He looks down at the number. It's the back side of a snapshot. He turns it over. The picture of a man and a woman. The little girl between them looks like a six-year old Rachael.
+DECKARD: Bryant here. Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section. You better get on it.
+BRYANT: Bryant here. Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section. You better get on it.
 DECKARD: I was just about to have my dinner.
-BRYANT: If you hurry you'll get back before it gets cold.  I got a spinner on your roof in five minutes.  Good luck.
-EPSER: Nexus designated Rachael is a prototype.  Created for in-house use by special mandate form the Scientific Development Regulatory Committee.  Will live conventional term -- no para-physical abilities.
+BRYANT: If you hurry you'll get back before it gets cold. I got a spinner on your roof in five minutes. Good luck.
+EPSER: Nexus designated Rachael is a prototype. Created for in-house use by special mandate form the Scientific Development Regulatory Committee. Will live conventional term no para-physical abilities.
 DECKARD: What is a conventional term?
-ESPER: Four years.  Which would make her termination date...
-DECKARD: Never mind.  Do they have that knowledge?
-ESPER: Longevity is classified.  No.
+ESPER: Four years. Which would make her termination date.
+DECKARD: Never mind. Do they have that Longevity is classified. No.
+ESPER: Longevity is classified. No.
 DECKARD: Okay, gimme a run-down on the three females.
-ESPER: Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position.
-DECKARD: Next.
-ESPER: Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
+ESPER: Nexus designated Mary: incept November 1 2017, domestic conditioning non competitive, trained for day care position.
+DECKARD: Nexus designated Pris: incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
+ESPER: Nexus designated Pris: incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
 DECKARD: Number three.
-ESPER: Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.
-DECKARD: Fuck.
+ESPER: Nexus designated Zhora: incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.
+DECKARD: Pissed, Deckard veers away and buzzes low over and around the roof tops, all dark and cramped not a lot of room around here.
 DECKARD: Taffey Lewis?
-TAFFEY: Yes?
+TAFFEY: Can I come in?
 DECKARD: Can I come in?
-TAFFEY: Excuse my niece there... She's studying for an exam.
-DECKARD: I'd like  you to take a look at these pictures.
+TAFFEY: Excuse my niece there. She's studying for an exam.
+DECKARD: I'd like you to take a look at these pictures.
 TAFFEY: Of course.
-TAFFEY: You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for?
-DECKARD: Do you recognize any of them?
-TAFFEY: This one looks familiar, but I don't know.  Naw.  There's one came in today looks a little like this one but...
+TAFFEY: You see I lost my contacts a couple of days ago around here somewhere and my sight is a little. What am I supposed to be looking for?
+DECKARD: Do you recognize any of
+TAFFEY: This one looks familiar, but I don't know. Naw. There's one came in today looks a little like this one but.
 DECKARD: What did she want?
-TAFFEY: Who?
+TAFFEY: The girl that doesn't look like that girl.
 DECKARD: The girl that doesn't look like that girl.
-TAFFEY: Nothing.  She wanted to know about suck night.
+TAFFEY: Nothing. She wanted to know about suck night.
 DECKARD: What night?
-TAFFEY: I didn't know if I wanted to handle her -- I already got a snake act.  But my partner goes down there to the Opera House on suck night to book the good ones.
+TAFFEY: I didn't know if I wanted to handle her I already got a snake act. But my partner goes down there to the Opera House on suck night to book the good ones.
 DECKARD: What's suck night?
-TAFFEY: That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's her.
+TAFFEY: That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's You talking about the Opera House on the Main?
 DECKARD: You talking about the Opera House on the Main?
 DECKARD: Book the good ones for where?
-TAFFEY: Lots of places.  The tours, the clubs, the Silicone shows, private parties.
+TAFFEY: Lots of places. The tours, the clubs, the Silicone shows, private parties.
 DECKARD: What shows?
-TAFFEY: Silicone Valley.  Lots of these science guys never leave that place.  We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd.
-ANNOUNCER'S VOICE: Let's hear it for the Hermano Brothers.
-ANNOUNCER'S VOICE: Next we're gonna see a little charmer who keeps her dancing partner in a basket!  She comes to us all the way from exotic Casablanca.  'Salome.'
+TAFFEY: Silicone Valley. Lots of these science guys never leave that place. We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd.
+ANNOUNCER'S VOICE: Let's hear it for the Hermano
+ANNOUNCER'S VOICE: Next we're gonna see a little charmer who keeps her dancing partner in a basket! She comes to us all the way from exotic Casablanca. 'Salome.'
 DECKARD: Excuse me, Miss Salome.
 DECKARD: I'd like to have a word with you if I could.
-SALOME: Yeah?
-DECKARD: I'm with the American Federation of Variety Artists...
-DECKARD: Don't worry, I'm not here to make you join -- that's not my department.
-DECKARD: I'm an investigator for the Confidential Committee on Moral Abuses.
+SALOME: I'm with the American Federation of Variety Artists.
+DECKARD: I'm with the American Federation of Variety Artists.
+DECKARD: Don't worry, I'm not here to make you join that's not my department. I'm an investigator for the Confidential Committee on Moral
+DECKARD: I'm an investigator for the Confidential Committee on Moral
 DECKARD: There's been reports of management sexually abusing the artists in this place.
 SALOME: I don't know nothing about it.
-DECKARD: You haven't felt yourself to be exploited by the management in any way?
+DECKARD: You haven't felt yourself to be exploited by the management in any
 SALOME: How do you mean 'exploited'?
-DECKARD: Like to get this position.  Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?
+DECKARD: Like to get this position. Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?
 SALOME: Are you for real?
-DECKARD: Oh, yeah. You'd be surprised what goes on around here.  I'd like to check the dressing room if I could.
+DECKARD: Oh, yeah. You'd be surprised what goes on around here. I'd like to check the dressing room if I could.
 SALOME: What the fuck for?
 DECKARD: For holes.
 SALOME: I don't believe this.
 DECKARD: It that mother real?
-SALOME: Of course he's not real.  You think I'd be working here if I could afford a real snake?
+SALOME: Of course he's not real. You think I'd be working here if I could afford a real snake?
 DECKARD: It's a good job.
 SALOME: You mean the snake.
 SALOME: The best.
 DECKARD: Does it eat?
 SALOME: Come on.
-SALOME: Jeezus!
-DECKARD: Sorry.
-SALOME: Hey!  Do your job but don't wreck mine, huh?
+SALOME: Hey! Do your job but don't wreck mine, huh?
+DECKARD: Hey! Do your job but don't wreck mine, huh?
+SALOME: Hey! Do your job but don't wreck mine, huh?
 DECKARD: They have their ways of doing their dirty work without the victim knowing what's going on.
 DECKARD: You'd be surprised what a guy'll go through to get a glimpse of a beautiful body.
 SALOME: I bet I would.
 DECKARD: Little dirty holes the bastards drill in the wall so they can watch a lady undress.
-SALOME: And what if somebody did try to 'exploit' me?  Who do I go to?
-DECKARD: Me.
+SALOME: And what if somebody did try to 'exploit' me? Who do I go to? And who do I go to about you?
+DECKARD: And who do I go to about you?
 SALOME: And who do I go to about you?
-DECKARD: Hmmmmm?
+DECKARD: Deckard grins and she returns it. She takes a towel off the table and starts to dry her body. The snake noses through the cosmetics, tongue flicking trying to get back to its mistress. Absently, she reaches out to stroke the snake and suddenly laughs.
 ZHORA: You ever get the feeling things aren't the way they seem?
-DECKARD: Stop or you're dead!
+DECKARD: Stop or you're dead! Drop it!
 COP: Drop it!
 SERGEANT: On your belly!
-DECKARD: Listen, Sergeant...
+DECKARD: Listen, Sergeant.
 COP: Hey, Sarge, this guy's a cop.
 SERGEANT: Clear this fuckin' crowd.
-BRYANT: Just because it's a Nexus 6 doesn't change procedure.  A little known fact can become a well-known fact and part of our job, Deckard, is to make sure that doesn't happen. Now how can be do that if you blow one away in front of a fuckin' audience.
-BRYANT: Well?
+BRYANT: Just because it's a Nexus 6 doesn't change procedure. A little known fact can become a well-known fact and part of our job, Deckard, is to make sure that doesn't happen. Now how can be do that if you blow one away in front of a fuckin'
+BRYANT: Deckard looks up dripping, reaches for a paper towel. Bryant slaps one in his hand.
 DECKARD: She was gonna get away.
-BRYANT: Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker!
-BRYANT: I'd say you got a little carried away.
+BRYANT: Then let her get away. I thought you were a pro you're supposed to be a fuckin' tracker!
+BRYANT: I'd say you got a little carried
 DECKARD: I didn't like her.
 BRYANT: You didn't like her!?
 BRYANT: You start liking or disliking andies it's time to hang it up.
-BRYANT: Look, go home.  Get some rest. Take an aspirin.
-DECKARD: Yeah.
+BRYANT: Look, go home. Get some rest. Take an aspirin.
+DECKARD: Bryant shuffles out like an old bear.
 BARTENDER: I can't protect your drinks, mister; while you was in the potty, this hummer snatched it.
-DECKARD: No problem.  Gimme another.
-RUSSIAN: Forgive me.  I thought was free drink.  I will pay.
+DECKARD: No problem. Gimme another.
+RUSSIAN: Forgive me. I thought was free drink. I will pay.
 DECKARD: Forget it.
 LEON: I think I have no money.
-DECKARD: It's okay.  Forget it.
+DECKARD: It's okay. Forget it.
 LEON: But I would like to buy you drink.
-DECKARD: I'll but you one.  What'll you have?
-LEON: Vodka!
+DECKARD: I'll but you one. What'll you Shot of vodka, please.
+LEON: Shot of vodka, please.
 DECKARD: Shot of vodka, please.
 LEON: Thank you very much.
 DECKARD: My pleasure.
-LEON: Prosit.
-DECKARD: Prosit.
+LEON: Down the hatch. Leon slaps his glass on the bar, reach- es into his pocket, brings out a little match box and slaps that down too. It's done with such pride that Deckard has to look.
+DECKARD: Down the hatch. Leon slaps his glass on the bar, reach- es into his pocket, brings out a little match box and slaps that down too. It's done with such pride that Deckard has to look.
 LEON: You want to see my friends?
 DECKARD: Sorry, don't have the time.
 LEON: No problem.
 DECKARD: Those cockroaches?
-LEON: Ya.
+LEON: Deckard looks interested. One of them starts to scamp- er away, but Leon walls off the next with his huge hand.
 DECKARD: How long you had these guys?
-LEON: Two months.  But this one is not guy.  It is girl.  His girl.
+LEON: Two months. But this one is not guy. It is girl. His girl.
 LEON: Usually Blackie waits until Igor is eating; then, when his back is turned, he tries to take advantage of Anna.
-LEON: Prosit.
-DECKARD: Prosit.
-LEON: You never saw a cockroach make love?
+LEON: Down the hatch. Their eyes meet at the bottom.
+DECKARD: Down the hatch. Their eyes meet at the bottom.
+LEON: You never saw a cockroach make
 LEON: We will try.
 LEON: It must be that he is not hungry or maybe she is not hot.
 LEON: You like to kiss her goodbye.
@@ -423,322 +419,318 @@ DECKARD: I like you too.
 LEON: One more, eh?
 DECKARD: I gotta piss.
 DECKARD: I think I'll piss outside.
-LEON: How come you know where Zhora was so quick?
-DECKARD: I showed pictures.  Somebody recognized her.  I went to see.
+LEON: How come you know where Zhora was so quick? I showed pictures. Somebody recognized her. I went to see.
+DECKARD: I showed pictures. Somebody recognized her. I went to see.
 LEON: How old am I?
 DECKARD: I don't know.
 LEON: My birthday is April 10, 2015. How long do I live?
 DECKARD: Four years.
 LEON: More than you.
 LEON: Painful to live in fear, isn't it.
-LEON: But that's how it is to be a slave.  The future is sealed off, he grovels, he waits.
-LEON: Sex, reproduction, security, the simple things.  But no way to satisfy them.  To be homesick with no place to go.  Potential with no way to use it.  Lots of little oversights in the Nexus 6.
-LEON: I tell you, nothing is worse than having an itch you can never scratch.
-DECKARD: Like I said, I don't need your help.
+LEON: But that's how it is to be a slave. The future is sealed off, he grovels, he waits.
+LEON: Sex, reproduction, security, the simple things. But no way to satisfy them. To be homesick with no place to go. Potential with no way to use it. Lots of little oversights in the Nexus 6.
+LEON: I tell you, nothing is worse than having an itch you can never
+DECKARD: Like I said, I don't need your
 RACHAEL: You look terrible, you know that?
-DECKARD (V.O.): I knew a cop once who was involved in a high-speed chase.  They shot out one of his tires and he went over a cliff at hundred and fifty miles an hour.  They found him in the morning with a broken skull, six fractured ribs and second- degree burns.  On the way to the hospital he made a play for the nurse.
-DECKARD: Hey!  I thought you were supposed to be taking care of me.
+DECKARD: Hey! I thought you were supposed to be taking care of me.
 RACHAEL'S VOICE: What do you need?
-DECKARD: Don't just stand there looking at me.  It's not polite.
+DECKARD: Don't just stand there looking at me. It's not polite.
 RACHAEL: What do you want me to do?
-DECKARD: Sit.
+DECKARD: She sits on the edge of the tub.
 DECKARD: Gimme your arm.
-DECKARD: You ever take a bath with a man before?
+DECKARD: You ever take a bath with a man There's a lot I haven't done with a man before.
 RACHAEL: There's a lot I haven't done with a man before.
 RACHAEL: You're getting me wet.
 RACHAEL'S VOICE: Sorry, I am not in at the moment, but if you'll leave your name and number I'll return your call as soon as I can.
 DECKARD: Fuck you, then.
-SEBASTIAN: Mr. Deetchum?  Hello?
+SEBASTIAN: Mr. Deetchum? Hello?
 SEBASTIAN: Now, now, Waddles.
 SEBASTIAN: Hello, Wrigley.
 SEBASTIAN: Mr. Deetchum isn't taking very good care of you people.
-BATTY: Whoops.
+BATTY: Smiling, Batty hands them back to Sebastian, who is too startled to speak. Pris runs up and gives Batty and Mary a big hug, steps back effusing and smiling, everybody's favorite teen-
 PRIS: This is my Uncle Roy, Sebastian.
 BATTY: Hello, glad to meet you.
 PRIS: And my Aunt Mary.
-PRIS: And this is my savior, J.F. Sebastian, everybody.
-BATTY: Can't thank you enough, Mr. Sebastian. If you hadn't come along...
-MARY: We were worried to death.  It's awfully kind of you.
+PRIS: And this is my savior, J.F. Sebastian,
+BATTY: Can't thank you enough, Mr. Sebastian. If you hadn't come along.
+MARY: We were worried to death. It's awfully kind of you.
 BATTY: We're not used to the big city. Where we come from it's not so easy to get lost.
-MARY: You certainly have a nice place here.
+MARY: You certainly have a nice place Well stocked.
 BATTY: Well stocked.
 PRIS: Sebastian doesn't like to go out too much.
-SEBASTIAN: I keep a lot of provisions right here.
-BATTY: I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?
-SEBASTIAN: Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor.
-MARY: We haven't found it easy, Mr. Sebastian.
+SEBASTIAN: I keep a lot of provisions right I like a man who stays put. An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do Well, no, not really. There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+BATTY: I like a man who stays put. An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do Well, no, not really. There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+SEBASTIAN: Well, no, not really. There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+MARY: We haven't found it easy, Mr.
 SEBASTIAN: How about breakfast, I was just going to make some.
-BATTY: If it wouldn't be too much of a bother... a little bite to eat would be...
+BATTY: If it wouldn't be too much of a bother. a little bite to eat would be.
 SEBASTIAN: Oh, no bother, I'd be glad to.
 BATTY: Well, actually
 MARY: We're famished.
-SEBASTIAN: Okay, then.  You make yourselves comfortable and I'll bring the food right out.
-BATTY: Charming.
-PRIS: Well?
+SEBASTIAN: Okay, then. You make yourselves comfortable and I'll bring the food right out.
+BATTY: Pris comes up close. Her tone muted but demanding.
+PRIS: Batty finds her attitude amusing, which makes her even more pugnacious.
 PRIS: I want to know what's going on.
 BATTY: There's only three of us left.
 PRIS: Then we're stupid and we'll die.
-BATTY: Not if everybody is doing their job here at home.  How are things at home?
+BATTY: Not if everybody is doing their job here at home. How are things at home?
 PIG: Home again, jiggidy jig.
-PRIS: I don't trust him.  I don't think he knows what he's doing.
+PRIS: I don't trust him. I don't think he knows what he's doing.
 BATTY: He knows what he's doing.
 MARY: If he won't cooperate?
-BATTY: Mr. Sebastian is a host who wants to be appreciated.  We'll appreciate him and he'll cooperate.
+BATTY: Mr. Sebastian is a host who wants to be appreciated. We'll appreciate him and he'll cooperate.
 DECKARD: How are you doing, old man?
-HOLDEN: I'm great.  I mean, I know I'm not really great, but I feel just great.  How you like my new suit?
+HOLDEN: I'm great. I mean, I know I'm not really great, but I feel just great. How you like my new suit?
 DECKARD: Well, you don't have to worry about getting it wrinkled.
-HOLDEN: Don't make me laugh.  It makes me pee.
-DECKARD: Sorry.
-HOLDEN: Hey, it's okay.  I like to pee. So how are you doing?
+HOLDEN: Don't make me laugh. It makes me Hey, it's okay. I like to pee. So how are you doing?
+DECKARD: Hey, it's okay. I like to pee. So how are you doing?
+HOLDEN: Hey, it's okay. I like to pee. So how are you doing?
 DECKARD: I'm doing okay.
-HOLDEN: From what I hear you're doing great.  Bryant tells me you're going like a god damn one-man army.  Making a lot of money, huh?
-DECKARD: Yeah. (pause) But that's what I wanted to talk to you about.
-HOLDEN: Money?
-DECKARD: No.  I got a problem.
+HOLDEN: From what I hear you're doing great. Bryant tells me you're going like a god damn one-man army. Making a lot of money, huh?
+DECKARD: ( pause ) But that's what I wanted to talk to you about.
+HOLDEN: No. I got a problem.
+DECKARD: No. I got a problem.
 HOLDEN: Let's hear it.
 DECKARD: I think I'm starting to empathize with these Nexus-sixes.
 DECKARD: What's that?
 HOLDEN: I'm taking a piss.
 HOLDEN: Let me ask you something, Deck. You been having intimate relations with one of these units?
-HOLDEN: That's what I thought... one of the liabilities of the trade -- you has sex with your prey, old buddy.  That's bound to create problems, unless you're a black widow.
-DECKARD: What about -- not sex -- but love?
-HOLDEN: Love is just another name for sex. Love is sexy and sex is lovely -- I don't care what you call it, an android can't have it.
-DECKARD: These aren't just...
-HOLDEN: I know what they are, Deck -- Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart -- no way.
-HOLDEN: Believe me, take it from an old pro, no matter how good we get, we're never gonna make an artificial anything that can feel.  It's a contradiction. You might as well go fuck your washing machine.
+HOLDEN: That's what I thought. one of the liabilities of the trade you has sex with your prey, old buddy. That's bound to create problems, unless you're a black
+DECKARD: What about not sex but love?
+HOLDEN: Love is just another name for sex. Love is sexy and sex is lovely I don't care what you call it, an android can't have it.
+DECKARD: These aren't just.
+HOLDEN: I know what they are, Deck Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart no
+HOLDEN: Believe me, take it from an old pro, no matter how good we get, we're never gonna make an artificial anything that can feel. It's a contradiction. You might as well go fuck your washing machine.
 HOLDEN: Just go out there and keep up the good work.
-HOLDEN: Got to save it, Deck, I'm getting sleepy.  It's been good talking to you.
-DECKARD: Thanks.
+HOLDEN: Got to save it, Deck, I'm getting sleepy. It's been good talking to you.
+DECKARD: But he's already asleep. Deckard stands there a moment looking at him, then walks out.
 RACHAEL: I told you I'd come back.
 DECKARD: You did?
-RACHAEL: You didn't hear me.  You were sleeping.
+RACHAEL: You didn't hear me. You were
 RACHAEL: Are you glad I'm here?
 RACHAEL: Who is this?
 DECKARD: Me and my dad.
 RACHAEL: Where is he?
-DECKARD: Dead.
-RACHAEL: Oh.
+DECKARD: She puts it down and comes to him.
+RACHAEL: She puts it down and comes to him.
 RACHAEL: How come you're not on the job?
-DECKARD: I am.  Part of my job is to sit on a couch and try and figure things out.
+DECKARD: I am. Part of my job is to sit on a couch and try and figure things out.
 RACHAEL: How are you doing?
 DECKARD: Not too good.
 RACHAEL: What do people do in the afternoon?
-DECKARD: If they are smart, they take naps.
+DECKARD: If they are smart, they take
 RACHAEL: Do you dream?
-DECKARD: Yeah.  Sometimes.
+DECKARD: Yeah. Sometimes.
 RACHAEL: I wish I could.
 DECKARD: Wishing is a kind of dreaming.
 RACHAEL: I mean asleep.
-RACHAEL: Did you cry when your father died?
-DECKARD: Yeah.
-RACHAEL: That's another thing I can't do.
-RACHAEL: Nobody is freer than when he dreams.  I read that.
+RACHAEL: Did you cry when your father That's another thing I can't
+DECKARD: That's another thing I can't
+RACHAEL: That's another thing I can't
+RACHAEL: Nobody is freer than when he dreams. I read that.
 DECKARD: It wasn't very good last night, was it?
-RACHAEL: I don't know, I have nothing to compare it to.  I guess I thought there was something more to it.
-DECKARD: What?
-RACHAEL: I don't know... I think I missed something.
-DECKARD: Like?
-RACHAEL: I'm not sure.  Is there a secret?
-DECKARD: I don't know.  If there is I'd like to find it.
+RACHAEL: I don't know, I have nothing to compare it to. I guess I thought there was something more to it.
+DECKARD: I don't know. I think I missed I'm not sure. Is there a
+RACHAEL: I don't know. I think I missed I'm not sure. Is there a
+DECKARD: I'm not sure. Is there a
+RACHAEL: I'm not sure. Is there a
+DECKARD: I don't know. If there is I'd like to find it.
 BATTY: Why are you staring at us?
-SEBASTIAN: You're just all so... so different.
+SEBASTIAN: You're just all so. so different.
 BATTY: What, Sebastian?
 SEBASTIAN: You're androids.
 PRIS: What makes you think so?
 SEBASTIAN: You're all so perfect.
 SEBASTIAN: What generation are you?
 BATTY: Nexus - 6.
-BATTY: We can trust Sebastian, ladies. He's been working with mechanisms all his life.  He's a wizard and a very perceptive man.
-SEBASTIAN: Could you...
+BATTY: We can trust Sebastian, ladies. He's been working with mechanisms all his life. He's a wizard and a very perceptive man.
+SEBASTIAN: Could you.
 SEBASTIAN: Show me something?
 BATTY: Like what?
-SEBASTIAN: Like...
+SEBASTIAN: Like a million things, but he's too excited to think of Pris perks up proudly.
 BATTY: We're not computers, Sebastian, we're physical.
 PRIS: I think, therefore I am.
-BATTY: Very good, Pris.  Now show him why.
+BATTY: Very good, Pris. Now show him why.
 BATTY: We have a lot in common.
 SEBASTIAN: You mean that you can't come here and I can't go there?
-BATTY: Not only that, but we have smiliar problems.  Accelerated decrepitude. But we don't want to die quite yet.
+BATTY: Not only that, but we have smiliar problems. Accelerated decrepitude. But we don't want to die quite yet.
 SEBASTIAN: Of course not.
 BATTY: You could help us.
-SEBASTIAN: I don't know much about biomechanics, Roy.  I wish I did, but you're out of my league.
+SEBASTIAN: I don't know much about biomechanics, Roy. I wish I did, but you're out of my league.
 BATTY: If we don't find help soon, Pris hasn't got long to live.
 BATTY: What about your friend, the man who owns this building?
 SEBASTIAN: Dr. Tyrell?
-SEBASTIAN: He's not really my friend.  I just do a job for him now and then.
+SEBASTIAN: He's not really my friend. I just do a job for him now and then.
 BATTY: Tyrell could help us, Sebastian.
 SEBASTIAN: He could?
 BATTY: His company made us.
 SEBASTIAN: I'd be happy to mention it to him.
-BATTY: Be better if I could talk to him in person.  But he's not an easy man to get to.
-SEBASTIAN: No.
+BATTY: Be better if I could talk to him in person. But he's not an easy man to get to.
+SEBASTIAN: When do you deliver your project?
 BATTY: When do you deliver your project?
-SEBASTIAN: This afternoon.
+SEBASTIAN: This afternoon. Will you help us?
 BATTY: Will you help us?
-SEBASTIAN: Yes.
-BATTY: I'm sure glad you found us, Sebastian.  What do you think, Mary?
+SEBASTIAN: Pris sits up smiling. Mary sighs a breath of relief and Batty leans back nodding in gratitude.
+BATTY: I'm sure glad you found us, Sebastian. What do you think, I don't think there is another human being in this whole world who would have helped us.
 MARY: I don't think there is another human being in this whole world who would have helped us.
-BATTY: Pris?
+BATTY: Pris gets up and comes to Sebastian and kisses him. That has a lot of impact. Sebastian looks around try- ing to keep the tears from coming.
 BATTY: You're our best and only friend.
 SEBASTIAN: Thank you.
 RACHAEL: When was the last time you cleaned this place?
-DECKARD: Hmmm?
-RACHAEL: Have you ever cleaned your apartment?
+DECKARD: Have you ever cleaned your Don't be fooled by appearances.
+RACHAEL: Have you ever cleaned your Don't be fooled by appearances.
 DECKARD: Don't be fooled by appearances.
-RACHAEL: It appears to be dirty -- why don't you get somebody?
-DECKARD: Because they would ruin the arrangement.
-RACHAEL: They could clean around the arrangement.
-DECKARD: I don't like people snooping around my stuff.
+RACHAEL: It appears to be dirty why don't you get somebody?
+DECKARD: Because they would ruin the
+RACHAEL: They could clean around the I don't like people snooping around my stuff. There's a vacuum in the front room closet is you wanna give it a try.
+DECKARD: I don't like people snooping around my stuff. There's a vacuum in the front room closet is you wanna give it a try.
 DECKARD'S VOICE: There's a vacuum in the front room closet is you wanna give it a try.
 DECKARD: Oh no, don't do that.
 RACHAEL: But if I don't plug it in how can
 DECKARD: Never mind the plug, just go through the motions.
-RACHAEL: But then how can you...
-DECKARD: I don't like the noise.  Just practice.  Practice makes perfect.
-DECKARD: I'm serious.  Go ahead.  Show me how you would do it.
+RACHAEL: But then how can you.
+DECKARD: I don't like the noise. Just practice. Practice makes perfect.
+DECKARD: I'm serious. Go ahead. Show me how you would do it. How about under the couch there. Come on.
 DECKARD: How about under the couch there. Come on.
 RACHAEL: This feels stupid.
-DECKARD: Good for a smart girl to feel stupid.  Part of your education.
+DECKARD: Good for a smart girl to feel stupid. Part of your education.
 RACHAEL: You're sick, Deckard.
 DECKARD: I never felt better.
 STYLES: Okay, I'll take that now.
-SEBASTIAN: Wait!
+SEBASTIAN: He almost forgot.
 SEBASTIAN: Can't fly without the pilot.
-IAN: Oh!
-IAN: Papa!  Did you make this?
-TYRELL: No.  We can make man, but not a griffon.
+IAN: Basically an avian invention, it has wings and plumage, the head of an eagle, the body of a lion and weighs no more than eight pounds. It cranes its neck and testing its balance, stands on one leg and then hops to the edge of the table and into the air. The littlest tot claps her hands as the griffon beats its wings rapidly and rises towards the ceiling. Turn- ing in a forty-five degree, it suddenly drops into a Delighted, the children shriek and scream as the griffon swoops over their crouching heads and sails the length of the hall its silhouette flickering briefly over the ancestral portraits of the Tyrell clan. Reaching the end of the room, it banks sharply and flies back towards the table, cups its wings, spreads its tail and comes in for an awkward landing. They're laughing and clapping as it waddles down the table and knocks over a glass and stops in front of Ian.
+IAN: Papa! Did you make this?
+TYRELL: No. We can make man, but not a
 TYRELL: Have to give the cottage industry a chance too.
 TYRELL: A friend of yours, Sebastian?
 SEBASTIAN: Yes, this is someone who wants to talk to you, Dr. Tyrell.
-BATTY: The name is Batty.  Roy Batty.
-TYRELL: Oh?
+BATTY: The name is Batty. Roy Batty.
+TYRELL: Very slowly Tyrell's hand moves towards the back side of the desk.
 BATTY: To act without understanding could lead to the very thing the act seeks to avoid.
 BATTY: A little talk it all I need.
-TYRELL: Would you like to talk in private then.
-BATTY: Yeah.  It might be better if we talk in private, Sebastian.  Why don't you go home.
-TYRELL: Here's your check, my boy.  Thank you.
-SEBASTIAN: Thank you, Dr. Tyrell.  I'll see you later.
+TYRELL: Would you like to talk in private
+BATTY: Yeah. It might be better if we talk in private, Sebastian. Why don't you go home.
+TYRELL: Here's your check, my boy. Thank Thank you, Dr. Tyrell. I'll see you later.
+SEBASTIAN: Thank you, Dr. Tyrell. I'll see you later.
 SEBASTIAN: Was everything okay?
-TYRELL: Just beautiful.
+TYRELL: Just beautiful. I'm surprised you didn't come to me sooner.
 TYRELL: I'm surprised you didn't come to me sooner.
 BATTY: It's not an easy thing to meet your maker.
 TYRELL: And what can he do for you?
 BATTY: Can the maker repair what he makes?
 TYRELL: Would you like to be modified?
-BATTY: Had in mind something a little more radical.
+BATTY: Had in mind something a little more What's the problem?
 TYRELL: What's the problem?
-BATTY: Death.
-TYRELL: I'm afraid that's a little out of my...
+BATTY: I'm afraid that's a little out of
+TYRELL: I'm afraid that's a little out of
 BATTY: I want more life, fucker.
 TYRELL: Come here.
 TYRELL: Sit down.
-TYRELL: The facts of life.  I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal.  A coding sequence can't be revised once it's established.
-BATTY: Why?
-TYRELL: Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship.  The ship sinks.
+TYRELL: The facts of life. I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal. A coding sequence can't be revised once it's Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies like rats leaving a sinking ship. The ship sinks.
+BATTY: Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies like rats leaving a sinking ship. The ship sinks.
+TYRELL: Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies like rats leaving a sinking ship. The ship sinks.
 BATTY: What about E.M.S. recombination?
-TYRELL: We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table.
+TYRELL: We've already tried it ethyl methane sulfonate is an alkylating agent and a potent mutagen it creates a virus so lethal the subject was destroyed before we left the table.
 BATTY: Then a repressor protein that blocks the operating cells.
-TYRELL: Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you.
+TYRELL: Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again. but all this is academic you are made as good as we could make you.
 BATTY: But not to last.
-TYRELL: Put it this way.  Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last.
+TYRELL: Put it this way. Rolls Royces are made to last as least they were. But I'm afraid you're a Ferrari. A high strung racing car built to win, not to last.
 TYRELL: Also you're too valuable to experiment with.
 BATTY: I am?
-TYRELL: The bast of all possible androids. We're proud of our prodigal son -- glad you're returned.  You're quite a prize.
+TYRELL: The bast of all possible androids. We're proud of our prodigal son glad you're returned. You're quite a prize.
 BATTY: I've done some questionable things.
 TYRELL: Also extraordinary things.
 BATTY: Nothing the God of biomechanics wouldn't let you in heaven for.
 BATTY: Could you tell me where the bathroom is?
 MRS. TYRELL: May I help you?
-DECKARD (V.O.): She'd never seen the great outdoors. Never even seen books on the subject.  She went through everything I had, and we talked. And there were subjects we didn't discuss and they were words we didn't say, I couldn't say, like death, like future, like real.  But it was hard because she was curious and full of questions.  She was more alive than anyone I'd ever known.
 RACHAEL: You and I are good friends, huh?
 RACHAEL: It's so easy.
-RACHAEL: Have you ever known anybody a long time?
+RACHAEL: Have you ever known anybody a long You mean a woman?
 DECKARD: You mean a woman?
-RACHAEL: Uh-huh.
+RACHAEL: What's a long time?
 DECKARD: What's a long time?
 RACHAEL: Ten years.
-DECKARD: Nope.  Nobody could stand me that long.
-DECKARD: Yeah.
-BRYANT: This is Bryant.  Are you alone?
-DECKARD: Yeah.
+DECKARD: Nope. Nobody could stand me that
+DECKARD: This is Bryant. Are you alone?
+BRYANT: This is Bryant. Are you alone?
+DECKARD: She's not with you?
 BRYANT: She's not with you?
-DECKARD: Who.
-BRYANT: Take a number.  Canapt 1700, tenth floor, Villa Vita District, Olympia South.
+DECKARD: A pause.
+BRYANT: Take a number. Canapt 1700, tenth floor, Villa Vita District, Olympia Got it.
 DECKARD: Got it.
-BRYANT: Okay, here it is.  Eldon Tyrell, his family and half his staff were just massacred.  The cat is about to get out of the bag.  Pressure is definitely on.  The Nexus program is terminated.  When you finish there, locate Nexus designated Rachael and retire.
-BRYANT: If you don't, we will.  It has to be total, Deckard.  That's an order from as high as it comes.  Got it?
-DECKARD: Yeah.  I got it.
-BRYANT: Go.
+BRYANT: Okay, here it is. Eldon Tyrell, his family and half his staff were just massacred. The cat is about to get out of the bag. Pressure is definitely on. The Nexus program is terminated. When you finish there, locate Nexus designated Rachael and retire.
+BRYANT: If you don't, we will. It has to be total, Deckard. That's an order from as high as it comes. Got it?
+DECKARD: Yeah. I got it.
+BRYANT: He hangs up the receiver and gets up. She watches him from the bed. The gun goes into his belt. He loads the ankle job and straps it on. She watches every move.
 RACHAEL: Why do you call it retire, why don't you call it murder?
 DECKARD: Because it's not.
 RACHAEL: Don't you think anything that can suffer deserves to be considered?
-DECKARD: Andies only simulate suffering -- if they're programmed for it.
+DECKARD: Andies only simulate suffering if they're programmed for it.
 RACHAEL: Do you think I simulated what happened between us?
 DECKARD: No, I don't.
-DECKARD: Don't leave here.  Don't open the door, don't answer the phone.
+DECKARD: Don't leave here. Don't open the door, don't answer the phone.
 RACHAEL: What difference will it make?
 DECKARD: Just wait here.
 RACHAEL: You know what I think?
-DECKARD: What?
+DECKARD: That some of the folks around here are more programmed then me.
 RACHAEL: That some of the folks around here are more programmed then me.
 RACHAEL: You know what else I think?
-DECAKRD: What?
+DECAKRD: This was the best day of my life.
 RACHAEL: This was the best day of my life.
-MARY: Let's go while there is still time.
-BATTY: Where?
-MARY: Anywhere.
+MARY: Let's go while there is still
+BATTY: Batty smiles.
+MARY: Batty smiles.
 BATTY: What's the point?
 MARY: Not to be trapped.
 BATTY: You underestimate the trap, Mary.
 BATTY: Where are you going, Sebastian?
-SEBASTIAN: Just thought I'd...
-BATTY: No, you stay here with us.  Out last night together.
+SEBASTIAN: Just thought I'd.
+BATTY: No, you stay here with us. Out last night together.
 BATTY: Think of yourself as a light, Mary. Shine before you're turned off.
 SEBASTIAN: Someone is coming here.
-BATTY: One man. (he smiles) He must be good.
+BATTY: One man. He must be good.
 MARY: Then go get him.
 BATTY: That wouldn't be very sporting.
 PRIS: I want to do it.
-BATTY: Okay, but don't kill him.  Save a little for everybody.  A masterpiece.
+BATTY: Okay, but don't kill him. Save a little for everybody. A
 BATTY: Turn out the lights, Pris.
 PRIS: Naughty, naughty.
 DECKARD: Hello, Roy.
 BATTY: You wanna play?
-BATTY: Not very sporting to fire on an unarmed opponent.  I thought you were supposed to be good.  Aren't you the man?!
+BATTY: Not very sporting to fire on an unarmed opponent. I thought you were supposed to be good. Aren't you the man?!
 BATTY: This is how we do it up there, lad! Come on!
-BATTY: Not hurt, are you?  You better get it up or I'm going to have to kill you.  Unless you're alive you can't play.  And if you don't play, you don't get to be alive.
+BATTY: Not hurt, are you? You better get it up or I'm going to have to kill you. Unless you're alive you can't play. And if you don't play, you don't get to be alive.
 BATTY: That's the spirit.
-BATTY'S VOICE: Come on, Deckard, show me what you got!  I'm right here on the other side of the door.  But you gotta shoot straight 'cause I'm fast!
-BATTY: Straight doesn't seem to be good enough.
+BATTY'S VOICE: Come on, Deckard, show me what you got! I'm right here on the other side of the door. But you gotta shoot straight 'cause I'm fast!
+BATTY: Straight doesn't seem to be good
 BATTY: You don't have a chance, do you?
-BATTY: Looks like I'm gonna have to scale it down for you.  Give you a handicap.  I won't run through any more walls.  Okay?  I promise to use the doors.  Okay?
+BATTY: Looks like I'm gonna have to scale it down for you. Give you a handicap. I won't run through any more walls. Okay? I promise to use the doors. Okay?
 BATTY: Come on, let's use that brain!
-BATTY: Think!  We need a little resilience around here!
+BATTY: Think! We need a little resilience around here!
 BATTY: Where are those balls of yours?! Let's see a little bravery!
-BATTY: That was irrational of me -- not to mention unsportsmanlike.  Won't happen again.
-BATTY: I'll be down the hall when you're ready.
+BATTY: That was irrational of me not to mention unsportsmanlike. Won't happen again.
+BATTY: I'll be down the hall when you're
 BATTY: Where you going?
-BATTY: No cheating.  A promise is a promise.  I'll honor the handicapped, but we gotta play on the top floor.  You go get your laser gun now.  And I'll give you a few seconds before I come.
-BATTY'S VOICE: One!
-BATTY'S VOICE: Two!
-BATTY'S VOICE: No fair jumping through holes.  You might get hurt doing that!  THREE!
-BATTY: Five!
-BATTY: Six!
-BATTY'S VOICE: Seven!
-BATTY: Oh, I wonder where he is.  Not in here, I don't think.  Eight!
-BATTY: Maybe here.  Doesn't sound like it.  Nine!
-BATTY: Ten!
+BATTY: No cheating. A promise is a promise. I'll honor the handicapped, but we gotta play on the top floor. You go get your laser gun now. And I'll give you a few seconds before I come.
+BATTY'S VOICE: Halfway down the hall he finds his laser.
+BATTY'S VOICE: Deckard darts into the nearest door. The apartment above Sebastian's, with the hole in the floor. Deckard considers it.
+BATTY'S VOICE: No fair jumping through holes. You might get hurt doing that! THREE!
+BATTY: INT. TENTH FLOOR APARTMENT - NIGHT 111 Deckard's looking for a corner a place that covers the angles. He chooses the far side of the room with a line to the door.
+BATTY: INT. TENTH FLOOR APARTMENT - NIGHT 113 Deckard's crouched in the corner and aimed. He looks at his hand. It's trembling.
+BATTY'S VOICE: INT. TENTH FLOOR HALL - NIGHT 114 Batty's standing in front of a door, listening.
+BATTY: Oh, I wonder where he is. Not in here, I don't think. Eight!
+BATTY: Maybe here. Doesn't sound like it. Nine!
+BATTY: The door explodes! A shape hurtles across the room. Deckard pivots, fol- lowing it with RAPID FIRE. It's a TV. He spins back. but Batty's already on him. He gets one SHOT off be- fore Batty's got his hand. There's a hole over Batty's right eye. Blood running down his face, dripping on Deckard. The right side of his face isn't working too good. The corner of his mouth doesn't quite shut his voice comes out slurred, a little hollow.
 BATTY: One point for you.
-BATTY: Ho ho!  Try it again!
-BATTY: What's wrong?  Don't you like me? I'm what we've made!
-BATTY: What's wrong?  Aren't you a lover of Faster, Bigger and Better?!
+BATTY: Ho ho! Try it again!
+BATTY: What's wrong? Don't you like me? I'm what we've made!
+BATTY: What's wrong? Aren't you a lover of Faster, Bigger and Better?!
 BATTY: It's time to die.
-BATTY: Ah!
+BATTY: He reaches out and pinches something. His lips compress as he yanks it out of the wall. It's a ten-penny nail. He holds it out to Deckard and drops it. Deckard catches it.
 BATTY: That's for you.
-BATTY: Stick it in your ear and push. If that doesn't work, try the eye.
+BATTY: Stick it in your ear and push. If that doesn't work, try the
 BATTY: Believe me, it'll be better for you than what I'm about to do.
-BATTY: Well?
-BATTY: Crap.
-DECKARD (V.O.): She wanted to go to a place I knew. Out of the city.  Like one of those pictures she saw.  Where there were trees but no buildings.
-DECKARD (V.O.): We had a good time.  She told me a funny story and I taught her a song.  A song about monkeys and elephants.  And it made us laugh so hard we couldn't sing.
-DECKARD (V.O.): I told myself over and over again, if I hadn't done it, they would have. I didn't go back to the city, not that city, I didn't want the job. She said the great advantage of being alive was to have a choice. And she chose.  And a part of me was almost glad.  Not because she was gone but because this way they could never touch her. As for Tyrell -- he was murdered, but he wasn't dead.  For a long time I wanted to kill him.  But what was the point?  There were too many Tyrells.  But only one Rachael. Maybe real and unreal could never be separated.  The secret never found.  But I got as close with her as I'd ever come to it.  She'd stay with me a long time.  I guess we made each other real.
+BATTY: Deckard springs to his feet and bolts. But instead of going for the stairwell he turns in the first available INT. TENTH FLOOR APARTMENT #2 - NIGHT 117 Provocation accomplished. Batty smiles and walks lei- surely towards the door. Deckard's terrified scream and the SOUND of GLASS CRASHING stop him. Batty speeds up and moves into the room. The window pane is splattered, curtains sucked out, bellowing in the wind.
+BATTY: He walks up to the window. Deckard comes away from the wall, inching up behind him, laser in both hands, aimed at the base of Batty's skull. Batty starts to lean over, but even before his eyes see the pavement, he knows. He spins. Deckard FIRES again. This one goes home. Batty falls like he was poleaxed, hits the floor dead weight. Deckard starts to tremble. His arms go limp as his head tilts back and he closes his eyes. He can breathe On the floor, Batty's hand is crawling toward Deckard's With the unsuspected abruptness of a man slipping on a banana peel, Deckard comes down. Face knotted in hor- ror, he EMPTIES THE LASER in Batty's body but the hand holds on. With a screech of frustration he drops the laser and like an animal claws at Batty's dead fingers but the fingers are welded shut. Deckard starts to crawl, pulling Batty behind him. He struggled through the door and stumbles to his feet.
+THE END: Writers : Hampton Fancher David Peoples

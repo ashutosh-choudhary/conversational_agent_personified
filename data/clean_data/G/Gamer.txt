@@ -1,473 +1,373 @@
 GAMER: Written by Mark Neveldine & Brian Taylor
-SANDRA: Sandra. SANDRA (cont'd) My name is Sandra.
+SANDRA: KABLE says nothing, just stares at her, stoic.
 GUARD: Shut the fuck up.
-SANDRA: (to the GUARD, a snarl) Putcher dick away...
+SANDRA: ( to the GUARD, a snarl ) Putcher dick away.
 GUARD: Get some.
-VOICE (O.S.): (clean, disconnected) Eat shit please.
-VOICE (O.S.): Can't say I didn't try...
-VOICE (O.S.): Shit! Shit!
-VOICE (O.S.): Suckage.
-BLUE SOLDIER 1: Good run, Kable.
-KABLE: (quietly) My name's Tillman.
-BROWN SOLDIER 1: Whatever your name is. You got to the save point fast.
-BROWN SOLDIER 2: So the fuck what? No one's getting out of here alive.
-BLUE SOLDIER 1: I am.   I'm going to make it.
-BROWN SOLDIER 2: Sure you will.
-BLUE SOLDIER 1: (tuning the BROWN out, turning his attention to
-KABLE): They say you only got three battles left til you get out...
-OFFSCREEN VOICE: Counting down five... four... three... two...
-CHIEF OF STAFF: Do we have the damn interview or don't we?
+KABLE: ( quietly ) My name's Tillman.
+KABLE ): They say you only got three battles left til you get out.
+OFFSCREEN VOICE: Counting down five. four. three. two.
 PRODUCER: We're cunt hair close -
-CHIEF OF STAFF: I can't blow off the Three-Asian War for "close".
-PRODUCER: All respect, Bob, nobody cares about dead Orientals... they care about Ken Castle -
-CHIEF OF STAFF: May I hear from Gina please?
-GINA PARKER SMITH: OK, Bob? Bob. You realize Castle has clocked exactly - one - media appearance to date and that was Walters' last interview before she died - NINE FUCKING YEARS AGO!
-CHIEF OF STAFF: Stop menstruating, just tell me we fucking have it -
-GINA PARKER SMITH: We fucking have it! GINA PARKER SMITH (cont'd) Palindromes. (she STOPS) Hold on. Focus: let's get lunch. Sushi, Iranian, or Mexican?
+PRODUCER: All respect, Bob, nobody cares about dead Orientals. they care about Ken Castle -
 PRODUCER: Burger chili fry?
-GINA PARKER SMITH: (considering) I'll freak a burger.
+WORLDLINK TONIGHT: with GINA PARKER SMITH
 EXCLUSIVE: with GINA PARKER SMITH
-VOICEOVER: First... there was society... VOICEOVER (cont'd) The ultimate SIM environment - where players don't control virtual animated characters - but actual, living, breathing human beings. VOICEOVER (cont'd) (quoting) They walked them, they talked them. They juiced them...
+VOICEOVER: First. there was society. The ultimate SIM environment - where players don't control virtual animated characters - but actual, living, breathing human beings. They walked them, they talked them. They juiced them.
 KEN CASTLE: I ain't complainin'!
-VOICEOVER: Nine months ago, Castle unveiled a new simulation - one that would take gaming to new heights of thrilling excess... and controversy
-- SLAYERS.: VOICEOVER (cont'd) If society let us live thru others... SLAYERS would let us die thru others. VOICEOVER (cont'd) Slayers gives the gamer full control of a flesh and blood human being in full scale, kill-or-be- killed combat. And when we say flesh and blood, we mean flesh -
-GINA PARKER SMITH: Slayers.
-KEN CASTLE: (big smile) Slayers.
-GINA PARKER SMITH: (down to business) Why isn't it murder?
-KEN CASTLE: Gina, when was the last time you saw someone volunteer to be murdered? I'm sure you know that every last one of our Slayers is a bona fide death row inmate - (points for emphasis) ...each one offered a chance to participate as an alternative to their sentence. Stay alive for thirty sessions and get set free... that's not a bad God damned deal.
-GINA PARKER SMITH: I see - and has any one of these men or women ever actually survived long enough to be set free?
-KEN CASTLE: I'd remind your audience that Slayers was put together with the full cooperation and approval of the United States federal government... that the revenue it produces is responsible for funding our entire prison system - keeping the bad guys behind bars... and that the prop was voted for by a cock solid 68% of the American public.
-PRODUCER: (to BOARD OP) What'd he say?
-GINA PARKER SMITH: ... in an election tainted by suspected digital fraud... (changing gears) let's talk about the so-called generi-cons. GINA PARKER SMITH (cont'd) Sent into the slayers environment with a set of pre-programmed actions, with no way to react and no one controlling them - their chances of survival are next to nil.
-KEN CASTLE: There's a lot of men and women in prison that could never cut it as slayers... shouldn't they have the same opportunity to roll the dice for a ticket out? Besides - they only need to survive one session.
-GINA PARKER SMITH: Right...
-GINA PARKER SMITH: (leaning in) Mr. Castle - how the hell does it work?
-KEN CASTLE: Simple. KEN CASTLE (cont'd) It begins with a single nano-cell planted in the motor cortex of the brain -- this cell can replicate, replacing the cells `round it with perfect copies... KEN CASTLE (cont'd) ... these copied cells contain remote access functionality. Therefore, nano plus cortex equals the nanex.
-GINA PARKER SMITH: Geek, geek, geek - come on, Castle, you promised us a demonstration.
-KEN CASTLE: (coy) Did I? You know I seem to recall that - let's just see...
-GINA PARKER SMITH: (fighting it) Oh... my god. So cute.
+VOICEOVER: Nine months ago, Castle unveiled a new simulation - one that would take gaming to new heights of thrilling excess. and controversy
+KEN CASTLE: ( big smile )
+KEN CASTLE: Gina, when was the last time you saw someone volunteer to be murdered? I'm sure you know that every last one of our Slayers is a bona fide death row inmate - .each one offered a chance to participate as an alternative to their sentence. Stay alive for thirty sessions and get set free. that's not a bad God damned deal.
+KEN CASTLE: I'd remind your audience that Slayers was put together with the full cooperation and approval of the United States federal government. that the revenue it produces is responsible for funding our entire prison system - keeping the bad guys behind bars. and that the prop was voted for by a cock solid 68% of the American What'd he say?
+PRODUCER: ( to BOARD OP ) What'd he say?
+KEN CASTLE: There's a lot of men and women in prison that could never cut it as slayers. shouldn't they have the same opportunity to roll the dice for a ticket out? Besides - they only need to survive one session.
+SUPERNOVA FLARE: 22 EXT SLAYERS BATTLEGROUND 22
+KEN CASTLE: A 3-D ANIMATED GRAPHIC accompanies his explanation - the VIRTUAL CAMERA zooms in to the FROZEN SOLDIER'S head - and then INSIDE, passing thru transparent layers. We see a cartoon image of a tiny nano-cell - labeled with a bold, block letter N. The nano-cell approaches a normal cell next to it. there is a flash; now the cell next to it has turned into an exact copy of the nano. This continues, multiplying exponentially, until we zoom back to reveal that the entire brain has been converted to nano-cells. The graphic zooms back further to show a pair of hands working a retro ATARI-style joystick. animated waves indicate a wireless transmission from the joystick to the Slayer, who unfreezes and flies into action.
+KEN CASTLE: ( coy ) Did I? You know I seem to recall that - let's just see.
 KEN CASTLE: You like her? Her name is Gina. She's a good little bitch.
-GINA PARKER SMITH: I beg your pardon?
-PRODUCER: This motherfucker is off the charts.
-CHIEF OF STAFF: You realize he could buy our network.
-PRODUCER: (shrugs) Why would he?
+PRODUCER: This motherfucker is off the You realize he could buy our Why would he?
+PRODUCER: ( shrugs ) Why would he?
 BOARD OP: That's fuckin scary.
-GINA PARKER SMITH: Isn't it true that each human that undergoes the procedure will have a distinct IP address -- like a notebook computer or mobile device?
-KEN CASTLE: Similar, yep. But control is strictly localized to the parameters of our gaming environments.
-GINA PARKER SMITH: (incredulous) That's a relief.
-KEN CASTLE: (teasing) To some, maybe... to some... don't you suspect a good many folks wouldn't mind an itty bit of control?
-GINA PARKER SMITH: I don't... um...
-KEN CASTLE: Someone else making all the decisions for you... no responsibilities, no tough choices... think about it.
-GINA PARKER SMITH: (tough) We will, Mr. Castle. We will.
+KEN CASTLE: Similar, yep. But control is strictly localized to the parameters of our gaming You take Society for instance: once a cast member leaves the workplace they are completely free from the control and monitoring of their That's a relief.
+KEN CASTLE: ( teasing ) To some, maybe. to some. don't you suspect a good many folks wouldn't mind an itty bit of I don't. um.
+KEN CASTLE: Someone else making all the decisions for you. no responsibilities, no tough choices. think about it.
+YOU: ARE EXPERIENCING
 ARE EXPERIENCING: a LIVE
+WORLDLINK TONIGHT: 26 INT. THE INTERVIEW STUDIO, CONTINUOUS 26
+EXCLUSIVE: 26 INT. THE INTERVIEW STUDIO, CONTINUOUS 26
 KEN CASTLE: Good little talk.
-GINA PARKER SMITH: My pleasure. Shit, can I tell you? I CAN. NOT. wait for the next Slayers. Kable has been unbelievable. His arms are just so... well, I know it's awful.
 PRODUCER: What the hell is that?
+HUMANZ: ( CONTINUED )
 HUMANZ BROTHER: Ken Castle wants you to believe that you are living in a safer, better world. He's a liar. Mind control is slavery. We will all be his dog if we allow this evolution to continue.
-PRODUCER: Mr. Castle, we have no idea...
-KEN CASTLE: Shush!
-PRODUCER: (to his techies) Bypass orbital, reroute from the backup servers, NOW, for Christ sake, you dirty apes... (to CASTLE) Sorry, Mr. Castle, we can't hard- line a live broadcast. It's impossible to stop every virus that sneaks in.
-KEN CASTLE: Uh huh. You might wanna oughta let my boys take a look at your firewall. KEN CASTLE (cont'd) (to GINA) What about your firewall, sugar - wonder if I might breach it one of these sunny days.
-GINA PARKER SMITH: You're bad.
+PRODUCER: Mr. Castle, we have no idea.
+KEN CASTLE: ON THE SCREEN, the humanz logo dissolves, 8-bit ARCADE STYLE, replaced by:
+PRODUCER: ( to his techies ) Bypass orbital, reroute from the backup servers, NOW, for Christ sake, you dirty apes. ( to CASTLE ) Sorry, Mr. Castle, we can't hard- line a live broadcast. It's impossible to stop every virus that sneaks in.
+KEN CASTLE: Uh huh. You might wanna oughta let my boys take a look at your What about your firewall, sugar - wonder if I might breach it one of these sunny days.
 BOARD OP: He's good.
 PORN GIRL: Wanna blow off a little steam?
 DISTINCTIVE PRISONER: Fuck him up.
-FREEK: (quiet, conspiratorial) Kable. Kable.
+FREEK: ( quiet, conspiratorial ) Kable. Kable.
 KABLE: My name is Tillman, freak.
-FREEK: Tillmans, yeah, Tillmans, I knew that, they said you name's was Tillmans... just sittin, always sittin, always lookin, just lookin... like me, I keep my holes down... you got to, man... a dude inevitably start to break up, start to crack and break up everyday, never know you gonna die today or live another two, three. You never do know. All these niggaz gonna snap, snap, snap, one by one, every last one, all of em. Yeah but not you. Twenty seven battles and three to go... no one ever got that close before, no one even done ten games without gettin they brains shot... but Kable, Kable, Kable, he just sittin, lookin, like he got a plan, he already somewhere else, he on a mission, nothin' get in his way, never break, never snap, never say shit, just take care of his business, niggaz get spooked by that shit. You spooky. FREEK (cont'd) Spooky.
+FREEK: Tillmans, yeah, Tillmans, I knew that, they said you name's was Tillmans. just sittin, always sittin, always lookin, just lookin. like me, I keep my holes down. you got to, man. a dude inevitably start to break up, start to crack and break up everyday, never know you gonna die today or live another two, three. You never do know. All these niggaz gonna snap, snap, snap, one by one, every last one, all of em. Yeah but not you. Twenty seven battles and three to go. no one ever got that close before, no one even done ten games without gettin they brains shot. but Kable, Kable, Kable, he just sittin, lookin, like he got a plan, he already somewhere else, he on a mission, nothin' get in his way, never break, never snap, never say shit, just take care of his business, niggaz get spooked by that shit. You spooky.
 KABLE: I killed my best friend.
-PRISONER: Master! Master! Master of Puppets I'm pulling your strings - Twisting your mind and smashing your dreams...
-WOMAN (O.S.): You want to get back to them. WOMAN (O.S.) (cont'd) It's all you think about. It's the only thing that keeps you alive.
+PRISONER: Master of Puppets I'm pulling your strings - Twisting your mind and smashing your dreams. You want to get back to them. It's all you think about. It's the only thing that keeps you alive.
 KABLE: Who's talking?
-WOMAN (O.S.): Sign it.
-KABLE: What?
-WOMAN (O.S.): Sign it... please, Tillman. My son David is your biggest fan. He prays for you. WOMAN (O.S.) (cont'd) Need to prove it's authentic. Makes it worth more.
+KABLE: ( CONTINUED )
 KABLE: Why would anyone want my name?
-WOMAN (O.S.): You don't even know what's going on out there, do you? (beat) Damn... WOMAN (O.S.) (cont'd) Gotta go.
-KABLE: Wait. (he holds the wrinkled photo to the window) How did you get this picture?            Have you seen them?
-TED NUGENT: Damn, I gonna have to eat you now, son.
-VOICE: Oh shit... oh shit...
-VOICE: Wul hello thar... VOICE (cont'd) Wait for it...
-KABLE: (whispering) Turn me around God damn it...
-VOICE: What'd he say? VOICE (cont'd) My boy gotta take a piss or something?
-BROWN SOLDIER: Who are they... who the fuck are they... who's playing us?
-SIMON: Gay... gay... gay... super gay... hm.
+KABLE: ( he holds the wrinkled How did you get this picture? Have you seen them?
+TED NUGENT: Damn, I gonna have to eat you now,
+VOICE: Oh shit. oh shit.
+VOICE: Wul hello thar. Wait for it.
+KABLE: ( whispering ) Turn me around God damn it.
+VOICE: What'd he say? My boy gotta take a piss or
+BROWN SOLDIER: Who are they. who the fuck are they. who's playing us?
+SIMON: Gay. gay. gay. super gay.
 FEMALE VOICE: Swarmers. The latest innovation from Browning, this self detonating cartridge offers the widest and deadliest spray available from a full tracking, cornering ordnance.
-SIMON: Daddy like...
-ANNOYING GIRL: Simon!
+SIMON: Daddy like.
+ANNOYING GIRL: Fan-girl, stop hacking. If I want you unmuted I'll unmute you.
 SIMON: Fan-girl, stop hacking. If I want you unmuted I'll unmute you.
 ANNOYING GIRL: You suck, Simon - you're going to get my boyfriend killed before he can get out of jail and fill me up with his hot seed.
 SIMON: Uh huh.
-CUTE STONED GIRL: Simon, I just wanna play you. Forget about that star-fucker.
 ANNOYING GIRL: Shut up bitch.
-CUTE STONED GIRL: Thanks baby. When can I meet you for like reals?
-SIMON: What is that? (like a dentist) Aaaa.
-CUTE STONED GIRL: You like me?
+SIMON: What is that?
 SHELLY: What's up, loser?
 SIMON: Hey sissy.
-SHELLY: Mom says - let me see, go to college, move the fuck out, and... oh yeah, you're a sick retard, you're pathetic, and you smell like Jeffrey Dahmer.
+SHELLY: Mom says - let me see, go to college, move the fuck out, and. oh yeah, you're a sick retard, you're pathetic, and you smell like Jeffrey Dahmer.
 SIMON: Wanna make out?
 SHELLY: You wish. I can't wait til they cut you off, Simian.
-TWINS: Simon?
-SIMON: Maybe.
-TWINS: (star struck) Oh my god, it's really you!!!
-SIMON: Nice.
-TWINS: (in unison) Do you wanna see our tits, Simon?
-SIMON: (shrugs) Uh, sure.
+TWINS: ( star struck ) Oh my god, it's really you!!!
+SIMON: ( star struck ) Oh my god, it's really you!!!
+TWINS: ( star struck ) Oh my god, it's really you!!!
+SIMON: ( in unison ) Do you wanna see our tits, Simon?
+TWINS: ( in unison ) Do you wanna see our tits, Simon?
+SIMON: ( shrugs ) Uh, sure.
 TWIN 1: Mmmmm, now that we have your attention, here's another offer you can't refuse.
 SIMON: Here we go.
 TWIN 2: Fifty million euros for control of Kable, instant transfer to the account of your choice.
 SIMON: Question: do I look like I need the money? We've discussed this before - Kable is not for sale.
-TWIN 1: (feeling herself up) Baby... make it a hundred.
+TWIN 1: ( feeling herself up ) Baby. make it a hundred.
 SIMON: It's been real.
-GUY: Hey.
-GORGE: Hi.
-ANGIE: Hi.
+PARTY!!!: We are in a super-saturated world. NOT virtual/animated, but absolutely real - yet the color and immediacy of it is heightened, off-kilter. On the GRASS, a gang of TOKYO POP PUNK ROCKERS are having a WATER BATTLE, blasting and soaking each other with big plastic WATER CANNONS like something out of SLAYERS. A REDHEAD, soaking wet, is FEELING UP HER OWN BREASTS, totally OBLIVIOUS to her surroundings. One of the SKATERS, out of control, PLOWS RIGHT INTO HER at full speed. The SKATER takes a ride on concrete, grinding flesh off her bare legs. she wobbles to her feet, EYES STREAMING TEARS but STILL GRINNING ecstatically. A guy in a PRIEST OUTFIT holding brightly colored helium balloons looks on impassively; then spots something of interest and breaks off SPRINTING FULL SPEED. People are DANCING - the corniest moves ever. MAKING OUT on the ground. and in the middle of it all.
+GUY: He smiles like a Driver's License photo.
+GORGE: 57 EXT. SOCIETY - DAY 57
+ANGIE: We will continue to CUT between the two locations.
 GUY: So what's your damage?
-GORGE/ANGIE: You know, just hanging out. (beat) Looking to meet people.
-GUY: Lucky you...
+GUY: Lucky you.
 DALE: You met me.
-GUY: (echoing) You met me.
-GORGE/ANGIE: I'm Nika.
-DALE/GUY: I'm Dale. (looks her up and down) I like your fur.
-GORGE/ANGIE: Do you want to go somewhere?
-DALE/GUY: We are somewhere. DALE/GUY (cont'd) Thanks for vagina.
-FEMALE NEWS HOST (V.O.): ... a new video prank by the subversive group humanz caused a nationwide stir today...
-FEMALE NEWS HOST: All contact between Society City and an estimated quarter of a million players was shut down for over three hours while Castle techs worked to remove what they described as a "Satellite Infection"...
-NEWS CO-HOST: Don't cry for Castle, he can cover that with the change under his couch cushions...
-FEMALE NEWS HOST: On a personal note - that shit was fucking freaky.
-NEWS CO-HOST: Oh - I literally pissed myself.
-FEMALE NEWS HOST: Sounds like fun.
-NEWS CO-HOST: Serious, these humanz cocksuckers are getting out of control, and someone should do something.
-FEMALE NEWS HOST: Moving on to international headlines...
+GUY: ( echoing ) You met me. I'm Nika.
+ASIAN PRISONER: GET IT OUT OF ME.! What the hell happened to this one?
 GUARD: What the hell happened to this one?
 LIFER: Look like he escaped.
-GUARD: Back to your Jazzercise, girls...
-KABLE: Freak.
-FREEK: Tillmans.
+GUARD: Back to your Jazzercise, girls.
+KABLE: FREEK is there.
+FREEK: Who the hell is that?
 KABLE: Who the hell is that?
-FREEK: New dude, new dude... that's Hackman. They say he killed a whole mess of people, all kind of people... one day he just walk up and turn himself in, like he wanna be inside or some shit... never gonna run out of slayers long as they got that kind of motherfucka run around kill a mess of people...
-HISPANIC GUARD (O.C.): Hey Kable. HISPANIC GUARD (cont'd) Let's go. Upgrades.
+FREEK: New dude, new dude. that's Hackman. They say he killed a whole mess of people, all kind of people. one day he just walk up and turn himself in, like he wanna be inside or some shit. never gonna run out of slayers long as they got that kind of motherfucka run around kill a mess of people.
 HISPANIC GUARD: Who aims?
-KABLE: (caught off guard) What?
-HISPANIC GUARD: Who aims... the slayer? Or the player?
-KABLE: Not much to aiming... it's just hand/eye coordination. I'm the hand... someone, somewhere else is the eye.
+KABLE: ( caught off guard ) Who aims. the slayer? Or the
+HISPANIC GUARD: Who aims. the slayer? Or the
+KABLE: Not much to aiming. it's just hand/eye coordination. I'm the hand. someone, somewhere else is the eye.
 HISPANIC GUARD: That's tripped.
-KABLE: Sometimes... they take over - you know, completely. They move you. Like a robot. (beat) But it doesn't work so good... that part's just for show. You can't really fight that way.
-HISPANIC GUARD: Why?
-KABLE: There's a delay...
-HISPANIC GUARD: Yeah, the ping... they talk about that. The time it takes the slayer to respond to the command... it's like, five millisecond ping, eight millisecond ping...
-KABLE: Whatever you call it. A slice of a second is the difference between living and dying out there. When the trigger pulls - KABLE (cont'd) It's just me.
+KABLE: Sometimes. they take over - you know, completely. They move you. Like a robot. But it doesn't work so good. that part's just for show. You can't really fight that way.
+HISPANIC GUARD: There's a delay.
+KABLE: There's a delay.
+HISPANIC GUARD: Yeah, the ping. they talk about that. The time it takes the slayer to respond to the command. it's like, five millisecond ping, eight millisecond ping.
+KABLE: Whatever you call it. A slice of a second is the difference between living and dying out there. When the trigger pulls - It's just me.
 HACKMAN: Hey. Kable.
 KABLE: Not interested.
 HACKMAN: No. Wait. Look.
 KABLE: Your head ain't on straight.
-HACKMAN: I'm going to delete you too. On Sunday.
+HACKMAN: I'm going to delete you too. On Yeah, probably.
 KABLE: Yeah, probably.
-HACKMAN: That's why they put me here. HACKMAN (cont'd) I've got no strings... So I have fun... I'm not tied up to anyone... They've got strings But you can see There are no strings on me...
+HACKMAN: That's why they put me here. I've got no strings. So I have fun. I'm not tied up to anyone. They've got strings But you can see There are no strings on me.
 KABLE: - the fuck did you say?
-HACKMAN: On the outside... oh, I'm sorry - I meant your pretty girls... You want to get back to them but I'm going to visit them first...
+HACKMAN: On the outside. oh, I'm sorry - I meant your pretty girls. You want to get back to them but I'm going to visit them first.
 CASTLE: He's so perfect.
 CASTLE 2: He's scary.
-CASTLE: Yeah... CASTLE (cont'd) (proudly) The new face of Slayers. Pure crystallized horror, two stories tall and covered in bloody red... (beat) He's so what they want.
-CASTLE 2: (playing dumb) But they love Kable.
+CASTLE: He changes the angle on HACKMAN'S mug to give a better view - then turns to face his DOUBLE.
+CASTLE 2: ( playing dumb ) But they love Kable.
 CASTLE 3: He's right.
-CASTLE: (unaffected) They do now. But when my boy kills their hero right there in front of their eyeballs, so vivid it's like you can reach out and feel the wet flesh - Trust me, they'll change their point of view.
+CASTLE: ( unaffected ) They do now. But when my boy kills their hero right there in front of their eyeballs, so vivid it's like you can reach out and feel the wet flesh - Trust me, they'll change their point of view.
 CASTLE 2: How can you be sure?
-CASTLE: It's human nature. They'll be seduced by the power, the violence... the dominance...
-CASTLE 3: (shaking his head) Guess we never figured on Kable blowing up as big as he did.
-CASTLE: Bigger than the game? No. Then again, who ever would've imagined a player could last over a dozen sessions with the same I-con...
+CASTLE: It's human nature. They'll be seduced by the power, the violence. the dominance.
+CASTLE 3: ( shaking his head ) Guess we never figured on Kable blowing up as big as he did.
+CASTLE: Bigger than the game? No. Then again, who ever would've imagined a player could last over a dozen sessions with the same I-con.
 CASTLE 2: Tillman is a perfect soldier, a tactical killing computer - you dropped him in with common murderers. What did you expect?
-CASTLE 3: (musing) His instincts give him an edge.
-CASTLE 2: And in the hands of a talented player...
+CASTLE 3: ( musing ) His instincts give him an edge.
+CASTLE 2: And in the hands of a talented Of course we can never let him out. Not after what we did to him.
 CASTLE 3: Of course we can never let him out. Not after what we did to him.
-CASTLE 2: Tell me again why we don't just get rid of the problem... (makes a throat slashing motion) You know, off camera?
+CASTLE 2: Tell me again why we don't just get rid of the problem. You know, off camera?
 CASTLE: YOU - lack a flair for marketing. The people would never accept that. They need to SEE their gladiators brought down.
 CASTLE 3: One thing I know is what makes people tick.
-VOICE (O.S.): Kable, dude. It's me.
-KABLE: Who?
-SIMON (O.S.): Simon. (beat) I'm playing you, dummy.
+KABLE: SIMON ( O.S. ) ( beat )
 KABLE: How come I can hear you?
-SIMON (O.S.): It's a mod.
 KABLE: Gamers can't talk to cons.
-SIMON (O.S.): I know.
 SIMON: It's cool, yeah?
 KABLE: No. Pay attention to the game.
-BLUE SOLDIER 4: This is real, this is real, this is real!!!!
-SIMON (O.S.): That was sick.
-KABLE: Wait a minute... are you twelve?
-SIMON (O.S.): I'm nineteen.
+KABLE: Wait a minute. are you twelve?
 KABLE: Bullshit. This is unbelievable. How am I not dead yet?
-SIMON (O.S.): Cause I'm a badass motherfucker.
-FREEK: (mumbling) Gotta keep my holes down... keep `em down. Freek's gonna make it, gonna cut, gonna scatter... gonna burn this joint...
-SIMON (O.S.): Gibs.
-KABLE: What?
-SIMON (O.S.): Like, giblets. Kibbles and bits. Chunks. Pieces.
-KABLE: (burning) These are real humans, fucker.
-SIMON (O.S.): Death row psychos, so what?          They had it coming.
+FREEK: ( mumbling ) Gotta keep my holes down. keep `em down. Freek's gonna make it, gonna cut, gonna scatter. gonna burn this joint.
+KABLE: SIMON ( O.S. )
+KABLE: ( burning ) These are real humans, fucker.
 KABLE: Guess that goes for me too.
-SIMON (O.S.): Yeah, but you're different.
 KABLE: Different how?
-SIMON (O.S.): Dude, I don't know. Cause you're MY psycho.
-SIMON (O.S.): Damn, new area.
 KABLE: That way.
-SIMON (O.S.): Think about it, Kable: all the shit we've been through together. What an epic run. (beat) It's going to suck to see it end.
 KABLE: Are you kidding me?
 SIMON: Well, yeah - I get that for you it's different.
+LATER: KABLE emerges several blocks from where he started, on a narrow block that seems distant from the heat of combat. Buildings shelter the street on either side. several blocks down a LOW WALL BLOCKS THE ROAD - marked with RED DIAGONAL STRIPES and a warning: RESTRICTED.
 KABLE: We should go that way.
-SIMON (O.S.): There's nothing there.
 KABLE: Kid, trust me - I was going house to house in Tehran while you were still sucking mommy's nipple.
-SIMON (O.S.): (sarcastic) Uh, yeah dude, thanks for the visual, but it's a restricted area. It's beyond the borders of the game. I couldn't put you there if I tried.
-SIMON (O.S.): ... shit shit shit!
-HACKMAN: (friendly) Bye Kable. HACKMAN (cont'd) What happened?
-KABLE: (to himself) Kid's gonna get me killed.
-SIMON (O.S.): (offended) Hey.
+HACKMAN: ( friendly ) Bye Kable. What happened?
+KABLE: ( to himself ) Kid's gonna get me killed.
 KABLE: Listen to me. I don't know who's behind it, or why, but I was supposed to die today. They're gunning for us. I can beat them, but not with you controlling me.
-SIMON: What the hell...?
-KABLE: Turn me loose, kid.        You want to win, turn me loose.
-SIMON: But-
+SIMON: What the hell.?
+KABLE: Turn me loose, kid. You want to win, turn me loose.
+SIMON: Find a way.
 KABLE: Find a way.
-CASEWORKER: (looks over her paperwork) So... Miss Roth. CASEWORKER (cont'd) Why are we here today... says you'd like to apply for custody of your child-
-ANGIE: Delia.   Her name is Delia.
+FREE: And then:
+ORDER NOW!: CUT TO:
+CASEWORKER: ( looks over her paperwork ) So. Miss Roth. Why are we here today. says you'd like to apply for custody of your Delia. Her name is Delia.
+ANGIE: Delia. Her name is Delia.
 CASEWORKER: Spouse incarcerated, life without possibility of parole. You use your maiden name.
-ANGIE: My husband - he... it's not entirely true, regarding his sentence. In fact, he's due to be released soon...
-CASEWORKER: Your husband was charged and convicted of first degree murder, Miss Roth. I can hardly consider his release, if it was to occur, to be a positive. CASEWORKER (cont'd) (changes subject, back at the paperwork) You're... an actor?
+ANGIE: My husband - he. it's not entirely true, regarding his sentence. In fact, he's due to be released soon.
+CASEWORKER: Your husband was charged and convicted of first degree murder, Miss Roth. I can hardly consider his release, if it was to occur, to be a positive. You're. an actor?
 ANGIE: I work in society.
 CASEWORKER: Acting, is that what they call it?
 ANGIE: It's a job.
-CASEWORKER: Miss Roth. Your child has been... exceedingly well placed. The new family is very wealthy. She'll never want for anything. (leans in) I understand you love your little girl, but... do you really think she'd be better off with people like you?
-ANGIE: Yes, I do.     I'm her mother.
+CASEWORKER: Miss Roth. Your child has been. exceedingly well placed. The new family is very wealthy. She'll never want for anything. I understand you love your little girl, but. do you really think she'd be better off with people like you?
+ANGIE: Yes, I do. I'm her mother.
 CASEWORKER: We will give your application all the consideration that it merits.
 HUMANZ BROTHER: You like the software?
-SIMON: (confused) Software...
+SIMON: ( confused ) The walkie talkie, playa.
 HUMANZ BROTHER: The walkie talkie, playa.
-SIMON: No shit... you're the guy from TV. The HUMANZ.
+SIMON: No shit. you're the guy from TV. The HUMANZ.
 HUMANZ BROTHER: That's right, baby. You think about what the brotha said?
-SIMON: To what, um, brotha do you refer... brotha?
+SIMON: To what, um, brotha do you refer. Kable wants the freedom to ass- kick. Do shit his way. You gonna give it to him?
 HUMANZ BROTHER: Kable wants the freedom to ass- kick. Do shit his way. You gonna give it to him?
 SIMON: You were listening.
 HUMANZ BROTHER: We see and hear everything that goes on inside the so-called game.
-SIMON: Alright, then. (considering) Kable said we got lucky - that they were gunning for us - what was that all about?
-HUMANZ BROTHER: Kable got a past... he knows things. Things he don't even know he know.
-SIMON: Huh?   What things?
-HUMANZ BROTHER: Things Castle's afraid of. As long as your boy stay on the inside Castle know he can keep him quiet - but if ever got out... (shakes his head) Uh uh. Castle will never let that happen.
+SIMON: Alright, then. Kable said we got lucky - that they were gunning for us - what was that all about?
+HUMANZ BROTHER: Kable got a past. he knows things. Things he don't even know he know.
+SIMON: Huh? What things?
+HUMANZ BROTHER: Things Castle's afraid of. As long as your boy stay on the inside Castle know he can keep him quiet - but if ever got out. Uh uh. Castle will never let that One battle left, I think I can handle my bidness.
 SIMON: One battle left, I think I can handle my bidness.
-HUMANZ BROTHER: You're not hearing me - this is not something you can control. They gonna kill his ass, Simon. In the eyes of the world. And then what? You just another poor little rich honky. No Kable, no pussy, no shit.
-SIMON: This is, come on... too heavy... I don't know what the hell you're talking about... I just play games, man. Games.
-HUMANZ BROTHER: Mm hm. That's right, it's a game. (changing gears) You want to win it, don't you?
+HUMANZ BROTHER: You're not hearing me - this is not something you can control. They gonna kill his ass, Simon. In the eyes of the world. And then what? You just another poor little rich honky. No Kable, no pussy, no
+SIMON: This is, come on. too heavy. I don't know what the hell you're talking about. I just play games, man. Games.
+HUMANZ BROTHER: Mm hm. That's right, it's a game. You want to win it, don't you?
 SIMON: Yeah, dude, I intend to.
-HUMANZ BROTHER: Then you need to cutcho strings, puppet-massa. HUMANZ BROTHER (cont'd) Imagine a slayer that don't got to wait to be told what to do. No ping, you dig? A trained killing machine... operating in real time, on pure instinct.
-SIMON: That... would be cheating.
-HUMANZ BROTHER: A mod, that's all. Like that guidance system you hacked on three weeks ago lets you track motherfuckers around corners and shit.
-SIMON: (nervous) Uhhh...
+HUMANZ BROTHER: Then you need to cutcho strings, Imagine a slayer that don't got to wait to be told what to do. No ping, you dig? A trained killing machine. operating in real time, on pure instinct.
+SIMON: That. would be cheating.
+HUMANZ BROTHER: A mod, that's all. Like that guidance system you hacked on three weeks ago lets you track motherfuckers around corners and The game got to mutate, after all. It got to evolve, you feel me?
+SIMON: ( nervous ) The game got to mutate, after all. It got to evolve, you feel me?
 HUMANZ BROTHER: The game got to mutate, after all. It got to evolve, you feel me?
 SIMON: I do. I do feel you.
-HUMANZ BROTHER: Then let's rock, baby. FreeNigga.exe
-WOMAN (O.S.): (whispering) Tillman.
-KABLE: You.
-WOMAN (O.S.): We know you talked to him... your Player.
-KABLE: You're not a guard... who are you?
-WOMAN (O.S.): A friend.
+HUMANZ BROTHER: Then let's rock, baby.
+KABLE: WOMAN ( O.S. )
+KABLE: You're not a guard. who are you?
 KABLE: I don't have any.
-WOMAN (O.S.): Listen to me: Simon's going to give you what you want. What you asked him for.
 KABLE: How do you know that?
-WOMAN (O.S.): I know something else: whether or not he's controlling you, you will never reach the save point. Castle won't allow it.
 KABLE: We'll see.
-WOMAN (O.S.): No. Listen to me, Tillman - the game is unwinnable - they will not let you live. If you're want to get out and see the people in the picture you'll have to find another way.
 KABLE: I need you to get me something.
-WOMAN (O.S.): What, Kable... what can I get you?
-KABLE: Drunk.
-VOICE (O.C.): What's he got there? VOICE (cont'd) Kable, what the hell is that?!
-SIMON (O.S.): (sarcastic) I can see turning you loose was a great idea.
-KABLE: (woozy) What happened.
-SIMON (O.S.): YOU happened, jackass. You wanted control, you got it.
-KABLE: No shit...
-SIMON (O.S.): Yeah, that's right. So please don't fuck up...
-SIMON (O.S.): What's the matter with you Kable? Kill something!
-SIMON (O.S.): (frustrated) Fuck it. SIMON (O.S.) (cont'd) (the voice of reason) Kable. Listen: it's the last game. You're going to be dead and I'm going to look like a total asshole if you don't pull your balls together!
+KABLE: FADE TO BLACK.
+KABLE: ( woozy ) What happened.
+KABLE: No shit.
 KABLE: Blow me.
-SIMON (O.S.): Dammit!
-SIMON (O.S.): Kable. Dude. What are you doing? SIMON (O.S.) (cont'd) What the hell?
-KABLE: Yeah? Anything else ya fuckin cheerleader?
-HACKMAN: Fuuuuck!!!!
-SIMON (O.S.): Kable, PLEASE... get back in the game! YOU'RE SCREWING MY ASS,
-SIMON: Um.
-KABLE: (relieved) Ughh, that was the one.
-SIMON: Shit, shit, SHIT! SIMON (cont'd) I'm dead.
-FEMALE VOICE: Please stand by... Please stand by... Please stand by...
+KABLE: Yeah? Anything else ya fuckin
+HACKMAN: He slams his head into the windshield of a parked car, caving it in.
+KABLE!!!: KABLE ignores him; he picks up his WEAPON, points it out the window at the FLY and FIRES. the FLY jukes out of the way, barely. it spins off OUT OF CONTROL and SMASHES through the window of a building. Bye, FLY.
+SIMON: 97 EXT. SLAYERS RESTRICTED AREA - CONTINUOUS 97
+KABLE: ( relieved ) Ughh, that was the one.
+SIMON: Shit, shit, SHIT! I'm dead.
+FEMALE VOICE: Please stand by. Please stand by. Please stand by.
 FRAT GUY: What just happened?
-FEMALE NEWS HOST: To recap: initial reports are that Kable, the most recognizable face of the Slayers phenomenon next to Ken Castle himself - is officially listed as fragged...
-NEWS CO-HOST: (bitter) That's bullshit.
-FEMALE NEWS HOST: ... just one session away from being the first slayer ever to win a full pardon and release.
-FEMALE NEWS HOST: In a NETCAST plagued by technical difficulties and dead spots the report could NOT be confirmed - however KABLE - born John Tillman of Albany, New York and convicted of murder just four years ago - has been removed from Slayers rosters and upcoming events listings. FEMALE NEWS HOST (cont'd) His player, gaming megastar Simon Silverton - could not be reached for comment.
-TRACE: She's not home. TRACE (cont'd) But Castle's personal security will be, soon enough - trust me, you don't want to meet them. (beat) You know, it's pretty obvious that you'd come here first.
+TRACE: She's not home. But Castle's personal security will be, soon enough - trust me, you don't want to meet them. You know, it's pretty obvious that you'd come here first.
 KABLE: Who are you?
 TRACE: You asked me that once before.
-KABLE: Your voice...
-TRACE: You should really come with me... TRACE (cont'd) ... like, NOW.
+KABLE: Your voice.
+TRACE: You should really come with me. . like, NOW.
 TRACE: Hang on.
 HUMANZ BROTHER: You a fool.
 HUMANZ DUDE: Stop playing that freaky shit off the rail.
 HUMANZ BROTHER: It's a game of deception.
-HUMANZ DUDE: Whatever, that's cuz you got no power...
-HUMANZ BROTHER: Bullshit.
+HUMANZ DUDE: Whatever, that's cuz you got no
+HUMANZ BROTHER: You guys suck.
 KABLE: You guys suck.
-HUMANZ DUDE: (impressed) Kable. Holy shit.
+HUMANZ DUDE: ( impressed ) Kable. Holy shit.
 HUMANZ BROTHER: His name's Tillman.
-HUMANZ DUDE: Whatever. (to KABLE) You made it. You're really here.
+HUMANZ DUDE: ( to KABLE ) You made it. You're really here.
 KABLE: You're the ones who broke me out?
 TRACE: We only freed your mind.
 HUMANZ BROTHER: Your ass followed.
-HUMANZ DUDE: Hey, Kable... HUMANZ DUDE (cont'd) You're... great.
-HUMANZ BROTHER: (to Kable) You got questions.
-KABLE: A few. KABLE (cont'd) She took my blood. Why?
-HUMANZ DUDE: The nanex modifies the actual cell structure of your brain...
-(MORE): HUMANZ DUDE (cont'd) we can crack it, but it's not one size fits all; we needed your DNA to generate custom code.
-KABLE: Alright.    Why me?
+HUMANZ DUDE: Hey, Kable. You're. great.
+HUMANZ BROTHER: ( to Kable ) You got questions.
+KABLE: A few. She took my blood. Why?
+HUMANZ DUDE: The nanex modifies the actual cell structure of your brain.
+KABLE: Alright. Why me?
 HUMANZ DUDE: Because Castle's scared of you.
-HUMANZ BROTHER: It ain't just a game, you know, Tillman. Everyday there's more people steppin forward, wanna be a part of Castle's world. Throwing away everything it means to be human.
-TRACE: Right now it's the desperate ones... convicts, addicts... the sick, the poor... the ones that fell through the cracks... they have no choice.
+HUMANZ BROTHER: It ain't just a game, you know, Tillman. Everyday there's more people steppin forward, wanna be a part of Castle's world. Throwing away everything it means to be Right now it's the desperate ones. convicts, addicts. the sick, the poor. the ones that fell through the cracks. they have no choice.
+TRACE: Right now it's the desperate ones. convicts, addicts. the sick, the poor. the ones that fell through the cracks. they have no choice.
 HUMANZ DUDE: But this is only the beginning.
-HUMANZ BROTHER: Think about it: the federal prison system is growing out of control, set to bankrupt the whole damn USA... Castle rides in on a white horse, says he got a plan to bail us out and everyone just fall in line.
-TRACE: So what's next? The health care system is collapsing - Castle comes to the rescue again...
-HUMANZ BROTHER: This time he's pushin total control of genetic disease... birth defects a thing of the past... all we gotta do is exchange our cells for the ones he wanna give us.
+HUMANZ BROTHER: Think about it: the federal prison system is growing out of control, set to bankrupt the whole damn USA. Castle rides in on a white horse, says he got a plan to bail us out and everyone just fall in So what's next? The health care system is collapsing - Castle comes to the rescue again.
+TRACE: So what's next? The health care system is collapsing - Castle comes to the rescue again.
+HUMANZ BROTHER: This time he's pushin total control of genetic disease. birth defects a thing of the past. all we gotta do is exchange our cells for the ones he wanna give us.
 TRACE: The promise of a longer life and a fatter wallet - you think people will refuse?
 HUMANZ DUDE: Hell no.
 HUMANZ BROTHER: They'll be standing in line to hand their babies over to him. Next thing you know, we all slaves.
 TRACE: We can't let that happen.
 HUMANZ DUDE: Gotta bring the man down.
-TRACE: You can help us, Tillman. (with urgency) You have to help us.
+TRACE: You can help us, Tillman. You have to help us.
 KABLE: I can't help you.
-HUMANZ BROTHER: Tillman. HUMANZ BROTHER (cont'd) We know where she is.
+HUMANZ BROTHER: KABLE ignores him - he's OUT. But HUMANZ BROTHER FREEZES him in his tracks:
 AGENT KEITH: Guess you remember that day.
 SIMON: Good times.
-AGENT KEITH: Sure. On the outside.        Now look at these. AGENT KEITH (cont'd) This is what it's like on the inside. (beat) Wonder how long you'd last on the other side of the screen. AGENT KEITH (cont'd) Simon, you're being held today suspected of aiding in the escape of a convicted murderer from a maximum security penitentiary. The charge is... beyond serious. Your hard drives have been seized - forensics is decrypting the contents as we speak. Your internet activity over the last ten years is being scrutinized and catalogued in minute, vivid detail...
-SIMON: Yeah, um... I need something too.
-AGENT KEITH: (ice cold) Do you now? And what might that be?
-SIMON: Could you dudes do a sandwich like: peanut butter, almond butter, walnut butter... pecan butter, pistachio butter... pretty much any kind of, you know, nut butter. And Welch's grape.
+AGENT KEITH: Sure. On the outside. Now look at This is what it's like on the Wonder how long you'd last on the other side of the screen. Simon, you're being held today suspected of aiding in the escape of a convicted murderer from a maximum security penitentiary. The charge is. beyond serious. Your hard drives have been seized - forensics is decrypting the contents as we speak. Your internet activity over the last ten years is being scrutinized and catalogued in minute, vivid
+SIMON: Yeah, um. I need something too.
+AGENT KEITH: ( ice cold ) Do you now? And what might that be?
+SIMON: Could you dudes do a sandwich like: peanut butter, almond butter, walnut butter. pecan butter, pistachio butter. pretty much any kind of, you know, nut butter. And Welch's grape.
 AGENT KEITH: Pistachio. They make that?
 SIMON: It's awesome.
 BARTENDER: The usual?
 RICK RAPE: Hi Nika.
-ANGIE: Oh. Hi. Rick Rape, right? ANGIE (cont'd) I thought you weren't allowed to come here anymore.
+ANGIE: Oh. Hi. Rick Rape, right? I thought you weren't allowed to come here anymore.
 RICK RAPE: That was just last month. I was a bad boy.
 ANGIE: Are you still a bad boy?
-RICK RAPE: Urkk.
-GORGE/ANGIE: Please don't kill me. GORGE/ANGIE (cont'd) I'll do anything.
-KABLE: Don't say that. KABLE (cont'd) Stop. KABLE (cont'd) This isn't you. KABLE (cont'd) (trying to contain his
-RAGE): God damn it... YOU - in there... controlling her... let her talk, motherfucker.
-GORGE/ANGIE: I can't. GORGE/ANGIE (cont'd) She has to say what I tell her.
-KABLE: (almost whispering) You can hear me, baby. I know you can. KABLE (cont'd) I love you... love you...
-GORGE/ANGIE: I love you too.
-KABLE: (snapping)
-SHUT UP!!!: KABLE (cont'd) Say anything else and I'll find you... I'll rip you TO FUCKING PIECES, do you understand me? KABLE (cont'd) (to ANGIE) I'm getting you out of here.
-KABLE: (quiet) I'm going to take you someplace where they can turn it off... the program...
-HACKMAN: (friendly) Hi, Kable.
-HACKMAN: (to ANGIE) Anybody in there?
-GORGE/ANGIE: Come on... do it...
-KABLE: (to GORGE) You. Run.
-GINA PARKER SMITH: I can get you out.
-GINA PARKER SMITH: I can't believe it's you. This is... (gathering herself) Listen: you can trust me, Kable.
-KABLE: (quietly) If not...
+RICK RAPE: She TURNS. KABLE has RICK RAPE up in the air, holding him like a BARBELL - with one hand CRUSHING HIS THROAT, the other his BALLS. He brings him down over his knee, SNAPPING HIM like a BROKEN BAT
+KABLE: Don't say that. This isn't you.
+RAGE ): God damn it. YOU - in there. controlling her. let her talk,
+KABLE: ( almost whispering ) You can hear me, baby. I know you I love you. love you.
+KABLE: ( snapping )
+SHUT UP!!!: He's SCREAMING directly at GORGE, who cowers in his chair as if KABLE were in the room with him. GORGE/ANGIE nods.
+KABLE: ( quiet ) I'm going to take you someplace where they can turn it off. the
+HACKMAN: ( friendly ) Hi, Kable.
+HACKMAN: ( to ANGIE ) Anybody in there?
+KABLE: YOU! WHERE THE HELL DO WE GO?
+KABLE: ( to GORGE ) You. Run.
+KABLE: ( quietly ) If not.
 KABLE: Now what?
-HUMANZ DUDE: (shrugs) The crack works - you're the proof... we put the DNA in the soup, light it up, extract it - then feed my girl's sequence into the code and we're good to go.
-GINA PARKER SMITH: (thinking out loud) It's an anti-spyware program.
+HUMANZ DUDE: ( shrugs ) The crack works - you're the proof. we put the DNA in the soup, light it up, extract it - then feed my girl's sequence into the code and we're good to go.
 HUMANZ DUDE: Basically. We can't quarantine the foreign cells per se but we can disable their ability to transmit and receive.
-GINA PARKER SMITH: Fuck that. I'd make you cut it out of me.
 TRACE: That would be like cutting out part of your brain.
-(MORE): TRACE (cont'd) The nanocells replace the cells they replicate... they become you.
 KABLE: How long will she sleep?
-TRACE: We're going to have to keep her sedated until we can kill the link... otherwise she's broadcasting everything she sees or hears.
-HUMANZ DUDE: Thirty minutes... you give us a robot, we give you back a super hot human.
-HUMANZ BROTHER: Tillman. HUMANZ BROTHER (cont'd) We need to talk, my man.
+TRACE: We're going to have to keep her sedated until we can kill the link. otherwise she's broadcasting everything she sees or Thirty minutes. you give us a robot, we give you back a super hot
+HUMANZ DUDE: Thirty minutes. you give us a robot, we give you back a super hot
+HUMANZ BROTHER: KABLE looks.
 KABLE: So talk.
 HUMANZ BROTHER: Come on.
-HUMANZ BROTHER (V.O.): Ken Castle made his first billion designing virtual reality simulators for the US military. Six years ago he brought them something new - a breakthrough so profound, he said, that history would be divided up between everything before and everything that came after.
 KABLE: Yeah. He was.
 HUMANZ BROTHER: The second was you.
-KABLE: The idea was to replace your brain, bit by bit, cell by cell, gradual... the new tissue would never break down, never deteriorate. (bitter) A new era in human longevity is what they told us. We were doing the world a favor.
-HUMANZ BROTHER: (nods) Nine weeks later Scotch was dead and you were serving life in maximum. Castle's project was shut down... but the shit wasn't a total loss: the same technology resurfaced within a year... in a game. Castle called it society.
+KABLE: The idea was to replace your brain, bit by bit, cell by cell, gradual. the new tissue would never break down, never A new era in human longevity is what they told us. We were doing the world a favor.
+HUMANZ BROTHER: ( nods ) Nine weeks later Scotch was dead and you were serving life in maximum. Castle's project was shut down. but the shit wasn't a total loss: the same technology resurfaced within a year. in a game. Castle called it society.
 KABLE: Thank you for the history lesson.
 HUMANZ BROTHER: Dig me, Tillman. Whatever happened in that project is something Castle wanna be buried. We need that shit, baby: what you saw, what you know.
 KABLE: I don't know what to tell you.
-HUMANZ BROTHER: You ain't gotta tell me shit, Tillman. (beat) I want you to show me.
-TRACE (O.C.): Alright. We're ready to rock. TRACE (O.C.),(cont'd) Let's transmit in three... two... one...
-GORGE: Hooz there? GORGE (cont'd) (freaked) What are you doing here? Who are you?
+HUMANZ BROTHER: You ain't gotta tell me shit, I want you to show me.
+GORGE: Hooz there? What are you doing here? Who are
 GEEK LEADER: Tech support.
-GINA PARKER SMITH: What are we looking at?
-HUMANZ BROTHER: His memories... translated as raw audiovisual data.
-GINA PARKER SMITH: I read something about this. But that tech is supposed to be a decade away...
-HUMANZ DUDE: Current exponential rate of growth, I can't imagine a piece of tech that will take that long to come around. HUMANZ DUDE (cont'd) They'll have better shit than this in Best Buy within 18 months.
+HUMANZ BROTHER: His memories. translated as raw audiovisual data.
+HUMANZ DUDE: Current exponential rate of growth, I can't imagine a piece of tech that will take that long to come They'll have better shit than this in Best Buy within 18 months.
 SCOTCH: Tillman. Never thought I'd be so glad to see your ugly grille.
-KABLE: Scotch.
-SCOTCH: (mimicking him) Scotch. (back in character) I'll tell you what man: this place sucks.
-SCOTCH: (to KABLE, grinning) They got me hooked up to computers five hours a day... nurses feeding me vitamins, giving me shots, wiping my butt - male nurses, I might add...
-SCOTCH: What about you? You're dressed like a semi-human being... they let you out already?
+KABLE: ( mimicking him ) ( back in character ) I'll tell you what man: this place
+SCOTCH: ( mimicking him ) ( back in character ) I'll tell you what man: this place
+SCOTCH: ( to KABLE, grinning ) They got me hooked up to computers five hours a day. nurses feeding me vitamins, giving me shots, wiping my butt - male nurses, I might add.
+SCOTCH: What about you? You're dressed like a semi-human being. they let you out already? I'm not getting out.
 KABLE: I'm not getting out.
-SCOTCH: (confused)
-OK.: (beat) Tillman... dude. Are you good?
+SCOTCH: ( confused )
 KABLE: I'm fine.
 SCOTCH: Uh huh. You don't look good.
 KABLE: I'm sorry.
-SCOTCH: (hesitant, making light) Well, it's not like you ever looked that good... SCOTCH (cont'd) (quietly) Tillman, what did they do to you?
-GINA PARKER SMITH: What's happening?
-SCOTCH: (freaked) Tillman...
-KABLE: I can't stop it... can't...
+SCOTCH: ( hesitant, making light ) Well, it's not like you ever looked that good. ( quietly ) Tillman, what did they do to you?
+SCOTCH: ( freaked )
+KABLE: I can't stop it. can't.
 SCOTCH: Who are you?
-KABLE: I'm sorry...
-HUMANZ DUDE: Not the best commercial for K-soft technology.
-GINA PARKER SMITH: You can say that again.
-TRACE: (bitter) He made him do it.       Castle made him do it.
+KABLE: I'm sorry.
+HUMANZ DUDE: Not the best commercial for K-soft
+TRACE: ( bitter ) He made him do it. Castle made him do it.
 HUMANZ BROTHER: A test.
 KABLE: It's you.
-ANGIE: I missed you... so much...
-KABLE: (softly) Delia. KABLE (cont'd) Baby... what did they do?
+ANGIE: I missed you. so much.
+KABLE: ( softly ) Baby. what did they do?
 ANGIE: I couldn't stop them.
-TRACE (O.C.): Nobody could. TRACE (cont'd) Your daughter was taken into foster care by the state two years ago. TRACE (cont'd) The foster parent paid good money to remain anonymous... to make sure the girl would be untraceable. But there's always a data trail, if you know where to look. (shrugs) We do.
 KABLE: Where is she?
-TRACE: I'm sorry, Tillman. Guess he needed an insurance policy. (long BEAT) She's with Castle.
-GINA PARKER SMITH: Tillman! GINA PARKER SMITH (cont'd) (out of breath) Wait. I want to come with you.
+TRACE: I'm sorry, Tillman. Guess he needed an insurance policy. She's with Castle.
 KABLE: That's all the story you're going to get.
-AGENT KEITH (O.C.): Alright, Silverton. Get up and get out.
-SIMON: Cool.
-AGENT KEITH: (sarcastic) Yeah, ain't it? Looks like someone up the chain decided you're no longer a threat.
-FEMALE VOICE: No link... no link.
-KABLE: Delia... KABLE (cont'd)
-KEN CASTLE (O.S.): Not bad for video, eh? KEN CASTLE (O.S.) (cont'd) The latest and greatest... defy you to tell it from real life. You imagine porn on this thing?
-KEN CASTLE: (genuinely stoked) You're awesome.
-KABLE: Castle.
-KEN CASTLE: Kable.
-KABLE                               KEN CASTLE: KEN CASTLE (cont'd) ... you just want your little sugar pie, I know. So don't do anything stupido. My house, my rules. KEN CASTLE (cont'd) Come on, I want to show you something.
-KEN CASTLE: I've got to thank you for leading me to them, by the by - the human- zuzz that is... KEN CASTLE (cont'd) Of course, soon enough they'd be whistling my tune like everybody else... but meantime it was that little cracker program they dreamed up that got my attention...
-(MORE): KEN CASTLE (cont'd) that was a genuine nuisance, no doubt about it... One thing even they didn't know, though: I'm wired too.
-KEN CASTLE: But mine's different. (taps his FOREHEAD) Built to send - to transmit . Whereas every other K-soft cell out there - including the ones in... (taps KABLE'S forehead ) your head, Kable - is designed to receive. I think it, you do it. KEN CASTLE (cont'd) We're talking every Slayer, everyone in Society City... I believe your better half would fall under that category... provided they're within range of my transmitters...
-KABLE: (sarcastic) Very nice, Castle. So you've got an army of psychotics and deviants to dance around for you.
+SIMON: AGENT KEITH ( sarcastic )
+AGENT KEITH: ( sarcastic ) Yeah, ain't it? Looks like someone up the chain decided you're no longer a threat.
+CHEATER: It's over. SIMON sits down in the middle of the detritus, in a state of mild SHOCK - he's LOST EVERYTHING.
+FEMALE VOICE: No link. no link.
+KABLE: . and finally breaking into a run - until: He SLAMS into what seems to be an INVISIBLE WALL, crumpling to the ground. The GIRL doesn't react. KABLE pounds on the
+DELIA!: . then looks closer, running his fingers across the SMOOTH
+KEN CASTLE: ( genuinely stoked ) You're awesome.
+KABLE: KEN CASTLE
+KEN CASTLE: They speak simultaneously:
+KEN CASTLE: I've got to thank you for leading me to them, by the by - the human- zuzz that is. Of course, soon enough they'd be whistling my tune like everybody else. but meantime it was that little cracker program they dreamed up that got my attention.
+KEN CASTLE: But mine's different. Built to send - to transmit . Whereas every other K-soft cell out there - including the ones in. your head, Kable - is designed to receive. I think it, you do it. We're talking every Slayer, everyone in Society City. I believe your better half would fall under that category. provided they're within range of my
+KABLE: ( sarcastic ) Very nice, Castle. So you've got an army of psychotics and deviants to dance around for you.
 KEN CASTLE: You're thinking small, Kable. But not as small as me.
-KABLE: You should've let him fight for himself, Castle - he might've had a shot.
-KEN CASTLE: (pleasant) I think you're missing the point, my man.
-KABLE: No, I get it - you're pulling the strings on all of this... (starts to move toward CASTLE with BAD INTENT) ... which makes my next move pretty easy to figure.
-KEN CASTLE: Neglected to mention: my smart boys reversed that hack those fellas worked for you - easy breezy, once we had access to their drives...
-KEN CASTLE: (on SCREEN) Come on, lets boogie woogie rock and roll.
-SIMON: Ummm.
-KEN CASTLE: Biggest, baddest Slayer in the game... don't seem like much, does he? KEN CASTLE (cont'd) Oww! KEN CASTLE (cont'd) Lucky shot. (grins) OK, not really. KEN CASTLE (cont'd) I need an audience, boys.
-KABLE: (desperate) No.
-KEN CASTLE: Just like last time. Remember?
+KABLE: You should've let him fight for himself, Castle - he might've had a I think you're missing the point, my man.
+KEN CASTLE: ( pleasant ) I think you're missing the point, my man.
+KABLE: No, I get it - you're pulling the strings on all of this. . which makes my next move pretty easy to figure.
+KEN CASTLE: Neglected to mention: my smart boys reversed that hack those fellas worked for you - easy breezy, once we had access to their drives.
+KEN CASTLE: ( on SCREEN ) Come on, lets boogie woogie rock and roll.
+SIMON: CUT BACK TO:
+KEN CASTLE: Biggest, baddest Slayer in the game. don't seem like much, does Lucky shot. OK, not really. I need an audience, boys.
+KABLE: ( desperate ) Just like last time. Remember? WHITE KABLE SCRIPT - 9/19/2007 You're stronger now. a little more fight in you. but I think the end result will be about the ( freaked ) What the hell was that?
+KEN CASTLE: Just like last time. Remember? You're stronger now. a little more fight in you. but I think the end result will be about the What the hell was that?
 PONYTAIL GEEK: There are 2 networks accessing the same IP address.
-GEEK LEADER: Someone on the outside is sending him commands...
-KEN CASTLE: (panicking)
-GEEK: (irritated) Working on it...
-KEN CASTLE: (like he's explaining the obvious to a child) I think it. KEN CASTLE (cont'd) You... fucking... do it...
-KABLE: Look at this knife... imagine me sticking it into your gut... think about it... make it real.
-GEEK LEADER: (blank) Oops.
-SIMON: (triumphant)
-KABLE: Damn it, kid... KABLE (cont'd) ... is the fuckin pose really necessary?
-SIMON: Sorry.
+GEEK LEADER: Someone on the outside is sending him commands.
+KEN CASTLE: ( panicking )
+RETARDS!: ( irritated ) Working on it.
+GEEK: ( irritated ) Working on it.
+KEN CASTLE: ( like he's explaining the I think it. You. fucking. do it.
+KABLE: Look at this knife. imagine me sticking it into your gut. think about it. make it real.
+GEEK LEADER: ( blank )
+SIMON: ( triumphant )
+YES!!!: He drops down into the badass, ROCKSTAR pose.
+KABLE: Damn it, kid. . is the fuckin pose really
+SIMON: KABLE'S body relaxes; he tosses the knife across the floor. then turns to face his family. When DELIA finally speaks there is a trace of CASTLE'S Georgia peach accent.
 DELIA: Are you my Daddy Tillman?
-KABLE: Wait.
-GEEK: Pardon?
-KABLE: The nanex.     Set us free. KABLE (cont'd) It's nothing to you. A mouse- click.
-GEEK LEADER: True dat. GEEK LEADER (cont'd) Well played, Kable.
+KABLE: ( CONTINUED )
+GEEK: The nanex. Set us free. It's nothing to you. A mouse-
+KABLE: The nanex. Set us free. It's nothing to you. A mouse-
+GEEK LEADER: True dat. Well played, Kable.
 DELIA: Mommy. Why did Daddy Tillman hurt Daddy Ken?
-TRACE: This is for you, you dumb bitch.           I hope you do the right thing with it.
-GINA PARKER SMITH: Oh, baby...
+TRACE: This is for you, you dumb bitch. I hope you do the right thing with
 KABLE: You good, sweetheart?
+THE END: Writers : Mark Neveldine Brian Taylor

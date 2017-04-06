@@ -1,216 +1,211 @@
 CHAOS: Written by Tony Giglio
-KAREN CROSS: ... Police on scene are approaching the suspect. They're at the center of the Bridge now.
-KAREN CROSS (OS): We have shots fired. Shots have been fired... Both the suspect and his hostage are down... Police are moving in... Oh my God.
-KAREN CROSS (OS): After a two month investigation, Det. Jason York has been relieved of duty for his role in the Pearl Street Bridge shooting deaths of Lisa ReAnn and John Curtis. Key testimony against York came from Det. Bernard Callo, who was on scene that night. The Seattle Police Department is handing this case over to the King County District Attorney's office. Criminal charges are expected.
-JENKINS: In a civilized society, the men and women entrusted with serving and protecting the community are to be held accountable just like everyone else. Simply put... Just because you are a cop, doesn't mean laws don't apply to you. This is no longer the wild, wild west.
+BRIDGE.": ON THE BRIDGE. RAIN POURS DOWN. An SUV steers out of control and CRASHES into a STALLED OUT VEHICLE. It's quiet NOW, EXCEPT FOR THE INCESSANT pounding rain. IN THE DISTANCE, police lights approach.
+KAREN CROSS: . Police on scene are approaching the suspect. They're at the center of the Bridge now.
+OUT!: SHOOTING SCRIPT MARCH 15, 2004 2.
+JENKINS: In a civilized society, the men and women entrusted with serving and protecting the community are to be held accountable just like everyone else. Simply put. Just because you are a cop, doesn't mean laws don't apply to you. This is no longer the wild, wild
 KAREN CROSS: This same review board last week found Quentin Conners, Det. York's partner, "not responsible" for the same shooting. He remains on suspension without pay.
-LOREN: Drop to the floor! Slowly! No sudden moves! (to the Tellers) You! Hands on heads, drop to your knees. Now! Do it!
-LORENZ: That... you don't want to do.
-LORENZ: Y'all picked the wrong day not to use the ATM. (Beat) You will not be harmed if you do exactly what I say, when I say it. You
-(MORE): LORENZ (cont'd) take your chances if you choose not to listen.
-LORENZ: No one will say I didn't give you a choice.
-BLACK CLAD #2: (into his headset) I'm in.
-LORENZ: You, up. (the Bank Manager obeys) You understood what I just said?
-BANK MANAGER: Yes.
-LORENZ: Your security system, you can electronically lock all entrances...
-BANK MANAGER: Yes.   Right-right away.
+RINGS OUT!: Drop to the floor! Slowly! No sudden You! Hands on heads, drop to your knees. Now! Do it!
+LOREN: Drop to the floor! Slowly! No sudden You! Hands on heads, drop to your knees. Now! Do it!
+LORENZ: That. you don't want to do.
+LORENZ: Y'all picked the wrong day not to use the ATM. You will not be harmed if you do exactly what I say, when I say it. You
+LORENZ: No one will say I didn't give you a
+LORENZ: You, up. You understood what I just said?
+BANK MANAGER: Your security system, you can electronically lock all entrances.
+LORENZ: Your security system, you can electronically lock all entrances.
+BANK MANAGER: Yes. Right-right away.
 LORENZ: With that attitude, you and I are going to get along famously. Now go.
-BANK MANAGER: It's done.     We're locked down.
+BANK MANAGER: It's done. We're locked down.
 JENKINS: Have you seen my watch?
 JENKINS: This was fun. You should get out of bed. You'll be late for work.
-BLACK CLAD #2: (into his headset) Fire in the hole.
+THE VAULT!: 13 INT. LOBBY - AMERICAN NATIONAL BANK 13
 LORENZ: What do you think you're doing?
-BLACK CLAD #4: Fucker pushed the alarm.
-LORENZ: It would've made more sense to shoot him before he pushes the fucking alarm. Not after. (looks at the Eager Teller) Jesus.
-LORENZ: And... If you're going to do something. (FIRES his weapon!) Do it right.
-LORENZ: (into microphone) Alarm's tripped. We're on a clock. (to Black Clad #4) Get these people out of the way.
-TEDDY: (beat, then) This is Detective Galloway.
-CALLO: (into his radio) I want all points of entry identified and covered. We need SWAT here now. Have emergency crews standing by!
-OFFICER AT BANK: (re: the Media) Didn't take them long.
-CALLO: Set a perimeter.    Move'em back.
-OFFICER AT BANK: How far?
-CALLO: Portland.
+LORENZ: It would've made more sense to shoot him before he pushes the fucking alarm. Not after.
+LORENZ: And. If you're going to do something. Do it right.
+LORENZ: ( into microphone ) Alarm's tripped. We're on a clock. ( to Black Clad #4 ) Get these people out of the way.
+TEDDY: ( beat, then ) This is Detective Galloway.
+CALLO: ( into his radio ) I want all points of entry identified and covered. We need SWAT here now. Have emergency crews standing by!
+CALLO: Set a perimeter. Move'em back.
+CALLO: A17 INT. SMALL OFFICE - AMERICAN NATIONAL BANK - DAY A17
 DAX: We have them on the line.
 DAX: We're hot.
-CALLO: (into phone) This is Detective Callo, Seattle P.D. Who am I speaking with?
+CALLO: ( into phone ) This is Detective Callo, Seattle P.D. Who am I speaking with?
 LORENZ: No questions. It's time to set the rules. I am in complete control of this facility. No one gets in or out without my say and I will execute every last man, woman and child in here if my needs are not met. Do not test me. Today, I am a man of zero patience.
 CALLO: I'm listening.
-LORENZ: See if you can't screw this up, Detective... I have but one demand. One and only demand.
+LORENZ: See if you can't screw this up, Detective. I have but one demand. One and only demand.
 CONNERS: Do you have a warrant?
 JENKINS: I need to speak to you, Quentin.
 CONNERS: There's where your shit out of luck because I don't need to speak to you.
 JENKINS: It's important.
 JENKINS: Quentin, this is Detective Shane Dekker.
-CONNERS: Huh? You don't look like much of a Detective.
+CONNERS: Huh? You don't look like much of a Funny. I was going to say the same about you.
 DEKKER: Funny. I was going to say the same about you.
-CONNERS: Charming.
-JENKINS: Shane just transferred in from Tacoma.      His father...
-CONNERS: Save your breath. I really don't care.
-CONNERS: Why don't we can the chit-chat.    Get to what's on your mind.
+CONNERS: Shane just transferred in from Tacoma. His Save your breath. I really don't care. Why don't we can the chit-chat. Get to what's on your mind.
+JENKINS: Shane just transferred in from Tacoma. His Save your breath. I really don't care. Why don't we can the chit-chat. Get to what's on your mind.
+CONNERS: Save your breath. I really don't care. Why don't we can the chit-chat. Get to what's on your mind.
+CONNERS: Why don't we can the chit-chat. Get to what's on your mind.
 JENKINS: We've got a hostage situation, American National Bank. The sonsabitches said they wouldn't talk to anyone but you.
 CONNERS: No shit?
-JENKINS: No shit.   I need you to do this.
+JENKINS: No shit. I need you to do this.
 CONNERS: Why should I?
 DEKKER: Because people's lives are at stake. That takes priority over your ego.
-CONNERS: (to Jenkins; re: Dekker) You may want to put a leash on him. (beat; thinks) Saying I did want to help... I'm still suspended or did that slip your mind?
+CONNERS: ( to Jenkins; re: Dekker ) You may want to put a leash on him. ( beat; thinks ) Saying I did want to help. I'm still suspended or did that slip your mind?
 JENKINS: The commissioner's office has ordered me to reinstate you. As of now, you're back on the force.
 CONNERS: Just like that?
-JENKINS: Just like that. (beat) I won't, however, unleash you alone.
+JENKINS: Just like that. I won't, however, unleash you alone.
 CONNERS: Always a catch.
 JENKINS: Shane, here, is your new partner. Consider him a younger version of me, looking over your shoulder, watching every move you make.
-JENKINS: Don't think I endorse this. If it were my call, you'd be with your partner...
+JENKINS: Don't think I endorse this. If it were my call, you'd be with your partner.
 CONNERS: You mean ex-partner.
-JENKINS: ... On the unemployment line with him.
-CONNERS: For a moment there, I thought you cared.
+JENKINS: . On the unemployment line with him.
+CONNERS: For a moment there, I thought you SHOOTING SCRIPT MARCH 15, 2004 12.
 JENKINS: I care about those innocent people down there. I hope to God someone hasn't made a monumental mistake letting you back in.
 CONNERS: I appreciate the words of encouragement and the confidence you have in me. I look forward to the continuing, positive relationship we've shared in the past.
 KAREN CROSS: Detective Conners? Detective, can we have a few words?
-CONNERS: I'll give you two... (pauses for effect) Blow me. If you need a follow-up comment let me know? (to Dekker) Cunt made her career off me.
-CONNERS: Teddy, Vincent... (completely ignores Callo) ... Nice to see you both.
+CONNERS: I'll give you two. Blow me. If you need a follow-up comment let me know? Cunt made her career off me.
+CONNERS: Teddy, Vincent. . Nice to see you both.
 JENKINS: Conners has been reinstated to full active duty. It's his scene.
 CALLO: The last hostage situation this guy headed, an innocent civilian died.
-CONNERS: I was not responsible...
+CONNERS: I was not responsible.
 CALLO: You never are. That girl would be alive today if it weren't for your cowboy antics. You destroy lives.
 CONNERS: Fuck you. Look who's talking about destroying lives.
 JENKINS: Decision's been made, Bernie.
-CALLO: I was first on scene and I have seniority. (pleads) Don't do this, Martin.
-JENKINS: We'll talk about it later.   Take a hike.
-CALLO: (beat) Fine. I'll watch this train wreck from home.
-CONNERS: (sarcastic) I'm going to miss him.
+CALLO: I was first on scene and I have seniority. Don't do this, Martin.
+JENKINS: We'll talk about it later. Take a hike.
+CALLO: ( beat ) Fine. I'll watch this train wreck from
+CONNERS: ( sarcastic ) I'm going to miss him.
 JENKINS: SWAT, because of the special circumstances will defer to Conners. He's in charge.
-VINCENT: First time I've heard SWAT defer to anyone.
-JENKINS: (pulls aside Conners) Second chances don't come around often. Don't blow it.
+VINCENT: First time I've heard SWAT defer to Second chances don't come around often. Don't blow it.
+JENKINS: ( pulls aside Conners ) Second chances don't come around often. Don't blow it.
 JENKINS: Anything questionable happens today, you let me know.
 DEKKER: Yes, Captain.
-TEDDY: Looks like you got yourself a baby- sitter.
+TEDDY: Looks like you got yourself a baby-
 VINCENT: We have approximately four to seven, heavily armed men holding an unspecified number of customers and employees hostage.
 CONNERS: You're just a wealth of knowledge, aren't you?
 TEDDY: Witnesses heard shots fired and some kind of explosion. And their only demand has been to speak with you.
 CONNERS: I'm sure it won't be the last. Get me a line into the bank. Let's see what they really want.
-LORENZ: (into voice modulator) Detective Conners?
+LORENZ: ( into voice modulator ) Detective Conners?
 CONNERS: Who am I speaking with?
-LORENZ: For now...     You can call me Lorenz.
+LORENZ: For now. You can call me Lorenz.
 CONNERS: Okay, Lorenz, how are we doing in there? Can we get you anything? Food, medical supplies. We heard an explosion.
 LORENZ: Everyone who matters is fine. Of course, I would've preferred not having the authorities involved at all. We weren't planning to be here this long. But, since Seattle's finest needs a presence on the scene, I'm glad it's you.
 CONNERS: My fame proceeds me.
-LORENZ: Don't be flattered. I needed someone who's been through the experience before. Hopefully this time it will go better for all involved. I plan on living a full, long and rich life. I didn't, however, expect them to find you so quickly. I thought you were suspended.
-CONNERS: I was, but I'm back.   You're information's old.
-LORENZ: You never get what you pay for. (back to business) You want to know about the hostages? How many and are they okay?
-CONNERS: Yes.
-LORENZ: Approximately forty, they're fine, considering. All except one. We had a situation.
+LORENZ: Don't be flattered. I needed someone who's been through the experience before. Hopefully this time it will go better for all involved. I plan on living a full, long and rich life. I didn't, however, expect them to find you so quickly. I thought you were
+CONNERS: I was, but I'm back. You're information's old.
+LORENZ: You never get what you pay for. You want to know about the hostages? How many and are they okay?
+CONNERS: Approximately forty, they're fine, considering. All except one. We had a Someone's dead?
+LORENZ: Approximately forty, they're fine, considering. All except one. We had a Someone's dead?
 CONNERS: Someone's dead?
-LORENZ: Theory... put to practice isn't always perfect. Can't expect to keep the hostages in check if a bad deed goes unpunished or they may... randomly decide to revolt. Chaos... has some order to it. (Conners drifts in thought) Detective? Are you still with me?
+LORENZ: Theory. put to practice isn't always perfect. Can't expect to keep the hostages in check if a bad deed goes unpunished or they may. randomly decide to revolt. Chaos. has some order to it. Detective? Are you still with me?
 CONNERS: What else will I be looking for?
-LORENZ: Demands... Probably too much to ask for you and your colleagues to pack up and go home?
+LORENZ: Demands. Probably too much to ask for you and your colleagues to pack up and go home?
 CONNERS: Safe to say.
-LORENZ: Stay by the phone.    I'll contact you shortly.
-CONNERS: Lorenz...
+LORENZ: Stay by the phone. I'll contact you Don't worry, I have no plans until sunrise tomorrow, so hunker down. It's going to be a long one.
+CONNERS: Don't worry, I have no plans until sunrise tomorrow, so hunker down. It's going to be a long one.
 LORENZ: Don't worry, I have no plans until sunrise tomorrow, so hunker down. It's going to be a long one.
-CONNERS: Wait, we're talking here...
+CONNERS: Wait, we're talking here.
 LORENZ: Patience, Detective. We don't want another Pearl Street Bridge, do we?
 DAX: He's off.
 KAREN CROSS: This standoff is approaching two hours now. We've been told Detectives have made contact with the perpetrators inside the bank. Whether any specific demands have been made, we cannot confirm. As soon as we know something, we'll pass it on to you. Reporting live, Karen Cross, channel two news.
-CAMERAMAN (OS): We're clear.
 KAREN CROSS: Who the hell writes this shit?
-CONNERS: (to Dax) Try again.
+CONNERS: ( to Dax ) Try again.
 DAX: He's not picking up.
-CONNERS: (stern) Try again.
-CONNERS: (glances about) Where's our fearless Captain?
+CONNERS: ( stern ) Try again.
+CONNERS: ( glances about ) Where's our fearless Captain?
 DEKKER: Went uptown to brief the Commissioner.
 CONNERS: So you're here in his place.
 CONNERS: Nicotine gum.
-TEDDY: (shock) You quit smoking?
-CONNERS: Caffeine, too, if you must know. (Another shock) What? A man's capable of change.
-TEDDY: A man, yes. You...     I'm not so sure.
+TEDDY: ( shock ) You quit smoking?
+CONNERS: Caffeine, too, if you must know. What? A man's capable of change.
+TEDDY: A man, yes. You. I'm not so sure.
 CONNERS: Don't worry, I still have a vice or two.
-DAX: Fifteen rings.    No answer.
+DAX: Fifteen rings. No answer.
 CONNERS: Try again in five.
 TEDDY: What are they doing in there?
-VINCENT: Wasting our time.
+VINCENT: Wasting our time. Precisely. He knows police protocol, not to mention the shit in our own precinct. He's disguising his voice, means he's got a record and has done this before. He's heavily armed and well-connected. He knows he's surrounded. He hasn't asked for a damned thing. He drops that hint about sunrise, prepping us for a long wait. He's buying time. Why?
 CONNERS: Precisely. He knows police protocol, not to mention the shit in our own precinct. He's disguising his voice, means he's got a record and has done this before. He's heavily armed and well-connected. He knows he's surrounded. He hasn't asked for a damned thing. He drops that hint about sunrise, prepping us for a long wait. He's buying time. Why?
-VINCENT: (brainstorming) To figure out his next move.    He wasn't expecting us.
+VINCENT: ( brainstorming ) To figure out his next move. He wasn't expecting us.
 DEKKER: No, he wasn't expecting you. He said, he thought you were still suspended.
 CONNERS: Probably thought it would take the whole day for you to find me. Giving him the time he needs.
 TEDDY: He's stalling.
 DEKKER: He almost has what he came for.
-CONNERS: Or... he's got what he came for and he's waiting for his ticket out of here. (the decision) We're going in.
-TEDDY: What?
-CONNERS: The bank has three points of entry. Teddy and Vincent, take a SWAT Team, head to the West side. We'll have the SWAT Commander take the East. Dekker, you're with me. Where is the SWAT Commander?
+CONNERS: Or. he's got what he came for and he's waiting for his ticket out of here. We're going in.
+TEDDY: The bank has three points of entry. Teddy and Vincent, take a SWAT Team, head to the West side. We'll have the SWAT Commander take the East. Dekker, you're with me. Where is the SWAT I'll find him.
+CONNERS: The bank has three points of entry. Teddy and Vincent, take a SWAT Team, head to the West side. We'll have the SWAT Commander take the East. Dekker, you're with me. Where is the SWAT I'll find him.
 VINCENT: I'll find him.
-TEDDY: (to Conners; concern) That's a big call, Quentin.   Thought about what you're doing?
+TEDDY: ( to Conners; concern ) That's a big call, Quentin. Thought about what you're doing?
 CONNERS: You questioning me, Teddy?
-TEDDY: Unfortunately... yeah.
-CONNERS: I question how you can fuck that asshole and still manage to look in the mirror.
-TEDDY: I'm not going to get into this now. And you're one to talk. I hear...
-CONNERS: (interrupting) The hostages are in imminent danger. They've confessed to killing someone, an automatic murder one charge - that's a life sentence, maybe a needle for all of them. So why keep witnesses around to testify? Longer we wait, the greater the risk. We need to go in. Now.
-TEDDY: (beat; then relents) Okay.
+TEDDY: Unfortunately. yeah.
+CONNERS: I question how you can fuck that asshole and still manage to look in the I'm not going to get into this now. And you're one to talk. I hear.
+TEDDY: I'm not going to get into this now. And you're one to talk. I hear.
+CONNERS: ( interrupting ) The hostages are in imminent danger. They've confessed to killing someone, an automatic murder one charge - that's a life sentence, maybe a needle for all of them. So why keep witnesses around to testify? Longer we wait, the greater the risk. We need to go in. Now.
+TEDDY: ( beat; then relents )
 SWAT COMMANDER: I got snipers up top and ten soldiers on the ground.
 CONNERS: What's the best way in?
-SWAT COMMANDER: Tear gas, blow the doors...
-CONNERS: Hold on. No explosives. I got forty civilians in there, too great a chance.    Any other way?
+SWAT COMMANDER: Tear gas, blow the doors.
+CONNERS: Hold on. No explosives. I got forty civilians in there, too great a chance. Any other way?
 SWAT COMMANDER: There's no pussy way in. The doors are locked electronically from the inside. We ain't getting in without force.
-CONNERS: (beat; thinks) What if we cut the power? That will disable the system and we can open the locks manually, come in that way?
-SWAT COMMANDER: (thinks; concedes) That'll work.
-CONNERS: So we'll take the pussy way, Commander. We cut the power and go in at 11:15 sharp!
+CONNERS: ( beat; thinks ) What if we cut the power? That will disable the system and we can open the locks manually, come in that way?
+SWAT COMMANDER: ( thinks; concedes ) That'll work.
+CONNERS: So we'll take the pussy way, Commander. We cut the power and go in at 11:15
 TEDDY: The bank's equipped with emergency generators, which once the power's down, will kick back on in approximately 3-6 minutes.
 CONNERS: It will be over before that. Commander, your men in position?
 SWAT COMMANDER: Standing by.
 CONNERS: I will call for the power to be cut. Once down, wait for my signal and enter. No one moves until I give the "go", understood?
-CONNERS: You have done this before, right? Wait... I don't want to know.
+CONNERS: You have done this before, right? Wait. I don't want to know.
 LORENZ: They're comin'.
-RANDOM HOSTAGE #1: What are you doing?! Let me go!
-CONNERS: (into radio) Let's go around the horn.
+CONNERS: ( into radio ) Let's go around the horn.
 TEDDY: One, check.
 SWAT COMMANDER: Two, check.
 SNIPER #1: Three, check.
 SNIPER #2: Four, check.
-CONNERS: Here we go... Cut the power.
-CONNERS: Doors!
-LORENZ: (into his headset) Now!
-CONNERS: (into radio) Hold it. What just happened?
-DEKKER: (looking up at the windows) Holy shit...?!
+CONNERS: Here we go. Cut the power.
+CONNERS: Each Team makes their move, when.
+LORENZ: ( into his headset )
+DROP!: 45 EXT. MAIN ENTRANCE - AMERICAN NATIONAL BANK 45
+CONNERS: ( into radio ) Hold it. What just happened?
+DEKKER: ( looking up at the windows ) Holy shit.?!
 SWAT COMMANDER: We're going in!
-CONNERS: No.    Do not go in.   It's a trap!
-SWAT COMMANDER (VO): Stand down, Detective. This is my show now.
-CONNERS: (flustered)
-SWAT COMMANDER: On my count... One... two... three...
-DEKKER: (to the first group) Round up all the hostages, anyone that comes out, grab'em!
-CONNERS: (to the second) The rest of you, come with us.
-CONNERS: (whispers; to Dekker) We split up. (whispers; to the officers) You two with him. You two with me. (to Dekker) Check the back.
-CONNERS: (to Vincent) See anyone come your way?
-VINCENT: No.   No one went by me.
-SWAT COMMANDER: Detectives... We found these.
+CONNERS: No. Do not go in. It's a trap!
+CONNERS: ( flustered )
+SONOFABITCH!: 48 ON THE EAST SIDE 48
+SWAT COMMANDER: On my count. One. two. three.
+STREETS!: Simultaneously, An EXPLOSIONS BLASTS OUT THE WEST SIDE DOORS!
+TERROR!: SHOOTING SCRIPT MARCH 15, 2004 26. Conners and Dekker head for the bank, pass two groups of FOUR
+DEKKER: ( to the first group ) Round up all the hostages, anyone that comes out, grab'em!
+CONNERS: ( to the second ) The rest of you, come with us.
+CONNERS: ( whispers; to Dekker ) We split up. ( whispers; to the officers ) You two with him. You two with me. ( to Dekker ) Check the back.
+CONNERS: ( to Vincent ) See anyone come your way?
+VINCENT: No. No one went by me.
+SWAT COMMANDER: Detectives. We found these.
 CONNERS: We let them walk right past us.
-VINCENT: We got the one Teller dead, the two that were strung up are alive, but in critical condition. A few SWAT incurred 2nd degree burns, but that's the worst of it. Now, depending on who you talk to... there was anywhere from five to nine perps. And nobody got a good look at any of'em, wore their masks the whole time. Dax is rounding up the security tapes now. That should give us a firm number.
+CONNERS: TIME CUT TO:
+SHIT!: TIME CUT TO:
+VINCENT: We got the one Teller dead, the two that were strung up are alive, but in critical condition. A few SWAT incurred 2nd degree burns, but that's the worst of it. Now, depending on who you talk to. there was anywhere from five to nine perps. And nobody got a good look at any of'em, wore their masks the whole time. Dax is rounding up the security tapes now. That should give us a firm number.
 CONNERS: I want background checks on every hostage. They're all suspects until they're not.
-VINCENT: You don't think one of them's still here?
+VINCENT: You don't think one of them's still After this, nothing would surprise me.
 CONNERS: After this, nothing would surprise me.
-DEKKER: Excuse me... I need to listen to the conversation between Lorenz and Conners again?
+DEKKER: Excuse me. I need to listen to the conversation between Lorenz and Conners It'll have to wait.
 DAX: It'll have to wait.
 DEKKER: How long?
-DAX: Hour.   Maybe more.
-DEKKER: (too long) Show me how to play it myself?
+DAX: Hour. Maybe more.
+DEKKER: ( too long ) Show me how to play it myself?
 DAX: Look, this isn't how it works. I don't take orders from you. I don't know you and NO ONE touches my stuff. You're going to have to wait.
 DAX: What the hell are you doing?
-DEKKER: Along with whatever they stole and this war zone they left behind... A man's dead, and the killers are running free. I don't have time to wait. (looks at the equipment) I'll figure it out. Thanks for your help.
-DAX: (relents, demonstrates) Here. This DAT machine. Play, stop, rewind... It's just like using a tape player. Headphones are jacked in. Tape's already inside.
+DEKKER: Along with whatever they stole and this war zone they left behind. A man's dead, and the killers are running free. I don't have time to wait. I'll figure it out. Thanks for your Here. This DAT machine. Play, stop, rewind. It's just like using a tape player. Headphones are jacked in. Tape's already inside.
+DAX: ( relents, demonstrates ) Here. This DAT machine. Play, stop, rewind. It's just like using a tape player. Headphones are jacked in. Tape's already inside.
 DEKKER: Thank you.
-CONNERS: (re: the eighth monitor) What's with this one?
-DAX: That's the camera in the vault.      It blew in the first explosion.
+CONNERS: ( re: the eighth monitor ) What's with this one?
+DAX: That's the camera in the vault. It blew in the first explosion.
 DAX: That's when you cut the power.
 CONNERS: So we can't ID them.
-DAX: There's a four minute, fifty-two second gap, before the image returns. But...
-CONNERS: They're long gone by then. (beat; thinks) Go to the head of the tapes, from when they first went in. Document each move they've made for the two hours they were inside.
-DAX: You got it. Hey... Awful lotta news cameras outside. Maybe one got a look at them coming out?
-CONNERS: (good idea) Have Vincent check it out.
+DAX: There's a four minute, fifty-two second gap, before the image returns. But.
+CONNERS: They're long gone by then. Go to the head of the tapes, from when they first went in. Document each move they've made for the two hours they were inside.
+DAX: You got it. Hey. Awful lotta news cameras outside. Maybe one got a look at them coming out?
+CONNERS: ( good idea ) Have Vincent check it out.
 TEDDY: Conners, you better come out here.
-CONNERS: (to Teddy) Shit. Feds.
+CONNERS: ( to Teddy ) Shit. Feds.
 JENKINS: Detective Conners, join us, would you?
-CONNERS (VO): (beat; stern) What does that mean?
-LORENZ (VO): Theory... put to practice isn't always perfect. Can't expect to keep the hostages in check if a bad deed goes unpunished or they may... randomly decide to revolt. Chaos... has some order to it.
-LORENZ (VO): Theory... put to practice isn't always perfect. Can't expect to keep the hostages in check if a bad deed goes unpunished or they may... randomly decide to revolt. Chaos... has some order to it.
-AGENT DOYLE: Prince Amar Alle Alban is one of the wealthiest and least popular Arabs in the Middle East. There's been countless threats on his life and fortune in the past. But for better of worse... he is an ally to the United States. The Prince keeps a safe deposit box in twenty institutions
-(MORE): AGENT DOYLE (cont'd) across the country. Along with this bank, he also had a box at Eastern Federal Savings in Charlotte, North Carolina, which was hit last month. Same M.O.
+AGENT DOYLE: Prince Amar Alle Alban is one of the wealthiest and least popular Arabs in the Middle East. There's been countless threats on his life and fortune in the past. But for better of worse. he is an ally to the United States. The Prince keeps a safe deposit box in twenty institutions
 TEDDY: What was in the box?
 BANK MANAGER: We don't keep records. The boxes are private. Since 9/11, we screen for live tissue, viruses or explosives, but if it passes those tests, we don't ask.
 CONNERS: This is all real fascinating shit, but what about the money? Bank robbers still like cash, don't they?
@@ -218,497 +213,490 @@ BANK MANAGER: The cash drawers don't appear touched. Neither does the cash vault
 TEDDY: So they broke into a bank and didn't steal any money?
 AGENT DOYLE: We believe the Prince's box was the target. We're trying to reach him now.
 JENKINS: Thank you.
-JENKINS: Helluva come back, Conners. Are you familiar with the term franchise-sized fuck-up...
+JENKINS: Helluva come back, Conners. Are you familiar with the term franchise-sized Depends, are we talking about your sex life? Because I've heard shortcomings.
 CONNERS: Depends, are we talking about your sex life? Because I've heard shortcomings.
 JENKINS: You got played, Quentin. Congratulations, you just topped Pearl Street Bridge.
-TEDDY: That's not fair. It was by the book. Everything was according to standard procedure.
+TEDDY: That's not fair. It was by the book. Everything was according to standard
 CONNERS: You came to me. I didn't ask for this.
-JENKINS: Commissioner's office is scrambling to cover their ass. They need a scapegoat... And I have zero problems serving you up.
+JENKINS: Commissioner's office is scrambling to cover their ass. They need a scapegoat. And I have zero problems serving you up.
 CONNERS: You wanted this to happen.
-JENKINS: No. But if it had to happen to somebody.
+JENKINS: No. But if it had to happen to
 DEKKER: I think this Lorenz was trying to tell us something.
 CONNERS: You don't say.
-DEKKER: The way he spoke... he paused before certain words. Have you ever heard of the Chaos Theory?
-CONNERS: What?
+DEKKER: The way he spoke. he paused before certain words. Have you ever heard of the Chaos Theory?
+CONNERS: 65 INT. DINER NEAR THE BANK - DAY 65
 DEKKER: Edward Lorenz invented the Chaos Theory in the 1960's. It's the study of phenomena that appear random, but in fact have an element of regularity which can be described mathematically.
-CONNERS: (confused) Try that again?
-DEKKER: Pretty much... initial state of events may seem unrelated and random, but eventually patterns emerge and in the end all the pieces fit together.
+CONNERS: ( confused ) Try that again?
+DEKKER: Pretty much. initial state of events may seem unrelated and random, but eventually patterns emerge and in the end all the pieces fit together.
 WAITRESS: Anything else, officers?
-CONNERS: That'll be all. (to Dekker) You're a College boy. Which one? Someplace I've heard of or one of those inbred state schools no one's heard of?
+CONNERS: That'll be all. You're a College boy. Which one? Someplace I've heard of or one of those inbred state schools no one's heard of?
 DEKKER: U Dub.
 CONNERS: Not exactly Princeton, but not bad. How did you end up on the force?
 DEKKER: It's kind of the family business.
 CONNERS: Family business? What, your Dad, Dad's Dad and so on and so back?
 DEKKER: Do we really need all this "get to know you" crap? Couple hours ago you didn't give a shit.
 CONNERS: You've grown on me. Besides, I am entrusting my life to you. I should know something about you. I would
-(MORE): CONNERS (cont'd) think you'd like to know a little something about me.
-DEKKER: I know about you, Detective.      Everyone does.
-CONNERS: You don't say that with much enthusiasm.
+DEKKER: I know about you, Detective. Everyone You don't say that with much Not much to be enthusiastic about.
+CONNERS: You don't say that with much Not much to be enthusiastic about.
 DEKKER: Not much to be enthusiastic about.
-CONNERS: Listen, my reputation often proceeds me. You, however, have no reputation; a fact I need to deal with. After you've been through the shit I have, then you can judge me. Now... we can try to work together, make the best of a bad situation or we can compare Dick sizes all day... Up to you. But since this is your first day here... today... mine's bigger.
-VINCENT (VO): (over radio) Conners, come in?
-CONNERS: (into radio) Go.
-VINCENT (VO): Got something you'll want to see.
-CONNERS: Lastly... I don't like the Pac-10. It's overrated. I'm an Ivy League guy.
-KAREN CROSS: (to Conners; w/ a smile) Detective... Can't keep away from me, can you?
-VINCENT: Watch.
-CONNERS: (to the Cameraman) Well, that explains you.
-VINCENT: (to Karen) Rewind it a little bit. (She does, until...) Okay. There. Stop.
+CONNERS: Listen, my reputation often proceeds me. You, however, have no reputation; a fact I need to deal with. After you've been through the shit I have, then you can judge me. Now. we can try to work together, make the best of a bad situation or we can compare Dick sizes all day. Up to you. But since this is your first day here. today. mine's bigger.
+CONNERS: ( into radio ) Got something you'll want to see.
+CONNERS: Lastly. I don't like the Pac-10. It's overrated. I'm an Ivy League guy.
+KAREN CROSS: ( to Conners; w/ a smile ) Detective. Can't keep away from me, can you?
+VINCENT: He points to a monitor in the van, presses PLAY.
+CONNERS: ( to the Cameraman ) Well, that explains you.
+VINCENT: ( to Karen ) Rewind it a little bit. ( She does, until. ) Okay. There. Stop.
 VINCENT: Damon Richards. Career loser. Busted him two years ago on attempted robbery of the Western Federal Bank. Stupid bastard. Never learns.
 DEKKER: What's he doing back on the street?
 VINCENT: He gave up his partners and cut a deal with the D.A.
 TEDDY: Gotta love the system.
 CONNERS: Got an address?
 VINCENT: Only thing on file is in Spokane, but I recall he did have a girlfriend in town. Gina, I believe.
-VINCENT: Gina, it's the police.    Open up.
-VINCENT: (Pounds louder) We can hear you.
-CONNERS: (to Vincent; low) Step back. Clear the door.     Now.
-TEDDY: (into radio) Shots fired, officer down!      Need an ambulance and back up.
+VINCENT: Gina, it's the police. Open up.
+VINCENT: ( Pounds louder ) We can hear you.
+CONNERS: ( to Vincent; low ) Step back. Clear the door. Now.
+THE APARTMENT!: SHOOTING SCRIPT MARCH 15, 2004 38. Conners reloads. Everything's quiet. Conners looks.
+TEDDY: Dekker enters the apartment.
+QUENTIN!: Dekker enters the apartment.
+TEDDY: ( into radio ) Shots fired, officer down! Need an ambulance and back up.
 DEKKER: You hit?
-CONNERS: (in pain) I'm fine.
-DEKKER: (in the doorway)
+CONNERS: ( in pain ) I'm fine.
+DEKKER: ( in the doorway )
+FREEZE!: But Richards doesn't. He FIRES another shotgun BLAST! Dekker DUCKS BACK into the living room. He aims his gun into the bedroom without looking. RAPID FIRES!
+FLYING!: Dekker pushes her down, aims his gun at her.
 DEKKER: Stay down!
 DEKKER: Control her!
-DEKKER: (into radio) Suspect fleeing on foot. North on Curson. He's armed and dangerous.      I'm in pursuit.
-DISPATCH OFFICER (VO): (a beat; over radio) And who are you?
+DEKKER: ( into radio ) Suspect fleeing on foot. North on Curson. He's armed and dangerous. I'm in pursuit.
+WIPES OUT!: Jumps up, shaking it off. STAYS IN PURSUIT!
 DEKKER: I'm a police officer in pursuit of a murder suspect. I need your bike, now!
-THE BIKER: (beat; tosses the keys) It's all yours.
-RICHARDS: I want... my... lawyer.
-TEDDY: (to Conners; re: Richards) He's unconscious, with a nice knot on his forehead, but stable. Three officers are watching the room.
-CONNERS: He wakes, they call. (to the paramedic) Hey Quincy, give it a rest, I'm fine.
-PARAMEDIC: (beat) Quincy was a coroner. You may have a cracked rib. You should go to the hospital.
-CONNERS: I should do a lot of things.
+THE BIKER: ( beat; tosses the keys ) It's all yours.
+RICHARDS: I want. my. lawyer.
+TEDDY: ( to Conners; re: Richards ) He's unconscious, with a nice knot on his forehead, but stable. Three officers are watching the room.
+CONNERS: He wakes, they call. Hey Quincy, give it a rest, I'm fine.
+PARAMEDIC: ( beat ) Quincy was a coroner. You may have a cracked rib. You should go to the I should do a lot of things. You sure you're all right?
+CONNERS: I should do a lot of things. You sure you're all right?
 TEDDY: You sure you're all right?
 CONNERS: I'm fine.
-DEKKER: Girl's name is Gina Lopez, twenty- eight. Done some time for possession, has two kids... Am I interrupting?
-CONNERS: No.
+DEKKER: Girl's name is Gina Lopez, twenty- eight. Done some time for possession, has two kids. Am I interrupting?
+CONNERS: Excuse me.
 TEDDY: Excuse me.
 DEKKER: Gina claims she doesn't know anything about a bank robbery.
-CONNERS: Of course she doesn't.   Vincent!
+CONNERS: Of course she doesn't. Vincent!
 CONNERS: Have'em put Ms. Lopez in interrogation one and turn the A/C on full. Leave her alone and cold. Let me know when her nipples can cut glass.
-VINCENT: Will do. (To Dekker) Detective... I didn't realize when we first met who you were. I worked with your father. It was only for a brief time when I first got outta the academy, but it was an honor.
-CONNERS: (surprised) Your father was Harry Dekker?
+VINCENT: Will do. Detective. I didn't realize when we first met who you were. I worked with your father. It was only for a brief time when I first got outta the academy, but it was an honor.
+CONNERS: ( surprised ) Your father was Harry Dekker?
 VINCENT: I wish it could've been for longer.
-DEKKER: Thanks.
-CONNERS: (new subject) That was some fancy riding.    You have a bike?
-DEKKER: Used to, but I sold it. (shows his scrape on his arm) They're dangerous.
+DEKKER: Vincent exits. Conners looks at Dekker in a new light. Dekker starts away, until.
+CONNERS: ( new subject ) That was some fancy riding. You have a Used to, but I sold it. ( shows his scrape on his arm ) They're dangerous.
+DEKKER: Used to, but I sold it. They're dangerous.
 MARNIE: Detectives. Ready for you.
 CONNERS: Somebody going on a trip?
 MARNIE: Looks like it, don't it?
 CONNERS: Marnie, you're looking well.
-MARNIE: Heard you were back, Conners... and keep dreaming.
-MARNIE: (to Dekker) You, on the other hand... I gotta bike myself. Maybe we can go for a ride sometime? Or maybe I can just ride you.
+MARNIE: Heard you were back, Conners. and keep dreaming.
+MARNIE: ( to Dekker ) You, on the other hand. I gotta bike myself. Maybe we can go for a ride sometime? Or maybe I can just ride
 CONNERS: Can we get back to work?
-MARNIE: We got passports, sun tan lotion, Bermuda shorts, thong bikini, hopefully hers and this...
-DEKKER: Must be a fifty large there easy.    His cut?
+MARNIE: We got passports, sun tan lotion, Bermuda shorts, thong bikini, hopefully hers and this.
+DEKKER: Must be a fifty large there easy. His You'd think, right?
 MARNIE: You'd think, right?
 DEKKER: It's not?
-MARNIE: Don't put words in my mouth, but... Two things jump out here. First, each bank branch has their own money bands. This is not American National's. After a little checking, it belongs to Pacific Savings of Seattle.
+MARNIE: Don't put words in my mouth, but. Two things jump out here. First, each bank branch has their own money bands. This is not American National's. After a little checking, it belongs to Pacific Savings of Seattle.
 DEKKER: That sounds familiar.
-MARNIE: It should. Four months ago, a half million dollars was stolen in an armed robbery there. Just a smash-n-grab job. They caught the guys a day later, recovering about $400,000. Those guys have been in lock up since and their trial's still pending. Which leads us to point number two. Do you smell that?
-DEKKER: (smells the bills; grimaces) What is it?
+MARNIE: It should. Four months ago, a half million dollars was stolen in an armed robbery there. Just a smash-n-grab job. They caught the guys a day later, recovering about $400,000. Those guys have been in lock up since and their trial's still pending. Which leads us to point number two. Do you smell What is it?
+DEKKER: ( smells the bills; grimaces ) What is it?
 MARNIE: When evidence is taken in, any physical contact might affect the ability to lift prints, so, to mark it, we now spray a scented solution directly on the bill.
 CONNERS: Is that new?
-MARNIE: Wave of the future.   Gotta keep up with the times, Conners.
+MARNIE: Wave of the future. Gotta keep up with the times, Conners.
 DEKKER: So this money's not from our bank.
-MARNIE: No. This is the money from the Pacific Savings job and our evidence room. (smiling; to Dekker) Now... For a list of things you can put in my mouth.
+MARNIE: No. This is the money from the Pacific Savings job and our evidence room. Now. For a list of things you can put in my mouth.
 CONNERS: Do you remember who headed up the Pacific Savings case?
-TEDDY: I think it was Callo.    Why?
-CONNERS: No reason.     Just thinking out loud.
-CONNERS: When you said it was your "family business" I didn't think... I guess I just didn't connect the dots.
+TEDDY: I think it was Callo. Why?
+CONNERS: No reason. Just thinking out loud.
+CONNERS: When you said it was your "family business" I didn't think. I guess I just didn't connect the dots.
 DEKKER: Don't worry about it.
 CONNERS: Your father was a hero.
 DEKKER: Yes he was.
 CONNERS: At first I thought maybe you were related to the Captain.
-DEKKER: No.   No relation.
+DEKKER: No. No relation.
 CONNERS: The Captain, he just kind of "discovered" you. Through the academy, to excellent evaluation reports, while
-(MORE): CONNERS (cont'd) on the beat, to the high test scores on the detective's exam.
 DEKKER: Something like that.
 CONNERS: That's how he found me.
-CONNERS: Maybe we're not as different as you think.
+CONNERS: Maybe we're not as different as you
 CONNERS: We found the money.
-GINA: That money was Dwayne's...
+GINA: That money was Dwayne's.
 CONNERS: That money came from our evidence room.
 GINA: I told you. I don't know nothing about a bank robbery. Whatever Damon was into, I didn't know!
 CONNERS: So, where were you going?
-GINA: Vacation.
+GINA: This isn't possession or solicitation, Gina. This is felony-murder one. You could get life.
 CONNERS: This isn't possession or solicitation, Gina. This is felony-murder one. You could get life.
-GINA: Me!?   I didn't do nothing!
-CONNERS: (frustrated) It's "I didn't do anything." "Didn't do nothing" is a double negative, infers the positive. The grammar in this country sucks.
-GINA: Then I didn't do ANY-thing!
-CONNERS: This isn't going away. You want to walk out of here, you tell me something... now.
+GINA: Me!? I didn't do nothing!
+CONNERS: ( frustrated ) It's "I didn't do anything." "Didn't do nothing" is a double negative, infers the positive. The grammar in this country sucks.
+GINA: Then I didn't do ANY-thing! This isn't going away. You want to walk out of here, you tell me something. now.
+CONNERS: This isn't going away. You want to walk out of here, you tell me something. now.
 GINA: I swear I don't know. Now I'm done talking. I want a lawyer.
 CONNERS: You sure that's what you want?
-GINA: Yeah.
+GINA: Fine. Then it's two phone calls I'll make. The first will be to the public defender's office. The second to children's services.
 CONNERS: Fine. Then it's two phone calls I'll make. The first will be to the public defender's office. The second to children's services.
-GINA: What?
-CONNERS: It's simple... if you insist on a lawyer, I take your kids.
-GINA: No.
-CONNERS: Not like you cared about them anyway. You were ready to fly the coop with "Shit-for-brains."
-GINA: No.   You can't do that.
+GINA: Suddenly Gina's bravado disappears. Suddenly a scared and lonely girl.
+CONNERS: It's simple. if you insist on a lawyer, I take your kids.
+GINA: Not like you cared about them anyway. You were ready to fly the coop with SHOOTING SCRIPT MARCH 15, 2004 49.
+CONNERS: Not like you cared about them anyway. You were ready to fly the coop with SHOOTING SCRIPT MARCH 15, 2004 49.
+GINA: No. You can't do that.
 CONNERS: I can and I will.
-GINA: Don't.
+GINA: Tell me what I want to know!
 CONNERS: Tell me what I want to know!
-GINA: (broken) I don't know anything.     Please don't take my kids. Please.
-CONNERS: Get her some coffee...     Something hot.
+GINA: ( broken ) I don't know anything. Please don't take my kids. Please.
+CONNERS: Get her some coffee. Something hot.
 DEKKER: You believe her?
 CONNERS: I think for the first time in that girl's life she's telling the truth.
 DEKKER: You had to know, once she asked for a lawyer anything she told us would have been inadmissable.
 CONNERS: Who would've known? It would've been my word against hers. Who do you think the jury would've believed?
-DEKKER: Justice by any means.    Even if you cross the line.
+DEKKER: Justice by any means. Even if you cross the line.
 CONNERS: The only line around here is the `blue line', you cross that one, then you got
-(MORE): CONNERS (cont'd) problems. Ask Callo, he knows what I'm talking about.
-TEDDY: Those serial numbers Marnie faxed me... According to our computers, that money should be downstairs.
-CONNERS: (cold) Buzz us in.
-HARRY: (colder) You gotta sign first.
+TEDDY: Those serial numbers Marnie faxed me. According to our computers, that money should be downstairs.
+CONNERS: ( cold ) Buzz us in.
+HARRY: ( colder ) You gotta sign first.
 HARRY: I heard you were back. Kinda liked not having you around, Conners.
 CONNERS: Have another donut, Frankie.
 CONNERS: That fat fuck is the sole guardian of the city's biggest source of contraband. Drugs. Weapons. Cash.
-(MORE): CONNERS (cont'd) All totalled, about $50 million or so just sitting here for the taking.
 DEKKER: You'd have to have some major firepower, not to mention an extra large set of balls to try and knock off a police station.
-CONNERS: Not if you were a cop.    You could just walk right in and...
-CONNERS: ...   Take whatever you want.   Shit.
+CONNERS: Not if you were a cop. You could just walk right in and.
+CONNERS: . Take whatever you want. Shit.
 HARRY: Here is it. Line seventeen.
 DEKKER: Bernie Callo.
-HARRY: Like I said... No one takes anything out of here, unless they sign for it.
-CONNERS: So what...     He showed you a warrant? What?
+HARRY: Like I said. No one takes anything out of here, unless they sign for it.
+CONNERS: So what. He showed you a warrant? He must've.
 HARRY: He must've.
 CONNERS: You don't remember?
 HARRY: You know how many times someone signs shit in and out? I see the same guys all the time. I can't remember one instance two weeks ago. But if his signature's there, that means he signed for it. Take it up with him!
 CONNERS: The money from Richards's place traced back to the Pacific Savings heist a few months ago, a case Callo headed up.
 TEDDY: Callo signed the money out of evidence two weeks ago.
 JENKINS: How much?
+TEDDY: If it's Callo, it would explain how they knew police protocol and how our department operates.
 VINCENT: If it's Callo, it would explain how they knew police protocol and how our department operates.
 TEDDY: Also explains why he was so pissed this morning about being replaced by Conners. He wanted to be the point so everything went according to plan.
 CONNERS: He doesn't need another reason to be pissed at me.
-JENKINS: What about motive?    Do we have one?
+JENKINS: What about motive? Do we have one?
 VINCENT: Pressure might've been getting to him. He's been getting the cold shoulder from cops since he testified about Pearl Street Bridge.
-JENKINS: No.   Don't buy that.
-TEDDY: (beat) He was also getting divorced.
+JENKINS: No. Don't buy that.
+TEDDY: ( beat ) He was also getting divorced.
 TEDDY: About a month ago, he told me he and his wife might be splitting. Asked if I knew a lawyer who wouldn't clean him out. I didn't think it was this bad.
-JENKINS: (conflicted) Bernie Callo is a first rate cop.     A boy scout. This doesn't make any sense.
+JENKINS: ( conflicted ) Bernie Callo is a first rate cop. A boy scout. This doesn't make any They never do, Captain.
 CONNERS: They never do, Captain.
 JENKINS: Don't act like you're not enjoying this, Conners. I know what you think of him.
-CONNERS: Doesn't matter what I think.      Facts here speak for themselves.
-DEKKER: No they don't. We haven't asked the question... Why, if Callo's involved, don't they ask for him at the bank? (points to Conners) They asked for you.
-JENKINS: (answering the phone) Jenkins.
-OFFICER AT CALLO HOUSE: Wife came home approximately forty-five minutes ago. Found him here. None of the neighbors heard anything. There's no forced entry and no one saw anyone fleeing the scene.
-VINCENT: Blueprints from the bank, schematics, pictures... Also, about a dozen internet articles on the Saudi Prince. Found it behind the furnace.
+CONNERS: Doesn't matter what I think. Facts here speak for themselves.
+DEKKER: No they don't. We haven't asked the question. Why, if Callo's involved, don't they ask for him at the bank? They asked for you.
+JENKINS: ( answering the phone )
+VINCENT: Blueprints from the bank, schematics, pictures. Also, about a dozen internet articles on the Saudi Prince. Found it behind the furnace.
 DEKKER: Well, that's it, right?
-CALLO (VO): You've reached the Callo residence.   No one can get to the phone right now. Please leave a message.
-LORENZ (VO): (from the machine) Detective Conners... Are you there?
 LORENZ: Are you connecting the dots? Are you putting it together? Is the pattern emerging? They wouldn't punish you, but I will.
 LORENZ: Vengeance will be mine, Detective.
 CONNERS: Then come and get me you piece of shit.
 CONNERS: What they told Callo was the plan and what the plan really was may be two different things. Clearly this wasn't part of a plan Callo would've agreed with.
 DEKKER: You'd think a cop would be smarter.
-CONNERS: As cops we come across every temptation in the book. Money, drugs, power. We'd all like to think we can resist any urge, but... We're not saints.
+CONNERS: As cops we come across every temptation in the book. Money, drugs, power. We'd all like to think we can resist any urge, but. We're not saints.
 DEKKER: So, Callo was involved and now they're dragging you into it. Why?
 CONNERS: Man said he wanted vengeance.
 DEKKER: Piss anyone off lately?
-CONNERS: Me?
-JENKINS: I just got off the phone with Agent Doyle. After the Charlotte break in, the Prince withdrew all his possessions from every safe deposit box in this country.
-DEKKER: Let me get this straight, they didn't touch the cash or the safe deposit boxes. So, they... break into a bank, blow it up, and steal nothing? (to Conners) Still make sense to you?
+CONNERS: Both can't help but smile. Jenkins walks up.
+JENKINS: I just got off the phone with Agent Doyle. After the Charlotte break in, the Prince withdrew all his possessions from every safe deposit box in this SHOOTING SCRIPT MARCH 15, 2004 56.
+DEKKER: Let me get this straight, they didn't touch the cash or the safe deposit boxes. So, they. break into a bank, blow it up, and steal nothing? Still make sense to you?
 CONNERS: Nothing about today makes sense.
 DEKKER: "Return to the earth now if your mind is troubled and your heart is uncertain. For it is by returning to the beginning that we can clearly see the path."
-CONNERS: (to Jenkins) Don't look at me, he's your find.
+CONNERS: ( to Jenkins ) Don't look at me, he's your find.
 JENKINS: Say that again, Detective?
 DEKKER: We go back to where this all started. We go to the bank.
-DAX: The tapes confirm five bad guys, but since the vault cam blew in the explosion what they did in there was a mystery.
-DAX: I've been through these tapes twenty times already and nothing...
-CONNERS: Shutup.
-DEKKER: Wait, hold on a second.   Did you see it?
+DAX: The tapes confirm five bad guys, but since the vault cam blew in the explosion what they did in there was a
+DAX: I've been through these tapes twenty times already and nothing.
+CONNERS: MONITOR #5. IN THE VAULT, Black Clad #2 fires the explosives! The image goes to STATIC.
+DEKKER: Wait, hold on a second. Did you see it?
 DAX: See what?
 DEKKER: Go back a little.
-CONNERS: What?
+CONNERS: Notice the camera angles, they're all fixed. They don't rotate or pan.
 DEKKER: Notice the camera angles, they're all fixed. They don't rotate or pan.
 DEKKER: There. Stop. Play it. Look closely, camera five, the vault cam, dominates our attention because of the explosion. But while that's happening, check out Camera two, customer service.
 DAX: Where'd he go?
-CONNERS: He moved it. Changed the angle.    He didn't want us to see something.
+CONNERS: He moved it. Changed the angle. He didn't want us to see something.
 DEKKER: What's in that corner they didn't want us to see?
-DEKKER: Are you at all concerned that there's some whacko out there looking to get you?
+DEKKER: Are you at all concerned that there's some whacko out there looking to get If I worried about every threat made against me, I'd never leave the house.
 CONNERS: If I worried about every threat made against me, I'd never leave the house.
-CONNERS: (to the technician) Those are priority one. If he's got a record, I want an I.D. yesterday.
+CONNERS: ( to the technician ) Those are priority one. If he's got a record, I want an I.D. yesterday.
 FORENSICS TECHNICIAN: I'm on my way.
 CONNERS: Dax, can you hack in there and find out what they were doing on this machine?
 DAX: Hack into a nationwide bank's central computer system? Love to.
 DEKKER: What do we do in the meantime?
 CONNERS: You like Italian?
 ITALIAN HOST: Detective, where you been? Much too long. Sit, sit. I give you best table in house. It'll just be the two?
-CONNERS: No, four.    More are coming.
-ITALIAN HOST: Wonderful, wonderful. Who's this young man?
-CONNERS: For all intents and purposes... he's Big Brother.
-ITALIAN HOST: (confused) He's your brother?
-CONNERS: No.
-ITALIAN HOST: No matter, no matter...     I bring you bottle of house wine!
-DEKKER: We're still on duty.     No wine.
-ITALIAN HOST: (insulted) No wine?
+CONNERS: No, four. More are coming.
+ITALIAN HOST: Wonderful, wonderful. Who's this young For all intents and purposes. he's Big Brother.
+CONNERS: For all intents and purposes. he's Big Brother.
+ITALIAN HOST: ( confused ) He's your brother?
+CONNERS: ITALIAN HOST
+ITALIAN HOST: No matter, no matter. I bring you bottle of house wine!
+DEKKER: We're still on duty. No wine.
+ITALIAN HOST: ( insulted ) No wine?
 CONNERS: A little wine.
 ITALIAN HOST: That's better.
 CONNERS: Last time I was here, you said that table in the corner was the "best in the house."
-ITALIAN HOST: It was. Anywhere you sit becomes best table in house. Now relax, I bring you food.
+ITALIAN HOST: It was. Anywhere you sit becomes best table in house. Now relax, I bring you
 CONNERS: Shane, what was that thing you said back at the house about "returning to the beginning path" or something?
 DEKKER: It's a Buddhist story.
 CONNERS: We're all ears.
-DEKKER: One day the Buddha found his heart in turmoil. So he retreats to the forest, to the earth, to the base of a great tree and, I'm paraphrasing, but... this elephant comes up and tells Buddha he doesn't like seeing him discouraged.
+DEKKER: One day the Buddha found his heart in turmoil. So he retreats to the forest, to the earth, to the base of a great tree and, I'm paraphrasing, but. this elephant comes up and tells Buddha he doesn't like seeing him discouraged.
 TEDDY: He can talk to an elephant?
-DEKKER: He's the Buddha. He's attained the 6th level of consciousness. He's capable of communicating with plants, trees... even rocks.
-VINCENT: Rocks?
+DEKKER: He's the Buddha. He's attained the 6th level of consciousness. He's capable of communicating with plants, trees. even rocks.
+VINCENT: You asked.
 DEKKER: You asked.
-CONNERS: Continue.
+CONNERS: The Buddha was troubled so he went back to where he came from, the beginning, to find the path, the answer. So when you hit a dead end, go back to the beginning to find your way. Or something like that.
 DEKKER: The Buddha was troubled so he went back to where he came from, the beginning, to find the path, the answer. So when you hit a dead end, go back to the beginning to find your way. Or something like that.
-CONNERS: We have a genuine philosopher in our midst.
+CONNERS: We have a genuine philosopher in our You're a Buddhist?
 VINCENT: You're a Buddhist?
 DEKKER: No. Just something I picked up along the way.
 TEDDY: But you're religious?
 DEKKER: Not particularly.
 DEKKER: You're all pretty tight.
 TEDDY: We've been through a lot together.
-DEKKER: I guess I just thought... I don't know. With all the trouble he's been in lately, coming back from suspension, everyone would treat him differently.
+DEKKER: I guess I just thought. I don't know. With all the trouble he's been in lately, coming back from suspension, everyone would treat him differently.
 VINCENT: You can't believe what you read or see on TV. If anything, our tie to Conners is stronger. He's one of the best. Even when things got pretty wild today and everyone else panicked, he was in control. That doesn't just happen. He's just that good.
 TEDDY: Excuse me.
 VINCENT: What was the Buddha looking for?
 DEKKER: The divine in himself.
 DEKKER: How long does it usually take to for fingerprints to be ID'd?
-VINCENT: Hours, maybe days.    We could be waiting a while.
-DEKKER: (answering) Dekker./ Okay. (Snapping the phone shut...) They got a match.
+VINCENT: Hours, maybe days. We could be waiting a while.
+DEKKER: ( answering ) Dekker./ Okay. ( Snapping the phone shut. ) They got a match.
 CONNERS: What are you doing?
-TEDDY: I realized something today. Being around you, all that's happened...       I can't... I think I made a mistake.
-CONNERS: It's too late. You've made your choice. Live with it.
+TEDDY: I realized something today. Being around you, all that's happened. I can't. I think I made a mistake.
+CONNERS: It's too late. You've made your choice. Live with it. We got a match.
 DEKKER: We got a match.
 CONNERS: You got a name?
 DEKKER: Chris Lei.
-CONNERS: (a knowing disgust) Sonofabitch.
-CONNERS: Prick used to work for some big-time software company until they caught him dipping into the company's slush fund. They didn't want the publicity so they didn't press charges. Couple years later, he was busted for looting the pension plans of retired cops. For a genius... he's a fucking moron.
+CONNERS: ( a knowing disgust )
+CONNERS: Prick used to work for some big-time software company until they caught him dipping into the company's slush fund. They didn't want the publicity so they didn't press charges. Couple years later, he was busted for looting the pension plans of retired cops. For a genius. he's a fucking moron.
 DEKKER: This was your case. You and York. You made the bust. Why didn't it stick?
-CONNERS: His lawyer put us on trial. Said we were crooked, abusive, that we planted evidence... We were in the midst of the Pearl Street Bridge fallout. Jury bought it. They let him walk and we were the scapegoats.
+CONNERS: His lawyer put us on trial. Said we were crooked, abusive, that we planted evidence. We were in the midst of the Pearl Street Bridge fallout. Jury bought it. They let him walk and we were the scapegoats.
 DEKKER: Was it true?
-CONNERS: The guy was guilty. He was scum. That was the truth. (beat) There's something they don't teach you. The system breaks down. You have to compensate to get results.
-DEKKER: That gives you the right to break the rules?
-CONNERS: Break, no.     Bend... if it means justice...     Absolutely.
+CONNERS: The guy was guilty. He was scum. That was the truth. There's something they don't teach you. The system breaks down. You have to compensate to get results.
+DEKKER: That gives you the right to break the SHOOTING SCRIPT MARCH 15, 2004 64.
+CONNERS: Break, no. Bend. if it means justice. Absolutely.
 DEKKER: Another thing they don't teach you.
-CHRIS: Shit.
+CHRIS: Chris turns, FINDS HIMSELF STARING DOWN A BARREL!
 LORENZ: Fare thee well, Chris.
 CONNERS: You okay?
-DEKKER: Yeah.
+DEKKER: 114 EXT. BACKYARD - CHRIS'S HOUSE - NIGHT 114
 CONNERS: First day in the city and you've already been shot.
-EMERGENCY MEDICAL TECH: It just grazed him.
 DEKKER: Why don't I "just graze" you with a bullet and see how you feel.
-POLICE OFFICER #3: Your Damon Richards is awake.
-CONNERS: (to the officers) Take five, guys.
+CONNERS: ( to the officers ) Take five, guys.
 CONNERS: Hiya, Damon. How you feeling?
-DEKKER: (taps Conners) May I?
-DEKKER: You remember me, don't you? (Damon gives an EVIL GLARE) Thought so.
-DEKKER: I was skiing about three years ago. Aspen. Beautiful country. Ever been? Never mind. I hit a mogul, landed on a sheet of ice and slammed into a tree. Broke myself up pretty bad. Kinda like you did today. I was in a hospital bed for three months. Had it not been for... Here it is. (he finds) Morphine. Without this stuff, I wouldn't have made it.
-DEKKER: Now this IV drip administers a small dosage every minute. Makes you feel relaxed and calm. No pain. But...
-DEKKER: If I were to inject this whole thing... That would be all she wrote for Damon.
+DEKKER: ( taps Conners ) May I?
+DEKKER: You remember me, don't you? Thought so.
+DEKKER: I was skiing about three years ago. Aspen. Beautiful country. Ever been? Never mind. I hit a mogul, landed on a sheet of ice and slammed into a tree. Broke myself up pretty bad. Kinda like you did today. I was in a hospital bed for three months. Had it not been for. Here it is. Morphine. Without this stuff, I wouldn't have made it.
+DEKKER: Now this IV drip administers a small dosage every minute. Makes you feel relaxed and calm. No pain. But.
+DEKKER: If I were to inject this whole thing. That would be all she wrote for Damon.
 RICHARDS: You don't have the balls.
 DEKKER: This equipment malfunctions all the time. Overdoses are quite common. Besides, I don't think the DA's going to launch a full-scale investigation over a scum like you.
-DEKKER: You don't have to tell us a damn thing. Plead the fifth... roll the dice.
-CONNERS: You fuckin' hypocrite. You give me shit for my interrogating skills... least I don't threaten them with a lethal overdose.
-DEKKER: There's never been a single case in recorded medical history of someone overdosing on 200 milliliters of saline.
-DEKKER: Bend, not break. That's what you said, right?
-JENKINS (VO): Lorenz's true identity is Scott Curtis. He's wanted in connection to three other bank robberies, extorsion and kidnapping.
-JENKINS: He's also the brother of John Curtis, the perp Conners shot at Pearl Street Bridge. (Moving on) Richards testifies that he was hired by Curtis to pull the bank job with a dirty cop on the inside, Bernie Callo. Curtis hoped that Conners would take the fall for American National turning ugly, disgracing him even further. We also have the names of two more accomplices, Lamar Galt and Xander Harrington. Everyone was set to meet tonight at ten and we have that address. (beat) After finding Callo and Lei dead today,
-(MORE): JENKINS (cont'd) it doesn't take a rocket scientist to know Curtis is eliminating his accomplices. Doesn't matter what Curtis told Galt and Harrington, he's going to finish them off tonight.
-CONNERS: You never think of the repercussions. The suspect's mother, father... Brother. How your decision affects them. (beat) He had murder in his eyes.
+DEKKER: You don't have to tell us a damn thing. Plead the fifth. roll the dice.
+CONNERS: You fuckin' hypocrite. You give me shit for my interrogating skills. least I don't threaten them with a lethal overdose.
+DEKKER: There's never been a single case in recorded medical history of someone overdosing on 200 milliliters of
+DEKKER: Bend, not break. That's what you said,
+JENKINS: He's also the brother of John Curtis, the perp Conners shot at Pearl Street Richards testifies that he was hired by Curtis to pull the bank job with a dirty cop on the inside, Bernie Callo. Curtis hoped that Conners would take the fall for American National turning ugly, disgracing him even further. We also have the names of two more accomplices, Lamar Galt and Xander Harrington. Everyone was set to meet tonight at ten and we have that After finding Callo and Lei dead today,
+CONNERS: You never think of the repercussions. The suspect's mother, father. Brother. How your decision affects He had murder in his eyes.
 DEKKER: John Curtis.
-CONNERS: It was pouring. Lights everywhere.       If he had only done what I said.
-CONNERS (VO): Drop the weapon.
+CONNERS: It was pouring. Lights everywhere. If he had only done what I said.
+FIRES!: CONNERS FIRES! BAM! 124 I/E CONNERS'S CAR/ CITY STREETS - NIGHT - TRAVELLING 124
 CONNERS: But it was not to be.
 DEKKER: My father died when I was twelve. He walked into a liquor store in the middle of a stick up. Guy just opened fire. Never even had time to react. They said he was a hero. Know what
-(MORE): DEKKER (cont'd) that means to a twelve year old? (beat) Because he died on the job, he's a hero? Never made sense to me.
 CONNERS: So why become a cop?
 DEKKER: Finish what he started. Every day he went out, trying to do some good. Help the people who couldn't help themselves, just give'em a chance is what he always said. Didn't always work out right, but he tried. You tried to help save that girl on the bridge. If you weren't there, the girl still would've died. She had a chance because you were there. That's all we can do.
-BRANCH: (frustrated; into radio) It's twenty-five after. How much longer we wait?
-CONNERS: (into radio) We go now all we get is Galt and Harrington. We want Curtis. Now relax and keep the line free.
-(MORE): CONNERS (cont'd) (to Dekker) This prick's driving me crazy.
-CONNERS: Shit.
-DEKKER: What?
+BRANCH: ( frustrated; into radio ) It's twenty-five after. How much longer we wait?
+CONNERS: ( into radio ) We go now all we get is Galt and Harrington. We want Curtis. Now relax and keep the line free.
 CONNERS: I'm out of gum.
-TEDDY (VO): (over radio) Head's up. Car's coming.
-DEKKER: Shit.
-TEDDY: (into her radio) Conners, we got a problem.
-CONNERS: (into radio) We hold. No one move.
-BRANCH: (into radio) We can't let him walk.   We have to go now.
-CONNERS: (into radio) No. Stand down.
-VINCENT: (into radio) We're going to lose'em, Conners.
-CONNERS: (into radio) No. No go. We wait.
-VINCENT: (into radio) We bust them now, we got something. But if they get in that car we don't have jack squat.
+DEKKER: I'm out of gum.
+CONNERS: I'm out of gum.
+DEKKER: 125F ON THE FRONT PORCH 125F 125G IN TEDDY'S CAR 125G
+TEDDY: ( into her radio ) Conners, we got a problem.
+CONNERS: ( into radio ) We hold. No one move.
+BRANCH: ( into radio ) We can't let him walk. We have to go ( into radio ) No. Stand down.
+CONNERS: ( into radio ) No. Stand down.
+VINCENT: ( into radio ) We're going to lose'em, Conners.
+CONNERS: ( into radio ) No. No go. We wait.
+VINCENT: ( into radio ) We bust them now, we got something. But if they get in that car we don't have jack squat.
 CONNERS: We have three cars here and uniformed backup in all directions, if they ride, we'll get them. I want Curtis. We don't go in that house until I say!
+GALT FIRES!: Simultaneously. BRANCH FIRES! HARRINGTON FIRES! THE BULLET RIPS INTO HARRINGTON'S ARM! He's hit, but not down. He and Galt duck back inside the house! Branch takes a bullet in the leg. He goes down.
 CONNERS: Trigger happy, Sons of bitches!
 CONNERS: We take them alive!
-DEKKER: (into radio) All units, all units. Shots fired! Requesting backup immediately!
+DEKKER: ( into radio ) All units, all units. Shots fired! Requesting backup immediately!
+HEAD!: HARRINGTON, from the corner, takes aim again! VINCENT drops to the floor, aims through the dining room table legs and FIRES! THE BULLET TEARS INTO HARRINGTON'S SHIN! He SCREAMS IN PAIN,
 TEDDY: Drop the gun!
 TEDDY: Drop it now. Last warning.
-CONNERS: Teddy!?     What's happening?
+CONNERS: Teddy!? What's happening?
 VINCENT: We got one down. He's dead.
-TEDDY: Gas. (loud) Get out of here!     Get out of here NOW!
-DEKKER: Conners!
+WEAPON!: GALT FIRES! Conners PUSHES DEKKER OUT OF THE WAY, just in the nick of DEKKER TUMBLES DOWN THE STAIRS! Vincent breaks his fall. GALT FIRES AT CONNERS, until he's out of bullets. He ducks back behind a door. Conners FIRES! But did he hit anyone? Conners pursues.
+CONNERS: GALT FIRES! Conners PUSHES DEKKER OUT OF THE WAY, just in the nick of DEKKER TUMBLES DOWN THE STAIRS! Vincent breaks his fall. GALT FIRES AT CONNERS, until he's out of bullets. He ducks back behind a door. Conners FIRES! But did he hit anyone? Conners pursues.
+GUN!: GALT FIRES! Conners PUSHES DEKKER OUT OF THE WAY, just in the nick of DEKKER TUMBLES DOWN THE STAIRS! Vincent breaks his fall. GALT FIRES AT CONNERS, until he's out of bullets. He ducks back behind a door. Conners FIRES! But did he hit anyone? Conners pursues.
+GALT FIRES!: Conners PUSHES DEKKER OUT OF THE WAY, just in the nick of DEKKER TUMBLES DOWN THE STAIRS! Vincent breaks his fall. GALT FIRES AT CONNERS, until he's out of bullets. He ducks back behind a door. Conners FIRES! But did he hit anyone? Conners pursues.
+BY!: 139 UPSTAIRS BATHROOM 139
+TEDDY: ( loud ) Get out of here! Get out of here NOW!
+DEKKER: 142 UPSTAIRS BATHROOM 142
 TEDDY: Everyone get down!
 DEKKER: Where's Conners?
-TEDDY: No!   No, we have to go save him!
+TEDDY: No! No, we have to go save him!
 DEKKER: We can't.
 TEDDY: We have to.
-DEKKER: Teddy...
-TEDDY: No!
-JENKINS: ...   If it had to be someone...
-TEDDY: (To Jenkins) You sonofabitch.
-JENKINS: Teddy...
+DEKKER: They both stare at the house. Dekker holds her, she's a SHOOTING SCRIPT MARCH 15, 2004 79. 149 EXT. A FEW MILES AWAY - NIGHT 149 Lorenz AKA SCOTT CURTIS watches through a pair of binoculars. No emotion evident.
+TEDDY: They both stare at the house. Dekker holds her, she's a SHOOTING SCRIPT MARCH 15, 2004 79. 149 EXT. A FEW MILES AWAY - NIGHT 149 Lorenz AKA SCOTT CURTIS watches through a pair of binoculars. No emotion evident.
+JENKINS: . If it had to be someone.
+TEDDY: ( To Jenkins ) You sonofabitch.
+JENKINS: You've always been jealous of him.
 TEDDY: You've always been jealous of him.
-JENKINS: Jealous?
-TEDDY: It's because he wasn't only a better cop... He was a better man.
-JENKINS: Detective.     Go home.
+JENKINS: It's because he wasn't only a better cop. He was a better man.
+TEDDY: It's because he wasn't only a better cop. He was a better man.
+JENKINS: Detective. Go home.
 JENKINS: You have something you want to say?
 DEKKER: No, Captain. She said it perfectly.
-KAREN CROSS: Detective Galloway, could you give us a comment?
+KAREN CROSS: Detective Galloway, could you give us a We just wanted a statement.
 KAREN CROSS: We just wanted a statement.
 DEKKER: Shame on you.
 KAREN CROSS: This is more than just news for us. American National's CFO sits on the Board of Channel Two. They have a vested interest in what's going on.
 DEKKER: Find another source.
-TEDDY: Conners was right. We should've never gone in. How many more mistakes can we make in one day? He was eliminating his accomplices. We thought he was going to show up? We didn't even think he could do this... How dumb are we?
-DAX: Detective?
-DAX: I know what they were doing inside the bank.
+TEDDY: Conners was right. We should've never gone in. How many more mistakes can we make in one day? He was eliminating his accomplices. We thought he was going to show up? We didn't even think he could do this. How dumb are we?
+DAX: Dekker turns to find. Dax, cradling a 3,000 PAGE DOCUMENT.
+DAX: I know what they were doing inside the
 DAX: These are today's transaction records from the bank. An average day produces about 400 pages, give or take. Today, there were over 3,000 pages.
-DEKKER: Meaning?
+DEKKER: We've just witnessed the largest heist in history. Somewhere in the neighborhood of a billion dollars.
 DAX: We've just witnessed the largest heist in history. Somewhere in the neighborhood of a billion dollars.
 DEKKER: Come again?
 DAX: It's a computer virus. "The Computer Virus." It randomly withdraws money from all the accounts and deposits it into the bad guys' account. If you check the transactions, no two withdrawal amounts are the same and none of'em are over $100. Most security systems work on the size of the money, not number of transactions. Wire out one million from a handful of accounts and red flags go up. Wire out a less than a hundred from ten million accounts, no flags.
 DEKKER: Where's the money now?
-DAX: I tried following one of the transactions. It took me an hour and when I finally had it... It went away.
+DAX: I tried following one of the transactions. It took me an hour and when I finally had it. It went away.
 DEKKER: How is that possible?
 DAX: The virus created a host of phantom accounts where the money goes
-(MORE): DAX (cont'd) temporarily, then transfers to another account, then to another. It's never in one place long enough to get an accurate fix.
 DEKKER: It's still moving the money around?
 DAX: Yeah. Any deposit or withdrawal from any bank doesn't usually go into affect until the next business day. So it's going to keep jumping around until it clears at 9 AM tomorrow.
-DEKKER: (realizes) Or 6 AM Pacific time. Sunrise. So why break in? If they're just wiring money? Couldn't they do that from anywhere?
+DEKKER: ( realizes ) Or 6 AM Pacific time. Sunrise. So why break in? If they're just wiring money? Couldn't they do that from That's the regional manager's computer terminal. There's no outside/remote access to it. There you have unlimited entry to the bank's mainframe. No passwords to work around, no "hacking" in. It's all nice and clean.
 DAX: That's the regional manager's computer terminal. There's no outside/remote access to it. There you have unlimited entry to the bank's mainframe. No passwords to work around, no "hacking" in. It's all nice and clean.
 DEKKER: A billion dollars is missing and we're only discovering this now?
 DAX: Ironically, when the power went out, it helped hide the virus and bought it time to work.
-DEKKER: So they weren't trying to make   it look like they were robbing a bank,   to rip off a Saudi Prince? They were    making it look like they ripped off a   Saudi Prince to rob a bank. (realizes) The Chaos Theory.
-DEKKER: Dekker.
-DISPATCH OFFICER (VO): Detective Dekker, there's a call for you. Says it's urgent.
+DEKKER: So they weren't trying to make it look like they were robbing a bank, to rip off a Saudi Prince? They were making it look like they ripped off a Saudi Prince to rob a bank. The Chaos Theory.
+DEKKER: DISPATCH OFFICER ( VO )
 DEKKER: Put it through.
-LORENZ/ CURTIS (VO): Good evening Detective. I just wanted to compliment you on a fine day. You were an unexpected adversary that was most challenging.
 DEKKER: It's not over yet.
-LORENZ/ CURTIS (VO): Wishful thinking.
 DEKKER: No. My wish is to catch you. You're a murderer. A cop killer at that.
-LORENZ/ CURTIS (VO): I didn't kill anyone who didn't deserve it. Callo was insignificant and Conners crossed me. In years to come you'll thank me for getting rid of him before he corrupted you.
-DEKKER: I know about the money. You steal a billion dollars... They will find you.
-LORENZ/ CURTIS (VO): A risk I'm willing to take. It's almost sunrise. Fare thee well.
+DEKKER: I know about the money. You steal a billion dollars. They will find you.
 JENKINS: You're still here?
-DEKKER: (in complete work mode) Callo's insignificant.
-JENKINS: What?
+DEKKER: ( in complete work mode ) Callo's insignificant.
+JENKINS: That's what he said, Callo's insignificant. But he wasn't.
 DEKKER: That's what he said, Callo's insignificant. But he wasn't.
 JENKINS: What are you talking about?
-DEKKER: Lorenz...    Curtis...   Called me.
+DEKKER: Lorenz. Curtis. Called me.
 JENKINS: He called you?
-DEKKER: He said he didn't kill anyone who didn't deserve it. He said Callo was insignificant. But without Callo he wouldn't have had the knowledge of our department and... (grabs a clipboard) ... He wouldn't have had the front money to hire the crew.
+DEKKER: He said he didn't kill anyone who didn't deserve it. He said Callo was insignificant. But without Callo he wouldn't have had the knowledge of our department and. . He wouldn't have had the front money to hire the crew.
 JENKINS: He was screwing with your head. Go home, Shane. You did good today. Your Dad would be proud. Get some sleep. There will be more bad guys tomorrow.
-HARRY: I was in bed already.     This couldn't wait til morning.
-DEKKER: (cold) How did he come at you, Harry? It's the only thing that doesn't make sense.
+HARRY: I was in bed already. This couldn't wait til morning.
+DEKKER: ( cold ) How did he come at you, Harry? It's the only thing that doesn't make sense.
 HARRY: What are you talking about?
 DEKKER: All day long we thought Callo was the dirty cop. All day long we were wrong.
-DEKKER: That's the sign-out sheet from the evidence room. Here's one of Callo's reports. Here's another one... and another --
+DEKKER: That's the sign-out sheet from the evidence room. Here's one of Callo's reports. Here's another one. and
 DEKKER: They're not the same signature, Harry. They're not even close.
-HARRY: (shrugs it off) Maybe he had a cramp in his hand.    I don't know.
-DEKKER: (re: file #1) This is your file... You were reprimanded, a month ago after you confronted Callo at the courthouse. You punched him. That ring a bell?
+HARRY: ( shrugs it off ) Maybe he had a cramp in his hand. I don't know.
+DEKKER: ( re: file #1 ) This is your file. You were reprimanded, a month ago after you confronted Callo at the courthouse. You punched him. That ring a bell?
 HARRY: And I'd do it again. Cops who testify against cops shouldn't be breathing the same air I do. There's a line you don't cross!
 DEKKER: So you set him up! You forged Callo's signature, you gave him the money and you helped him with his plan because you thought he got a raw deal at Pearl Street Bridge! Don't deny it, Harry cause I know.
+HARRY: OF COURSE HE GOT A RAW DEAL AT PEARL STREET BRIDGE! EVERYBODY GOT A RAW
+DEAL!: 155 OMIT 155 156 OMIT 156 157 EXT. PEARL STREET BRIDGE - NIGHT - FLASHBACK 157
 DEKKER: You're helping a cop killer, Harry. You're a year from pension. This is how you want to go out?
 HARRY: My conscience is clean.
 DEKKER: This has been a very long, trying day. And I'm tired. We're chasing a
-(MORE): DEKKER (cont'd) phantom. Just when we have him... he disappears. He's been two steps ahead of Conners and me all day.
-HARRY: Of course he has.   Who knows Conners better than him?
-DEKKER: (what?) How the hell does Curtis know Conners better than anyone?
-DEKKER: (realizes) We're not talking about Curtis, are we, Harry? (still no response) Who would know Conners better than anyone? Who would you protect? And who in your mind got the raw deal at Pearl Street Bridge?
+HARRY: Of course he has. Who knows Conners better than him?
+DEKKER: ( what? ) How the hell does Curtis know Conners better than anyone? ( realizes ) We're not talking about Curtis, are we, ( still no response ) Who would know Conners better than anyone? Who would you protect? And who in your mind got the raw deal at Pearl Street Bridge?
+DEKKER: ( realizes ) We're not talking about Curtis, are we, ( still no response ) Who would know Conners better than anyone? Who would you protect? And who in your mind got the raw deal at Pearl Street Bridge?
 CONNERS: Drop the weapon. Let the girl go.
 YORK: That, you don't want to do.
 JOHN CURTIS: One step closer and the girl dies.
-CONNERS: Think about this... you kill her, where are you going to...
+CONNERS: Think about this. you kill her, where are you going to.
 DEKKER: It was York who was the bad cop. He assumed Scott Curtis's identity to throw us off the trail.
 DEKKER: York plays his old partner, knowing all his moves, frames his enemy for the crime, kills him too and pulls off the biggest robbery in history.
 HARRY: Do what you want to me. He called to tell me he was going and he's gone and you ain't never going to find him.
 DEKKER: Watch me.
 DAX: The number York used to call Harry Hume is a cellphone number. Ran it through
-(MORE): DAX (cont'd) local service providers.    Nextel got a match.
 DEKKER: Can they get a location on him?
-DAX: That particular phone he's using is equipped with the latest GPS technology. Should be able to trace his location within 100 meters or less. (into phone) Yeah? (to Dekker) They got him.
-DAX: The signal's coming from around 175th street. That's about fifteen miles north of us. (deflated) From the harbor he can take a boat or a sea-plane out. He's gone.
-DEKKER: (beat; thinks) No. If there's a signal. Means he's still here. He's waiting for something or someone.
+DAX: That particular phone he's using is equipped with the latest GPS technology. Should be able to trace his location within 100 meters or less. They got him.
+DAX: The signal's coming from around 175th street. That's about fifteen miles north of us. From the harbor he can take a boat or a sea-plane out. He's gone.
+DEKKER: ( beat; thinks ) No. If there's a signal. Means he's still here. He's waiting for something or someone.
 DAX: Waiting? Where? Ain't nothing down there that's open at this hour.
-DEKKER: (thinks) 175th street... There's is one place.
+DEKKER: ( thinks ) 175th street. There's is one place.
 TEDDY: I'm going with you.
-DEKKER: Detective Galloway...
-TEDDY: (w/ a steel glare) It's not a request.
+DEKKER: Detective Galloway.
+TEDDY: ( w/ a steel glare ) It's not a request.
 PRETTY WAITRESS: That'll be $8.48, please.
 YORK: Keep the change.
 PRETTY WAITRESS: Thanks, mister.
-DEKKER: Jason York... this is the police. Put your hands in the air and slowly get on your knees. Do it. Now!
+OUTSIDE!: 168 EXT. DINER NEAR PUGET SOUND - NIGHT 168
+DEKKER: Jason York. this is the police. Put your hands in the air and slowly get on your knees. Do it. Now!
 YORK: Don't shoot. You win.
 DEKKER: Get down on the pavement!
-YORK: I'm cooperating.   You win.
-DEKKER: (to Teddy) Take the back!
+YORK: I'm cooperating. You win.
+DEKKER: GET DOWN NOW! FINAL WARNING! I SAID. I. GIVE. UP!
+YORK: I SAID. I. GIVE. UP!
+DEKKER: ( to Teddy ) Take the back!
 YORK: Was it Harry? It was Harry, right? That fat fuck!
 DEKKER: Let the girl go. It's over.
 YORK: Easy for you to say. I'm a plane ride away from a King's Ransom.
 DEKKER: Drop the weapon, let the girl go.
-YORK: And spend the rest of my days in a cage? Let me ponder... (beat) Don't think so. If you're going to stop me... I'm gonna make you earn it.
+YORK: And spend the rest of my days in a cage? Let me ponder. Don't think so. If you're going to stop me. I'm gonna make you earn it.
 DEKKER: That you don't want to do.
-YORK: (realizes) That's exactly what I said to him. Do you see the irony here? Am I the only one? Two months ago I was in your shoes. Some punk holding a gun to an innocent girl. What should you do? (beat)
-DEKKER: Shit.
-TEDDY: I'm fine.    Go get him.
+YORK: ( realizes ) That's exactly what I said to him. Do you see the irony here? Am I the only one? Two months ago I was in your shoes. Some punk holding a gun to an innocent girl. What should you do? ( beat )
+TIGHTENS!: Teddy moves into position from the side! Then. The BUS BOY enters from the same door Teddy came in. The door BANGS closed behind him. York spins, FIRES in that direction! Teddy's HIT! The Bus Boy retreats out the side door!
+DEKKER: I'm fine. Go get him.
+TEDDY: I'm fine. Go get him.
 DEKKER: Which way did he go?
-PRETTY WAITRESS: That way.    Down towards the pier.
-YORK (OS): You've really screwed yourself... Jenkins is going to expect these kind of results from you everyday.
+PRETTY WAITRESS: That way. Down towards the pier.
 DEKKER: FBI's got a team of 40 computer technicians figuring out Lei's virus. They'll break it.
 YORK: Your conviction would be admirable, if it wasn't just so sad.
-YORK: Get it through your head... The calvary ain't coming. No heroes are coming to save the day. The bad guy gets away at the end of this story.
-YORK (OS): But I'll give you credit... You turned out to be quite the little thorn, didn't you?
-YORK (OS): I think Conners would be sorry that you died. But not me.
-YORK: I have come this far...      I will not be denied.
-TEDDY: We used to spend all day   Sunday just reading in bed. I would    read the paper and he would read one of   his billion books. I didn't deserve    him. I knew that. But I still loved    him.
-TEDDY: He's the only man I ever loved. (beat) Did we all get shot today?
+YORK: Get it through your head. The calvary ain't coming. No heroes are coming to save the day. The bad guy gets away at the end of this story.
+YORK: I have come this far. I will not be
+TEDDY: We used to spend all day Sunday just reading in bed. I would read the paper and he would read one of his billion books. I didn't deserve him. I knew that. But I still loved him.
+TEDDY: He's the only man I ever loved. Did we all get shot today?
 DEKKER: They said in the city I'd be busy. Every day like this?
 TEDDY: Pretty much.
-DEKKER: Great.    I wonder what's next?
-TEDDY: For me...    a long vacation.
+DEKKER: Great. I wonder what's next?
+TEDDY: For me. a long vacation.
 DEKKER: How much?
 PRETTY WAITRESS: Do you think I'm going to charge you after all that? Go on.
-DEKKER: Thanks.
+DEKKER: Dekker notices the tip jar by the register. He removes a TEN DOLLAR BILL, about to stuff it in the jar. That's when THE SMELL hits him. A strange, but familiar ODOR comes from Dekker's wallet or more accurately. The TEN DOLLAR BILL! But what is it?
 MARNIE: Do you smell that?
-DEKKER: (smells the bills; grimaces) What is it?
+DEKKER: ( smells the bills; grimaces ) What is it?
 MARNIE: When evidence is taken in, any physical mark might effect the ability to lift prints, so, to mark it, we spray it with a scented solution.
 WAITRESS: Anything else, officers?
-DEKKER: (into phone) You tried them all?/ Nothing for Conners or Lorenz?/ I don't know.        No, maybe he's not on a flight.
-DEKKER: Try again.     But try Gleick.   James Gleick.
-CONNERS (VO): There's a passage in the Surangama Sutra which, roughly translated means: "Things are not what they appear to be: nor are they otherwise."
-DEKKER: Conners?
-CONNERS (VO): Think about that a minute... Doesn't that blow your mind? (beat) What gave me away?
+DEKKER: ( into phone ) You tried them all?/ Nothing for Conners or Lorenz?/ I don't know. No, maybe he's not on a flight.
+DEKKER: Try again. But try Gleick. James
+DEKKER: Dekker again scans the line he's not there. He scans all the faces AGAIN, but still nothing.
 DEKKER: Ten bucks.
-CONNERS (VO): At the diner. That's right...       Well, to err is human.
-CONNERS (VO): Was it Harry that gave him up?
 DEKKER: Harry and the phone call. He called me, said Callo was insignificant. Threw up a red flag.
-CONNERS (VO): That wasn't him. That was my mistake. I called you.
-CONNERS: I didn't kill anyone who didn't deserve it.
-LORENZ/ CURTIS (VO): Callo was insignificant...
-CONNERS (VO): York always thought "the plan" was flawless. He was cocky. I told him you have to leave room for error. You can't always predict how it's all going to play out. A random camera catches an image of Richards, the scent on the money... you. You were the biggest wrench of the day. The Chaos Theory... When you got that... I was impressed.
-DEKKER: All day long, we were trying to find out who the inside source was... it was you.
+CONNERS: I didn't kill anyone who didn't deserve
+DEKKER: All day long, we were trying to find out who the inside source was. it was you.
 CONNERS: The more information you gather, from as many sources as possible, no matter how unpleasant the methods are, the better. And while I'd like to take sole credit it was a team effort.
-DEKKER: (beat) Teddy's pretty devastated about your death.
-CONNERS (VO): She'll get over it.
-TEDDY: Gas.   Get out of here!    Get out of here
-DEKKER: So the corpse in the morgue with your name on its toe...?
-CONNERS (VO): Scott Curtis won't be bothering anyone again.
+DEKKER: ( beat ) Teddy's pretty devastated about your She'll get over it.
+BUTTON!: A VENT. A FLASH GOES BY! SHOOTING SCRIPT MARCH 15, 2004 101. 190 OMIT 190 191 DINING ROOM 191 ON THE FLOOR. next to the base of the door is a FUSE. It runs from the wall into the vent. Teddy follows it into THE
+TEDDY: Gas. Get out of here! Get out of here
+NOW!: The fuse comes out of the vent. IT'S LIT! THE OVEN. HEAR the gas emission. The spark. The Gas.
+CONNERS!: BACK TO:
+DEKKER: So the corpse in the morgue with your name on its toe.?
 DEKKER: You're a serial killer.
-CONNERS (VO): Who got killed? Curtis? Harrington, Galt, Lei. They're all hoods. The world's safer with them gone. The kid at the bank... that was unfortunate. But... you live with your decisions. You choose to take this road... there is no half way. It's all or nothing. That's why others fail. They don't make the commitment. I won't make that same mistake.
-DEKKER: You said they were all hoods...     what about, Callo?
-CONNERS: Callo deserved his fate.      It's his fault.
+DEKKER: You said they were all hoods. what about, Callo?
+CONNERS: Callo deserved his fate. It's his fault.
 DEKKER: This is Callo's fault?
-CONNERS: If it weren't for him, York and I would've never done this. One random act, causes another, causes another, and in the end... the pattern emerges. That's the Chaos Theory. (beat) It's after six. The money's cleared. I'm a wealthy man. Lei, for all his
-(MORE): CONNERS (cont'd)
-(MORE): CONNERS (VO) (cont'd) this would've happened. The system broke down. Good luck, Detective. It would've been an interesting partnership, but I have to go now.
-DEKKER: Conners?   Conners?
+CONNERS: If it weren't for him, York and I would've never done this. One random act, causes another, causes another, and in the end. the pattern emerges. That's the Chaos Theory. It's after six. The money's cleared. I'm a wealthy man. Lei, for all his
+DEKKER: Lei. you tanked his trial on purpose.
+CONNERS: They should've suspended me after I testified. What did they expect?
+DEKKER: And because the "bitch that made her career off you" worked for Channel Two, that's why American National was the Everybody who screwed us, got screwed. Everything in its right place.
+CONNERS: Everybody who screwed us, got screwed. Everything in its right place.
+DEKKER: Why not kill me? You had plenty of This wasn't about killing, Shane. This was about standing up for what matters. Besides. you kinda grew on me.
+CONNERS: This wasn't about killing, Shane. This was about standing up for what matters. Besides. you kinda grew on me.
+DEKKER: You're not going to get away.
+DEKKER: What's that?
+DEKKER: All your years of service for not. You're a hypocrite.
+DEKKER: Conners? Conners?
 STEWARDESS: Good morning, Sir. I'll let the Captain know we're ready.
 STEWARDESS: Will there be anything else?
 CONNERS: No thank you. I'm fine.
+THE END: Writers : Tony Giglio

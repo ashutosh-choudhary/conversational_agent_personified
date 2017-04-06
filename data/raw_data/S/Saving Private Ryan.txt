@@ -1076,8 +1076,7 @@ top.location.href=location.href
 <b>                                     SERGEANT
 </b><b>                         THEN UNBLOCK 'EM!
 </b>
-<b>               SARGE&lt; REIBEN, JACKSON AND WADE
-</b>
+<b>               SARGE
                Wait nearby.  Reiben is beside himself, pacing, muttering.
                The others are relaxed.
 
@@ -6111,7 +6110,7 @@ top.location.href=location.href
 </b>
 <b>               --------------------------------------------------------------
 </b>
-</pre>
+</b></pre>
 </pre><br/>
 <table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
 <tr>

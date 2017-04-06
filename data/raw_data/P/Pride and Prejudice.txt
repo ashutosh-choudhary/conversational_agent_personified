@@ -3735,8 +3735,7 @@
           thick blanket of snow. A lonely Elizabeth walks away
           totally despondent.
 
-<b>          62 EXT. HUNSFORD PARSONAGE - KENT - DAY. 6&lt;
-</b>
+<b>          62 EXT. HUNSFORD PARSONAGE - KENT - DAY. 6
           Charlotte's new home is a smallish but charming rectory
           in Kent. Charlotte greets Elizabeth, kissing her warmly.
           â¢ Mr Collins bows as he ushers her in.
@@ -7782,7 +7781,7 @@
                          
  
 
-</pre><br/>
+</b></pre><br/>
 <table align="center" border="0" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;" width="85%">
 <tr>
 <td align="center"><img border="0" src="http://www.imsdb.com/posters/Pride-and-Prejudice.jpg"/>

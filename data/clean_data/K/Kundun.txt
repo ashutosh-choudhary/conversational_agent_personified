@@ -1,47 +1,27 @@
-KUNDUN: Cast of Characters (in order of appearance) the death of the Thirteenth Dalai Lama and the discovery of the Fourteenth Dalai Lama.  A monk. as Tenzin Gyatso. Kumbum Monastery. Ritual.  All monks. monk. and laymen. A monk. meets on his way to Yadung. China sent to Tibet. the Dalai Lama.
-BOY (VO): Mama, my story.
-WOMAN (VO): Again?
-BOY (VO): Tell me.
-WOMAN (VO): Your father had been very ill, We thought he would die, and some animals had died.
-BOY (VO): Cow.
-WOMAN (VO): And a yak.  And chickens.  And we had four years of bad crops, all the farmers did.
-WOMAN (VO): In the night, I knew you were coming.
-WOMAN (VO): At dawn, you were born.
-BOY (VO): Tell me.
-WOMAN (VO): You were a beautiful baby. So calm.
-WOMAN (VO): Maybe, just a little.
-WOMAN (VO): And that day, your father got better.  He named you Lhamo. "The Protector."
-BOY (VO): I know.
-WOMAN (VO): Go to sleep, Lhamo.
-LHAMO: Me.
-FATHER: No.  This must stop.
-LHAMO: Me.  Here.
-FATHER: I am the father.  You sit there.
+KUNDUN: Melissa Mathison 16 October 1992
+LHAMO: No. This must stop.
+FATHER: No. This must stop.
+LHAMO: Me. Here.
+FATHER: I am the father. You sit there.
 LHAMO: Me here.
 MOTHER: What is the harm?
 FATHER: He will grow up all wrong. Only you can serve him, only you can wash his bowl. Too tidy, everything just so. He must know his place.
 LOBSANG SAMTEN: He thinks he is king here. No respect.
 MOTHER: What is the harm?
 LHAMO: I go away. Look, mama, I go away. Far, far, far.
-MOTHER: Oh, no.  Where will he go?
+MOTHER: Oh, no. Where will he go?
 LHAMO: Far, far away.
-MOTHER (OC): Good day.
-MAN (OC): Good day.
-MOTHER (OC): Please, come in, so cold.
-MAN (OC): We are traveling to Lhasa.  May we...?
-MOTHER (OC): Of course, please, this way. Your servant may use the kitchen.
-MAN (OC): Thank you.
-LHAMO: Mine.
-LHAMO: Mine.
-SERVANT: Mine.
-LHAMO: Please.
+LHAMO: The Servant takes the rosary off and gives it to the boy. Lhamo hangs the string of beads around his own neck. The Servant makes a move to take back the rosary, but Lhamo Lhamo looks up, into the man's piercing, black eyes.
+LHAMO: I will give it to, if you can tell me who I am.
+SERVANT: I will give it to, if you can tell me who I am.
+LHAMO: I will give it to, if you can tell me who I am.
 SERVANT: I will give it to, if you can tell me who I am.
 LHAMO: The Lama of Sera. You come.
 MOTHER: Lhamo, no.
 SERVANT: Thank you.
-LHAMO: Wait!  No!
-LHAMO: Me, too.  Me go, too. Lhasa!
-MOTHER: No, no, no.  Lhasa! He always says he will travel far away.  He always wants to go.
+LHAMO: Wait! No!
+LHAMO: Me, too. Me go, too.
+MOTHER: No, no, no. Lhasa! He always says he will travel far away. He always wants to go.
 SERVANT: We cannot, young master.
 LHAMO: You come back?
 SERVANT: We will.
@@ -52,42 +32,42 @@ LOBSANG: I will be very smart.
 MOTHER: You will be fine. You will be a fine monk.
 MOTHER: Om mani padme hum. Om mani padme hum.
 MOTHER: Your father had been very sick. He had been sick from the time you began growing in me. We thought he would die.
-LHAMO: Cow.
-MOTHER: Yes.  A cow had died. One night, you stopped all your moving, and I said to your sister, "His time has come."
-LHAMO: Me.  First break of day.
-MOTHER: At dawn, you were born. One eye was closed, and your sister opened it with her thumb.  We gave you the sweet drink.
+LHAMO: Yes. A cow had died. One night, you stopped all your moving, and I said to your sister, "His time has come."
+MOTHER: Yes. A cow had died. One night, you stopped all your moving, and I said to your sister, "His time has come."
+LHAMO: Me. First break of day.
+MOTHER: At dawn, you were born. One eye was closed, and your sister opened it with her thumb. We gave you the sweet drink.
 LHAMO: I pooped.
-MOTHER: You did.  We washed you and wrapped you in sheepskin and took you to your father.  That day he father got better And that day, a pair of crows came to nest in our roof.  I just remembered.
+MOTHER: You did. We washed you and wrapped you in sheepskin and took you to your father. That day he father got And that day, a pair of crows came to nest in our roof. I just remembered.
 LHAMO: I miss my brother.
 MOTHER: I miss him too.
 LAMA: I am the Lama of Sera.
-MOTHER: Sera Monastery?  From Lhasa?
-LAMA: Yes.  We have business here.
+MOTHER: Sera Monastery? From Lhasa?
+LAMA: Yes. We have business here.
 KEUSTANG RINPOCHE: This is yours, you say. What else belongs to you?
 KEUSTANG RINPOCHE: Yes, those are yours.
 KEUSTANG RINPOCHE: With permission?
-KEUSTANG RINPOCHE: "Kundun"
+KEUSTANG RINPOCHE: He says to the others, in a soft, secretive voice:
 KEUSTANG RINPOCHE: He is the Presence.
 MOTHER: My oldest boy is an incarnation.
 KEUSTANG RINPOCHE: So is your youngest.
 KEUSTANG RINPOCHE: I wish you long life.
 MOTHER: I will be back in a few days.
 LHAMO: How many?
-MOTHER: Two.
+MOTHER: Lhamo holds up two fingers.
 LHAMO: This many?
-MOTHER: Yes, yes.  Your brothers are here.
+MOTHER: Yes, yes. Your brothers are here.
 MOTHER: One more kiss.
-BOYS'S VOICES (VO): "May I be the doctor and the medicine, And may I be the nurse, For all sick beings in the world, until everyone is healed."
+DREAM SEQUENCE: The sound of the concertina becomes chanting and we see row after row of monks, in a temple, their voices mingling in the empty room. View of a courtyard, with young novices, reciting. Lobsang is among them.
 CHINESE GOVERNOR: I want him accompanied by my Chinese soldiers.
 KEUSTANG RINPOCHE: This is Tibet. We are not under your authority.
-CHINESE GOVERNOR: I want one hundred thousand Chinese dollars, if you want the boy.
-MOTHER: But why?  Who is Lhamo? Who do they say he is? BOYS (reciting) "May I be protector for those without one."
+CHINESE GOVERNOR: I want one hundred thousand Chinese dollars, if you want the
+MOTHER: But why? Who is Lhamo? Who do they say he is? "May I be protector for those without one."
 TEACHER: "May I be a bridge, a boat, a ship For all who wish to cross the water."
 TEACHER: Can you recite?
 LHAMO: You have all the room.
 LOBSANG: Don't be a baby, move over.
 LHAMO: You move.
-LOBSANG: You!  You think you are so big!
+LOBSANG: You! You think you are so
 LHAMO: Who am I?
 MOTHER: We do not know.
 RETING RINPOCHE: Chenrezi, the Buddha of compassion. The Wish Fulfilling Jewel. The Fourteenth Dalai Lama.
@@ -95,66 +75,61 @@ RETING RINPOCHE: Long life.
 MOTHER: Long life.
 FATHER: Long life.
 LOBSANG: Long life, Lhamo.
-MONKS: Kundun!  Kundun!
-RETING RINPOCHE: Centuries ago, a young boy was born.  His name was Gedundrub. The night of his birth, robbers came to his home and his family fled hiding the baby in a cattle pen. When they returned the next day, the baby was safe. They found him guarded by a pair of black crows. He was the first Dalai Lama. The Living Buddha of Compassion. Now, you have chosen to come back to this life once again.
+MONKS: Kundun! Kundun!
+RETING RINPOCHE: Centuries ago, a young boy was born. His name was Gedundrub. The night of his birth, robbers came to his home and his family fled hiding the baby in a cattle pen. When they returned the next day, the baby was safe. They found him guarded by a pair of black crows. He was the first Dalai Lama. The Living Buddha of Compassion. Now, you have chosen to come back to this life once again.
 RETING RINPOCHE: We name you Tenzin Gyatso.
-RETING RINPOCHE: Your job is simple. You are to love all living things. Just love them.  Care for them. Have compassion for them. "As long as any living thing draws breath, wherever he shall be, there in compassion, shall the Buddha appear, incarnate."
-RETING RINPOCHE: You will be the leader of the Tibetan people when you come of age.  Until that time, I will be your teacher, and as your Regent, I will rule in your name. I will tell your Lord Chamberlain you are ready to see him.
+RETING RINPOCHE: Your job is simple. You are to love all living things. Just love them. Care for them. Have compassion for them. "As long as any living thing draws breath, wherever he shall be, there in compassion, shall the Buddha appear, incarnate."
+RETING RINPOCHE: You will be the leader of the Tibetan people when you come of age. Until that time, I will be your teacher, and as your Regent, I will rule in your name. I will tell your Lord Chamberlain you are ready to see him.
 RETING RINPOCHE: He will see you now.
 LORD CHAMBERLAIN: Fifth Dalai Lama.
 LORD CHAMBBERLAIN: Seventh Dalai Lama.
 LORD CHAMBERLAIN: Thirteenth Dalai Lama.
 LORD CHAMBERLAIN: Fourteenth Dalai Lama.
-TENZIN GYATSO (OC): I am the good one. You be bad. The bad man.
-NORBU THUNDRUP: My name is Norbu, Holiness.  I will be good, you be bad.
-TENZIN GYATSO: I'm on a big mountain and hitting at the bad men. And after the game, we're going to trade.  You just stay over there, no, there!, Norbu, and I will shoot at you. I want your land.  I take it. I am stronger.
-NORBU THUNDRUP: I am braver.
-TENZIN GYATSO: I have more men. NORBU ThUNDRUP I have smarter men.
-NORBU THUNDRUP: Today you lose.  Tomorrow you may win.
+NORBU THUNDRUP: My name is Norbu, Holiness. I will be good, you be bad. I'm on a big mountain and hitting at the bad men. And after the game, we're going to trade. You just stay over there, no, there!, Norbu, and I will shoot at you. I want your land. I take it. I am stronger.
+TENZIN GYATSO: I'm on a big mountain and hitting at the bad men. And after the game, we're going to trade. You just stay over there, no, there!, Norbu, and I will shoot at you. I want your land. I take it. I am stronger.
+NORBU THUNDRUP: I am braver. I have more men. I have smarter men.
+TENZIN GYATSO: I have more men. I have smarter men.
+NORBU THUNDRUP: Today you lose. Tomorrow you may win.
 NORBU THUNDRUP: Things change, Kundun.
 TENZIN GYATSO: Why is your beard so funny? Let me touch this.
-TENZIN GYATSO: Soft.
+TENZIN GYATSO: And then, Tenzin Gyatso tries to snap his fingers. He INT. DALAI LAMA'S PRIVATE ROOMS DUSK Tenzin Gyatso stands at the window, watching, listening. His hands knead the colored dough into balls, ready to create the next army, the future battleground, as he recites, softly:
 TENZIN GYATSO: "As long as all living draw breaths, there Buddha is."
-LAYMAN: I believe that the Regent is asking for too high a reward for his part in finding the Dalai Lama.  Too much money, too much land.
-LAYMAN: Our treasuries are empty.  Our army is depleted.  He would have us pull the hair from our noses.
-MONK: We note this.  Now, the Chinese.
-MONK: The Allies wish to build a supply- road from India, crossing Tibet, as part of their war effort.  The road would lead directly to China.
+LAYMAN: I believe that the Regent is asking for too high a reward for his part in finding the Dalai Lama. Too much money, too much land.
+LAYMAN: Our treasuries are empty. Our army is depleted. He would have us pull the hair from our noses.
+MONK: We note this. Now, the Chinese.
+MONK: The Allies wish to build a supply- road from India, crossing Tibet, as part of their war effort. The road would lead directly to China.
 LAYMAN: We cannot allow it. Right now, we have a only a small Chinese mission in Lhasa, the first since the Thirteenth Dalai Lama threw them out in 1912. The road would increase the size of that mission. The Chinese would try to control our trade, as they did once before, control our contact with the outside world.
-MONKS (OC): Kundun!  Kundun!
 TENZIN GYATSO: What is it?
 THE ATTENDANTS: Ah, it is a telescope, Holiness. With this you can see a long way.
 TENZIN GYATSO: And, is it mine?
 ATTENDANT: These are all gifts sent to your predecessors.
-LOBSANG SAMTEN: Yes!  Then it is yours!
+LOBSANG SAMTEN: Yes! Then it is yours!
 TENZIN GYATSO: I need it.
-NORBU THUNDRUP (OC): One night, not too long ago, an old monk saw a woman in that very same hallway where you ran away.
-NORBU THUNDRUP: She carried a basket in her arms, a big, heavy basket, and the old monk cautiously approached. She opened her basket and showed what she had.  Heads.  Human heads. Only the heads.
+NORBU THUNDRUP: She carried a basket in her arms, a big, heavy basket, and the old monk cautiously approached. She opened her basket and showed what she had. Heads. Human heads. Only the heads.
 TENZIN GYATSO: Is that true or pretend?
 NORBU THUNDRUP: It is a story, you decide.
-TENZIN GYATSO: Pretend.
+TENZIN GYATSO: NORBU THUNDRUP
 NORBU THUNDRUP: As you say.
 TENZIN GYATSO: "I be an island for those who seek one, a lamp for light."
-TENZIN GYATSO (VO): "May I be a bed for all who wish to rest, and a slave for all who want a slave."
-TENZIN GYATSO: "May I be wishing jewel, a magic vase...
+TENZIN GYATSO: "May I be wishing jewel, a magic
 TENZIN GYATSO: I want to go down there.
 NORBU THUNDRUP: You can only go with attendants and a big ceremony.
-TENZIN GYATSO: I want to run down the street. I want to buy a toy.  Eat from the shops.
+TENZIN GYATSO: I want to run down the street. I want to buy a toy. Eat from the shops.
 NORBU THUNDRUP: You cannot.
 TENZIN GYATSO: I want to be a shepherd, taking those goats and cows out to the hillside.
 NORBU THUNDRUP: But you are not a shepherd, you are the Dalai Lama.
-TENZIN GYATSO: Maybe in the next life, the world will not need a Dalai Lama. NORNU ThUNDRUP I would not know.  Maybe.
+TENZIN GYATSO: Maybe in the next life, the world will not need a Dalai Lama. I would not know. Maybe.
 TENZIN GYATSO: Little ones first, only little ones.
-LOBSANG SAMTEN: The Dalai Lama is not supposed to eat pork.  It is not good for your brain.
+LOBSANG SAMTEN: The Dalai Lama is not supposed to eat pork. It is not good for your brain.
 FATHER: I am sorry, Lhamo.
 TENZIN GYATSO: It is alright, Father.
-MASTER OF THE ROBE: Kundun, you must come back now.
 TENZIN GYATSO: Go away.
 FATHER: Not the way to talk to people.
 TENZIN GYATSO: Can I do anything I want?
-FATHER: No.
+FATHER: TENZIN GYATSO
 TENZIN GYATSO: But, I am in charge.
-FATHER: Are you?  Of whom?
-TENZIN GYATSO: Can I save the sheep from going to the market?  So they don't die.
+FATHER: Are you? Of whom?
+TENZIN GYATSO: Can I save the sheep from going to the market? So they don't die.
 LOBSANG: You could buy them.
 TENZIN GYATSO: Do I have money?
 LOBSANG: What do you think?
@@ -164,210 +139,204 @@ TENZIN GYATSO: And you have horses? You love horses.
 FATHER: I do, beautiful horses. Thank you, Holiness.
 TENZIN GYATSO: Will you buy the sheep for me?
 FATHER: Where will you keep them?
-TENZIN GYATSO: Here.  We'll collect them.
+TENZIN GYATSO: Here. We'll collect them.
 FATHER: I will buy them for you.
 TENZIN GYATSO: Can I free the prisoners?
-FATHER: Hmmm.
+FATHER: You can't do anything real until you are Dalai Lama.
 LOBSANG: You can't do anything real until you are Dalai Lama.
 TENZIN GYATSO: I am him.
 LOBSANG: Not until you are eighteen.
-MOTHER (OC): You have escaped once more.
-LOBSANG: Go study.  I get in trouble if you do not study.
+LOBSANG: Go study. I get in trouble if you do not study.
 LOBSANG: I do.
 FATHER: Sometimes you strike the goat, to scare the sheep.
 LOBSANG: I am the goat. He is a naughty sheep.
 FATHER: He will not be ours much longer.
-MOTHER: I have news.  The Regent has resigned his post.
-TENZIN GYATSO: Is he a bad man?  Norbu says he is "lavish" and "willful". "How can he give you monk's vows if he has not kept them himself?"
+MOTHER: I have news. The Regent has resigned his post.
+TENZIN GYATSO: Is he a bad man? Norbu says he is "lavish" and "willful". "How can he give you monk's vows if he has not kept them Well, some say. It's not for you to worry about. Another will be chosen.
 MOTHER: Well, some say. It's not for you to worry about. Another will be chosen.
-TENZIN GYATSO: He was always nice to me. He found me.  He saw me in his dreams.
-MOTHER: I turn you over again, today, Lhamo.  One day, you will not be able to come running to us.
+TENZIN GYATSO: He was always nice to me. He found me. He saw me in his dreams.
+MOTHER: I turn you over again, today, Lhamo. One day, you will not be able to come running to us.
 TENZIN GYATSO: But you will always be here?
-MOTHER: Me?
+MOTHER: TENZIN GYATSO
 TENZIN GYATSO: You will always!
-MOTHER: I have one more piece of news.  A baby is coming.
-TENZIN GYATSO: Oh, Mama!  Who will it be?
-MOTHER: Oh, no!  Who can it be?
-TENZIN GYATSO: My teeth!  My teeth are in here!
+MOTHER: I have one more piece of news. A baby is coming.
+TENZIN GYATSO: Oh, Mama! Who will it be?
+MOTHER: Oh, no! Who can it be?
+DAY: The boy runs up the stairs and towards the old men, but he stops and looks at a small cabinet standing, unobtrusively, in a corner. Tenzin Gyatso goes to the cabinet and rattles the locked door.
+TENZIN GYATSO: My teeth! My teeth are in here! My old teeth!
 TENZIN GYATSO: My old teeth!
 TAKTRA RINPOCHE: "I take refuge in the three jewels, The Buddha, the Dharma and the Sangra."
 TENZIN GYATSO: You recite! You recite!
-TAKTRA RINPOCHE: "I take refuge in the three jewels, The Buddha, the Dharma and the Sangra."
+TAKTRA RINPOCHE: "I take refuge in the three jewels, The Buddha, the Dharma and the "Until I attain enlightenment."
 TAKTRA RINPOCHE: "Until I attain enlightenment."
-TENZIN GYATSO: I would like you to be my new Regent.
+TENZIN GYATSO: I would like you to be my new
 LING RINPOCHE: The Four Noble Truths.
 TENZIN GYATSO: The Four Noble Truths, as taught by the Lord Sakyamuni Buddha are: The Truth of Suffering The Truth of the Cause of Suffering, The Truth of the Cessation of Suffering, the Truth of the Way which leads to the cessation of Suffering.
 LING RINPOCHE: I accept it. What is suffering?
-TENZIN GYATSO: True suffering arises from contaminated actions and afflictions.  Birth, illness, grief, old age, poverty, pain, death - these are surferings.
+TENZIN GYATSO: True suffering arises from contaminated actions and afflictions. Birth, illness, grief, old age, poverty, pain, death - these are surferings.
 LING RINPOCHE: I accept it. What are the causes of suffering?
-TENZIN GYATSO: The causes of suffering arise from true sources.  Attachment, desire, envy, hatred, greed, unkindness, wrong view and so forth - these are some causes of suffering.
-LING RINPOCHE: How does one progress from the realization of one Noble Truth to another? (clap)
+TENZIN GYATSO: The causes of suffering arise from true sources. Attachment, desire, envy, hatred, greed, unkindness, wrong view and so forth - these are some causes of suffering.
+LING RINPOCHE: How does one progress from the realization of one Noble Truth to ( clap )
 TENZIN GYATSO: We will have to think about that.
 TENZIN GYATSO: I need to squeeze this brain.
-LING RINPOCHE: Answer. (clap)
-TENZIN GYATSO: When one understands that he causes some of his own suffering, needlessly, then he looks for the causes in his own life. And when and he looks for those causes, when he investigates, then he is putting confidence in his own ability to eliminate the sources and end the suffering. A wish to find a path to peace arises. For all beings desire happiness.  All wish to find their purest selves.
+LING RINPOCHE: ( clap )
+TENZIN GYATSO: When one understands that he causes some of his own suffering, needlessly, then he looks for the causes in his own life. And when and he looks for those causes, when he investigates, then he is putting confidence in his own ability to eliminate the sources and end the suffering. A wish to find a path to peace arises. For all beings desire happiness. All wish to find their purest selves.
 LING RINPOCHE: I accept it.
-TAKTRA RINPOCHE: Careful!  Careful!
+TAKTRA RINPOCHE: Careful! Careful!
 TENZIN GYATSO: I need to jump! I love to jump!
 ORACLE: Heed the warning of your predecessor. Or the war will end here.
-TENZIN GYATSO: Oh, nicely done, Norbu.  I will get you.
-LORD CHAMBERLAIN: May I listen to the news with you, Holiness?
-TENZIN GYATSO: Please.
+TENZIN GYATSO: Oh, nicely done, Norbu. I will get you.
+LORD CHAMBERLAIN: May I listen to the news with you,
+TENZIN GYATSO: A large, old-fashioned, short-wave radio broadcasts that there is still a real war in progress. The BBC report is of the Pacific front.
 TENZIN GYATSO: How big is Tibet's army?
 LORD CPIAMBERLAIN: Roughly five thousand men.
 TENZIN GYATSO: Is that big?
-LORD CHAMBERLAIN: No.  Not very big.
+LORD CHAMBERLAIN: No. Not very big.
 TENZIN GYATSO: The Regent is adding men. And he bought rifles and ammunition from India. Mountain guns, too.
 TENZIN GYATSO: Will we be in this war?
-LORD CHAMBERLAIN: No.  This war is almost over.
+LORD CHAMBERLAIN: No. This war is almost over.
 TENZIN GYATSO: Will we ever be in war?
 NORBU THUNDRUP: We have enemies.
 TENZIN GYATSO: The Chinese.
-NORBU THUNDRUP: Yes.
+NORBU THUNDRUP: TENZIN GYATSO
 TENZIN GYATSO: But, surely, we are safe in Tibet. We don't believe in killing.
 LORD CHAMBERLAIN: No, we don't.
 TENZIN GYATSO: This is Britain.
-NORBU THUNDRUP: Ahh.
-TENZIN GYATSO: Where is Poland?
+NORBU THUNDRUP: TENZIN GYATSO TENZIN GYATSO
+TENZIN GYATSO: Where is Poland? Where is Pearl Harbor?
 TENZIN GYATSO: Where is Pearl Harbor?
-LORD CHAMBERLAIN: In the Pacific Ocean.  It is an island.  American territory.
+LORD CHAMBERLAIN: In the Pacific Ocean. It is an island. American territory.
 TENZIN GYATSO: Where is Alsace?
 LORD CHAMBERLAIN: I do not know, Holiness.
 TENZIN GYATSO: This is Tibet. And this is China.
-NORBU THUNDRUP: Ahh.
-TENZIN GYATSO: Certainly, we are safe in Tibet.
+NORBU THUNDRUP: They all look at huge China.
+TENZIN GYATSO: Certainly, we are safe in Tibet. We hope, Kundun.
 NORBU THUNDRUP: We hope, Kundun.
 TENZIN GYATSO: What was the warning of the Thirteenth Dalai Lama?
-LORD CHAMBERLAIN: He warned about the future of Tibet.
+LORD CHAMBERLAIN: He warned about the future of Tell me.
 TENZIN GYATSO: Tell me.
 LORD CHAMBERLAIN: When it is time.
-TENZIN GYATSO: Patience is the first of the Six Perfections.
-TENZIN GYATSO: One day, we will get that automobile running.
+TENZIN GYATSO: Patience is the first of the Six One day, we will get that automobile
+TENZIN GYATSO: One day, we will get that automobile
 LING RINPOCHE: "To be born in a time when the Buddha has appeared. To be born in a time when the Buddha has taught. To be born when the teaching of Buddha is alive."
-LING RINPOCHE: "To be born where the dharma is practiced. To be born in a time when people have compassion for other people."
+LING RINPOCHE: "To be born where the dharma is To be born in a time when people have compassion for other people."
 QUESTIONER: How is human life precious?
 LING RINPOCHE: As a result of previous karma, you have obtained this human life. By means of this rebirth, through work and study, you can attain all everlasting happiness. In the words of Shantideva: "With the boat of this precious life, You can cross the waters of Samsara. How rare to find this boat!" "Oh, ignorant one, do not fall asleep now!"
-VOICES: Sera, Sera Monastery. Reting.  Under arrest.  The army is taking him right past Sera! Monastery!  Those crazy monks!  Have been threatening trouble. Reting tried to assassinate Taktra Rinpoche.
-TENZIN GYATSO: It's the army, firing on Sera Monastery! Oh, no!  Oh, no!
-TENZIN GYATSO: Why is this?  What is happening? Tell me!
-NORBU THUNDRUP: Reting Rinpoche has been arrested.  He tried to overthrow Regent Taktra. Today, he is brought back to Lhasa by government officials. The monks at Sera Monastery have been on his side.  Now, there is trouble between them and the army.
+VOICES: Sera, Sera Monastery. Reting. Under arrest. The army is taking him right past Sera! Monastery! Those crazy monks! Have been threatening trouble. Reting tried to assassinate Taktra Rinpoche.
+TENZIN GYATSO: It's the army, firing on Sera Monastery! Oh, no! Oh, no!
+TENZIN GYATSO: Why is this? What is happening? Tell me!
+NORBU THUNDRUP: Reting Rinpoche has been arrested. He tried to overthrow Regent Taktra. Today, he is brought back to Lhasa by government officials. The monks at Sera Monastery have been on his side. Now, there is trouble between them and the army.
 LORD CHAMBERLAIN: I am sorry for you to have to witness this, Kundun.
 TENZIN GYATSO: Look here!
-LORD CHAMBERLAIN: Tragic.  Unnecessary.
-LORD CHAMBERLAIN: Holiness? I have a letter.
-LORD CHAMBERLAIN: The Thirteenth Dalai Lama's warning. He wrote to you, the year before he died.  The year before you were born.
-LORD CHAMBERLAIN: "It may happen, that here in Tibet, religion and government will be attacked both from without and within. Unless we guard our own country..."
-LORD CHAMBERLAIN: "...it will now happen that the Dalai and Panchen Lamas, the Father and the Son, and all the revered holders of the faith, will disappear and become nameless."
-LORD CHAMBERLAIN: "Monks and their monasteries will be destroyed. The rule of law will be weakened. The lands and properties will be seized.  They themselves will be forced to serve their enemies or wander the country like beggars." "All beings will be sunk in great hardship and overwhelming fear; the days and nights will drag on slowly in suffering."
-TENZIN GYATSO: What can I do?  I am only a boy.
-LORD CHAMBERLAIN: You are the man who wrote this letter.  You are the man who has come back to lead us.   You will soon have great responsibilities.  You must know what to do.
+LORD CHAMBERLAIN: Tragic. Unnecessary.
+LORD CHAMBERLAIN: I have a letter.
+LORD CHAMBERLAIN: The Thirteenth Dalai Lama's warning. He wrote to you, the year before he died. The year before you were born.
+LORD CHAMBERLAIN: "It may happen, that here in Tibet, religion and government will be attacked both from without and within. Unless we guard our own country." ".it will now happen that the Dalai and Panchen Lamas, the Father and the Son, and all the revered holders of the faith, will disappear and become
+LORD CHAMBERLAIN: ".it will now happen that the Dalai and Panchen Lamas, the Father and the Son, and all the revered holders of the faith, will disappear and become
+LORD CHAMBERLAIN: "Monks and their monasteries will be The rule of law will be weakened. The lands and properties will be seized. They themselves will be forced to serve their enemies or wander the country like "All beings will be sunk in great hardship and overwhelming fear; the days and nights will drag on slowly in suffering."
+TENZIN GYATSO: What can I do? I am only a boy.
+LORD CHAMBERLAIN: You are the man who wrote this letter. You are the man who has come back to lead us. You will soon have great responsibilities. You must know what to do.
 NORBU THUNDRUP: You remember who you are. You called for them.
-TENZIN GYATSO: Taktra Rinpoche, I understand there was an attempt on your life.
+TENZIN GYATSO: Taktra Rinpoche, I understand there was an attempt on your It is possible, Holiness.
 TAKTRA RINPOCHE: It is possible, Holiness.
 TENZIN GYATSO: You are unharmed?
-TAKTRA RINPOCHE: Completely.
-TENZIN GYATSO: Good.  Where is Reting Rinpoche now?
+TAKTRA RINPOCHE: TENZIN GYATSO
+TENZIN GYATSO: Good. Where is Reting Rinpoche now?
 KASHAG MEMBER: He has been imprisoned, here in the Potala, Holiness.
 TENZIN GYATSO: The Sera monks have surrendered?
 KASHAG MEMBER: It is calm.
 TENZIN GYATSO: Please, have tea.
-TENZIN GYATSO: I need to know what you know.  I am no longer a child.
+TENZIN GYATSO: I need to know what you know. I am no longer a child.
 LORD CHAMBERLAIN: Ask whatever you will.
 TENZIN GYATSO: What is the danger from the Chinese, now?
-KASHAG MEMBER: Very complicated, Holiness. Let me tell you current news. The Chinese have launched a deceptive campaign aimed at convincing the world that Tibet belongs to China. We sent a mission to the Chinese National Conference.  Our attendance was a grave mistake.  The Tibetans were introduced as delegates from the "Chinese region of Tibet". We protested this reference and demanded a letter rebutting it.
+KASHAG MEMBER: Very complicated, Holiness. Let me tell you current news. The Chinese have launched a deceptive campaign aimed at convincing the world that Tibet belongs to China. We sent a mission to the Chinese National Conference. Our attendance was a grave mistake. The Tibetans were introduced as delegates from the "Chinese region of Tibet". We protested this reference and demanded a letter rebutting it.
 TENZIN GYATSO: Did you receive the letter?
 KASHAG MEMBER: We did not.
 LORD CHAMBERLAIN: The war is over. This is a time in when nations are redefining themselves.
-TENZIN GYATSO: So, Tibet, too, needs to define itself.
-LORD CHAMBERLAIN: Yes.  As a free country. But our attempts have proven futile.  We continue to be badly outmaneuvered by the Chinese.
+TENZIN GYATSO: So, Tibet, too, needs to define Yes. As a free country. But our attempts have proven futile. We continue to be badly outmaneuvered by the Chinese.
+LORD CHAMBERLAIN: Yes. As a free country. But our attempts have proven futile. We continue to be badly outmaneuvered by the Chinese.
 TENZIN GYATSO: Can India help us?
-LORD CHAMBERLAIN: India is a newly independent nation.  They are struggling. India is in no position to help us.
-TENZIN GYATSO: Britain?
+LORD CHAMBERLAIN: India is a newly independent nation. They are struggling. India is in no position to help us.
+TENZIN GYATSO: LORD CHAMBERLAIN
 LORD CHAMBERLAIN: Britain chooses not to.
 TENZIN GYATSO: And, America?
 LORD CHAMBERLAIN: America, we shall see.
-TENZIN GYATSO: Ask the Chinese mission to leave our country.  Immediately.
-LORD CHAMBERLAIN: Quite simple.  Yes.  Good.
+TENZIN GYATSO: Ask the Chinese mission to leave our country. Immediately.
+LORD CHAMBERLAIN: Quite simple. Yes. Good.
 TENZIN GYATSO: I shall send a letter to America, to the President, informing him of our problem.
-TENZIN GYATSO: I want Reting Rinpoche well cared for.  He is my teacher.  He found me.
-TENZIN GYATSO: Listen to this, Norbu. (he reads): To Mr Truman The President of the United States of America This is all, so far.
+TENZIN GYATSO: I want Reting Rinpoche well cared for. He is my teacher. He found me.
+TENZIN GYATSO: Listen to this, Norbu. ( he reads ): This is all, so far.
 NORBU THUNDRUP: Reting Rinpoche has died in prison.
-LAYMAN: The Communist have control of China.
+DREAM SEQUENCE: EXT. HILLTOP DAWN The body of the Dalai Lama's Father lays on a flat boulder. Incense smoke curls into the air. Prayer wheels are turned, hand drums are played - the burial men stand off to one side, their hatchets and knives in view. Tenzin Gyatso is present. He is the boy we know, but beside him stands the four year-old boy, Lhamo, from the beginning of the movie, and on the other side of him stands the boy who will play the Dalai Lama in the next section of the film - a boy about fifteen or sixteen. Tenzin Gyatso wraps his brown rosary around his left wrist. The beads catch the brilliant afternoon light. The sixteen year-old Dalai Lama wears the same colored rosary around his left wrist. The cutters move in to the corpse, and as we hear them begin the work of dismembering the body, the view pans up to reveal the vultures circling overhead. The last person leaving the hilltop with is the Dalai Lama as an older man - not a character from this movie - but a man of about fifty years, wearing glasses, wearing the same robes, the same rosary. Little Lhamo walks beside him.
+LAYMAN: The Communist have control of
 LAYMAN: Now, as his great army, stands idle on our borders, Chairman Mao has presented Tibet with three demands: One, Tibet must accept that it is part of China.
-LAYMAN (OC): Two, Tibet's defenses must be handled by China. Three, all political and trade matters concerning foreign countries must be conducted through China.
-VOICE IN BACK OF ROOM (OC): Give the Dalai Lama his majority!
-MONK: We can concede that Tibet is a part of China if we can guarantee that the Dalai Lama's name and authority will remain...
+MONK: We can concede that Tibet is a part of China if we can guarantee that the Dalai Lama's name and authority will remain.
 LAYMAN: And do you believe that the Tibetan government will be allowed to continue to function as it is? Do you believe that our religion will be protected?
 VOICES: Give the Dalai Lama his majority!
 MONK: We have dealt with this Chinese obsession for hundreds of years. We can deal with it now.
 LAYMAN: These are not the Chinese we know. These are Communists.
 VOICES: Make him Dalai Lama now!
-TENZIN GYATSO: If we agree that we are part of China, nothing else will matter. Not trade, not defense. We will be lost.
-TAKTRA RINPOCHE: What would you do, Holiness?
-TENZIN GYATSO: What should I do about my doubt, Teacher?
+TENZIN GYATSO: If we agree that we are part of China, nothing else will matter. Not trade, not defense. We will be What would you do, Holiness? What should I do about my doubt, It is a difficult situation.
+TAKTRA RINPOCHE: What would you do, Holiness? What should I do about my doubt, It is a difficult situation.
+TENZIN GYATSO: What should I do about my doubt, It is a difficult situation.
 TAKTRA RINPOCHE: It is a difficult situation.
-TENZIN GYATSO: I mean, my doubt.  Why me? Am I Him?
-TAKTRA RINPOCHE: Doubt is an affliction.  Reliquish it.  Accept.
-TENZIN GYATSO: I believe we must make no concesions to the Chinese.  But, I am one voice. The Dalai Lama has always trusted in the forces of Buddha.  Let us consult the protective deities. BODYGUARD (shouting) We will buy them!  We will buy them!
+TENZIN GYATSO: I mean, my doubt. Why me? Am I Him?
+TAKTRA RINPOCHE: Doubt is an affliction. Reliquish it. Accept. I believe we must make no concesions to the Chinese. But, I am one voice. The Dalai Lama has always trusted in the forces of Buddha. Let us consult the protective deities. We will buy them! We will buy them!
+TENZIN GYATSO: I believe we must make no concesions to the Chinese. But, I am one voice. The Dalai Lama has always trusted in the forces of Buddha. Let us consult the protective deities. We will buy them! We will buy them!
 TAKTRA RINPOCHE: We should not accept any conditions from the Chinese.
-TAKTRA RINPOCHE (OC): Enter.
-REGENT (OC): Summon the Lord Chamberlain and the Kashag.
-TENZIN GYATSO: Enter.
-REGENT TAKTRA: Holiness.
-TENZIN GYATSO: Yes.
+TENZIN GYATSO: It is the Regent.
+REGENT TAKTRA: TENZIN GYATSO REGENT TAKTRA
+TENZIN GYATSO: REGENT TAKTRA
 REGENT TAKTRA: The Chinese have invaded.
 LORD CHAMBERLAIN: They crossed the river, Holiness. They have invaded in six locations, Chando Province, Kham, eastern Tibet.
 TENZIN GYATSO: What is the size of our army, now?
-LORD CHAMBERLAIN: Eight thousand, five hundred, soldiers and officers. We have recently requested mortars, anti-aircraft guns and ammunition from India.  We have several hundred in the area.
+LORD CHAMBERLAIN: Eight thousand, five hundred, soldiers and officers. We have recently requested mortars, anti-aircraft guns and ammunition from India. We have several hundred in the area.
 TENZIN GYATSO: Has anyone died?
-LORD CHMBERLAIN: The radio contact said one officer had died.  Then he said, "The Chinese soldiers - they are coming." And then, the radio went dead.
-TENZIN GYATSO: One man.  A man has died. One man is too many.
-ACTOR IN MOVIE: "Heavy lies the head, that wears the crown."
-RADIO: "This week, the People's Liberation Army crossed the Drichu River east of Chamdo and began the peaceful liberation of Tibet. Tibet is in the hands of imperialist enemies of the people.  The Dalai Lama, a foolish reminder of an illiterate past, is the figure head of this autonomous region of China.  Accept our help, Tibet!  The people shall be free!"
+LORD CHMBERLAIN: The radio contact said one officer had died. Then he said, "The Chinese soldiers - they are coming." And then, the radio went dead.
+TENZIN GYATSO: One man. A man has died. One man is too many.
+RADIO: "This week, the People's Liberation Army crossed the Drichu River east of Chamdo and began the peaceful liberation of Tibet. Tibet is in the hands of imperialist enemies of the people. The Dalai Lama, a foolish reminder of an illiterate past, is the figure head of this autonomous region of China. Accept our help, Tibet! The people shall be free!"
 TENZIN GYATSO: What do the people say, Norbu?
-NORBU THUNDRUP: Tibetan officials have retreated from Chamdo.  They are scared and running.  The Chinese strategy has destroyed the heart of our defense forces.  Chamdo falls, several other villages are lost.  You know what happens.  The road to Lhasa will be wide open.
+NORBU THUNDRUP: Tibetan officials have retreated from Chamdo. They are scared and running. The Chinese strategy has destroyed the heart of our defense forces. Chamdo falls, several other villages are lost. You know what happens. The road to Lhasa will be wide open.
 NORBU THUNDRUP: The people want you made Dalai Lama.
 TENZIN GYATSO: Then, I am lucky. I am still too young.
-NORBU THUNDRUP: These are dangerous times. They want the Dalai Lama to lead them.
+NORBU THUNDRUP: These are dangerous times. They want the Dalai Lama to lead But, I have no experience.
 TENZIN GYATSO: But, I have no experience.
 NORBU THUNDRUP: Oh, but you do, Kundun. Who else would be here?
 ORACLE: "His time has come."
-TENZIN GYATSO: "To the members of the United Nations: The attention of the world is riveted on Korea where aggression is being resisted by an international force.  Similar happenings in remote Tibet are passing without notice. The problem is not of Tibet's own making but is largely the outcome of unthwarted Chinese ambition to bring weaker nations on her periphery within her active domination." This is very good.  Quite strong.
-TENZIN GYATSO: "Tibetans have for long lived a cloistered life in their mountain fastness, remote and aloof..."
-TAKSTER RINPOCHE: I was never alone.  Two Chinese were with me every minute of the day.
-TAKSTER RINPOCHE: Their talk is always of liberation and helpfulness.  They put their words like honey on a knife, but if you lick the honey, you will bleed.
+TENZIN GYATSO: "To the members of the United The attention of the world is riveted on Korea where aggression is being resisted by an international force. Similar happenings in remote Tibet are passing without notice. The problem is not of Tibet's own making but is largely the outcome of unthwarted Chinese ambition to bring weaker nations on her periphery within her active This is very good. Quite strong.
+TENZIN GYATSO: "Tibetans have for long lived a cloistered life in their mountain fastness, remote and aloof."
+TAKSTER RINPOCHE: I was never alone. Two Chinese were with me every minute of the day.
+TAKSTER RINPOCHE: Their talk is always of liberation and helpfulness. They put their words like honey on a knife, but if you lick the honey, you will bleed.
 TENZIN GYATSO: Tell me.
 TAKSTER RINPOCHE: They think they have convinced me. They think I am on their side. They have allowed me to leave Kumbum and come to Lhasa believing that I will try to turn you to their ways. If I do not succeed, I am to eliminate you.
 TENZIN GYATSO: You, kill me?
 TAKSTER RINPOCHE: Eliminate you.
-TARSTER RINPOCHE: I can be Governor of Lhasa, they say.
+TARSTER RINPOCHE: I can be Governor of Lhasa, they say. Don't eat all those sweets. You'll get sick.
 TAKSTER RINPOCHE: Don't eat all those sweets. You'll get sick.
 TENZIN GYATSO: Do you remember the day I came to your monastery, when I was a baby? And you comforted me?
 TAKSTER RINPOCHE: I do.
 TENZIN GYATSO: I remember, too, actually. I was frightened then. I am frightened now.
-TAKSTER RINPOCHE: The Chinese have one goal.  The complete dissolution of our nation. The destruction of our culture. There is no room for Buddha in their world. Our only hope is to fight.
+TAKSTER RINPOCHE: The Chinese have one goal. The complete dissolution of our nation. The destruction of our culture. There is no room for Buddha in their world. Our only hope is to fight.
 TENZIN GYATSO: We cannot.
 TAKSTER RINPOCHE: This is not a fight to put bread just in one's own mouth. This is a fight for Tibet.
-TENZIN GYATSO: Buddha teaches that we must learn from our enemy.  We have compassion for all people.
-TAKSTER RINPOCHE: These are not human beings. They are worse than ghosts.
+TENZIN GYATSO: Buddha teaches that we must learn from our enemy. We have compassion for all people.
+TAKSTER RINPOCHE: These are not human beings. They are worse than ghosts. You are in great danger. The Dalai Lama cannot fall into Chinese hands. You must flee.
 TAKSTER RINPOCHE: You are in great danger. The Dalai Lama cannot fall into Chinese hands. You must flee.
 TENZIN GYATSO: How could I ever leave?
 TAKSTER RINPOCHE: It may not be your decision to make.
 TENZIN GYATSO: I accept it.
-TENZIN GYATSO (VO): We shall send delegations to America, India, Nepal and Great Britain, in hope that these countries will intervene on our behalf.
 TENZIN GYATSO: We have telegraphed our appeal to the United Nations and await its reply. I am sending a delegation to China to negotiate the Chinese withdrawal.
 TENZIN GYATSO: It seems that I must depart Lhasa. The majority wills it. Lukhangwa and Lobsang Tashi?
 TENZIN GYATSO: I am making you my Prime Ministers. You will stay here. You must always keep me informed, no matter how bad the news. I want plain information.
-TENZIN GYATSO: Today, I declare a general amnesty. I have always wanted to free the prisoners.
-NORBU THUNDRUP (OC): It's time to take this down.
+TENZIN GYATSO: Today, I declare a general I have always wanted to free the
 TENZIN GYATSO: You will not come?
 NORBU THUNDRUP: No, Holiness.
 TENZIN GYATSO: Am I running away?
-NORBU THUNDRUP: The people will cry when they learn you are gone. But they would all want you safe.
+NORBU THUNDRUP: The people will cry when they learn you are gone. But they would all want you
 NORBU THUNDRUP: Let me take this.
-NORBU THUNDRUP: You must study very hard, do not neglect the holy things during this time.
+NORBU THUNDRUP: You must study very hard, do not neglect the holy things during this I will miss you.
 TENZIN GYATSO: I will miss you.
-NORBU THUNDRUP: We have had fun, you and I. Fun for a little boy in an old palace.
+NORBU THUNDRUP: We have had fun, you and I. Fun for a little boy in an old We have.
 TENZIN GYATSO: We have.
 NORBU THUNDRUP: You have grown up very good.
 TENZIN GYATSO: And you have grown older and your chin has grown balder.
@@ -375,13 +344,13 @@ NORBU THUNDRUP: Tonight, Kundun, you see the world. You place your feet on the s
 NORBU THUNDRUP: "The Gods will be avenged."
 NORBU THUNDRUP: I will send it to you. It will work.
 BODYGUARD: We must go, Holiness.
-TENZIN GYATSO: A moment.
+TENZIN GYATSO: A moment. Please, come, Holiness.
 BODYGUARD: Please, come, Holiness.
-TENZIN GYATSO: Yes.  I am ready.
-TENZIN GYATSO: Safe journey.  Safe return. I am him.
+TENZIN GYATSO: Yes. I am ready.
+TENZIN GYATSO: Safe journey. Safe return. I am him.
 MONKS: Do not let him go! We beg of you, do not take him from us!
-LING RINPOCHE: He goes for a short time, until the danger can be determined.  He will not leave Tibet.  He will return.
-LING RINPOCHE: He will return. The Precious One will not abandon you.
+LING RINPOCHE: He goes for a short time, until the danger can be determined. He will not leave Tibet. He will
+LING RINPOCHE: He will return. The Precious One will not abandon
 TENZIN GYATSO: All quiet?
 BODYGUARD: Yes, Holiness.
 TENZIN GYATSO: Where are you from?
@@ -394,213 +363,177 @@ BODYGUARD: Holiness, this has come for you.
 MUSLIM MAN: Eighteen children.
 TENZIN GYATSO: Eighteen, wonderful.
 MUSLIM MAN: And not a monk among them.
-MUSLIM MAN: No, no son of mine will sit and read books and eat up the poor people's butter while my people have to butcher the cows and sheep because these holy men can't kill an animal.  They can eat it, can't they?
+MUSLIM MAN: No, no son of mine will sit and read books and eat up the poor people's butter while my people have to butcher the cows and sheep because these holy men can't kill an animal. They can eat it, can't they?
 TENZIN GYATSO: Did you love your husband, before you married?
-TIBETAN WOMAN: I did not know him before I married him.  I loved his brother, but then, I married his brother, too.  He is dead now.
-TENZIN GYATSO: Hmm.
-TIBETAN WOMAN: The land has stayed in the family. We work together.  The nobleman is not too bad.
+TIBETAN WOMAN: I did not know him before I married him. I loved his brother, but then, I married his brother, too. He is dead now.
+TENZIN GYATSO: TIBETAN WOMAN
+TIBETAN WOMAN: The land has stayed in the family. We work together. The nobleman is not too bad.
 TENZIN GYATSO: Does he treat you fairly?
-TIBETAN WOMAN: Not too bad.  Rich is rich, poor is poor.  We are different. Are you married?
-TENZIN GYATSO: No.
+TIBETAN WOMAN: Not too bad. Rich is rich, poor is poor. We are different. Are you married?
+TENZIN GYATSO: TIBETAN WOMAN
 TIBETAN WOMAN: Too young?
 TENZIN GYATSO: Much too young.
-TIBETAN WOMAN: Look for a strong woman, not too occupied with her beauty. Look for a woinan who keeps her hands busy.  Look for a kind heart.
+TIBETAN WOMAN: Look for a strong woman, not too occupied with her beauty. Look for a woinan who keeps her hands busy. Look for a kind heart.
 TENZIN GYATSO: Like my mother.
 TIBETAN WOMAN: I see that.
-TENZIN GYATSO: This little brother was terribly sweet.  When he died, my mother was so sad.  A lama said to her, before the little brother was laid out for burial, take a bit of butter and rub a spot on his skin.  He will come back to you, you will see. So, my mother did this, and a few years later, a new boy was born.
+TENZIN GYATSO: This little brother was terribly sweet. When he died, my mother was so sad. A lama said to her, before the little brother was laid out for burial, take a bit of butter and rub a spot on his skin. He will come back to you, you will see. So, my mother did this, and a few years later, a new boy was born.
 NOBLE BOY: Does he have the spot?
 TENZIN GYATSO: He does, a little spot where the butter had been.
 NOBLE BOY: Is that a true story, or pretend?
 TENZIN GYATSO: What do you think?
-NOBLE BOY: True.
+NOBLE BOY: TENZIN GYATSO
 TENZIN GYATSO: You decide.
 NOBLE BOY: What does the butter spot feel like?
-TENZIN GYATSO: Soft.  Nice. I have a good friend back in Lhasa.  He has a very poor beard, with a little spot on his chin where no hair grows.  It feels like that.
+TENZIN GYATSO: Soft. Nice. I have a good friend back in Lhasa. He has a very poor beard, with a little spot on his chin where no hair grows. It feels like
+DAY: A home has been made: books on the shelf, screwdrivers all in a row, European shoes under the bed. An old Bush radio receiver, running off a six-volt battery, sits on the floor. The telescope stands on the terrace. Two members of the Kashag can be seen in the adjacent room. The rooms are stark white.
 KASHAG MEMBER: Of the Tibetan delegations sent abroad, all have been turned away.
-TENZIN GYATSO (OC): All?
-KASHAG MEMBER: Britain, Nepal, America, India. All of those governments have refused to meet with our representatives.
-TENZIN GYATSO: And the United Nations?  Surely?
+KASHAG MEMBER: Britain, Nepal, America, India. All of those governments have refused to meet with our And the United Nations? Surely?
+TENZIN GYATSO: And the United Nations? Surely?
 KASHAG MEMBER: The United Nations voted not to hear our appeal.
-LORD CHAMBERLAIN: One country did sponsor the resolution.  A land called "El Salvador".
+LORD CHAMBERLAIN: One country did sponsor the resolution. A land called "El Where is that?
 TENZIN GYATSO: Where is that?
-LORD CHAMBERLAIN: In the Americas.
+LORD CHAMBERLAIN: In the Americas. So, we must face China and all her might alone.
 TENZIN GYATSO: So, we must face China and all her might alone.
-KASHAG MEMBER: Yes. Most of the Chamdo region is now in Chinese hands.  There is a report from Chamdo which makes quite clear that, unless some settlement can soon be reached, Communist troops will soon be marching on Lhasa.
+KASHAG MEMBER: Most of the Chamdo region is now in Chinese hands. There is a report from Chamdo which makes quite clear that, unless some settlement can soon be reached, Communist troops will soon be marching on Lhasa.
 TENZIN GYATSO: With much bloodshed.
 KASHAG MEMBER: I am afraid.
 TENZIN GYATSO: I want at all costs to avoid this. Do we have news from the delegation in China?
 KASHAG MEMBERR: Not yet, but the Governor of Chamdo, Ngabo Jigme, suggests we must negotiate and offers to go to Peking.
 TENZIN GYATSO: He is a capable man.
 LORD CHAMBERLAIN: Your prime minsters would argue that such negotiations should take place in Lhasa.
-TENZIN GYATSO: And then they would concede that the times are desperate and we must go to Peking.  Agreed.  Send Ngabo. Is that all?
-KASHAG MEMBER: Yes.
+TENZIN GYATSO: And then they would concede that the times are desperate and we must go to Peking. Agreed. Send Ngabo. Is that all?
+KASHAG MEMBER: TENZIN GYATSO
 TENZIN GYATSO: Time to study.
-TENZIN GYATSO: Wait.
-TENZIN GYATSO: We are in the last outposts of Tibet. Let's do away with some of this formality.
+TENZIN GYATSO: Tenzin Gyatso waves a hand. The men get up, awkwardly.
+TENZIN GYATSO: We are in the last outposts of Tibet. Let's do away with some of this
 LORD CHAMBERLAIN: He is a modern man. Just like he was the last time.
-TENZIN GYATSO: "I will liberate those not liberated." I will release those not released. I will relieve those not relieved. May I deliver them to the state of enlightenment."
-RADIO VOICE (VO): "Today in Peking, a Seventeen Point Agreement for the peaceful Liberation of Tibet has been signed by Representatives of the Government of the People's Republic of China and the Local Government of Tibet."
-RADIO VOICE (VO): "Over the last hundred years or more aggressive, imperialist forces have penetrated into Tibet and carried out all manner of deceptions and provocations.  Under such conditions the Tibetan nationality was plunged into the depths of enslavement and suffering."
-RADIO VOICE (VO): "Today, this enslavement ends. Point One:  The Tibetan people shall unite and drive out imperialist aggressive forces from Tibet. The Tibetan people shall return to the big family of the Motherland - the People's Republic of China." Point Two: The Local Government of Tibet will actively assist the People's Liberation Army to enter Tibet and consolidate the national defense."
-LORD CHAMBERLAIN (OC): It means we have lost our status as an independent nation.
-KASHAG MEMBER: Ngabo did not have the state seal.  He could not sign.
+TENZIN GYATSO: "I will liberate those not I will release those not I will relieve those not May I deliver them to the state of enlightenment."
+KASHAG MEMBER: Ngabo did not have the state seal. He could not sign.
 TENZIN GYATSO: Yes, but they say he did.
-KASHAG MEMBER: Holiness?
-TENZIN GYATSO: Yes.
+KASHAG MEMBER: TENZIN GYATSO KASHAG MEMBER
+TENZIN GYATSO: KASHAG MEMBER
 KASHAG MEMBER: General Chiang Chin-wu, the Chinese representative, is en route to Dromo. He is coming to meet you.
 TENZIN GYATSO: Then, we shall meet.
-GENERAL CHIANG CHIN-WU: Dalai Lama.
 TENZIN GYATSO: General Chiang.
-GENERAL CHIANG CHIN-WU: We bring greetings from Chairman Mao.
-TENZIN GYATSO: Thank you.  Please sit.
-GENERAL CHIANG CHIN-WU: Have you heard the terms of the Seventeen Point Agreement?
+TENZIN GYATSO: Thank you. Please sit.
 TENZIN GYATSO: I have.
-GENERAL CHIANG CHIN-WU: I have a copy for you.
-GENERAL CHIANG CHIN-WU: We come in genuine friendship.
-GENERAL CHIANG CHIN-WU: I am certain you wish to return to Lhasa.
-GENERAL CHIANG CHIN-WU: Do you have plans to return soon, Dalai Lama?
-TENZIN GYATSO: Soon.
-GENERAL CHIANG CHIN-WU: Good.  Our first request is that you allow us to build a road.  You have no roads in Tibet.  We can discuss the plans in Lhasa.  When you return.
-GENERAL CHIANG-WU: Thank you.  We leave now.
+TENZIN GYATSO: GENERAL CHIANG CHIN-WU
 TENZIN GYATSO: Let me see the agreement.
-TENZIN GYATSO: Counterfeit.
-TENZIN GYATSO: I thought he would be some kind of monster, even with horns growing out of his head.  But, he is only a man, just an ordinary human being, like myself.  Life is always a lesson.
-KASHAG MEMBER: Your Prime Ministers, support the proposal that you return to Lhasa. On the opposite hand, some officials urge you not to return.  They believe you should leave now, for India.
+TENZIN GYATSO: He closes the document and hands it back to the official.
+TENZIN GYATSO: I thought he would be some kind of monster, even with horns growing out of his head. But, he is only a man, just an ordinary human being, like myself. Life is always a lesson.
+KASHAG MEMBER: Your Prime Ministers, support the proposal that you return to Lhasa. On the opposite hand, some officials urge you not to return. They believe you should leave now, for India.
 TENZIN GYATSO: If I were to go into exile, could we expect any serious assistance, from India, suppose?
-LORD CHANBERLAIN: It is unlikely.  America, perhaps. There is great anti-communist feeling in America.
+LORD CHANBERLAIN: It is unlikely. America, perhaps. There is great anti-communist feeling in America.
 TENZIN GYATSO: At this point, the most likely result of a foreign pact is war.
 LORD CHAABERLAIN: The Chinese would see such a pact as an open declaration of war.
-TENZIN GYATSO: Tibet, at war?  No. China is close, America is far away.  After countless people die, China would still, always, be close.  We will work with what we have.
+TENZIN GYATSO: Tibet, at war? No. China is close, America is far away. After countless people die, China would still, always, be close. We will work with what we have.
 KASHAG MEMBER: And as for your own safety, Holiness?
 TENZIN GYATSO: I am scared.
 LORD CHAMBERLAIN: Shall we consult the protective deities, Holiness?
-TENZIN GYATSO: My first and foremost duty is to protect my people.  I feel sure of this. And, things change.  Maybe not right away, maybe not soon.  But I believe this - things will change.
-TENZIN GYATSO: Impermanence. Our own short lifetimes are not the only valid consideration. I shall return.
+TENZIN GYATSO: My first and foremost duty is to protect my people. I feel sure of this. And, things change. Maybe not right away, maybe not soon. But I believe this - things will change.
+TENZIN GYATSO: Our own short lifetimes are not the only valid consideration. I shall return.
+DREAM SEQUENCE: Tenzin Gyatso rides a grey mule across the empty, mysterious landscape of Tibet. The boy is back in his own home in Amdo province. But, he is not the baby he was when he left there, he is sixteen. His family is together, but they are all the sizes and ages they were at the beginning of the story. Tenzin Gyatso is very happy, sitting on the raised platform in the kitchen, playing a game with pebbles. Taktra Rinpoche - the aged Taktra - enters and sits down beside him.
 TAKTRA RINPOCHE: I hope you will not feel badly about all the things of childhood you missed.
-TAKTRA RINPOCHE: You lost so much.  I am sorry.
+TAKTRA RINPOCHE: You lost so much. I am sorry.
 TAKTRA RINPOCHE: Goodbye, Kundun.
-NORBU THUNDRUP (OC): Goodbye, Kundun.
-TENZIN GYATSO: (he only mouths it) No!
-FATHER: Goodbye, Kundun. TENZIN GYATSO (silent) No!
+TENZIN GYATSO: ( he only mouths it ) Goodbye, Kundun.
+FATHER: Goodbye, Kundun.
 TENZIN GYATSO: No, Norbu!
-GENERAL CHIANG (OC): I hate meeting here, this tribute to the past!  I demand a less formal meeting place.
 GENERAL CHIANG: I am not a foreigner! I refuse to be treated like one.
-TENZIN GYATSO: You see here thangkas of the Fifth Dalai Lama, the founder of our government.  It is tradition at formal meetings for these thangkas to be hung.
-GENERAL CHIANG: Superstitions.  Tibet is part of a modern nation.
+TENZIN GYATSO: You see here thangkas of the Fifth Dalai Lama, the founder of our government. It is tradition at formal meetings for these thangkas to be hung.
+GENERAL CHIANG: Superstitions. Tibet is part of a modern nation.
 GENERAL CHIANG: I want the songs stopped.
-TENZIN GYATSO: Songs?  What songs?
-PRIME MINISTER LUKHANGWA: Street songs about the General. Reference to his gold watch. He is right, they are quite insulting.
+TENZIN GYATSO: Songs? What songs?
 TENZIN GYATSO: I have no authority to ban singing in my country.
-GENERAL CHIANG: You must also do something about the public meetings.  I see this, memorandum circulating, with Tibetan grievances.
+GENERAL CHIANG: You must also do something about the public meetings. I see this, memorandum circulating, with Tibetan You have cracked a man's skull and that crack has not healed. It is too soon to expect him to be your friend.
 LUKHANGWA: You have cracked a man's skull and that crack has not healed. It is too soon to expect him to be your friend.
 GENERAL CHIANG: We are simply respecting the terms of the Seventeen Point Agreement.
 LUKHANGWA: Are you, General?
-GENERAL CHIANG: We want 2,000 more tons of barley distributed.
-LUKHANGWA: Impossible!  You will bring famine down on the people of Tibet with these insatiable demands! More food, the best land for your soldiers to camp.
+GENERAL CHIANG: We want 2,000 more tons of barley Impossible! You will bring famine down on the people of Tibet with these insatiable demands! More food, the best land for your soldiers to camp.
+LUKHANGWA: Impossible! You will bring famine down on the people of Tibet with these insatiable demands! More food, the best land for your soldiers to camp.
 GENERAL CHIANG: The People's Liberation Army pays for all food and lodging.
-LUKHANGWA: So far, they do. But, the quantity, it does not exist.  You will have to re- evaluate your needs.
+LUKHANGWA: So far, they do. But, the quantity, it does not exist. You will have to re- evaluate your needs.
 GENERAL CHIANG: How much tea do you drink, Prime Minister?
-LUKHANGWA: It depends on the quality. And, that it be Indian.
+LUKHANGWA: It depends on the quality. And, that it be Indian. Why is it necessary for the Chinese to keep so many soldiers in Lhasa?
 LUKHANGWA: Why is it necessary for the Chinese to keep so many soldiers in Lhasa?
-GENERAL CHIANG: To protect.  To serve you. Chairman Mao wants you to feel that China belongs to you now.
+GENERAL CHIANG: To protect. To serve you. Chairman Mao wants you to feel that China belongs to you now.
 LUKHANGWA: Chairman Mao can keep China. Just give us back Tibet.
-GENERAL CHIANG: Plans for absorbing the Tibetan army into the People's Army will soon be finalized.
+GENERAL CHIANG: Plans for absorbing the Tibetan army into the People's Army will soon be I will not approve it.
 LUKHANGWA: I will not approve it.
-GENERAL CHIANG: Then, we will begin with replacing the Tibetan flag with the flag of the Motherland.
+GENERAL CHIANG: Then, we will begin with replacing the Tibetan flag with the flag of the And we will begin with tearing it down.
 LUKHANGWA: And we will begin with tearing it down.
 TENZIN GYATSO: I am so sorry.
 LUKHANGWA: It must be done. We can no longer meet with the Chinese, they refuse us.
 TENZIN GYATSO: I accept your resignations.
 LOBSANG TASHI: Have you chosen your new Prime Ministers, Holiness?
 TENZIN GYATSO: There will be no new Prime Ministers.
-LUKHANGWA: You will face great difficulties, Holiness.
+LUKHANGWA: You will face great difficulties,
 TENZIN GYATSO: They have taken away our silence.
-MAO TSE TUNG: The mission of China is to bring progress to Tibet.  Develop its natural resources.  Help its people develop democracy. We welcome you, Tibet, back to the Motherland!
-MAO TSE TUNG: I am so glad that Tibet has come back to the Motherland.
-MAO TSE TUNG: You must inform me at once if any of our people abuse the Tibetans trust and good nature.
 TENZIN GYATSO: I have great hopes for the future of our co-operation.
-MAO TSE TUNG: It is too early to implement all the clauses of the Seventeen Point Agreement.  We will establish a Preparatory Committee for the Autonomous Region of Tibet.  The pace of reform must meet with the desires of the Tibetan people. Changes must be made slowly, as you, yourself, judge necessary.
-TENZIN GYATSO: I am happy to hear you say this, Chairman Mao.  I have created a reform committee to investigate grievances and we have abolished Inherited Tax, and forgiven all money owed the Government by people who are unable to pay.
-MAO TSE TUNG: Good. Very good. Tibet is a great country.  A a wonderful history.  Long ago, you even conquered part of China. But now you have fallen behind and we want to help you.  In twenty years time you could be ahead of us. Then it will be your turn to help China.
-MAO TSE TUNG: You know, I have great respect for your Lord Buddha.  He was anti-caste. Anti-corruption.  Anti-exploitation. For some, politics and religion can mix.
-TENZIN GYATSO: For me, I think such a mix is crucial.
-MAO TSE TUNG: Have a sweet. Made in my home province.  The kind my mother used to make.
-TENZIN GYATSO: "If moral discipline is learned from the beginning, one possesses the root for achieving higher rebirth.  A staircase for achieving liberation.  An antidote eliminating misery and sorrow.  Without discipline there is no method."
-TENZIN GYATSO: I am thinking of becoming a Communist Party Member. I like what I see of Marxism.  It is based on equality and justice for all. I believe Chairman Mao wishes the best for our people.  Our path must be non-violence.  Co-operation.
-MAO TSE TUNG: Ah, Dalai Lama, thank you for coming so late.
+TENZIN GYATSO: I am happy to hear you say this, Chairman Mao. I have created a reform committee to investigate grievances and we have abolished Inherited Tax, and forgiven all money owed the Government by people who are unable to pay.
+TENZIN GYATSO: For me, I think such a mix is Have a sweet. Made in my home province. The kind my mother used to make.
+TENZIN GYATSO: "If moral discipline is learned from the beginning, one possesses the root for achieving higher rebirth. A staircase for achieving liberation. An antidote eliminating misery and sorrow. Without discipline there is no method." I am thinking of becoming a Communist Party Member. I like what I see of Marxism. It is based on equality and justice for all. I believe Chairman Mao wishes the best for our people. Our path must be non-violence. Co-operation.
+TENZIN GYATSO: I am thinking of becoming a Communist Party Member. I like what I see of Marxism. It is based on equality and justice for all. I believe Chairman Mao wishes the best for our people. Our path must be non-violence. Co-operation.
 TENZIN GYATSO: I leave tomorrow.
-MAO TSE TUNG: Yes, I am aware.  How has your time in China been?
-TENZIN GYATSO: I have been greatly impressed by your accomplishments.  Industrial progress.  Great efficiency. Your people are capable and courteous.
-MAO TSE TUNG: You have a lot to learn about organization.  How to draw out people's opinions.  How to make key decisions.  Train your young Tibetans.  When I make contact with you, I want to reach you through a Tibetan.
-DALAI LAMA: Always.
-MAO TSE TUNG: Your attitude is good, you know. I understand you well. But you need to learn this: religion is poison. It undermines the race and it retards the progress of the people.  Tibet has been poisoned by religion. "Religion is poison."
-MAO TSE TUNG: Well, let me walk you to your car.
-MAO TSE TUNG: Take care of your health.
+TENZIN GYATSO: I have been greatly impressed by your accomplishments. Industrial progress. Great efficiency. Your people are capable and You have a lot to learn about organization. How to draw out people's opinions. How to make key decisions. Train your young Tibetans. When I make contact with you, I want to reach you through a Tibetan.
+DALAI LAMA: Tenzin Gyatso records Mao's words.
 TENZIN GYATSO: He will betray us.
 LORD CHAMBEPIAIN: Did you ever doubt it?
 TENZIN GYATSO: I had relinquished doubt.
 TENZIN GYATSO: Are you happy?
 OLD WOMAN: I am very happy and prosperous under the guidance of the Chinese Communist Party and chairman Mao Tse Tung.
 TENZIN GYATSO: I ask them to stop, to lay down their guns.
-LORD CHAMBERLAIN: The Khamba's gun is his most prized possession.  I admire them so. They face a modern, well equipped army, and still, they fight.
-LORD CHAMBERLAIN: Land reform is underway in Amdo.  The large estates are being confiscated and redistributed. Landlords are being punished.
+LORD CHAMBERLAIN: The Khamba's gun is his most prized possession. I admire them so. They face a modern, well equipped army, and still, they fight.
+LORD CHAMBERLAIN: Land reform is underway in Amdo. The large estates are being confiscated and redistributed. Landlords are being punished.
 TENZIN GYATSO: A beggar can be called a landlord if he disapproves of the Chinese.
-TENZIN GYATSO: I have always asked for plain information.  Just the truth.
-LORD CHAMBERLAIN: The Communists put their guns in the hands of the Khamba children and force the child to kill the parent. They have dropped bombs on the monastery of Lithang in Kham.  It has been destroyed. Women and children, trying to escape from the fighting, have been shot with machine guns, fired from airplanes.
+TENZIN GYATSO: I have always asked for plain information. Just the truth.
+LORD CHAMBERLAIN: The Communists put their guns in the hands of the Khamba children and force the child to kill the parent. They have dropped bombs on the monastery of Lithang in Kham. It has been destroyed. Women and children, trying to escape from the fighting, have been shot with machine guns, fired from
 TENZIN GYATSO: The pursuit of non-violence. Very difficult.
-LORD CHAMBERLAIN: Non-violence means co-operation when it is possible.  Resistance, when it is not.
-GENERAL CHIANG: We have decided that no drastic changes will take place in Tibet for six years. This should make you happy.
+LORD CHAMBERLAIN: Non-violence means co-operation when it is possible. Resistance, when it is not.
+GENERAL CHIANG: We have decided that no drastic changes will take place in Tibet for six years. This should make you happy. It seems a revolt has broken out in the east. We have decided that the Tibetan army must be used against the Khamba guerrillas.
 GENERAL CHIANG: It seems a revolt has broken out in the east. We have decided that the Tibetan army must be used against the Khamba guerrillas.
 TENZIN GYATSO: I will not approve it.
-TENZIN GYATSO: You have bombed on peaceful people.
-GENERAL CHIANG: We must deal with these reactionaries!
-TENZIN GYATSO: No.  We are peace loving people. I am afraid we cannot trust you.
-GENERAL CHIANG: We are here to heal the people of Tibet.  You need reform. You have no sense of what is good for your people. We are here to liberate you!
-TENZIN GYATSO: I burn here, but I am not suppose to let the smoke show.  Yes, we need reform.  The monasteries. Communications.  Schools.  But we want change for Tibet, as Tibet needs it, not for China.
-TENZIN GYATSO: Buddha is our physician, General, he will heal us.  Comapssion and enlightnement will set us free. You can not liberate me I can only liberate myself.
+TENZIN GYATSO: You have bombed on peaceful We must deal with these No. We are peace loving people. I am afraid we cannot trust you.
+GENERAL CHIANG: We must deal with these No. We are peace loving people. I am afraid we cannot trust you.
+TENZIN GYATSO: No. We are peace loving people. I am afraid we cannot trust you.
+GENERAL CHIANG: We are here to heal the people of Tibet. You need reform. You have no sense of what is good for your people. We are here to liberate
+TENZIN GYATSO: I burn here, but I am not suppose to let the smoke show. Yes, we need reform. The monasteries. Communications. Schools. But we want change for Tibet, as Tibet needs it, not for China.
+TENZIN GYATSO: Buddha is our physician, General, he will heal us. Comapssion and enlightnement will set us free. You can not liberate me I can only liberate myself.
 LORD CHAMBERLAIN: They will take Lhasa next.
 TENZIN GYATSO: The people will not allow it.
-NECHUNG ORACLE: Where there is no crossing a big river, no fords, no shallows, where the only hope is a boat, and there is no boat... I will put a boat, Kundun. The wish-Fulfilling Jewel will shine from the West.
-TENZIN GYATSO (OC): "I rejoice in the Awakening of the Buddhas, and also in the spiritual levels of their Sons."
-TENZIN GYATSO (OC): "And with gladness I rejoice in the ocean of virtue from developing an awakening mind that wishes all beings to be happy..."
-TENZIN GYATSO (OC): "As well as in the deeds that bring them benefit.
-TENZIN GYATSO: "With folded hands I beseech the Buddhas of all directions. To shine the lamp of Dharma For all bewildered in the gloom of misery."
-TENZIN GYATSO AND OTHERS: "With folded hands I beseech the Conquerors who wish to pass away, to please remain for countless aeons And not to leave the world in darkness."
-TENZIN GYATSO (OC): "Thus by the virtue collected Through all that I have done, May the pain of every living creature be completely cleared away."
-WOMEN (OC): Chinese, GO! Chinese, GO! Chinese, GO!
-WOMEN AND MEN (OC): Chinese, GO! Chinese, GO! Chinese, GO!
-WOMEN AND HEN (OC): Chinese, GO! Chinese, GO! Chinese, GO!
-LORD CHAMBERLAIN: The crowd will not disperse until you give your assurance that you will not attend the Chinese festivities. Many who have been invited to dine with the Chinese do not return home.
+NECHUNG ORACLE: Where there is no crossing a big river, no fords, no shallows, where the only hope is a boat, and there is no boat. I will put a boat, Kundun. The wish-Fulfilling Jewel will shine from the West.
+TENZIN GYATSO: AND OTHERS ( OC ) TENZIN GYATSO AND OTHERS
+DREAM SEQUENCE: The lovely Norbulinka garden, the park where opera pageants and Kalachakra ceremonies take place, is now, a killing Hundreds of dead, slaughtered monks, lie on the blood- drenched ground, under the peach and pear trees. Chinese soldiers move amongst the monks, turning over the dead bodies, searching those silent faces. The Solder we see is carrying a photo of His Holiness. They are searching for the Dalai Lama. It is a nightmare. We hear crying.
+LORD CHAMBERLAIN: The crowd will not disperse until you give your assurance that you will not attend the Chinese Many who have been invited to dine with the Chinese do not return home.
 TENZIN GYATSO: I will not go.
 LORD CHAMBERLAIN: I will alert the Chinese delegation. You know, I would never have let you go alone, Kundun.
-MOTHER (OC): Did you come to tell me we are leaving Lhasa?
 TENZIN GYATSO: Do you think I must?
 MOTHER: You decide.
-TENZIN GYATSO: Tibet has never been part of China.  We are different races. We are different cultures. We need change, we know that. But we could do it alone. We were just about to do it alone.
+TENZIN GYATSO: Tibet has never been part of China. We are different races. We are different cultures. We need change, we know that. But we could do it alone. We were just about to do it
 TENZIN GYATSO: I am afraid I will go. Far, far away.
-LORD CHAMBERLAIN: We are now accused of aiding the rebels.  The Chinese said we can expect drastic measures to be taken to crush this revolt.
+LORD CHAMBERLAIN: We are now accused of aiding the rebels. The Chinese said we can expect drastic measures to be taken to crush this revolt.
 TENZIN GYATSO: Arrange for me to speak to the people's leaders.
 TENZIN GYATSO: I fear that there will be great bloodshed if you cannot convince the people to disperse and go home. I am safe.
-FIRST LEADER: Holiness, the Chinese tried to entice you to their garrison with out protection of bodyguard. Even now, they urge you to come to them for safety. They are bringing more troops and guns and artillery into Lhasa. There are three airplanes waiting outside Lhasa. What do they wait for?  They are planning to kill the Dalai Lama.  Don't you see?
-NECHUNG ORACLE: Stay.
-NECHUNG ORACLE: Stay.  I tell you to stay.
+FIRST LEADER: Holiness, the Chinese tried to entice you to their garrison with out protection of bodyguard. Even now, they urge you to come to them for safety. They are bringing more troops and guns and artillery into Lhasa. There are three airplanes waiting outside Lhasa. What do they wait for? They are planning to kill the Dalai Lama. Don't you see?
+NECHUNG ORACLE: INT. DALAI LAMA'S PRIVATE ROOMS NIGHT It is late at night. The boy is alone. He sits in front of his altar - meditating.
+NECHUNG ORACLE: Stay. I tell you to stay.
 LORD CHAMBERLAIN: The Chinese are planning to attack the crowd and shell the Norbulinka. You are asked to indicate on a map where you will be so that the artillery men will not mistakenly aim at you.
 TENZIN GYATSO: Tell them I will be here. With my people. Right here.
-ORACLE: Go!  Go!  Tonight!
-ORACLE: Go!  Tonight!  Go!
+ORACLE: Go! Go! Tonight!
+ORACLE: Go! Tonight! Go!
 TENZIN GYATSO: Dim the lights.
-TENZIN GYATSO: Wait.
+TENZIN GYATSO: The young man leaves them.
 TENZIN GYATSO: I see a safe journey.
 TENZIN GYATSO: I see a safe return.
-TENZIN GYATSO: Now.  I am ready.
+TENZIN GYATSO: Now. I am ready.
 SOLDIER: Move aside, tour of inspection, move aside.
 KHAMBA BODYGUARD: Move aside, let us through. Move aside!
 TENZIN GYATSO: I have always loved mountains.
 TENZIN GYATSO: "Right will be victorious."
 LORD CHAMBERLAIN: "The Gods will be avenged!"
-TENZIN GYATSO: I repudiate the Seventeen Point Agreement
+TENZIN GYATSO: I repudiate the Seventeen Point
 TENZIN GYATSO: I constitute the Government of Tibet, the only legal authority in the land.
 SOLDIER: With all respect, may I ask? Who are you?
-TENZIN GYATSO: What you see before you is a man.  A simple monk.
-SOLDIER: Are you the Lord Buddha?
-TENZIN GYATSO: I think I am a reflection, like the moon, on water. When you see me, and I try to be a good man, see yourself
+TENZIN GYATSO: What you see before you is a man. A simple monk.
+SOLDIER: Are you the Lord Buddha? I think I am a reflection, like the moon, on water. When you see me, and I try to be a good man, see
+TENZIN GYATSO: I think I am a reflection, like the moon, on water. When you see me, and I try to be a good man, see

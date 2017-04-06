@@ -1,7 +1,7 @@
 <td valign="top">
 <br/> <table width="100%"><tr><td class="scrtext">
 <pre>ALADDIN:  THE COMPLETE SCRIPT
-<b>COMPILED BY BEN SCRIPPS &lt;34RQNPQ@CMUVM.CSV.CMICH.EDU&gt;
+<b>COMPILED BY BEN SCRIPPS 
 </b>(Portions Copyright (c) 1992 The Walt Disney Company
 
 PEDDLER:    Oh I come from a land

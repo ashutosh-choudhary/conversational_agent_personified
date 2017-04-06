@@ -1,528 +1,523 @@
 DRUID: Is it a girl?
 ETHNA: It is a girl.
 DRUID: Show me its arm.
-DRUID: It's true then.  I must tell Queen Bavmorda.
-MOTHER: Ethna, please.  Help me.  They're going to kill my baby.
+DRUID: It's true then. I must tell Queen
+MOTHER: Ethna, please. Help me. They're going to kill my baby.
 ETHNA: They'll kill you.
 MOTHER: Please save my baby.
 ETHNA: Pretend this is the child.
-MOTHER: Thank you, Ethna.  Thank you.
+MOTHER: Thank you, Ethna. Thank you. We will start the ritual at dusk. You're certain this is the one?
 BAVMORDA: We will start the ritual at dusk. You're certain this is the one?
 DRUID: It bears the markings.
-BAVMORDA: I must see for myself!  Just as the omen foretold!
-BAVMORDA: So.  You were the one.
-MOTHER: Yes.  But nothing you can do will stop the prophecy.
-BAVMORDA: This child will have no power over me....
-BAVMORDA: (furiously) Where's the baby!
+BAVMORDA: I must see for myself! Just as the omen foretold! So. You were the one.
+BAVMORDA: So. You were the one.
+MOTHER: Yes. But nothing you can do will stop the prophecy.
+BAVMORDA: This child will have no power over
+BAVMORDA: ( furiously )
 GUARD: The midwife!
-BAVMORDA: Find that baby!  Use the dogs! Sorsha!
+BAVMORDA: Find that baby! Use the dogs!
 BAVMORDA: Kill her.
-DEATH DOG: Bordak!
-MIDWIFE: I don't have her!  No!  No!
-RANON: Dada!  We found something in the river!
-WILLOW: I can't run off and play with you now.  I've got work to do.
-RANON/MIMS: But Dada, you gotta see it!  Hurry!
-WILLOW: Back!  Don't go near it.  We don't know where it's been.  It could be diseased.
+DEATH DOG: The dogs lunge from the woods and splash across the river. The midwife claws her way up a steep bank, lur- ing the dogs. As they attack her:
+MIDWIFE: I don't have her! No! No!
+RANON: Dada! We found something in the
+WILLOW: I can't run off and play with you now. I've got work to do.
+WILLOW: Back! Don't go near it. We don't know where it's been. It could be It's a baby!
 MIMS: It's a baby!
 RANON: It's not a Nelwyn baby.
-WILLOW: No, it's too big to be a Nelwyn baby.  It looks like a daikini...
-MIMS: Ooh, it's so cute...
-WILLOW: Mims!  Get back here!  It might bite you.
+WILLOW: No, it's too big to be a Nelwyn baby. It looks like a daikini.
+MIMS: Ooh, it's so cute.
+WILLOW: Mims! Get back here! It might bite you.
 RANON: Can't we keep it, Dada?
 WILLOW: Absolutely not.
-BURGLEKUTT: Ufgood!  Willow Ufgood!
-WILLOW: Shhh, shhh!  It's the Prefect -- that's all I need.  Mims, Ranon, keep this thing hidden...
-KIAYA: Mr. Burglekutt!  He hasn't done anything wrong!
-BURGLEKUTT: Ufgood!  What do you think you're doing!  I tell the planting seeds in this village.
-KIAYA: I told him we didn't steal it, Wil- low.
-BURGLEKUTT: You haven't paid your debts.  Where did you get these seeds?
-WILLOW: In the forest.  My family's been gathering them since last fall. There's no law against that, Bur- glekutt.
-KIAYA: Willow!  You left the children alone by the river??
-BURGLEKUTT: Too late, Ufgood.  You'll never get your planting done before the rains start.  You're gonna lose this land.
+BURGLEKUTT: Ufgood! Willow Ufgood! Shhh, shhh! It's the Prefect that's all I need. Mims, Ranon, keep this thing hidden.
+WILLOW: Shhh, shhh! It's the Prefect that's all I need. Mims, Ranon, keep this thing hidden.
+KIAYA: Mr. Burglekutt! He hasn't done anything wrong! Ufgood! What do you think you're
+BURGLEKUTT: Ufgood! What do you think you're
+KIAYA: I told him we didn't steal it, Wil-
+BURGLEKUTT: You haven't paid your debts. Where did you get these seeds?
+WILLOW: In the forest. My family's been gathering them since last fall. There's no law against that, Bur-
+KIAYA: Willow! You left the children alone by the river??
+BURGLEKUTT: Too late, Ufgood. You'll never get your planting done before the rains start. You're gonna lose this
 WILLOW: Absolutely, under no condition, is anyone in this family going to fall in love with that baby.
-WILLOW: Kiaya!  We can't keep that baby. Mims, Ranon.  Hey!  I will not be ignored!
-WILLOW: This is bad.  If we're caught with that little daikini it'll be the end of us.  Careful, Ranon, I need that for the festival. (indicates magic cloth) Kiaya, what are we going to do?
-KIAYA: We're gonna give this baby a bath.
-WILLOW: Burglekutt's right.  There's not enough time to finish plowing. We'll lose everything and I'll end up working in the mines.
+WILLOW: Kiaya! We can't keep that baby. Mims, Ranon. Hey! I will not be
+WILLOW: This is bad. If we're caught with that little daikini it'll be the end of us. Careful, Ranon, I need that for the festival. Kiaya, what are we going to do?
+KIAYA: We're gonna give this baby a bath. Burglekutt's right. There's not enough time to finish plowing. We'll lose everything and I'll end up working in the mines.
+WILLOW: Burglekutt's right. There's not enough time to finish plowing. We'll lose everything and I'll end up working in the mines.
 KIAYA: Willow, do you think we should take her to the Village Council?
-WILLOW: No, no!  They'll think it's a bad omen.  There'll be a flood or a drought or a plague and everybody'll blame me for it!
-RANON: Look.  What's that?
-WILLOW: I don't know.  This is trouble. I'll talk to the High Aldwin about it tomorrow at the Festival.
-WILLOW: And now!  For our final amazing bit of magic, I will make an entire pig completely disappear!
-CROWD: Aaww!  Booo!  Sssss!
+WILLOW: No, no! They'll think it's a bad omen. There'll be a flood or a drought or a plague and everybody'll blame me for it!
+RANON: Look. What's that?
+WILLOW: I don't know. This is trouble. I'll talk to the High Aldwin about it tomorrow at the Festival.
+WILLOW: And now! For our final amazing bit of magic, I will make an entire pig completely disappear!
+CROWD: Aaww! Booo! Sssss!
 WILLOW: Meegosh, I'm in trouble.
-MEEGOSH: Hey, it wasn't that bad.  You need a better pig, that's all.
-MEEGOSH: Now Burglekutt's got you in the squeeze.  Soon you'll be down in the mines like me.
-WILLOW: Mining.  I hate closed-in spaces. That's the last thing I'd ever do. (he shudders) I gotta get my crop planted.
+MEEGOSH: Hey, it wasn't that bad. You need a better pig, that's all.
+MEEGOSH: Now Burglekutt's got you in the squeeze. Soon you'll be down in the mines like me.
+WILLOW: Mining. I hate closed-in spaces. That's the last thing I'd ever do. I gotta get my crop planted.
 MEEGOSH: You know I'll help you as much as I can, Willow.
-MIMS: Dada, can we get treacle candy? Can we, can we?  Please?
-WILLOW: (preoccupied) Meegosh, can you watch the chil- dren?  I gotta talk to the High Aldwin.
-MEEGOSH: (truly amazed) The High Aldwin??  Why?
-WILLOW: Sir!  I have to talk to you.
+MIMS: Dada, can we get treacle candy? Can we, can we? Please?
+WILLOW: ( preoccupied ) ( truly amazed )
+MEEGOSH: ( truly amazed )
+WILLOW: Sir! I have to talk to you.
 HIGH ALDWIN: Not today, Willow.
 WILLOW: It's a matter of great importance to me!
-HIGH ALDWIN: Intuition, Willow -- remember?  I know you're eager to be my appren- tice, Willow.  But today is the spring festival.
-BURGLEKUTT: Apprentice?  To the High Aldwin!! Willow Ufgood???
-DEATH DOG: Bordak!  Bordak!
+HIGH ALDWIN: Intuition, Willow remember? I know you're eager to be my appren- tice, Willow. But today is the spring festival.
+BURGLEKUTT: Apprentice? To the High Aldwin!! Willow Ufgood???
+DEATH DOG: Bordak! Bordak!
 MEEGOSH: What was it looking for?
-A VILLAGER: It said "bordak"!  What does it mean?
-COUNCILMAN: (scholarly) Baby!  It means baby!  It was look- ing for somebody's baby!
-MIMS: Mommy?
-WILLOW: Kiaya!  Kiaya!
-WILLOW: We can't keep this baby, Kiaya.  We must take her to the Council.
+A VILLAGER: It said "bordak"! What does it Baby! It means baby! It was look- ing for somebody's baby!
+COUNCILMAN: ( scholarly )
+MIMS: Suddenly alarmed, Willow races towrd his distant farm, his children hurrying behind.
+WILLOW: Kiaya! Kiaya!
+WILLOW: We can't keep this baby, Kiaya. We must take her to the Council.
 BURGLEKUTT: An evil beast from the outer world has invaded our peaceful village, looking for a baby!
-A VILLAGER: It's a sign!  An omen!
+A VILLAGER: It's a sign! An omen!
 ANOTHER VILLAGER: Our crops will die!
-BURGLEKUTT: Silence!  One beast we can kill. But there may be more!  And they won't give up their search till they've found what they're looking for!
+BURGLEKUTT: Silence! One beast we can kill. But there may be more! And they won't give up their search till they've found what they're looking Whose baby is it!
 MEEGOSH: Whose baby is it!
 OTHER VILLAGERS: Who's to blame for this!
-HIGH ALDWIN: Willow Ufgood!  Come before me!
+HIGH ALDWIN: Willow Ufgood! Come before me!
 HIGH ALDWIN: Earlier today you tried to tell me something, Willow.
-WILLOW: (bows his head) My family found this baby in the river, High Aldwin.
-HIGH ALDWIN: A daikini child... (his eyes close) ...of some importance, I feel...
-BURGLEKUTT: That's what the beasts want!  Give it back!
-WILLOW: They'll kill her!  We can't let this baby die!
+WILLOW: ( bows his head ) ( his eyes close ) .of some importance, I feel.
+HIGH ALDWIN: A daikini child.
+BURGLEKUTT: That's what the beasts want! Give it back!
+WILLOW: They'll kill her! We can't let this baby die!
 BURGLEKUTT: What do we care!
-HIGH ALDWIN: ...importance...yes...this child is special...
-COUNCILMAN: What should we do?
-HIGH ALDWIN: This child must be taken beyond the boundaries of our village.  All the way to the daikini crossroads.
+HIGH ALDWIN: .importance.yes.this child is special.
+COUNCILMAN: What should we do? This child must be taken beyond the boundaries of our village. All the way to the daikini crossroads.
+HIGH ALDWIN: This child must be taken beyond the boundaries of our village. All the way to the daikini crossroads.
 A VILLAGER: Who will do that?
-SEVERAL VILLAGERS: Vohnkar!  Vohnkar!
-HIGH ALDWIN: The outer world is dangerous and corrupt, Vohnkar.  And this baby is hunted by blood-hungry beasts.  Are you willing to sacrifice your life?
+SEVERAL VILLAGERS: Vohnkar! Vohnkar!
+HIGH ALDWIN: The outer world is dangerous and corrupt, Vohnkar. And this baby is hunted by blood-hungry beasts. Are you willing to sacrifice your life? If I go, who'll defend you if other beasts attack?
 VOHNKAR: If I go, who'll defend you if other beasts attack?
-BURGLEKUTT: He's right!  It seems only fair that the man to take this baby to the crossroads... (walking stick up) ...be the very man who plucked it... (walking stick down) ...out of the river!
-WILLOW: I can't do it!  I haven't put my crop in!
-A COUNCILMAN: You caused this trouble.  You found the baby...you get rid of it!
+BURGLEKUTT: He's right! It seems only fair that the man to take this baby to the crossroads.
+WILLOW: I can't do it! I haven't put my crop in!
+A COUNCILMAN: You caused this trouble. You found the baby.you get rid of it!
 BURGLEKUTT: I nominate Willow Ufgood!
 HIGH ALDWIN: I will consult the bones!
-HIGH ALDWIN: The bones tell me nothing. (he eyes Willow) But I must make a decision.  Is there love in your heart for this child?
-WILLOW: Yes.
-HIGH ALDWIN: The bones have spoken!  Willow? The security of this village depends on you!
-MIMS: Dada?
+HIGH ALDWIN: The bones tell me nothing. But I must make a decision. Is there love in your heart for this
+WILLOW: The High Aldwin bolts straight up, broadcasting:
+HIGH ALDWIN: The bones have spoken! Willow? The security of this village depends on you!
+MIMS: Willow sets the baby down. He goes around an opne wall an sits on his daughter's bed, straightening her blank- ets and toys.
 MIMS: Watch out for brownies, Dada.
-WILLOW: I will, Mims.  Goodnight.
+WILLOW: I will, Mims. Goodnight.
 RANON: Dada, what's a daikini?
 WILLOW: Daikinis are giant people who live far far away.
 RANON: Are you scared?
-RANON: I could be you rguard!  I could carry your spear!
-WILLOW: (smiles) What a great son you are, Ranon.  I wish I could take you with me.  Now go to sleep...
-HIGH ALDWIN: Now, you know where you're going? (Willow shakes his head) Down there, through those trees, follow the river.  You'll know the crossroads by a big daikini struc- ture.  Willow, this is serious business.  Don't waste any time, the outer world is no place for a Nelwyn.  Give the baby to the first daikini you see, then hurry home as fast as you can.
+RANON: I could be you rguard! I could carry your spear!
+WILLOW: ( smiles )
+HIGH ALDWIN: Now, you know where you're going? Down there, through those trees, follow the river. You'll know the crossroads by a big daikini struc- ture. Willow, this is serious business. Don't waste any time, the outer world is no place for a Nelwyn. Give the baby to the first daikini you see, then hurry home as fast as you can.
 WILLOW: If I'm not strong enough to be your apprentice, how can I do this?
-HIGH ALDWIN: You're strong enough.  But you're going to need courage, Willow.
-WILLOW: I don't want courage.  I don't want to be a warrior.  All I've ever wanted was to do magic, real magic, like you!
-HIGH ALDWIN: Real magic, Willow, is simply the art of controlling the reality of others.  You lack faith in your- self.  You must learn to trust your intuition.
-HIGH ALDWIN: Go in the direction the bird is flying.
-WILLOW: (amazed) Oh, if I could do that I'd--I'd turn Burglekutt into a toad!
-HIGH ALDWIN: Waste magic on revenge?  You have much to learn, Willow...
-KIAYA: Willow, we've never been apart.  I miss you already.  Take this.  It will bring you luck.
+HIGH ALDWIN: You're strong enough. But you're going to need courage, Willow.
+WILLOW: I don't want courage. I don't want to be a warrior. All I've ever wanted was to do magic, real magic, like you!
+HIGH ALDWIN: Real magic, Willow, is simply the art of controlling the reality of others. You lack faith in your- self. You must learn to trust your Go in the direction the bird is Oh, if I could do that I'dI'd turn Burglekutt into a toad!
+HIGH ALDWIN: Go in the direction the bird is Oh, if I could do that I'dI'd turn Burglekutt into a toad!
+WILLOW: ( amazed )
+HIGH ALDWIN: Waste magic on revenge? You have much to learn, Willow.
+KIAYA: Willow, we've never been apart. I miss you already. Take this. It will bring you luck.
 WILLOW: You cut your hair, Kiaya?
-KIAYA: Willow!!
-LIEUTENANT: We've patrolled the hills.  This is where they killed the nursemaid.
-SORSHA: She must have done something with the child.  Widen the search!
+KIAYA: Kiaya rushes down the hill and passionately throws her arms around Willow, tears in her eyes. At last they break apart, and Willow begins the journey.
+LIEUTENANT: We've patrolled the hills. This is where they killed the nursemaid.
+SORSHA: She must have done something with the child. Widen the search! Get away from there!
 LIEUTENANT: Get away from there!
-WILLOW: I hate this.  Where am I?  I should stick you in a tree and go back home. (looks at baby) I'm sorry.  I didn't mean that.
-WILLOW: That's it.  The crossroads...
+WILLOW: I hate this. Where am I? I should stick you in a tree and go back I'm sorry. I didn't mean that.
+WILLOW: That's it. The crossroads.
 WILLOW: I hate this.
 WILLOW: I hate this.
 WILLOW: I really hate this.
-MADMARTIGAN: Hey, Peck...get me some water...or you'll diiiiie...!
-WILLOW: I will--I'll getcha water--getcha lotsa water--anything you say--!
-MADMARTIGAN: Peck!
+MADMARTIGAN: Hey, Peck.get me some water.or you'll diiiiie.!
+WILLOW: I willI'll getcha watergetcha lotsa wateranything you say!
+MADMARTIGAN: He dives headfirst into the weeds. Madmartigan rattles his cage.
 MADMARTIGAN: You're a weasely little Peck! Gimme some water!
 WILLOW: I'm not coming near you!
-MADMARTIGAN: Please?  I'm dyin' of thirst in here.
-WILLOW: Good.  How long will it take?
+MADMARTIGAN: Please? I'm dyin' of thirst in Good. How long will it take?
+WILLOW: Good. How long will it take?
 MADMARTIGAN: Don't make me angry, Peck.
-WILLOW: You be careful.  I'm a powerful sorcerer.  I could turn you into a toad just like that.
+WILLOW: You be careful. I'm a powerful sorcerer. I could turn you into a toad just like that.
 MADMARTIGAN: Miserable Pecks.
-MADMARTIGAN: That's more like it.
-WILLOW: Do any other daikinis ever come by here?
-MADMARTIGAN: Why.
-WILLOW: I have to give this baby to some- body.
-MADMARTIGAN: I'm somebody.  Lemme out and I'll take care of your baby.
-WILLOW: No.  Somebdoy put you in there for a reason.  I'll wait for somebody else.
-WILLOW: Hey!  Somebody's coming!
-MADMARTIGAN: Peck!  Quick!  Douse the fire!
-MADMARTIGAN: No, you fool!  Put it out I say! Out!
-MADMARTIGAN: No!!
+MADMARTIGAN: That's more like it. Do any other daikinis ever come by I have to give this baby to some-
+WILLOW: Do any other daikinis ever come by I have to give this baby to some-
+MADMARTIGAN: I have to give this baby to some-
+WILLOW: I have to give this baby to some-
+MADMARTIGAN: I'm somebody. Lemme out and I'll take care of your baby.
+WILLOW: No. Somebdoy put you in there for a reason. I'll wait for somebody else.
+WILLOW: Hey! Somebody's coming!
+MADMARTIGAN: Peck! Quick! Douse the fire!
+MADMARTIGAN: No, you fool! Put it out I say!
+MADMARTIGAN: He rises up in the torchlight. The Picts taunt him.
 PICT: Whose fire!
-MADMARTIGAN: No!  Help!  Stop!
-PICT: Where are they?  Where did they go?
-MADMARTIGAN: (spitting out dirt) Thanks for your help, Peck.
+MADMARTIGAN: No! Help! Stop!
+PICT: Where are they? Where did they go?
+MADMARTIGAN: ( spitting out dirt ) Thanks for your help, Peck.
 WILLOW: Are you okay?
-MADMARTIGAN: As if you care.  I saved your life, Peck.  Those guys woulda killed us! (points dramatically) You wanna give your baby to them?? They eat babies!
+MADMARTIGAN: As if you care. I saved your life, Peck. Those guys woulda killed us! You wanna give your baby to them?? They eat babies!
 WILLOW: I don't know.
-MADMARTIGAN: The world's gone insane.  Good men locked in cages, criminals running free.  It doesn't pay to be honest, Peck.
-WILLOW: Don't call me a Peck.  My name is Willow.
-MADMARTIGAN: Hello, Willow.  I'm Madmartigan.
+MADMARTIGAN: The world's gone insane. Good men locked in cages, criminals running free. It doesn't pay to be honest,
+WILLOW: Don't call me a Peck. My name is
+MADMARTIGAN: Hello, Willow. I'm Madmartigan.
 MADMARTIGAN: You a woodcutter?
-WILLOW: Farmer.
-MADMARTIGAN: Farmer!  I knew it!  You're a vic- tim, Willow.  Yep, you and me: victims of a rotten, corrupt, cor- rupt, rotten world.
-MADMARTIGAN: Listen, Willow my friend.  I'm really a good man.  Give me my freedom, and I'll look after that baby for you.  Trust me.
-MADMARTIGAN: That's it--good--good--like that, yes, good, good, the chain--that's it, come on--come on--!
-WILLOW: Nooo, I don't think I should.
-MADMARTIGAN: Peck!!  Stupid Peck!  I'll kill ya! Let me out!
+WILLOW: Farmer! I knew it! You're a vic- tim, Willow. Yep, you and me: victims of a rotten, corrupt, cor- rupt, rotten world.
+MADMARTIGAN: Farmer! I knew it! You're a vic- tim, Willow. Yep, you and me: victims of a rotten, corrupt, cor- rupt, rotten world.
+MADMARTIGAN: Listen, Willow my friend. I'm really a good man. Give me my freedom, and I'll look after that baby for you. Trust me.
+MADMARTIGAN: That's itgoodgoodlike that, yes, good, good, the chainthat's it, come oncome on!
+WILLOW: Nooo, I don't think I should. Peck!! Stupid Peck! I'll kill ya! Let me out!
+MADMARTIGAN: Peck!! Stupid Peck! I'll kill ya! Let me out!
 MADMARTIGAN: Morning, Willow.
-MADMARTIGAN: Sorry I yelled at you.  I've been in this cage toooo long.  Can't think straight anymore.  Owww...!
+MADMARTIGAN: Sorry I yelled at you. I've been in this cage toooo long. Can't think straight anymore. Owww.!
 WILLOW: You all right?
-MADMARTIGAN: These burns.  My arms.  Ouch...
+MADMARTIGAN: These burns. My arms. Ouch.
 WILLOW: See if this helps.
-MADMARTIGAN: Aaaaaahhhh.  Better.  Here, I made something for the baby.
+MADMARTIGAN: Aaaaaahhhh. Better. Here, I made something for the baby. What's inside?
 WILLOW: What's inside?
-MADMARTIGAN: A tooth. (Willow reacts) I'm strving.  I got no used for it.
-WILLOW: Stop!  Wait!
-MADMARTIGAN: (with authority) Smells like a battle.
+MADMARTIGAN: A tooth. I'm strving. I got no used for it. Stop! Wait!
+WILLOW: Stop! Wait!
+MADMARTIGAN: ( with authority ) Smells like a battle.
 WILLOW: Are you a warrior?
-MADMARTIGAN: The greatest swordsman that ever lived.
-WILLOW: What's that?  I hear something!
+MADMARTIGAN: The greatest swordsman that ever
+WILLOW: What's that? I hear something!
 MADMARTIGAN: You hear trouble.
-WILLOW: What is it?
-MADMARTIGAN: A hundred horses...five or six wagons...  and about six thousand fools.
-WILLOW: Sir?  Sir!
+WILLOW: What is it? A hundred horses.five or six wagons. and about six thousand
+MADMARTIGAN: A hundred horses.five or six wagons. and about six thousand
+WILLOW: Sir? Sir!
 OFFICER: Out of the way!
-AIRK: Push 'em harder!  No rest at mid- day!  We need to make ten more leagues by dark!
-WILLOW: Sir!  Sir!  I have this baby.  We found her in our village.  Will you take her...?
-AIRK: We're going into battle, little one.  Find a woman to take care of it.
+AIRK: Push 'em harder! No rest at mid- day! We need to make ten more leagues by dark!
+WILLOW: Sir! Sir! I have this baby. We found her in our village. Will you take her.?
+AIRK: We're going into battle, little one. Find a woman to take care of He thought you were a woman, Airk!
 MADMARTIGAN: He thought you were a woman, Airk!
-AIRK: Madmartigan!  What did you do this time?
-MADMARTIGAN: Nothing you wouldn't have done it my place!
+AIRK: Madmartigan! What did you do this Nothing you wouldn't have done it my I always knew you'd end up in a crow's cage.
+MADMARTIGAN: Nothing you wouldn't have done it my I always knew you'd end up in a crow's cage.
 AIRK: I always knew you'd end up in a crow's cage.
-MADMARTIGAN: Least I'm not down there herding sheep!
-AIRK: You're lucky somebody got to you first, Madmartigan!  I'd've killed you myself after that stunt at Land's End!
-MADMARTIGAN: Airk!  Come on, Airk.  Lemme outa here.
-AIRK: (really sarcastic) Hey, remember?  You don't need my help, Madmartigan.  Little rabbit trap like this?  Come on!  I could open it for you, but I wouldn't wanna insult you!
-MADMARTIGAN: Gimme a sword, Airk.  I'll win your war for you.
-AIRK: You're nothing but trouble, Madmar- tigan.  And I got plenty of that. Stay in your coffin and rot!
-MADMARTIGAN: I'll be around long after you're dead, Airk!  You slime!  When I get outa here I'll cut your head off and stick it on a pig-pole!
+MADMARTIGAN: Least I'm not down there herding
+AIRK: You're lucky somebody got to you first, Madmartigan! I'd've killed you myself after that stunt at Land's End!
+MADMARTIGAN: Airk! Come on, Airk. Lemme outa Hey, remember? You don't need my help, Madmartigan. Little rabbit trap like this? Come on! I could open it for you, but I wouldn't wanna insult you!
+AIRK: ( really sarcastic ) Hey, remember? You don't need my help, Madmartigan. Little rabbit trap like this? Come on! I could open it for you, but I wouldn't wanna insult you!
+MADMARTIGAN: Gimme a sword, Airk. I'll win your war for you. You're nothing but trouble, Madmar- tigan. And I got plenty of that. Stay in your coffin and rot! I'll be around long after you're dead, Airk! You slime! When I get outa here I'll cut your head off and stick it on a pig-pole!
+AIRK: You're nothing but trouble, Madmar- tigan. And I got plenty of that. Stay in your coffin and rot! I'll be around long after you're dead, Airk! You slime! When I get outa here I'll cut your head off and stick it on a pig-pole!
+MADMARTIGAN: I'll be around long after you're dead, Airk! You slime! When I get outa here I'll cut your head off and stick it on a pig-pole!
 WILLOW: Friend of yours?
-MADMARTIGAN: Hello, little baby...
+MADMARTIGAN: Hello, little baby.
 MADMARTIGAN: Whatcha thinkin' about, Willow?
-WILLOW: I hate this.
-MADMARTIGAN: Nobody's gonna take your baby. Know why?  Nobody cares... (beat) Except me. (wistfully) You wanna go back to your farm. You wanna go back to your family. I could take care of that baby. I'll look after her like she was me own.
-WILLOW: You don't know anything about ba- bies.
-MADMARTIGAN: Ahhh!  But I know a lot of women who do.  Why, if I had somebody in my life--a little daughter for instance--I'd have a reason to live...
-MADMARTIGAN: Willow.  You can't let me die here. Not when I wanna help you.
+WILLOW: I hate this. Nobody's gonna take your baby. Know why? Nobody cares. Except me. You wanna go back to your farm. You wanna go back to your family. I could take care of that baby. I'll look after her like she was me You don't know anything about ba-
+MADMARTIGAN: Nobody's gonna take your baby. Know why? Nobody cares. Except me. You wanna go back to your farm. You wanna go back to your family. I could take care of that baby. I'll look after her like she was me You don't know anything about ba-
+WILLOW: You don't know anything about ba-
+MADMARTIGAN: Ahhh! But I know a lot of women who do. Why, if I had somebody in my lifea little daughter for instanceI'd have a reason to Willow. You can't let me die here. Not when I wanna help you.
+MADMARTIGAN: Willow. You can't let me die here. Not when I wanna help you.
 WILLOW: You gotta promise to feed her.
 MADMARTIGAN: I will.
 WILLOW: Fresh goat's milk.
-MADMARTIGAN: Absolutely!
-WILLOW: And give her a bath everyday, and don't let her get cold.  And keep her diaper changed.
-MADMARTIGAN: Of course!  I promise!
-MADMARTIGAN: Come to Daddy, little darlin'. (picks her up) I think she likes me!
-WILLOW: Here are her diaper rags.  And this is her milk bladder.  And when she cries--she's either hungry or she's tired--rock her on your left shoulder.  She likes that.
-MADMARTIGAN: Don't worry, Willow.  She's in good hands.  You haven't made a mistake.
-WILLOW: Bye.
-WILLOW: (to Madmartigan) Please take good care of her.
-MADMARTIGAN: You've done a great job.  Now you go back to your family and get your crop in.
-WILLOW: Look, it's Willow Ufgood!  He's come home!  Welcome back, Willow! He deserves a medal:  he's quite mystical.  For honor, for bravery, for his intuitive powers... (he chuckles) ...let's make him Apprentice Aldwin.  Better still:  High Aldwin!  Make way!  It's Willow Uf- good, High Aldwin of---
-WILLOW: Come back here, you!  That's my baby!!
+MADMARTIGAN: Willow draws his dagger and begins to hack at the
+WILLOW: And give her a bath everyday, and don't let her get cold. And keep her diaper changed.
+MADMARTIGAN: Of course! I promise!
+MADMARTIGAN: Come to Daddy, little darlin'. I think she likes me!
+WILLOW: Here are her diaper rags. And this is her milk bladder. And when she criesshe's either hungry or she's tiredrock her on your left shoulder. She likes that.
+MADMARTIGAN: Don't worry, Willow. She's in good hands. You haven't made a mistake.
+WILLOW: He puts her in the papoose.
+WILLOW: ( to Madmartigan ) Please take good care of her.
+MADMARTIGAN: You've done a great job. Now you go back to your family and get your crop in.
+WILLOW: Look, it's Willow Ufgood! He's come home! Welcome back, Willow! He deserves a medal: he's quite mystical. For honor, for bravery, for his intuitive powers. Aldwin. Better still: High Aldwin! Make way! It's Willow Uf- good, High Aldwin of-
+WILLOW: Come back here, you! That's my
 WILLOW: Oh no, it's a trap!
 WILLOW: Oh noooooo!!
-WILLOW: (focusing) Where am I?  Where's the baby?
+WILLOW: ( focusing )
 FRANJEAN: I am Franjean, king of the world.
 WILLOW: That baby's my responsibility!
-FRANJEAN: I don't care.  We paid for her.  Go back to sleep, monsieur...
-WILLOW: Yeow! (he loses consciousness) Madmartigan...I never should've trusted you...
-TEEMO: Tongue.
+FRANJEAN: I don't care. We paid for her. Go back to sleep, monsieur.
+WILLOW: ( he loses consciousness ) Madmartigan.I never should've trusted you.
+TEEMO: Too groggy to argue, Willow sticks out his tongue. TEEMO the brownie crushes a brittle leaf and tosses the dust into Willow's mouth. Smacking his lips, Willow comes around. He sees, down between his legs, another brownie named ROOL cutting the ropes.
 WILLOW: Who are you?
 ROOL: Quiet, you fool!
-TEEMO: (formal) We are emissaries of her majesty, Queen Cherlindrea, of the land of Coshairm.
+TEEMO: ( formal )
 WILLOW: Queen Cherlindrea?
 TEEMO: She requests the presence of your- self and the young princess.
-WILLOW: Who??
+WILLOW: You're the guardian, aren't you?
 TEEMO: You're the guardian, aren't you?
-ROOL: Quit yakking, Teemo.  We gotta get outa here!
-TEEMO: Elves!  They're always tormenting babies.  They make them cry and take their tears.
+ROOL: Quit yakking, Teemo. We gotta get outa here!
+TEEMO: Elves! They're always tormenting babies. They make them cry and take their tears.
 ROOL: Somebody has to do it.
-WILLOW: Why??
+WILLOW: How else they gonna make dew drops?
 ROOL: How else they gonna make dew drops?
 WILLOW: I'm getting her out of there!
-TEEMO: No!  You let us handle this.  Come along, Rool!
-TEEMO: Watch this.  Right between the eyes.
-ROOL: (to the elves) He never misses.
-TEEMO: Ooops.  Was that right?  That wasn't right.
-ROOL/TEEMO: Hyah!  Hyah!  Git!
+TEEMO: No! You let us handle this. Come along, Rool!
+TEEMO: Watch this. Right between the He never misses.
+ROOL: ( to the elves )
+TEEMO: Ooops. Was that right? That wasn't right.
 WILLOW: I can't go out there with the baby!
-ROOL/TEEMO: (frantically point) Elves!!
 WILLOW: Ohhh, I hate this.
-TEEMO: Take your time.  Don't worry about the elves.  They won't come out here.
+TEEMO: Take your time. Don't worry about the elves. They won't come out Why not?
 WILLOW: Why not?
 ROOL: Because of the trolls.
-WILLOW: Trolls?
-TEEMO: Relax.  They only come out at night.
+WILLOW: The brownies console Willow with unworried laughter.
+TEEMO: Relax. They only come out at
 WILLOW: This is not going well.
-TEEMO: Hurry!  Queen Cherlindrea will know what to do.
-TEEMO: Come on.  This is a privilege.  No- body ever gets called before Her Majesty.
-ROOL: Stand up!  It's the queen!
+TEEMO: Hurry! Queen Cherlindrea will know what to do.
+TEEMO: Come on. This is a privilege. No- body ever gets called before Her
+ROOL: Stand up! It's the queen! Willow Ufgood.
 CHERLINDREA: Willow Ufgood.
-WILLOW: (blinded) Yes...?
-CHERLINDREA: I hope you are comfortable here, inside my kingdom...
-TEEMO: Talk!  Say something!
-WILLOW: I can't see anything--she's too bright!
-CHERLINDREA: I'm sorry...
+WILLOW: ( blinded )
+CHERLINDREA: I hope you are comfortable here, inside my kingdom.
+TEEMO: Talk! Say something!
+WILLOW: I can't see anythingshe's too I'm sorry.
+CHERLINDREA: I'm sorry.
 CHERLINDREA: Broke-heart of nightingale for our honored guest.
-CHERLINDREA: It is Elora Danan!  The prophecy has come true.
+CHERLINDREA: It is Elora Danan! The prophecy has come true. You mean, you know who this baby belongs to?
 WILLOW: You mean, you know who this baby belongs to?
-CHERLINDREA: She belongs to all of us.  She is the future queen and ruler of all kingdoms on earth.
-WILLOW: What a relief.  Now I can go home.
-CHERLINDREA: No, Willow.  Your journey has just begun.  It has been foretold that this child shall bring about the downfall of Queen Bavmorda, whose evil powers have darkened our world.  Upon you depends this princess's life.
-WILLOW: Me?
-CHERLINDREA: You are the guardian, Willow.  You must take her to Tir Asleen.
-WILLOW: What is Tir Asleen?
+CHERLINDREA: She belongs to all of us. She is the future queen and ruler of all kingdoms on earth.
+WILLOW: What a relief. Now I can go home. No, Willow. Your journey has just begun. It has been foretold that this child shall bring about the downfall of Queen Bavmorda, whose evil powers have darkened our world. Upon you depends this princess's life.
+CHERLINDREA: No, Willow. Your journey has just begun. It has been foretold that this child shall bring about the downfall of Queen Bavmorda, whose evil powers have darkened our world. Upon you depends this princess's life.
+WILLOW: The Fairy Queen flashes and vanishes. Willow lowers himself back down again. She reappears behind him.
+CHERLINDREA: You are the guardian, Willow. You must take her to Tir Asleen.
+WILLOW: What is Tir Asleen? It is a distant castle, where a great king and queen will look after Elora Danan and keep her safe until she is old enough to rule.
 CHERLINDREA: It is a distant castle, where a great king and queen will look after Elora Danan and keep her safe until she is old enough to rule.
-WILLOW: Where is Tir Asleen?  How far is it?
-CHERLINDREA: The way has been lost in time. But there is one person, a druid sor- ceress, who might guide you there. She was exiled by Queen Bavmorda many years ago.  Her name is Fin Raziel.
+WILLOW: Where is Tir Asleen? How far is
+CHERLINDREA: The way has been lost in time. But there is one person, a druid sor- ceress, who might guide you there. She was exiled by Queen Bavmorda many years ago. Her name is Fin You need a warrior for this job. I'm nobody.
 WILLOW: You need a warrior for this job. I'm nobody.
 CHERLINDREA: You are very important, Willow.
-WILLOW: No I'm not.  Have you really looked at me? (jumps to his feet) I'm short!  Even for a Nelwyn!
-WILLOW: (continuing) Why can't you do it?  You have mag- ical powers.
-CHERLINDREA: My prsence cannot extend beyond this forest.  But I can give you these...
-CHERLINDREA: They will protect you.  Use them wisely.
+WILLOW: No I'm not. Have you really looked at me? I'm short! Even for a Nelwyn! Why can't you do it? You have mag- ical powers.
+WILLOW: ( continuing )
+CHERLINDREA: My prsence cannot extend beyond this forest. But I can give you
+CHERLINDREA: They will protect you. Use them
 WILLOW: They look like acorns.
-CHERLINDREA: Anything you hurl them at will turn to stone.
-WILLOW: They're magic?  Are you serious?
-CHERLINDREA: (sternly) I am very serious, Willow.  There is no time to lose.
-WILLOW: But I've got a family to think about!  They need me!
-WILLOW: Hello...?
-CHERLINDREA: Bavmord'a powers are growing like an evil plague.  Soon she will con- trol the lives of you children, your wife, your village...everyone.
+CHERLINDREA: Anything you hurl them at will turn to stone. They're magic? Are you serious? I am very serious, Willow. There is no time to lose.
+WILLOW: They're magic? Are you serious? I am very serious, Willow. There is no time to lose.
+CHERLINDREA: ( sternly )
+WILLOW: But I've got a family to think about! They need me!
+WILLOW: The queen's voice echoes the forest.
+CHERLINDREA: Bavmord'a powers are growing like an evil plague. Soon she will con- trol the lives of you children, your wife, your village.everyone.
 CHERLINDREA: The choice is yours.
-WILLOW: I'll do it.  Yes, I will, I'll do it!
+WILLOW: I'll do it. Yes, I will, I'll do
 WILLOW: But I only have one shoe.
-WILLOW: Wait till I tell my children. Stuff like this never happens in my village.
+WILLOW: Wait till I tell my children. Stuff like this never happens in my
 TEEMO: Hey, careful there!
-WILLOW: How do these work I wonder?  I got- ta save one to show the High Aldwin.
-ROOL: Look!  Death below!
-WILLOW: Daikinis...
-HORSEMEN: Hyaaaaahh!!
-WILLOW: Let's get out of here.  Shhh, don't cry, Elora.  Things can't get any worse than this...
+WILLOW: How do these work I wonder? I got- ta save one to show the High Look! Death below!
+ROOL: Look! Death below!
+WILLOW: They hear a CLANK behind them. Willow slowly turns around. There is movement in the trees. The hillside woods are full of Nockmaar HORSEMEN moving right up next to him. In the valley, the oupowered rebels are being forced up the hill toward them. Willow is suddenly standing under several large horses and black-armored minions. He is frozen in fear.
+HORSEMEN: Swords flash and the horseman charge! The brownies jump and run for their lives. Willow stumbles and spins as horse after horse thunders past him, nearly trampling him and the baby to death. The Nockmaar reinforcements descend upon the remaining rebels and crush them. Willow falls and quickly digs the baby out of the papoose. She is shrieking in ter- ror. He holds her tight and runs along the tree-line, following the brownies, while the bloody battle rages
+WILLOW: Let's get out of here. Shhh, don't cry, Elora. Things can't get any worse than this.
 TEEMO: I'm not going in there.
 ROOL: Me neither!
-WILLOW: Don't worry--I'm a sorcerer.  What could possibly happen?
+WILLOW: Don't worryI'm a sorcerer. What could possibly happen?
 WILLOW: Could you spare some milk for this poor hungry baby?
 BARMAID: Get outa here, Peck!
-PATRONS: A Peck!  Get him out!  Beat it, Peck!
+PATRONS: A Peck! Get him out! Beat it,
 WILLOW: I could use your help, boys.
-TEEMO'S VOICE: Willow?
+TEEMO'S VOICE: Willow slaps his pocket. Then stretches his arm out very, very slowly. And gets the pail and zips back under the stairs.
 WILLOW: This is not fun.
-WILLOW: Woah!
-WENCH: Hurry!  Hurry!
-THE OTHER WOMAN: (in a gruff voice) How do I look?
-WILLOW: You!!
+WILLOW: The plank gives way and Willow falls through the wall.
+WENCH: Hurry! Hurry!
+WILLOW: Where the hell did you come from?
 MADMARTIGAN: Where the hell did you come from?
-WILLOW: I trusted you...
+WILLOW: I trusted you.
 ROOL: Who's he?
 MADMARTIGAN: You're crawling with rodents.
 LLUG: Where is he!!
 WENCH: There's nobody here except me and my, um, cousin.
 MADMARTIGAN: How do you do.
-WILLOW: Hey!  Give me that baby!
-MADMARTIGAN: (high voice) These Pecks make terrible nurse- maids.
-WILLOW: Nursemaid?!
-MADMARTIGAN: (high voice) They get too excited.
+WILLOW: Hey! Give me that baby!
+MADMARTIGAN: ( high voice )
+WILLOW: Willow angrily jumps up and down, swiping at the baby.
+MADMARTIGAN: ( high voice )
 LLUG: Wanna breeeeeeed?
-WILLOW: (mischievously) Time to change her diaper.
+WILLOW: ( mischievously ) Time to change her diaper.
 MADMARTIGAN: Time to leave.
-SORSHA: You!  Are you the mother of that child?
-MADMARTIGAN: No. (looks at Llug; in a high voice) I mean yes.
+SORSHA: You! Are you the mother of that I mean yes.
+MADMARTIGAN: ( looks at Llug; in a high voice ) I mean yes.
 SORSHA: Let me see it.
-MADMARTIGAN: (high voice) I can't.
+MADMARTIGAN: ( high voice )
 SORSHA: Let me see it.
-WILLOW: No!  You can't!
-MADMARTIGAN: (high voice) I can't.
+WILLOW: No! You can't!
+MADMARTIGAN: ( high voice )
 SORSHA: Why not?
-MADMARTIGAN: (to Willow) Why not?
+MADMARTIGAN: ( to Willow )
 WILLOW: Because she's sick.
-MADMARTIGAN: (to Sorsha) Because she's sick.
+MADMARTIGAN: ( to Sorsha )
 SORSHA: Give it to me!
-MADMARTIGAN: (high voice) Gawd...you're...beautiful...
+MADMARTIGAN: ( high voice )
 SORSHA: You're not a woman.
 LLUG: Not a woman??!!
 SORSHA: After them!!
-WILLOW: Madmartigan!  Wait!
-WILLOW: We could've been killed, Madmarti- gan!
-WILLOW: Heeyah!  Heeyah!
+WILLOW: Madmartigan! Wait!
+WILLOW: We could've been killed, Madmarti-
+WILLOW: Heeyah! Heeyah!
 WILLOW: Oh no!
-DEATH: Bordak!!
-DEATH: Bordak!!
-WILLOW: Woah...woah...!
+DEATH: The dog snaps at the baby. Willow scurries under the wagon seat. The dog stands up on its hind feet.
+DEATH: It gets ready to attack. But WHACK! an overhanging tree branch hits it and Willow looks up from under the seat and sees the mangled dog twitching and dangling from the tree, rapidly disappearing in the distance. In the back, meanwhile, the minion draws a knife. Mad- martigan ducks out of his way, hanging onto a post at the edge of the tailgate. The minion comes after him. Suddenly the wagon wheel wobbles and the rim flies off. The jolt throws the minion off balance. Madmartigan kicks him. The minion hurtles off the taligate but holds on, dragged by the wagon. Rool and Teemo grab hold of a rope securing a large wooden keg. Together they yank it. Untying the keg and sending it tumbling off the back. The minion looks up in horror as the heavy keg crushes him. But the danger is far from over. The wagon rocks along with one wheel half-destroyed. Willow whips the reins and looks over his shoulder. Steam-rolling toward them is the war chariot! The Nockmaar CHARIOT DRIVER stands up and stuffs the reins in his mouth. He rasise his arm and begins to twirl a deadly weapon, a kind of bolo-blade, over his Madmartigan defends himself with a wooden wagon-post. The chariot driver hurls the whistling blade: CHONK! It lodges in the post. Madmartigan tugs. So does the chariot driver. Back and forth, the wagons smashing up each other. At last Madmartigan lets go of the post and the chariot driver is sent tumbling through the airl, over a cliff to his death.
+WILLOW: Willow tries to stop the horse. But the wheel col- lapses and he is thrown off into a ditch. The brownies dive overboard. Madmartigan jumps off and delibrerately sends the wagon up the road. He scrambles down into the ditch and lies flat beside Willow. Suddenly, hoofbeats thunder and Sorsha and the rest of her troops gallop past. Lying flat, Madmartigna raises his head and sees Sorsha's long flowing red hair.
 MADMARTIGAN: That girl is a vision.
 WILLOW: Where's the baby??
 MADMARTIGAN: I thought you had her!
-ROOL/TEEMO: Willow!!
-MADMARTIGAN: Now Willow, I know you're gonna blame me for this but it wasn't my fault...!
-WILLOW: Elora Danan!
+MADMARTIGAN: Now Willow, I know you're gonna blame me for this but it wasn't my Elora Danan! When I left the crossroads, I got ambushed by an elf!
+WILLOW: Elora Danan! When I left the crossroads, I got ambushed by an elf!
 MADMARTIGAN: When I left the crossroads, I got ambushed by an elf!
-WILLOW: Madmartigan!  You saved her life!
+WILLOW: Madmartigan! You saved her life!
 MADMARTIGAN: I did?
-MADMARTIGAN: I mean, of course I saved her life. She's almost my daughter, isn't she?
+MADMARTIGAN: I mean, of course I saved her life. She's almost my daughter, isn't
 WILLOW: Let's get out of here before they come back.
-TEEMO: Northeast is that way.  We've come west and south.  I think.
-ROOL: Watch it!  You're gonna set us on fire.
+TEEMO: Northeast is that way. We've come west and south. I think.
+ROOL: Watch it! You're gonna set us on Not a bad idea.
 MADMARTIGAN: Not a bad idea.
-MADMARTIGAN: So you're on your way to Tir Asleen, huh?  I hate to tell you this, Willow, but Tir Asleen dosn't exist.
-WILLOW: Yes it does.  The Fairy Queen told me.
-MADMARTIGAN: The Fairy Queen?  And the baby here's a princess?  And these two rodents are your guides?
-MADMARTIGAN: Yeah well...in the morning I think I'll be on my way.
+MADMARTIGAN: So you're on your way to Tir Asleen, huh? I hate to tell you this, Willow, but Tir Asleen dosn't Yes it does. The Fairy Queen told The Fairy Queen? And the baby here's a princess? And these two rodents are your guides?
+WILLOW: Yes it does. The Fairy Queen told The Fairy Queen? And the baby here's a princess? And these two rodents are your guides?
+MADMARTIGAN: The Fairy Queen? And the baby here's a princess? And these two rodents are your guides?
+MADMARTIGAN: Yeah well.in the morning I think I'll be on my way.
 WILLOW: Madmartigan, I need your help.
-MADMARTIGAN: My help?  A great magician like you?  You don't need any help.
+MADMARTIGAN: My help? A great magician like you? You don't need any help.
 WILLOW: But you're a great swordsman!
-WILLOW: (explodes) You're not a warrior, Madmartigan! A warrior wouldn't lie there and do nothing!
-WILLOW: We're in trouble!  You've seen the big army that's after us!  You're a fake!  You're a bum!  You're a-- you're a coward!!
+WILLOW: ( explodes )
+WILLOW: We're in trouble! You've seen the big army that's after us! You're a fake! You're a bum! You're a you're a coward!!
 MADMARTIGAN: What's with you, Peck?
-WILLOW: I miss my wife!  I miss my chil- dren!  My boy Ranon!  He's growing up so fast, he even helps me on the farm now!  And little Mims!  If you ever saw her sweet little face you'd melt Madmartigan, you'd melt! (sniffles) Or maybe you wouldn't.  You don't know anything about love.  You don't know anything about any- thing...
-MADMARTIGAN: I was in love once, Willow.  She had a hold on my heart.  I could barely function. (a pause) I was a great swordsman!  I was knighted!  I could have been king!
-WILLOW: You?
-MADMARTIGAN: Yeah me.  King!  But she betrayed me.  She robbed me of my dream.
-MADMARTIGAN: I'll never fall in love again...
-WILLOW: Madmartigan!  Madmartigan!
-MADMARTIGAN: Relax, Willow.  We're having fun.
-ROOL: That's it!  The sorceress lives there!
+WILLOW: I miss my wife! I miss my chil- dren! My boy Ranon! He's growing up so fast, he even helps me on the farm now! And little Mims! If you ever saw her sweet little face you'd melt Madmartigan, you'd Or maybe you wouldn't. You don't know anything about love. You don't know anything about any-
+MADMARTIGAN: I was in love once, Willow. She had a hold on my heart. I could barely function. I was a great swordsman! I was knighted! I could have been king!
+WILLOW: Yeah me. King! But she betrayed me. She robbed me of my dream.
+MADMARTIGAN: Yeah me. King! But she betrayed me. She robbed me of my dream.
+MADMARTIGAN: I'll never fall in love again.
+WILLOW: Madmartigan! Madmartigan!
+MADMARTIGAN: Relax, Willow. We're having fun.
+ROOL: That's it! The sorceress lives Are you sure?
 TEEMO: Are you sure?
-ROOL: (excited) Yes!  Raziel!  She lives out on that island!
-TEEMO: That tree dosn't look like gold to me.
-MADMARTIGAN: Gold!!
+ROOL: ( excited )
+TEEMO: That tree dosn't look like gold to
+MADMARTIGAN: Madmartigan rubs his chin with sudden interest.
 TEEMO: Its branches are supposed to be made of gold, solid gold.
 WILLOW: How are we going to get out there?
-MADMARTIGAN: We'll find a way, Willow.  Look over there--that looks like a village--maybe they've got a boat. Come on, what are you waiting for?
-MADMARTIGAN: Give me a hand here, Peck!
+MADMARTIGAN: We'll find a way, Willow. Look over therethat looks like a villagemaybe they've got a boat. Come on, what are you waiting for?
+MADMARTIGAN: Give me a hand here, Peck! What are you doing?
 BOY: What are you doing?
 MADMARTIGAN: It's nothing to do with you.
 WILLOW: We need to get out to that island.
 BOY: The island is cursed.
-WILLOW: We've traveled a long way.  We're looking for Fin Raziel.
+WILLOW: We've traveled a long way. We're looking for Fin Raziel.
 TEEMO: The sorceress.
-BOY: She's there.  But you can't go there.  The island is cursed.
-MADMARTIGAN: (no patience) Yeah?  Who cursed it?
-BOY: Queen Bavmorda.  Her powers govern the elements.
-MADMARTIGAN: Ahh, he's trying to protect the gold.  Come on, Willow.  Jump in.
+BOY: She's there. But you can't go there. The island is cursed.
+MADMARTIGAN: ( no patience )
+BOY: Queen Bavmorda. Her powers govern the elements.
+MADMARTIGAN: Ahh, he's trying to protect the gold. Come on, Willow. Jump in. What would the Fairy Queen say?
 WILLOW: What would the Fairy Queen say?
 ROOL: She's not here.
-TEEMO: (to Rool) Obviously.
-WILLOW: Without Raziel we'll never find Tir Asleen. (decision) We'd better go.
-WILLOW: Raziel?  Hello?  Fin Raziel?
-RAZIEL: Get away!  Get away!
-RAZIEL: You'll die!  You'll die!
-RAZIEL: Who are you!  Who are you!
-WILLOW: I'm Willow Ufgood.  I'm here to find Fin Raziel.
-RAZIEL: That's me!  Raziel!  Raziel!
-WILLOW: This can't be right.  This isn't a sorceress.  This is some kind of animal.
+TEEMO: ( to Rool ) ( decision )
+WILLOW: Without Raziel we'll never find Tir We'd better go.
+WILLOW: Raziel? Hello? Fin Raziel?
+RAZIEL: Get away! Get away!
+RAZIEL: You'll die! You'll die! Who are you! Who are you!
+RAZIEL: Who are you! Who are you!
+WILLOW: I'm Willow Ufgood. I'm here to find Fin Raziel.
+RAZIEL: That's me! Raziel! Raziel!
+WILLOW: This can't be right. This isn't a sorceress. This is some kind of Queen Bavmorda transformed her.
 TEEMO: Queen Bavmorda transformed her.
 RAZIEL: What do you want!
-WILLOW: We need your help.  To take this baby to Tir Asleen.  She's a prin- cess.
+WILLOW: We need your help. To take this baby to Tir Asleen. She's a prin-
 RAZIEL: Elora Danan!
-MADMARTIGAN: Rool!  Teemo!  You were right! This whole tree is made of gold!!
-RAZIEL: Fools!  You should never have come to this place!  We're all going to die!
-RAZIEL: We've got to get off this island right now.  Hurry!  The boat!  It's our only chance!
-WILLOW: Madmartigan!
-MADMARTIGAN: Wait!  Gold!  Gold!
-WILLOW: Help, Madmartigan!  The oar!
+MADMARTIGAN: Rool! Teemo! You were right! This whole tree is made of gold!!
+RAZIEL: Fools! You should never have come to this place! We're all going to
+RAZIEL: We've got to get off this island right now. Hurry! The boat! It's our only chance!
+WILLOW: Madmartigan is greedily breaking branches off the tree.
+MADMARTIGAN: Wait! Gold! Gold!
+WILLOW: Help, Madmartigan! The oar!
 MADMARTIGAN: My gold!
 RAZIEL: Kill him!
-WILLOW: No!
+WILLOW: Kill him!
 RAZIEL: Kill him!
-MADMARTIGAN: No!!  Help!!  Willow!!!
-MADMARTIGAN: Willow...you...you got...magic...! Wait...we could team up...!
-RAZIEL: Flee!  Flee!
-SORSHA: Raziel.  Did you think my mother would allow you to escape?
-SORSHA: This is what we're looking for.  It bears the markings.
-MADMARTIGAN: Don't worry, Willow.  If there's one thing I'm good at, it's charm- ing a woman...
-MADMARTIGAN: So.  Couldn't live without me, huh?
-SORSHA: Lose your skirt?  How embarassing.
+MADMARTIGAN: No!! Help!! Willow!!!
+MADMARTIGAN: Willow.you.you got.magic.! Wait.we could team up.!
+RAZIEL: Flee! Flee!
+SORSHA: Raziel. Did you think my mother would allow you to escape?
+SORSHA: This is what we're looking for. It bears the markings.
+MADMARTIGAN: Don't worry, Willow. If there's one thing I'm good at, it's charm- ing a woman.
+MADMARTIGAN: So. Couldn't live without me, huh?
+SORSHA: Lose your skirt? How embarassing.
 MADMARTIGAN: Still got what counts.
 SORSHA: Not for long.
-SORSHA: We'll join the column.  Bring them with us.
+SORSHA: We'll join the column. Bring them with us.
 TEEMO: We gotta follow them.
-ROOL: Us??  We'll never catch them.  Any- way, we're all done, Teemo.  Let's go home.
+ROOL: Us?? We'll never catch them. Any- way, we're all done, Teemo. Let's go home.
 TEEMO: Get back here, Rool!
-ROOL: Ouch!  Let go of me!
-WILLOW: I can't go on...
+ROOL: Ouch! Let go of me!
+WILLOW: I can't go on.
 MADMARTIGAN: Willow, why don't you use your mag- ic to get us out of here?
 RAZIEL: He's no magician.
 MADMARTIGAN: He turned that monster into stone!
 RAZIEL: Did you give that acorn its power?
-WILLOW: No.
-RAZIEL: A magician makes magic.  Any fool can use it.
+WILLOW: A magician makes magic. Any fool can use it.
+RAZIEL: A magician makes magic. Any fool can use it.
 MADMARTIGAN: Then you get us out of here.
-RAZIEL: I will!  But I need help!
-WILLOW: I'll help you...!
+RAZIEL: I will! But I need help!
+WILLOW: I'll help you.!
 MADMARTIGAN: I won't.
 RAZIEL: You must learn magic.
 WILLOW: That's all I ever wanted!
-RAZIEL: Then I will teach you.
-MADMARTIGAN: Nice horse...nice hair...real nice hair...I'd say you've got the most beautiful hair I've ever--
+RAZIEL: Then I will teach you. Nice horse.nice hair.real nice hair.I'd say you've got the most beautiful hair I've ever
+MADMARTIGAN: Nice horse.nice hair.real nice hair.I'd say you've got the most beautiful hair I've ever
 SORSHA: Wolff wants to boil you in oil.
 SORSHA: Don't tempt me.
 WILLOW: If you rest the baby on your shoulder, she'll stop crying.
-SORSHA: Shut up.
+SORSHA: Shut up. Mmmm, I love the smell of a woman.
 MADMARTIGAN: Mmmm, I love the smell of a woman.
-SORSHA: (angry threat) My step-father's going to tear you apart.
-MADMARTIGAN: I'm torn apart already.  I mean it! Under all that armor is a beautiful--
+SORSHA: ( angry threat )
+MADMARTIGAN: I'm torn apart already. I mean it! Under all that armor is a
 MADMARTIGAN: Who is that girl, anyway?
 RAZIEL: Sorsha, Queen Bavmorda's daughter.
 MADMARTIGAN: Forget that one, Madmartigan.
-RAZIEL: Willow.  To learn magic, first you must make your own philosopher's stone!
+RAZIEL: Willow. To learn magic, first you must make your own philosopher's What do I need for that?
 WILLOW: What do I need for that?
 RAZIEL: We must start with feathers, dung, and a lock of your hair.
-MADMARTIGAN: Now that's a woman...!
-RAZIEL: Keep working at it.  Forget all you know, or think you know.  A magician's power depends on disord- er of the mind.
+MADMARTIGAN: Now that's a woman.!
+RAZIEL: Keep working at it. Forget all you know, or think you know. A magician's power depends on disord- er of the mind.
 MADMARTIGAN: You got that one covered.
-WILLOW: I hope she's all right.  How much more do I have to do of this?
-RAZIEL: Till it's in a powder.  The energy exits within you...
-WILLOW: (reciting) I know, and the magician's goal is to find his true self.  But what's this got to do with it?
-RAZIEL: As below, so above.  You hold the univers, Willow, in your hand.
+WILLOW: I hope she's all right. How much more do I have to do of this?
+RAZIEL: Till it's in a powder. The energy exits within you.
+WILLOW: ( reciting )
+RAZIEL: As below, so above. You hold the univers, Willow, in your hand.
 MADMARTIGAN: I'm beginning to think you two deserve to be locked up.
-WILLOW: The universe is a living creature, like you and me, Madmartigan.
+WILLOW: The universe is a living creature, like you and me, Madmartigan. We're a tiny version of all that?
 MADMARTIGAN: We're a tiny version of all that?
 RAZIEL: As above, so below.
-WILLOW: I'm all finished.  Now what?
+WILLOW: I'm all finished. Now what?
 RAZIEL: Burn it to a fine ash.
 WILLOW: How am I gonna do that?
-RAZIEL: Patience.  Concentrate.  You will find a way.
-WILLOW: What's going on?
+RAZIEL: Patience. Concentrate. You will find a way.
+WILLOW: What's going on? Hurt him and you'll answer to me!
 MADMARTIGAN: Hurt him and you'll answer to me!
-SORSHA: This baby won't do what I say.  You seem to know what to do.  Here! Make it shut up.
+SORSHA: This baby won't do what I say. You seem to know what to do. Here! Make it shut up. She needs to be changed.
 WILLOW: She needs to be changed.
 SORSHA: I changed her already!
 WILLOW: She needs to be changed again.
-SORSHA: Who is that horrible friend of yours?
-WILLOW: (watching the fire) Madmartigan.
+SORSHA: Who is that horrible friend of Who is he?
+WILLOW: ( watching the fire ) Who is he?
 SORSHA: Who is he?
 WILLOW: I don't know much about him.
-SORSHA: He's very bold.  Do you really think my hair is beautiful?
-WILLOW: Uh, yes.  It's very nice hair.
+SORSHA: He's very bold. Do you really think my hair is beautiful?
+WILLOW: Uh, yes. It's very nice hair.
 WILLOW: She's hungry.
-SORSHA: I know she's hungry.  I tried to feed her but she wouldn't eat a thing.  I'm not a wet nurse.
-WILLOW: Here.  Hold her.
-SORSHA: I tried everything.  A spoon.  I poured milk into her mouth, she just spat it out.  I don't know what to do, I'm not a mother.
+SORSHA: I know she's hungry. I tried to feed her but she wouldn't eat a thing. I'm not a wet nurse.
+WILLOW: Here. Hold her. I tried everything. A spoon. I poured milk into her mouth, she just spat it out. I don't know what to do, I'm not a mother.
+SORSHA: I tried everything. A spoon. I poured milk into her mouth, she just spat it out. I don't know what to do, I'm not a mother.
 WILLOW: Sometimes she likes it heated.
 WILLOW: She's a good baby.
-WILLOW: I did it!  I got the ashes!
-RAZIEL: Good!  The first step is complete.
+WILLOW: I did it! I got the ashes!
+RAZIEL: Good! The first step is complete.
 MADMARTIGAN: Did she ask about me?
-WILLOW: Who?
-MADMARTIGAN: Come on, Peck, don't give me a hard time.  You were in her ten all night.  Did she say anything?
+WILLOW: Come on, Peck, don't give me a hard time. You were in her ten all night. Did she say anything?
+MADMARTIGAN: Come on, Peck, don't give me a hard time. You were in her ten all night. Did she say anything?
 WILLOW: She said lots of thing.s
-MADMARTIGAN: Willow!
+MADMARTIGAN: Willow grins. At last:
 WILLOW: She asked about you, Madmartigan.
 MADMARTIGAN: Well what did she say?
-SORSHA: Here.  You're going to need these where we're going.
+SORSHA: Here. You're going to need these where we're going.
 MADMARTIGAN: She's in love.
-WILLOW: You're crazy.  I think you're in love.
-RAZIEL: We don't have much time left!  Go on!  Go on!
-WILLOW: I must concetrate my imagination...to creat a new...reality!
+WILLOW: You're crazy. I think you're in
+RAZIEL: We don't have much time left! Go on! Go on!
+WILLOW: I must concetrate my imagination.to creat a What's the magician's weapon?
 RAZIEL: What's the magician's weapon?
-WILLOW: The limitless power of...
-RAZIEL: Your will!  Your will!  What else could it be?
-WILLOW: (frustrated) I can't remember all these things. What am I learning?
+WILLOW: The limitless power of.
+RAZIEL: Your will! Your will! What else could it be?
+WILLOW: ( frustrated )
 RAZIEL: The art of transformation!
-WILLOW: (exasperated) But what am I gonna transform??
-RAZIEL: Me!
-WILLOW: You?
+WILLOW: ( exasperated )
+RAZIEL: Willow and Madmartigan stare at Raziel.
+WILLOW: What are you gonna become, Raziel? Queen of the rodents?
 MADMARTIGAN: What are you gonna become, Raziel? Queen of the rodents?
-SORSHA: The baby's cold.  Take her.
-RAZIEL: You remind me of your father, Sor- sha.
+SORSHA: The baby's cold. Take her. You remind me of your father, Sor- My father was a weakling.
+RAZIEL: You remind me of your father, Sor- My father was a weakling.
 SORSHA: My father was a weakling.
-RAZIEL: He was a great king. (Madmartigan reacts) Not like your step-father, not like your mother.  He ruled Tir Asleen with kindness, and a generous heart.
+RAZIEL: He was a great king. Not like your step-father, not like your mother. He ruled Tir Asleen with kindness, and a generous My mother calls that weakness.
 SORSHA: My mother calls that weakness.
 MADMARTIGAN: What do you call it?
 SORSHA: I do what I'm told.
@@ -530,236 +525,237 @@ MADMARTIGAN: Too bad you're not more like your father.
 SORSHA: Be careful.
 KAEL: Don't tell me what to do.
 MADMARTIGAN: We gotta get the baby out of here.
-RAZIEL: Tonight!  Complete the philosopher's stone!  I must be turned back!
-WILLOW: I'll do it, Raziel...
-RAZIEL: Let it settle.  Carefully, slowly. Concentration and will.  Now pour the water off.
+RAZIEL: Tonight! Complete the philosopher's stone! I must be turned back!
+WILLOW: I'll do it, Raziel.
+RAZIEL: Let it settle. Carefully, slowly. Concentration and will. Now pour the water off.
 WILLOW: Oooh, this smells terrible.
-RAZIEL: That's the life spark.  Exxence of magic and sorcery!
-WILLOW: Ouch!!
-RAZIEL: Shhhhh!
+RAZIEL: That's the life spark. Exxence of magic and sorcery!
+WILLOW: They look out nervously at patrolling Nockmaar sol- diers. Willow sucks the back of his hand.
+RAZIEL: They look out nervously at patrolling Nockmaar sol- diers. Willow sucks the back of his hand.
 WILLOW: What'd you bit me for!!
-RAZIEL: We need blood.  To nourish the stone.  charge the stone with ener- gy.
-RAZIEL: The components of the stone are fusing...
-RAZIEL: Again:  what is the magician's weapon?
+RAZIEL: We need blood. To nourish the stone. charge the stone with ener-
+RAZIEL: The components of the stone are
+RAZIEL: Again: what is the magician's His will.
 WILLOW: His will.
-RAZIEL: Now use it.
+RAZIEL: Now use it. I just wanted to test it first.
 WILLOW: I just wanted to test it first.
-RAZIEL: No!  Change me back into a sor- ceress, Willow.
-WILLOW: Avaggdu, supriom, luwatha...
+RAZIEL: No! Change me back into a sor- ceress, Willow.
+WILLOW: Avaggdu, supriom, luwatha.
 WILLOW: What did I do?
-MADMARTIGAN: Not bad, Peck.  I'm impressed.  You busted the lock.
-WILLOW: Madmartigan.  Let's go.  Let's get Eloran Danan.
+MADMARTIGAN: Not bad, Peck. I'm impressed. You busted the lock. Madmartigan. Let's go. Let's get Eloran Danan.
+WILLOW: Madmartigan. Let's go. Let's get Eloran Danan.
 MADMARTIGAN: Let's get Elora Danan.
-RAZIEL: Wait!  What about me!
-MADMARTIGAN: You're a magician, Willow.  But I'm a thief.  Wait here.  I'll get the baby.
-RAZIEL: I'm supposed to be a beautiful wo= man.
-WILLOW: (whispers) Come on, Madmartigan...!
-WILLOW: What are you doing?  Get out of there...!
+RAZIEL: Wait! What about me!
+MADMARTIGAN: You're a magician, Willow. But I'm a thief. Wait here. I'll get the I'm supposed to be a beautiful wo=
+RAZIEL: I'm supposed to be a beautiful wo=
+WILLOW: ( whispers )
+WILLOW: What are you doing? Get out of I love you.
 MADMARTIGAN: I love you.
-SORSHA: One move, and you really will be a woman.
-SORSHA: You're a fool.  Now put her back.
+SORSHA: One move, and you really will be a
+SORSHA: You're a fool. Now put her back.
 MADMARTIGAN: I'm not going to let this baby die.
-SORSHA: Don't make me kill you.
-MADMARTIGAN: I believe you would...
+SORSHA: Don't make me kill you. I believe you would.
+MADMARTIGAN: I believe you would.
 SORSHA: Why did you say that?
 MADMARTIGAN: Say what?
 SORSHA: I love you.
 MADMARTIGAN: Because it's true.
 SORSHA: I don't believe you.
-MADMARTIGAN: I wish it weren't true.  I swore I'd never let this happen.  I hate you.  I hate your beauty, I hate your innocence, I hate the feelings you've awakened in me.
-MADMARTIGAN: I'm in love with you, Sorsha.  I don't want to be, but a power has enchanted me and I stand helpless against it.  It's torture.  Battle- field or prison cell was never half as cruel.
-MADMARTIGAN: I want you and I can't have you so I want you all the more.  If this were another time and another place I'd--
+MADMARTIGAN: I wish it weren't true. I swore I'd never let this happen. I hate you. I hate your beauty, I hate your innocence, I hate the feelings you've awakened in me.
+MADMARTIGAN: I'm in love with you, Sorsha. I don't want to be, but a power has enchanted me and I stand helpless against it. It's torture. Battle- field or prison cell was never half as cruel. I want you and I can't have you so I want you all the more. If this were another time and another place
+MADMARTIGAN: I want you and I can't have you so I want you all the more. If this were another time and another place
 SORSHA: You'd what?
 KAEL: What's going on here!!
-SORSHA: Deceiver!!
-MADMARTIGAN: Whoops!
-MADMARTIGAN: Willow!  Jump on the shiled!
-KAEL: Bowmen!  Horses!  After them!
-MADMARTIGAN: Sorsha!  I didn't betray you.  I love you!
+SORSHA: Kael hurls Willow across the tent and tosses the baby in the straw. Growling horribly he lunges at Madmarti- gan. Madmartigan rolls away and sees Sorsha's sword nearby. Grabs it. As Kael draws his sword, Madmarti- gan artfully slices away the center pole, and the en- tie tent collapses.
+MADMARTIGAN: He slips on the ice and catches himself. Nearby a shield skids off along the snow.
+MADMARTIGAN: Willow! Jump on the shiled!
+KAEL: Bowmen! Horses! After them!
+MADMARTIGAN: Sorsha! I didn't betray you. I love you!
 KAEL: Kill them!!
-WILLOW: Nooo!!!
-MADMARTIGAN: Willow!  Willow!  Are you all right?
+WILLOW: Willow shuts his eyes. the shield speeds toward the wall. At the last moment Madmartigan steers them into a small opening, little more than a crack. Raziel, nearly smashing into the wall herself, soars up into the sky and loses them.
+MADMARTIGAN: Willow! Willow! Are you all
 VILLAGER: King Kael!
 ANOTHER VILLAGER: Nockmaar troops!
-MADMARTIGAN: (to villagers) Help us.
-AIRK: Madmartigan.  Settled down with a family huh?
+MADMARTIGAN: ( to villagers )
+AIRK: Madmartigan. Settled down with a family huh?
 MADMARTIGAN: You left me to die, friend.
 AIRK: You managed alright.
 MADMARTIGAN: Is this what's left of your army?
 OFFICER: Keep that baby quiet.
-KAEL: Where is it!  Tell us or we'll burn your village!  Sorsha!
+KAEL: Where is it! Tell us or we'll burn your village! Sorsha!
 OFFICER: Kill her.
 MADMARTIGAN: You'll draw the others.
-AIRK: It's you they're after, Madmarti- gan.  What did you do this time?
-MADMARTIGAN: They're not after me.  They want the baby.
+AIRK: It's you they're after, Madmarti- gan. What did you do this time?
+MADMARTIGAN: They're not after me. They want the baby.
 AIRK: Who is this baby?
 WILLOW: The princess, Elora Danan.
 PEOPLE: The prophecy has come true.
-AIRK: Give her to us.  We'll protect her.
-RAZIEL: Not safe!  Not safe!
+AIRK: Give her to us. We'll protect her.
+RAZIEL: Not safe! Not safe!
 WILLOW: We're taking her to Tir Asleen. She'll be safe there from Bavmorda's powers.
-AIRK: Tir Asleen is a myth.  It doesn't exist.
-RAZIEL: It does!  It does!  I will show you!
-AIRK: You gonna be a hero, Madmartigan? I've lost half my men fighting Kael, and Bavmorda, and the Nock- maar army.  Now you and this Peck, and that magpie up in the rafters, are gonna take 'em on alone?
-MADMARTIGAN: (challenging) Then come with us.
-AIRK: The war is here!  In towns and vil- lages like this!
+AIRK: Tir Asleen is a myth. It doesn't It does! It does! I will show
+RAZIEL: It does! It does! I will show
+AIRK: You gonna be a hero, Madmartigan? I've lost half my men fighting Kael, and Bavmorda, and the Nock- maar army. Now you and this Peck, and that magpie up in the rafters, are gonna take 'em on alone?
+MADMARTIGAN: ( challenging )
+AIRK: The war is here! In towns and vil- lages like this!
 AIRK: You're chasing a dream.
 MADMARTIGAN: Just get me some horses.
 MADMARTIGAN: Once again, Airk, we say goodbye.
 AIRK: One day one of us willl stand on the other's grave.
-RAZIEL: Nockmaar!  Nockmaar!
-RAZIEL: This way!  The cave!
-WILLOW: Madmartigan!  I can't stand being in closed-in places.
+RAZIEL: Nockmaar! Nockmaar!
+RAZIEL: This way! The cave! Madmartigan! I can't stand being in closed-in places.
+WILLOW: Madmartigan! I can't stand being in closed-in places.
 MADMARTIGAN: Want me to carry Elora?
-WILLOW: I'm used to her.  How's she doing?
+WILLOW: I'm used to her. How's she doing?
 MADMARTIGAN: She's doing a lot better than we are, Peck.
-MADMARTIGAN: Willow...this may be a bad time to ask this question but...what if Raziel's wrong?
-WILLOW: She can't be wrong.  She's a very very very powerful sorceress.
+MADMARTIGAN: Willow.this may be a bad time to ask this question but.what if Raziel's wrong?
+WILLOW: She can't be wrong. She's a very very very powerful sorceress.
 MADMARTIGAN: She's a bird, Willow.
-WILLOW: That's my fault, not hers.  I've got to keep practicing.  I'm still in the learning stage but magic, Madmartigan, requires concentration and--
+WILLOW: That's my fault, not hers. I've got to keep practicing. I'm still in the learning stage but magic, Madmartigan, requires concentration Watch it!
 MADMARTIGAN: Watch it!
-WILLOW: Ahhh!
+WILLOW: Madmartigan lunges and grabs Willow just as he is about to fall into the lava pit. He hauls him to safety. They gasp with relief. Then they head deeper into the cave. They stop. They hear something. Something Then, something moves on the wall.
 WILLOW: I hate this.
-MADMARTIGAN: Go, Willow!  Run!  Run!
-MADMARTIGAN: Willow!  Willow!
+MADMARTIGAN: Go, Willow! Run! Run! Willow! Willow!
+MADMARTIGAN: Willow! Willow!
 KAEL: Go after them!
-MADMARTIGAN: Hurry, Willow!  Throw it!
+MADMARTIGAN: Hurry, Willow! Throw it!
 RAZIEL: Look out!
 KAEL: After them!!
 RAZIEL: Tir Asleen.
 WILLOW: There's nobody here.
-RAZIEL: The Knights of the Pacalcade.  The king's bravest warriors.
+RAZIEL: The Knights of the Pacalcade. The king's bravest warriors.
 RAZIEL: Turn them back, Willow!
-WILLOW: How??
-RAZIEL: Use the philosopher's stone!  Hur- ry!  Invocation!  Release them!
+WILLOW: Use the philosopher's stone! Hur- ry! Invocation! Release them!
+RAZIEL: Use the philosopher's stone! Hur- ry! Invocation! Release them!
 WILLOW: Beings within, beings without! Danu danu walkail funfawtha!
-WILLOW: I did it!  Madmartigan!  Come here! Look!  You gotta see this!  I did it!
-RAZIEL: More!  More!
-KAEL: Assault!  Scale the walls!
+WILLOW: I did it! Madmartigan! Come here! Look! You gotta see this! I did More! More!
+RAZIEL: More! More!
+KAEL: Assault! Scale the walls!
 WILLOW: Tuatha tuatha danu!
-WILLOW: Raziel!  I transformed them all! I'm a magician!
-RAZIEL: You didn't transform them, Willow, you released them.  That was noth- ing.  Now change me.
+WILLOW: Raziel! I transformed them all! I'm a magician!
+RAZIEL: You didn't transform them, Willow, you released them. That was noth- ing. Now change me.
 WILLOW: I feel like I could do anything!
 KNIGHT: It belonged to our king.
-WILLOW: Capture the enery...limitless power of the will...avvdachh doth indicht rredd baerkinhaekin!
-WILLOW: Raziel?  Is that you?  Oh-oh.  What happened?
+WILLOW: Capture the enery.limitless power of the will.avvdachh doth indicht rredd baerkinhaekin!
+WILLOW: Raziel? Is that you? Oh-oh. What
 RAZIEL: I hate this.
-KAEL: Attack!!
-MADMARTIGAN: Sorsha.
-SORSHA: Madmartigan.
+KAEL: Kael and Sorsha gallop into the castle with otehr Nock- maar horsemen, while Madmartigan continues to battle attackers on the castle wall.
+MADMARTIGAN: He props himself up on his elbows and smiles.
+SORSHA: He props himself up on his elbows and smiles.
 MADMARTIGAN: Whose side are you on?
-SORSHA: Yours.
-MINION: Arrrggghhh!
+SORSHA: They look into each other's eyes. They go to embrace.
+MINION: Out of nowhere a Nockmaar minion attacks them, his sword flashing over his head. Sorhsa hardly moves. She simply dusts him off the wall with her sword. She turns back to Madmartigan.
 SORSHA: I love you.
-KAEL: Sorsha!!
-KAEL: Bordak!
+KAEL: He sees Sorsha and Madmartigan coming down the wall, fighting Nockmaar troops. Kael holds up his great hand. In it he holds the baby.
+KAEL: Kael waves his men after Sorsha and Madmartigan.
 KAEL: Kill them both!
-KAEL: Troops!  To Nockmaar!  Ride with me!
-WILLOW: I'm sorry.  There were too many of them.
+KAEL: Troops! To Nockmaar! Ride with
+WILLOW: I'm sorry. There were too many of
 MADMARTIGAN: Out for a little ride in the coun- try, Airk?
-AIRK: Thought you might get lonely, Mad- martigan!
+AIRK: Thought you might get lonely, Mad-
 MADMARTIGAN: Thank you, friend.
 AIRK: Let's go.
-MADMARTIGAN: Sorsha!  Any way in there?
-SORSHA: No.  The fortress is protected on all sides.
-AIRK: Make camp!  We'll assault at dawn.
-BAVMORDA: Kael!
-KAEL: Queen Bavmorda.  I have the child.
+MADMARTIGAN: Sorsha! Any way in there?
+SORSHA: No. The fortress is protected on all sides.
+AIRK: Make camp! We'll assault at dawn.
+BAVMORDA: Carved in the floor is a MAGICIAN's CIRCLE, and in the very middle of this is a sacrificial altar made of shining copper. Bavmorda stands over the altar, wear- ing black robes. Behind her stand two decrepit DRUIDS. Kael bows.
+KAEL: Queen Bavmorda. I have the child.
 BAVMORDA: We must start the ritual!
 BAVMORDA: Who is that?
 KAEL: An army of rebels and traitors.
 BAVMORDA: Where is Sorsha?
 KAEL: She has turned against you.
-BAVMORDA: Purify the altar!  Arrange the im- plements!  I'll deal with Sorsha!
+BAVMORDA: Purify the altar! Arrange the im- plements! I'll deal with Sorsha!
 BAVMORDA: This is not an army!
-RAZIEL: Willow!  Get out of here!  Quick! Hide!
-RAZIEL: Get down!  The ritual chant! Quick!  Protect yourself!
-WILLOW: Why?
+RAZIEL: Willow! Get out of here! Quick!
+RAZIEL: Get down! The ritual chant! Quick! Protect yourself!
+WILLOW: Just do it!
 RAZIEL: Just do it!
-MADMARTIGAN: We've come for Elora Danan!  Turn her over to us!
-BAVMORDA: You dare to challenge me?  You are not warriors.  You're pigs!
+MADMARTIGAN: We've come for Elora Danan! Turn her over to us!
+BAVMORDA: You dare to challenge me? You are not warriors. You're pigs!
 BAVMORDA: You're all pigs!
-SORSHA: Mother!  No!!
-BAVMORDA: You made your decision!
-BAVMORDA: Begin the ritual.  Now!  Light the first candle.
-BAVMORDA: Come, thunder.  Come lightning. Touch this altar with your pwer. Come into my tower...
-BAVMORDA: Dark runes, dark powers!  Blend and bind, bind and blend, Universal night!  And the might of Nockmaar!
-RAZIEL: It's over, Willow.  You did well. You protected yourself.
+SORSHA: Mother! No!!
+BAVMORDA: You made your decision! Begin the ritual. Now! Light the first candle.
+BAVMORDA: Begin the ritual. Now! Light the first candle.
+BAVMORDA: Come, thunder. Come lightning. Touch this altar with your pwer. Come into my tower.
+BAVMORDA: Dark runes, dark powers! Blend and bind, bind and blend, Universal night! And the might of Nockmaar!
+RAZIEL: It's over, Willow. You did well. You protected yourself.
 WILLOW: I've come all this way and now Elora Dana's going to die!
-RAZIEL: No!  I can still defeat Bavmorda!
+RAZIEL: No! I can still defeat Bavmorda!
 WILLOW: She's too powerful, Raziel
-RAZIEL: A true magician, Willow, never surrenders.  She is a sorceress--I am a sorceress!  Transform me now and I will destroy her!  Hexagram!
-WILLOW: Banish all disturbing forces from this place.  Fire, water, above and below.  Balance.  Balance.  Bal- ance.
-RAZIEL: (voice distorted) Don't give up!  Willow!
-WILLOW: Raziel!
-RAZIEL: We've got a lot of work to do, Wil- low.  Bring in our brave men.
+RAZIEL: A true magician, Willow, never surrenders. She is a sorceressI am a sorceress! Transform me now and I will destroy her! Hexagram!
+WILLOW: Banish all disturbing forces from this place. Fire, water, above and below. Balance. Balance. Bal- Don't give up! Willow!
+RAZIEL: ( voice distorted ) Don't give up! Willow!
+WILLOW: She looks down at her old hands. Then her eyes focus with purpose.
+RAZIEL: We've got a lot of work to do, Wil- low. Bring in our brave men.
 BAVMORDA: Black fire forever kindled within, Let the second right begin!
 AIRK: Uphill with our rough weapons, we'll never make it!
 SORSHA: Elora Danan will die!
 RAZIEL: By dawn, upon thirteen tolls of the runic drum!
-WARRIOR: Bavmorda is too powerful.  We need more forces.  I say we retreat!
-RAZIEL: Bavmorda cannot transform you. I've protected this camp with a spell.
+WARRIOR: Bavmorda is too powerful. We need more forces. I say we retreat!
+RAZIEL: Bavmorda cannot transform you. I've protected this camp with a Can you use your magic to get our men into the fortress, Raziel?
 MADMARTIGAN: Can you use your magic to get our men into the fortress, Raziel?
 RAZIEL: Bavmorda has shielded it with a spell of her own.
-WILLOW: Wait!!
-WILLOW: I have an idea.  Back in my village we catch a lot of hedgehogs.
-MADMARTIGAN: Willow, this is war, not agricul- ture!
-WILLOW: I know, I know!  But this is a way to get into that castle...
+WILLOW: Willow jumps to his feet. They all turn to him.
+WILLOW: I have an idea. Back in my village we catch a lot of hedgehogs.
+MADMARTIGAN: Willow, this is war, not agricul- I know, I know! But this is a way to get into that castle.
+WILLOW: I know, I know! But this is a way to get into that castle.
 AIRK: It's too much work.
 WARRIOR: It can't be done.
 SORSHA: Kael will never fall for it.
-MADMARTIGAN: (doubtful) I don't know, Willow.
-WILLOW: Madmartigan, you promised me you'd take care of Elora Danan like your own daughter.  She is all that matters.  Are you going to abandon her?
-AIRK: Come on, Madmartigan.  you gonna listen to a Peck?  You and I are warriors.  You know this plan will never work.
+MADMARTIGAN: ( doubtful )
+WILLOW: Madmartigan, you promised me you'd take care of Elora Danan like your own daughter. She is all that matters. Are you going to abandon
+AIRK: Come on, Madmartigan. you gonna listen to a Peck? You and I are warriors. You know this plan will never work. We'll probably die here, Sorsha.
 MADMARTIGAN: We'll probably die here, Sorsha.
 SORSHA: I have no family.
-RAZIEL: If we do not fight, and the baby dies, all hope for the future is lost.  I shall face the danger alone if I have to.
+RAZIEL: If we do not fight, and the baby dies, all hope for the future is lost. I shall face the danger alone if I have to.
 WILLOW: Me, too.
-MADMARTIGAN: Time is running out.  We must now decide who's going to leave and who is going to stay...
+MADMARTIGAN: Time is running out. We must now decide who's going to leave and who is going to stay.
 BAVMORDA: Ocht veth nockkthirth bordak!
 RAZIEL: Time is running out.
-WILLOW: Surrender!!
-WILLOW: We are all-powerful magicians! Give us the baby or we will destroy you!!
+WILLOW: Nockmaar soldiers peer down and laugh. Willow and Ra- ziel trek closer to the castle wall. Willow cups his The Nockmaar soldiers roar with laughter.
+WILLOW: We are all-powerful magicians! Give us the baby or we will destroy
 KAEL: Kill them!
 RAZIEL: Patience, Willow.
 WILLOW: Courage, Willow.
 AIRK: Let's squah 'em!
-SORSHA: No, Willow!!
+SORSHA: No, Willow!! I will face my mother alone.
 SORSHA: I will face my mother alone.
-BAVMORDA: Sorsha!!
+BAVMORDA: Sorsha recoils in horror. Bavmorda looks barely human: she has transformed into a grotesque witch. She waves her gnarled hand and her druids attack Sorsha. Sorsha kills them. The baby lies under a deathlike spell on the copper altar.
 SORSHA: I won't let you kill her!
-BAVMORDA: You are a weakling.  Like you fa- ther!  Can you not see that I am about to become all-powerful!
-SORSHA: No!!
-BAVMORDA: Raziel...!!
-RAZIEL: The baby will be queen.  It has been foretold, Bavmorda.
-BAVMORDA: My ritual will kill the prophecy! Now the child dies with it, its en- ergy exiled into oblivion! (lightning flashes) You see?  I hold the power of the universe!
+BAVMORDA: You are a weakling. Like you fa- ther! Can you not see that I am about to become all-powerful!
+SORSHA: Pulsating light lifts Sorsha, levitates her across the room, and drives her toward a wall of spikes. Just as she is about to be implaes, another force stops her. Bavmorda can sense the source of it:
+BAVMORDA: The door flies open. The twelve burning candles all blow out. There stands Raziel. Sorsha falls to the floor, unconscious. Raziel raises her arms magnifi- cently. The sorceresses face each other.
+RAZIEL: The baby will be queen. It has been foretold, Bavmorda.
+BAVMORDA: My ritual will kill the prophecy! Now the child dies with it, its en- ergy exiled into oblivion! You see? I hold the power of the Not until your ritual is complete!
 RAZIEL: Not until your ritual is complete!
-BAVMORDA: And who will stop me?  The elements are slaves to my command!
-RAZIEL: There is no one who can match your sorcery.  Except me!
-MADMARTIGAN: Airk!!
-MADMARTIGAN: Airk!  Airk!
-MADMARTIGAN: Madmartigan...you're a brave warrior...a true friend...a good man...
+BAVMORDA: And who will stop me? The elements are slaves to my command!
+RAZIEL: There is no one who can match your sorcery. Except me!
+MADMARTIGAN: Airk falls down the stairs. Madmartigan finishes off the swordsmen, then runs to him, grabs his bleeding
+MADMARTIGAN: Airk! Airk!
+MADMARTIGAN: Madmartigan.you're a brave warrior.a true friend.a good We're gonna win this war, Airk.
 MADMARTIGAN: We're gonna win this war, Airk.
-BAVMORDA: As above, so below!  Universe of evil, Raziel!  It conquers even you!
-BAVMORDA: Stop!  Bring back that child!!!
+BAVMORDA: As above, so below! Universe of evil, Raziel! It conquers even
+BAVMORDA: Stop! Bring back that child!!!
 BAVMORDA: Who are you?
-WILLOW: I'm Willow Ufgood.  I'm a magician.
+WILLOW: I'm Willow Ufgood. I'm a magician.
 WILLOW: I'm a great magician.
 BAVMORDA: Is that the extent of your power?
 BAVMORDA: Place it on the altar.
-WILLOW: No.  You can't have her.
+WILLOW: No. You can't have her.
 BAVMORDA: By ritual, by sorcery, I well draw the lightning and send this child into the destructive realm.
-WILLOW: And with my magic I'll send her into the...into the...
+WILLOW: And with my magic I'll send her into the.into the.
 BAVMORDA: You're no magician.
 WILLOW: Into the good.
-BAVMORDA: Even I don't have the power to do that.  You're a fraud.
-BAVMORDA: Impossible!  Bordak!  Bordak!
-BAVMORDA: Aaaaahhhh!!!
-RAZIEL: Willow...Willow...how...how did you do that?
+BAVMORDA: Even I don't have the power to do that. You're a fraud.
+BAVMORDA: Impossible! Bordak! Bordak!
+BAVMORDA: A bright fork of lightning, conjured by her own evil, shoots in through the ceiling and strikes her. She howls in pain. Her body contorts then bursts into flame and burns into a shriveling pillar of ash. Madmartigan breaks open the door and stomrs in. He scoops up Sorsha, reviving her with a kiss. And as if Bavmorda's death has ended evil and oppres- sion, Raziel stands up with renewed strength.
+RAZIEL: Willow.Willow.how.how did you do that?
 WILLOW: It was just the old disappearing pig trick.
-RAZIEL: Willow Ufgood.  Take this Book of Sorcery.  You are on your way to becoming a great magician.
-WILLOW: Your dream has come true, madmarti- gan.
+RAZIEL: Willow Ufgood. Take this Book of Sorcery. You are on your way to becoming a great magician.
+WILLOW: Your dream has come true, madmarti-
 MADMARTIGAN: Goodbye, Peck.
 WILLOW: Farewell, Elora Danan.
-KIAYA: Willow!!
-WILLOW: Kiaya!!
+KIAYA: Willow stands up in his stirrups. He sees Kiaya fight- ing her way through the crowd to reach him.
+WILLOW: He jumps off his pony and runs to her. They collide, kiss and embrace. Then Ranon and Mims jump on their father and hug him. Family and friends smother their homecoming hero with love!
+THE END: Writers : George Lucas Bob Dolman
