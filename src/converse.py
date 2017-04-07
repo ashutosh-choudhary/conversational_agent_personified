@@ -134,7 +134,7 @@ def train(session, model, train_data):
 	"""
 
 	train_set, dev_set, train_bucket_sizes, train_total_size, train_buckets_scale = train_data
-
+	vocab_dict, reverse_vocab = data_utils.initialize_vocabulary(VOCAB_PATH)
 	
 	step_time, loss = 0.0, 0.0
 	current_step = 0
@@ -187,6 +187,13 @@ def train(session, model, train_data):
 
 	return model
 
+def softmax(scores):
+
+	scores -= max(scores)
+	scores = np.exp(scores)
+	scores /= np.sum(scores)
+	return scores
+
 def test(session, model, sentence):
 
 	"""
@@ -218,7 +225,11 @@ def test(session, model, sentence):
 	_, _, output_logits = model.step(session, encoder_inputs, decoder_inputs,
 	                           target_weights, bucket_id, True)
 	# This is a greedy decoder - outputs are just argmaxes of output_logits.
-	outputs = [int(np.argmax(logit, axis=1)) for logit in output_logits]
+	# outputs = [int(np.argmax(logit, axis=1)) for logit in output_logits]
+	# print len(output_logits)
+	# print output_logits[0][0,:].shape
+	outputs = [int(np.random.choice(logit.shape[1], 1, p=softmax(logit[0,:]))) for logit in output_logits]
+
 	# If there is an EOS symbol in outputs, cut them at that point.
 	if data_utils.EOS_ID in outputs:
 		outputs = outputs[:outputs.index(data_utils.EOS_ID)]
