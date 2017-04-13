@@ -2,3 +2,5 @@
 ~*
 .DS_Store
 glove*
+res/osdb
+res/imsdb
