@@ -1,0 +1,13 @@
+EMBED_SIZE = 200
+STEPS_PER_CHECKPOINT = 200
+DATA_DIR = '../data/res/'
+QUES_TRAIN_FILE = '../res/train_ques.txt'
+ANS_TRAIN_FILE = '../res/train_ans.txt'
+QUES_DEV_FILE = '../res/val_ques.txt'
+ANS_DEV_FILE = '../res/val_ans.txt'
+MODELS_DIR = '../models/'
+BUCKETS = [(5, 10), (10, 15), (20, 25), (40, 50)]
+VOCAB_PATH = '../res/filtered_vocab.txt'
+V = len(open(VOCAB_PATH).readlines())
+VOCAB = []
+MAX_TRAIN_SIZE = 0

@@ -320,3 +320,47 @@ def prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev
   return (from_train_ids_path, to_train_ids_path,
           from_dev_ids_path, to_dev_ids_path,
           from_vocab_path, to_vocab_path)
+
+def custom_prepare_data(data_dir, from_train_path, to_train_path, from_dev_path, to_dev_path, vocab_size, vocab_path, tokenizer=None):
+  """Preapre all necessary files that are required for the training.
+
+    Args:
+      data_dir: directory in which the data sets will be stored.
+      from_train_path: path to the file that includes "from" training samples.
+      to_train_path: path to the file that includes "to" training samples.
+      from_dev_path: path to the file that includes "from" dev samples.
+      to_dev_path: path to the file that includes "to" dev samples.
+      from_vocabulary_size: size of the "from language" vocabulary to create and use.
+      to_vocabulary_size: size of the "to language" vocabulary to create and use.
+      tokenizer: a function to use to tokenize each data sentence;
+        if None, basic_tokenizer will be used.
+
+    Returns:
+      A tuple of 6 elements:
+        (1) path to the token-ids for "from language" training data-set,
+        (2) path to the token-ids for "to language" training data-set,
+        (3) path to the token-ids for "from language" development data-set,
+        (4) path to the token-ids for "to language" development data-set,
+        (5) path to the "from language" vocabulary file,
+        (6) path to the "to language" vocabulary file.
+    """
+  # Create vocabularies of the appropriate sizes.
+  # to_vocab_path = os.path.join(data_dir, "vocab%d.to" % to_vocabulary_size)
+  # from_vocab_path = os.path.join(data_dir, "vocab%d.from" % from_vocabulary_size)
+  # create_vocabulary(to_vocab_path, to_train_path , to_vocabulary_size, tokenizer)
+  # create_vocabulary(from_vocab_path, from_train_path , from_vocabulary_size, tokenizer)
+
+  # Create token ids for the training data.
+  to_train_ids_path = to_train_path + (".ids%d" % vocab_size)
+  from_train_ids_path = from_train_path + (".ids%d" % vocab_size)
+  data_to_token_ids(to_train_path, to_train_ids_path, vocab_path, tokenizer)
+  data_to_token_ids(from_train_path, from_train_ids_path, vocab_path, tokenizer)
+
+  # Create token ids for the development data.
+  to_dev_ids_path = to_dev_path + (".ids%d" % vocab_size)
+  from_dev_ids_path = from_dev_path + (".ids%d" % vocab_size)
+  data_to_token_ids(to_dev_path, to_dev_ids_path, vocab_path, tokenizer)
+  data_to_token_ids(from_dev_path, from_dev_ids_path, vocab_path, tokenizer)
+
+  return (from_train_ids_path, to_train_ids_path,
+          from_dev_ids_path, to_dev_ids_path, vocab_path)

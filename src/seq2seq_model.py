@@ -20,7 +20,7 @@ import random
 import numpy as np
 # from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
-
+import cPickle as pickle
 import data_utils
 import legacy_seq2seq
 from tensorflow.python.ops import variable_scope
@@ -53,6 +53,7 @@ class Seq2SeqModel(object):
                use_lstm=False,
                num_samples=512,
                forward_only=False,
+               embed_size=200,
                dtype=tf.float32):
     """Create the model.
 
@@ -92,6 +93,7 @@ class Seq2SeqModel(object):
     softmax_loss_function = None
     # Sampled softmax only makes sense if we sample less than vocabulary size.
     if num_samples > 0 and num_samples < self.target_vocab_size:
+      print self.target_vocab_size, size
       w_t = tf.get_variable("proj_w", [self.target_vocab_size, size], dtype=dtype)
       w = tf.transpose(w_t)
       b = tf.get_variable("proj_b", [self.target_vocab_size], dtype=dtype)
@@ -124,12 +126,13 @@ class Seq2SeqModel(object):
     cell = single_cell()
     if num_layers > 1:
       cell = tf.contrib.rnn.MultiRNNCell([single_cell() for _ in range(num_layers)])
-
-    embeddings_matrix = np.random.rand(source_vocab_size, 400)
+    # embed_size = 400
+    # embeddings_matrix = np.random.rand(source_vocab_size, embed_size)
+    embeddings_matrix = pickle.load(open('../res/embed_weights.pkl'))
     # Create a scope wrapper for embedding weight matrix
     with variable_scope.variable_scope("embedding_attention_seq2seq") as scope: 
       embedding = variable_scope.get_variable("embedding",
-                                            [source_vocab_size, 400],
+                                            [source_vocab_size, embed_size],
                                             initializer=tf.constant_initializer(np.array(embeddings_matrix)),
                                             trainable=False)
       scope.reuse_variables()
