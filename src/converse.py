@@ -86,6 +86,7 @@ def create_model(session, conf={}):
 		use_lstm=conf['use_lstm'],
 		forward_only=conf['test'],
 		embed_size=EMBED_SIZE,
+		num_samples=NUM_SAMPLES,
 		dtype=dtype)
 
 	ckpt = tf.train.get_checkpoint_state(MODELS_DIR)
@@ -156,6 +157,7 @@ def train(session, model, train_data, max_iter=10000):
 		train_set, bucket_id)
 		_, step_loss, _ = model.step(session, encoder_inputs, decoder_inputs,
 		                       target_weights, bucket_id, False)
+
 		step_time += (time.time() - start_time) / STEPS_PER_CHECKPOINT
 		loss += step_loss / STEPS_PER_CHECKPOINT
 		current_step += 1
@@ -169,6 +171,9 @@ def train(session, model, train_data, max_iter=10000):
 			# Decrease learning rate if no improvement was seen over last 3 times.
 			if len(previous_losses) > 2 and loss > max(previous_losses[-3:]):
 				session.run(model.learning_rate_decay_op)
+			# with tf.name_scope('summaries'):
+			tf.summary.scalar('Training loss', loss)
+
 			previous_losses.append(loss)
 			train_ppx.append(perplexity)
 			# Save checkpoint and zero timer and loss.
@@ -186,7 +191,9 @@ def train(session, model, train_data, max_iter=10000):
 				_, el, _ = model.step(session, encoder_inputs, decoder_inputs,
 				                           target_weights, bucket_id, True)
 				eval_loss += el
-			eval_loss /= 4.
+			eval_loss /= len(BUCKETS) * 1.
+			# with tf.name_scope('summaries'):
+			tf.summary.scalar('Validation loss', eval_loss)
 			validation_losses.append(eval_loss)
 			eval_ppx = math.exp(float(eval_loss)) if eval_loss < 300 else float(
 			  "inf")

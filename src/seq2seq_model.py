@@ -93,7 +93,6 @@ class Seq2SeqModel(object):
     softmax_loss_function = None
     # Sampled softmax only makes sense if we sample less than vocabulary size.
     if num_samples > 0 and num_samples < self.target_vocab_size:
-      print self.target_vocab_size, size
       w_t = tf.get_variable("proj_w", [self.target_vocab_size, size], dtype=dtype)
       w = tf.transpose(w_t)
       b = tf.get_variable("proj_b", [self.target_vocab_size], dtype=dtype)
@@ -278,7 +277,8 @@ class Seq2SeqModel(object):
       return None, outputs[0], outputs[1:]  # No gradient norm, loss, outputs.
 
   def get_batch(self, data, bucket_id):
-    """Get a random batch of data from the specified bucket, prepare for step.
+    """
+    Get a random batch of data from the specified bucket, prepare for step.
 
     To feed data in step(..) it must be a list of batch-major vectors, while
     data here contains single length-major cases. So the main logic of this
