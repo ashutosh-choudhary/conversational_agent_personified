@@ -119,19 +119,26 @@ class Decoder(object):
 			self.decoder_outputs = tf.placeholder(tf.float32, [None, max_length], name='dec_outputs')
 
 			# Creating embeddings if needed
-			if self.embedding:
-				#Create embedding lookup function for the entire batch
-				self.embed_inputs = []
-				for t in xrange(max_length):
-					decoder_inp = self.decoder_inputs[:, t]
-					self.embed_inputs.append(tf.cast(tf.nn.embedding_lookup(params=self.embedding, ids=decoder_inp), tf.float64)) 
-				# Transpose the time axis so we have shape NxTxD tensor
-				self.embed_inputs = tf.transpose(tf.stack(self.embed_inputs), perm=[1,0,2])
-			else:
-				self.embed_inputs = tf.cast(self.decoder_inputs, tf.float64)
-				# Need to reshape to work with dynamic_rnn input
-				self.embed_inputs = tf.reshape(self.embed_inputs, [-1, max_length, 1])
-				embed_size = 1
+			def get_embed_input(decoder_inputs, tsteps):
+				if self.embedding:
+					#Create embedding lookup function for the entire batch
+					embed_inputs = []
+					for t in xrange(tsteps):
+						decoder_inp = decoder_inputs[:, t]
+						embed_inputs.append(tf.cast(tf.nn.embedding_lookup(params=self.embedding, ids=decoder_inp), tf.float64)) 
+					# Transpose the time axis so we have shape NxTxD tensor
+					embed_inputs = tf.transpose(tf.stack(embed_inputs), perm=[1,0,2])
+				else:
+					embed_inputs = tf.cast(decoder_inputs, tf.float64)
+					# Need to reshape to work with dynamic_rnn input
+					embed_inputs = tf.reshape(embed_inputs, [-1, tsteps, 1])
+					embed_size = 1
+
+				return embed_inputs
+
+			# Just embed the input accordingly
+			# Given a N x T input, produce a N x T x D output
+			self.embed_inputs = get_embed_input(self.decoder_inputs, max_length)
 
 			batch_size = tf.shape(self.embed_inputs)[0]
 
@@ -171,9 +178,13 @@ class Decoder(object):
 			# Training the network based on the output of decoder
 			self.outputs = []
 			losses = []
-			
+			def create_output(hstate):
+				# Create the output for a single timestep
+				return tf.matmul(hstate, self.w_out) + self.b_out
+				
+
 			for t in xrange(max_length):
-				output = tf.matmul(self.dec_states[:, t, :], self.w_out) + self.b_out
+				output = create_output(self.decoder_inputs[:, t, :])
 				# Need to convert this to probabilities
 
 				loss = tf.nn.sampled_softmax_loss(tf.cast(tf.transpose(self.w_out), tf.float32),
@@ -195,8 +206,37 @@ class Decoder(object):
 			losses = losses * tf.cast(mask, tf.float32)
 			self.total_avg_loss = tf.cast(tf.reduce_sum(losses), tf.float64) / tf.reduce_sum(tf.cast(self.decoder_lengths, tf.float64))
 
-			# TODO: Functions that perform beam_decode and greed_decode have to be defined here
 
+
+			# TODO: Functions that perform beam_decode and greedy_decode have to be defined here
+			def greedy_decode(time, cell_output, cell_state, loop_state):
+				emit_output = cell_output  # == None for time == 0
+				if cell_output is None:  # time == 0
+					next_cell_state = self.cell.zero_state(batch_size, tf.float64)
+				else:
+					next_cell_state = cell_state
+				elements_finished = (time >= self.decoder_lengths) # check which all batches finished processing input
+				finished = tf.reduce_all(elements_finished)
+				# This condition ensures that based on the input_length decoding is done.
+				next_input = tf.cond(
+								finished, # if all the inputs in the batch are over
+								lambda: tf.zeros([batch_size, embed_size + encoder_size], dtype=tf.float64), # when we are all done return 0 state
+								lambda: last_state(next_cell_state, get_embed_input(tf.argmax(create_output(next_cell_state[0])), 1))) #  concatenate input vector to the input
+				next_loop_state = None
+				return (elements_finished, next_input, next_cell_state,
+						emit_output, next_loop_state)
+			test_outputs_ta, test_final_state, _ = tf.nn.raw_rnn(self.cell, greedy_decode)
+			self.test_dec_states = outputs_ta.stack()
+			self.test_outputs = []
+			for t in xrange(max_length):
+				out = create_output(self.test_dec_states[:, t, :])
+
+				# Convert this into probabilities
+				out = out - tf.max(out)
+				out = tf.exp(out)
+				out /= tf.sum(out, axis=1)
+				self.test_outputs.append(out)
+			self.test_outputs = tf.stack(self.test_outputs)
 
 	def train_step(self, session, dec_inputs, dec_lengths, dec_outputs):
 
@@ -206,6 +246,12 @@ class Decoder(object):
 
 		loss, _ = session.run([self.total_avg_loss, train_step], feed_dict)
 		return loss
+
+	def test_step(self, session, dec_inputs):
+
+		feed_dict = {self.decoder_inputs: dec_inputs}
+
+		return session.run(self.test_outputs, feed_dict)
 	
 
 # Function returns the correct cell based on cell type

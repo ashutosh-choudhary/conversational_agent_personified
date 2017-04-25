@@ -38,10 +38,12 @@ class Seq2Seq(object):
 									embed_size, dec_layers, dec_max_length, self.encoder.embedding, cell_type)
 
 			self.loss = self.decoder.total_avg_loss
-
+			tf.summary.scalar('loss', loss)
 			# Either get all trainable variables here and apply the gradient or directly optimize the loss
 			opt = tf.train.AdamOptimizer() # Use default hyperparams for now
 			train_step = opt.minimize(self.loss)
+
+			self.summary_op = tf.summary.merge_all()
 
 	def train_step(self, session):
 
