@@ -5,6 +5,7 @@ from torch.autograd import Variable
 from torch import optim
 import torch.nn.functional as F
 import utils
+# import tensorflow as tf
 
 class EncoderRNN(nn.Module):
     def __init__(self, lang, hidden_size, emb_dims):
@@ -53,15 +54,21 @@ class DecoderRNN(nn.Module):
 class Seq2Seq(object):
     # Does not work on batches yet, just works on a single question and answer
 
-    def __init__(self, lang, enc_size, dec_size, emb_dims, max_length, learning_rate):
+    def __init__(self, lang, enc_size, dec_size, emb_dims, max_length, learning_rate, reload_model=False):
 
-        self.encoder = EncoderRNN(lang, enc_size, emb_dims)
-        self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, self.encoder.embedding)
+        if reload_model:
+            self.encoder = torch.load(open('../models/encoder.pth'))
+            self.decoder = torch.load(open('../models/decoder.pth'))        
+        else:
+            self.encoder = EncoderRNN(lang, enc_size, emb_dims)
+            self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, self.encoder.embedding)
+
         self.max_length = max_length
         self.encoder_optimizer = optim.SGD(self.encoder.parameters(), lr=learning_rate)
         self.decoder_optimizer = optim.SGD(self.decoder.parameters(), lr=learning_rate)
         self.lang = lang
         self.criterion = nn.NLLLoss()
+        # self.summary_op = tf.summary.merge_all()
 
     def forward(self, pair, train=True):
 
@@ -105,6 +112,9 @@ class Seq2Seq(object):
                 	break
                 decoder_input = Variable(cuda.LongTensor([[ind]]), requires_grad=False)
             	response.append(self.lang.index2word[ind])
+        
+        # tf.summary.scalar('loss', loss)
+
         
         # Step back
         if train is True:

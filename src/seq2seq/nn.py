@@ -184,7 +184,7 @@ class Decoder(object):
 				
 
 			for t in xrange(max_length):
-				output = create_output(self.decoder_inputs[:, t, :])
+				output = create_output(self.dec_states[:, t, :])
 				# Need to convert this to probabilities
 
 				loss = tf.nn.sampled_softmax_loss(tf.cast(tf.transpose(self.w_out), tf.float32),
@@ -207,6 +207,14 @@ class Decoder(object):
 			self.total_avg_loss = tf.cast(tf.reduce_sum(losses), tf.float64) / tf.reduce_sum(tf.cast(self.decoder_lengths, tf.float64))
 
 
+			def create_greedy_input(next_cell_state):
+
+				
+				output = create_output(next_cell_state[0])
+				output_label = tf.argmax(output)
+				embed_inp = get_embed_input(output_label)
+				# last_state(next_cell_state, get_embed_input(tf.argmax(create_output(next_cell_state[0])), 1))
+				return last_state(next_cell_state, embed_inp)
 
 			# TODO: Functions that perform beam_decode and greedy_decode have to be defined here
 			def greedy_decode(time, cell_output, cell_state, loop_state):
@@ -221,7 +229,7 @@ class Decoder(object):
 				next_input = tf.cond(
 								finished, # if all the inputs in the batch are over
 								lambda: tf.zeros([batch_size, embed_size + encoder_size], dtype=tf.float64), # when we are all done return 0 state
-								lambda: last_state(next_cell_state, get_embed_input(tf.argmax(create_output(next_cell_state[0])), 1))) #  concatenate input vector to the input
+								lambda: create_greedy_input(next_cell_state)) #  concatenate input vector to the input
 				next_loop_state = None
 				return (elements_finished, next_input, next_cell_state,
 						emit_output, next_loop_state)
