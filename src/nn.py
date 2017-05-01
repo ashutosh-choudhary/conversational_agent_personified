@@ -73,18 +73,24 @@ class AttentionDecoder(nn.Module):
         self.softmax = nn.LogSoftmax()
 
         self.a_layer = torch.nn.Softmax()
-        self.r_layer = torch.nn.Linear(self.context_size, D_size).cuda() # here second context size is D
+        self.r_layer = torch.nn.Linear(hidden_size, D_size).cuda() # here second context size is D
         self.u_layer = torch.nn.Linear(D_size, 1).cuda() # here context size is D
         
     def forward(self, input, hidden, encoder_states, wf_mat, p1, p2):
         
         output = self.embedding(input).view(1, -1)
 
-        r_t = self.r_layer(hidden) # D x 1
-        tanh = F.tanh(wf_mat + r_t) # D x f
+        r_t = torch.t(self.r_layer(hidden[0][0])) # D x 1 get the hidden state of the first element in the batch
+        # print "r", r_t.size()
+        # print "w_f", wf_mat.size()
+        tanh = F.tanh(wf_mat.add(r_t.expand_as(wf_mat))) # D x f
+        # print "tanh", tanh.size()
         u_t = self.u_layer(torch.t(tanh)) # f x 1
+        # print "u", u_t.size()
         a_t = self.a_layer(u_t) # f x 1
+        # print "a:", a_t.size()
         context = torch.mm(torch.t(a_t), encoder_states) # 1 x H
+        # print "context", context.size()
 
         items = [output, context.view(1, -1)]
 
@@ -120,7 +126,7 @@ class Seq2Seq(object):
 
             if attention is True:
                 self.D_size = self.encoder.hidden_size
-                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, emb_dims, persona_size, self.D_size, self.encoder.embedding)
+                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, persona_size, self.D_size, emb_dims, self.encoder.embedding)
             else:
                 self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, persona_size, self.encoder.embedding)
 
@@ -163,8 +169,6 @@ class Seq2Seq(object):
 
         input_length = input_variable.size()[0]
         target_length = target_variable.size()[0]
-        
-
 
         loss = 0
         if self.attention is True:
