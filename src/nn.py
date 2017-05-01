@@ -59,7 +59,7 @@ class DecoderRNN(nn.Module):
                Variable(cuda.FloatTensor(1, 1, self.hidden_size).zero_()))
 
 class AttentionDecoder(nn.Module):
-    def __init__(self, lang, max_length, hidden_size, context_size, persona_size, emb_dims, embedding):
+    def __init__(self, lang, max_length, hidden_size, context_size, persona_size, D_size, emb_dims, embedding):
         super(AttentionDecoder, self).__init__()
         self.emb_dims = emb_dims
         self.max_length = max_length
@@ -72,18 +72,19 @@ class AttentionDecoder(nn.Module):
         self.out = nn.Linear(hidden_size, lang.n_words).cuda()
         self.softmax = nn.LogSoftmax()
 
-        self.r_layer = torch.nn.Linear(hidden_size, max_length).cuda()
-        self.u_layer = torch.nn.Linear(max_length, 1).cuda()
         self.a_layer = torch.nn.Softmax()
+        self.r_layer = torch.nn.Linear(self.context_size, D_size).cuda() # here second context size is D
+        self.u_layer = torch.nn.Linear(D_size, 1).cuda() # here context size is D
         
     def forward(self, input, hidden, encoder_states, wf_mat, p1, p2):
+        
         output = self.embedding(input).view(1, -1)
 
-        r_t = self.r_layer(wf_mat)
-        tanh = F.tanh(wf_mat + r_t)
-        u_t = self.u_layer(tanh)
-        a_t = self.a_layer(u_t)
-        context = torch.mm(encoder_states, a_t)
+        r_t = self.r_layer(hidden) # D x 1
+        tanh = F.tanh(wf_mat + r_t) # D x f
+        u_t = self.u_layer(torch.t(tanh)) # f x 1
+        a_t = self.a_layer(u_t) # f x 1
+        context = torch.mm(torch.t(a_t), encoder_states) # 1 x H
 
         items = [output, context.view(1, -1)]
 
@@ -118,7 +119,8 @@ class Seq2Seq(object):
             self.encoder = EncoderRNN(lang, enc_size, emb_dims)
 
             if attention is True:
-                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, emb_dims, persona_size, self.encoder.embedding)
+                self.D_size = self.encoder.hidden_size
+                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, emb_dims, persona_size, self.D_size, self.encoder.embedding)
             else:
                 self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, persona_size, self.encoder.embedding)
 
@@ -127,7 +129,8 @@ class Seq2Seq(object):
         self.decoder_optimizer = optim.Adam(self.decoder.parameters(), lr=learning_rate)
         self.lang = lang
         if attention is True:
-            self.wf_layer = torch.nn.Linear(self.encoder.hidden_size, self.max_length).cuda()
+            
+            self.wf_layer = torch.nn.Linear(self.encoder.hidden_size, self.D_size).cuda()
         
         self.criterion = nn.NLLLoss() # Negative log loss
         # self.summary_op = tf.summary.merge_all()
@@ -165,7 +168,7 @@ class Seq2Seq(object):
 
         loss = 0
         if self.attention is True:
-            encoder_states = Variable(cuda.FloatTensor(self.max_length, self.encoder.hidden_size).zero_())
+            encoder_states = Variable(cuda.FloatTensor(input_length, self.encoder.hidden_size).zero_())
         # Encode the sentence
         for ei in range(input_length):
             encoder_output, encoder_hidden = self.encoder(input_variable[ei], encoder_hidden)
@@ -173,7 +176,7 @@ class Seq2Seq(object):
                 encoder_states[ei] = encoder_output[0][0] # First element in batch, only hidden state and not cell state
 
         if self.attention is True:
-            self.wf = self.wf_layer(encoder_states)
+            self.wf = torch.t(self.wf_layer(encoder_states)) # D x f
 
         # print torch.mean(encoder_output)
     	del input_variable
@@ -209,32 +212,10 @@ class Seq2Seq(object):
                 response.append(self.lang.index2word[ind])
 
             # This implementation of beam search is wrong, we need to predict and follow the pointers back.
+            # beam_size = 5
             # di = 0
-            # decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_output)
-            # This part of code performs beam decode
             # while di < self.max_length:
-            #     beam_size = 5
-            #     topv, topi = decoder_output.data.topk(beam_size)
-            #     ind = topi[0][0] % self.lang.n_words
-            #     if ind == utils.EOS_token:
-            #         di = self.max_length
-            #         break
-            #     response.append(self.lang.index2word[ind]) # Take the most probable word as next word
-            #     # Init empty decoder_output
-            #     decoder_output = Variable(cuda.FloatTensor(1, self.lang.n_words * beam_size).zero_(), requires_grad=False)
-            #     end_count = 0
-            #     # print "Next"
-            #     di += 1
-            #     for b in xrange(beam_size):
-            #         # If any of the indices in the top 5 is EOS, we stop immediately.
-            #         # do beam search on each of the indices and store the top five as the response
-            #         ind = topi[0][b] % self.lang.n_words
-            #         # print "ind:", b, self.lang.index2word[ind], np.exp(topv[0][b])
-            #         decoder_input = Variable(cuda.LongTensor([[ind]]), requires_grad=False)
-            #         dec_out, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_output)
-            #         del decoder_input
-            #         # append top beam values of dec_out to decoder_output
-            #         decoder_output[:, (b*self.lang.n_words):((b+1)*self.lang.n_words)] = dec_out[:, :]
+
 
                     
                 
