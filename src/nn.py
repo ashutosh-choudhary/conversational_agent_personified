@@ -9,54 +9,59 @@ import numpy as np
 # import tensorflow as tf
 
 class EncoderRNN(nn.Module):
-    def __init__(self, lang, hidden_size, emb_dims):
+    def __init__(self, lang, hidden_size, max_length, emb_dims):
         super(EncoderRNN, self).__init__()
         self.hidden_size = hidden_size
+        self.max_length = max_length
         self.emb_dims = emb_dims
         self.embedding = nn.Embedding(lang.n_words, emb_dims).cuda()
-        self.rnn = nn.LSTM(emb_dims, hidden_size).cuda()
+        self.rnn = nn.LSTM(emb_dims, hidden_size, batch_first=True).cuda()
         
     def forward(self, input, hidden):
         embedded = self.embedding(input)
-        embedded = embedded.view(1, 1, -1)
+        embedded = embedded.view(input.size()[0], self.max_length, -1)
         output = embedded
         output, hidden = self.rnn(output, hidden)
         return output, hidden
 
-    def initHidden(self):
-        return (Variable(cuda.FloatTensor(1, 1, self.hidden_size).zero_()),
-               Variable(cuda.FloatTensor(1, 1, self.hidden_size).zero_()))
+    def initHidden(self, batch_size):
+        return (Variable(cuda.FloatTensor(1, batch_size, self.hidden_size).zero_()),
+               Variable(cuda.FloatTensor(1, batch_size, self.hidden_size).zero_()))
 
 
 class DecoderRNN(nn.Module):
-    def __init__(self, lang, hidden_size, context_size, persona_size, emb_dims, embedding):
+    def __init__(self, lang, hidden_size, context_size, persona_size, emb_dims, max_length, embedding):
         super(DecoderRNN, self).__init__()
         self.emb_dims = emb_dims
         self.hidden_size = hidden_size
         self.context_size = context_size
+        self.max_length = max_length
         self.embedding = embedding
         if persona_size:
-            self.rnn = nn.LSTM(emb_dims + context_size + persona_size, hidden_size).cuda()
+            self.rnn = nn.LSTM(emb_dims + context_size + persona_size, hidden_size, batch_first=True).cuda()
         else:
-            self.rnn = nn.LSTM(emb_dims + context_size, hidden_size).cuda()
+            self.rnn = nn.LSTM(emb_dims + context_size, hidden_size, batch_first=True).cuda()
         self.out = nn.Linear(hidden_size, lang.n_words).cuda()
         self.softmax = nn.LogSoftmax()
         
     def forward(self, input, hidden, context, p1, p2):
-        output = self.embedding(input).view(1, -1)
-        items = [output, context.view(1, -1)]
+        output = self.embedding(input)
+        # output is N x T x D, need to concatenate with context which is N x H to produce N x T x (D + H)
+        items = [output, context.view(self.context_size)]
         if p1 is not None and p2 is not None:
             # Only speaker embedding for now
             items.append(p2.view(1, -1))
-        output = torch.cat(items, 1).view(1, 1, -1)
+        output = torch.cat(items, 1)#.view(1, 1, -1)
+        print output.size()
+
         output = F.relu(output)
         output, hidden = self.rnn(output, hidden)
         output = self.softmax(self.out(output[0]))
         return output, hidden
 
-    def initHidden(self):
-        return (Variable(cuda.FloatTensor(1, 1, self.hidden_size).zero_()),
-               Variable(cuda.FloatTensor(1, 1, self.hidden_size).zero_()))
+    def initHidden(self, batch_size):
+        return (Variable(cuda.FloatTensor(1, batch_size, self.hidden_size).zero_()),
+               Variable(cuda.FloatTensor(1, batch_size, self.hidden_size).zero_()))
 
 class AttentionDecoder(nn.Module):
     def __init__(self, lang, max_length, hidden_size, context_size, persona_size, D_size, emb_dims, embedding):
@@ -66,9 +71,9 @@ class AttentionDecoder(nn.Module):
         self.hidden_size = hidden_size
         self.embedding = embedding
         if persona_size:
-            self.rnn = nn.LSTM(emb_dims + context_size + persona_size, hidden_size).cuda()
+            self.rnn = nn.LSTM(emb_dims + context_size + persona_size, hidden_size, batch_first=True).cuda()
         else:
-            self.rnn = nn.LSTM(emb_dims + context_size, hidden_size).cuda()
+            self.rnn = nn.LSTM(emb_dims + context_size, hidden_size, batch_first=True).cuda()
         self.out = nn.Linear(hidden_size, lang.n_words).cuda()
         self.softmax = nn.LogSoftmax()
 
@@ -122,13 +127,13 @@ class Seq2Seq(object):
             self.encoder = torch.load(open('../models/encoder.pth'))
             self.decoder = torch.load(open('../models/decoder.pth'))        
         else:
-            self.encoder = EncoderRNN(lang, enc_size, emb_dims)
+            self.encoder = EncoderRNN(lang, enc_size, max_length, emb_dims)
 
             if attention is True:
                 self.D_size = self.encoder.hidden_size
                 self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, persona_size, self.D_size, emb_dims, self.encoder.embedding)
             else:
-                self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, persona_size, self.encoder.embedding)
+                self.decoder = DecoderRNN(lang, dec_size, enc_size, emb_dims, persona_size, max_length, self.encoder.embedding)
 
         self.max_length = max_length
         self.encoder_optimizer = optim.Adam(self.encoder.parameters(), lr=learning_rate)
@@ -146,60 +151,84 @@ class Seq2Seq(object):
         torch.save(self.encoder, '../models/encoder.pth')
         torch.save(self.decoder, '../models/decoder.pth')
 
-    def forward(self, pair, train=True):
+    def forward(self, batch_pairs, train=True):
+
+        N = len(batch_pairs)
 
         # pair = tuple of (question, answer)
         if self.persona is True:
-            (persona1, input_variable, persona2, target_variable) = utils.variablesFromPairPersona(self.lang, pair)
+            (persona1, input_variable, input_length, persona2, target_variable, target_length) = utils.variablesFromPairPersona(self.lang, pair)
             p1 = self.persona_embedding(persona1).view(1, -1)
             p2 = self.persona_embedding(persona2).view(1, -1)
-        else:    
-            (input_variable, target_variable) = utils.variablesFromPair(self.lang, pair)
+        else:
+            input_batch = Variable(cuda.LongTensor(N, self.max_length).zero_(), requires_grad=False)
+            target_batch = Variable(cuda.LongTensor(N, self.max_length + 1).zero_(), requires_grad=False) # start with SOS token
+            input_batch_len = []
+            target_batch_len = []
+            for i in xrange(N):    
+                (input_variable, input_length, target_variable, target_length) = utils.variablesFromPair(self.lang, batch_pairs[i])
+                input_batch[i] = input_variable
+                target_batch[i] = target_variable
+                input_batch_len.append(input_length)
+                target_batch_len.append(target_length)
+            input_batch_len = cuda.LongTensor(input_batch_len)
+            target_batch_len = cuda.LongTensor(target_batch_len)
             p1 = None
             p2 = None
 
         if train is False:
             print input_variable
 
-        encoder_hidden = self.encoder.initHidden()
-        decoder_hidden = self.decoder.initHidden()
+        encoder_hidden = self.encoder.initHidden(N)
+        decoder_hidden = self.decoder.initHidden(N)
 
         self.encoder_optimizer.zero_grad()
         self.decoder_optimizer.zero_grad()
 
-        input_length = input_variable.size()[0]
-        target_length = target_variable.size()[0]
+        # input_length = input_variable.size()[0]
+        # target_length = target_variable.size()[0]
 
         loss = 0
         if self.attention is True:
             encoder_states = Variable(cuda.FloatTensor(input_length, self.encoder.hidden_size).zero_())
+        
         # Encode the sentence
-        for ei in range(input_length):
-            encoder_output, encoder_hidden = self.encoder(input_variable[ei], encoder_hidden)
-            if self.attention is True:
-                encoder_states[ei] = encoder_output[0][0] # First element in batch, only hidden state and not cell state
+        # for ei in range(input_length):
+        #     encoder_output, encoder_hidden = self.encoder(input_variable[ei], encoder_hidden)
+            # if self.attention is True:
+            #     encoder_states[ei] = encoder_output[0][0] # First element in batch, only hidden state and not cell state
+        # print encoder_hidden[0].size(), input_batch.size()
 
-        if self.attention is True:
-            self.wf = torch.t(self.wf_layer(encoder_states)) # D x f
+        encoder_output, encoder_hidden = self.encoder(input_batch, encoder_hidden)
+
+        encoder_hidden_states = Variable(cuda.FloatTensor(N, self.encoder.hidden_size).zero_())
+        for i in xrange(N):
+            encoder_hidden_states[i] = encoder_output[i, input_batch_len[i] - 1, :]
+
+        # if self.attention is True:
+        #     self.wf = torch.t(self.wf_layer(encoder_states)) # D x f
 
         # print torch.mean(encoder_output)
     	del input_variable
-        decoder_input = Variable(cuda.LongTensor([[utils.SOS_token]]), requires_grad=False)
 
+        
         # Decode with start symbol as SOS
         response = []
         if train is True:
-            for di in xrange(self.max_length):
-                if self.attention is True:
-                    decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_states, self.wf, p1, p2)
-                else:
-                    decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_output[0][0], p1, p2)
-                # TODO change the loss to batch loss considering pad symbols
-            	if di == target_length:
-                	break
-                loss += self.criterion(decoder_output[0], target_variable[di])
-                decoder_input = target_variable[di] # Teacher forcing
-                ind = target_variable[di][0]
+            decoder_output, decoder_hidden = self.decoder(target_batch, decoder_hidden, encoder_hidden_states, p1, p2)
+
+            assert False
+            # for di in xrange(self.max_length):
+            #     if self.attention is True:
+            #         decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_states, self.wf, p1, p2)
+            #     else:
+            #         decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_output[0][0], p1, p2)
+            #     # TODO change the loss to batch loss considering pad symbols
+            # 	if di == target_length:
+            #     	break
+            #     loss += self.criterion(decoder_output[0], target_variable[di])
+            #     decoder_input = target_variable[di] # Teacher forcing
+            #     ind = target_variable[di][0]
         else:
             # greedy decode
             response = []

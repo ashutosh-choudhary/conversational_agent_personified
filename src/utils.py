@@ -9,19 +9,20 @@ from torch.autograd import Variable
 from torch import optim
 import torch.nn.functional as F
 
-SOS_token = 0
-EOS_token = 1
-UNK_token = 2
+PAD_token = 0
+SOS_token = 1
+EOS_token = 2
+UNK_token = 3
 MAX_LENGTH = 20
 
 class Lang:
     def __init__(self, name):
         self.name = name
-        self.word2index = {'SOS': 0, 'EOS': 1, 'UNK': 2}
+        self.word2index = {'PAD':PAD_token, 'SOS': SOS_token, 'EOS': EOS_token, 'UNK': UNK_token}
         self.word2count = {}
-        self.index2word = {0: "SOS", 1: "EOS", 2: 'UNK'}
+        self.index2word = {PAD_token:'PAD', SOS_token: "SOS", EOS_token: "EOS", UNK_token: 'UNK'}
         self.max_length = -1
-        self.n_words = 3 # Count SOS and EOS
+        self.n_words = 4 # Count SOS and EOS
       
     def addSentence(self, sentence):
         for word in sentence.split(' '):
@@ -122,19 +123,29 @@ def prepare_data(fname, persona=False):
 def indexesFromSentence(lang, sentence):
 #     return [lang.word2index[word] for word in sentence.split(' ')]
     indices = []
-    for i, word in enumerate(sentence.split()):
-        if i > lang.max_length:
-            break
-        if lang.word2count[word] <= 20:
-            word = 'UNK' # replace rare words with UNK
+    words = sentence.split()
+    sentence_length = len(words)
+    for i in xrange(lang.max_length):
+        if i < sentence_length:
+            word = words[i]
+            if lang.word2count[word] <= 20:
+                word = 'UNK' # replace rare words with UNK
+        else:
+            word = 'PAD'
         index = lang.word2index[word]
         indices.append(index)
-    return indices
 
-def variableFromSentence(lang, sentence):
-    indexes = indexesFromSentence(lang, sentence)
-    indexes.append(EOS_token)
-    return Variable(cuda.LongTensor(indexes).view(-1, 1), requires_grad=False)
+    if sentence_length > lang.max_length:
+        indices[lang.max_length - 1] = EOS_token
+    elif sentence_length <= lang.max_length:
+        indices[sentence_length - 1] = EOS_token
+    return indices, min(sentence_length + 1, lang.max_length)
+
+def variableFromSentence(lang, sentence, target=False):
+    indexes, length = indexesFromSentence(lang, sentence)
+    if target is True:
+        indexes.insert(0, SOS_token) # start with SOS token
+    return (Variable(cuda.LongTensor(indexes).view(-1, 1), requires_grad=False), length)
 
 def variableFromPersona(lang, persona):
     if lang.persona2count[persona] > 20:
@@ -144,9 +155,9 @@ def variableFromPersona(lang, persona):
     return Variable(cuda.LongTensor(indexes).view(-1, 1), requires_grad=False)
 
 def variablesFromPair(lang, pair):
-    input_variable = variableFromSentence(lang, pair[0])
-    target_variable = variableFromSentence(lang, pair[1])
-    return (input_variable, target_variable)
+    input_variable, input_length = variableFromSentence(lang, pair[0])
+    target_variable, target_length = variableFromSentence(lang, pair[1], target=True)
+    return (input_variable, input_length, target_variable, target_length)
 
 def variablesFromPairPersona(lang, pair):
     # create sentence pairs
