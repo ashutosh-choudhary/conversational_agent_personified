@@ -93,7 +93,6 @@ class Seq2SeqModel(object):
     softmax_loss_function = None
     # Sampled softmax only makes sense if we sample less than vocabulary size.
     if num_samples > 0 and num_samples < self.target_vocab_size:
-      print self.target_vocab_size, size
       w_t = tf.get_variable("proj_w", [self.target_vocab_size, size], dtype=dtype)
       w = tf.transpose(w_t)
       b = tf.get_variable("proj_b", [self.target_vocab_size], dtype=dtype)
@@ -130,7 +129,7 @@ class Seq2SeqModel(object):
     # embeddings_matrix = np.random.rand(source_vocab_size, embed_size)
     embeddings_matrix = pickle.load(open('../res/embed_weights.pkl'))
     # Create a scope wrapper for embedding weight matrix
-    with variable_scope.variable_scope("embedding_attention_seq2seq") as scope: 
+    with variable_scope.variable_scope("embedding_rnn_seq2seq") as scope: 
       embedding = variable_scope.get_variable("embedding",
                                             [source_vocab_size, embed_size],
                                             initializer=tf.constant_initializer(np.array(embeddings_matrix)),
@@ -140,6 +139,18 @@ class Seq2SeqModel(object):
     # The seq2seq function: we use embedding for the input and attention.
     def seq2seq_f(encoder_inputs, decoder_inputs, do_decode):
       return legacy_seq2seq.embedding_attention_seq2seq(
+          encoder_inputs,
+          decoder_inputs,
+          cell,
+          num_encoder_symbols=source_vocab_size,
+          num_decoder_symbols=target_vocab_size,
+          embedding_size=size,
+          output_projection=output_projection,
+          feed_previous=do_decode, #If feed_previos = False, training mode
+          dtype=dtype)
+
+    def seq2seq_no_attention(encoder_inputs, decoder_inputs, do_decode):
+      return legacy_seq2seq.embedding_rnn_seq2seq(
           encoder_inputs,
           decoder_inputs,
           cell,
@@ -266,7 +277,8 @@ class Seq2SeqModel(object):
       return None, outputs[0], outputs[1:]  # No gradient norm, loss, outputs.
 
   def get_batch(self, data, bucket_id):
-    """Get a random batch of data from the specified bucket, prepare for step.
+    """
+    Get a random batch of data from the specified bucket, prepare for step.
 
     To feed data in step(..) it must be a list of batch-major vectors, while
     data here contains single length-major cases. So the main logic of this

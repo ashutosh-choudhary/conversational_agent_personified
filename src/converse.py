@@ -86,6 +86,7 @@ def create_model(session, conf={}):
 		use_lstm=conf['use_lstm'],
 		forward_only=conf['test'],
 		embed_size=EMBED_SIZE,
+		num_samples=NUM_SAMPLES,
 		dtype=dtype)
 
 	ckpt = tf.train.get_checkpoint_state(MODELS_DIR)
@@ -124,7 +125,7 @@ def prepare():
 
 	return [train_set, dev_set, train_bucket_sizes, train_total_size, train_buckets_scale]
 
-def train(session, model, train_data):
+def train(session, model, train_data, max_iter=10000):
 
 	"""
 		train = [ques_train, ans_train]
@@ -139,8 +140,11 @@ def train(session, model, train_data):
 	step_time, loss = 0.0, 0.0
 	current_step = 0
 	previous_losses = []
+	validation_losses = []
+	train_ppx = []
+	val_ppx = []
 
-	while True:
+	for itr in xrange(max_iter):
 		# Choose a bucket according to data distribution. We pick a random number
 		# in [0, 1] and use the corresponding interval in train_buckets_scale.
 		random_number_01 = np.random.random_sample()
@@ -153,6 +157,7 @@ def train(session, model, train_data):
 		train_set, bucket_id)
 		_, step_loss, _ = model.step(session, encoder_inputs, decoder_inputs,
 		                       target_weights, bucket_id, False)
+
 		step_time += (time.time() - start_time) / STEPS_PER_CHECKPOINT
 		loss += step_loss / STEPS_PER_CHECKPOINT
 		current_step += 1
@@ -160,32 +165,44 @@ def train(session, model, train_data):
 		if current_step % STEPS_PER_CHECKPOINT == 0:
 			print "Testing the model"
 			perplexity = math.exp(float(loss)) if loss < 300 else float("inf")
-			print ("global step %d learning rate %.4f step-time %.2f perplexity "
-					"%.2f" % (model.global_step.eval(), model.learning_rate.eval(),
-							step_time, perplexity))
+			# print ("global step %d learning rate %.4f step-time %.2f perplexity "
+			# 		"%.2f" % (model.global_step.eval(), model.learning_rate.eval(),
+			# 				step_time, perplexity))
 			# Decrease learning rate if no improvement was seen over last 3 times.
 			if len(previous_losses) > 2 and loss > max(previous_losses[-3:]):
 				session.run(model.learning_rate_decay_op)
+			# with tf.name_scope('summaries'):
+			tf.summary.scalar('Training loss', loss)
+
 			previous_losses.append(loss)
+			train_ppx.append(perplexity)
 			# Save checkpoint and zero timer and loss.
 			checkpoint_path = os.path.join(MODELS_DIR, "chatbot.ckpt")
 			model.saver.save(session, checkpoint_path, global_step=model.global_step)
 			step_time, loss = 0.0, 0.0
 			# Run evals on development set and print their perplexity.
+			eval_loss = 0
 			for bucket_id in xrange(len(BUCKETS)):
 				if len(dev_set[bucket_id]) == 0:
 					print("  eval: empty bucket %d" % (bucket_id))
 					continue
 				encoder_inputs, decoder_inputs, target_weights = model.get_batch(
 				  dev_set, bucket_id)
-				_, eval_loss, _ = model.step(session, encoder_inputs, decoder_inputs,
+				_, el, _ = model.step(session, encoder_inputs, decoder_inputs,
 				                           target_weights, bucket_id, True)
-				eval_ppx = math.exp(float(eval_loss)) if eval_loss < 300 else float(
-				  "inf")
-				print("  eval: bucket %d perplexity %.2f" % (bucket_id, eval_ppx))
+				eval_loss += el
+			eval_loss /= len(BUCKETS) * 1.
+			# with tf.name_scope('summaries'):
+			tf.summary.scalar('Validation loss', eval_loss)
+			validation_losses.append(eval_loss)
+			eval_ppx = math.exp(float(eval_loss)) if eval_loss < 300 else float(
+			  "inf")
+			val_ppx.append(eval_ppx)
+				# print("  eval: bucket %d perplexity %.2f" % (bucket_id, eval_ppx))
 			sys.stdout.flush()
+			print "Iter:", model.global_step.eval(),"Train loss:", previous_losses[-1], "validation loss:", eval_loss
 
-	return model
+	return previous_losses, validation_losses, train_ppx, val_ppx
 
 def softmax(scores):
 
@@ -239,8 +256,8 @@ def test(session, model, sentence):
 if __name__ == "__main__":
 	data = prepare()
 	with tf.Session() as sess:
-		model = create_model(sess, conf={'test':True})
-		# model = train(sess, model, data)
-		while True:
-			sent = raw_input("You:")
-			print test(sess, model, sent)
+		model = create_model(sess, conf={'test':False})
+		model = train(sess, model, data)
+		# while True:
+		# 	sent = raw_input("You:")
+		# 	print test(sess, model, sent)
