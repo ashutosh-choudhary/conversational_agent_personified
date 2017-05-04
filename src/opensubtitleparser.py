@@ -15,8 +15,8 @@ inc = 0
 
 def main():
     parser = argparse.ArgumentParser(description='Set parameters for xml parser.')
-    parser.add_argument('--rootXmlDir', default="../res/osdb/set1/OpenSubtitles/en/", help='Path to root directory of xml files')
-    parser.add_argument('--dataDir', default="../res/osdb/set1/data/", help='Path to directory process data will be saved.')
+    parser.add_argument('--rootXmlDir', default="../data/osdb_raw_data/set1/OpenSubtitles2016/xml/en/", help='Path to root directory of xml files')
+    parser.add_argument('--dataDir', default="../data/osdb_clean_data/set1/data/", help='Path to directory process data will be saved.')
     args = parser.parse_args()
     processed_data_dir =  args.dataDir
     raw_data_dir = args.rootXmlDir

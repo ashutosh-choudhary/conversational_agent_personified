@@ -3,13 +3,13 @@
 echo 'Downloading dataset...'
 
 #download dataset first,
-wget http://opus.lingfil.uu.se/download.php?f=OpenSubtitles/en.tar.gz
+wget http://opus.lingfil.uu.se/download.php?f=OpenSubtitles2016/en.tar.gz
 
 echo 'Moving to res subdirectory...'
-mkdir -p ../res/osdb/set1/
-mv download.php?f=OpenSubtitles%2Fen.tar.gz ../res/osdb/set1/metadata.tar.gz
+mkdir -p ../data/osdb_raw_data/set1/
+mv download.php?f=OpenSubtitles2016%2Fen.tar.gz ../data/osdb_raw_data/set1/metadata.tar.gz
 
-cd ../res/osdb/set1/
+cd ../data/osdb_raw_data/set1
 
 echo 'Unzipping dataset...'
 
