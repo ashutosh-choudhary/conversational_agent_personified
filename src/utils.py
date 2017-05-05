@@ -46,9 +46,9 @@ class PersonaLang:
         self.name = name
         self.n_persona = 1
         self.persona2index = {'UNK': 0}
-        self.word2index = {'SOS': 0, 'EOS': 1, 'UNK': 2}
+        self.word2index = {'PAD':PAD_token, 'SOS': SOS_token, 'EOS': EOS_token, 'UNK': UNK_token}
         self.word2count = {}
-        self.index2word = {0: "SOS", 1: "EOS", 2: 'UNK'}
+        self.index2word = {PAD_token:'PAD', SOS_token: "SOS", EOS_token: "EOS", UNK_token: 'UNK'}
         self.max_length = -1
         self.n_words = 3 # Count SOS and EOS
         self.persona2count = {}
@@ -177,6 +177,9 @@ def variablesFromPairPersona(lang, pair):
     # create sentence pairs
     p1 = variableFromPersona(lang, pair[0].split(':')[0].strip().lower())
     p2 = variableFromPersona(lang, pair[1].split(':')[0].strip().lower())
-    input_variable = variableFromSentence(lang, pair[0].split(':')[1].strip().lower())
-    target_variable = variableFromSentence(lang, pair[1].split(':')[1].strip().lower())
-    return (p1, input_variable, p2, target_variable)
+    question = pair[0].split(':')[1].strip().lower()
+    answer = pair[1].split(':')[1].strip().lower()
+    encoder_input, encoder_sequence_length = variableFromSentence(lang, question)
+    decoder_input, decoder_sequence_length = variableFromSentence(lang, answer, decoder_flag=DECODER_INPUT_TYPE)
+    decoder_target, _ = variableFromSentence(lang, answer, decoder_flag=DECODER_TARGET_TYPE)
+    return (p1, encoder_input, encoder_sequence_length, p2, decoder_input, decoder_target, decoder_sequence_length)

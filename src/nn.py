@@ -46,7 +46,7 @@ class DecoderRNN(nn.Module):
         self.out = nn.Linear(hidden_size, lang.n_words).cuda()
         self.softmax = nn.LogSoftmax()
         
-    def forward(self, input, hidden, context, p1, p2):
+    def forward(self, input, hidden, context, question_persona_batch, answer_persona_batch):
 
         # context = N x H need to convert N x (T + 1) x H
         # input = N x (T + 1)
@@ -55,6 +55,7 @@ class DecoderRNN(nn.Module):
         N, T = input.size()
         T -= 1 # as input is T+1
         H = context.size()[1]
+        persona_size = answer_persona_batch.size()[1]
 
         output = self.embedding(input)
 
@@ -63,9 +64,11 @@ class DecoderRNN(nn.Module):
         multi_context = torch.cat(multi_context, 1).view(N, T+1, H)
         # output is N x (T + 1) x D, need to concatenate with context which is N x H to produce N x T x (D + H)
         items = [output, multi_context]
-        if p1 is not None and p2 is not None:
+        if question_persona_batch is not None and answer_persona_batch is not None:
             # Only speaker embedding for now
-            items.append(p2.view(1, -1))
+            p2 = [answer_persona_batch.view(N, 1, persona_size) for t in xrange(T+1)]
+            p2 = torch.cat(p2, 2).view(N, T+1, persona_size)
+            items.append(p2)
 
         output = torch.cat(items, 2).view(N, T+1, -1)
         output = F.relu(output)
@@ -98,7 +101,7 @@ class AttentionDecoder(nn.Module):
         self.r_layer = torch.nn.Linear(hidden_size, D_size).cuda() # here second context size is D
         self.u_layer = torch.nn.Linear(D_size, 1).cuda() # here context size is D
         
-    def forward(self, input, hidden, encoder_states, wf_mat, mask, p1, p2):
+    def forward(self, input, hidden, encoder_states, wf_mat, mask, question_persona_batch, answer_persona_batch):
         
         N = input.size()[0]
         T = encoder_states.size()[1]
@@ -120,7 +123,10 @@ class AttentionDecoder(nn.Module):
 
         # print "tanh", tanh.size()
         u_t = self.u_layer(tanh).view(N, T, 1) # f x 1
-        u_t = torch.addcmul(Variable(cuda.FloatTensor(N, T).zero_()),u_t, mask).view(N, T)
+        temp_zero = Variable(cuda.FloatTensor(N, T).zero_(), requires_grad=False)
+        u_t = torch.addcmul(temp_zero,u_t, mask).view(N, T)
+
+        del temp_zero
 
         # print "u", u_t.size()
         a_t = self.a_layer(u_t) # N x T
@@ -134,15 +140,16 @@ class AttentionDecoder(nn.Module):
         a_t = torch.cat(a_t, 1)
 
         # weighted product
-        context = torch.addcmul(Variable(cuda.FloatTensor(N*T, self.context_size).zero_()), a_t, encoder_states)
-        context = context.view(N, T, self.context_size) # this is NT x H , reshape to N x T x H
+        temp_zero = Variable(cuda.FloatTensor(N*T, self.context_size).zero_())
+        context = torch.addcmul(temp_zero, a_t, encoder_states).view(N, T, self.context_size) # this is NT x H , reshape to N x T x H
+        del temp_zero
         # get weighted sum along the time axis
         context = torch.sum(context, 1).view(N, self.context_size) # context size should be N x H
 
         items = [output, context]
-        if p1 is not None and p2 is not None:
+        if question_persona_batch is not None and answer_persona_batch is not None:
             # Only speaker embedding for now
-            items.append(p2.view(1, -1))
+            items.append(answer_persona_batch)
 
         output = torch.cat(items, 1)
         output = F.relu(output).view(N, 1, -1)
@@ -166,6 +173,7 @@ class Seq2Seq(object):
 
         self.attention = attention
         self.persona = persona
+        self.persona_size = persona_size or None
         if persona is True:
             self.persona_embedding = nn.Embedding(lang.n_persona, persona_size).cuda() # emb_dims of character is 20
         if reload_model is True:
@@ -173,7 +181,6 @@ class Seq2Seq(object):
             self.decoder = torch.load(open('../models/decoder.pth'))        
         else:
             self.encoder = EncoderRNN(lang, enc_size, max_length, emb_dims)
-            persona_size = None
             if attention is True:
                 self.D_size = self.encoder.hidden_size
                 self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, persona_size, self.D_size, emb_dims, self.encoder.embedding)
@@ -198,29 +205,31 @@ class Seq2Seq(object):
     def forward(self, batch_pairs, train=True):
 
         N = len(batch_pairs)
-
-        # pair = tuple of (question, answer)
-        # if self.persona is True:
-        #     (persona1, input_variable, input_length, persona2, target_variable, target_length) = utils.variablesFromPairPersona(self.lang, pair)
-        #     p1 = self.persona_embedding(persona1).view(1, -1)
-        #     p2 = self.persona_embedding(persona2).view(1, -1)
-        # else:
         encoder_input_batch = Variable(cuda.LongTensor(N, self.max_length).zero_(), requires_grad=False)
         decoder_input_batch = Variable(cuda.LongTensor(N, self.max_length + 1).zero_(), requires_grad=False) # start with SOS token
         decoder_target_batch = Variable(cuda.LongTensor(N, self.max_length + 1).zero_(), requires_grad=False)
+        if self.persona is True:
+            question_persona_batch = Variable(cuda.FloatTensor(N, self.persona_size).zero_(), requires_grad=False)
+            answer_persona_batch = Variable(cuda.FloatTensor(N, self.persona_size).zero_(), requires_grad=False)
+        else:
+            question_persona_batch = None
+            answer_persona_batch = None
         encoder_input_batch_len = []
         decoder_input_batch_len = []
         for i in xrange(N):    
-            (encoder_input_variable, encoder_sequence_length, decoder_input_variable, decoder_target_variable, decoder_sequence_length) = utils.variablesFromPair(self.lang, batch_pairs[i])
-            encoder_input_batch[i] = encoder_input_variable
-            decoder_input_batch[i] = decoder_input_variable
-            decoder_target_batch[i] = decoder_target_variable
+            if self.persona is False:
+                (encoder_input, encoder_sequence_length, decoder_input, decoder_target, decoder_sequence_length) = utils.variablesFromPair(self.lang, batch_pairs[i])
+            else:
+                (p1, encoder_input, encoder_sequence_length, p2, decoder_input, decoder_target, decoder_sequence_length) = utils.variablesFromPairPersona(self.lang, batch_pairs[i])    
+                question_persona_batch[i] = self.persona_embedding(p1).view(1, -1)
+                answer_persona_batch[i] = self.persona_embedding(p2).view(1, -1)
+            encoder_input_batch[i] = encoder_input
+            decoder_input_batch[i] = decoder_input
+            decoder_target_batch[i] = decoder_target
             encoder_input_batch_len.append(encoder_sequence_length)
             decoder_input_batch_len.append(decoder_sequence_length)
         encoder_input_batch_len = cuda.LongTensor(encoder_input_batch_len)
         decoder_input_batch_len = cuda.LongTensor(decoder_input_batch_len)
-        p1 = None
-        p2 = None
 
         encoder_hidden = self.encoder.initHidden(N)
         decoder_hidden = self.decoder.initHidden(N)
@@ -244,20 +253,19 @@ class Seq2Seq(object):
                 t = encoder_input_batch_len[i]
                 mask[i, :t+1, :] = 1
 
-        # print torch.mean(encoder_output)
         del encoder_input_batch
         
         response = []
         loss = 0
         if train is True:
             if self.attention is False:
-                decoder_output_batch, decoder_hidden = self.decoder(decoder_input_batch, decoder_hidden, last_encoder_states, p1, p2)
+                decoder_output_batch, decoder_hidden = self.decoder(decoder_input_batch, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
             else:
-                decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False))
+                # decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False))
                 decoder_output_batch = []
                 for t in xrange(self.max_length):
-                    decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, 
-                                                                        encoder_output, self.wf, mask, p1, p2)
+                    decoder_step_output, decoder_hidden = self.decoder(decoder_input_batch[:, t], decoder_hidden, 
+                                                                        encoder_output, self.wf, mask, question_persona_batch, answer_persona_batch)
                     decoder_output_batch.append(decoder_step_output)
                     #input, hidden, encoder_states, wf_mat, p1, p2
                 decoder_output_batch = torch.cat(decoder_output_batch, 1)
@@ -272,9 +280,9 @@ class Seq2Seq(object):
             for t in xrange(self.max_length):
                 if self.attention is True:
                     decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, 
-                                                                        encoder_output, self.wf, mask, p1, p2)
+                                                                        encoder_output, self.wf, mask, question_persona_batch, answer_persona_batch)
                 else:
-                    decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, p1, p2)
+                    decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
                 decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
                 scores, idx = torch.max(decoder_step_output, 1)
                 decoder_step_input = idx
@@ -317,6 +325,8 @@ class Seq2Seq(object):
         
         del decoder_target_batch
         del decoder_input_batch
-        # del decoder_output_batch
+        del encoder_sequence_length
+        del decoder_sequence_length
+        
         response = [' '.join(resp[1:-1]) for resp in response]
         return response, loss
