@@ -15,6 +15,10 @@ EOS_token = 2
 UNK_token = 3
 MAX_LENGTH = 20
 
+NO_DECODER = 0
+DECODER_INPUT_TYPE = 1
+DECODER_TARGET_TYPE = 2
+
 class Lang:
     def __init__(self, name):
         self.name = name
@@ -120,9 +124,13 @@ def prepare_data(fname, persona=False):
     print "Done"
     return lang, pairs
 
-def indexesFromSentence(lang, sentence):
+def indexesFromSentence(lang, sentence, decoder_flag):
 #     return [lang.word2index[word] for word in sentence.split(' ')]
+    
     indices = []
+    if decoder_flag == DECODER_INPUT_TYPE:
+        indices.append(SOS_token)
+
     words = sentence.split()
     sentence_length = len(words)
     for i in xrange(lang.max_length):
@@ -134,17 +142,22 @@ def indexesFromSentence(lang, sentence):
             word = 'PAD'
         index = lang.word2index[word]
         indices.append(index)
+    if decoder_flag == NO_DECODER:
+        if sentence_length >= lang.max_length:
+            indices[lang.max_length - 1] = EOS_token
+        elif sentence_length < lang.max_length:
+            indices[sentence_length] = EOS_token
+    elif decoder_flag == DECODER_TARGET_TYPE:
+        if sentence_length >= lang.max_length:
+            indices.append(EOS_token)
+        elif sentence_length < lang.max_length:
+            indices[sentence_length] = EOS_token
+            indices.append(PAD_token)
 
-    if sentence_length > lang.max_length:
-        indices[lang.max_length - 1] = EOS_token
-    elif sentence_length <= lang.max_length:
-        indices[sentence_length - 1] = EOS_token
-    return indices, min(sentence_length + 1, lang.max_length)
+    return indices, min(sentence_length, lang.max_length - 1)
 
-def variableFromSentence(lang, sentence, target=False):
-    indexes, length = indexesFromSentence(lang, sentence)
-    if target is True:
-        indexes.insert(0, SOS_token) # start with SOS token
+def variableFromSentence(lang, sentence, decoder_flag=NO_DECODER):
+    indexes, length = indexesFromSentence(lang, sentence, decoder_flag)
     return (Variable(cuda.LongTensor(indexes).view(-1, 1), requires_grad=False), length)
 
 def variableFromPersona(lang, persona):
@@ -155,9 +168,10 @@ def variableFromPersona(lang, persona):
     return Variable(cuda.LongTensor(indexes).view(-1, 1), requires_grad=False)
 
 def variablesFromPair(lang, pair):
-    input_variable, input_length = variableFromSentence(lang, pair[0])
-    target_variable, target_length = variableFromSentence(lang, pair[1], target=True)
-    return (input_variable, input_length, target_variable, target_length)
+    encoder_input, encoder_sequence_length = variableFromSentence(lang, pair[0])
+    decoder_input, decoder_sequence_length = variableFromSentence(lang, pair[1], decoder_flag=DECODER_INPUT_TYPE)
+    decoder_target, _ = variableFromSentence(lang, pair[1], decoder_flag=DECODER_TARGET_TYPE)
+    return (encoder_input, encoder_sequence_length, decoder_input, decoder_target, decoder_sequence_length)
 
 def variablesFromPairPersona(lang, pair):
     # create sentence pairs
