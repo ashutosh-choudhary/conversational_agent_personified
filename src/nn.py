@@ -55,7 +55,6 @@ class DecoderRNN(nn.Module):
         N, T = input.size()
         T -= 1 # as input is T+1
         H = context.size()[1]
-        persona_size = answer_persona_batch.size()[1]
 
         output = self.embedding(input)
 
@@ -65,6 +64,7 @@ class DecoderRNN(nn.Module):
         # output is N x (T + 1) x D, need to concatenate with context which is N x H to produce N x T x (D + H)
         items = [output, multi_context]
         if question_persona_batch is not None and answer_persona_batch is not None:
+            persona_size = answer_persona_batch.size()[1]
             # Only speaker embedding for now
             p2 = [answer_persona_batch.view(N, 1, persona_size) for t in xrange(T+1)]
             p2 = torch.cat(p2, 2).view(N, T+1, persona_size)
@@ -173,8 +173,9 @@ class Seq2Seq(object):
 
         self.attention = attention
         self.persona = persona
-        self.persona_size = persona_size or None
+        self.persona_size = None
         if persona is True:
+            self.persona_size = persona_size
             self.persona_embedding = nn.Embedding(lang.n_persona, persona_size).cuda() # emb_dims of character is 20
         if reload_model is True:
             self.encoder = torch.load(open('../models/encoder.pth'))
@@ -183,9 +184,9 @@ class Seq2Seq(object):
             self.encoder = EncoderRNN(lang, enc_size, max_length, emb_dims)
             if attention is True:
                 self.D_size = self.encoder.hidden_size
-                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, persona_size, self.D_size, emb_dims, self.encoder.embedding)
+                self.decoder = AttentionDecoder(lang, max_length, dec_size, enc_size, self.persona_size, self.D_size, emb_dims, self.encoder.embedding)
             else:
-                self.decoder = DecoderRNN(lang, dec_size, enc_size, persona_size, emb_dims, max_length, self.encoder.embedding)
+                self.decoder = DecoderRNN(lang, dec_size, enc_size, self.persona_size, emb_dims, max_length, self.encoder.embedding)
 
         self.max_length = max_length
         self.encoder_optimizer = optim.Adam(self.encoder.parameters(), lr=learning_rate)

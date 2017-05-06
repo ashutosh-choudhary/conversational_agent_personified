@@ -108,10 +108,7 @@ class RNNBase(Module):
         s += ')'
         return s.format(name=self.__class__.__name__, **self.__dict__)
 
-    def set_weights(self, d):
-        self.__dict__.update(d)
-        if 'all_weights' in d:
-            self._all_weights = d['all_weights']
+    def set_weights(self, pretrained_weights):
         if isinstance(self._all_weights[0][0], str):
             return
         num_layers = self.num_layers
@@ -123,11 +120,11 @@ class RNNBase(Module):
                 weights = ['weight_ih_l{}{}', 'weight_hh_l{}{}', 'bias_ih_l{}{}', 'bias_hh_l{}{}']
                 weights = [x.format(layer, suffix) for x in weights]
                 
-                setattr(self, weights[0], d['all_weights'][layer][0])
-                setattr(self, weights[1], d['all_weights'][layer][1])
+                setattr(self, weights[0], pretrained_weights[layer][0])
+                setattr(self, weights[1], pretrained_weights[layer][1])
                 if self.bias:
-                    setattr(self, weights[2], d['all_weights'][layer][2])
-                    setattr(self, weights[3], d['all_weights'][layer][3])
+                    setattr(self, weights[2], pretrained_weights[layer][2])
+                    setattr(self, weights[3], pretrained_weights[layer][3])
                     self._all_weights += [weights]
                 else:
                     self._all_weights += [weights[:2]]
