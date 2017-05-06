@@ -301,7 +301,6 @@ class Seq2Seq(object):
                 else:
                     decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
                 decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
-                # Multiply scores with random values
 
                 # Idea is to pick the next word randomly from the probability distribution over the words
                 scores, idx = torch.topk(decoder_step_output, 100, 1)
