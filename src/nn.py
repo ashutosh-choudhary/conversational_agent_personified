@@ -198,10 +198,25 @@ class Seq2Seq(object):
         self.criterion = nn.NLLLoss() # Negative log loss
         # self.summary_op = tf.summary.merge_all()
 
-    def save_model(self):
+    def save_model(self, model_path='../models/seq2seq/'):
+        torch.save(self.encoder.state_dict(), open(model_path + 'encoder', 'wb'))
+        torch.save(self.decoder.state_dict(), open(model_path + 'decoder', 'wb'))
+        if self.attention is True:
+            torch.save(self.wf_layer.state_dict(), open(model_path + 'wf', 'wb'))
+        if self.persona is True:
+            torch.save(self.persona_embedding.state_dict(), open(model_path + 'persona', 'wb'))
 
-        torch.save(self.encoder, '../models/encoder.pth')
-        torch.save(self.decoder, '../models/decoder.pth')
+    def load_model(self, model_path='../models/seq2seq/'):
+        enc_state = torch.load(open(model_path + 'encoder'))
+        self.encoder.load_state_dict(enc_state)
+        dec_state = torch.load(open(model_path + 'decoder'))
+        self.decoder.load_state_dict(dec_state)
+        if self.attention is True:
+            wf_state = torch.load(open(model_path + 'wf'))
+            self.wf_layer.load_state_dict(wf_state)
+        if self.persona is True:
+            pers_state = torch.load(open(model_path + 'persona'))
+            self.persona_embedding.load_state_dict(pers_state)
 
     def forward(self, batch_pairs, train=True):
 
@@ -285,6 +300,8 @@ class Seq2Seq(object):
                 else:
                     decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
                 decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
+                # Multiply scores with random values
+
                 scores, idx = torch.max(decoder_step_output, 1)
                 decoder_step_input = idx
                 for i in xrange(N):
