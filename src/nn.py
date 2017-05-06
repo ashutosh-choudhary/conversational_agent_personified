@@ -7,6 +7,7 @@ import torch.nn.functional as F
 from pytorch_rnn import *
 import utils
 import numpy as np
+from scipy.misc import logsumexp
 # import tensorflow as tf
 
 class EncoderRNN(nn.Module):
@@ -302,11 +303,18 @@ class Seq2Seq(object):
                 decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
                 # Multiply scores with random values
 
-                scores, idx = torch.max(decoder_step_output, 1)
-                decoder_step_input = idx
+                # Idea is to pick the next word randomly from the probability distribution over the words
+                scores, idx = torch.topk(decoder_step_output, 100, 1)
+                # Convert scores to probabilities from log(p) = p and normalize the top 100 scores
+                p = scores.data.cpu().numpy()
+                p -= np.array([logsumexp(p, 1)]).T # Normalize in a numerically stable way
+                p = np.exp(p) # obtain the probabilities
+                pi = idx.data.cpu().numpy() # obtain the indices in numpy array
+
                 for i in xrange(N):
-                    word = self.lang.index2word[idx[i].data[0]]
-                    # print word, np.exp(scores[i].data[0])
+                    ind = np.random.choice(pi[i, :], p=p[i, :]) # Randomly choose based on the probability distribution of scores
+                    decoder_step_input[i].data = cuda.LongTensor([ind]) # Make that the next input
+                    word = self.lang.index2word[ind]
                     if response[i][-1] != self.lang.index2word[utils.EOS_token]:
                         response[i].append(word)
 
