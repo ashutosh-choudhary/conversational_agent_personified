@@ -8,7 +8,14 @@ from pytorch_rnn import *
 import utils
 import numpy as np
 from scipy.misc import logsumexp
+from pynvml import *
 # import tensorflow as tf
+nvmlInit()
+GPU_handle = nvmlDeviceGetHandleByIndex(0)
+
+def print_gpu_status(label=-1):
+    gpu_info = nvmlDeviceGetMemoryInfo(GPU_handle)
+    print "line:", label, "MEM:", float(gpu_info.free) / (1024**3)
 
 class EncoderRNN(nn.Module):
     def __init__(self, lang, hidden_size, max_length, emb_dims):
@@ -170,11 +177,14 @@ class AttentionDecoder(nn.Module):
 class Seq2Seq(object):
     # Does not work on batches yet, just works on a single question and answer
 
-    def __init__(self, lang, enc_size, dec_size, emb_dims, max_length, learning_rate, attention=False, reload_model=False, persona=False, persona_size=None):
+    def __init__(self, lang, enc_size, dec_size, emb_dims, max_length, learning_rate, #graph,
+            attention=False, reload_model=False, persona=False, persona_size=None):
 
         self.attention = attention
         self.persona = persona
         self.persona_size = None
+
+        # self.graph = graph
         if persona is True:
             self.persona_size = persona_size
             self.persona_embedding = nn.Embedding(lang.n_persona, persona_size).cuda() # emb_dims of character is 20
@@ -197,7 +207,9 @@ class Seq2Seq(object):
             self.wf_layer = torch.nn.Linear(self.encoder.hidden_size, self.D_size).cuda()
         
         self.criterion = nn.NLLLoss() # Negative log loss
-        # self.summary_op = tf.summary.merge_all()
+        # with self.graph.as_default() as graph:
+        #     self.writer = tf.summary.FileWriter('logs/')
+        #     self.summary_op = tf.summary.merge_all()
 
     def save_model(self, model_path='../models/seq2seq/'):
         torch.save(self.encoder.state_dict(), open(model_path + 'encoder', 'wb'))
@@ -219,7 +231,7 @@ class Seq2Seq(object):
             pers_state = torch.load(open(model_path + 'persona'))
             self.persona_embedding.load_state_dict(pers_state)
 
-    def forward(self, batch_pairs, train=True):
+    def forward(self, batch_pairs, train=True, decode_flag='greedy', random_sample_size=100, beam_size=2):
 
         N = len(batch_pairs)
         encoder_input_batch = Variable(cuda.LongTensor(N, self.max_length).zero_(), requires_grad=False)
@@ -292,61 +304,109 @@ class Seq2Seq(object):
                 loss += self.criterion(decoder_output_batch[i, :t+1, :], decoder_target_batch[i, :t+1])
         else:
             # greedy decode
-            response = [[self.lang.index2word[utils.SOS_token]] for i in xrange(N)]
-            decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False)) # To make it N x 1
-            for t in xrange(self.max_length):
-                if self.attention is True:
-                    decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, 
-                                                                        encoder_output, self.wf, mask, question_persona_batch, answer_persona_batch)
-                else:
-                    decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
-                decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
+            if decode_flag == 'greedy':
+                response = [[self.lang.index2word[utils.SOS_token]] for i in xrange(N)]
+                decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False)) # To make it N x 1
+                for t in xrange(self.max_length):
+                    if self.attention is True:
+                        decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, 
+                                                                            encoder_output, self.wf, mask, question_persona_batch, answer_persona_batch)
+                    else:
+                        decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
+                    decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
 
-                # Idea is to pick the next word randomly from the probability distribution over the words
-                scores, idx = torch.topk(decoder_step_output, 100, 1)
-                # Convert scores to probabilities from log(p) = p and normalize the top 100 scores
-                p = scores.data.cpu().numpy()
-                p -= np.array([logsumexp(p, 1)]).T # Normalize in a numerically stable way
-                p = np.exp(p) # obtain the probabilities
-                pi = idx.data.cpu().numpy() # obtain the indices in numpy array
-
-                for i in xrange(N):
-                    ind = np.random.choice(pi[i, :], p=p[i, :]) # Randomly choose based on the probability distribution of scores
-                    decoder_step_input[i].data = cuda.LongTensor([ind]) # Make that the next input
-                    word = self.lang.index2word[ind]
-                    if response[i][-1] != self.lang.index2word[utils.EOS_token]:
-                        response[i].append(word)
-
-            # assert False
-            # response = []
-            # for di in xrange(self.max_length):
-            #     if self.attention is True:
-            #         decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_states, self.wf, p1, p2)
-            #     else:
-            #         decoder_output, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_output[0][0], p1, p2)
-            #     topv, topi = decoder_output.data.topk(1)
-            #     ind = topi[0][0]
-            #     if ind == utils.EOS_token:
-            #         break
-            #     decoder_input = Variable(cuda.LongTensor([[ind]]), requires_grad=False)
-            #     response.append(self.lang.index2word[ind])
-
-            # This implementation of beam search is wrong, we need to predict and follow the pointers back.
-            # beam_size = 5
-            # di = 0
-            # while di < self.max_length:
-
-
+                    # Idea is to pick the next word randomly from the probability distribution over the words
                     
-                
-        # tf.summary.scalar('loss', loss)
+                    # Argmax code
+                    scores, idx = torch.max(decoder_step_output, 1)
+                    decoder_step_input = idx
 
-        
+                    for i in xrange(N):
+
+                        # Argmax code
+                        word = self.lang.index2word[idx[i].data[0]]
+                        if response[i][-1] != self.lang.index2word[utils.EOS_token]:
+                            response[i].append(word)
+
+            # Random sampling code
+            elif decode_flag == 'random':
+                response = [[self.lang.index2word[utils.SOS_token]] for i in xrange(N)]
+                decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False)) # To make it N x 1
+                for t in xrange(self.max_length):
+                    if self.attention is True:
+                        decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, 
+                                                                            encoder_output, self.wf, mask, question_persona_batch, answer_persona_batch)
+                    else:
+                        decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
+                    decoder_step_output = decoder_step_output.view(N, self.lang.n_words)
+
+                    # Idea is to pick the next word randomly from the probability distribution over the words
+
+                    # Random sampling code
+                    scores, idx = torch.topk(decoder_step_output, random_sample_size, 1)
+                    # Convert scores to probabilities from log(p) = p and normalize the top 100 scores
+                    p = scores.data.cpu().numpy()
+                    p -= np.array([logsumexp(p, 1)]).T # Normalize in a numerically stable way
+                    p = np.exp(p) # obtain the probabilities
+                    pi = idx.data.cpu().numpy() # obtain the indices in numpy array
+
+                    for i in xrange(N):
+                        # Random sampling code
+                        ind = np.random.choice(pi[i, :], p=p[i, :]) # Randomly choose based on the probability distribution of scores
+                        decoder_step_input[i].data = cuda.LongTensor([ind]) # Make that the next input
+                        word = self.lang.index2word[ind]
+                        if response[i][-1] != self.lang.index2word[utils.EOS_token]:
+                            response[i].append(word)
+
+            # Beam decode
+            else:
+                assert N == 1 # Beam decode works only on one example at a time
+
+                
+                print_gpu_status(382)
+                response = [[] for b in xrange(beam_size)]
+                # insertion_list = [(-np.float('inf'), utils.SOS_token, decoder_hidden)]
+                insertion_list = [(-np.float('inf'), utils.SOS_token, decoder_hidden) for b in xrange(beam_size)]
+                # start with -inf 
+                for t in xrange(self.max_length):
+                    insertion_list_copy = [(-np.float('inf'), utils.SOS_token, decoder_hidden) for b in xrange(beam_size)]
+                    # starts with beer and i, and it's probability
+
+                    for (lprob, ind, hstate) in insertion_list:
+                        decoder_step_input = torch.t(Variable(cuda.LongTensor([[ind]]), requires_grad=False))
+                        if self.attention is True:
+                            decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, hstate, encoder_output, self.wf,
+                                                                                mask, question_persona_batch, answer_persona_batch)
+                        else:
+                            decoder_step_output, decoder_hidden = self.decoder(decoder_step_input, hstate, last_encoder_states,
+                                                                                question_persona_batch, answer_persona_batch)
+                        logprob, idx = torch.topk(decoder_step_output[0][0] + lprob, beam_size) # first sample, first tsteps
+
+                        for (lprob, ind) in zip(logprob, idx):
+                            key = lprob
+                            insertion_list_copy.append((lprob, ind, decoder_hidden))
+                            i = len(insertion_list_copy) - 1
+                            while i>0 and insertion_list_copy[i][0] > insertion_list_copy[i-1][0]:
+                                insertion_list_copy[i-1] = insertion_list_copy[i]
+                                i -= 1
+                            if len(insertion_list_copy) > beam_size:
+                                del insertion_list_copy[-1]
+                            insertion_list_copy = insertion_list_copy[:beam_size]
+
+                    # correctly beer and i added
+                    insertion_list = [i for i in insertion_list_copy]
+                    del insertion_list_copy 
+
+                
+
         # Step back
         if train is True:
+            # with self.graph.as_default() as graph:
+            #     tf.summary.scalar('loss', loss.data[0].cpu().numpy())
             loss.backward()
             self.encoder_optimizer.step()
             self.decoder_optimizer.step()
+
         
         del decoder_target_batch
         del decoder_input_batch
