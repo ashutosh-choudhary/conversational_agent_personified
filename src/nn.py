@@ -207,7 +207,7 @@ class Seq2Seq(object):
             self.wf_layer = torch.nn.Linear(self.encoder.hidden_size, self.D_size).cuda()
         
         self.criterion = nn.NLLLoss() # Negative log loss
-        # with self.graph.as_default() as graph:
+        # with self.graph.as_default():
         #     self.writer = tf.summary.FileWriter('logs/')
         #     self.summary_op = tf.summary.merge_all()
 
@@ -290,7 +290,6 @@ class Seq2Seq(object):
             if self.attention is False:
                 decoder_output_batch, decoder_hidden = self.decoder(decoder_input_batch, decoder_hidden, last_encoder_states, question_persona_batch, answer_persona_batch)
             else:
-                # decoder_step_input = torch.t(Variable(cuda.LongTensor([[utils.SOS_token]*N]), requires_grad=False))
                 decoder_output_batch = []
                 for t in xrange(self.max_length):
                     decoder_step_output, decoder_hidden = self.decoder(decoder_input_batch[:, t], decoder_hidden, 
@@ -401,12 +400,12 @@ class Seq2Seq(object):
 
         # Step back
         if train is True:
-            # with self.graph.as_default() as graph:
+            # with self.graph.as_default():
             #     tf.summary.scalar('loss', loss.data[0].cpu().numpy())
             loss.backward()
             self.encoder_optimizer.step()
             self.decoder_optimizer.step()
-
+            loss = loss.data[0]
         
         del decoder_target_batch
         del decoder_input_batch
